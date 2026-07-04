@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "059",
+  "anio": "2026",
+  "titulo": "Decreto núm. 059-2026",
+  "fecha": "30 de Enero 2026 | 18:14",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/59-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-01/Decreto%2059-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-059-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-059-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-059-2026.json",
+  "sha256_pdf_original": "5f4e8b2d4d9388d00eb440d6bae6c316cd13c6130834d0b7eda344dcca6eb076",
+  "sha256_markdown": "828295609d6622cc2cf3688801a765363a480738269df822ad4ed501ea783d5d",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

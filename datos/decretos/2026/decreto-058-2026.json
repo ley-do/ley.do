@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "058",
+  "anio": "2026",
+  "titulo": "Decreto núm. 058-2026",
+  "fecha": "30 de Enero 2026 | 18:24",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/58-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-01/Decreto%2058-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-058-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-058-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-058-2026.json",
+  "sha256_pdf_original": "222d1c89fd4c0d251fae334cb7da3f04f53641433bf501a4853c379cc57d9ee3",
+  "sha256_markdown": "79d54bc30f6e28e3f55d9fc50f7d342ebca10824cc95cd52aac3525bcd1acdfc",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

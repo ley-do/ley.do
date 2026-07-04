@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "236",
+  "anio": "2026",
+  "titulo": "Decreto núm. 236-2026",
+  "fecha": "27 de Abril 2026 | 20:48",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/236-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-04/Decreto%20236-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-236-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-236-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-236-2026.json",
+  "sha256_pdf_original": "3fbff786cdb6f0cf2197b8eb72105c9672edb44b3cec24996ca575504dd2f9e6",
+  "sha256_markdown": "10765a16f29e31f81f7093fbeb14f50321a2cbf1dfd0dfb8160045b0793c7f37",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

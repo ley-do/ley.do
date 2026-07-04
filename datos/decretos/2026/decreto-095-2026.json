@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "095",
+  "anio": "2026",
+  "titulo": "Decreto núm. 095-2026",
+  "fecha": "12 de Febrero 2026 | 13:12",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/95-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%2095-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-095-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-095-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-095-2026.json",
+  "sha256_pdf_original": "fe7c54f8cf8dc64decf17d469f4b67e027f307b5333edbbe312b5d436c211110",
+  "sha256_markdown": "42fffd86d20c27a07b6fe931bf5d0c2de25852a6a9cc6ad213ba4c9803823e34",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

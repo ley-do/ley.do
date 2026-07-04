@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "298",
+  "anio": "2026",
+  "titulo": "Decreto núm. 298-2026",
+  "fecha": "2 de Mayo 2026 | 12:42",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/298-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-05/Decreto%20298-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-298-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-298-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-298-2026.json",
+  "sha256_pdf_original": "4db9ec8127d4305cb02f6663aaa7b905fe5315cdb79796d3dd7312585ba89b0d",
+  "sha256_markdown": "26e7ee3657d208eab24282113c10099fec6c566d253cc17a0d2c2d826d9d78ad",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

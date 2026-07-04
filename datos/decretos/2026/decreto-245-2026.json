@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "245",
+  "anio": "2026",
+  "titulo": "Decreto núm. 245-2026",
+  "fecha": "16 de Abril 2026 | 12:54",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/245-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-04/Decreto%20245-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-245-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-245-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-245-2026.json",
+  "sha256_pdf_original": "cdd2b7c0880db0daed01d99ba413b12e9dce55e5647bd494337877ae9f06411d",
+  "sha256_markdown": "1f7d072f050eb2ccb5c6a044ff2582a28ac42fc476aa70f1ec2fd80da8e37665",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

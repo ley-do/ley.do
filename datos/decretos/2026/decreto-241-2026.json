@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "241",
+  "anio": "2026",
+  "titulo": "Decreto núm. 241-2026",
+  "fecha": "14 de Abril 2026 | 18:18",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/241-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-04/Decreto%20241-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-241-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-241-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-241-2026.json",
+  "sha256_pdf_original": "0c7cfbd53993fdae283373617b88cc89e7c15c3d9e9128cd679562a0813bf2b1",
+  "sha256_markdown": "85d40075e24ecab700a635be8bca1fe3c0b37a3cc4d6a2f0adc3cc96ec3d010d",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "066",
+  "anio": "2026",
+  "titulo": "Decreto núm. 066-2026",
+  "fecha": "1 de Febrero 2026 | 19:18",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/66-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%2066-26_2.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-066-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-066-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-066-2026.json",
+  "sha256_pdf_original": "bfdcd06e2f6a5905310c496e4c7b5b70013c5266b62dd7c406aafdbb4f564c32",
+  "sha256_markdown": "f6055271e2eb70f96c30cc47b5aa8dce103d286580e0b64d1d73dde85fdf71d4",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

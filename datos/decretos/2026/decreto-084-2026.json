@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "084",
+  "anio": "2026",
+  "titulo": "Decreto núm. 084-2026",
+  "fecha": "9 de Febrero 2026 | 22:12",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/84-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%2084-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-084-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-084-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-084-2026.json",
+  "sha256_pdf_original": "07a05d22286449400182daefb91989bf70e439d40185c377ebcc3920291ee015",
+  "sha256_markdown": "ff26252ad2cf111d72e304ea96cb4daaf9c60b5564353fd7777f8fbdcefa37a1",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "071",
+  "anio": "2026",
+  "titulo": "Decreto núm. 071-2026",
+  "fecha": "7 de Febrero 2026 | 09:40",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/71-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%2071-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-071-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-071-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-071-2026.json",
+  "sha256_pdf_original": "1b0dfb4755a56a565ed610e924a2365017ce7a70d7450f8abb6aed91890630ca",
+  "sha256_markdown": "fde8abce3161cff2ce91fd3b04b8b69623c3ec64e471618a84c540aed89693b6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

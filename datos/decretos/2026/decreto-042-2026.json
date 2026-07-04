@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "042",
+  "anio": "2026",
+  "titulo": "Decreto núm. 042-2026",
+  "fecha": "27 de Enero 2026 | 17:53",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/42-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-01/Decreto%2042-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-042-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-042-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-042-2026.json",
+  "sha256_pdf_original": "76c5ccaf7b7ce6b09165ccbb5f1d2fc9bcb229f359c465fb4181d7de34b4b448",
+  "sha256_markdown": "a089744d55c3541297f6522ce6def67b4dc467f027006b0e42aea923c7611244",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

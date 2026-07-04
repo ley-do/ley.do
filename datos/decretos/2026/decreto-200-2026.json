@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "200",
+  "anio": "2026",
+  "titulo": "Decreto núm. 200-2026",
+  "fecha": "26 de Marzo 2026 | 19:24",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/200-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-03/Decreto%20200-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-200-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-200-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-200-2026.json",
+  "sha256_pdf_original": "7790a5c0095ab0365707d8aa0a75c34f677288d5fac37344ac6504efb82fc7a4",
+  "sha256_markdown": "d38291d44aaa61ef41b2ec9e794610770180bf21139e2cffd4153dc7d20b7e08",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}
