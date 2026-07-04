@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "069",
+  "anio": "2026",
+  "titulo": "Decreto núm. 069-2026",
+  "fecha": "7 de Febrero 2026 | 09:39",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/69-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%2069-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-069-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-069-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-069-2026.json",
+  "sha256_pdf_original": "b8e3c2ac0ae3a2c60caaa7ce9a1676b1618170c5d768e5d81480f1a7fba17fc2",
+  "sha256_markdown": "16abcd7626c95edbdbc6abed4227bce539b11bbf8a6d940388b17be617e39338",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

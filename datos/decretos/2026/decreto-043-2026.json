@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "043",
+  "anio": "2026",
+  "titulo": "Decreto núm. 043-2026",
+  "fecha": "27 de Enero 2026 | 17:54",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/43-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-01/Decreto%2043-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-043-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-043-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-043-2026.json",
+  "sha256_pdf_original": "d5c378c6a253bf3a58158ec43c5fa019ff34627446ace24cf489222ff64463c2",
+  "sha256_markdown": "8e259d08b76227661b69e56eb685c7d224bb30bd15441195933705e9c0a7c080",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

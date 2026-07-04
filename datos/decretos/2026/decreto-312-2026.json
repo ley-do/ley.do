@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "312",
+  "anio": "2026",
+  "titulo": "Decreto núm. 312-2026",
+  "fecha": "7 de Mayo 2026 | 13:38",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/312-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-05/Decreto%20312-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-312-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-312-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-312-2026.json",
+  "sha256_pdf_original": "2a4d121d1503fad150ffbed9fc294c3ba94e8b09d162374ddaed7b8809fc2e07",
+  "sha256_markdown": "311393cfeaffef3f56c539dd40aa281d89690a032a11eb34a98ff5f95b93c10d",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

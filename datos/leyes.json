@@ -1,6 +1,27 @@
 {
   "proyecto": "LEY.DO",
   "version_esquema": "0.1.0",
-  "actualizado_en": null,
-  "documentos": []
+  "actualizado_en": "2026-07-04",
+  "documentos": [
+    {
+      "tipo_documento": "ley",
+      "numero": "030",
+      "anio": "2026",
+      "titulo": "Ley núm. 030-2026",
+      "fecha": "18 de Junio 2026 | 22:20",
+      "institucion_fuente": "Presidencia de la República Dominicana",
+      "url_fuente_oficial": "https://presidencia.gob.do/leyes/ley-30-26",
+      "url_pdf_original": "https://presidencia.gob.do/sites/default/files/laws/2026-06/Ley%2030-26.pdf",
+      "fecha_consulta": "2026-07-04",
+      "ruta_pdf_local": "archivos/leyes/2026/ley-030-2026.pdf",
+      "ruta_markdown": "docs/leyes/2026/ley-030-2026.md",
+      "ruta_json": "datos/leyes/2026/ley-030-2026.json",
+      "sha256_pdf_original": "755b032ca4eb97a82053e41938ab7a4078747fdd81d78cb7287786f19720ed39",
+      "sha256_markdown": "04917529b9791b80807237bfed414852dff7521240598d33a9a965825ad8d55b",
+      "estado_revision": "pendiente_revision",
+      "estado_publicacion": "normalizado",
+      "commit_publicacion": "",
+      "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+    }
+  ]
 }

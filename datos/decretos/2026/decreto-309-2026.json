@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "309",
+  "anio": "2026",
+  "titulo": "Decreto núm. 309-2026",
+  "fecha": "7 de Mayo 2026 | 13:22",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/309-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-05/Decreto%20309-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-309-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-309-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-309-2026.json",
+  "sha256_pdf_original": "6be6b5a310ec59d08ce9ace2cd3212e2ca53d47612ee2a3c954e521918a7cfec",
+  "sha256_markdown": "44c47244593a2318de529ca62015d0f2a9073e8faf402262cc9be0023262cda9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

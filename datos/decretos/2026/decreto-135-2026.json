@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "135",
+  "anio": "2026",
+  "titulo": "Decreto núm. 135-2026",
+  "fecha": "28 de Febrero 2026 | 08:23",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/135-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%20135-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-135-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-135-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-135-2026.json",
+  "sha256_pdf_original": "867a7f092b0c151e6be959af8b02177c912b1f69de6095fe2f70f05d50221b05",
+  "sha256_markdown": "7b96c496f24e4195612aa6c83552e97d92652c32d72d0e52ad0c59649a9dad29",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "070",
+  "anio": "2026",
+  "titulo": "Decreto núm. 070-2026",
+  "fecha": "7 de Febrero 2026 | 09:40",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/70-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%2070-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-070-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-070-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-070-2026.json",
+  "sha256_pdf_original": "4051cb174224c45cf124d5eae0345b38e454e152e55663aa989658237c66df8a",
+  "sha256_markdown": "e9011efa9e3c60150ebfb84887087fa3d1de62a983b179a321cff51263c96a29",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

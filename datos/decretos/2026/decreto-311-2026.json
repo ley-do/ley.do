@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "311",
+  "anio": "2026",
+  "titulo": "Decreto núm. 311-2026",
+  "fecha": "7 de Mayo 2026 | 13:37",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/311-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-05/Decreto%20311-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-311-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-311-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-311-2026.json",
+  "sha256_pdf_original": "c4f703b2504d735691a79be8c046d64726bbc379c556fe6e694724b450145993",
+  "sha256_markdown": "2a10ec4b36af3da4ed04c40ea190ae6ce5f6fbcaac5ffb3d39f7bcaee331fe69",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}

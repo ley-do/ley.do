@@ -1,0 +1,20 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "330",
+  "anio": "2026",
+  "titulo": "Decreto núm. 330-2026",
+  "fecha": "15 de Mayo 2026 | 19:41",
+  "institucion_fuente": "Presidencia de la República Dominicana",
+  "url_fuente_oficial": "https://presidencia.gob.do/decretos/330-26",
+  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-05/Decreto%20330-26.pdf",
+  "fecha_consulta": "2026-07-04",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-330-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-330-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-330-2026.json",
+  "sha256_pdf_original": "7a2c49c0861b24448f5e836bba950cfe238975a1b4e2cb3847576f0061aa04dc",
+  "sha256_markdown": "c703e96a0179a62ec7790d0a86ab85a92b1092f0621e44a0b87e9c1ec78f5fa7",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "commit_publicacion": "",
+  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+}
