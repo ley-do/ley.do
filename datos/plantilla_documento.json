@@ -1,0 +1,18 @@
+{
+  "tipo_documento": "",
+  "numero": "",
+  "anio": "",
+  "titulo": "",
+  "fecha": "",
+  "url_fuente_oficial": "",
+  "url_pdf_original": "",
+  "ruta_pdf_local": "",
+  "ruta_markdown": "",
+  "ruta_json": "",
+  "sha256_pdf_original": "",
+  "sha256_markdown": "",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "descubierto",
+  "commit_publicacion": "",
+  "notas": ""
+}

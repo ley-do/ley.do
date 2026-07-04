@@ -1,0 +1,48 @@
+site_name: LEY.DO
+site_description: Archivo público independiente de documentos legales dominicanos.
+site_url: https://ley.do
+repo_name: ley-do/ley.do
+repo_url: https://github.com/ley-do/ley.do
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - tables
+
+nav:
+  - Inicio: index.md
+  - Constitución:
+      - constitucion/index.md
+  - Leyes:
+      - leyes/index.md
+  - Decretos:
+      - decretos/index.md
+  - Resoluciones:
+      - resoluciones/index.md
+  - Proyectos:
+      - proyectos/index.md
+  - API:
+      - api/index.md
+  - Certificados:
+      - certificados/index.md
+  - Acerca:
+      - acerca/index.md
+      - Descargo: acerca/descargo.md

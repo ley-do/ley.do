@@ -1,0 +1,25 @@
+{
+  "proyecto": "LEY.DO",
+  "descripcion": "Fuentes oficiales dominicanas usadas para descubrimiento y verificación de documentos legales públicos.",
+  "regla": "No agregar una fuente a procesos automatizados hasta verificar que sea una fuente oficial.",
+  "fuentes": [
+    {
+      "nombre": "Consultoría Jurídica del Poder Ejecutivo",
+      "tipo": "oficial",
+      "url": "",
+      "notas": "Agregar URL oficial verificada antes de automatizar ingesta."
+    },
+    {
+      "nombre": "Gaceta Oficial",
+      "tipo": "oficial",
+      "url": "",
+      "notas": "Agregar URL oficial verificada antes de automatizar ingesta."
+    },
+    {
+      "nombre": "Congreso Nacional",
+      "tipo": "oficial",
+      "url": "",
+      "notas": "Agregar URL oficial verificada antes de automatizar ingesta."
+    }
+  ]
+}
