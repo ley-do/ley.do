@@ -1,0 +1,33 @@
+/* Estilos editoriales de LEY.DO */
+
+/*
+  Mejor legibilidad para documentos largos.
+  Se justifica solo el contenido principal, sin afectar tablas,
+  bloques de código, avisos, navegación ni metadata técnica.
+*/
+.md-content__inner > p,
+.md-content__inner li {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+.md-content__inner h1,
+.md-content__inner h2,
+.md-content__inner h3,
+.md-content__inner h4,
+.md-content__inner h5,
+.md-content__inner h6,
+.md-content__inner table,
+.md-content__inner pre,
+.md-content__inner code,
+.md-content__inner .admonition,
+.md-content__inner .highlight {
+  text-align: initial;
+  hyphens: none;
+}
+
+/* Un poco más de aire entre párrafos de textos legales. */
+.md-content__inner > p {
+  margin-bottom: 0.9rem;
+}
