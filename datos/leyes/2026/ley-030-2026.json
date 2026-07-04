@@ -12,9 +12,9 @@
   "ruta_markdown": "docs/leyes/2026/ley-030-2026.md",
   "ruta_json": "datos/leyes/2026/ley-030-2026.json",
   "sha256_pdf_original": "755b032ca4eb97a82053e41938ab7a4078747fdd81d78cb7287786f19720ed39",
-  "sha256_markdown": "04917529b9791b80807237bfed414852dff7521240598d33a9a965825ad8d55b",
+  "sha256_markdown": "4a9dcff7edde60239ea7eb3bf3712eb4fe3381ad25cc2cebf115218871753b9e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "commit_publicacion": "",
-  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+  "notas": "Pendiente de revisión humana. Texto remaquetado desde extracción automática del PDF oficial para mejorar legibilidad, manteniendo separación por páginas; verificar contra el PDF antes de aprobar."
 }
