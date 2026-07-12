@@ -1,5 +1,9 @@
 # Resoluciones
 
+<div class="leydo-panel" markdown>
+Área del corpus dedicada a resoluciones oficiales dominicanas.
+</div>
+
 !!! warning "Aviso"
     LEY.DO no es una fuente oficial. Verifique todo documento contra la fuente oficial indicada. LEY.DO no ofrece asesoría legal.
 
