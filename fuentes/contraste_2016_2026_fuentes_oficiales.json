@@ -1,0 +1,185 @@
+{
+  "tipo_reporte": "contraste_fuentes_oficiales_2016_2026",
+  "fecha_consulta": "2026-07-11",
+  "rama_trabajo": "agente-fuentes/inventario-2016-2026-leyes-decretos",
+  "fuentes_contrastadas": [
+    {
+      "institucion": "Presidencia de la República Dominicana",
+      "url": "https://presidencia.gob.do/decretos y https://presidencia.gob.do/leyes"
+    },
+    {
+      "institucion": "Consultoría Jurídica del Poder Ejecutivo",
+      "url": "https://www.consultoria.gov.do/consulta/"
+    }
+  ],
+  "resumen_por_anio": [
+    {
+      "anio": "2016",
+      "presidencia": {
+        "decretos": 0,
+        "leyes": 0,
+        "otros": 0,
+        "total": 0
+      },
+      "consultoria_juridica": {
+        "decretos": 397,
+        "leyes": 20,
+        "total": 417
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2017",
+      "presidencia": {
+        "decretos": 0,
+        "leyes": 0,
+        "otros": 0,
+        "total": 0
+      },
+      "consultoria_juridica": {
+        "decretos": 438,
+        "leyes": 21,
+        "total": 459
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2018",
+      "presidencia": {
+        "decretos": 0,
+        "leyes": 0,
+        "otros": 0,
+        "total": 0
+      },
+      "consultoria_juridica": {
+        "decretos": 452,
+        "leyes": 29,
+        "total": 481
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2019",
+      "presidencia": {
+        "decretos": 0,
+        "leyes": 0,
+        "otros": 0,
+        "total": 0
+      },
+      "consultoria_juridica": {
+        "decretos": 476,
+        "leyes": 29,
+        "total": 505
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2020",
+      "presidencia": {
+        "decretos": 410,
+        "leyes": 1,
+        "otros": 0,
+        "total": 411
+      },
+      "consultoria_juridica": {
+        "decretos": 756,
+        "leyes": 12,
+        "total": 768
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2021",
+      "presidencia": {
+        "decretos": 790,
+        "leyes": 3,
+        "otros": 2,
+        "total": 795
+      },
+      "consultoria_juridica": {
+        "decretos": 838,
+        "leyes": 27,
+        "total": 865
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2022",
+      "presidencia": {
+        "decretos": 376,
+        "leyes": 5,
+        "otros": 0,
+        "total": 381
+      },
+      "consultoria_juridica": {
+        "decretos": 793,
+        "leyes": 21,
+        "total": 814
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2023",
+      "presidencia": {
+        "decretos": 73,
+        "leyes": 13,
+        "otros": 0,
+        "total": 86
+      },
+      "consultoria_juridica": {
+        "decretos": 688,
+        "leyes": 48,
+        "total": 736
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2024",
+      "presidencia": {
+        "decretos": 82,
+        "leyes": 1,
+        "otros": 0,
+        "total": 83
+      },
+      "consultoria_juridica": {
+        "decretos": 708,
+        "leyes": 47,
+        "total": 755
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2025",
+      "presidencia": {
+        "decretos": 59,
+        "leyes": 2,
+        "otros": 0,
+        "total": 61
+      },
+      "consultoria_juridica": {
+        "decretos": 727,
+        "leyes": 70,
+        "total": 797
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    },
+    {
+      "anio": "2026",
+      "presidencia": {
+        "decretos": 41,
+        "leyes": 1,
+        "otros": 0,
+        "total": 42
+      },
+      "consultoria_juridica": {
+        "decretos": 406,
+        "leyes": 12,
+        "total": 418
+      },
+      "observacion": "Consultoría Jurídica parece ofrecer una base más completa para este año en la consulta realizada."
+    }
+  ],
+  "errores": [],
+  "conclusion_documental": "La consulta oficial de Consultoría Jurídica completa la cobertura de años 2016-2019 y ofrece muchos más registros de leyes que el listado de Presidencia. Debe usarse como fuente principal de contraste para la siguiente fase de descarga/verificación de PDFs, sin afirmar exhaustividad hasta revisión humana.",
+  "proxima_fase_recomendada": "Verificar enlaces de descarga de Consultoría Jurídica por lotes, confirmar bytes PDF, calcular SHA256 y normalizar documentos en ramas pequeñas."
+}
