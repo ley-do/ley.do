@@ -1,176 +1,147 @@
-<section class="leydo-material-hero" markdown>
-<div class="leydo-material-copy" markdown>
-<span class="leydo-kicker">LEY.DO · corpus legal dominicano</span>
+<section class="leydo-cinematic" markdown>
+<div class="leydo-orbit" aria-hidden="true">
+  <span class="ring r1"></span>
+  <span class="ring r2"></span>
+  <span class="ring r3"></span>
+</div>
+<div class="leydo-cinematic__copy" markdown>
+<span class="leydo-kicker-red">Archivo legal dominicano · público · verificable</span>
 
-# Todo lo legal dominicano, organizado para encontrarlo y verificarlo.
+# La ley dominicana, puesta en orden.
 
-Consulta Constitución, leyes, decretos, resoluciones y proyectos en un archivo público, versionado y preparado para humanos, investigadores, periodistas, desarrolladores e inteligencia artificial.
+Un archivo independiente para encontrar Constitución, leyes, decretos, resoluciones y proyectos; seguirlos hasta su fuente oficial; y convertir documentos públicos en infraestructura cívica legible por humanos e inteligencia artificial.
 
-<div class="leydo-hero-ctas" markdown>
-[Explorar el corpus](leyes/index.md)
+<div class="leydo-cinematic__actions" markdown>
+[Explorar documentos](leyes/index.md)
 [Ver Constitución](constitucion/index.md)
-[Cómo integrarte](#integrate-al-proyecto)
 </div>
 </div>
 
-<div class="leydo-preview-stack" aria-hidden="true">
-  <div class="leydo-preview-card float-a">
-    <div class="leydo-preview-title">Constitución</div>
-    <div class="leydo-line accent"></div>
-    <div class="leydo-line med"></div>
-    <div class="leydo-line short"></div>
+<div class="leydo-cinematic__stage" aria-hidden="true">
+  <div class="doc-sheet sheet-a">
+    <small>Constitución</small>
+    <strong>2015 · 2024</strong>
+    <span></span><span></span><span></span>
   </div>
-  <div class="leydo-preview-card main">
-    <div class="leydo-preview-top"><span class="leydo-dot"></span><span class="leydo-dot"></span><span class="leydo-dot"></span></div>
-    <div class="leydo-preview-title">Búsqueda documental</div>
-    <div class="leydo-line accent"></div>
-    <div class="leydo-line"></div>
-    <div class="leydo-line med"></div>
-    <div class="leydo-mini-grid">
-      <div class="leydo-mini-stat"><strong>336</strong><span>leyes detectadas</span></div>
-      <div class="leydo-mini-stat"><strong>6,679</strong><span>decretos detectados</span></div>
-      <div class="leydo-mini-stat"><strong>2016</strong><span>inicio del período</span></div>
-      <div class="leydo-mini-stat"><strong>2026</strong><span>corpus reciente</span></div>
-    </div>
+  <div class="doc-sheet sheet-b">
+    <small>LEY.DO</small>
+    <strong>Fuente oficial</strong>
+    <span></span><span></span><span></span><span></span>
   </div>
-  <div class="leydo-preview-card float-b">
-    <div class="leydo-preview-title">PDF · Markdown · JSON</div>
-    <div class="leydo-line accent"></div>
-    <div class="leydo-line"></div>
-    <div class="leydo-line short"></div>
+  <div class="doc-sheet sheet-c">
+    <small>Corpus</small>
+    <strong>6,679 decretos</strong>
+    <span></span><span></span><span></span>
   </div>
+  <div class="search-glass"></div>
 </div>
 </section>
 
 !!! warning "Aviso importante"
     LEY.DO no es una página oficial del Gobierno dominicano. LEY.DO no ofrece asesoría legal. Verifique siempre cada documento contra la fuente oficial indicada.
 
-<section class="leydo-home-section" markdown>
-<div class="leydo-section-head" markdown>
-<span class="eyebrow">Qué puedes encontrar</span>
+<section class="leydo-editorial" markdown>
+<div class="editorial-number">01</div>
+<div markdown>
+<span class="leydo-label">Qué puedes encontrar</span>
 
-## Un mapa claro del corpus legal
+## Un corpus separado por tipo documental, no por carpetas técnicas.
 
-LEY.DO separa el archivo por tipo de documento para que puedas llegar rápido a lo que buscas sin mezclar texto legal, metadatos y notas editoriales.
+LEY.DO organiza el material como lo buscaría una persona: primero el tipo de documento, luego el año, luego la fuente y el estado de revisión.
 </div>
+<div class="leydo-document-list" markdown>
+[Constitución](constitucion/index.md)
+: Textos constitucionales y documentos de reforma detectados en fuente oficial.
 
-<div class="leydo-feature-grid" markdown>
-<div class="leydo-feature" markdown>
-<span class="icon">C</span>
+[Leyes](leyes/index.md)
+: Leyes por año, con número, fecha, gaceta, título y fuente oficial.
 
-### Constitución
-Versiones constitucionales y documentos de reforma detectados en fuentes oficiales.
+[Decretos](decretos/index.md)
+: Decretos por año, preparados para descarga, hash, Markdown y JSON.
 
-[Entrar](constitucion/index.md)
+[Resoluciones](resoluciones/index.md)
+: Área preparada para resoluciones oficiales por institución.
+
+[Proyectos](proyectos/index.md)
+: Proyectos legislativos y documentos relacionados.
 </div>
-<div class="leydo-feature" markdown>
-<span class="icon">L</span>
+</section>
 
-### Leyes
-Leyes dominicanas organizadas por año, con fuente oficial y estado documental.
-
-[Entrar](leyes/index.md)
+<section class="leydo-ribbon" markdown>
+<div>
+<span>336</span>
+Leyes detectadas 2016-2026
 </div>
-<div class="leydo-feature" markdown>
-<span class="icon">D</span>
-
-### Decretos
-Decretos por año, pensados para revisión, búsqueda y normalización por lotes.
-
-[Entrar](decretos/index.md)
+<div>
+<span>6,679</span>
+Decretos detectados 2016-2026
 </div>
-<div class="leydo-feature" markdown>
-<span class="icon">R</span>
-
-### Resoluciones
-Espacio preparado para resoluciones oficiales por institución y período.
-
-[Entrar](resoluciones/index.md)
+<div>
+<span>3</span>
+Documentos constitucionales recientes registrados
 </div>
-<div class="leydo-feature" markdown>
-<span class="icon">P</span>
+</section>
 
-### Proyectos
-Proyectos legislativos y documentos relacionados provenientes de fuentes oficiales.
+<section class="leydo-editorial reverse" markdown>
+<div class="editorial-number">02</div>
+<div markdown>
+<span class="leydo-label">Cómo utilizarlo</span>
 
-[Entrar](proyectos/index.md)
+## Buscar, verificar, reutilizar.
+
+El sitio está pensado para consulta rápida, pero también para auditoría documental y construcción de herramientas.
 </div>
-<div class="leydo-feature" markdown>
-<span class="icon">API</span>
-
-### Datos reutilizables
-Estructura pensada para Markdown, JSON, hashes y automatización responsable.
-
-[Ver API](api/index.md)
+<div class="leydo-process" markdown>
+<div markdown>
+### Encuentra
+Entra por Constitución, Leyes, Decretos, Resoluciones o Proyectos.
+</div>
+<div markdown>
+### Contrasta
+Revisa el enlace oficial, fecha, gaceta y estado documental.
+</div>
+<div markdown>
+### Normaliza
+Cada documento completo debe tener PDF, SHA256, Markdown y JSON.
+</div>
+<div markdown>
+### Reutiliza
+La estructura permite búsqueda, análisis documental e integración con IA.
 </div>
 </div>
 </section>
 
-<section class="leydo-home-section" markdown>
-<div class="leydo-section-head" markdown>
-<span class="eyebrow">Cómo utilizarlo</span>
+<section class="leydo-showcase" markdown>
+<div markdown>
+<span class="leydo-label">Calidad documental</span>
 
-## De la fuente oficial al documento verificable
-</div>
+## Bonito por fuera. Riguroso por dentro.
 
-<div class="leydo-steps" markdown>
-<div class="leydo-step" markdown>
-### Encuentra el tipo de documento
-Entra por Constitución, Leyes, Decretos, Resoluciones o Proyectos. Cada área mantiene su propia estructura.
+El diseño tiene que invitar a entrar, pero la confianza viene de la trazabilidad: fuentes oficiales, hashes, estados de revisión y cambios versionados en Git.
 </div>
-<div class="leydo-step" markdown>
-### Revisa el año y la fuente
-Las páginas por año muestran documentos detectados, enlaces oficiales y estado de verificación.
-</div>
-<div class="leydo-step" markdown>
-### Verifica antes de usar
-LEY.DO ayuda a localizar y auditar documentos, pero la fuente oficial dominicana siempre prevalece.
-</div>
-<div class="leydo-step" markdown>
-### Reutiliza con cuidado
-El objetivo es que el corpus pueda alimentar búsqueda, análisis documental y herramientas de IA sin perder trazabilidad.
-</div>
+<div class="showcase-card" markdown>
+```json
+{
+  "fuente": "Consultoría Jurídica",
+  "estado_revision": "pendiente_revision",
+  "formatos": ["PDF", "Markdown", "JSON"],
+  "trazabilidad": "Git + SHA256"
+}
+```
 </div>
 </section>
 
-<section id="integrate-al-proyecto" class="leydo-home-section" markdown>
-<div class="leydo-section-head" markdown>
-<span class="eyebrow">Integrarte al proyecto</span>
+<section id="integrate-al-proyecto" class="leydo-final" markdown>
+<div markdown>
+<span class="leydo-label">Integrarte a LEY.DO</span>
 
-## Ayuda a convertir documentos públicos en infraestructura cívica
+## Ayuda a convertir documentos públicos en infraestructura cívica.
 
-LEY.DO necesita revisión humana, fuentes oficiales, normalización documental, mejoras visuales, auditoría de metadatos y herramientas para hacer más útil el archivo.
-</div>
+Puedes contribuir revisando fuentes, verificando PDFs, normalizando documentos, mejorando la experiencia de lectura o construyendo herramientas abiertas sobre el corpus.
 
-<div class="leydo-feature-grid" markdown>
-<div class="leydo-feature" markdown>
-<span class="icon">1</span>
-
-### Revisión documental
-Verificar PDFs, títulos, fechas, gacetas, hashes y enlaces oficiales.
-</div>
-<div class="leydo-feature" markdown>
-<span class="icon">2</span>
-
-### Normalización técnica
-Convertir documentos a Markdown y JSON manteniendo fidelidad al texto oficial.
-</div>
-<div class="leydo-feature" markdown>
-<span class="icon">3</span>
-
-### Herramientas abiertas
-Mejorar búsqueda, navegación, API, validaciones y experiencia de lectura.
-</div>
-</div>
-</section>
-
-<section class="leydo-sponsor-band" markdown>
-## Apoya LEY.DO
-
-Si este archivo te sirve, puedes ayudar revisando documentos, proponiendo fuentes oficiales, mejorando la plataforma o integrándote al equipo. La meta es simple: que la ley dominicana sea más fácil de encontrar, verificar y reutilizar sin convertir a LEY.DO en una fuente oficial ni en asesoría legal.
-
-<div class="leydo-hero-ctas" markdown>
+<div class="leydo-cinematic__actions" markdown>
 [Ver cómo contribuir](acerca/index.md)
 [Explorar el corpus](leyes/index.md)
+</div>
 </div>
 </section>
