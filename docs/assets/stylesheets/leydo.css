@@ -31,3 +31,31 @@
 .md-content__inner > p {
   margin-bottom: 0.9rem;
 }
+
+
+/* Landing y tarjetas de navegación de LEY.DO */
+.leydo-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.08fr) minmax(280px, 0.92fr);
+  gap: 2rem;
+  align-items: center;
+  margin: 0.8rem 0 2.2rem;
+  padding: 2rem;
+  border-radius: 1.35rem;
+  background: linear-gradient(135deg, rgba(11,31,58,.96), rgba(15,118,110,.92));
+  color: #fff;
+  box-shadow: 0 20px 45px rgba(2, 8, 23, .16);
+}
+.leydo-hero h1 { color: #fff; margin: 0 0 .75rem; font-size: clamp(2.1rem, 5vw, 4.2rem); line-height: 1; }
+.leydo-hero p { color: rgba(255,255,255,.88); font-size: 1.05rem; text-align: left; }
+.leydo-hero img { width: 100%; border-radius: 1rem; box-shadow: 0 18px 40px rgba(0,0,0,.22); }
+.leydo-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.25rem; }
+.leydo-button { display: inline-block; padding: .75rem 1rem; border-radius: 999px; font-weight: 700; background: #fff; color: #0b1f3a !important; text-decoration: none; }
+.leydo-button.secondary { background: rgba(255,255,255,.14); color: #fff !important; border: 1px solid rgba(255,255,255,.34); }
+.leydo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1rem; margin: 1.3rem 0 2rem; }
+.leydo-card { border: 1px solid rgba(100,116,139,.22); border-radius: 1rem; padding: 1.1rem; background: linear-gradient(180deg, #fff, #f8fafc); box-shadow: 0 10px 24px rgba(15,23,42,.06); }
+.leydo-card h3 { margin-top: 0; }
+.leydo-stat { font-size: 1.65rem; font-weight: 800; color: #0f766e; display: block; margin-bottom: .15rem; }
+.leydo-muted { color: #64748b; font-size: .9rem; }
+.leydo-strip { padding: 1rem 1.2rem; border-left: .3rem solid #0f766e; background: #ecfeff; border-radius: .7rem; margin: 1rem 0; }
+@media (max-width: 760px) { .leydo-hero { grid-template-columns: 1fr; padding: 1.25rem; } }
