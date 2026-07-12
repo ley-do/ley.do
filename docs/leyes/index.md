@@ -1,5 +1,11 @@
 # Leyes
 
+<div class="leydo-panel" markdown>
+<span class="leydo-stat">336</span>
+
+Leyes dominicanas detectadas en la consulta oficial de la Consultoría Jurídica del Poder Ejecutivo.
+</div>
+
 !!! warning "Aviso"
     LEY.DO no es una fuente oficial. Esta sección organiza documentos detectados en fuentes oficiales. La detección no certifica exhaustividad, vigencia ni validez legal.
 

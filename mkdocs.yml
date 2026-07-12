@@ -7,6 +7,13 @@ repo_url: https://github.com/ley-do/ley.do
 theme:
   name: material
   language: es
+  font:
+    text: Source Sans 3
+    code: Source Code Pro
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
   features:
     - navigation.tabs
     - navigation.sections

@@ -1,17 +1,48 @@
 /* Estilos editoriales de LEY.DO */
 
-/*
-  Mejor legibilidad para documentos largos.
-  Se justifica solo el contenido principal, sin afectar tablas,
-  bloques de código, avisos, navegación ni metadata técnica.
-*/
+:root {
+  --leydo-navy: #061b31;
+  --leydo-blue: #0a2540;
+  --leydo-slate: #64748d;
+  --leydo-muted: #8091a7;
+  --leydo-purple: #533afd;
+  --leydo-purple-dark: #4434d4;
+  --leydo-teal: #0f766e;
+  --leydo-cyan: #e8fbff;
+  --leydo-border: #e5edf5;
+  --leydo-surface: #ffffff;
+  --leydo-soft: #f6f9fc;
+  --leydo-shadow: rgba(50,50,93,0.25) 0 30px 45px -30px, rgba(0,0,0,0.10) 0 18px 36px -18px;
+  --leydo-shadow-soft: rgba(23,23,23,0.08) 0 15px 35px;
+}
+
+body, .md-typeset {
+  font-feature-settings: "ss01", "tnum";
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--leydo-navy);
+  font-weight: 400;
+  letter-spacing: -0.035em;
+}
+
+.md-typeset h1 { font-size: clamp(2.15rem, 4vw, 3.85rem); line-height: 1.02; }
+.md-typeset h2 { font-size: clamp(1.55rem, 2.2vw, 2.25rem); line-height: 1.12; margin-top: 2.1rem; }
+.md-typeset h3 { font-size: 1.22rem; line-height: 1.18; }
+.md-typeset p, .md-typeset li { color: #40536b; }
+.md-typeset a { color: var(--leydo-purple); }
+.md-typeset a:hover { color: var(--leydo-purple-dark); }
+
+/* Mejor legibilidad para documentos largos sin dañar UI/tarjetas. */
 .md-content__inner > p,
-.md-content__inner li {
+.md-content__inner > ul li,
+.md-content__inner > ol li {
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
 }
-
 .md-content__inner h1,
 .md-content__inner h2,
 .md-content__inner h3,
@@ -22,40 +53,209 @@
 .md-content__inner pre,
 .md-content__inner code,
 .md-content__inner .admonition,
-.md-content__inner .highlight {
+.md-content__inner .highlight,
+.md-content__inner .leydo-hero,
+.md-content__inner .leydo-grid,
+.md-content__inner .leydo-card,
+.md-content__inner .leydo-panel,
+.md-content__inner .leydo-callout,
+.md-content__inner .leydo-timeline,
+.md-content__inner .leydo-actions {
   text-align: initial;
   hyphens: none;
 }
+.md-content__inner > p { margin-bottom: 0.9rem; }
 
-/* Un poco más de aire entre párrafos de textos legales. */
-.md-content__inner > p {
-  margin-bottom: 0.9rem;
+/* MkDocs chrome polish */
+.md-header {
+  background: linear-gradient(90deg, #061b31, #0a2540 55%, #123b66);
+  box-shadow: 0 10px 32px rgba(6, 27, 49, .16);
 }
+.md-tabs { background: #0a2540; }
+.md-nav__title, .md-nav__item .md-nav__link--active { color: var(--leydo-purple); }
+.md-main__inner { margin-top: 1.2rem; }
+.md-content__inner { padding-bottom: 4rem; }
 
-
-/* Landing y tarjetas de navegación de LEY.DO */
+/* Landing premium */
 .leydo-hero {
+  position: relative;
+  overflow: hidden;
   display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(280px, 0.92fr);
-  gap: 2rem;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, .95fr);
+  gap: clamp(1.4rem, 4vw, 3.2rem);
   align-items: center;
-  margin: 0.8rem 0 2.2rem;
-  padding: 2rem;
-  border-radius: 1.35rem;
-  background: linear-gradient(135deg, rgba(11,31,58,.96), rgba(15,118,110,.92));
+  margin: .8rem 0 2.6rem;
+  padding: clamp(1.4rem, 4.5vw, 3.6rem);
+  border-radius: 8px;
+  background:
+    radial-gradient(circle at 16% 18%, rgba(249,107,238,.25), transparent 24%),
+    radial-gradient(circle at 88% 10%, rgba(83,58,253,.24), transparent 25%),
+    linear-gradient(135deg, #061b31 0%, #0a2540 42%, #1c1e54 72%, #0f766e 118%);
   color: #fff;
-  box-shadow: 0 20px 45px rgba(2, 8, 23, .16);
+  box-shadow: var(--leydo-shadow);
 }
-.leydo-hero h1 { color: #fff; margin: 0 0 .75rem; font-size: clamp(2.1rem, 5vw, 4.2rem); line-height: 1; }
-.leydo-hero p { color: rgba(255,255,255,.88); font-size: 1.05rem; text-align: left; }
-.leydo-hero img { width: 100%; border-radius: 1rem; box-shadow: 0 18px 40px rgba(0,0,0,.22); }
-.leydo-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.25rem; }
-.leydo-button { display: inline-block; padding: .75rem 1rem; border-radius: 999px; font-weight: 700; background: #fff; color: #0b1f3a !important; text-decoration: none; }
-.leydo-button.secondary { background: rgba(255,255,255,.14); color: #fff !important; border: 1px solid rgba(255,255,255,.34); }
-.leydo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1rem; margin: 1.3rem 0 2rem; }
-.leydo-card { border: 1px solid rgba(100,116,139,.22); border-radius: 1rem; padding: 1.1rem; background: linear-gradient(180deg, #fff, #f8fafc); box-shadow: 0 10px 24px rgba(15,23,42,.06); }
-.leydo-card h3 { margin-top: 0; }
-.leydo-stat { font-size: 1.65rem; font-weight: 800; color: #0f766e; display: block; margin-bottom: .15rem; }
-.leydo-muted { color: #64748b; font-size: .9rem; }
-.leydo-strip { padding: 1rem 1.2rem; border-left: .3rem solid #0f766e; background: #ecfeff; border-radius: .7rem; margin: 1rem 0; }
-@media (max-width: 760px) { .leydo-hero { grid-template-columns: 1fr; padding: 1.25rem; } }
+.leydo-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(rgba(255,255,255,.055) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.055) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: linear-gradient(90deg, #000, transparent 78%);
+}
+.leydo-hero > * { position: relative; z-index: 1; }
+.leydo-eyebrow {
+  display: inline-flex;
+  gap: .45rem;
+  align-items: center;
+  padding: .38rem .6rem;
+  margin-bottom: 1rem;
+  border: 1px solid rgba(255,255,255,.24);
+  border-radius: 999px;
+  background: rgba(255,255,255,.09);
+  color: rgba(255,255,255,.86);
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+}
+.leydo-hero h1 { color: #fff; margin: 0 0 .9rem; font-weight: 300; letter-spacing: -0.055em; }
+.leydo-hero p { color: rgba(255,255,255,.82); font-size: clamp(1.05rem, 1.7vw, 1.28rem); line-height: 1.48; max-width: 58ch; }
+.leydo-hero img { width: 100%; border-radius: 8px; box-shadow: 0 28px 70px rgba(0,0,0,.30); transform: rotate(1deg); }
+.leydo-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 1.4rem; }
+.leydo-button {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .78rem 1.05rem;
+  border-radius: 6px;
+  font-weight: 700;
+  background: #fff;
+  color: var(--leydo-navy) !important;
+  text-decoration: none !important;
+  box-shadow: 0 12px 24px rgba(0,0,0,.18);
+}
+.leydo-button.secondary {
+  background: rgba(255,255,255,.10);
+  color: #fff !important;
+  border: 1px solid rgba(255,255,255,.34);
+  box-shadow: none;
+}
+.leydo-button:hover { transform: translateY(-1px); }
+
+.leydo-section-intro {
+  max-width: 760px;
+  color: var(--leydo-slate);
+  font-size: 1.05rem;
+}
+.leydo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.3rem 0 2.2rem;
+}
+.leydo-card {
+  min-height: 190px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid var(--leydo-border);
+  border-radius: 8px;
+  padding: 1.2rem;
+  background: linear-gradient(180deg, #fff, #fbfdff);
+  box-shadow: rgba(23,23,23,0.06) 0 3px 8px;
+  transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+}
+.leydo-card:hover { transform: translateY(-3px); box-shadow: var(--leydo-shadow); border-color: #d6d9fc; }
+.leydo-card h3 { margin: 0 0 .45rem; color: var(--leydo-navy); }
+.leydo-card p { color: var(--leydo-slate); margin-bottom: .8rem; }
+.leydo-card a { font-weight: 700; text-decoration: none; }
+.leydo-stat {
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: 800;
+  color: var(--leydo-purple);
+  display: block;
+  margin: .2rem 0 .15rem;
+  font-variant-numeric: tabular-nums;
+}
+.leydo-muted { color: var(--leydo-muted); font-size: .92rem; }
+.leydo-panel {
+  border: 1px solid var(--leydo-border);
+  border-radius: 8px;
+  padding: 1.25rem;
+  background: #fff;
+  box-shadow: var(--leydo-shadow-soft);
+}
+.leydo-callout {
+  padding: 1rem 1.2rem;
+  border-left: .28rem solid var(--leydo-purple);
+  background: linear-gradient(90deg, #f6f9fc, #fff);
+  border-radius: 8px;
+  margin: 1.2rem 0;
+}
+.leydo-band {
+  margin: 2rem 0;
+  padding: 1.6rem;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #f6f9fc, #eef7ff);
+  border: 1px solid var(--leydo-border);
+}
+.leydo-map img, img[src$="corpus-map.svg"] { border-radius: 8px; box-shadow: var(--leydo-shadow-soft); }
+
+/* Constitución: tarjetas consistentes */
+.leydo-timeline {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.4rem 0 2rem;
+}
+.leydo-doc-card {
+  min-height: 245px;
+  border: 1px solid var(--leydo-border);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: rgba(23,23,23,0.06) 0 6px 18px;
+  padding: 1.15rem;
+  display: flex;
+  flex-direction: column;
+  gap: .65rem;
+}
+.leydo-doc-card .year {
+  color: var(--leydo-purple);
+  font-size: 2.1rem;
+  line-height: 1;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+.leydo-doc-card .type {
+  width: fit-content;
+  padding: .18rem .45rem;
+  border-radius: 4px;
+  background: rgba(83,58,253,.08);
+  color: var(--leydo-purple-dark);
+  font-size: .78rem;
+  font-weight: 700;
+}
+.leydo-doc-card h3 { margin: 0; font-size: 1.08rem; letter-spacing: -0.015em; }
+.leydo-doc-card .meta { color: var(--leydo-slate); font-size: .88rem; }
+.leydo-doc-card a { margin-top: auto; font-weight: 700; text-decoration: none; }
+
+/* Tablas más finas */
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: rgba(23,23,23,.05) 0 8px 22px;
+}
+.md-typeset table:not([class]) th {
+  background: #f6f9fc;
+  color: var(--leydo-navy);
+  font-weight: 700;
+}
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th { border-color: var(--leydo-border); }
+
+@media (max-width: 760px) {
+  .leydo-hero { grid-template-columns: 1fr; }
+  .leydo-hero img { transform: none; }
+  .leydo-card { min-height: auto; }
+}

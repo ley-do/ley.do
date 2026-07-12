@@ -1,5 +1,9 @@
 # Proyectos legislativos
 
+<div class="leydo-panel" markdown>
+Área del corpus dedicada a proyectos legislativos y documentos relacionados provenientes de fuentes oficiales.
+</div>
+
 !!! warning "Aviso"
     LEY.DO no es una fuente oficial. Verifique todo documento contra la fuente oficial indicada. LEY.DO no ofrece asesoría legal.
 
