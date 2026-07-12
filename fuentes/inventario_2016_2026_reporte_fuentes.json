@@ -1,0 +1,858 @@
+{
+  "fecha_consulta": "2026-07-11",
+  "rama_trabajo": "agente-fuentes/inventario-2016-2026-leyes-decretos",
+  "fuentes_consultadas": [
+    "https://presidencia.gob.do/decretos",
+    "https://presidencia.gob.do/leyes"
+  ],
+  "paginas_consultadas": [
+    {
+      "tipo": "decretos",
+      "pagina": 0,
+      "url": "https://presidencia.gob.do/decretos",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2026
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 1,
+      "url": "https://presidencia.gob.do/decretos?page=1",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2026,
+        2025
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 2,
+      "url": "https://presidencia.gob.do/decretos?page=2",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2025
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 3,
+      "url": "https://presidencia.gob.do/decretos?page=3",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2025,
+        2022,
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 4,
+      "url": "https://presidencia.gob.do/decretos?page=4",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 23,
+      "anios_en_rango_detectados": [
+        2025,
+        2024
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 5,
+      "url": "https://presidencia.gob.do/decretos?page=5",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2024
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 6,
+      "url": "https://presidencia.gob.do/decretos?page=6",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 23,
+      "anios_en_rango_detectados": [
+        2024
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 7,
+      "url": "https://presidencia.gob.do/decretos?page=7",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2024,
+        2023
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 8,
+      "url": "https://presidencia.gob.do/decretos?page=8",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2023
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 9,
+      "url": "https://presidencia.gob.do/decretos?page=9",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2023
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 10,
+      "url": "https://presidencia.gob.do/decretos?page=10",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2023,
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 11,
+      "url": "https://presidencia.gob.do/decretos?page=11",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 12,
+      "url": "https://presidencia.gob.do/decretos?page=12",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 13,
+      "url": "https://presidencia.gob.do/decretos?page=13",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 14,
+      "url": "https://presidencia.gob.do/decretos?page=14",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 15,
+      "url": "https://presidencia.gob.do/decretos?page=15",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 16,
+      "url": "https://presidencia.gob.do/decretos?page=16",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 17,
+      "url": "https://presidencia.gob.do/decretos?page=17",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 18,
+      "url": "https://presidencia.gob.do/decretos?page=18",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 19,
+      "url": "https://presidencia.gob.do/decretos?page=19",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 20,
+      "url": "https://presidencia.gob.do/decretos?page=20",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 21,
+      "url": "https://presidencia.gob.do/decretos?page=21",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 22,
+      "url": "https://presidencia.gob.do/decretos?page=22",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 23,
+      "url": "https://presidencia.gob.do/decretos?page=23",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 24,
+      "url": "https://presidencia.gob.do/decretos?page=24",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 25,
+      "url": "https://presidencia.gob.do/decretos?page=25",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 26,
+      "url": "https://presidencia.gob.do/decretos?page=26",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2022,
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 27,
+      "url": "https://presidencia.gob.do/decretos?page=27",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 28,
+      "url": "https://presidencia.gob.do/decretos?page=28",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 29,
+      "url": "https://presidencia.gob.do/decretos?page=29",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 30,
+      "url": "https://presidencia.gob.do/decretos?page=30",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 31,
+      "url": "https://presidencia.gob.do/decretos?page=31",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 32,
+      "url": "https://presidencia.gob.do/decretos?page=32",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 33,
+      "url": "https://presidencia.gob.do/decretos?page=33",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 34,
+      "url": "https://presidencia.gob.do/decretos?page=34",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 35,
+      "url": "https://presidencia.gob.do/decretos?page=35",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 36,
+      "url": "https://presidencia.gob.do/decretos?page=36",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 37,
+      "url": "https://presidencia.gob.do/decretos?page=37",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 38,
+      "url": "https://presidencia.gob.do/decretos?page=38",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 39,
+      "url": "https://presidencia.gob.do/decretos?page=39",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 40,
+      "url": "https://presidencia.gob.do/decretos?page=40",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 41,
+      "url": "https://presidencia.gob.do/decretos?page=41",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 42,
+      "url": "https://presidencia.gob.do/decretos?page=42",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 43,
+      "url": "https://presidencia.gob.do/decretos?page=43",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 44,
+      "url": "https://presidencia.gob.do/decretos?page=44",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 45,
+      "url": "https://presidencia.gob.do/decretos?page=45",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 46,
+      "url": "https://presidencia.gob.do/decretos?page=46",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 47,
+      "url": "https://presidencia.gob.do/decretos?page=47",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 48,
+      "url": "https://presidencia.gob.do/decretos?page=48",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 49,
+      "url": "https://presidencia.gob.do/decretos?page=49",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 50,
+      "url": "https://presidencia.gob.do/decretos?page=50",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 51,
+      "url": "https://presidencia.gob.do/decretos?page=51",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 52,
+      "url": "https://presidencia.gob.do/decretos?page=52",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 53,
+      "url": "https://presidencia.gob.do/decretos?page=53",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 54,
+      "url": "https://presidencia.gob.do/decretos?page=54",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 55,
+      "url": "https://presidencia.gob.do/decretos?page=55",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 56,
+      "url": "https://presidencia.gob.do/decretos?page=56",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 57,
+      "url": "https://presidencia.gob.do/decretos?page=57",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 58,
+      "url": "https://presidencia.gob.do/decretos?page=58",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 59,
+      "url": "https://presidencia.gob.do/decretos?page=59",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2021,
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 60,
+      "url": "https://presidencia.gob.do/decretos?page=60",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 61,
+      "url": "https://presidencia.gob.do/decretos?page=61",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 62,
+      "url": "https://presidencia.gob.do/decretos?page=62",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 63,
+      "url": "https://presidencia.gob.do/decretos?page=63",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 64,
+      "url": "https://presidencia.gob.do/decretos?page=64",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 65,
+      "url": "https://presidencia.gob.do/decretos?page=65",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 66,
+      "url": "https://presidencia.gob.do/decretos?page=66",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 67,
+      "url": "https://presidencia.gob.do/decretos?page=67",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 68,
+      "url": "https://presidencia.gob.do/decretos?page=68",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 69,
+      "url": "https://presidencia.gob.do/decretos?page=69",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 70,
+      "url": "https://presidencia.gob.do/decretos?page=70",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 71,
+      "url": "https://presidencia.gob.do/decretos?page=71",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 72,
+      "url": "https://presidencia.gob.do/decretos?page=72",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 73,
+      "url": "https://presidencia.gob.do/decretos?page=73",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 74,
+      "url": "https://presidencia.gob.do/decretos?page=74",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 75,
+      "url": "https://presidencia.gob.do/decretos?page=75",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 76,
+      "url": "https://presidencia.gob.do/decretos?page=76",
+      "articulos_detectados": 10,
+      "documentos_en_rango_2016_2026": 10,
+      "anios_en_rango_detectados": [
+        2020
+      ]
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 77,
+      "url": "https://presidencia.gob.do/decretos?page=77",
+      "articulos_detectados": 0,
+      "documentos_en_rango_2016_2026": 0,
+      "anios_en_rango_detectados": []
+    },
+    {
+      "tipo": "decretos",
+      "pagina": 78,
+      "url": "https://presidencia.gob.do/decretos?page=78",
+      "articulos_detectados": 0,
+      "documentos_en_rango_2016_2026": 0,
+      "anios_en_rango_detectados": []
+    },
+    {
+      "tipo": "leyes",
+      "pagina": 0,
+      "url": "https://presidencia.gob.do/leyes",
+      "articulos_detectados": 24,
+      "documentos_en_rango_2016_2026": 24,
+      "anios_en_rango_detectados": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "tipo": "leyes",
+      "pagina": 1,
+      "url": "https://presidencia.gob.do/leyes?page=1",
+      "articulos_detectados": 4,
+      "documentos_en_rango_2016_2026": 4,
+      "anios_en_rango_detectados": [
+        2021,
+        2020
+      ]
+    },
+    {
+      "tipo": "leyes",
+      "pagina": 2,
+      "url": "https://presidencia.gob.do/leyes?page=2",
+      "articulos_detectados": 0,
+      "documentos_en_rango_2016_2026": 0,
+      "anios_en_rango_detectados": []
+    },
+    {
+      "tipo": "leyes",
+      "pagina": 3,
+      "url": "https://presidencia.gob.do/leyes?page=3",
+      "articulos_detectados": 0,
+      "documentos_en_rango_2016_2026": 0,
+      "anios_en_rango_detectados": []
+    }
+  ],
+  "errores": [],
+  "totales_detectados": {
+    "decretos": 1831,
+    "entradas_listado_leyes": 28,
+    "leyes": 26,
+    "otros_en_listado_leyes": 2
+  },
+  "limitaciones": [
+    "Inventario basado en listados públicos de Presidencia; no certifica exhaustividad.",
+    "No se descargaron PDFs en esta fase.",
+    "El listado de leyes puede no contener todas las leyes promulgadas en la década; requiere contraste con fuentes oficiales adicionales."
+  ]
+}

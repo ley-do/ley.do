@@ -1,0 +1,27 @@
+{
+  "tipo_inventario": "leyes_y_decretos",
+  "anio": "2017",
+  "fecha_consulta": "2026-07-11",
+  "alcance": "Inventario inicial de documentos detectados en listados oficiales de Presidencia de la República Dominicana para el rango 2016-2026.",
+  "advertencia": "Este inventario no certifica exhaustividad legal ni vigencia. Los documentos quedan pendientes de verificación contra PDFs originales y otras fuentes oficiales cuando aplique.",
+  "fuentes_oficiales_consultadas": [
+    "https://presidencia.gob.do/decretos",
+    "https://presidencia.gob.do/leyes"
+  ],
+  "resumen": {
+    "total_decretos_detectados": 0,
+    "total_leyes_detectadas": 0,
+    "otros_documentos_en_listado_leyes": 0,
+    "total_documentos_detectados": 0
+  },
+  "documentos": {
+    "decretos": [],
+    "leyes": []
+  },
+  "notas_metodologicas": [
+    "Se consultaron listados oficiales públicos de Presidencia.",
+    "No se descargaron PDFs ni se normalizaron textos legales en esta fase.",
+    "El campo url_pdf_original queda vacío cuando el listado no expone un PDF directo.",
+    "La ausencia de un documento en este inventario no implica que no exista; requiere contraste posterior con Consultoría Jurídica, Gaceta Oficial u otra fuente oficial pertinente."
+  ]
+}
