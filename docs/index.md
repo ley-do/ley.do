@@ -1,96 +1,80 @@
+<div class="leydo-hero" markdown>
+<div markdown>
 # LEY.DO
 
-**Archivo público independiente de documentos legales dominicanos.**
+Archivo público independiente para consultar, auditar y reutilizar documentos legales dominicanos provenientes de fuentes oficiales.
 
-LEY.DO recopila, organiza, transcribe, versiona y publica documentos legales dominicanos provenientes de fuentes oficiales.
+<div class="leydo-actions" markdown>
+[Explorar leyes](leyes/index.md){ .leydo-button }
+[Explorar decretos](decretos/index.md){ .leydo-button }
+[Ver Constitución](constitucion/index.md){ .leydo-button secondary }
+</div>
+</div>
+<div markdown>
+![Ilustración de documentos legales y búsqueda](assets/images/leydo-hero.svg)
+</div>
+</div>
 
 !!! warning "Aviso importante"
-    LEY.DO no es una página oficial del Gobierno dominicano.  
-    LEY.DO no ofrece asesoría legal.  
-    Verifique siempre cada documento contra la fuente oficial.
+    LEY.DO no es una página oficial del Gobierno dominicano. LEY.DO no ofrece asesoría legal. Verifique siempre cada documento contra la fuente oficial indicada.
 
-## Qué es LEY.DO
+## Corpus documental
 
-LEY.DO es una biblioteca pública, auditable y versionada de documentos legales dominicanos.
+<div class="leydo-grid" markdown>
+<div class="leydo-card" markdown>
+### Constitución
+Versiones constitucionales y documentos de reforma identificados en fuentes oficiales.
 
-El objetivo es que cada documento pueda consultarse en varios formatos:
+[Entrar](constitucion/index.md)
+</div>
+<div class="leydo-card" markdown>
+### Leyes
+<span class="leydo-stat">336</span>
+<span class="leydo-muted">leyes detectadas 2016-2026 en Consultoría Jurídica</span>
 
-- PDF original
-- Markdown
-- JSON
-- metadata verificable
-- hash SHA256
-- historial de cambios en Git
+[Entrar](leyes/index.md)
+</div>
+<div class="leydo-card" markdown>
+### Decretos
+<span class="leydo-stat">6679</span>
+<span class="leydo-muted">decretos detectados 2016-2026 en Consultoría Jurídica</span>
 
-## Qué estamos construyendo
+[Entrar](decretos/index.md)
+</div>
+<div class="leydo-card" markdown>
+### Resoluciones
+Área preparada para resoluciones oficiales.
 
-Un corpus dominicano de referencia para:
+[Entrar](resoluciones/index.md)
+</div>
+<div class="leydo-card" markdown>
+### Proyectos
+Área preparada para proyectos legislativos provenientes de fuentes oficiales.
 
-- constituciones
-- leyes
-- decretos
-- resoluciones
-- proyectos de ley
-- documentos legales públicos relacionados
+[Entrar](proyectos/index.md)
+</div>
+</div>
 
-## Qué incluye cada documento
+![Mapa del corpus LEY.DO](assets/images/corpus-map.svg)
 
-Cada documento publicado debe incluir:
+## Estado del archivo
 
-- tipo de documento
-- número
-- año
-- título
-- fecha
-- fuente oficial
-- URL del PDF original
-- ruta local del PDF
-- ruta del Markdown
-- ruta del JSON
-- hash SHA256 del PDF original
-- hash SHA256 del Markdown
-- estado de revisión
-- estado de publicación
-- commit de publicación
-- notas
+<div class="leydo-strip" markdown>
+El corpus se está construyendo por etapas: primero detección en fuentes oficiales, luego descarga del PDF oficial, cálculo de hashes, transcripción Markdown, metadata JSON y revisión humana.
+</div>
 
-## Principios editoriales
+| Área | Estado actual |
+|---|---|
+| Constitución | Versiones 2015 y 2024 detectadas en Consultoría Jurídica; pendiente normalización completa. |
+| Leyes | Documentos detectados por año 2016-2026; algunos documentos normalizados inicialmente. |
+| Decretos | Documentos detectados por año 2016-2026; lote inicial 2026 normalizado. |
+| Resoluciones | Sección preparada; pendiente inventario específico. |
+| Proyectos | Sección preparada; pendiente inventario específico. |
 
-### Fuente oficial primero
+## Principios
 
-El documento debe apuntar siempre a la fuente oficial de donde fue obtenido.
-
-### Sin interpretación legal
-
-LEY.DO organiza y publica documentos. No interpreta la ley.
-
-### Sin invención
-
-Si una parte del texto no se puede extraer con certeza, no se completa por aproximación. Se marca como pendiente de revisión.
-
-### Revisión humana
-
-Los agentes pueden preparar documentos, pero no publicarlos sin aprobación humana.
-
-### Git como registro
-
-El historial del repositorio sirve como bitácora pública de cambios.
-
-## Estado del proyecto
-
-LEY.DO está en fase inicial.
-
-Primer objetivo:
-
-1. publicar este sitio
-2. agregar la Constitución
-3. agregar 10 leyes recientes
-4. agregar 10 decretos recientes
-5. publicar PDF, Markdown, JSON y hashes por cada documento
-6. activar búsqueda interna
-
-## Verificación
-
-Antes de depender de cualquier documento, confirme su contenido en la fuente oficial correspondiente.
-
-[Leer descargo completo](acerca/descargo.md)
+- Fuente oficial primero.
+- Sin interpretación legal.
+- Sin inventar datos faltantes.
+- Todo documento dudoso queda pendiente de revisión humana.
+- Si hay conflicto entre LEY.DO y una fuente oficial dominicana, prevalece la fuente oficial.

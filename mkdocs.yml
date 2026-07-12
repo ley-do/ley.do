@@ -36,67 +36,30 @@ nav:
       - constitucion/index.md
   - Leyes:
       - leyes/index.md
-      - 2026:
-          - leyes/2026/index.md
-          - Ley núm. 030-2026: leyes/2026/ley-030-2026.md
+      - 2016: leyes/2016/index.md
+      - 2017: leyes/2017/index.md
+      - 2018: leyes/2018/index.md
+      - 2019: leyes/2019/index.md
+      - 2020: leyes/2020/index.md
+      - 2021: leyes/2021/index.md
+      - 2022: leyes/2022/index.md
+      - 2023: leyes/2023/index.md
+      - 2024: leyes/2024/index.md
+      - 2025: leyes/2025/index.md
+      - 2026: leyes/2026/index.md
   - Decretos:
       - decretos/index.md
-      - 2026:
-          - decretos/2026/index.md
-          - Decreto núm. 002-2026: decretos/2026/decreto-002-2026.md
-          - Decreto núm. 003-2026: decretos/2026/decreto-003-2026.md
-          - Decreto núm. 006-2026: decretos/2026/decreto-006-2026.md
-          - Decreto núm. 041-2026: decretos/2026/decreto-041-2026.md
-          - Decreto núm. 042-2026: decretos/2026/decreto-042-2026.md
-          - Decreto núm. 043-2026: decretos/2026/decreto-043-2026.md
-          - Decreto núm. 055-2026: decretos/2026/decreto-055-2026.md
-          - Decreto núm. 058-2026: decretos/2026/decreto-058-2026.md
-          - Decreto núm. 059-2026: decretos/2026/decreto-059-2026.md
-          - Decreto núm. 060-2026: decretos/2026/decreto-060-2026.md
-          - Decreto núm. 065-2026: decretos/2026/decreto-065-2026.md
-          - Decreto núm. 066-2026: decretos/2026/decreto-066-2026.md
-          - Decreto núm. 069-2026: decretos/2026/decreto-069-2026.md
-          - Decreto núm. 070-2026: decretos/2026/decreto-070-2026.md
-          - Decreto núm. 071-2026: decretos/2026/decreto-071-2026.md
-          - Decreto núm. 084-2026: decretos/2026/decreto-084-2026.md
-          - Decreto núm. 095-2026: decretos/2026/decreto-095-2026.md
-          - Decreto núm. 111-2026: decretos/2026/decreto-111-2026.md
-          - Decreto núm. 133-2026: decretos/2026/decreto-133-2026.md
-          - Decreto núm. 134-2026: decretos/2026/decreto-134-2026.md
-          - Decreto núm. 135-2026: decretos/2026/decreto-135-2026.md
-          - Decreto núm. 197-2026: decretos/2026/decreto-197-2026.md
-          - Decreto núm. 200-2026: decretos/2026/decreto-200-2026.md
-          - Decreto núm. 234-2026: decretos/2026/decreto-234-2026.md
-          - Decreto núm. 236-2026: decretos/2026/decreto-236-2026.md
-          - Decreto núm. 240-2026: decretos/2026/decreto-240-2026.md
-          - Decreto núm. 241-2026: decretos/2026/decreto-241-2026.md
-          - Decreto núm. 242-2026: decretos/2026/decreto-242-2026.md
-          - Decreto núm. 243-2026: decretos/2026/decreto-243-2026.md
-          - Decreto núm. 245-2026: decretos/2026/decreto-245-2026.md
-          - Decreto núm. 285-2026: decretos/2026/decreto-285-2026.md
-          - Decreto núm. 298-2026: decretos/2026/decreto-298-2026.md
-          - Decreto núm. 309-2026: decretos/2026/decreto-309-2026.md
-          - Decreto núm. 311-2026: decretos/2026/decreto-311-2026.md
-          - Decreto núm. 312-2026: decretos/2026/decreto-312-2026.md
-          - Decreto núm. 330-2026: decretos/2026/decreto-330-2026.md
-          - Decreto núm. 352-2026: decretos/2026/decreto-352-2026.md
-          - Decreto núm. 409-2026: decretos/2026/decreto-409-2026.md
-          - Decreto núm. 438-2026: decretos/2026/decreto-438-2026.md
-          - Decreto núm. 444-2026: decretos/2026/decreto-444-2026.md
-  - Inventario:
-      - inventario/index.md
-      - Resumen 2016-2026: inventario/2016-2026.md
-      - 2016: inventario/2016.md
-      - 2017: inventario/2017.md
-      - 2018: inventario/2018.md
-      - 2019: inventario/2019.md
-      - 2020: inventario/2020.md
-      - 2021: inventario/2021.md
-      - 2022: inventario/2022.md
-      - 2023: inventario/2023.md
-      - 2024: inventario/2024.md
-      - 2025: inventario/2025.md
-      - 2026: inventario/2026.md
+      - 2016: decretos/2016/index.md
+      - 2017: decretos/2017/index.md
+      - 2018: decretos/2018/index.md
+      - 2019: decretos/2019/index.md
+      - 2020: decretos/2020/index.md
+      - 2021: decretos/2021/index.md
+      - 2022: decretos/2022/index.md
+      - 2023: decretos/2023/index.md
+      - 2024: decretos/2024/index.md
+      - 2025: decretos/2025/index.md
+      - 2026: decretos/2026/index.md
   - Resoluciones:
       - resoluciones/index.md
   - Proyectos:

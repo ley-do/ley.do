@@ -1,0 +1,50 @@
+{
+  "tipo_inventario": "documentos_constitucionales_recientes",
+  "fecha_consulta": "2026-07-12",
+  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "documentos": [
+    {
+      "tipo": "Constitución",
+      "numero": "",
+      "anio": "2015",
+      "titulo": "CONSTITUCION DE LA REPUBLICA DOMINICANA 2015",
+      "gaceta": "10805",
+      "fecha": "13/06/2015",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+      "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3374277&managementType=1",
+      "url_documento_consultoria_descargar": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3374277&managementType=2",
+      "document_id_consultoria": "3374277",
+      "estado": "detectado_pendiente_verificacion_pdf"
+    },
+    {
+      "tipo": "Ley",
+      "numero": "61-24",
+      "anio": "2024",
+      "titulo": "QUE DECLARA LA NECESIDAD DE REFORMAR LA CONSTITUCIÓN DE LA REPÚBLICA EN LOS ARTÍCULOS 81, 166, 167, ...",
+      "gaceta": "11168",
+      "fecha": "02/10/2024",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+      "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402509&managementType=1",
+      "url_documento_consultoria_descargar": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402509&managementType=2",
+      "document_id_consultoria": "3402509",
+      "estado": "detectado_pendiente_verificacion_pdf"
+    },
+    {
+      "tipo": "Constitución",
+      "numero": "",
+      "anio": "2024",
+      "titulo": "CONSTITUCION DE LA REPUBLICA DOMINICANA",
+      "gaceta": "11170",
+      "fecha": "27/10/2024",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+      "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402625&managementType=1",
+      "url_documento_consultoria_descargar": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402625&managementType=2",
+      "document_id_consultoria": "3402625",
+      "estado": "detectado_pendiente_verificacion_pdf"
+    }
+  ],
+  "advertencia": "Inventario documental; no certifica vigencia ni interpreta cambios constitucionales."
+}
