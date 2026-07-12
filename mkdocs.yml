@@ -12,8 +12,8 @@ theme:
     code: IBM Plex Mono
   palette:
     - scheme: default
-      primary: black
-      accent: grey
+      primary: brown
+      accent: deep orange
   features:
     - navigation.tabs
     - navigation.sections
