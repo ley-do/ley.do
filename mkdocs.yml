@@ -8,12 +8,12 @@ theme:
   name: material
   language: es
   font:
-    text: Source Sans 3
-    code: Source Code Pro
+    text: IBM Plex Sans
+    code: IBM Plex Mono
   palette:
     - scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: black
+      accent: grey
   features:
     - navigation.tabs
     - navigation.sections
