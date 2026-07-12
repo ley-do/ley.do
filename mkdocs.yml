@@ -83,6 +83,20 @@ nav:
           - Decreto núm. 409-2026: decretos/2026/decreto-409-2026.md
           - Decreto núm. 438-2026: decretos/2026/decreto-438-2026.md
           - Decreto núm. 444-2026: decretos/2026/decreto-444-2026.md
+  - Inventario:
+      - inventario/index.md
+      - Resumen 2016-2026: inventario/2016-2026.md
+      - 2016: inventario/2016.md
+      - 2017: inventario/2017.md
+      - 2018: inventario/2018.md
+      - 2019: inventario/2019.md
+      - 2020: inventario/2020.md
+      - 2021: inventario/2021.md
+      - 2022: inventario/2022.md
+      - 2023: inventario/2023.md
+      - 2024: inventario/2024.md
+      - 2025: inventario/2025.md
+      - 2026: inventario/2026.md
   - Resoluciones:
       - resoluciones/index.md
   - Proyectos:
