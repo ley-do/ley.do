@@ -9,46 +9,51 @@ Documentos detectados: **406**.
 
 ## Documentos normalizados inicialmente
 
-- [Decreto 002 2026](decreto-002-2026.md)
-- [Decreto 003 2026](decreto-003-2026.md)
-- [Decreto 006 2026](decreto-006-2026.md)
-- [Decreto 041 2026](decreto-041-2026.md)
-- [Decreto 042 2026](decreto-042-2026.md)
-- [Decreto 043 2026](decreto-043-2026.md)
-- [Decreto 055 2026](decreto-055-2026.md)
-- [Decreto 058 2026](decreto-058-2026.md)
-- [Decreto 059 2026](decreto-059-2026.md)
-- [Decreto 060 2026](decreto-060-2026.md)
-- [Decreto 065 2026](decreto-065-2026.md)
-- [Decreto 066 2026](decreto-066-2026.md)
-- [Decreto 069 2026](decreto-069-2026.md)
-- [Decreto 070 2026](decreto-070-2026.md)
-- [Decreto 071 2026](decreto-071-2026.md)
-- [Decreto 084 2026](decreto-084-2026.md)
-- [Decreto 095 2026](decreto-095-2026.md)
-- [Decreto 111 2026](decreto-111-2026.md)
-- [Decreto 133 2026](decreto-133-2026.md)
-- [Decreto 134 2026](decreto-134-2026.md)
-- [Decreto 135 2026](decreto-135-2026.md)
-- [Decreto 197 2026](decreto-197-2026.md)
-- [Decreto 200 2026](decreto-200-2026.md)
-- [Decreto 234 2026](decreto-234-2026.md)
-- [Decreto 236 2026](decreto-236-2026.md)
-- [Decreto 240 2026](decreto-240-2026.md)
-- [Decreto 241 2026](decreto-241-2026.md)
-- [Decreto 242 2026](decreto-242-2026.md)
-- [Decreto 243 2026](decreto-243-2026.md)
-- [Decreto 245 2026](decreto-245-2026.md)
-- [Decreto 285 2026](decreto-285-2026.md)
-- [Decreto 298 2026](decreto-298-2026.md)
-- [Decreto 309 2026](decreto-309-2026.md)
-- [Decreto 311 2026](decreto-311-2026.md)
-- [Decreto 312 2026](decreto-312-2026.md)
-- [Decreto 330 2026](decreto-330-2026.md)
-- [Decreto 352 2026](decreto-352-2026.md)
-- [Decreto 409 2026](decreto-409-2026.md)
-- [Decreto 438 2026](decreto-438-2026.md)
-- [Decreto 444 2026](decreto-444-2026.md)
+- [Decreto núm. 001-2026](decreto-001-2026.md)
+- [Decreto núm. 002-2026](decreto-002-2026.md)
+- [Decreto núm. 003-2026](decreto-003-2026.md)
+- [Decreto núm. 004-2026](decreto-004-2026.md)
+- [Decreto núm. 005-2026](decreto-005-2026.md)
+- [Decreto núm. 006-2026](decreto-006-2026.md)
+- [Decreto núm. 007-2026](decreto-007-2026.md)
+- [Decreto núm. 008-2026](decreto-008-2026.md)
+- [Decreto núm. 041-2026](decreto-041-2026.md)
+- [Decreto núm. 042-2026](decreto-042-2026.md)
+- [Decreto núm. 043-2026](decreto-043-2026.md)
+- [Decreto núm. 055-2026](decreto-055-2026.md)
+- [Decreto núm. 058-2026](decreto-058-2026.md)
+- [Decreto núm. 059-2026](decreto-059-2026.md)
+- [Decreto núm. 060-2026](decreto-060-2026.md)
+- [Decreto núm. 065-2026](decreto-065-2026.md)
+- [Decreto núm. 066-2026](decreto-066-2026.md)
+- [Decreto núm. 069-2026](decreto-069-2026.md)
+- [Decreto núm. 070-2026](decreto-070-2026.md)
+- [Decreto núm. 071-2026](decreto-071-2026.md)
+- [Decreto núm. 084-2026](decreto-084-2026.md)
+- [Decreto núm. 095-2026](decreto-095-2026.md)
+- [Decreto núm. 111-2026](decreto-111-2026.md)
+- [Decreto núm. 133-2026](decreto-133-2026.md)
+- [Decreto núm. 134-2026](decreto-134-2026.md)
+- [Decreto núm. 135-2026](decreto-135-2026.md)
+- [Decreto núm. 197-2026](decreto-197-2026.md)
+- [Decreto núm. 200-2026](decreto-200-2026.md)
+- [Decreto núm. 234-2026](decreto-234-2026.md)
+- [Decreto núm. 236-2026](decreto-236-2026.md)
+- [Decreto núm. 240-2026](decreto-240-2026.md)
+- [Decreto núm. 241-2026](decreto-241-2026.md)
+- [Decreto núm. 242-2026](decreto-242-2026.md)
+- [Decreto núm. 243-2026](decreto-243-2026.md)
+- [Decreto núm. 245-2026](decreto-245-2026.md)
+- [Decreto núm. 285-2026](decreto-285-2026.md)
+- [Decreto núm. 298-2026](decreto-298-2026.md)
+- [Decreto núm. 309-2026](decreto-309-2026.md)
+- [Decreto núm. 311-2026](decreto-311-2026.md)
+- [Decreto núm. 312-2026](decreto-312-2026.md)
+- [Decreto núm. 330-2026](decreto-330-2026.md)
+- [Decreto núm. 352-2026](decreto-352-2026.md)
+- [Decreto núm. 409-2026](decreto-409-2026.md)
+- [Decreto núm. 438-2026](decreto-438-2026.md)
+- [Decreto núm. 444-2026](decreto-444-2026.md)
 
 ## Documentos detectados
 
@@ -91,14 +96,14 @@ Documentos detectados: **406**.
 | 194-26 | 20/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS, PARA SER UTILIZADAS E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404597&managementType=1) | pendiente_verificacion_pdf |
 | 195-26 | 20/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL SETENTA Y TRES (73) PORCIONES DE TERRENOS EN EL DIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404621&managementType=1) | pendiente_verificacion_pdf |
 | 196-26 | 20/03/2025 | 11235 | QUE NOMBRA A FREDERICK LÓPEZ FERNÁNDEZ SUBDIRECTOR GENERAL DE TECNOLOGÍA DE LA DIRECCIÓN GENERAL DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404598&managementType=1) | pendiente_verificacion_pdf |
-| 1-26 | 05/01/2026 | 11228 | QUE NOMBRA A LOS SEÑORES JORGE A. SUBERO ISA Y ANTOLIANO PERALTA ROMERO, CONSULTOR JURÍDICO DEL PODE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404188&managementType=1) | pendiente_verificacion_pdf |
+| 1-26 | 05/01/2026 | 11228 | QUE NOMBRA A LOS SEÑORES JORGE A. SUBERO ISA Y ANTOLIANO PERALTA ROMERO, CONSULTOR JURÍDICO DEL PODE... | [Ver documento](decreto-001-2026.md) | normalizado · pendiente_revision |
 | 2-26 | 06/01/2026 | 11228 | QUE NOMBRA A LOS SEÑORES FRANCISCO OLIVERIO ESPAILLAT BENCOSME Y GLORIA ROELY REYES GÓMEZ, MINISTROS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404189&managementType=1) | pendiente_verificacion_pdf |
 | 3-26 | 06/01/2026 | 11228 | QUE NOMBRA AL SEÑOR VÍCTOR ORLANDO BISONÓ HAZA, MINISTRO DE LA VIVIENDA, HÁBITAT Y EDIFICACIONES A P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404200&managementType=1) | pendiente_verificacion_pdf |
-| 4-26 | 07/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚMERO 221-25. DISPONE QUE EL CONSEJO DE ADMINISTRACIÓN DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404190&managementType=1) | pendiente_verificacion_pdf |
-| 5-26 | 07/01/2026 | 11228 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚMERO 548-20. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404191&managementType=1) | pendiente_verificacion_pdf |
-| 7-26 | 07/01/2026 | 11228 | QUE NOMBRA SEIS (6) SUBDIRECTORES DE LA DIRECCIÓN DE ASISTENCIA SOCIAL Y ALIMENTACIÓN COMUNITARIA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404192&managementType=1) | pendiente_verificacion_pdf |
+| 4-26 | 07/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚMERO 221-25. DISPONE QUE EL CONSEJO DE ADMINISTRACIÓN DE LA... | [Ver documento](decreto-004-2026.md) | normalizado · pendiente_revision |
+| 5-26 | 07/01/2026 | 11228 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚMERO 548-20. | [Ver documento](decreto-005-2026.md) | normalizado · pendiente_revision |
+| 7-26 | 07/01/2026 | 11228 | QUE NOMBRA SEIS (6) SUBDIRECTORES DE LA DIRECCIÓN DE ASISTENCIA SOCIAL Y ALIMENTACIÓN COMUNITARIA. | [Ver documento](decreto-007-2026.md) | normalizado · pendiente_revision |
 | 6-26 | 08/01/2026 | 11228 | QUE DESIGNA AL SEÑOR JULIO CÉSAR LANDRÓN DE LA ROSA, DIRECTOR EJECUTIVO DEL SERVICIO NACIONAL DE SAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404201&managementType=1) | pendiente_verificacion_pdf |
-| 8-26 | 08/01/2026 | 11228 | QUE NOMBRA CUATRO (4) SUBDIRECTORES EN DISTINTAS DEPENDENCIAS DE LA DIRECCIÓN GENERAL DE IMPUESTOS I... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404202&managementType=1) | pendiente_verificacion_pdf |
+| 8-26 | 08/01/2026 | 11228 | QUE NOMBRA CUATRO (4) SUBDIRECTORES EN DISTINTAS DEPENDENCIAS DE LA DIRECCIÓN GENERAL DE IMPUESTOS I... | [Ver documento](decreto-008-2026.md) | normalizado · pendiente_revision |
 | 10-26 | 09/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 240-12. AUTORIZA A LA EMPRESA AMBER COVE CRUISE TERMINAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404204&managementType=1) | pendiente_verificacion_pdf |
 | 11-26 | 09/01/2026 | 11228 | QUE DESIGNA AL SEÑOR EDGAR ELIEZER TORRES REYNOSO, SUBCONSULTOR JURÍDICO DEL PODER EJECUTIVO. DEROGA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404193&managementType=1) | pendiente_verificacion_pdf |
 | 12-26 | 09/01/2026 | 11228 | QUE AUTORIZA A LA SOCIEDAD PLAYA CANA B.V., A HACER USO DE UNA PARTE DE LOS 60 METROS DE LA FRANJA M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404194&managementType=1) | pendiente_verificacion_pdf |
