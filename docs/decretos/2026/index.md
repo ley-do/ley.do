@@ -37,6 +37,16 @@ Documentos detectados: **406**.
 - [Decreto núm. 026-2026](decreto-026-2026.md)
 - [Decreto núm. 027-2026](decreto-027-2026.md)
 - [Decreto núm. 028-2026](decreto-028-2026.md)
+- [Decreto núm. 029-2026](decreto-029-2026.md)
+- [Decreto núm. 030-2026](decreto-030-2026.md)
+- [Decreto núm. 031-2026](decreto-031-2026.md)
+- [Decreto núm. 032-2026](decreto-032-2026.md)
+- [Decreto núm. 033-2026](decreto-033-2026.md)
+- [Decreto núm. 034-2026](decreto-034-2026.md)
+- [Decreto núm. 035-2026](decreto-035-2026.md)
+- [Decreto núm. 036-2026](decreto-036-2026.md)
+- [Decreto núm. 037-2026](decreto-037-2026.md)
+- [Decreto núm. 038-2026](decreto-038-2026.md)
 - [Decreto núm. 041-2026](decreto-041-2026.md)
 - [Decreto núm. 042-2026](decreto-042-2026.md)
 - [Decreto núm. 043-2026](decreto-043-2026.md)
@@ -144,16 +154,16 @@ Documentos detectados: **406**.
 | 26-26 | 15/01/2026 | 11228 | QUE DESIGNA AL SEÑOR IVÁN ERNESTO GATÓN ROSA, EMBAJADOR EN EL SERVICIO INTERNO DEL MINISTERIO DE REL... | [Ver documento](decreto-026-2026.md) | normalizado · pendiente_revision |
 | 27-26 | 15/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Ver documento](decreto-027-2026.md) | normalizado · pendiente_revision |
 | 28-26 | 15/01/2026 | 11228 | QUE AUTORIZA LA AMPLIACIÓN DEL PARQUE MULTIMODAL SAN FRANCISCO DE JACAGUA Y MODIFICA EL ARTÍCULO 2 D... | [Ver documento](decreto-028-2026.md) | normalizado · pendiente_revision |
-| 29-26 | 16/01/2026 | 11230 | QUE DESIGNA CUATRO (4) VICEMINISTRAS EN VARIAS ÁREAS DEL MINISTERIO DE LA MUJER Y NOMBRA CUATRO (4) ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404396&managementType=1) | pendiente_verificacion_pdf |
-| 30-26 | 16/01/2026 | 11230 | QUE NOMBRA CUATRO (4) VICEMINISTROS EN VARIAS ÁREAS DEL MINISTERIO DE JUSTICA. DESIGNA AL SEÑOR MAIR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404397&managementType=1) | pendiente_verificacion_pdf |
-| 31-26 | 16/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404379&managementType=1) | pendiente_verificacion_pdf |
-| 32-26 | 16/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 134 SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404380&managementType=1) | pendiente_verificacion_pdf |
-| 33-26 | 19/01/2026 | 11230 | QUE MODIFICA EL DECRETO NÚM. 314-15, PARA QUE EN LO ADELANTE DONDE DIGA D.R. CRUISE PORT, LTD, SE LE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404398&managementType=1) | pendiente_verificacion_pdf |
-| 34-26 | 19/01/2026 | 11230 | QUE CONCEDE LA CONDECORACIÓN DE LA MEDALLA DE LA SEGURIDAD DE LA AVIACIÓN CIVIL, CON DISTINTIVO AZUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404399&managementType=1) | pendiente_verificacion_pdf |
-| 35-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 34 SERVIDORES DEL SECTOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404400&managementType=1) | pendiente_verificacion_pdf |
-| 36-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 71 PERSON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404381&managementType=1) | pendiente_verificacion_pdf |
-| 37-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 722 SERVIDORES DEL SECTO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404382&managementType=1) | pendiente_verificacion_pdf |
-| 38-26 | 23/01/2026 | 11230 | QUE DECLARA DE ALTO INTERÉS PÚBLICO LA CREACIÓN DEL JARDÍN BOTÁNICO DE SAN JUAN DE LA MAGUANA, COMO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404383&managementType=1) | pendiente_verificacion_pdf |
+| 29-26 | 16/01/2026 | 11230 | QUE DESIGNA CUATRO (4) VICEMINISTRAS EN VARIAS ÁREAS DEL MINISTERIO DE LA MUJER Y NOMBRA CUATRO (4) ... | [Ver documento](decreto-029-2026.md) | normalizado · pendiente_revision |
+| 30-26 | 16/01/2026 | 11230 | QUE NOMBRA CUATRO (4) VICEMINISTROS EN VARIAS ÁREAS DEL MINISTERIO DE JUSTICA. DESIGNA AL SEÑOR MAIR... | [Ver documento](decreto-030-2026.md) | normalizado · pendiente_revision |
+| 31-26 | 16/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-031-2026.md) | normalizado · pendiente_revision |
+| 32-26 | 16/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 134 SERVI... | [Ver documento](decreto-032-2026.md) | normalizado · pendiente_revision |
+| 33-26 | 19/01/2026 | 11230 | QUE MODIFICA EL DECRETO NÚM. 314-15, PARA QUE EN LO ADELANTE DONDE DIGA D.R. CRUISE PORT, LTD, SE LE... | [Ver documento](decreto-033-2026.md) | normalizado · pendiente_revision |
+| 34-26 | 19/01/2026 | 11230 | QUE CONCEDE LA CONDECORACIÓN DE LA MEDALLA DE LA SEGURIDAD DE LA AVIACIÓN CIVIL, CON DISTINTIVO AZUL... | [Ver documento](decreto-034-2026.md) | normalizado · pendiente_revision |
+| 35-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 34 SERVIDORES DEL SECTOR... | [Ver documento](decreto-035-2026.md) | normalizado · pendiente_revision |
+| 36-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 71 PERSON... | [Ver documento](decreto-036-2026.md) | normalizado · pendiente_revision |
+| 37-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 722 SERVIDORES DEL SECTO... | [Ver documento](decreto-037-2026.md) | normalizado · pendiente_revision |
+| 38-26 | 23/01/2026 | 11230 | QUE DECLARA DE ALTO INTERÉS PÚBLICO LA CREACIÓN DEL JARDÍN BOTÁNICO DE SAN JUAN DE LA MAGUANA, COMO ... | [Ver documento](decreto-038-2026.md) | normalizado · pendiente_revision |
 | 39-26 | 23/01/2026 | 11230 | QUE DEROGA EL ARTÍCULO 13 DEL DECRETO NÚM. 390-24. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404384&managementType=1) | pendiente_verificacion_pdf |
 | 40-26 | 27/01/2026 | 11230 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404385&managementType=1) | pendiente_verificacion_pdf |
 | 41-26 | 27/01/2026 | 11230 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO LOUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404386&managementType=1) | pendiente_verificacion_pdf |
