@@ -17,6 +17,16 @@ Documentos detectados: **406**.
 - [Decreto núm. 006-2026](decreto-006-2026.md)
 - [Decreto núm. 007-2026](decreto-007-2026.md)
 - [Decreto núm. 008-2026](decreto-008-2026.md)
+- [Decreto núm. 009-2026](decreto-009-2026.md)
+- [Decreto núm. 010-2026](decreto-010-2026.md)
+- [Decreto núm. 011-2026](decreto-011-2026.md)
+- [Decreto núm. 012-2026](decreto-012-2026.md)
+- [Decreto núm. 013-2026](decreto-013-2026.md)
+- [Decreto núm. 014-2026](decreto-014-2026.md)
+- [Decreto núm. 015-2026](decreto-015-2026.md)
+- [Decreto núm. 016-2026](decreto-016-2026.md)
+- [Decreto núm. 017-2026](decreto-017-2026.md)
+- [Decreto núm. 018-2026](decreto-018-2026.md)
 - [Decreto núm. 041-2026](decreto-041-2026.md)
 - [Decreto núm. 042-2026](decreto-042-2026.md)
 - [Decreto núm. 043-2026](decreto-043-2026.md)
@@ -104,16 +114,16 @@ Documentos detectados: **406**.
 | 7-26 | 07/01/2026 | 11228 | QUE NOMBRA SEIS (6) SUBDIRECTORES DE LA DIRECCIÓN DE ASISTENCIA SOCIAL Y ALIMENTACIÓN COMUNITARIA. | [Ver documento](decreto-007-2026.md) | normalizado · pendiente_revision |
 | 6-26 | 08/01/2026 | 11228 | QUE DESIGNA AL SEÑOR JULIO CÉSAR LANDRÓN DE LA ROSA, DIRECTOR EJECUTIVO DEL SERVICIO NACIONAL DE SAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404201&managementType=1) | pendiente_verificacion_pdf |
 | 8-26 | 08/01/2026 | 11228 | QUE NOMBRA CUATRO (4) SUBDIRECTORES EN DISTINTAS DEPENDENCIAS DE LA DIRECCIÓN GENERAL DE IMPUESTOS I... | [Ver documento](decreto-008-2026.md) | normalizado · pendiente_revision |
-| 10-26 | 09/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 240-12. AUTORIZA A LA EMPRESA AMBER COVE CRUISE TERMINAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404204&managementType=1) | pendiente_verificacion_pdf |
-| 11-26 | 09/01/2026 | 11228 | QUE DESIGNA AL SEÑOR EDGAR ELIEZER TORRES REYNOSO, SUBCONSULTOR JURÍDICO DEL PODER EJECUTIVO. DEROGA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404193&managementType=1) | pendiente_verificacion_pdf |
-| 12-26 | 09/01/2026 | 11228 | QUE AUTORIZA A LA SOCIEDAD PLAYA CANA B.V., A HACER USO DE UNA PARTE DE LOS 60 METROS DE LA FRANJA M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404194&managementType=1) | pendiente_verificacion_pdf |
-| 13-26 | 09/01/2026 | 11228 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404205&managementType=1) | pendiente_verificacion_pdf |
-| 14-26 | 09/01/2026 | 11228 | QUE DESIGNA AL SEÑOR ROBERTO SANTANA SÁNCHEZ, DIRECTOR GENERAL DE SERVICIOS PENITENCIARIOS Y CORRECC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404206&managementType=1) | pendiente_verificacion_pdf |
-| 15-26 | 09/01/2026 | 11228 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404207&managementType=1) | pendiente_verificacion_pdf |
-| 9-26 | 09/01/2026 | 11228 | QUE DEROGA EL DECRETO NÚM. 50-09 | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404203&managementType=1) | pendiente_verificacion_pdf |
-| 16-26 | 12/01/2026 | 11228 | QUE AUTORIZA AL SEÑOR GUSTAVO EDUARDO VEGA VEGA, CÓNSUL HONORARIO DE LA REPÚBLICA DE POLONIA EN SANT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404208&managementType=1) | pendiente_verificacion_pdf |
-| 17-26 | 12/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404209&managementType=1) | pendiente_verificacion_pdf |
-| 18-26 | 12/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 248-22, A FINES DE AJUSTAR LAS COORDENADAS CORRESPONDIEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404195&managementType=1) | pendiente_verificacion_pdf |
+| 10-26 | 09/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 240-12. AUTORIZA A LA EMPRESA AMBER COVE CRUISE TERMINAL... | [Ver documento](decreto-010-2026.md) | normalizado · pendiente_revision |
+| 11-26 | 09/01/2026 | 11228 | QUE DESIGNA AL SEÑOR EDGAR ELIEZER TORRES REYNOSO, SUBCONSULTOR JURÍDICO DEL PODER EJECUTIVO. DEROGA... | [Ver documento](decreto-011-2026.md) | normalizado · pendiente_revision |
+| 12-26 | 09/01/2026 | 11228 | QUE AUTORIZA A LA SOCIEDAD PLAYA CANA B.V., A HACER USO DE UNA PARTE DE LOS 60 METROS DE LA FRANJA M... | [Ver documento](decreto-012-2026.md) | normalizado · pendiente_revision |
+| 13-26 | 09/01/2026 | 11228 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-013-2026.md) | normalizado · pendiente_revision |
+| 14-26 | 09/01/2026 | 11228 | QUE DESIGNA AL SEÑOR ROBERTO SANTANA SÁNCHEZ, DIRECTOR GENERAL DE SERVICIOS PENITENCIARIOS Y CORRECC... | [Ver documento](decreto-014-2026.md) | normalizado · pendiente_revision |
+| 15-26 | 09/01/2026 | 11228 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Ver documento](decreto-015-2026.md) | normalizado · pendiente_revision |
+| 9-26 | 09/01/2026 | 11228 | QUE DEROGA EL DECRETO NÚM. 50-09 | [Ver documento](decreto-009-2026.md) | normalizado · pendiente_revision |
+| 16-26 | 12/01/2026 | 11228 | QUE AUTORIZA AL SEÑOR GUSTAVO EDUARDO VEGA VEGA, CÓNSUL HONORARIO DE LA REPÚBLICA DE POLONIA EN SANT... | [Ver documento](decreto-016-2026.md) | normalizado · pendiente_revision |
+| 17-26 | 12/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Ver documento](decreto-017-2026.md) | normalizado · pendiente_revision |
+| 18-26 | 12/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 248-22, A FINES DE AJUSTAR LAS COORDENADAS CORRESPONDIEN... | [Ver documento](decreto-018-2026.md) | normalizado · pendiente_revision |
 | 19-26 | 12/01/2026 | 11228 | QUE DEROGA EL DECRETO NÚM. 284-91, QUE APRUEBA EL REGLAMENTO TÉCNICO PARA EL ESTACIONAMIENTO VEHICUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404196&managementType=1) | pendiente_verificacion_pdf |
 | 20-26 | 12/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404197&managementType=1) | pendiente_verificacion_pdf |
 | 21-26 | 15/01/2026 | 11228 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO A TRES (3) PERSONAS, Y AUMENTA A LA SUMA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404210&managementType=1) | pendiente_verificacion_pdf |
