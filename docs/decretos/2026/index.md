@@ -145,6 +145,16 @@ Documentos detectados: **406**.
 - [Decreto núm. 134-2026](decreto-134-2026.md)
 - [Decreto núm. 135-2026](decreto-135-2026.md)
 - [Decreto núm. 136-2026](decreto-136-2026.md)
+- [Decreto núm. 137-2026](decreto-137-2026.md)
+- [Decreto núm. 138-2026](decreto-138-2026.md)
+- [Decreto núm. 139-2026](decreto-139-2026.md)
+- [Decreto núm. 140-2026](decreto-140-2026.md)
+- [Decreto núm. 141-2026](decreto-141-2026.md)
+- [Decreto núm. 142-2026](decreto-142-2026.md)
+- [Decreto núm. 143-2026](decreto-143-2026.md)
+- [Decreto núm. 144-2026](decreto-144-2026.md)
+- [Decreto núm. 145-2026](decreto-145-2026.md)
+- [Decreto núm. 146-2026](decreto-146-2026.md)
 - [Decreto núm. 197-2026](decreto-197-2026.md)
 - [Decreto núm. 200-2026](decreto-200-2026.md)
 - [Decreto núm. 234-2026](decreto-234-2026.md)
@@ -342,16 +352,16 @@ Documentos detectados: **406**.
 | 134-26 | 27/02/2026 | 11233 | QUE DESIGNA AL GENERAL JUAN HILARIO GUZMÁN BADÍA, P.N., RECTOR DEL INSTITUTO POLICIAL DE EDUCACIÓN (... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404490&managementType=1) | pendiente_verificacion_pdf |
 | 135-26 | 27/02/2026 | 11233 | QUE ASCIENDE AL RANGO DE GENERAL DE BRIGADA A SIETE CORONELES DEL EJERCITO NACIONAL Y AL CORONEL PIL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404471&managementType=1) | pendiente_verificacion_pdf |
 | 136-26 | 27/02/2026 | 11233 | QUE CONFIRMA AL CORONEL RAFAEL RAYMUNDO RAMÍREZ TEJEDA, ERD, COMO SUBJEFE DEL CUERPO DE SEGURIDAD PR... | [Ver documento](decreto-136-2026.md) | normalizado · pendiente_revision |
-| 137-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404561&managementType=1) | pendiente_verificacion_pdf |
-| 138-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404568&managementType=1) | pendiente_verificacion_pdf |
-| 139-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404569&managementType=1) | pendiente_verificacion_pdf |
-| 140-26 | 03/03/2026 | 11234 | QUE DESIGNA 6 EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS, CONCURRENTES, DE NUESTRO PAÍS EN LA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404562&managementType=1) | pendiente_verificacion_pdf |
-| 141-26 | 03/03/2026 | 11234 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$35,000.00 M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404570&managementType=1) | pendiente_verificacion_pdf |
-| 142-26 | 03/03/2026 | 11234 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$12,500.00 MENSUALES A 114 A PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404571&managementType=1) | pendiente_verificacion_pdf |
-| 143-26 | 04/03/2026 | 11234 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA, DEL CIUDADANO DOMINICANO JOSÉ ODANIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404563&managementType=1) | pendiente_verificacion_pdf |
-| 144-26 | 04/03/2026 | 11234 | QUE DEROGA EL ARTÍCULO 20 DEL DECRETO NÚM. 330-20, QUE DESIGNÓ AL SEÑOR RAMÓN A. PÉREZ FERMÍN, VICEM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404572&managementType=1) | pendiente_verificacion_pdf |
-| 145-26 | 04/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404573&managementType=1) | pendiente_verificacion_pdf |
-| 146-26 | 04/03/2026 | 11234 | QUE APRUEBA EL ESTABLECIMIENTO DE UN AEROPUERTO INTERNACIONAL DE CARÁCTER PRIVADO Y COMERCIAL, DENOM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404574&managementType=1) | pendiente_verificacion_pdf |
+| 137-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-137-2026.md) | normalizado · pendiente_revision |
+| 138-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-138-2026.md) | normalizado · pendiente_revision |
+| 139-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-139-2026.md) | normalizado · pendiente_revision |
+| 140-26 | 03/03/2026 | 11234 | QUE DESIGNA 6 EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS, CONCURRENTES, DE NUESTRO PAÍS EN LA R... | [Ver documento](decreto-140-2026.md) | normalizado · pendiente_revision |
+| 141-26 | 03/03/2026 | 11234 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$35,000.00 M... | [Ver documento](decreto-141-2026.md) | normalizado · pendiente_revision |
+| 142-26 | 03/03/2026 | 11234 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$12,500.00 MENSUALES A 114 A PERSONAS. | [Ver documento](decreto-142-2026.md) | normalizado · pendiente_revision |
+| 143-26 | 04/03/2026 | 11234 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA, DEL CIUDADANO DOMINICANO JOSÉ ODANIS ... | [Ver documento](decreto-143-2026.md) | normalizado · pendiente_revision |
+| 144-26 | 04/03/2026 | 11234 | QUE DEROGA EL ARTÍCULO 20 DEL DECRETO NÚM. 330-20, QUE DESIGNÓ AL SEÑOR RAMÓN A. PÉREZ FERMÍN, VICEM... | [Ver documento](decreto-144-2026.md) | normalizado · pendiente_revision |
+| 145-26 | 04/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-145-2026.md) | normalizado · pendiente_revision |
+| 146-26 | 04/03/2026 | 11234 | QUE APRUEBA EL ESTABLECIMIENTO DE UN AEROPUERTO INTERNACIONAL DE CARÁCTER PRIVADO Y COMERCIAL, DENOM... | [Ver documento](decreto-146-2026.md) | normalizado · pendiente_revision |
 | 147-26 | 04/03/2026 | 11234 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS CON DIFERENTES D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404575&managementType=1) | pendiente_verificacion_pdf |
 | 148-26 | 04/03/2026 | 11234 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 46 PERSONAS. MODIFIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404576&managementType=1) | pendiente_verificacion_pdf |
 | 149-26 | 04/03/2026 | 11234 | QUE DEROGA LOS DECRETOS QUE NOMBRARON PERSONAL CONSULAR EN DIFERENTES PAÍSES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404564&managementType=1) | pendiente_verificacion_pdf |
