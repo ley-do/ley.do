@@ -100,7 +100,17 @@ Documentos detectados: **406**.
 - [Decreto núm. 089-2026](decreto-089-2026.md)
 - [Decreto núm. 090-2026](decreto-090-2026.md)
 - [Decreto núm. 091-2026](decreto-091-2026.md)
+- [Decreto núm. 092-2026](decreto-092-2026.md)
+- [Decreto núm. 093-2026](decreto-093-2026.md)
+- [Decreto núm. 094-2026](decreto-094-2026.md)
 - [Decreto núm. 095-2026](decreto-095-2026.md)
+- [Decreto núm. 096-2026](decreto-096-2026.md)
+- [Decreto núm. 097-2026](decreto-097-2026.md)
+- [Decreto núm. 098-2026](decreto-098-2026.md)
+- [Decreto núm. 099-2026](decreto-099-2026.md)
+- [Decreto núm. 100-2026](decreto-100-2026.md)
+- [Decreto núm. 101-2026](decreto-101-2026.md)
+- [Decreto núm. 102-2026](decreto-102-2026.md)
 - [Decreto núm. 111-2026](decreto-111-2026.md)
 - [Decreto núm. 133-2026](decreto-133-2026.md)
 - [Decreto núm. 134-2026](decreto-134-2026.md)
@@ -257,17 +267,17 @@ Documentos detectados: **406**.
 | 89-26 | 10/02/2026 | 11232 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO A 12 SERVIDORES PÚBLICOS DEL... | [Ver documento](decreto-089-2026.md) | normalizado · pendiente_revision |
 | 90-26 | 10/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 14 SERVIDORES DEL INSTITUTO AGRARIO DOMINICANO. | [Ver documento](decreto-090-2026.md) | normalizado · pendiente_revision |
 | 91-26 | 10/02/2026 | 11232 | QUE AUMENTA A LA SUMA DE RD$60,000.00 MENSUALES LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA MILE... | [Ver documento](decreto-091-2026.md) | normalizado · pendiente_revision |
-| 92-26 | 10/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404435&managementType=1) | pendiente_verificacion_pdf |
-| 93-26 | 10/02/2026 | 11232 | QUE AUTORIZA A LA SOCIEDAD COMERCIAL PDAB PORT INVESTMENTS SOCIEDAD GESTORA, A HACER USO DE UNA PART... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404451&managementType=1) | pendiente_verificacion_pdf |
-| 94-26 | 10/02/2026 | 11232 | QUE DESIGNA AL SEÑOR FÉLIX ANTONIO SANTANA GARCÍA, MIEMBRO DEL CONSEJO DE DIRECTORES DEL BANCO DE RE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404436&managementType=1) | pendiente_verificacion_pdf |
+| 92-26 | 10/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-092-2026.md) | normalizado · pendiente_revision |
+| 93-26 | 10/02/2026 | 11232 | QUE AUTORIZA A LA SOCIEDAD COMERCIAL PDAB PORT INVESTMENTS SOCIEDAD GESTORA, A HACER USO DE UNA PART... | [Ver documento](decreto-093-2026.md) | normalizado · pendiente_revision |
+| 94-26 | 10/02/2026 | 11232 | QUE DESIGNA AL SEÑOR FÉLIX ANTONIO SANTANA GARCÍA, MIEMBRO DEL CONSEJO DE DIRECTORES DEL BANCO DE RE... | [Ver documento](decreto-094-2026.md) | normalizado · pendiente_revision |
 | 95-26 | 10/02/2026 | 11232 | QUE DESIGNA A LA SEÑORA MARÍA MARGARITA MORLA PINEDA, DIRECTORA GENERAL DEL INSTITUTO NACIONAL DE FO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404437&managementType=1) | pendiente_verificacion_pdf |
-| 96-26 | 12/02/2026 | 11232 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 556-25. DISPONE QUE EL SEÑOR LUIS ERNESTO CAMILO GARCÍA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404452&managementType=1) | pendiente_verificacion_pdf |
-| 97-26 | 12/02/2026 | 11232 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN CRUZ PLACA D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404453&managementType=1) | pendiente_verificacion_pdf |
-| 98-26 | 12/02/2026 | 11232 | QUE ACOGE PARCIALMENTE LA RESOLUCIÓN NÚM. 6948, DICTADA POR LA COMISIÓN AEROPORTUARIA Y DISPONE UN R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404454&managementType=1) | pendiente_verificacion_pdf |
-| 100-26 | 13/02/2026 | 11232 | QUE AUTORIZA DE MANERA TEMPORAL, POR UN PERÍODO DE SEIS (6) MESES, CONTADO A PARTIR DE LA PUBLICACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404455&managementType=1) | pendiente_verificacion_pdf |
-| 101-26 | 13/02/2026 | 11232 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 695-20. DISPONE NUEVAMENTE LA INTEGRACIÓN DEL GABINETE D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404439&managementType=1) | pendiente_verificacion_pdf |
-| 99-26 | 13/02/2026 | 11232 | QUE APRUEBA, DE ACUERDO A LO PREVISTO EN EL ARTÍCULO 66.2 DE LA LEY GENERAL DE TELECOMUNICACIONES, N... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404438&managementType=1) | pendiente_verificacion_pdf |
-| 102-26 | 16/02/2026 | 11233 | QUE DESIGNA AL SEÑOR LEONEL MATEO HERNÁNDEZ, CONSEJERO EN LA EMBAJADA DE NUESTRO PAÍS EN EL ESTADO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404457&managementType=1) | pendiente_verificacion_pdf |
+| 96-26 | 12/02/2026 | 11232 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 556-25. DISPONE QUE EL SEÑOR LUIS ERNESTO CAMILO GARCÍA ... | [Ver documento](decreto-096-2026.md) | normalizado · pendiente_revision |
+| 97-26 | 12/02/2026 | 11232 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN CRUZ PLACA D... | [Ver documento](decreto-097-2026.md) | normalizado · pendiente_revision |
+| 98-26 | 12/02/2026 | 11232 | QUE ACOGE PARCIALMENTE LA RESOLUCIÓN NÚM. 6948, DICTADA POR LA COMISIÓN AEROPORTUARIA Y DISPONE UN R... | [Ver documento](decreto-098-2026.md) | normalizado · pendiente_revision |
+| 100-26 | 13/02/2026 | 11232 | QUE AUTORIZA DE MANERA TEMPORAL, POR UN PERÍODO DE SEIS (6) MESES, CONTADO A PARTIR DE LA PUBLICACIÓ... | [Ver documento](decreto-100-2026.md) | normalizado · pendiente_revision |
+| 101-26 | 13/02/2026 | 11232 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 695-20. DISPONE NUEVAMENTE LA INTEGRACIÓN DEL GABINETE D... | [Ver documento](decreto-101-2026.md) | normalizado · pendiente_revision |
+| 99-26 | 13/02/2026 | 11232 | QUE APRUEBA, DE ACUERDO A LO PREVISTO EN EL ARTÍCULO 66.2 DE LA LEY GENERAL DE TELECOMUNICACIONES, N... | [Ver documento](decreto-099-2026.md) | normalizado · pendiente_revision |
+| 102-26 | 16/02/2026 | 11233 | QUE DESIGNA AL SEÑOR LEONEL MATEO HERNÁNDEZ, CONSEJERO EN LA EMBAJADA DE NUESTRO PAÍS EN EL ESTADO D... | [Ver documento](decreto-102-2026.md) | normalizado · pendiente_revision |
 | 103-26 | 16/02/2026 | 11233 | QUE NOMBRA AL SEÑOR OTTO VLADIMIR VARGAS LORA, VICEMINISTRO ADMINISTRATIVO FINANCIERO DEL MINISTERIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404458&managementType=1) | pendiente_verificacion_pdf |
 | 104-26 | 16/02/2026 | 11233 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE LOS PAÍSES BAJOS, DEL NACIONAL DOMINICANO Y NEERLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404459&managementType=1) | pendiente_verificacion_pdf |
 | 105-26 | 16/02/2026 | 11233 | QUE CREA LA COMISIÓN ENCARGADA DE LA CREACIÓN DEL OBSERVATORIO DE POLÍTICAS AMBIENTALES Y ÁREAS PROT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404460&managementType=1) | pendiente_verificacion_pdf |
