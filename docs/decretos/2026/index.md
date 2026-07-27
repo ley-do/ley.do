@@ -89,7 +89,17 @@ Documentos detectados: **406**.
 - [Decreto núm. 078-2026](decreto-078-2026.md)
 - [Decreto núm. 079-2026](decreto-079-2026.md)
 - [Decreto núm. 080-2026](decreto-080-2026.md)
+- [Decreto núm. 081-2026](decreto-081-2026.md)
+- [Decreto núm. 082-2026](decreto-082-2026.md)
+- [Decreto núm. 083-2026](decreto-083-2026.md)
 - [Decreto núm. 084-2026](decreto-084-2026.md)
+- [Decreto núm. 085-2026](decreto-085-2026.md)
+- [Decreto núm. 086-2026](decreto-086-2026.md)
+- [Decreto núm. 087-2026](decreto-087-2026.md)
+- [Decreto núm. 088-2026](decreto-088-2026.md)
+- [Decreto núm. 089-2026](decreto-089-2026.md)
+- [Decreto núm. 090-2026](decreto-090-2026.md)
+- [Decreto núm. 091-2026](decreto-091-2026.md)
 - [Decreto núm. 095-2026](decreto-095-2026.md)
 - [Decreto núm. 111-2026](decreto-111-2026.md)
 - [Decreto núm. 133-2026](decreto-133-2026.md)
@@ -236,17 +246,17 @@ Documentos detectados: **406**.
 | 78-26 | 09/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$10,000.00 MENSUALES A 44 PERSONAS. | [Ver documento](decreto-078-2026.md) | normalizado · pendiente_revision |
 | 79-26 | 09/02/2026 | 11232 | QUE MODIFICA LOS NUMERALES 3 Y 4 DEL ARTÍCULO 1 DEL DECRETO NÚM. 141-25. DECLARA DE UTILIDAD PÚBLICA... | [Ver documento](decreto-079-2026.md) | normalizado · pendiente_revision |
 | 80-26 | 09/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ÁNGEL... | [Ver documento](decreto-080-2026.md) | normalizado · pendiente_revision |
-| 81-26 | 09/02/2026 | 11232 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 43 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404426&managementType=1) | pendiente_verificacion_pdf |
-| 82-26 | 09/02/2026 | 11232 | QUE AUTORIZA AL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404427&managementType=1) | pendiente_verificacion_pdf |
-| 83-26 | 09/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404428&managementType=1) | pendiente_verificacion_pdf |
+| 81-26 | 09/02/2026 | 11232 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 43 PERSONAS. | [Ver documento](decreto-081-2026.md) | normalizado · pendiente_revision |
+| 82-26 | 09/02/2026 | 11232 | QUE AUTORIZA AL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Ver documento](decreto-082-2026.md) | normalizado · pendiente_revision |
+| 83-26 | 09/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Ver documento](decreto-083-2026.md) | normalizado · pendiente_revision |
 | 84-26 | 09/02/2026 | 11232 | QUE DESIGNA A LOS SEÑORES RAFAEL EVARISTO SANTOS BADIA Y GERALDO ESPINOSA PÉREZ, MINISTRO DE EDUCACI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404449&managementType=1) | pendiente_verificacion_pdf |
-| 85-26 | 10/02/2026 | 11232 | QUE INSTRUYE AL CONSEJO NACIONAL DE SEGURIDAD SOCIAL A ELABORAR LAS NORMATIVAS NECESARIAS PARA LA OP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404429&managementType=1) | pendiente_verificacion_pdf |
-| 86-26 | 10/02/2026 | 11232 | QUE NOMBRA AL GENERAL (R) PEDRO ALBERTO PIÑA DE LOS SANTOS, F.A.D., DIRECTOR INTERINO DE LA COMISIÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404430&managementType=1) | pendiente_verificacion_pdf |
-| 87-26 | 10/02/2026 | 11232 | QUE DEROGA LOS ARTÍCULOS 1 Y 2 DEL DECRETO NÚM. 487-20, QUE DESIGNARON A LOS SEÑORES RIVERA AMADOR A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404431&managementType=1) | pendiente_verificacion_pdf |
-| 88-26 | 10/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404432&managementType=1) | pendiente_verificacion_pdf |
-| 89-26 | 10/02/2026 | 11232 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO A 12 SERVIDORES PÚBLICOS DEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404433&managementType=1) | pendiente_verificacion_pdf |
-| 90-26 | 10/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 14 SERVIDORES DEL INSTITUTO AGRARIO DOMINICANO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404450&managementType=1) | pendiente_verificacion_pdf |
-| 91-26 | 10/02/2026 | 11232 | QUE AUMENTA A LA SUMA DE RD$60,000.00 MENSUALES LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA MILE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404434&managementType=1) | pendiente_verificacion_pdf |
+| 85-26 | 10/02/2026 | 11232 | QUE INSTRUYE AL CONSEJO NACIONAL DE SEGURIDAD SOCIAL A ELABORAR LAS NORMATIVAS NECESARIAS PARA LA OP... | [Ver documento](decreto-085-2026.md) | normalizado · pendiente_revision |
+| 86-26 | 10/02/2026 | 11232 | QUE NOMBRA AL GENERAL (R) PEDRO ALBERTO PIÑA DE LOS SANTOS, F.A.D., DIRECTOR INTERINO DE LA COMISIÓN... | [Ver documento](decreto-086-2026.md) | normalizado · pendiente_revision |
+| 87-26 | 10/02/2026 | 11232 | QUE DEROGA LOS ARTÍCULOS 1 Y 2 DEL DECRETO NÚM. 487-20, QUE DESIGNARON A LOS SEÑORES RIVERA AMADOR A... | [Ver documento](decreto-087-2026.md) | normalizado · pendiente_revision |
+| 88-26 | 10/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-088-2026.md) | normalizado · pendiente_revision |
+| 89-26 | 10/02/2026 | 11232 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO A 12 SERVIDORES PÚBLICOS DEL... | [Ver documento](decreto-089-2026.md) | normalizado · pendiente_revision |
+| 90-26 | 10/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 14 SERVIDORES DEL INSTITUTO AGRARIO DOMINICANO. | [Ver documento](decreto-090-2026.md) | normalizado · pendiente_revision |
+| 91-26 | 10/02/2026 | 11232 | QUE AUMENTA A LA SUMA DE RD$60,000.00 MENSUALES LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA MILE... | [Ver documento](decreto-091-2026.md) | normalizado · pendiente_revision |
 | 92-26 | 10/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404435&managementType=1) | pendiente_verificacion_pdf |
 | 93-26 | 10/02/2026 | 11232 | QUE AUTORIZA A LA SOCIEDAD COMERCIAL PDAB PORT INVESTMENTS SOCIEDAD GESTORA, A HACER USO DE UNA PART... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404451&managementType=1) | pendiente_verificacion_pdf |
 | 94-26 | 10/02/2026 | 11232 | QUE DESIGNA AL SEÑOR FÉLIX ANTONIO SANTANA GARCÍA, MIEMBRO DEL CONSEJO DE DIRECTORES DEL BANCO DE RE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404436&managementType=1) | pendiente_verificacion_pdf |
