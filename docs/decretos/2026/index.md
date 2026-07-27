@@ -76,9 +76,19 @@ Documentos detectados: **406**.
 - [Decreto núm. 065-2026](decreto-065-2026.md)
 - [Decreto núm. 066-2026](decreto-066-2026.md)
 - [Decreto núm. 067-2026](decreto-067-2026.md)
+- [Decreto núm. 068-2026](decreto-068-2026.md)
 - [Decreto núm. 069-2026](decreto-069-2026.md)
 - [Decreto núm. 070-2026](decreto-070-2026.md)
 - [Decreto núm. 071-2026](decreto-071-2026.md)
+- [Decreto núm. 072-2026](decreto-072-2026.md)
+- [Decreto núm. 073-2026](decreto-073-2026.md)
+- [Decreto núm. 074-2026](decreto-074-2026.md)
+- [Decreto núm. 075-2026](decreto-075-2026.md)
+- [Decreto núm. 076-2026](decreto-076-2026.md)
+- [Decreto núm. 077-2026](decreto-077-2026.md)
+- [Decreto núm. 078-2026](decreto-078-2026.md)
+- [Decreto núm. 079-2026](decreto-079-2026.md)
+- [Decreto núm. 080-2026](decreto-080-2026.md)
 - [Decreto núm. 084-2026](decreto-084-2026.md)
 - [Decreto núm. 095-2026](decreto-095-2026.md)
 - [Decreto núm. 111-2026](decreto-111-2026.md)
@@ -213,19 +223,19 @@ Documentos detectados: **406**.
 | 65-26 | 31/01/2026 | 11231 | QUE NOMBRA AL SEÑOR JIMMY ROSARIO BERNARD RECTOR DEL INSTITUTO TECNOLÓGICO DE LAS AMÉRICAS (ITLA). | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404418&managementType=1) | pendiente_verificacion_pdf |
 | 66-26 | 31/01/2026 | 11231 | 26 QUE DESIGNA AL SEÑOR CÉSAR ENMANUEL CERDA MINAYA, DIRECTOR GENERAL DE LA CORPORACIÓN DEL ACUEDUCT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404419&managementType=1) | pendiente_verificacion_pdf |
 | 67-26 | 31/01/2026 | 11231 | QUE CREA LA COMISIÓN DE VEEDURÍA Y SEGUIMIENTO DE LAS MEDIDAS CONCERTADAS EN EL MARCO DIÁLOGO SOBRE ... | [Ver documento](decreto-067-2026.md) | normalizado · pendiente_revision |
-| 68-26 | 06/02/2026 | 11232 | QUE DESIGNA A LA SEÑORA NANCY PATRICIA FRANJUL PÉREZ, EMBAJADORA, REPRESENTANTE PERMANENTE DE LA REP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404422&managementType=1) | pendiente_verificacion_pdf |
+| 68-26 | 06/02/2026 | 11232 | QUE DESIGNA A LA SEÑORA NANCY PATRICIA FRANJUL PÉREZ, EMBAJADORA, REPRESENTANTE PERMANENTE DE LA REP... | [Ver documento](decreto-068-2026.md) | normalizado · pendiente_revision |
 | 69-26 | 06/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO, LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404440&managementType=1) | pendiente_verificacion_pdf |
 | 70-26 | 06/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE POLONIA DEL NACIONAL POLACO, SZYMON TOMKIEL.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404423&managementType=1) | pendiente_verificacion_pdf |
 | 71-26 | 06/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO, CHRIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404424&managementType=1) | pendiente_verificacion_pdf |
-| 72-26 | 09/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A 254 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404441&managementType=1) | pendiente_verificacion_pdf |
-| 73-26 | 09/02/2026 | 11232 | QUE CONFIRMA AL SEÑOR JUAN RAMÓN ROSARIO CONTRERAS, COMO PRESIDENTE DE LA COMISIÓN REGULADORA DE PRÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404442&managementType=1) | pendiente_verificacion_pdf |
-| 74-26 | 09/02/2026 | 11232 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 596-23. AUTORIZA LA AMPLIACIÓN DE LA ZONA FRANCA INDUSTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404443&managementType=1) | pendiente_verificacion_pdf |
-| 75-26 | 09/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 44 PERSONAS Y OTORGA UNA PENSIÓN POR DISCAPACIDAD DE R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404444&managementType=1) | pendiente_verificacion_pdf |
-| 76-26 | 09/02/2026 | 11232 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$50,000.00 MENSUALES, AL SEÑOR DIMAS DE JESÚS DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404445&managementType=1) | pendiente_verificacion_pdf |
-| 77-26 | 09/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 30 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404446&managementType=1) | pendiente_verificacion_pdf |
-| 78-26 | 09/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$10,000.00 MENSUALES A 44 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404425&managementType=1) | pendiente_verificacion_pdf |
-| 79-26 | 09/02/2026 | 11232 | QUE MODIFICA LOS NUMERALES 3 Y 4 DEL ARTÍCULO 1 DEL DECRETO NÚM. 141-25. DECLARA DE UTILIDAD PÚBLICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404447&managementType=1) | pendiente_verificacion_pdf |
-| 80-26 | 09/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ÁNGEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404448&managementType=1) | pendiente_verificacion_pdf |
+| 72-26 | 09/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A 254 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Ver documento](decreto-072-2026.md) | normalizado · pendiente_revision |
+| 73-26 | 09/02/2026 | 11232 | QUE CONFIRMA AL SEÑOR JUAN RAMÓN ROSARIO CONTRERAS, COMO PRESIDENTE DE LA COMISIÓN REGULADORA DE PRÁ... | [Ver documento](decreto-073-2026.md) | normalizado · pendiente_revision |
+| 74-26 | 09/02/2026 | 11232 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 596-23. AUTORIZA LA AMPLIACIÓN DE LA ZONA FRANCA INDUSTR... | [Ver documento](decreto-074-2026.md) | normalizado · pendiente_revision |
+| 75-26 | 09/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 44 PERSONAS Y OTORGA UNA PENSIÓN POR DISCAPACIDAD DE R... | [Ver documento](decreto-075-2026.md) | normalizado · pendiente_revision |
+| 76-26 | 09/02/2026 | 11232 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$50,000.00 MENSUALES, AL SEÑOR DIMAS DE JESÚS DE LA... | [Ver documento](decreto-076-2026.md) | normalizado · pendiente_revision |
+| 77-26 | 09/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 30 PERSONAS. | [Ver documento](decreto-077-2026.md) | normalizado · pendiente_revision |
+| 78-26 | 09/02/2026 | 11232 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$10,000.00 MENSUALES A 44 PERSONAS. | [Ver documento](decreto-078-2026.md) | normalizado · pendiente_revision |
+| 79-26 | 09/02/2026 | 11232 | QUE MODIFICA LOS NUMERALES 3 Y 4 DEL ARTÍCULO 1 DEL DECRETO NÚM. 141-25. DECLARA DE UTILIDAD PÚBLICA... | [Ver documento](decreto-079-2026.md) | normalizado · pendiente_revision |
+| 80-26 | 09/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ÁNGEL... | [Ver documento](decreto-080-2026.md) | normalizado · pendiente_revision |
 | 81-26 | 09/02/2026 | 11232 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 43 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404426&managementType=1) | pendiente_verificacion_pdf |
 | 82-26 | 09/02/2026 | 11232 | QUE AUTORIZA AL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404427&managementType=1) | pendiente_verificacion_pdf |
 | 83-26 | 09/02/2026 | 11232 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404428&managementType=1) | pendiente_verificacion_pdf |
