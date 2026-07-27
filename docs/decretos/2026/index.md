@@ -27,6 +27,16 @@ Documentos detectados: **406**.
 - [Decreto núm. 016-2026](decreto-016-2026.md)
 - [Decreto núm. 017-2026](decreto-017-2026.md)
 - [Decreto núm. 018-2026](decreto-018-2026.md)
+- [Decreto núm. 019-2026](decreto-019-2026.md)
+- [Decreto núm. 020-2026](decreto-020-2026.md)
+- [Decreto núm. 021-2026](decreto-021-2026.md)
+- [Decreto núm. 022-2026](decreto-022-2026.md)
+- [Decreto núm. 023-2026](decreto-023-2026.md)
+- [Decreto núm. 024-2026](decreto-024-2026.md)
+- [Decreto núm. 025-2026](decreto-025-2026.md)
+- [Decreto núm. 026-2026](decreto-026-2026.md)
+- [Decreto núm. 027-2026](decreto-027-2026.md)
+- [Decreto núm. 028-2026](decreto-028-2026.md)
 - [Decreto núm. 041-2026](decreto-041-2026.md)
 - [Decreto núm. 042-2026](decreto-042-2026.md)
 - [Decreto núm. 043-2026](decreto-043-2026.md)
@@ -124,16 +134,16 @@ Documentos detectados: **406**.
 | 16-26 | 12/01/2026 | 11228 | QUE AUTORIZA AL SEÑOR GUSTAVO EDUARDO VEGA VEGA, CÓNSUL HONORARIO DE LA REPÚBLICA DE POLONIA EN SANT... | [Ver documento](decreto-016-2026.md) | normalizado · pendiente_revision |
 | 17-26 | 12/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Ver documento](decreto-017-2026.md) | normalizado · pendiente_revision |
 | 18-26 | 12/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 248-22, A FINES DE AJUSTAR LAS COORDENADAS CORRESPONDIEN... | [Ver documento](decreto-018-2026.md) | normalizado · pendiente_revision |
-| 19-26 | 12/01/2026 | 11228 | QUE DEROGA EL DECRETO NÚM. 284-91, QUE APRUEBA EL REGLAMENTO TÉCNICO PARA EL ESTACIONAMIENTO VEHICUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404196&managementType=1) | pendiente_verificacion_pdf |
-| 20-26 | 12/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404197&managementType=1) | pendiente_verificacion_pdf |
-| 21-26 | 15/01/2026 | 11228 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO A TRES (3) PERSONAS, Y AUMENTA A LA SUMA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404210&managementType=1) | pendiente_verificacion_pdf |
-| 22-26 | 15/01/2026 | 11228 | QUE DESIGNA CUATRO (4) VICEMINISTROS EN DISTINTAS ÁREAS DEL MINISTERIO DE LA PRESIDENCIA. DEROGA EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404198&managementType=1) | pendiente_verificacion_pdf |
-| 23-26 | 15/01/2026 | 11228 | QUE DESIGNA A LOS SEÑORES RICARDO BIENVENIDO GUERRERO ENCARNACIÓN Y GIOVANNI EMILIO BLOISE GARCÍA, V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404211&managementType=1) | pendiente_verificacion_pdf |
-| 24-26 | 15/01/2026 | 11228 | QUE REAJUSTA LAS PENSIONES DE QUE DISFRUTAN NUEVE (9) PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404212&managementType=1) | pendiente_verificacion_pdf |
-| 25-26 | 15/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 68-22. DISPONE QUE LA ESTRUCTURA ORGÁNICA, LA COORDINACI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404213&managementType=1) | pendiente_verificacion_pdf |
-| 26-26 | 15/01/2026 | 11228 | QUE DESIGNA AL SEÑOR IVÁN ERNESTO GATÓN ROSA, EMBAJADOR EN EL SERVICIO INTERNO DEL MINISTERIO DE REL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404214&managementType=1) | pendiente_verificacion_pdf |
-| 27-26 | 15/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404215&managementType=1) | pendiente_verificacion_pdf |
-| 28-26 | 15/01/2026 | 11228 | QUE AUTORIZA LA AMPLIACIÓN DEL PARQUE MULTIMODAL SAN FRANCISCO DE JACAGUA Y MODIFICA EL ARTÍCULO 2 D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404199&managementType=1) | pendiente_verificacion_pdf |
+| 19-26 | 12/01/2026 | 11228 | QUE DEROGA EL DECRETO NÚM. 284-91, QUE APRUEBA EL REGLAMENTO TÉCNICO PARA EL ESTACIONAMIENTO VEHICUL... | [Ver documento](decreto-019-2026.md) | normalizado · pendiente_revision |
+| 20-26 | 12/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Ver documento](decreto-020-2026.md) | normalizado · pendiente_revision |
+| 21-26 | 15/01/2026 | 11228 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO A TRES (3) PERSONAS, Y AUMENTA A LA SUMA... | [Ver documento](decreto-021-2026.md) | normalizado · pendiente_revision |
+| 22-26 | 15/01/2026 | 11228 | QUE DESIGNA CUATRO (4) VICEMINISTROS EN DISTINTAS ÁREAS DEL MINISTERIO DE LA PRESIDENCIA. DEROGA EL ... | [Ver documento](decreto-022-2026.md) | normalizado · pendiente_revision |
+| 23-26 | 15/01/2026 | 11228 | QUE DESIGNA A LOS SEÑORES RICARDO BIENVENIDO GUERRERO ENCARNACIÓN Y GIOVANNI EMILIO BLOISE GARCÍA, V... | [Ver documento](decreto-023-2026.md) | normalizado · pendiente_revision |
+| 24-26 | 15/01/2026 | 11228 | QUE REAJUSTA LAS PENSIONES DE QUE DISFRUTAN NUEVE (9) PERSONAS. | [Ver documento](decreto-024-2026.md) | normalizado · pendiente_revision |
+| 25-26 | 15/01/2026 | 11228 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 68-22. DISPONE QUE LA ESTRUCTURA ORGÁNICA, LA COORDINACI... | [Ver documento](decreto-025-2026.md) | normalizado · pendiente_revision |
+| 26-26 | 15/01/2026 | 11228 | QUE DESIGNA AL SEÑOR IVÁN ERNESTO GATÓN ROSA, EMBAJADOR EN EL SERVICIO INTERNO DEL MINISTERIO DE REL... | [Ver documento](decreto-026-2026.md) | normalizado · pendiente_revision |
+| 27-26 | 15/01/2026 | 11228 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Ver documento](decreto-027-2026.md) | normalizado · pendiente_revision |
+| 28-26 | 15/01/2026 | 11228 | QUE AUTORIZA LA AMPLIACIÓN DEL PARQUE MULTIMODAL SAN FRANCISCO DE JACAGUA Y MODIFICA EL ARTÍCULO 2 D... | [Ver documento](decreto-028-2026.md) | normalizado · pendiente_revision |
 | 29-26 | 16/01/2026 | 11230 | QUE DESIGNA CUATRO (4) VICEMINISTRAS EN VARIAS ÁREAS DEL MINISTERIO DE LA MUJER Y NOMBRA CUATRO (4) ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404396&managementType=1) | pendiente_verificacion_pdf |
 | 30-26 | 16/01/2026 | 11230 | QUE NOMBRA CUATRO (4) VICEMINISTROS EN VARIAS ÁREAS DEL MINISTERIO DE JUSTICA. DESIGNA AL SEÑOR MAIR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404397&managementType=1) | pendiente_verificacion_pdf |
 | 31-26 | 16/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404379&managementType=1) | pendiente_verificacion_pdf |
