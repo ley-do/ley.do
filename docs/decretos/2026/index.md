@@ -132,9 +132,19 @@ Documentos detectados: **406**.
 - [Decreto núm. 121-2026](decreto-121-2026.md)
 - [Decreto núm. 122-2026](decreto-122-2026.md)
 - [Decreto núm. 123-2026](decreto-123-2026.md)
+- [Decreto núm. 124-2026](decreto-124-2026.md)
+- [Decreto núm. 125-2026](decreto-125-2026.md)
+- [Decreto núm. 126-2026](decreto-126-2026.md)
+- [Decreto núm. 127-2026](decreto-127-2026.md)
+- [Decreto núm. 128-2026](decreto-128-2026.md)
+- [Decreto núm. 129-2026](decreto-129-2026.md)
+- [Decreto núm. 130-2026](decreto-130-2026.md)
+- [Decreto núm. 131-2026](decreto-131-2026.md)
+- [Decreto núm. 132-2026](decreto-132-2026.md)
 - [Decreto núm. 133-2026](decreto-133-2026.md)
 - [Decreto núm. 134-2026](decreto-134-2026.md)
 - [Decreto núm. 135-2026](decreto-135-2026.md)
+- [Decreto núm. 136-2026](decreto-136-2026.md)
 - [Decreto núm. 197-2026](decreto-197-2026.md)
 - [Decreto núm. 200-2026](decreto-200-2026.md)
 - [Decreto núm. 234-2026](decreto-234-2026.md)
@@ -319,19 +329,19 @@ Documentos detectados: **406**.
 | 121-26 | 23/02/2026 | 11233 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA INSTALACIÓN DE PUERTOS ESPACIALES EN LA REPÚBLICA DOMINICA... | [Ver documento](decreto-121-2026.md) | normalizado · pendiente_revision |
 | 122-26 | 24/02/2026 | 11233 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 379-23 E INTEGRA NUEVAMENTE EL GABINETE DE LUCHA CONTRA ... | [Ver documento](decreto-122-2026.md) | normalizado · pendiente_revision |
 | 123-26 | 24/02/2026 | 11233 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO THELMO ISSA ORTEGA... | [Ver documento](decreto-123-2026.md) | normalizado · pendiente_revision |
-| 124-26 | 24/02/2026 | 11233 | QUE DEROGA EL DECRETO NÚM. 51-14, QUE DESIGNÓ AL SEÑOR ENRIQUE RODOLFO OLIVÉ, CÓNSUL HONORARIO DE NU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404483&managementType=1) | pendiente_verificacion_pdf |
-| 125-26 | 24/02/2026 | 11233 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 59 PERSONAS Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN 5... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404484&managementType=1) | pendiente_verificacion_pdf |
-| 126-26 | 24/02/2026 | 11233 | QUE CONCEDE PENSIONES DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (RD$10,000.00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404485&managementType=1) | pendiente_verificacion_pdf |
-| 127-26 | 24/02/2026 | 11233 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 82-26, QUE ESTABLECE LAS INSTITUCIONES AUTORIZADAS A REA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404486&managementType=1) | pendiente_verificacion_pdf |
-| 128-26 | 25/02/2026 | 11233 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 31 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404487&managementType=1) | pendiente_verificacion_pdf |
-| 129-26 | 25/02/2026 | 11233 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 29 PERSONAS Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN 3... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404488&managementType=1) | pendiente_verificacion_pdf |
-| 130-26 | 25/02/2026 | 11233 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 13 SERVIDORES DEL SECTOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404468&managementType=1) | pendiente_verificacion_pdf |
-| 131-26 | 25/02/2026 | 11233 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 10 SERVIDORES DEL INSTIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404489&managementType=1) | pendiente_verificacion_pdf |
-| 132-26 | 26/02/2026 | 11233 | QUE DECLARA DE EMERGENCIA LAS CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS NECESARIOS PARA FORTALECER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404469&managementType=1) | pendiente_verificacion_pdf |
+| 124-26 | 24/02/2026 | 11233 | QUE DEROGA EL DECRETO NÚM. 51-14, QUE DESIGNÓ AL SEÑOR ENRIQUE RODOLFO OLIVÉ, CÓNSUL HONORARIO DE NU... | [Ver documento](decreto-124-2026.md) | normalizado · pendiente_revision |
+| 125-26 | 24/02/2026 | 11233 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 59 PERSONAS Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN 5... | [Ver documento](decreto-125-2026.md) | normalizado · pendiente_revision |
+| 126-26 | 24/02/2026 | 11233 | QUE CONCEDE PENSIONES DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (RD$10,000.00... | [Ver documento](decreto-126-2026.md) | normalizado · pendiente_revision |
+| 127-26 | 24/02/2026 | 11233 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 82-26, QUE ESTABLECE LAS INSTITUCIONES AUTORIZADAS A REA... | [Ver documento](decreto-127-2026.md) | normalizado · pendiente_revision |
+| 128-26 | 25/02/2026 | 11233 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 31 PERSONAS. | [Ver documento](decreto-128-2026.md) | normalizado · pendiente_revision |
+| 129-26 | 25/02/2026 | 11233 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 29 PERSONAS Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN 3... | [Ver documento](decreto-129-2026.md) | normalizado · pendiente_revision |
+| 130-26 | 25/02/2026 | 11233 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 13 SERVIDORES DEL SECTOR... | [Ver documento](decreto-130-2026.md) | normalizado · pendiente_revision |
+| 131-26 | 25/02/2026 | 11233 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 10 SERVIDORES DEL INSTIT... | [Ver documento](decreto-131-2026.md) | normalizado · pendiente_revision |
+| 132-26 | 26/02/2026 | 11233 | QUE DECLARA DE EMERGENCIA LAS CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS NECESARIOS PARA FORTALECER... | [Ver documento](decreto-132-2026.md) | normalizado · pendiente_revision |
 | 133-26 | 27/02/2026 | 11233 | QUE DESIGNA A LOS GENERALES ESTEBAN FIGUEREO GARCÍA Y ERNESTO RAFAEL RODRÍGUEZ GARCÍA, P.N., SUBDIRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404470&managementType=1) | pendiente_verificacion_pdf |
 | 134-26 | 27/02/2026 | 11233 | QUE DESIGNA AL GENERAL JUAN HILARIO GUZMÁN BADÍA, P.N., RECTOR DEL INSTITUTO POLICIAL DE EDUCACIÓN (... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404490&managementType=1) | pendiente_verificacion_pdf |
 | 135-26 | 27/02/2026 | 11233 | QUE ASCIENDE AL RANGO DE GENERAL DE BRIGADA A SIETE CORONELES DEL EJERCITO NACIONAL Y AL CORONEL PIL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404471&managementType=1) | pendiente_verificacion_pdf |
-| 136-26 | 27/02/2026 | 11233 | QUE CONFIRMA AL CORONEL RAFAEL RAYMUNDO RAMÍREZ TEJEDA, ERD, COMO SUBJEFE DEL CUERPO DE SEGURIDAD PR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404491&managementType=1) | pendiente_verificacion_pdf |
+| 136-26 | 27/02/2026 | 11233 | QUE CONFIRMA AL CORONEL RAFAEL RAYMUNDO RAMÍREZ TEJEDA, ERD, COMO SUBJEFE DEL CUERPO DE SEGURIDAD PR... | [Ver documento](decreto-136-2026.md) | normalizado · pendiente_revision |
 | 137-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404561&managementType=1) | pendiente_verificacion_pdf |
 | 138-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404568&managementType=1) | pendiente_verificacion_pdf |
 | 139-26 | 03/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404569&managementType=1) | pendiente_verificacion_pdf |
