@@ -122,6 +122,16 @@ Documentos detectados: **406**.
 - [Decreto núm. 111-2026](decreto-111-2026.md)
 - [Decreto núm. 112-2026](decreto-112-2026.md)
 - [Decreto núm. 113-2026](decreto-113-2026.md)
+- [Decreto núm. 114-2026](decreto-114-2026.md)
+- [Decreto núm. 115-2026](decreto-115-2026.md)
+- [Decreto núm. 116-2026](decreto-116-2026.md)
+- [Decreto núm. 117-2026](decreto-117-2026.md)
+- [Decreto núm. 118-2026](decreto-118-2026.md)
+- [Decreto núm. 119-2026](decreto-119-2026.md)
+- [Decreto núm. 120-2026](decreto-120-2026.md)
+- [Decreto núm. 121-2026](decreto-121-2026.md)
+- [Decreto núm. 122-2026](decreto-122-2026.md)
+- [Decreto núm. 123-2026](decreto-123-2026.md)
 - [Decreto núm. 133-2026](decreto-133-2026.md)
 - [Decreto núm. 134-2026](decreto-134-2026.md)
 - [Decreto núm. 135-2026](decreto-135-2026.md)
@@ -299,16 +309,16 @@ Documentos detectados: **406**.
 | 111-26 | 17/02/2026 | 11233 | QUE ASCIENDE AL GENERAL ANDRÉS MODESTO CRUZ CRUZ, P.N, AL RANGO DE MAYOR GENERAL P.N., Y LO DESIGNA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404464&managementType=1) | pendiente_verificacion_pdf |
 | 112-26 | 18/02/2026 | 11233 | QUE DESIGNA AL SEÑOR FÉLIX MARÍA TENA DE SOSA, SUBCONSULTOR JURÍDICO DEL PODER EJECUTIVO. | [Ver documento](decreto-112-2026.md) | normalizado · pendiente_revision |
 | 113-26 | 19/02/2026 | 11233 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA CONSTRUCCIÓN Y ESTABLECIMIENTO DE PUERTOS DE INTERCAMBIO D... | [Ver documento](decreto-113-2026.md) | normalizado · pendiente_revision |
-| 114-26 | 19/02/2026 | 11233 | QUE AUTORIZA AL VICEALMIRANTE JUAN BIENVENIDO CRISÓSTOMO MARTÍNEZ, ARD, PARA QUE PUEDA ACEPTAR Y USA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404476&managementType=1) | pendiente_verificacion_pdf |
-| 115-26 | 19/02/2026 | 11233 | QUE APRUEBA EL ESTABLECIMIENTO DE UN AEROPUERTO INTERNACIONAL DE CARÁCTER PRIVADO, NO COMERCIAL, DEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404477&managementType=1) | pendiente_verificacion_pdf |
-| 116-26 | 20/02/2026 | 11233 | QUE DESIGNA AL SEÑOR CECILIO DISLA, SUBCONTRALOR GENERAL DE LA REPÚBLICA. DEROGA EL DECRETO NÚM. 187... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404465&managementType=1) | pendiente_verificacion_pdf |
-| 117-26 | 20/02/2026 | 11233 | QUE CREA LA COMISIÓN PARA LA CONMEMORACIÓN DEL CENTENARIO DEL NATALICIO DE MINERVA MIRABAL, CON EL O... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404478&managementType=1) | pendiente_verificacion_pdf |
-| 118-26 | 20/02/2026 | 11233 | QUE CREA UNA COMISIÓN ESPECIAL PARA ACOMPAÑAR A LA CONSULTORÍA JURÍDICA DEL PODER EJECUTIVO EN LA EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404479&managementType=1) | pendiente_verificacion_pdf |
-| 119-26 | 20/02/2026 | 11233 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404480&managementType=1) | pendiente_verificacion_pdf |
-| 120-26 | 20/02/2026 | 11233 | QUE AUMENTA A LA SUMA DE R$150,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR PEDR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404481&managementType=1) | pendiente_verificacion_pdf |
-| 121-26 | 23/02/2026 | 11233 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA INSTALACIÓN DE PUERTOS ESPACIALES EN LA REPÚBLICA DOMINICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404482&managementType=1) | pendiente_verificacion_pdf |
-| 122-26 | 24/02/2026 | 11233 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 379-23 E INTEGRA NUEVAMENTE EL GABINETE DE LUCHA CONTRA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404466&managementType=1) | pendiente_verificacion_pdf |
-| 123-26 | 24/02/2026 | 11233 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO THELMO ISSA ORTEGA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404467&managementType=1) | pendiente_verificacion_pdf |
+| 114-26 | 19/02/2026 | 11233 | QUE AUTORIZA AL VICEALMIRANTE JUAN BIENVENIDO CRISÓSTOMO MARTÍNEZ, ARD, PARA QUE PUEDA ACEPTAR Y USA... | [Ver documento](decreto-114-2026.md) | normalizado · pendiente_revision |
+| 115-26 | 19/02/2026 | 11233 | QUE APRUEBA EL ESTABLECIMIENTO DE UN AEROPUERTO INTERNACIONAL DE CARÁCTER PRIVADO, NO COMERCIAL, DEN... | [Ver documento](decreto-115-2026.md) | normalizado · pendiente_revision |
+| 116-26 | 20/02/2026 | 11233 | QUE DESIGNA AL SEÑOR CECILIO DISLA, SUBCONTRALOR GENERAL DE LA REPÚBLICA. DEROGA EL DECRETO NÚM. 187... | [Ver documento](decreto-116-2026.md) | normalizado · pendiente_revision |
+| 117-26 | 20/02/2026 | 11233 | QUE CREA LA COMISIÓN PARA LA CONMEMORACIÓN DEL CENTENARIO DEL NATALICIO DE MINERVA MIRABAL, CON EL O... | [Ver documento](decreto-117-2026.md) | normalizado · pendiente_revision |
+| 118-26 | 20/02/2026 | 11233 | QUE CREA UNA COMISIÓN ESPECIAL PARA ACOMPAÑAR A LA CONSULTORÍA JURÍDICA DEL PODER EJECUTIVO EN LA EL... | [Ver documento](decreto-118-2026.md) | normalizado · pendiente_revision |
+| 119-26 | 20/02/2026 | 11233 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-119-2026.md) | normalizado · pendiente_revision |
+| 120-26 | 20/02/2026 | 11233 | QUE AUMENTA A LA SUMA DE R$150,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR PEDR... | [Ver documento](decreto-120-2026.md) | normalizado · pendiente_revision |
+| 121-26 | 23/02/2026 | 11233 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA INSTALACIÓN DE PUERTOS ESPACIALES EN LA REPÚBLICA DOMINICA... | [Ver documento](decreto-121-2026.md) | normalizado · pendiente_revision |
+| 122-26 | 24/02/2026 | 11233 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 379-23 E INTEGRA NUEVAMENTE EL GABINETE DE LUCHA CONTRA ... | [Ver documento](decreto-122-2026.md) | normalizado · pendiente_revision |
+| 123-26 | 24/02/2026 | 11233 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO THELMO ISSA ORTEGA... | [Ver documento](decreto-123-2026.md) | normalizado · pendiente_revision |
 | 124-26 | 24/02/2026 | 11233 | QUE DEROGA EL DECRETO NÚM. 51-14, QUE DESIGNÓ AL SEÑOR ENRIQUE RODOLFO OLIVÉ, CÓNSUL HONORARIO DE NU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404483&managementType=1) | pendiente_verificacion_pdf |
 | 125-26 | 24/02/2026 | 11233 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 59 PERSONAS Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN 5... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404484&managementType=1) | pendiente_verificacion_pdf |
 | 126-26 | 24/02/2026 | 11233 | QUE CONCEDE PENSIONES DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (RD$10,000.00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404485&managementType=1) | pendiente_verificacion_pdf |
