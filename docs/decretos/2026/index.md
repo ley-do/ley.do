@@ -47,9 +47,19 @@ Documentos detectados: **406**.
 - [Decreto núm. 036-2026](decreto-036-2026.md)
 - [Decreto núm. 037-2026](decreto-037-2026.md)
 - [Decreto núm. 038-2026](decreto-038-2026.md)
+- [Decreto núm. 039-2026](decreto-039-2026.md)
+- [Decreto núm. 040-2026](decreto-040-2026.md)
 - [Decreto núm. 041-2026](decreto-041-2026.md)
 - [Decreto núm. 042-2026](decreto-042-2026.md)
 - [Decreto núm. 043-2026](decreto-043-2026.md)
+- [Decreto núm. 044-2026](decreto-044-2026.md)
+- [Decreto núm. 045-2026](decreto-045-2026.md)
+- [Decreto núm. 046-2026](decreto-046-2026.md)
+- [Decreto núm. 047-2026](decreto-047-2026.md)
+- [Decreto núm. 048-2026](decreto-048-2026.md)
+- [Decreto núm. 049-2026](decreto-049-2026.md)
+- [Decreto núm. 050-2026](decreto-050-2026.md)
+- [Decreto núm. 051-2026](decreto-051-2026.md)
 - [Decreto núm. 055-2026](decreto-055-2026.md)
 - [Decreto núm. 058-2026](decreto-058-2026.md)
 - [Decreto núm. 059-2026](decreto-059-2026.md)
@@ -164,19 +174,19 @@ Documentos detectados: **406**.
 | 36-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 71 PERSON... | [Ver documento](decreto-036-2026.md) | normalizado · pendiente_revision |
 | 37-26 | 19/01/2026 | 11230 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 722 SERVIDORES DEL SECTO... | [Ver documento](decreto-037-2026.md) | normalizado · pendiente_revision |
 | 38-26 | 23/01/2026 | 11230 | QUE DECLARA DE ALTO INTERÉS PÚBLICO LA CREACIÓN DEL JARDÍN BOTÁNICO DE SAN JUAN DE LA MAGUANA, COMO ... | [Ver documento](decreto-038-2026.md) | normalizado · pendiente_revision |
-| 39-26 | 23/01/2026 | 11230 | QUE DEROGA EL ARTÍCULO 13 DEL DECRETO NÚM. 390-24. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404384&managementType=1) | pendiente_verificacion_pdf |
-| 40-26 | 27/01/2026 | 11230 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404385&managementType=1) | pendiente_verificacion_pdf |
+| 39-26 | 23/01/2026 | 11230 | QUE DEROGA EL ARTÍCULO 13 DEL DECRETO NÚM. 390-24. | [Ver documento](decreto-039-2026.md) | normalizado · pendiente_revision |
+| 40-26 | 27/01/2026 | 11230 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-040-2026.md) | normalizado · pendiente_revision |
 | 41-26 | 27/01/2026 | 11230 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO LOUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404386&managementType=1) | pendiente_verificacion_pdf |
 | 42-26 | 27/01/2026 | 11230 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO WADY J... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404387&managementType=1) | pendiente_verificacion_pdf |
 | 43-26 | 27/01/2026 | 11230 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO GERARD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404388&managementType=1) | pendiente_verificacion_pdf |
-| 44-26 | 27/01/2026 | 11230 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$30,000.00 MENSUALES, A LA SEÑORA LUCIA ALTAGRACIA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404401&managementType=1) | pendiente_verificacion_pdf |
-| 45-26 | 27/01/2026 | 11230 | QUE AUMENTA A LA SUMA DE RD$90,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA WAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404389&managementType=1) | pendiente_verificacion_pdf |
-| 46-26 | 27/01/2026 | 11230 | QUE DESIGNA A LOS SEÑORES ROSA MARÍA FERNÁNDEZ ROSARIO Y JULIO ANULFO PASCUAL RODRÍGUEZ, SUBDIRECTOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404390&managementType=1) | pendiente_verificacion_pdf |
-| 47-26 | 27/01/2026 | 11230 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404391&managementType=1) | pendiente_verificacion_pdf |
-| 48-26 | 28/01/2026 | 11230 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO PEDRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404392&managementType=1) | pendiente_verificacion_pdf |
-| 49-26 | 28/01/2026 | 11230 | QUE NOMBRA DOS (2) VICEMINISTROS EN EL MINISTERIO DE LA VIVIENDA, HÁBITAT Y EDIFICACIONES. DESIGNA D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404402&managementType=1) | pendiente_verificacion_pdf |
-| 50-26 | 28/01/2026 | 11230 | QUE MODIFICA EL ARTÍCULO 13 DEL DECRETO NÚM. 453-24. DISPONE QUE EL VICEPRESIDENTE EJECUTIVO SERÁ LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404393&managementType=1) | pendiente_verificacion_pdf |
-| 51-26 | 28/01/2026 | 11230 | QUE ORDENA LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO POR MEDIO DE LA APLICACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404403&managementType=1) | pendiente_verificacion_pdf |
+| 44-26 | 27/01/2026 | 11230 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$30,000.00 MENSUALES, A LA SEÑORA LUCIA ALTAGRACIA ... | [Ver documento](decreto-044-2026.md) | normalizado · pendiente_revision |
+| 45-26 | 27/01/2026 | 11230 | QUE AUMENTA A LA SUMA DE RD$90,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA WAN... | [Ver documento](decreto-045-2026.md) | normalizado · pendiente_revision |
+| 46-26 | 27/01/2026 | 11230 | QUE DESIGNA A LOS SEÑORES ROSA MARÍA FERNÁNDEZ ROSARIO Y JULIO ANULFO PASCUAL RODRÍGUEZ, SUBDIRECTOR... | [Ver documento](decreto-046-2026.md) | normalizado · pendiente_revision |
+| 47-26 | 27/01/2026 | 11230 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-047-2026.md) | normalizado · pendiente_revision |
+| 48-26 | 28/01/2026 | 11230 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO PEDRO... | [Ver documento](decreto-048-2026.md) | normalizado · pendiente_revision |
+| 49-26 | 28/01/2026 | 11230 | QUE NOMBRA DOS (2) VICEMINISTROS EN EL MINISTERIO DE LA VIVIENDA, HÁBITAT Y EDIFICACIONES. DESIGNA D... | [Ver documento](decreto-049-2026.md) | normalizado · pendiente_revision |
+| 50-26 | 28/01/2026 | 11230 | QUE MODIFICA EL ARTÍCULO 13 DEL DECRETO NÚM. 453-24. DISPONE QUE EL VICEPRESIDENTE EJECUTIVO SERÁ LA... | [Ver documento](decreto-050-2026.md) | normalizado · pendiente_revision |
+| 51-26 | 28/01/2026 | 11230 | QUE ORDENA LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO POR MEDIO DE LA APLICACIÓ... | [Ver documento](decreto-051-2026.md) | normalizado · pendiente_revision |
 | 52-26 | 28/01/2026 | 11231 | QUE APRUEBA EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM. 47-25, DE CONTRATACIONES PÚBLICAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404405&managementType=1) | pendiente_verificacion_pdf |
 | 53-26 | 29/01/2026 | 11231 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO CRIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404406&managementType=1) | pendiente_verificacion_pdf |
 | 54-26 | 29/01/2026 | 11231 | QUE DESIGNA AL SEÑOR RENSO ANTONIO HERRERA FRANCO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404410&managementType=1) | pendiente_verificacion_pdf |
