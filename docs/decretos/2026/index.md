@@ -111,7 +111,17 @@ Documentos detectados: **406**.
 - [Decreto núm. 100-2026](decreto-100-2026.md)
 - [Decreto núm. 101-2026](decreto-101-2026.md)
 - [Decreto núm. 102-2026](decreto-102-2026.md)
+- [Decreto núm. 103-2026](decreto-103-2026.md)
+- [Decreto núm. 104-2026](decreto-104-2026.md)
+- [Decreto núm. 105-2026](decreto-105-2026.md)
+- [Decreto núm. 106-2026](decreto-106-2026.md)
+- [Decreto núm. 107-2026](decreto-107-2026.md)
+- [Decreto núm. 108-2026](decreto-108-2026.md)
+- [Decreto núm. 109-2026](decreto-109-2026.md)
+- [Decreto núm. 110-2026](decreto-110-2026.md)
 - [Decreto núm. 111-2026](decreto-111-2026.md)
+- [Decreto núm. 112-2026](decreto-112-2026.md)
+- [Decreto núm. 113-2026](decreto-113-2026.md)
 - [Decreto núm. 133-2026](decreto-133-2026.md)
 - [Decreto núm. 134-2026](decreto-134-2026.md)
 - [Decreto núm. 135-2026](decreto-135-2026.md)
@@ -278,17 +288,17 @@ Documentos detectados: **406**.
 | 101-26 | 13/02/2026 | 11232 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 695-20. DISPONE NUEVAMENTE LA INTEGRACIÓN DEL GABINETE D... | [Ver documento](decreto-101-2026.md) | normalizado · pendiente_revision |
 | 99-26 | 13/02/2026 | 11232 | QUE APRUEBA, DE ACUERDO A LO PREVISTO EN EL ARTÍCULO 66.2 DE LA LEY GENERAL DE TELECOMUNICACIONES, N... | [Ver documento](decreto-099-2026.md) | normalizado · pendiente_revision |
 | 102-26 | 16/02/2026 | 11233 | QUE DESIGNA AL SEÑOR LEONEL MATEO HERNÁNDEZ, CONSEJERO EN LA EMBAJADA DE NUESTRO PAÍS EN EL ESTADO D... | [Ver documento](decreto-102-2026.md) | normalizado · pendiente_revision |
-| 103-26 | 16/02/2026 | 11233 | QUE NOMBRA AL SEÑOR OTTO VLADIMIR VARGAS LORA, VICEMINISTRO ADMINISTRATIVO FINANCIERO DEL MINISTERIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404458&managementType=1) | pendiente_verificacion_pdf |
-| 104-26 | 16/02/2026 | 11233 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE LOS PAÍSES BAJOS, DEL NACIONAL DOMINICANO Y NEERLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404459&managementType=1) | pendiente_verificacion_pdf |
-| 105-26 | 16/02/2026 | 11233 | QUE CREA LA COMISIÓN ENCARGADA DE LA CREACIÓN DEL OBSERVATORIO DE POLÍTICAS AMBIENTALES Y ÁREAS PROT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404460&managementType=1) | pendiente_verificacion_pdf |
-| 106-26 | 17/02/2026 | 11233 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. MODIFICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404461&managementType=1) | pendiente_verificacion_pdf |
-| 107-26 | 17/02/2026 | 11233 | QUE DEROGA EL DECRETO NÚM. 520-24, MEDIANTE EL CUAL SE OTORGÓ AL SEÑOR MELITÓN CORDERO, LA CONDECORA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404472&managementType=1) | pendiente_verificacion_pdf |
-| 108-26 | 17/02/2026 | 11233 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404462&managementType=1) | pendiente_verificacion_pdf |
-| 109-26 | 17/02/2026 | 11233 | QUE AUTORIZA A VARIOS OFICIALES GENERALES, SUPERIORES, SUBALTERNOS Y ALISTADOS DE LAS FUERZAS ARMADA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404473&managementType=1) | pendiente_verificacion_pdf |
-| 110-26 | 17/02/2026 | 11233 | QUE AUMENTA A LA SUMA DE R$150,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR ALEJ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404463&managementType=1) | pendiente_verificacion_pdf |
+| 103-26 | 16/02/2026 | 11233 | QUE NOMBRA AL SEÑOR OTTO VLADIMIR VARGAS LORA, VICEMINISTRO ADMINISTRATIVO FINANCIERO DEL MINISTERIO... | [Ver documento](decreto-103-2026.md) | normalizado · pendiente_revision |
+| 104-26 | 16/02/2026 | 11233 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE LOS PAÍSES BAJOS, DEL NACIONAL DOMINICANO Y NEERLA... | [Ver documento](decreto-104-2026.md) | normalizado · pendiente_revision |
+| 105-26 | 16/02/2026 | 11233 | QUE CREA LA COMISIÓN ENCARGADA DE LA CREACIÓN DEL OBSERVATORIO DE POLÍTICAS AMBIENTALES Y ÁREAS PROT... | [Ver documento](decreto-105-2026.md) | normalizado · pendiente_revision |
+| 106-26 | 17/02/2026 | 11233 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. MODIFICA ... | [Ver documento](decreto-106-2026.md) | normalizado · pendiente_revision |
+| 107-26 | 17/02/2026 | 11233 | QUE DEROGA EL DECRETO NÚM. 520-24, MEDIANTE EL CUAL SE OTORGÓ AL SEÑOR MELITÓN CORDERO, LA CONDECORA... | [Ver documento](decreto-107-2026.md) | normalizado · pendiente_revision |
+| 108-26 | 17/02/2026 | 11233 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-108-2026.md) | normalizado · pendiente_revision |
+| 109-26 | 17/02/2026 | 11233 | QUE AUTORIZA A VARIOS OFICIALES GENERALES, SUPERIORES, SUBALTERNOS Y ALISTADOS DE LAS FUERZAS ARMADA... | [Ver documento](decreto-109-2026.md) | normalizado · pendiente_revision |
+| 110-26 | 17/02/2026 | 11233 | QUE AUMENTA A LA SUMA DE R$150,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR ALEJ... | [Ver documento](decreto-110-2026.md) | normalizado · pendiente_revision |
 | 111-26 | 17/02/2026 | 11233 | QUE ASCIENDE AL GENERAL ANDRÉS MODESTO CRUZ CRUZ, P.N, AL RANGO DE MAYOR GENERAL P.N., Y LO DESIGNA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404464&managementType=1) | pendiente_verificacion_pdf |
-| 112-26 | 18/02/2026 | 11233 | QUE DESIGNA AL SEÑOR FÉLIX MARÍA TENA DE SOSA, SUBCONSULTOR JURÍDICO DEL PODER EJECUTIVO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404474&managementType=1) | pendiente_verificacion_pdf |
-| 113-26 | 19/02/2026 | 11233 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA CONSTRUCCIÓN Y ESTABLECIMIENTO DE PUERTOS DE INTERCAMBIO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404475&managementType=1) | pendiente_verificacion_pdf |
+| 112-26 | 18/02/2026 | 11233 | QUE DESIGNA AL SEÑOR FÉLIX MARÍA TENA DE SOSA, SUBCONSULTOR JURÍDICO DEL PODER EJECUTIVO. | [Ver documento](decreto-112-2026.md) | normalizado · pendiente_revision |
+| 113-26 | 19/02/2026 | 11233 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA CONSTRUCCIÓN Y ESTABLECIMIENTO DE PUERTOS DE INTERCAMBIO D... | [Ver documento](decreto-113-2026.md) | normalizado · pendiente_revision |
 | 114-26 | 19/02/2026 | 11233 | QUE AUTORIZA AL VICEALMIRANTE JUAN BIENVENIDO CRISÓSTOMO MARTÍNEZ, ARD, PARA QUE PUEDA ACEPTAR Y USA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404476&managementType=1) | pendiente_verificacion_pdf |
 | 115-26 | 19/02/2026 | 11233 | QUE APRUEBA EL ESTABLECIMIENTO DE UN AEROPUERTO INTERNACIONAL DE CARÁCTER PRIVADO, NO COMERCIAL, DEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404477&managementType=1) | pendiente_verificacion_pdf |
 | 116-26 | 20/02/2026 | 11233 | QUE DESIGNA AL SEÑOR CECILIO DISLA, SUBCONTRALOR GENERAL DE LA REPÚBLICA. DEROGA EL DECRETO NÚM. 187... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404465&managementType=1) | pendiente_verificacion_pdf |
