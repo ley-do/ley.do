@@ -60,12 +60,22 @@ Documentos detectados: **406**.
 - [Decreto núm. 049-2026](decreto-049-2026.md)
 - [Decreto núm. 050-2026](decreto-050-2026.md)
 - [Decreto núm. 051-2026](decreto-051-2026.md)
+- [Decreto núm. 052-2026](decreto-052-2026.md)
+- [Decreto núm. 053-2026](decreto-053-2026.md)
+- [Decreto núm. 054-2026](decreto-054-2026.md)
 - [Decreto núm. 055-2026](decreto-055-2026.md)
+- [Decreto núm. 056-2026](decreto-056-2026.md)
+- [Decreto núm. 057-2026](decreto-057-2026.md)
 - [Decreto núm. 058-2026](decreto-058-2026.md)
 - [Decreto núm. 059-2026](decreto-059-2026.md)
 - [Decreto núm. 060-2026](decreto-060-2026.md)
+- [Decreto núm. 061-2026](decreto-061-2026.md)
+- [Decreto núm. 062-2026](decreto-062-2026.md)
+- [Decreto núm. 063-2026](decreto-063-2026.md)
+- [Decreto núm. 064-2026](decreto-064-2026.md)
 - [Decreto núm. 065-2026](decreto-065-2026.md)
 - [Decreto núm. 066-2026](decreto-066-2026.md)
+- [Decreto núm. 067-2026](decreto-067-2026.md)
 - [Decreto núm. 069-2026](decreto-069-2026.md)
 - [Decreto núm. 070-2026](decreto-070-2026.md)
 - [Decreto núm. 071-2026](decreto-071-2026.md)
@@ -187,22 +197,22 @@ Documentos detectados: **406**.
 | 49-26 | 28/01/2026 | 11230 | QUE NOMBRA DOS (2) VICEMINISTROS EN EL MINISTERIO DE LA VIVIENDA, HÁBITAT Y EDIFICACIONES. DESIGNA D... | [Ver documento](decreto-049-2026.md) | normalizado · pendiente_revision |
 | 50-26 | 28/01/2026 | 11230 | QUE MODIFICA EL ARTÍCULO 13 DEL DECRETO NÚM. 453-24. DISPONE QUE EL VICEPRESIDENTE EJECUTIVO SERÁ LA... | [Ver documento](decreto-050-2026.md) | normalizado · pendiente_revision |
 | 51-26 | 28/01/2026 | 11230 | QUE ORDENA LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO POR MEDIO DE LA APLICACIÓ... | [Ver documento](decreto-051-2026.md) | normalizado · pendiente_revision |
-| 52-26 | 28/01/2026 | 11231 | QUE APRUEBA EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM. 47-25, DE CONTRATACIONES PÚBLICAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404405&managementType=1) | pendiente_verificacion_pdf |
-| 53-26 | 29/01/2026 | 11231 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO CRIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404406&managementType=1) | pendiente_verificacion_pdf |
-| 54-26 | 29/01/2026 | 11231 | QUE DESIGNA AL SEÑOR RENSO ANTONIO HERRERA FRANCO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404410&managementType=1) | pendiente_verificacion_pdf |
+| 52-26 | 28/01/2026 | 11231 | QUE APRUEBA EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM. 47-25, DE CONTRATACIONES PÚBLICAS. | [Ver documento](decreto-052-2026.md) | normalizado · pendiente_revision |
+| 53-26 | 29/01/2026 | 11231 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO CRIST... | [Ver documento](decreto-053-2026.md) | normalizado · pendiente_revision |
+| 54-26 | 29/01/2026 | 11231 | QUE DESIGNA AL SEÑOR RENSO ANTONIO HERRERA FRANCO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONC... | [Ver documento](decreto-054-2026.md) | normalizado · pendiente_revision |
 | 55-26 | 30/01/2026 | 11231 | QUE DISPONE LA READECUACIÓN DE LA EMPRESA DE TRANSMISIÓN ELÉCTRICA DOMINICANA (ETED), COMO SOCIEDAD ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404411&managementType=1) | pendiente_verificacion_pdf |
-| 56-26 | 30/01/2026 | 11231 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN 782 SERVIDORES PÚBLICOS DEL SECTOR SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404407&managementType=1) | pendiente_verificacion_pdf |
-| 57-26 | 30/01/2026 | 11231 | QUE NOMBRA A LOS SEÑORES RAIDON RAFAEL MOSCOSO CASTILLO Y JUAN ANTONIO GÓMEZ WILLIANS, VICEMINISTROS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404412&managementType=1) | pendiente_verificacion_pdf |
+| 56-26 | 30/01/2026 | 11231 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN 782 SERVIDORES PÚBLICOS DEL SECTOR SALUD. | [Ver documento](decreto-056-2026.md) | normalizado · pendiente_revision |
+| 57-26 | 30/01/2026 | 11231 | QUE NOMBRA A LOS SEÑORES RAIDON RAFAEL MOSCOSO CASTILLO Y JUAN ANTONIO GÓMEZ WILLIANS, VICEMINISTROS... | [Ver documento](decreto-057-2026.md) | normalizado · pendiente_revision |
 | 58-26 | 30/01/2026 | 11231 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO UNIDO, DEL NACIONAL BRITÁNICO KEVIN LEON WOODEN. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404413&managementType=1) | pendiente_verificacion_pdf |
 | 59-26 | 30/01/2026 | 11231 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ROBER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404408&managementType=1) | pendiente_verificacion_pdf |
 | 60-26 | 30/01/2026 | 11231 | QUE DISPONE LA REFORMA DE LA OFICINA PARA EL REORDENAMIENTO DEL TRANSPORTE (OPRET), PARA CONSTITUIR ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404414&managementType=1) | pendiente_verificacion_pdf |
-| 61-26 | 30/01/2026 | 11231 | QUE CREA LA UNIDAD EJECUTORA DEL PROYECTO “LA RUTA DEL ENCUENTRO”, ADSCRITA AL MINISTERIO DE LA PRES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404409&managementType=1) | pendiente_verificacion_pdf |
-| 62-26 | 30/01/2026 | 11231 | QUE DECLARA DE DUELO OFICIAL EL DÍA PRIMERO (1) DE FEBRERO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404415&managementType=1) | pendiente_verificacion_pdf |
-| 63-26 | 31/01/2026 | 11231 | QUE DEJA SIN EFECTO EL ARTÍCULO 16 DEL DECRETO NÚM. 29-26 Y DEROGA EL ARTÍCULO 8 DEL DECRETO NÚM. 44... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404416&managementType=1) | pendiente_verificacion_pdf |
-| 64-26 | 31/01/2026 | 11231 | QUE DESIGNA SEIS (6) VICEMINISTROS EN DIFERENTES ÁREAS DEL MINISTERIO DE TRABAJO. DEROGA LOS ARTÍCUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404417&managementType=1) | pendiente_verificacion_pdf |
+| 61-26 | 30/01/2026 | 11231 | QUE CREA LA UNIDAD EJECUTORA DEL PROYECTO “LA RUTA DEL ENCUENTRO”, ADSCRITA AL MINISTERIO DE LA PRES... | [Ver documento](decreto-061-2026.md) | normalizado · pendiente_revision |
+| 62-26 | 30/01/2026 | 11231 | QUE DECLARA DE DUELO OFICIAL EL DÍA PRIMERO (1) DE FEBRERO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Ver documento](decreto-062-2026.md) | normalizado · pendiente_revision |
+| 63-26 | 31/01/2026 | 11231 | QUE DEJA SIN EFECTO EL ARTÍCULO 16 DEL DECRETO NÚM. 29-26 Y DEROGA EL ARTÍCULO 8 DEL DECRETO NÚM. 44... | [Ver documento](decreto-063-2026.md) | normalizado · pendiente_revision |
+| 64-26 | 31/01/2026 | 11231 | QUE DESIGNA SEIS (6) VICEMINISTROS EN DIFERENTES ÁREAS DEL MINISTERIO DE TRABAJO. DEROGA LOS ARTÍCUL... | [Ver documento](decreto-064-2026.md) | normalizado · pendiente_revision |
 | 65-26 | 31/01/2026 | 11231 | QUE NOMBRA AL SEÑOR JIMMY ROSARIO BERNARD RECTOR DEL INSTITUTO TECNOLÓGICO DE LAS AMÉRICAS (ITLA). | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404418&managementType=1) | pendiente_verificacion_pdf |
 | 66-26 | 31/01/2026 | 11231 | 26 QUE DESIGNA AL SEÑOR CÉSAR ENMANUEL CERDA MINAYA, DIRECTOR GENERAL DE LA CORPORACIÓN DEL ACUEDUCT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404419&managementType=1) | pendiente_verificacion_pdf |
-| 67-26 | 31/01/2026 | 11231 | QUE CREA LA COMISIÓN DE VEEDURÍA Y SEGUIMIENTO DE LAS MEDIDAS CONCERTADAS EN EL MARCO DIÁLOGO SOBRE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404420&managementType=1) | pendiente_verificacion_pdf |
+| 67-26 | 31/01/2026 | 11231 | QUE CREA LA COMISIÓN DE VEEDURÍA Y SEGUIMIENTO DE LAS MEDIDAS CONCERTADAS EN EL MARCO DIÁLOGO SOBRE ... | [Ver documento](decreto-067-2026.md) | normalizado · pendiente_revision |
 | 68-26 | 06/02/2026 | 11232 | QUE DESIGNA A LA SEÑORA NANCY PATRICIA FRANJUL PÉREZ, EMBAJADORA, REPRESENTANTE PERMANENTE DE LA REP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404422&managementType=1) | pendiente_verificacion_pdf |
 | 69-26 | 06/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO, LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404440&managementType=1) | pendiente_verificacion_pdf |
 | 70-26 | 06/02/2026 | 11232 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE POLONIA DEL NACIONAL POLACO, SZYMON TOMKIEL.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404423&managementType=1) | pendiente_verificacion_pdf |
