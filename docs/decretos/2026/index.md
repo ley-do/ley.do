@@ -401,6 +401,20 @@ Documentos detectados: **406**.
 - [Decreto núm. 390-2026](decreto-390-2026.md)
 - [Decreto núm. 391-2026](decreto-391-2026.md)
 - [Decreto núm. 392-2026](decreto-392-2026.md)
+- [Decreto núm. 393-2026](decreto-393-2026.md)
+- [Decreto núm. 394-2026](decreto-394-2026.md)
+- [Decreto núm. 395-2026](decreto-395-2026.md)
+- [Decreto núm. 396-2026](decreto-396-2026.md)
+- [Decreto núm. 397-2026](decreto-397-2026.md)
+- [Decreto núm. 398-2026](decreto-398-2026.md)
+- [Decreto núm. 399-2026](decreto-399-2026.md)
+- [Decreto núm. 400-2026](decreto-400-2026.md)
+- [Decreto núm. 401-2026](decreto-401-2026.md)
+- [Decreto núm. 402-2026](decreto-402-2026.md)
+- [Decreto núm. 403-2026](decreto-403-2026.md)
+- [Decreto núm. 404-2026](decreto-404-2026.md)
+- [Decreto núm. 405-2026](decreto-405-2026.md)
+- [Decreto núm. 406-2026](decreto-406-2026.md)
 - [Decreto núm. 409-2026](decreto-409-2026.md)
 - [Decreto núm. 438-2026](decreto-438-2026.md)
 - [Decreto núm. 444-2026](decreto-444-2026.md)
@@ -801,20 +815,20 @@ Documentos detectados: **406**.
 | 390-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 8 PERSONAS. | [Ver documento](decreto-390-2026.md) | normalizado · pendiente_revision |
 | 391-26 | 11/06/2026 | 11247 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$20,000.00 MENSUALES AL SEÑOR JHONNY ANGIOLO CASADO... | [Ver documento](decreto-391-2026.md) | normalizado · pendiente_revision |
 | 392-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 9 PERSONAS. AUMENTA A LA SUMA DE RD$80,000.00 MENSUALE... | [Ver documento](decreto-392-2026.md) | normalizado · pendiente_revision |
-| 393-26 | 15/06/2026 | 11247 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS UBICADAS EN EL MUNICIPIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405891&managementType=1) | pendiente_verificacion_pdf |
-| 394-26 | 15/06/2026 | 11247 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 352-26. DESIGNA A LA SEÑORA ROSA PASTORA MÉNDEZ MÉNDEZ, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405892&managementType=1) | pendiente_verificacion_pdf |
-| 395-26 | 15/06/2026 | 11247 | QUE DISPONE EL TRASPASO DE TODAS LAS ATRIBUCIONES, OBLIGACIONES, FACULTADES Y PRERROGATIVAS CONCERNI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405893&managementType=1) | pendiente_verificacion_pdf |
-| 396-26 | 15/06/2026 | 11247 | QUE DESIGNA AL SEÑOR ALAN LOUIS RAMÍREZ RISK, DIRECTOR ADMINISTRATIVO Y FINANCIERO DEL CONSEJO NACIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405894&managementType=1) | pendiente_verificacion_pdf |
-| 397-26 | 15/06/2026 | 11247 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405901&managementType=1) | pendiente_verificacion_pdf |
-| 398-26 | 15/06/2026 | 11247 | QUE MODIFICA PARCIALMENTE LA PROYECCIÓN UTM RUTA DE LA VARIANTE DE LA L.T. 138 KV GASPAR HERNÁNDEZ –... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405902&managementType=1) | pendiente_verificacion_pdf |
-| 399-26 | 15/06/2026 | 11247 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, NEYBA Y MONTECRISTI, A VENDER A DIFE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405895&managementType=1) | pendiente_verificacion_pdf |
-| 400-26 | 15/06/2026 | 11247 | QUE AUTORIZA AL AYUNTAMIENTO DE MOCA A VENDER AL SEÑOR ANDRÉS ROBERTO JOAQUÍN FIGUEROA, UNA PORCIÓN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405903&managementType=1) | pendiente_verificacion_pdf |
-| 401-26 | 15/06/2026 | 11247 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS PROPIEDAD DE DIFERENTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405904&managementType=1) | pendiente_verificacion_pdf |
-| 402-26 | 15/06/2026 | 11247 | QUE APRUEBA EL REGLAMENTO GENERAL PARA LA IMPLEMENTACIÓN DE LA RESPONSABILIDAD EXTENDIDA DEL PRODUCT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405905&managementType=1) | pendiente_verificacion_pdf |
-| 403-26 | 15/06/2026 | 11247 | QUE APRUEBA EL REGLAMENTO QUE ESTABLECE EL MARCO NACIONAL DE INTEROPERABILIDAD Y GOBERNANZA DE DATOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405896&managementType=1) | pendiente_verificacion_pdf |
-| 404-26 | 15/06/2026 | 11247 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$170,000.00 MENSUALES, A LA SEÑORA VENERA SANFILIPP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405906&managementType=1) | pendiente_verificacion_pdf |
-| 405-26 | 17/06/2026 | 11247 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DE LA NACIONAL DOMINICANA EME... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405907&managementType=1) | pendiente_verificacion_pdf |
-| 406-26 | 17/06/2026 | 11247 | QUE DESIGNA AL SEÑOR JUAN ANTONIO ESTÉVEZ GONZÁLEZ, VICEMINISTRO DE DESCENTRALIZACIÓN Y PARTICIPACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405897&managementType=1) | pendiente_verificacion_pdf |
+| 393-26 | 15/06/2026 | 11247 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS UBICADAS EN EL MUNICIPIO ... | [Ver documento](decreto-393-2026.md) | normalizado · pendiente_revision |
+| 394-26 | 15/06/2026 | 11247 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 352-26. DESIGNA A LA SEÑORA ROSA PASTORA MÉNDEZ MÉNDEZ, ... | [Ver documento](decreto-394-2026.md) | normalizado · pendiente_revision |
+| 395-26 | 15/06/2026 | 11247 | QUE DISPONE EL TRASPASO DE TODAS LAS ATRIBUCIONES, OBLIGACIONES, FACULTADES Y PRERROGATIVAS CONCERNI... | [Ver documento](decreto-395-2026.md) | normalizado · pendiente_revision |
+| 396-26 | 15/06/2026 | 11247 | QUE DESIGNA AL SEÑOR ALAN LOUIS RAMÍREZ RISK, DIRECTOR ADMINISTRATIVO Y FINANCIERO DEL CONSEJO NACIO... | [Ver documento](decreto-396-2026.md) | normalizado · pendiente_revision |
+| 397-26 | 15/06/2026 | 11247 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-397-2026.md) | normalizado · pendiente_revision |
+| 398-26 | 15/06/2026 | 11247 | QUE MODIFICA PARCIALMENTE LA PROYECCIÓN UTM RUTA DE LA VARIANTE DE LA L.T. 138 KV GASPAR HERNÁNDEZ –... | [Ver documento](decreto-398-2026.md) | normalizado · pendiente_revision |
+| 399-26 | 15/06/2026 | 11247 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, NEYBA Y MONTECRISTI, A VENDER A DIFE... | [Ver documento](decreto-399-2026.md) | normalizado · pendiente_revision |
+| 400-26 | 15/06/2026 | 11247 | QUE AUTORIZA AL AYUNTAMIENTO DE MOCA A VENDER AL SEÑOR ANDRÉS ROBERTO JOAQUÍN FIGUEROA, UNA PORCIÓN ... | [Ver documento](decreto-400-2026.md) | normalizado · pendiente_revision |
+| 401-26 | 15/06/2026 | 11247 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS PROPIEDAD DE DIFERENTE... | [Ver documento](decreto-401-2026.md) | normalizado · pendiente_revision |
+| 402-26 | 15/06/2026 | 11247 | QUE APRUEBA EL REGLAMENTO GENERAL PARA LA IMPLEMENTACIÓN DE LA RESPONSABILIDAD EXTENDIDA DEL PRODUCT... | [Ver documento](decreto-402-2026.md) | normalizado · pendiente_revision |
+| 403-26 | 15/06/2026 | 11247 | QUE APRUEBA EL REGLAMENTO QUE ESTABLECE EL MARCO NACIONAL DE INTEROPERABILIDAD Y GOBERNANZA DE DATOS... | [Ver documento](decreto-403-2026.md) | normalizado · pendiente_revision |
+| 404-26 | 15/06/2026 | 11247 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$170,000.00 MENSUALES, A LA SEÑORA VENERA SANFILIPP... | [Ver documento](decreto-404-2026.md) | normalizado · pendiente_revision |
+| 405-26 | 17/06/2026 | 11247 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DE LA NACIONAL DOMINICANA EME... | [Ver documento](decreto-405-2026.md) | normalizado · pendiente_revision |
+| 406-26 | 17/06/2026 | 11247 | QUE DESIGNA AL SEÑOR JUAN ANTONIO ESTÉVEZ GONZÁLEZ, VICEMINISTRO DE DESCENTRALIZACIÓN Y PARTICIPACIÓ... | [Ver documento](decreto-406-2026.md) | normalizado · pendiente_revision |
 
 ## Próxima fase
 
