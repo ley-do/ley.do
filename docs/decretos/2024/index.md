@@ -213,6 +213,106 @@ Documentos detectados: **708**.
 - [Decreto núm. 199-2024](decreto-199-2024.md)
 - [Decreto núm. 200-2024](decreto-200-2024.md)
 - [Decreto núm. 201-2024](decreto-201-2024.md)
+- [Decreto núm. 202-2024](decreto-202-2024.md)
+- [Decreto núm. 203-2024](decreto-203-2024.md)
+- [Decreto núm. 204-2024](decreto-204-2024.md)
+- [Decreto núm. 205-2024](decreto-205-2024.md)
+- [Decreto núm. 206-2024](decreto-206-2024.md)
+- [Decreto núm. 207-2024](decreto-207-2024.md)
+- [Decreto núm. 208-2024](decreto-208-2024.md)
+- [Decreto núm. 209-2024](decreto-209-2024.md)
+- [Decreto núm. 210-2024](decreto-210-2024.md)
+- [Decreto núm. 211-2024](decreto-211-2024.md)
+- [Decreto núm. 212-2024](decreto-212-2024.md)
+- [Decreto núm. 213-2024](decreto-213-2024.md)
+- [Decreto núm. 214-2024](decreto-214-2024.md)
+- [Decreto núm. 215-2024](decreto-215-2024.md)
+- [Decreto núm. 216-2024](decreto-216-2024.md)
+- [Decreto núm. 217-2024](decreto-217-2024.md)
+- [Decreto núm. 218-2024](decreto-218-2024.md)
+- [Decreto núm. 219-2024](decreto-219-2024.md)
+- [Decreto núm. 220-2024](decreto-220-2024.md)
+- [Decreto núm. 221-2024](decreto-221-2024.md)
+- [Decreto núm. 222-2024](decreto-222-2024.md)
+- [Decreto núm. 223-2024](decreto-223-2024.md)
+- [Decreto núm. 224-2024](decreto-224-2024.md)
+- [Decreto núm. 225-2024](decreto-225-2024.md)
+- [Decreto núm. 226-2024](decreto-226-2024.md)
+- [Decreto núm. 227-2024](decreto-227-2024.md)
+- [Decreto núm. 228-2024](decreto-228-2024.md)
+- [Decreto núm. 229-2024](decreto-229-2024.md)
+- [Decreto núm. 230-2024](decreto-230-2024.md)
+- [Decreto núm. 231-2024](decreto-231-2024.md)
+- [Decreto núm. 232-2024](decreto-232-2024.md)
+- [Decreto núm. 233-2024](decreto-233-2024.md)
+- [Decreto núm. 234-2024](decreto-234-2024.md)
+- [Decreto núm. 235-2024](decreto-235-2024.md)
+- [Decreto núm. 236-2024](decreto-236-2024.md)
+- [Decreto núm. 237-2024](decreto-237-2024.md)
+- [Decreto núm. 238-2024](decreto-238-2024.md)
+- [Decreto núm. 239-2024](decreto-239-2024.md)
+- [Decreto núm. 240-2024](decreto-240-2024.md)
+- [Decreto núm. 241-2024](decreto-241-2024.md)
+- [Decreto núm. 242-2024](decreto-242-2024.md)
+- [Decreto núm. 243-2024](decreto-243-2024.md)
+- [Decreto núm. 244-2024](decreto-244-2024.md)
+- [Decreto núm. 245-2024](decreto-245-2024.md)
+- [Decreto núm. 246-2024](decreto-246-2024.md)
+- [Decreto núm. 247-2024](decreto-247-2024.md)
+- [Decreto núm. 248-2024](decreto-248-2024.md)
+- [Decreto núm. 249-2024](decreto-249-2024.md)
+- [Decreto núm. 250-2024](decreto-250-2024.md)
+- [Decreto núm. 251-2024](decreto-251-2024.md)
+- [Decreto núm. 252-2024](decreto-252-2024.md)
+- [Decreto núm. 253-2024](decreto-253-2024.md)
+- [Decreto núm. 254-2024](decreto-254-2024.md)
+- [Decreto núm. 255-2024](decreto-255-2024.md)
+- [Decreto núm. 256-2024](decreto-256-2024.md)
+- [Decreto núm. 257-2024](decreto-257-2024.md)
+- [Decreto núm. 258-2024](decreto-258-2024.md)
+- [Decreto núm. 259-2024](decreto-259-2024.md)
+- [Decreto núm. 260-2024](decreto-260-2024.md)
+- [Decreto núm. 261-2024](decreto-261-2024.md)
+- [Decreto núm. 262-2024](decreto-262-2024.md)
+- [Decreto núm. 263-2024](decreto-263-2024.md)
+- [Decreto núm. 264-2024](decreto-264-2024.md)
+- [Decreto núm. 265-2024](decreto-265-2024.md)
+- [Decreto núm. 266-2024](decreto-266-2024.md)
+- [Decreto núm. 267-2024](decreto-267-2024.md)
+- [Decreto núm. 268-2024](decreto-268-2024.md)
+- [Decreto núm. 269-2024](decreto-269-2024.md)
+- [Decreto núm. 270-2024](decreto-270-2024.md)
+- [Decreto núm. 271-2024](decreto-271-2024.md)
+- [Decreto núm. 272-2024](decreto-272-2024.md)
+- [Decreto núm. 273-2024](decreto-273-2024.md)
+- [Decreto núm. 274-2024](decreto-274-2024.md)
+- [Decreto núm. 275-2024](decreto-275-2024.md)
+- [Decreto núm. 276-2024](decreto-276-2024.md)
+- [Decreto núm. 277-2024](decreto-277-2024.md)
+- [Decreto núm. 278-2024](decreto-278-2024.md)
+- [Decreto núm. 279-2024](decreto-279-2024.md)
+- [Decreto núm. 280-2024](decreto-280-2024.md)
+- [Decreto núm. 281-2024](decreto-281-2024.md)
+- [Decreto núm. 282-2024](decreto-282-2024.md)
+- [Decreto núm. 283-2024](decreto-283-2024.md)
+- [Decreto núm. 284-2024](decreto-284-2024.md)
+- [Decreto núm. 285-2024](decreto-285-2024.md)
+- [Decreto núm. 286-2024](decreto-286-2024.md)
+- [Decreto núm. 287-2024](decreto-287-2024.md)
+- [Decreto núm. 288-2024](decreto-288-2024.md)
+- [Decreto núm. 289-2024](decreto-289-2024.md)
+- [Decreto núm. 290-2024](decreto-290-2024.md)
+- [Decreto núm. 291-2024](decreto-291-2024.md)
+- [Decreto núm. 292-2024](decreto-292-2024.md)
+- [Decreto núm. 293-2024](decreto-293-2024.md)
+- [Decreto núm. 294-2024](decreto-294-2024.md)
+- [Decreto núm. 295-2024](decreto-295-2024.md)
+- [Decreto núm. 296-2024](decreto-296-2024.md)
+- [Decreto núm. 297-2024](decreto-297-2024.md)
+- [Decreto núm. 298-2024](decreto-298-2024.md)
+- [Decreto núm. 299-2024](decreto-299-2024.md)
+- [Decreto núm. 300-2024](decreto-300-2024.md)
+- [Decreto núm. 301-2024](decreto-301-2024.md)
 
 ## Documentos detectados
 
@@ -418,106 +518,106 @@ Documentos detectados: **708**.
 | 199-24 | 11/04/2024 | 11146 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 3, DEL DECRETO NÚM. 260-13,... | [Ver documento](decreto-199-2024.md) | normalizado · pendiente_revision |
 | 200-24 | 11/04/2024 | 11146 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE LÍNEA DE T... | [Ver documento](decreto-200-2024.md) | normalizado · pendiente_revision |
 | 201-24 | 11/04/2024 | 11146 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE AULAS, UNA... | [Ver documento](decreto-201-2024.md) | normalizado · pendiente_revision |
-| 202-24 | 11/04/2024 | 11146 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA AMPLIACIÓN DEL ACUEDUCTO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402062&managementType=1) | pendiente_verificacion_pdf |
-| 203-24 | 11/04/2024 | 11146 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL EN DISTINTAS CATEGORÍAS A VARIOS OFICIALES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402079&managementType=1) | pendiente_verificacion_pdf |
-| 204-24 | 15/04/2024 | 11146 | QUE CREA LA COMISIÓN DE BONOS TEMÁTICOS, CON EL OBJETIVO DE ASEGURAR LA COHERENCIA, COORDINACIÓN Y A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402080&managementType=1) | pendiente_verificacion_pdf |
-| 205-24 | 15/04/2024 | 11146 | QUE ELEVA A LA SUMA DE RD$120,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR FERNA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402063&managementType=1) | pendiente_verificacion_pdf |
-| 206-24 | 15/04/2024 | 11146 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO EN SU SEGUNDA CLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402064&managementType=1) | pendiente_verificacion_pdf |
-| 207-24 | 15/04/2024 | 11146 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DEL CENTRO CO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402065&managementType=1) | pendiente_verificacion_pdf |
-| 208-24 | 16/04/2024 | 11147 | QUE DECLARA DE INTERÉS NACIONAL LA CONSTRUCCIÓN, A TRAVÉS DE LA EMPRESA DE TRANSMISIÓN ELÉCTRICA DOM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402090&managementType=1) | pendiente_verificacion_pdf |
-| 209-24 | 19/04/2024 | 11147 | QUE MODIFICA LOS ARTÍCULOS 1, 2, 3, EL LITERAL B) DEL ARTÍCULO 4, LOS LITERALES B), D), G) Y H) DEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402083&managementType=1) | pendiente_verificacion_pdf |
-| 210-24 | 19/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA FRANCESA DEL NACIONAL DOMINICANO REINARDO YAN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402084&managementType=1) | pendiente_verificacion_pdf |
-| 211-24 | 19/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO ÁNGEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402085&managementType=1) | pendiente_verificacion_pdf |
-| 212-24 | 19/04/2024 | 11147 | QUE MODIFICA EL DECRETO NO.600-23, QUE AUTORIZÓ LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402086&managementType=1) | pendiente_verificacion_pdf |
-| 213-24 | 19/04/2024 | 11147 | CREA EL PARQUE DE ZONAS FRANCAS DENOMINADO ZONA FRANCA INDUSTRIAL LA CUABA, BAJO LA ADMINISTRACIÓN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402091&managementType=1) | pendiente_verificacion_pdf |
-| 214-24 | 19/04/2024 | 11147 | QUE RATIFICA EL PERMISO EXPEDIDO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS A FAVOR DE LA EMPRESA INTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402092&managementType=1) | pendiente_verificacion_pdf |
-| 215-24 | 19/04/2024 | 11147 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402087&managementType=1) | pendiente_verificacion_pdf |
-| 216-24 | 19/04/2024 | 11147 | QUE CONCEDE DE MANERA PÓSTUMA, LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402093&managementType=1) | pendiente_verificacion_pdf |
-| 217-24 | 19/04/2024 | 11147 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE GRAN CRUZ PLACA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402094&managementType=1) | pendiente_verificacion_pdf |
-| 218-24 | 19/04/2024 | 11147 | CREA EL PARQUE DE ZONAS FRANCAS DENOMINADO BHL ECO FREE ZONE, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402095&managementType=1) | pendiente_verificacion_pdf |
-| 219-24 | 19/04/2024 | 11147 | QUE DECLARA DÍA DE DUELO OFICIAL EL SÁBADO 20 DE ABRIL DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402096&managementType=1) | pendiente_verificacion_pdf |
-| 220-24 | 23/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE LOS PAÍSES BAJOS, DEL NACIONAL NEERLANDÉS URVIN LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402097&managementType=1) | pendiente_verificacion_pdf |
-| 221-24 | 23/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA BOLIVARIANA DE VENEZUELA, DEL NACIONAL VENEZOLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402098&managementType=1) | pendiente_verificacion_pdf |
-| 222-24 | 23/04/2024 | 11147 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 1105 SERVIDORES DEL SECT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402099&managementType=1) | pendiente_verificacion_pdf |
-| 223-24 | 23/04/2024 | 11147 | QUE CREA LA SÉPTIMA (7MA) BRIGADA DE INFANTERÍA DEL EJÉRCITO DE REPÚBLICA DOMINICANA, CON ASIENTO EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402088&managementType=1) | pendiente_verificacion_pdf |
-| 224-24 | 23/04/2024 | 11147 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$90,000.00 MENSUALES AL SEÑOR DELFÍN RAFAEL LÓPEZ G... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402100&managementType=1) | pendiente_verificacion_pdf |
-| 225-24 | 23/04/2024 | 11147 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO EN SU SEGUNDA CLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402101&managementType=1) | pendiente_verificacion_pdf |
-| 226-24 | 23/04/2024 | 11147 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402102&managementType=1) | pendiente_verificacion_pdf |
-| 227-24 | 23/04/2024 | 11147 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$40,000.00 MENSUALES A 16 PERSONAS, Y AUMENTA LAS P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402103&managementType=1) | pendiente_verificacion_pdf |
-| 228-24 | 23/04/2024 | 11147 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 160-24. DETERMINA LA UBICACIÓN DE LA ZONA FRANCA INDUSTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402104&managementType=1) | pendiente_verificacion_pdf |
-| 229-24 | 23/04/2024 | 11147 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$10,000.00 MENSUALES A 13 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402105&managementType=1) | pendiente_verificacion_pdf |
-| 230-24 | 23/04/2024 | 11147 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 348-20, QUE DESIGNO A CRYSTAL MARGARITA FIALLO SCANLON, SU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402089&managementType=1) | pendiente_verificacion_pdf |
-| 231-24 | 23/04/2024 | 11147 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 24 SERVIDORES PÚBLICOS DEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402106&managementType=1) | pendiente_verificacion_pdf |
-| 232-24 | 23/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER SUS RESPECTIVAS PROFESIONES. MODIFICA LOS D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402132&managementType=1) | pendiente_verificacion_pdf |
-| 233-24 | 23/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402144&managementType=1) | pendiente_verificacion_pdf |
-| 234-24 | 23/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402145&managementType=1) | pendiente_verificacion_pdf |
-| 235-24 | 23/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$30,000.00 MENSUALES A 72 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402146&managementType=1) | pendiente_verificacion_pdf |
-| 236-24 | 23/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402147&managementType=1) | pendiente_verificacion_pdf |
-| 237-24 | 23/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402148&managementType=1) | pendiente_verificacion_pdf |
-| 238-24 | 23/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 12 EX SERVIDORES DEL SECTO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402149&managementType=1) | pendiente_verificacion_pdf |
-| 239-24 | 23/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 17 PERSONAS, Y OTORGA UNA PENSIÓN ESPECIAL POR DISCAPA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402150&managementType=1) | pendiente_verificacion_pdf |
-| 240-24 | 30/04/2024 | 11148 | QUE CREA CON CARÁCTER TEMPORAL LA OFICINA NACIONAL DE APOYO A LA REFORMA PENITENCIARIA (ONAPREP), LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402151&managementType=1) | pendiente_verificacion_pdf |
-| 241-24 | 30/04/2024 | 11148 | QUE DESIGNA A ROBERTO JOSÉ SANTANA SÁNCHEZ, DIRECTOR DE LA OFICINA NACIONAL DE APOYO A LA REFORMA PE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402152&managementType=1) | pendiente_verificacion_pdf |
-| 242-24 | 30/04/2024 | 11148 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO UBICADA EN EL MUNICIPIO DE G... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402153&managementType=1) | pendiente_verificacion_pdf |
-| 243-24 | 30/04/2024 | 11148 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 23, DEL DECRETO NÚM. 369-14... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402154&managementType=1) | pendiente_verificacion_pdf |
-| 244-24 | 30/04/2024 | 11148 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 13, DEL DECRETO NÚM. 8-14, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402155&managementType=1) | pendiente_verificacion_pdf |
-| 245-24 | 30/04/2024 | 11148 | QUE AUTORIZA AL TENIENTE CORONEL ROENNY CATANO MARTÍNEZ, P.N., PARA QUE PUEDA ACEPTAR Y USAR LA COND... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402156&managementType=1) | pendiente_verificacion_pdf |
-| 246-24 | 30/04/2024 | 11148 | QUE CONCEDE LA CONDECORACIÓN ORDEN DEL MÉRITO AÉREO CON DISTINTIVO AZUL Y BLANCO, EN SUS DIFERENTES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402157&managementType=1) | pendiente_verificacion_pdf |
-| 247-24 | 30/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 130 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402158&managementType=1) | pendiente_verificacion_pdf |
-| 248-24 | 30/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE RD$10,000.00 MENSUALES A 480 AFIL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402133&managementType=1) | pendiente_verificacion_pdf |
-| 249-24 | 30/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 31 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402134&managementType=1) | pendiente_verificacion_pdf |
-| 250-24 | 30/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN SERVICIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402159&managementType=1) | pendiente_verificacion_pdf |
-| 251-24 | 30/04/2024 | 11148 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO RADHA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402135&managementType=1) | pendiente_verificacion_pdf |
-| 252-24 | 30/04/2024 | 11148 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS EMBAJADORES, VICEMINISTROS, MINISTROS CONSEJEROS, CONSE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402136&managementType=1) | pendiente_verificacion_pdf |
-| 253-24 | 30/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A 227 PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402137&managementType=1) | pendiente_verificacion_pdf |
-| 254-24 | 30/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER SUS RESPECTIVAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402160&managementType=1) | pendiente_verificacion_pdf |
-| 255-24 | 30/04/2024 | 11148 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 425-23. DISPONE QUE LA ZONA FRANCA INDUSTRIAL AVOCADO AC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402138&managementType=1) | pendiente_verificacion_pdf |
-| 256-24 | 30/04/2024 | 11148 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA PARCELA NÚM. 313277115187, CON UNA EXTENSIÓN DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402139&managementType=1) | pendiente_verificacion_pdf |
-| 257-24 | 30/04/2024 | 11148 | QUE CONCEDE DE MANERA PÓSTUMA, LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402140&managementType=1) | pendiente_verificacion_pdf |
-| 258-24 | 30/04/2024 | 11148 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402141&managementType=1) | pendiente_verificacion_pdf |
-| 259-24 | 02/05/2024 | 11148 | QUE CREA DE MANERA PROVISIONAL EL COMITÉ DE ADMINISTRACIÓN Y CUIDADO DEL ESTADIO TETELO VARGAS, DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402142&managementType=1) | pendiente_verificacion_pdf |
-| 260-24 | 02/05/2024 | 11148 | QUE CREA E INTEGRA EL CONSEJO CONSULTIVO PARA LA COORDINACIÓN Y EXAMEN DEL PROCESO DE DISCUSIÓN DEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402161&managementType=1) | pendiente_verificacion_pdf |
-| 261-24 | 02/05/2024 | 11148 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL PARA SER INCLUIDAS DENTRO DEL PLAN NACIONAL DE TITU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402143&managementType=1) | pendiente_verificacion_pdf |
-| 262-24 | 07/05/2024 | 11149 | QUE CREA DE MANERA PROVISIONAL EL COMITÉ DE ADMINISTRACIÓN Y CUIDADO DEL ESTADIO JOSÉ BRISEÑO, DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402164&managementType=1) | pendiente_verificacion_pdf |
-| 263-24 | 07/05/2024 | 11149 | QUE DESIGNA AL SEÑOR MIGUEL ENRIQUE FERIS CHALAS, PRESIDENTE HONORÍFICO DEL COMITÉ DE ADMINISTRACIÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402173&managementType=1) | pendiente_verificacion_pdf |
-| 264-24 | 07/05/2024 | 11149 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402165&managementType=1) | pendiente_verificacion_pdf |
-| 265-24 | 07/05/2024 | 11149 | QUE NOMBRA A LOS SEÑORES ALEJANDRO ARIAS ZARZUELA Y LOURDES MARGARITA FRANCO-ZIMMERMAN, EMBAJADORES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402166&managementType=1) | pendiente_verificacion_pdf |
-| 266-24 | 07/05/2024 | 11149 | QUE DESIGNA 2 VICECÓNSULES DE LA REPÚBLICA EN BOSTON, MASSACHUSETTS Y NUEVA ORLEANS, LUISIANA, ESTAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402167&managementType=1) | pendiente_verificacion_pdf |
-| 267-24 | 08/05/2024 | 11149 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402174&managementType=1) | pendiente_verificacion_pdf |
-| 268-24 | 08/05/2024 | 11149 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO EN SU SEGUNDA CLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402175&managementType=1) | pendiente_verificacion_pdf |
-| 269-24 | 08/05/2024 | 11149 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, CON MEDALLA DE SERVICIO DISTINGUIDO, EN S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402176&managementType=1) | pendiente_verificacion_pdf |
-| 270-24 | 13/05/2024 | 11149 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO, EN SU SEGUNDA CL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402177&managementType=1) | pendiente_verificacion_pdf |
-| 271-24 | 13/05/2024 | 11149 | QUE DESIGNA A LA SEÑORA ANGELA MARIANNA VIGLIOTTA MELLA, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402168&managementType=1) | pendiente_verificacion_pdf |
-| 272-24 | 13/05/2024 | 11149 | QUE AUTORIZA AL CAPITÁN DE NAVÍO JUAN CARLOS HOLGUÍN TERRERO, ARD, DEMN, AGREGADO DE DEFENSA, MILITA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402178&managementType=1) | pendiente_verificacion_pdf |
-| 273-24 | 13/05/2024 | 11149 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402179&managementType=1) | pendiente_verificacion_pdf |
-| 274-24 | 13/05/2024 | 11149 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM. 273-23. CREA E INTEGRA LA COMISIÓN REVISORA DE CONTRATOS RE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402180&managementType=1) | pendiente_verificacion_pdf |
-| 275-24 | 13/05/2024 | 11149 | QUE DESIGNA A LA SEÑORA MARÍA ESTHER DÍAZ MEDINA, GOBERNADORA CIVIL DE LA PROVINCIA BAHORUCO. DEROGA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402181&managementType=1) | pendiente_verificacion_pdf |
-| 276-24 | 14/05/2024 | 11149 | QUE AUTORIZA AL MAYOR GENERAL TÉCNICO DE AVIACIÓN CARLOS RAMÓN FEBRILLET RODRÍGUEZ, FARD, PARA QUE P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402182&managementType=1) | pendiente_verificacion_pdf |
-| 277-24 | 14/05/2024 | 11149 | QUE AUTORIZA AL CAPITÁN DE FRAGATA GUSTAVO ANTONIO MARTÍNEZ CASTILLO, ARD, (DEM), PARA QUE PUEDA ACE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402183&managementType=1) | pendiente_verificacion_pdf |
-| 278-24 | 14/05/2024 | 11149 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO HUÁSC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402169&managementType=1) | pendiente_verificacion_pdf |
-| 279-24 | 14/05/2024 | 11149 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, DEL DECRETO NÚM. 414 DE 1982, UNA P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402170&managementType=1) | pendiente_verificacion_pdf |
-| 280-24 | 14/05/2024 | 11149 | QUE MODIFICA EL ARTÍCULO 8 DEL DECRETO NÚM. 489-07, QUE APRUEBA EL REGLAMENTO ORGÁNICO FUNCIONAL DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402171&managementType=1) | pendiente_verificacion_pdf |
-| 281-24 | 14/05/2024 | 11149 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS Y DE NEYBA, PROVINCIA BAHORUCO, A VEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402172&managementType=1) | pendiente_verificacion_pdf |
-| 282-24 | 20/05/2024 | 11150 | QUE DECLARA DE UTILIDAD PÚBLICA VARIAS PORCIONES DE TERRENOS PARA SER DESTINADAS A LA REUBICACIÓN CO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402189&managementType=1) | pendiente_verificacion_pdf |
-| 283-24 | 20/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMERICA, DEL NACIONAL DOMINICANO RAFAE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402190&managementType=1) | pendiente_verificacion_pdf |
-| 284-24 | 20/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO MANUE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402201&managementType=1) | pendiente_verificacion_pdf |
-| 285-24 | 20/05/2024 | 11150 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS, Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN CUATRO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402202&managementType=1) | pendiente_verificacion_pdf |
-| 286-24 | 20/05/2024 | 11150 | QUE AUTORIZA AL CAPITÁN DE NAVÍO JUAN CARLOS HOLGUÍN TERRERO, ARD, DEMN, AGREGADO DE DEFENSA MILITAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402191&managementType=1) | pendiente_verificacion_pdf |
-| 287-24 | 20/05/2024 | 11150 | QUE CONCEDE PENSIONES DEL ESTADO A 2,458 SERVIDORES DEL MINISTERIO DE EDUCACIÓN, Y AUMENTA LAS PENSI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402192&managementType=1) | pendiente_verificacion_pdf |
-| 290-24 | 20/05/2024 | 11150 | QUE AUTORIZA A LA ENTIDAD DE GESTIÓN COLECTIVA DE ARREGLISTAS MUSICALES A ENTRAR EN FUNCIONAMIENTO C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402203&managementType=1) | pendiente_verificacion_pdf |
-| 288-24 | 21/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE LOS PAÍSES BAJOS, DEL NACIONAL NEERLANDÉS DENNIS G... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402193&managementType=1) | pendiente_verificacion_pdf |
-| 289-24 | 21/05/2024 | 11150 | QUE CREA E INTEGRA DE MANERA PROVISIONAL, EL COMITÉ DE ADMINISTRACIÓN Y CUIDADO DEL PABELLÓN DE VOLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402194&managementType=1) | pendiente_verificacion_pdf |
-| 291-24 | 21/05/2024 | 11150 | QUE AUTORIZA AL CENTRO DOMINICANO DE DERECHOS REPROGRÁFICOS A ENTRAR EN FUNCIONAMIENTO COMO UNA SOCI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402195&managementType=1) | pendiente_verificacion_pdf |
-| 292-24 | 21/05/2024 | 11150 | QUE AUTORIZA A LA SOCIEDAD DE DERECHOS FOTOGRÁFICOS A ENTRAR EN FUNCIONAMIENTO COMO UNA SOCIEDAD DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402196&managementType=1) | pendiente_verificacion_pdf |
-| 293-24 | 21/05/2024 | 11150 | QUE CONCEDE UNA PENSIÓN DEL ESTADO AL SEÑOR RAMÓN DE LA ANTIGUA FLORES GARCÍA, Y AUMENTA EL MONTO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402204&managementType=1) | pendiente_verificacion_pdf |
-| 294-24 | 21/05/2024 | 11150 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y AUMENTA EL MONTO DE LAS PENSIONES D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402197&managementType=1) | pendiente_verificacion_pdf |
-| 295-24 | 21/05/2024 | 11150 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 48 PERSONAS EXTRANJE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402205&managementType=1) | pendiente_verificacion_pdf |
-| 296-24 | 23/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO FÉLIX... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402198&managementType=1) | pendiente_verificacion_pdf |
-| 297-24 | 23/05/2024 | 11150 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, LITERAL C), NUMERAL 1, DEL DEC. NÚM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402206&managementType=1) | pendiente_verificacion_pdf |
-| 298-24 | 23/05/2024 | 11150 | QUE DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRENO DE 430.30 METROS CUADRADOS, PROPIEDAD DE CRIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402207&managementType=1) | pendiente_verificacion_pdf |
-| 299-24 | 23/05/2024 | 11150 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LOS TRABAJOS DE AMPLIACIÓN DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402199&managementType=1) | pendiente_verificacion_pdf |
-| 300-24 | 24/05/2024 | 11150 | QUE DESIGNA LOS MIEMBROS DE LAS DELEGACIONES QUE REPRESENTARÁN A LA REPÚBLICA DOMINICANA EN LA 112ª.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402208&managementType=1) | pendiente_verificacion_pdf |
-| 301-24 | 27/05/2024 | 11150 | QUE INTEGRA LA DELEGACIÓN QUE REPRESENTARÁ AL GOBIERNO DE LA REPÚBLICA DOMINICANA EN LOS ACTOS DE TO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402200&managementType=1) | pendiente_verificacion_pdf |
+| 202-24 | 11/04/2024 | 11146 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA AMPLIACIÓN DEL ACUEDUCTO D... | [Ver documento](decreto-202-2024.md) | normalizado · pendiente_revision |
+| 203-24 | 11/04/2024 | 11146 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL EN DISTINTAS CATEGORÍAS A VARIOS OFICIALES... | [Ver documento](decreto-203-2024.md) | normalizado · pendiente_revision |
+| 204-24 | 15/04/2024 | 11146 | QUE CREA LA COMISIÓN DE BONOS TEMÁTICOS, CON EL OBJETIVO DE ASEGURAR LA COHERENCIA, COORDINACIÓN Y A... | [Ver documento](decreto-204-2024.md) | normalizado · pendiente_revision |
+| 205-24 | 15/04/2024 | 11146 | QUE ELEVA A LA SUMA DE RD$120,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR FERNA... | [Ver documento](decreto-205-2024.md) | normalizado · pendiente_revision |
+| 206-24 | 15/04/2024 | 11146 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO EN SU SEGUNDA CLA... | [Ver documento](decreto-206-2024.md) | normalizado · pendiente_revision |
+| 207-24 | 15/04/2024 | 11146 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DEL CENTRO CO... | [Ver documento](decreto-207-2024.md) | normalizado · pendiente_revision |
+| 208-24 | 16/04/2024 | 11147 | QUE DECLARA DE INTERÉS NACIONAL LA CONSTRUCCIÓN, A TRAVÉS DE LA EMPRESA DE TRANSMISIÓN ELÉCTRICA DOM... | [Ver documento](decreto-208-2024.md) | normalizado · pendiente_revision |
+| 209-24 | 19/04/2024 | 11147 | QUE MODIFICA LOS ARTÍCULOS 1, 2, 3, EL LITERAL B) DEL ARTÍCULO 4, LOS LITERALES B), D), G) Y H) DEL ... | [Ver documento](decreto-209-2024.md) | normalizado · pendiente_revision |
+| 210-24 | 19/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA FRANCESA DEL NACIONAL DOMINICANO REINARDO YAN T... | [Ver documento](decreto-210-2024.md) | normalizado · pendiente_revision |
+| 211-24 | 19/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO ÁNGEL ... | [Ver documento](decreto-211-2024.md) | normalizado · pendiente_revision |
+| 212-24 | 19/04/2024 | 11147 | QUE MODIFICA EL DECRETO NO.600-23, QUE AUTORIZÓ LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AM... | [Ver documento](decreto-212-2024.md) | normalizado · pendiente_revision |
+| 213-24 | 19/04/2024 | 11147 | CREA EL PARQUE DE ZONAS FRANCAS DENOMINADO ZONA FRANCA INDUSTRIAL LA CUABA, BAJO LA ADMINISTRACIÓN T... | [Ver documento](decreto-213-2024.md) | normalizado · pendiente_revision |
+| 214-24 | 19/04/2024 | 11147 | QUE RATIFICA EL PERMISO EXPEDIDO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS A FAVOR DE LA EMPRESA INTE... | [Ver documento](decreto-214-2024.md) | normalizado · pendiente_revision |
+| 215-24 | 19/04/2024 | 11147 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-215-2024.md) | normalizado · pendiente_revision |
+| 216-24 | 19/04/2024 | 11147 | QUE CONCEDE DE MANERA PÓSTUMA, LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO... | [Ver documento](decreto-216-2024.md) | normalizado · pendiente_revision |
+| 217-24 | 19/04/2024 | 11147 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE GRAN CRUZ PLACA... | [Ver documento](decreto-217-2024.md) | normalizado · pendiente_revision |
+| 218-24 | 19/04/2024 | 11147 | CREA EL PARQUE DE ZONAS FRANCAS DENOMINADO BHL ECO FREE ZONE, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERA... | [Ver documento](decreto-218-2024.md) | normalizado · pendiente_revision |
+| 219-24 | 19/04/2024 | 11147 | QUE DECLARA DÍA DE DUELO OFICIAL EL SÁBADO 20 DE ABRIL DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENT... | [Ver documento](decreto-219-2024.md) | normalizado · pendiente_revision |
+| 220-24 | 23/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE LOS PAÍSES BAJOS, DEL NACIONAL NEERLANDÉS URVIN LA... | [Ver documento](decreto-220-2024.md) | normalizado · pendiente_revision |
+| 221-24 | 23/04/2024 | 11147 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA BOLIVARIANA DE VENEZUELA, DEL NACIONAL VENEZOLA... | [Ver documento](decreto-221-2024.md) | normalizado · pendiente_revision |
+| 222-24 | 23/04/2024 | 11147 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 1105 SERVIDORES DEL SECT... | [Ver documento](decreto-222-2024.md) | normalizado · pendiente_revision |
+| 223-24 | 23/04/2024 | 11147 | QUE CREA LA SÉPTIMA (7MA) BRIGADA DE INFANTERÍA DEL EJÉRCITO DE REPÚBLICA DOMINICANA, CON ASIENTO EN... | [Ver documento](decreto-223-2024.md) | normalizado · pendiente_revision |
+| 224-24 | 23/04/2024 | 11147 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$90,000.00 MENSUALES AL SEÑOR DELFÍN RAFAEL LÓPEZ G... | [Ver documento](decreto-224-2024.md) | normalizado · pendiente_revision |
+| 225-24 | 23/04/2024 | 11147 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO EN SU SEGUNDA CLA... | [Ver documento](decreto-225-2024.md) | normalizado · pendiente_revision |
+| 226-24 | 23/04/2024 | 11147 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-226-2024.md) | normalizado · pendiente_revision |
+| 227-24 | 23/04/2024 | 11147 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$40,000.00 MENSUALES A 16 PERSONAS, Y AUMENTA LAS P... | [Ver documento](decreto-227-2024.md) | normalizado · pendiente_revision |
+| 228-24 | 23/04/2024 | 11147 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 160-24. DETERMINA LA UBICACIÓN DE LA ZONA FRANCA INDUSTR... | [Ver documento](decreto-228-2024.md) | normalizado · pendiente_revision |
+| 229-24 | 23/04/2024 | 11147 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$10,000.00 MENSUALES A 13 PERSONAS. | [Ver documento](decreto-229-2024.md) | normalizado · pendiente_revision |
+| 230-24 | 23/04/2024 | 11147 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 348-20, QUE DESIGNO A CRYSTAL MARGARITA FIALLO SCANLON, SU... | [Ver documento](decreto-230-2024.md) | normalizado · pendiente_revision |
+| 231-24 | 23/04/2024 | 11147 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 24 SERVIDORES PÚBLICOS DEL... | [Ver documento](decreto-231-2024.md) | normalizado · pendiente_revision |
+| 232-24 | 23/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER SUS RESPECTIVAS PROFESIONES. MODIFICA LOS D... | [Ver documento](decreto-232-2024.md) | normalizado · pendiente_revision |
+| 233-24 | 23/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-233-2024.md) | normalizado · pendiente_revision |
+| 234-24 | 23/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-234-2024.md) | normalizado · pendiente_revision |
+| 235-24 | 23/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$30,000.00 MENSUALES A 72 PERSONAS. | [Ver documento](decreto-235-2024.md) | normalizado · pendiente_revision |
+| 236-24 | 23/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-236-2024.md) | normalizado · pendiente_revision |
+| 237-24 | 23/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-237-2024.md) | normalizado · pendiente_revision |
+| 238-24 | 23/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 12 EX SERVIDORES DEL SECTO... | [Ver documento](decreto-238-2024.md) | normalizado · pendiente_revision |
+| 239-24 | 23/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 17 PERSONAS, Y OTORGA UNA PENSIÓN ESPECIAL POR DISCAPA... | [Ver documento](decreto-239-2024.md) | normalizado · pendiente_revision |
+| 240-24 | 30/04/2024 | 11148 | QUE CREA CON CARÁCTER TEMPORAL LA OFICINA NACIONAL DE APOYO A LA REFORMA PENITENCIARIA (ONAPREP), LA... | [Ver documento](decreto-240-2024.md) | normalizado · pendiente_revision |
+| 241-24 | 30/04/2024 | 11148 | QUE DESIGNA A ROBERTO JOSÉ SANTANA SÁNCHEZ, DIRECTOR DE LA OFICINA NACIONAL DE APOYO A LA REFORMA PE... | [Ver documento](decreto-241-2024.md) | normalizado · pendiente_revision |
+| 242-24 | 30/04/2024 | 11148 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO UBICADA EN EL MUNICIPIO DE G... | [Ver documento](decreto-242-2024.md) | normalizado · pendiente_revision |
+| 243-24 | 30/04/2024 | 11148 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 23, DEL DECRETO NÚM. 369-14... | [Ver documento](decreto-243-2024.md) | normalizado · pendiente_revision |
+| 244-24 | 30/04/2024 | 11148 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 13, DEL DECRETO NÚM. 8-14, ... | [Ver documento](decreto-244-2024.md) | normalizado · pendiente_revision |
+| 245-24 | 30/04/2024 | 11148 | QUE AUTORIZA AL TENIENTE CORONEL ROENNY CATANO MARTÍNEZ, P.N., PARA QUE PUEDA ACEPTAR Y USAR LA COND... | [Ver documento](decreto-245-2024.md) | normalizado · pendiente_revision |
+| 246-24 | 30/04/2024 | 11148 | QUE CONCEDE LA CONDECORACIÓN ORDEN DEL MÉRITO AÉREO CON DISTINTIVO AZUL Y BLANCO, EN SUS DIFERENTES ... | [Ver documento](decreto-246-2024.md) | normalizado · pendiente_revision |
+| 247-24 | 30/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 130 PERSONAS. | [Ver documento](decreto-247-2024.md) | normalizado · pendiente_revision |
+| 248-24 | 30/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE RD$10,000.00 MENSUALES A 480 AFIL... | [Ver documento](decreto-248-2024.md) | normalizado · pendiente_revision |
+| 249-24 | 30/04/2024 | 11148 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 31 PERSONAS. | [Ver documento](decreto-249-2024.md) | normalizado · pendiente_revision |
+| 250-24 | 30/04/2024 | 11148 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN SERVICIO... | [Ver documento](decreto-250-2024.md) | normalizado · pendiente_revision |
+| 251-24 | 30/04/2024 | 11148 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO RADHA... | [Ver documento](decreto-251-2024.md) | normalizado · pendiente_revision |
+| 252-24 | 30/04/2024 | 11148 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS EMBAJADORES, VICEMINISTROS, MINISTROS CONSEJEROS, CONSE... | [Ver documento](decreto-252-2024.md) | normalizado · pendiente_revision |
+| 253-24 | 30/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A 227 PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-253-2024.md) | normalizado · pendiente_revision |
+| 254-24 | 30/04/2024 | 11148 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER SUS RESPECTIVAS PROFESIONES | [Ver documento](decreto-254-2024.md) | normalizado · pendiente_revision |
+| 255-24 | 30/04/2024 | 11148 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 425-23. DISPONE QUE LA ZONA FRANCA INDUSTRIAL AVOCADO AC... | [Ver documento](decreto-255-2024.md) | normalizado · pendiente_revision |
+| 256-24 | 30/04/2024 | 11148 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA PARCELA NÚM. 313277115187, CON UNA EXTENSIÓN DE ... | [Ver documento](decreto-256-2024.md) | normalizado · pendiente_revision |
+| 257-24 | 30/04/2024 | 11148 | QUE CONCEDE DE MANERA PÓSTUMA, LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO... | [Ver documento](decreto-257-2024.md) | normalizado · pendiente_revision |
+| 258-24 | 30/04/2024 | 11148 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-258-2024.md) | normalizado · pendiente_revision |
+| 259-24 | 02/05/2024 | 11148 | QUE CREA DE MANERA PROVISIONAL EL COMITÉ DE ADMINISTRACIÓN Y CUIDADO DEL ESTADIO TETELO VARGAS, DE L... | [Ver documento](decreto-259-2024.md) | normalizado · pendiente_revision |
+| 260-24 | 02/05/2024 | 11148 | QUE CREA E INTEGRA EL CONSEJO CONSULTIVO PARA LA COORDINACIÓN Y EXAMEN DEL PROCESO DE DISCUSIÓN DEL ... | [Ver documento](decreto-260-2024.md) | normalizado · pendiente_revision |
+| 261-24 | 02/05/2024 | 11148 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL PARA SER INCLUIDAS DENTRO DEL PLAN NACIONAL DE TITU... | [Ver documento](decreto-261-2024.md) | normalizado · pendiente_revision |
+| 262-24 | 07/05/2024 | 11149 | QUE CREA DE MANERA PROVISIONAL EL COMITÉ DE ADMINISTRACIÓN Y CUIDADO DEL ESTADIO JOSÉ BRISEÑO, DE LA... | [Ver documento](decreto-262-2024.md) | normalizado · pendiente_revision |
+| 263-24 | 07/05/2024 | 11149 | QUE DESIGNA AL SEÑOR MIGUEL ENRIQUE FERIS CHALAS, PRESIDENTE HONORÍFICO DEL COMITÉ DE ADMINISTRACIÓN... | [Ver documento](decreto-263-2024.md) | normalizado · pendiente_revision |
+| 264-24 | 07/05/2024 | 11149 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-264-2024.md) | normalizado · pendiente_revision |
+| 265-24 | 07/05/2024 | 11149 | QUE NOMBRA A LOS SEÑORES ALEJANDRO ARIAS ZARZUELA Y LOURDES MARGARITA FRANCO-ZIMMERMAN, EMBAJADORES ... | [Ver documento](decreto-265-2024.md) | normalizado · pendiente_revision |
+| 266-24 | 07/05/2024 | 11149 | QUE DESIGNA 2 VICECÓNSULES DE LA REPÚBLICA EN BOSTON, MASSACHUSETTS Y NUEVA ORLEANS, LUISIANA, ESTAD... | [Ver documento](decreto-266-2024.md) | normalizado · pendiente_revision |
+| 267-24 | 08/05/2024 | 11149 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-267-2024.md) | normalizado · pendiente_revision |
+| 268-24 | 08/05/2024 | 11149 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO EN SU SEGUNDA CLA... | [Ver documento](decreto-268-2024.md) | normalizado · pendiente_revision |
+| 269-24 | 08/05/2024 | 11149 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, CON MEDALLA DE SERVICIO DISTINGUIDO, EN S... | [Ver documento](decreto-269-2024.md) | normalizado · pendiente_revision |
+| 270-24 | 13/05/2024 | 11149 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO, EN SU SEGUNDA CL... | [Ver documento](decreto-270-2024.md) | normalizado · pendiente_revision |
+| 271-24 | 13/05/2024 | 11149 | QUE DESIGNA A LA SEÑORA ANGELA MARIANNA VIGLIOTTA MELLA, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARI... | [Ver documento](decreto-271-2024.md) | normalizado · pendiente_revision |
+| 272-24 | 13/05/2024 | 11149 | QUE AUTORIZA AL CAPITÁN DE NAVÍO JUAN CARLOS HOLGUÍN TERRERO, ARD, DEMN, AGREGADO DE DEFENSA, MILITA... | [Ver documento](decreto-272-2024.md) | normalizado · pendiente_revision |
+| 273-24 | 13/05/2024 | 11149 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO | [Ver documento](decreto-273-2024.md) | normalizado · pendiente_revision |
+| 274-24 | 13/05/2024 | 11149 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM. 273-23. CREA E INTEGRA LA COMISIÓN REVISORA DE CONTRATOS RE... | [Ver documento](decreto-274-2024.md) | normalizado · pendiente_revision |
+| 275-24 | 13/05/2024 | 11149 | QUE DESIGNA A LA SEÑORA MARÍA ESTHER DÍAZ MEDINA, GOBERNADORA CIVIL DE LA PROVINCIA BAHORUCO. DEROGA... | [Ver documento](decreto-275-2024.md) | normalizado · pendiente_revision |
+| 276-24 | 14/05/2024 | 11149 | QUE AUTORIZA AL MAYOR GENERAL TÉCNICO DE AVIACIÓN CARLOS RAMÓN FEBRILLET RODRÍGUEZ, FARD, PARA QUE P... | [Ver documento](decreto-276-2024.md) | normalizado · pendiente_revision |
+| 277-24 | 14/05/2024 | 11149 | QUE AUTORIZA AL CAPITÁN DE FRAGATA GUSTAVO ANTONIO MARTÍNEZ CASTILLO, ARD, (DEM), PARA QUE PUEDA ACE... | [Ver documento](decreto-277-2024.md) | normalizado · pendiente_revision |
+| 278-24 | 14/05/2024 | 11149 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO HUÁSC... | [Ver documento](decreto-278-2024.md) | normalizado · pendiente_revision |
+| 279-24 | 14/05/2024 | 11149 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, DEL DECRETO NÚM. 414 DE 1982, UNA P... | [Ver documento](decreto-279-2024.md) | normalizado · pendiente_revision |
+| 280-24 | 14/05/2024 | 11149 | QUE MODIFICA EL ARTÍCULO 8 DEL DECRETO NÚM. 489-07, QUE APRUEBA EL REGLAMENTO ORGÁNICO FUNCIONAL DE ... | [Ver documento](decreto-280-2024.md) | normalizado · pendiente_revision |
+| 281-24 | 14/05/2024 | 11149 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS Y DE NEYBA, PROVINCIA BAHORUCO, A VEN... | [Ver documento](decreto-281-2024.md) | normalizado · pendiente_revision |
+| 282-24 | 20/05/2024 | 11150 | QUE DECLARA DE UTILIDAD PÚBLICA VARIAS PORCIONES DE TERRENOS PARA SER DESTINADAS A LA REUBICACIÓN CO... | [Ver documento](decreto-282-2024.md) | normalizado · pendiente_revision |
+| 283-24 | 20/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMERICA, DEL NACIONAL DOMINICANO RAFAE... | [Ver documento](decreto-283-2024.md) | normalizado · pendiente_revision |
+| 284-24 | 20/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO MANUE... | [Ver documento](decreto-284-2024.md) | normalizado · pendiente_revision |
+| 285-24 | 20/05/2024 | 11150 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS, Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN CUATRO ... | [Ver documento](decreto-285-2024.md) | normalizado · pendiente_revision |
+| 286-24 | 20/05/2024 | 11150 | QUE AUTORIZA AL CAPITÁN DE NAVÍO JUAN CARLOS HOLGUÍN TERRERO, ARD, DEMN, AGREGADO DE DEFENSA MILITAR... | [Ver documento](decreto-286-2024.md) | normalizado · pendiente_revision |
+| 287-24 | 20/05/2024 | 11150 | QUE CONCEDE PENSIONES DEL ESTADO A 2,458 SERVIDORES DEL MINISTERIO DE EDUCACIÓN, Y AUMENTA LAS PENSI... | [Ver documento](decreto-287-2024.md) | normalizado · pendiente_revision |
+| 290-24 | 20/05/2024 | 11150 | QUE AUTORIZA A LA ENTIDAD DE GESTIÓN COLECTIVA DE ARREGLISTAS MUSICALES A ENTRAR EN FUNCIONAMIENTO C... | [Ver documento](decreto-290-2024.md) | normalizado · pendiente_revision |
+| 288-24 | 21/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE LOS PAÍSES BAJOS, DEL NACIONAL NEERLANDÉS DENNIS G... | [Ver documento](decreto-288-2024.md) | normalizado · pendiente_revision |
+| 289-24 | 21/05/2024 | 11150 | QUE CREA E INTEGRA DE MANERA PROVISIONAL, EL COMITÉ DE ADMINISTRACIÓN Y CUIDADO DEL PABELLÓN DE VOLE... | [Ver documento](decreto-289-2024.md) | normalizado · pendiente_revision |
+| 291-24 | 21/05/2024 | 11150 | QUE AUTORIZA AL CENTRO DOMINICANO DE DERECHOS REPROGRÁFICOS A ENTRAR EN FUNCIONAMIENTO COMO UNA SOCI... | [Ver documento](decreto-291-2024.md) | normalizado · pendiente_revision |
+| 292-24 | 21/05/2024 | 11150 | QUE AUTORIZA A LA SOCIEDAD DE DERECHOS FOTOGRÁFICOS A ENTRAR EN FUNCIONAMIENTO COMO UNA SOCIEDAD DE ... | [Ver documento](decreto-292-2024.md) | normalizado · pendiente_revision |
+| 293-24 | 21/05/2024 | 11150 | QUE CONCEDE UNA PENSIÓN DEL ESTADO AL SEÑOR RAMÓN DE LA ANTIGUA FLORES GARCÍA, Y AUMENTA EL MONTO DE... | [Ver documento](decreto-293-2024.md) | normalizado · pendiente_revision |
+| 294-24 | 21/05/2024 | 11150 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y AUMENTA EL MONTO DE LAS PENSIONES D... | [Ver documento](decreto-294-2024.md) | normalizado · pendiente_revision |
+| 295-24 | 21/05/2024 | 11150 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 48 PERSONAS EXTRANJE... | [Ver documento](decreto-295-2024.md) | normalizado · pendiente_revision |
+| 296-24 | 23/05/2024 | 11150 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO FÉLIX... | [Ver documento](decreto-296-2024.md) | normalizado · pendiente_revision |
+| 297-24 | 23/05/2024 | 11150 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, LITERAL C), NUMERAL 1, DEL DEC. NÚM... | [Ver documento](decreto-297-2024.md) | normalizado · pendiente_revision |
+| 298-24 | 23/05/2024 | 11150 | QUE DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRENO DE 430.30 METROS CUADRADOS, PROPIEDAD DE CRIS... | [Ver documento](decreto-298-2024.md) | normalizado · pendiente_revision |
+| 299-24 | 23/05/2024 | 11150 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LOS TRABAJOS DE AMPLIACIÓN DE... | [Ver documento](decreto-299-2024.md) | normalizado · pendiente_revision |
+| 300-24 | 24/05/2024 | 11150 | QUE DESIGNA LOS MIEMBROS DE LAS DELEGACIONES QUE REPRESENTARÁN A LA REPÚBLICA DOMINICANA EN LA 112ª.... | [Ver documento](decreto-300-2024.md) | normalizado · pendiente_revision |
+| 301-24 | 27/05/2024 | 11150 | QUE INTEGRA LA DELEGACIÓN QUE REPRESENTARÁ AL GOBIERNO DE LA REPÚBLICA DOMINICANA EN LOS ACTOS DE TO... | [Ver documento](decreto-301-2024.md) | normalizado · pendiente_revision |
 | 302-24 | 05/06/2024 | 11152 | QUE AUTORIZA A LA SOCIEDAD VENETA DEL CARIBE, S.R.L., A HACER USO DE UNA PARTE DE LOS 60 METROS DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402210&managementType=1) | pendiente_verificacion_pdf |
 | 303-24 | 05/06/2024 | 11152 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402211&managementType=1) | pendiente_verificacion_pdf |
 | 304-24 | 05/06/2024 | 11152 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402214&managementType=1) | pendiente_verificacion_pdf |
