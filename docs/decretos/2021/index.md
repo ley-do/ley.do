@@ -7,110 +7,213 @@ Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecu
 
 Documentos detectados: **838**.
 
+## Documentos normalizados inicialmente
+
+- [Decreto núm. 001-2021](decreto-001-2021.md)
+- [Decreto núm. 002-2021](decreto-002-2021.md)
+- [Decreto núm. 003-2021](decreto-003-2021.md)
+- [Decreto núm. 004-2021](decreto-004-2021.md)
+- [Decreto núm. 005-2021](decreto-005-2021.md)
+- [Decreto núm. 006-2021](decreto-006-2021.md)
+- [Decreto núm. 007-2021](decreto-007-2021.md)
+- [Decreto núm. 008-2021](decreto-008-2021.md)
+- [Decreto núm. 009-2021](decreto-009-2021.md)
+- [Decreto núm. 010-2021](decreto-010-2021.md)
+- [Decreto núm. 011-2021](decreto-011-2021.md)
+- [Decreto núm. 012-2021](decreto-012-2021.md)
+- [Decreto núm. 013-2021](decreto-013-2021.md)
+- [Decreto núm. 014-2021](decreto-014-2021.md)
+- [Decreto núm. 015-2021](decreto-015-2021.md)
+- [Decreto núm. 016-2021](decreto-016-2021.md)
+- [Decreto núm. 017-2021](decreto-017-2021.md)
+- [Decreto núm. 018-2021](decreto-018-2021.md)
+- [Decreto núm. 019-2021](decreto-019-2021.md)
+- [Decreto núm. 020-2021](decreto-020-2021.md)
+- [Decreto núm. 021-2021](decreto-021-2021.md)
+- [Decreto núm. 022-2021](decreto-022-2021.md)
+- [Decreto núm. 023-2021](decreto-023-2021.md)
+- [Decreto núm. 024-2021](decreto-024-2021.md)
+- [Decreto núm. 025-2021](decreto-025-2021.md)
+- [Decreto núm. 026-2021](decreto-026-2021.md)
+- [Decreto núm. 027-2021](decreto-027-2021.md)
+- [Decreto núm. 028-2021](decreto-028-2021.md)
+- [Decreto núm. 029-2021](decreto-029-2021.md)
+- [Decreto núm. 030-2021](decreto-030-2021.md)
+- [Decreto núm. 031-2021](decreto-031-2021.md)
+- [Decreto núm. 032-2021](decreto-032-2021.md)
+- [Decreto núm. 033-2021](decreto-033-2021.md)
+- [Decreto núm. 034-2021](decreto-034-2021.md)
+- [Decreto núm. 035-2021](decreto-035-2021.md)
+- [Decreto núm. 036-2021](decreto-036-2021.md)
+- [Decreto núm. 037-2021](decreto-037-2021.md)
+- [Decreto núm. 038-2021](decreto-038-2021.md)
+- [Decreto núm. 039-2021](decreto-039-2021.md)
+- [Decreto núm. 040-2021](decreto-040-2021.md)
+- [Decreto núm. 041-2021](decreto-041-2021.md)
+- [Decreto núm. 042-2021](decreto-042-2021.md)
+- [Decreto núm. 043-2021](decreto-043-2021.md)
+- [Decreto núm. 044-2021](decreto-044-2021.md)
+- [Decreto núm. 045-2021](decreto-045-2021.md)
+- [Decreto núm. 046-2021](decreto-046-2021.md)
+- [Decreto núm. 047-2021](decreto-047-2021.md)
+- [Decreto núm. 048-2021](decreto-048-2021.md)
+- [Decreto núm. 049-2021](decreto-049-2021.md)
+- [Decreto núm. 050-2021](decreto-050-2021.md)
+- [Decreto núm. 051-2021](decreto-051-2021.md)
+- [Decreto núm. 052-2021](decreto-052-2021.md)
+- [Decreto núm. 053-2021](decreto-053-2021.md)
+- [Decreto núm. 054-2021](decreto-054-2021.md)
+- [Decreto núm. 055-2021](decreto-055-2021.md)
+- [Decreto núm. 056-2021](decreto-056-2021.md)
+- [Decreto núm. 057-2021](decreto-057-2021.md)
+- [Decreto núm. 058-2021](decreto-058-2021.md)
+- [Decreto núm. 059-2021](decreto-059-2021.md)
+- [Decreto núm. 060-2021](decreto-060-2021.md)
+- [Decreto núm. 061-2021](decreto-061-2021.md)
+- [Decreto núm. 062-2021](decreto-062-2021.md)
+- [Decreto núm. 063-2021](decreto-063-2021.md)
+- [Decreto núm. 064-2021](decreto-064-2021.md)
+- [Decreto núm. 065-2021](decreto-065-2021.md)
+- [Decreto núm. 066-2021](decreto-066-2021.md)
+- [Decreto núm. 067-2021](decreto-067-2021.md)
+- [Decreto núm. 068-2021](decreto-068-2021.md)
+- [Decreto núm. 069-2021](decreto-069-2021.md)
+- [Decreto núm. 070-2021](decreto-070-2021.md)
+- [Decreto núm. 071-2021](decreto-071-2021.md)
+- [Decreto núm. 072-2021](decreto-072-2021.md)
+- [Decreto núm. 073-2021](decreto-073-2021.md)
+- [Decreto núm. 074-2021](decreto-074-2021.md)
+- [Decreto núm. 075-2021](decreto-075-2021.md)
+- [Decreto núm. 076-2021](decreto-076-2021.md)
+- [Decreto núm. 077-2021](decreto-077-2021.md)
+- [Decreto núm. 078-2021](decreto-078-2021.md)
+- [Decreto núm. 079-2021](decreto-079-2021.md)
+- [Decreto núm. 080-2021](decreto-080-2021.md)
+- [Decreto núm. 081-2021](decreto-081-2021.md)
+- [Decreto núm. 082-2021](decreto-082-2021.md)
+- [Decreto núm. 083-2021](decreto-083-2021.md)
+- [Decreto núm. 084-2021](decreto-084-2021.md)
+- [Decreto núm. 085-2021](decreto-085-2021.md)
+- [Decreto núm. 086-2021](decreto-086-2021.md)
+- [Decreto núm. 087-2021](decreto-087-2021.md)
+- [Decreto núm. 088-2021](decreto-088-2021.md)
+- [Decreto núm. 089-2021](decreto-089-2021.md)
+- [Decreto núm. 090-2021](decreto-090-2021.md)
+- [Decreto núm. 091-2021](decreto-091-2021.md)
+- [Decreto núm. 092-2021](decreto-092-2021.md)
+- [Decreto núm. 093-2021](decreto-093-2021.md)
+- [Decreto núm. 094-2021](decreto-094-2021.md)
+- [Decreto núm. 095-2021](decreto-095-2021.md)
+- [Decreto núm. 096-2021](decreto-096-2021.md)
+- [Decreto núm. 097-2021](decreto-097-2021.md)
+- [Decreto núm. 098-2021](decreto-098-2021.md)
+- [Decreto núm. 099-2021](decreto-099-2021.md)
+- [Decreto núm. 100-2021](decreto-100-2021.md)
+
 ## Documentos detectados
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
 |---:|---|---:|---|---|---|
-| 1-21 | 05/01/2021 | 11004 | QUE CREA E INTEGRA EL GABINETE DE LAS MUJERES, ADOLESCENTES Y NIÑAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397699&managementType=1) | pendiente_verificacion_pdf |
-| 2-21 | 05/01/2021 | 11004 | QUE DEROGA EL ARTÍCULO 10 DEL DEC. NO. 740-20, QUE DISPUSO EL CESE DE ACTIVIDADES DE LAS DIFERENTES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397702&managementType=1) | pendiente_verificacion_pdf |
-| 3-21 | 06/01/2021 | 11004 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL CIUDADANO DOMINICANO JOSÉ ANTONIO POLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397703&managementType=1) | pendiente_verificacion_pdf |
-| 4-21 | 06/01/2021 | 11004 | QUE ASCIENDE AL CORONEL PILOTO ROBERT MIGUEL LABORT PÉREZ, FARD, AL RANGO DE GENERAL DE BRIGADA PILO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397704&managementType=1) | pendiente_verificacion_pdf |
-| 5-21 | 06/01/2021 | 11004 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 348-11, QUE NOMBRÓ A GUARIONEX LUPERÓN CABREJA, SUBDIRECTOR DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397705&managementType=1) | pendiente_verificacion_pdf |
-| 6-21 | 08/01/2021 | 11004 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR CUARENTICINCO (45) DÍAS MÁS,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397706&managementType=1) | pendiente_verificacion_pdf |
-| 7-21 | 08/01/2021 | 11004 | QUE ESTABLECE EL TOQUE DE QUEDA EN TODO EL TERRITORIO NACIONAL DE LUNES A VIERNES DE 5:00 P.M. A 5:0... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397707&managementType=1) | pendiente_verificacion_pdf |
-| 10-21 | 11/01/2021 | 11004 | QUE NOMBRA A RAFAEL CASTRO MATOS, SUBDIRECTOR GENERAL DE MIGRACIÓN. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397710&managementType=1) | pendiente_verificacion_pdf |
-| 11-21 | 11/01/2021 | 11004 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 83-18, QUE DESIGNÓ A GEOVANNY ARIAS, VICEMINISTRO DE ASUNTOS C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397711&managementType=1) | pendiente_verificacion_pdf |
-| 12-21 | 11/01/2021 | 11004 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A BIEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397700&managementType=1) | pendiente_verificacion_pdf |
-| 13-21 | 11/01/2021 | 11004 | QUE AUTORIZA VARIAS EMISIONES DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. MODIFICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397712&managementType=1) | pendiente_verificacion_pdf |
-| 14-21 | 11/01/2021 | 11004 | QUE DESIGNA A CARLOS ESPINAL, ALTAGRACIA FÁTIMA GUZMÁN LANTIGUA Y DANTE SALVADOR CUCURULLO PÉREZ, DI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397713&managementType=1) | pendiente_verificacion_pdf |
-| 8-21 | 11/01/2021 | 11004 | QUE DISPONE EL TRASLADO AL PANTEÓN DE LA PATRIA DE LOS RESTOS MORTALES DE GREGORIO URBANO GILBERT, I... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397708&managementType=1) | pendiente_verificacion_pdf |
-| 9-21 | 11/01/2021 | 11004 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON A JHOVANNY FAUSTINO LEYBA Y SATURNINA POLANCO NÚÑEZ, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397709&managementType=1) | pendiente_verificacion_pdf |
-| 15-21 | 12/01/2021 | 11006 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 335-08, QUE DESIGNÓ A AGUEDO SANTANA, SUBDIRECTOR DEL FONDO ES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397719&managementType=1) | pendiente_verificacion_pdf |
-| 16-21 | 13/01/2021 | 11006 | QUE MODIFICA EL ARTÍCULO 4 DEL DEC. NO. 175-20. CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE FOMENTO A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397721&managementType=1) | pendiente_verificacion_pdf |
-| 17-21 | 13/01/2021 | 11006 | QUE DEROGA LOS ARTÍCULOS 5, 6 Y 7 DEL DEC. NO. 450-20, QUE DESIGNARON A YOCASTA LARA HERNÁNDEZ, OMAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397720&managementType=1) | pendiente_verificacion_pdf |
-| 18-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA CLASIFICACIÓN NACIONAL DE OCUPACIÓN (CNO-2019), ADAPTADA A LA REPÚBLICA DOMINICANA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397724&managementType=1) | pendiente_verificacion_pdf |
-| 19-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA CLASIFICACIÓN NACIONAL DE EDUCACIÓN Y FORMACIÓN 2019 (CNEF-2019), ADAPTADA A LA REP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397725&managementType=1) | pendiente_verificacion_pdf |
-| 20-21 | 13/01/2021 | 11007 | QUE NOMBRA A DARÍO ROSARIO ADAMES, MIEMBRO DEL CONSEJO DIRECTIVO DEL INSTITUTO DOMINICANO DE LAS TEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397726&managementType=1) | pendiente_verificacion_pdf |
-| 21-21 | 13/01/2021 | 11007 | QUE DESIGNA A MARIANNA HECTOROVNA VARGAS GURILIEVA, DIRECTORA GENERAL DE CINE. DEROGA EL DEC. NO. 38... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397727&managementType=1) | pendiente_verificacion_pdf |
-| 22-21 | 13/01/2021 | 11007 | QUE DECLARA DE INTERÉS NACIONAL LA RECUPERACIÓN DE LOS BIENES, FONDOS Y VALORES DISTRAÍDOS DEL PATRI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397730&managementType=1) | pendiente_verificacion_pdf |
-| 23-21 | 13/01/2021 | 11007 | QUE NOMBRA A MIGUEL EMILIANO POLANCO WESSIN, ASESOR DEL PODER EJECUTIVO EN MATERIA DE COOPERATIVISMO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397731&managementType=1) | pendiente_verificacion_pdf |
-| 24-21 | 13/01/2021 | 11007 | QUE CONFIRMA AL SEÑOR JOSÉ MALLÉN SANTOS, COMO MIEMBRO DE LA JUNTA MONETARIA POR UN PERIODO DE DOS (... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397732&managementType=1) | pendiente_verificacion_pdf |
-| 25-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA MISIÓN PERMANENTE DE LA REPÚBLICA DOMINICANA ANTE LA ORGANIZACIÓN MUNDIAL DEL TURIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397733&managementType=1) | pendiente_verificacion_pdf |
-| 26-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA CLASIFICACIÓN NACIONAL DE ACTIVIDADES ECONÓMICAS 2019 (CNAC-2019), ADAPTADA A LA RE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397734&managementType=1) | pendiente_verificacion_pdf |
-| 27-21 | 15/01/2021 | 11007 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 659-20, QUE MODIFICÓ EL ARTÍCULO 1 DEL DEC. NO. 10-17. CREA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397728&managementType=1) | pendiente_verificacion_pdf |
-| 28-21 | 18/01/2021 | 11008 | QUE DEROGA EL DEC. NO. 75-20, QUE DESIGNÓ A JUSTINO EDISON TAVÁREZ CABRERA, SUBDIRECTOR DEL CONSEJO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397738&managementType=1) | pendiente_verificacion_pdf |
-| 29-21 | 19/01/2021 | 11008 | QUE NOMBRA A CLAUDIA PATRICIA SÁNCHEZ PERDOMO, VICECÓNSUL DE LA REPÚBLICA DOMINICANA EN BOSTON MASSA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397743&managementType=1) | pendiente_verificacion_pdf |
-| 30-21 | 19/01/2021 | 11008 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A LA SEÑORA MAYRA LUZ SUÁREZ MOYA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397744&managementType=1) | pendiente_verificacion_pdf |
-| 31-21 | 19/01/2021 | 11008 | QUE DEROGA EL ARTÍCULO 5 DEL DEC.121-18, EL ARTÍCULO 8 DEL DEC. NO.4-09, EL ARTÍCULO 1 DEL DEC. NO.7... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397745&managementType=1) | pendiente_verificacion_pdf |
-| 32-21 | 19/01/2021 | 11008 | QUE NOMBRA A JOSÉ SINGER WEISINGER, ASESOR HONORÍFICO DEL PODER EJECUTIVO EN MATERIA DE POLÍTICA EXT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397746&managementType=1) | pendiente_verificacion_pdf |
-| 33-21 | 19/01/2021 | 11008 | QUE CREA E INTEGRA UNA COMISIÓN CONSULTIVA, CON CARÁCTER HONORIFICO, CONFORMADA POR JURISTAS ESPECIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397747&managementType=1) | pendiente_verificacion_pdf |
-| 34-21 | 19/01/2021 | 11008 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y LE ASIGNA UNA PENSIONE DEL ESTADO A LA SEÑORA CARMEN FAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397748&managementType=1) | pendiente_verificacion_pdf |
-| 35-21 | 20/01/2021 | 11008 | QUE MODIFICA EL ARTÍCULO 5 DEL DEC. NO.624-12, QUE CREÓ E INTEGRÓ LA COMISIÓN PERMANENTE DE TITULACI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397749&managementType=1) | pendiente_verificacion_pdf |
-| 36-21 | 21/01/2021 | 11008 | QUE CREA EL PROGRAMA DE CUMPLIMIENTO REGULATORIO EN LAS CONTRATACIONES PÚBLICAS EN LA REPÚBLICA DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397750&managementType=1) | pendiente_verificacion_pdf |
-| 37-21 | 22/01/2021 | 11008 | QUE ESTABLECE EL TOQUE DE QUEDA DE LUNES A VIERNES A 7:00 P.M. HASTA LAS 5:00 A.M. Y LOS SÁBADOS Y D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397739&managementType=1) | pendiente_verificacion_pdf |
-| 38-21 | 22/01/2021 | 11008 | QUE MODIFICA LOS ARTÍCULOS 1, 3 Y 8 DEL DEC. NO.668-09, QUE CREA EL PROYECTO DE DESARROLLO AGROPECUA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397751&managementType=1) | pendiente_verificacion_pdf |
-| 39-21 | 22/01/2021 | 11008 | QUE DEROGA EL ARTÍCULO 6 DEL DEC. NO.407-20, QUE DESIGNÓ A MARCOS ANTONIO CRUZ GARCÍA, SUBDIRECTOR D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397752&managementType=1) | pendiente_verificacion_pdf |
-| 40-21 | 22/01/2021 | 11008 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO.55-20, QUE DESIGNÓ A LUCAS FAMILIA, SUBDIRECTOR DEL INSTITUTO A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397753&managementType=1) | pendiente_verificacion_pdf |
-| 41-21 | 22/01/2021 | 11008 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397740&managementType=1) | pendiente_verificacion_pdf |
-| 42-21 | 22/01/2021 | 11008 | QUE CONCEDE INCORPORACIÓN A LA COOPERATIVA AGROPECUARIA Y SERVICIOS MÚLTIPLES DE PRODUCTORES DE FRUT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397741&managementType=1) | pendiente_verificacion_pdf |
-| 43-21 | 22/01/2021 | 11008 | QUE NOMBRA A OSVAL ANTONIO SALDIVAR MOTA, VICEMINISTRO ADMINISTRATIVO DE LA PRESIDENCIA EN ASUNTOS I... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397754&managementType=1) | pendiente_verificacion_pdf |
-| 44-21 | 22/01/2021 | 11008 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397755&managementType=1) | pendiente_verificacion_pdf |
-| 45-21 | 26/01/2021 | 11008 | QUE NOMBRA A JOSÉ DANIEL DEL ROSARIO VALDEZ, DIRECTOR EJECUTIVO INTERINO DEL INSTITUTO AGRARIO DOMIN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397756&managementType=1) | pendiente_verificacion_pdf |
-| 46-21 | 26/01/2021 | 11008 | QUE DESIGNA A CLAUDIO MIGUEL MARTE GONZÁLEZ Y MIGUEL ÁNGEL PRESTOL GONZÁLEZ, EMBAJADORES EXTRAORDINA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397757&managementType=1) | pendiente_verificacion_pdf |
-| 47-21 | 27/01/2021 | 11008 | QUE ORDENA LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO, IRREVOCABLE, DE ADMINISTRACIÓN, INVERSIÓN, OPE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397758&managementType=1) | pendiente_verificacion_pdf |
-| 48-21 | 29/01/2021 | 11008 | QUE DESIGNA A ADA FRANCISCA HERNÁNDEZ RIVERA, EMBAJADORA ALTERNA EN LA DELEGACIÓN PERMANENTE DE LA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397742&managementType=1) | pendiente_verificacion_pdf |
-| 49-21 | 29/01/2021 | 11008 | QUE NOMBRA A FAUSTO RAFAEL JÁQUEZ HERNÁNDEZ Y ANTONIO VIDALY GENAO JIMÉNEZ, CÓNSULES GENERALES DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397759&managementType=1) | pendiente_verificacion_pdf |
-| 50-21 | 29/01/2021 | 11008 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A EDUARDO JULIO DE WINDT PICHARD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397760&managementType=1) | pendiente_verificacion_pdf |
-| 51-21 | 29/01/2021 | 11008 | QUE ELEVA EL MONTO DE LAS PENSIONES CONCEDIDAS POR EL ESTADO DOMINICANO A JUAN ARISMENDY DIAZ SANTAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397761&managementType=1) | pendiente_verificacion_pdf |
-| 52-21 | 02/02/2021 | 11009 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397845&managementType=1) | pendiente_verificacion_pdf |
-| 53-21 | 02/02/2021 | 11009 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A MANU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397846&managementType=1) | pendiente_verificacion_pdf |
-| 54-21 | 02/02/2021 | 11009 | QUE CAMBIA EL NOMBRE DE LA OFICINA PRESIDENCIAL DE TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN PO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397836&managementType=1) | pendiente_verificacion_pdf |
-| 55-21 | 03/02/2021 | 11009 | QUE MODIFICA LOS ARTÍCULOS 1, 2 Y 3 DEL DEC. NO. 279-04. CREA EL CUERPO ESPECIALIZADO DE CONTROL DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397847&managementType=1) | pendiente_verificacion_pdf |
-| 56-21 | 03/02/2021 | 11009 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 696-20. CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397837&managementType=1) | pendiente_verificacion_pdf |
-| 57-21 | 03/02/2021 | 11009 | QUE INTEGRA NUEVOS MIEMBROS AL CONSEJO DE ADMINISTRACIÓN DE LA CORPORACIÓN ESTATAL DE RADIO Y TELEVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397838&managementType=1) | pendiente_verificacion_pdf |
-| 58-21 | 03/02/2021 | 11009 | QUE DEROGA EL DEC. NO. 379-19, QUE NOMBRÓ A ANGELINA DEL CARMEN ESPINAL DILONÉ, DIRECTORA GENERAL NO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399378&managementType=1) | pendiente_verificacion_pdf |
-| 59-21 | 03/02/2021 | 11009 | QUE DESIGNA A MARCOS ANTONIO IGLESIAS SÁNCHEZ Y ABRAHÁM AMIN SELMAN HASBÚN, MIEMBRO INDEPENDIENTE DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397839&managementType=1) | pendiente_verificacion_pdf |
-| 60-21 | 04/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN DIFE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397849&managementType=1) | pendiente_verificacion_pdf |
-| 61-21 | 04/02/2021 | 11009 | QUE MANTIENE VIGENTE TODAS LAS MEDIDAS DISPUESTAS EN EL DEC. NO. 37-21, A PARTIR DEL MARTES 9 DE FEB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397850&managementType=1) | pendiente_verificacion_pdf |
-| 62-21 | 05/02/2021 | 11009 | QUE DECLARA DE INTERÉS NACIONAL LA INTERVENCIÓN PARA LA REMEDIACIÓN Y CONSTRUCCIÓN DE ESTACIONES DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397851&managementType=1) | pendiente_verificacion_pdf |
-| 63-21 | 05/02/2021 | 11009 | QUE NOMBRA A CARLOS GUILLERMO ÁLVAREZ GUZMÁN Y DOLORES ESCALANTE VICTORIANO, ASESORES ADMINISTRATIVO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397852&managementType=1) | pendiente_verificacion_pdf |
-| 64-21 | 05/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397840&managementType=1) | pendiente_verificacion_pdf |
-| 65-21 | 06/02/2021 | 11009 | QUE CREA E INTEGRA EL GABINETE AGROPECUARIO, PRESIDIDO POR EL PRESIDENTE DE LA REPÚBLICA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397841&managementType=1) | pendiente_verificacion_pdf |
-| 66-21 | 08/02/2021 | 11009 | QUE ADICIONA VARIOS MIEMBROS EX OFFICIO HONORÍFICOS DEL CONSEJO NACIONAL DE CULTURA. DESIGNA A BASIL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397853&managementType=1) | pendiente_verificacion_pdf |
-| 67-21 | 08/02/2021 | 11009 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ALEXA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397854&managementType=1) | pendiente_verificacion_pdf |
-| 68-21 | 08/02/2021 | 11009 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN POR DISCAPACIDAD AL SERVIDOR PÚBLICO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397855&managementType=1) | pendiente_verificacion_pdf |
-| 69-21 | 08/02/2021 | 11009 | QUE CREA E INTEGRA LA COMISIÓN DE RESTAURACIÓN Y CONSERVACIÓN DEL PALACIO NACIONAL Y DE SU ENTORNO, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397856&managementType=1) | pendiente_verificacion_pdf |
-| 70-21 | 08/02/2021 | 11009 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397857&managementType=1) | pendiente_verificacion_pdf |
-| 71-21 | 08/02/2021 | 11009 | QUE CREA E INTEGRA EL GABINETE DE TRANSFORMACIÓN DIGITAL, CON DEPENDENCIA ADMINISTRATIVA DEL MINISTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397858&managementType=1) | pendiente_verificacion_pdf |
-| 72-21 | 08/02/2021 | 11009 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO AL SEÑOR RUBÉN DE LARA FERNÁNDEZ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397859&managementType=1) | pendiente_verificacion_pdf |
-| 73-21 | 08/02/2021 | 11009 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397842&managementType=1) | pendiente_verificacion_pdf |
-| 74-21 | 08/02/2021 | 11009 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397860&managementType=1) | pendiente_verificacion_pdf |
-| 75-21 | 08/02/2021 | 11009 | QUE DESIGNA A NEFTALÍ RAFAEL FUERTE VARGAS, ASESOR DEL PODER EJECUTIVO EN ASUNTOS RELACIONADOS CON L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397861&managementType=1) | pendiente_verificacion_pdf |
-| 76-21 | 09/02/2021 | 11009 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS EMBAJADORES, MINISTROS CONSEJEROS Y CONSEJEROS ADSCRITO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397862&managementType=1) | pendiente_verificacion_pdf |
-| 77-21 | 09/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS EMBAJADORES, MINISTROS CONSEJEROS, CONSEJEROS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397843&managementType=1) | pendiente_verificacion_pdf |
-| 78-21 | 09/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS VICECÓNSULES Y AUXILIARES DE CONSULADOS EN DIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397863&managementType=1) | pendiente_verificacion_pdf |
-| 79-21 | 10/02/2021 | 11009 | QUE CREA E INTEGRA EL COMITÉ GESTOR DE VOLUNTARIADOS DE INSTITUCIONES PÚBLICAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397844&managementType=1) | pendiente_verificacion_pdf |
-| 80-21 | 10/02/2021 | 11009 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE COMEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397864&managementType=1) | pendiente_verificacion_pdf |
-| 81-21 | 11/02/2021 | 11010 | QUE CONCEDE EL BENEFICIO DE LA NATURALIZACIÓN DOMINICANA ORDINARIA A VARIOS EXTRANJEROS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397867&managementType=1) | pendiente_verificacion_pdf |
-| 82-21 | 12/02/2021 | 11010 | QUE TRASPASA AL MINISTERIO DE SALUD PÚBLICA Y ASISTENCIA SOCIAL, LAS OBLIGACIONES, PERSONAS, ACTIVO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397868&managementType=1) | pendiente_verificacion_pdf |
-| 83-21 | 12/02/2021 | 11010 | QUE MODIFICA EL ARTÍCULO 3 DEL DEC. NO. 370-11, QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397869&managementType=1) | pendiente_verificacion_pdf |
-| 84-21 | 12/02/2021 | 11010 | QUE DESIGNA A SILVIA NATHALIE JIMÉNEZ SANTIAGO, SUBDIRECTORA DE LA DIRECCIÓN GENERAL DE CINE. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397875&managementType=1) | pendiente_verificacion_pdf |
-| 85-21 | 12/02/2021 | 11010 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 6-14, UNA PORCIÓN DE TERRENO DE 486.00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397876&managementType=1) | pendiente_verificacion_pdf |
-| 86-21 | 12/02/2021 | 11010 | QUE ESTABLECE EL REGLAMENTO DE COMPOSICIÓN Y FUNCIONAMIENTO DEL CONSEJO DE SEGURIDAD Y DEFENSA NACIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397877&managementType=1) | pendiente_verificacion_pdf |
-| 87-21 | 12/02/2021 | 11010 | QUE NOMBRA A JUAN ANTONIO DE LOS SANTOS VARGAS MONCIÓN, ASESOR HONORIFICO EN MATERIA DE EDIFICACIONE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397878&managementType=1) | pendiente_verificacion_pdf |
-| 88-21 | 12/02/2021 | 11010 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO CON DISTINTIVO BLANCO, EN SU PRIMERA, SEGU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397870&managementType=1) | pendiente_verificacion_pdf |
-| 89-21 | 12/02/2021 | 11010 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397879&managementType=1) | pendiente_verificacion_pdf |
-| 90-21 | 15/02/2021 | 11010 | QUE NOMBRA NUEVOS MIEMBROS DEL PATRONATO NACIONAL DE GANADEROS. MODIFICA LOS DECRETOS NOS. 67-88, 53... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397871&managementType=1) | pendiente_verificacion_pdf |
-| 91-21 | 15/02/2021 | 11010 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA DEL CIUDADANO DOMINICANO ISIDRO PUNTIEL SOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397880&managementType=1) | pendiente_verificacion_pdf |
-| 92-21 | 15/02/2021 | 11010 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ONÉXI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397881&managementType=1) | pendiente_verificacion_pdf |
-| 93-21 | 15/02/2021 | 11010 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE BÉLGICA DEL CIUDADANO BELGA DIDIER DALCQ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397872&managementType=1) | pendiente_verificacion_pdf |
-| 94-21 | 16/02/2021 | 11010 | QUE DECLARA DE DUELO OFICIAL EL DÍA 17 DE FEBRERO DE 2021, CON MOTIVO DEL FALLECIMIENTO DE JUAN PACH... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397873&managementType=1) | pendiente_verificacion_pdf |
-| 95-21 | 17/02/2021 | 11010 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR CUARENTA Y CINCO (45) DÍAS M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397882&managementType=1) | pendiente_verificacion_pdf |
-| 96-21 | 17/02/2021 | 11010 | QUE ELEVA EL MONTO DE LAS PENSIONES OTORGADAS POR EL ESTADO DOMINICANO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397883&managementType=1) | pendiente_verificacion_pdf |
-| 97-21 | 17/02/2021 | 11010 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO AL SEÑOR MANUEL MARIA MORA SERRAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397884&managementType=1) | pendiente_verificacion_pdf |
-| 98-21 | 17/02/2021 | 11010 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397885&managementType=1) | pendiente_verificacion_pdf |
-| 99-21 | 17/02/2021 | 11010 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397886&managementType=1) | pendiente_verificacion_pdf |
-| 100-21 | 18/02/2021 | 11011 | QUE DESIGNA A ALEXIS VIDAL CRUZ RODRÍGUEZ Y DOMINGO CONFESOR MATÍAS HERNÁNDEZ, VICEMINISTROS EN DIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397890&managementType=1) | pendiente_verificacion_pdf |
+| 1-21 | 05/01/2021 | 11004 | QUE CREA E INTEGRA EL GABINETE DE LAS MUJERES, ADOLESCENTES Y NIÑAS. | [Ver documento](decreto-001-2021.md) | normalizado · pendiente_revision |
+| 2-21 | 05/01/2021 | 11004 | QUE DEROGA EL ARTÍCULO 10 DEL DEC. NO. 740-20, QUE DISPUSO EL CESE DE ACTIVIDADES DE LAS DIFERENTES ... | [Ver documento](decreto-002-2021.md) | normalizado · pendiente_revision |
+| 3-21 | 06/01/2021 | 11004 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL CIUDADANO DOMINICANO JOSÉ ANTONIO POLA... | [Ver documento](decreto-003-2021.md) | normalizado · pendiente_revision |
+| 4-21 | 06/01/2021 | 11004 | QUE ASCIENDE AL CORONEL PILOTO ROBERT MIGUEL LABORT PÉREZ, FARD, AL RANGO DE GENERAL DE BRIGADA PILO... | [Ver documento](decreto-004-2021.md) | normalizado · pendiente_revision |
+| 5-21 | 06/01/2021 | 11004 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 348-11, QUE NOMBRÓ A GUARIONEX LUPERÓN CABREJA, SUBDIRECTOR DE... | [Ver documento](decreto-005-2021.md) | normalizado · pendiente_revision |
+| 6-21 | 08/01/2021 | 11004 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR CUARENTICINCO (45) DÍAS MÁS,... | [Ver documento](decreto-006-2021.md) | normalizado · pendiente_revision |
+| 7-21 | 08/01/2021 | 11004 | QUE ESTABLECE EL TOQUE DE QUEDA EN TODO EL TERRITORIO NACIONAL DE LUNES A VIERNES DE 5:00 P.M. A 5:0... | [Ver documento](decreto-007-2021.md) | normalizado · pendiente_revision |
+| 10-21 | 11/01/2021 | 11004 | QUE NOMBRA A RAFAEL CASTRO MATOS, SUBDIRECTOR GENERAL DE MIGRACIÓN. | [Ver documento](decreto-010-2021.md) | normalizado · pendiente_revision |
+| 11-21 | 11/01/2021 | 11004 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 83-18, QUE DESIGNÓ A GEOVANNY ARIAS, VICEMINISTRO DE ASUNTOS C... | [Ver documento](decreto-011-2021.md) | normalizado · pendiente_revision |
+| 12-21 | 11/01/2021 | 11004 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A BIEN... | [Ver documento](decreto-012-2021.md) | normalizado · pendiente_revision |
+| 13-21 | 11/01/2021 | 11004 | QUE AUTORIZA VARIAS EMISIONES DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. MODIFICA ... | [Ver documento](decreto-013-2021.md) | normalizado · pendiente_revision |
+| 14-21 | 11/01/2021 | 11004 | QUE DESIGNA A CARLOS ESPINAL, ALTAGRACIA FÁTIMA GUZMÁN LANTIGUA Y DANTE SALVADOR CUCURULLO PÉREZ, DI... | [Ver documento](decreto-014-2021.md) | normalizado · pendiente_revision |
+| 8-21 | 11/01/2021 | 11004 | QUE DISPONE EL TRASLADO AL PANTEÓN DE LA PATRIA DE LOS RESTOS MORTALES DE GREGORIO URBANO GILBERT, I... | [Ver documento](decreto-008-2021.md) | normalizado · pendiente_revision |
+| 9-21 | 11/01/2021 | 11004 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON A JHOVANNY FAUSTINO LEYBA Y SATURNINA POLANCO NÚÑEZ, ... | [Ver documento](decreto-009-2021.md) | normalizado · pendiente_revision |
+| 15-21 | 12/01/2021 | 11006 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 335-08, QUE DESIGNÓ A AGUEDO SANTANA, SUBDIRECTOR DEL FONDO ES... | [Ver documento](decreto-015-2021.md) | normalizado · pendiente_revision |
+| 16-21 | 13/01/2021 | 11006 | QUE MODIFICA EL ARTÍCULO 4 DEL DEC. NO. 175-20. CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE FOMENTO A... | [Ver documento](decreto-016-2021.md) | normalizado · pendiente_revision |
+| 17-21 | 13/01/2021 | 11006 | QUE DEROGA LOS ARTÍCULOS 5, 6 Y 7 DEL DEC. NO. 450-20, QUE DESIGNARON A YOCASTA LARA HERNÁNDEZ, OMAR... | [Ver documento](decreto-017-2021.md) | normalizado · pendiente_revision |
+| 18-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA CLASIFICACIÓN NACIONAL DE OCUPACIÓN (CNO-2019), ADAPTADA A LA REPÚBLICA DOMINICANA ... | [Ver documento](decreto-018-2021.md) | normalizado · pendiente_revision |
+| 19-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA CLASIFICACIÓN NACIONAL DE EDUCACIÓN Y FORMACIÓN 2019 (CNEF-2019), ADAPTADA A LA REP... | [Ver documento](decreto-019-2021.md) | normalizado · pendiente_revision |
+| 20-21 | 13/01/2021 | 11007 | QUE NOMBRA A DARÍO ROSARIO ADAMES, MIEMBRO DEL CONSEJO DIRECTIVO DEL INSTITUTO DOMINICANO DE LAS TEL... | [Ver documento](decreto-020-2021.md) | normalizado · pendiente_revision |
+| 21-21 | 13/01/2021 | 11007 | QUE DESIGNA A MARIANNA HECTOROVNA VARGAS GURILIEVA, DIRECTORA GENERAL DE CINE. DEROGA EL DEC. NO. 38... | [Ver documento](decreto-021-2021.md) | normalizado · pendiente_revision |
+| 22-21 | 13/01/2021 | 11007 | QUE DECLARA DE INTERÉS NACIONAL LA RECUPERACIÓN DE LOS BIENES, FONDOS Y VALORES DISTRAÍDOS DEL PATRI... | [Ver documento](decreto-022-2021.md) | normalizado · pendiente_revision |
+| 23-21 | 13/01/2021 | 11007 | QUE NOMBRA A MIGUEL EMILIANO POLANCO WESSIN, ASESOR DEL PODER EJECUTIVO EN MATERIA DE COOPERATIVISMO... | [Ver documento](decreto-023-2021.md) | normalizado · pendiente_revision |
+| 24-21 | 13/01/2021 | 11007 | QUE CONFIRMA AL SEÑOR JOSÉ MALLÉN SANTOS, COMO MIEMBRO DE LA JUNTA MONETARIA POR UN PERIODO DE DOS (... | [Ver documento](decreto-024-2021.md) | normalizado · pendiente_revision |
+| 25-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA MISIÓN PERMANENTE DE LA REPÚBLICA DOMINICANA ANTE LA ORGANIZACIÓN MUNDIAL DEL TURIS... | [Ver documento](decreto-025-2021.md) | normalizado · pendiente_revision |
+| 26-21 | 13/01/2021 | 11007 | QUE ESTABLECE LA CLASIFICACIÓN NACIONAL DE ACTIVIDADES ECONÓMICAS 2019 (CNAC-2019), ADAPTADA A LA RE... | [Ver documento](decreto-026-2021.md) | normalizado · pendiente_revision |
+| 27-21 | 15/01/2021 | 11007 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 659-20, QUE MODIFICÓ EL ARTÍCULO 1 DEL DEC. NO. 10-17. CREA ... | [Ver documento](decreto-027-2021.md) | normalizado · pendiente_revision |
+| 28-21 | 18/01/2021 | 11008 | QUE DEROGA EL DEC. NO. 75-20, QUE DESIGNÓ A JUSTINO EDISON TAVÁREZ CABRERA, SUBDIRECTOR DEL CONSEJO ... | [Ver documento](decreto-028-2021.md) | normalizado · pendiente_revision |
+| 29-21 | 19/01/2021 | 11008 | QUE NOMBRA A CLAUDIA PATRICIA SÁNCHEZ PERDOMO, VICECÓNSUL DE LA REPÚBLICA DOMINICANA EN BOSTON MASSA... | [Ver documento](decreto-029-2021.md) | normalizado · pendiente_revision |
+| 30-21 | 19/01/2021 | 11008 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A LA SEÑORA MAYRA LUZ SUÁREZ MOYA. | [Ver documento](decreto-030-2021.md) | normalizado · pendiente_revision |
+| 31-21 | 19/01/2021 | 11008 | QUE DEROGA EL ARTÍCULO 5 DEL DEC.121-18, EL ARTÍCULO 8 DEL DEC. NO.4-09, EL ARTÍCULO 1 DEL DEC. NO.7... | [Ver documento](decreto-031-2021.md) | normalizado · pendiente_revision |
+| 32-21 | 19/01/2021 | 11008 | QUE NOMBRA A JOSÉ SINGER WEISINGER, ASESOR HONORÍFICO DEL PODER EJECUTIVO EN MATERIA DE POLÍTICA EXT... | [Ver documento](decreto-032-2021.md) | normalizado · pendiente_revision |
+| 33-21 | 19/01/2021 | 11008 | QUE CREA E INTEGRA UNA COMISIÓN CONSULTIVA, CON CARÁCTER HONORIFICO, CONFORMADA POR JURISTAS ESPECIA... | [Ver documento](decreto-033-2021.md) | normalizado · pendiente_revision |
+| 34-21 | 19/01/2021 | 11008 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y LE ASIGNA UNA PENSIONE DEL ESTADO A LA SEÑORA CARMEN FAN... | [Ver documento](decreto-034-2021.md) | normalizado · pendiente_revision |
+| 35-21 | 20/01/2021 | 11008 | QUE MODIFICA EL ARTÍCULO 5 DEL DEC. NO.624-12, QUE CREÓ E INTEGRÓ LA COMISIÓN PERMANENTE DE TITULACI... | [Ver documento](decreto-035-2021.md) | normalizado · pendiente_revision |
+| 36-21 | 21/01/2021 | 11008 | QUE CREA EL PROGRAMA DE CUMPLIMIENTO REGULATORIO EN LAS CONTRATACIONES PÚBLICAS EN LA REPÚBLICA DOMI... | [Ver documento](decreto-036-2021.md) | normalizado · pendiente_revision |
+| 37-21 | 22/01/2021 | 11008 | QUE ESTABLECE EL TOQUE DE QUEDA DE LUNES A VIERNES A 7:00 P.M. HASTA LAS 5:00 A.M. Y LOS SÁBADOS Y D... | [Ver documento](decreto-037-2021.md) | normalizado · pendiente_revision |
+| 38-21 | 22/01/2021 | 11008 | QUE MODIFICA LOS ARTÍCULOS 1, 3 Y 8 DEL DEC. NO.668-09, QUE CREA EL PROYECTO DE DESARROLLO AGROPECUA... | [Ver documento](decreto-038-2021.md) | normalizado · pendiente_revision |
+| 39-21 | 22/01/2021 | 11008 | QUE DEROGA EL ARTÍCULO 6 DEL DEC. NO.407-20, QUE DESIGNÓ A MARCOS ANTONIO CRUZ GARCÍA, SUBDIRECTOR D... | [Ver documento](decreto-039-2021.md) | normalizado · pendiente_revision |
+| 40-21 | 22/01/2021 | 11008 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO.55-20, QUE DESIGNÓ A LUCAS FAMILIA, SUBDIRECTOR DEL INSTITUTO A... | [Ver documento](decreto-040-2021.md) | normalizado · pendiente_revision |
+| 41-21 | 22/01/2021 | 11008 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-041-2021.md) | normalizado · pendiente_revision |
+| 42-21 | 22/01/2021 | 11008 | QUE CONCEDE INCORPORACIÓN A LA COOPERATIVA AGROPECUARIA Y SERVICIOS MÚLTIPLES DE PRODUCTORES DE FRUT... | [Ver documento](decreto-042-2021.md) | normalizado · pendiente_revision |
+| 43-21 | 22/01/2021 | 11008 | QUE NOMBRA A OSVAL ANTONIO SALDIVAR MOTA, VICEMINISTRO ADMINISTRATIVO DE LA PRESIDENCIA EN ASUNTOS I... | [Ver documento](decreto-043-2021.md) | normalizado · pendiente_revision |
+| 44-21 | 22/01/2021 | 11008 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-044-2021.md) | normalizado · pendiente_revision |
+| 45-21 | 26/01/2021 | 11008 | QUE NOMBRA A JOSÉ DANIEL DEL ROSARIO VALDEZ, DIRECTOR EJECUTIVO INTERINO DEL INSTITUTO AGRARIO DOMIN... | [Ver documento](decreto-045-2021.md) | normalizado · pendiente_revision |
+| 46-21 | 26/01/2021 | 11008 | QUE DESIGNA A CLAUDIO MIGUEL MARTE GONZÁLEZ Y MIGUEL ÁNGEL PRESTOL GONZÁLEZ, EMBAJADORES EXTRAORDINA... | [Ver documento](decreto-046-2021.md) | normalizado · pendiente_revision |
+| 47-21 | 27/01/2021 | 11008 | QUE ORDENA LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO, IRREVOCABLE, DE ADMINISTRACIÓN, INVERSIÓN, OPE... | [Ver documento](decreto-047-2021.md) | normalizado · pendiente_revision |
+| 48-21 | 29/01/2021 | 11008 | QUE DESIGNA A ADA FRANCISCA HERNÁNDEZ RIVERA, EMBAJADORA ALTERNA EN LA DELEGACIÓN PERMANENTE DE LA R... | [Ver documento](decreto-048-2021.md) | normalizado · pendiente_revision |
+| 49-21 | 29/01/2021 | 11008 | QUE NOMBRA A FAUSTO RAFAEL JÁQUEZ HERNÁNDEZ Y ANTONIO VIDALY GENAO JIMÉNEZ, CÓNSULES GENERALES DE LA... | [Ver documento](decreto-049-2021.md) | normalizado · pendiente_revision |
+| 50-21 | 29/01/2021 | 11008 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A EDUARDO JULIO DE WINDT PICHARD... | [Ver documento](decreto-050-2021.md) | normalizado · pendiente_revision |
+| 51-21 | 29/01/2021 | 11008 | QUE ELEVA EL MONTO DE LAS PENSIONES CONCEDIDAS POR EL ESTADO DOMINICANO A JUAN ARISMENDY DIAZ SANTAN... | [Ver documento](decreto-051-2021.md) | normalizado · pendiente_revision |
+| 52-21 | 02/02/2021 | 11009 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-052-2021.md) | normalizado · pendiente_revision |
+| 53-21 | 02/02/2021 | 11009 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A MANU... | [Ver documento](decreto-053-2021.md) | normalizado · pendiente_revision |
+| 54-21 | 02/02/2021 | 11009 | QUE CAMBIA EL NOMBRE DE LA OFICINA PRESIDENCIAL DE TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN PO... | [Ver documento](decreto-054-2021.md) | normalizado · pendiente_revision |
+| 55-21 | 03/02/2021 | 11009 | QUE MODIFICA LOS ARTÍCULOS 1, 2 Y 3 DEL DEC. NO. 279-04. CREA EL CUERPO ESPECIALIZADO DE CONTROL DE ... | [Ver documento](decreto-055-2021.md) | normalizado · pendiente_revision |
+| 56-21 | 03/02/2021 | 11009 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 696-20. CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUA... | [Ver documento](decreto-056-2021.md) | normalizado · pendiente_revision |
+| 57-21 | 03/02/2021 | 11009 | QUE INTEGRA NUEVOS MIEMBROS AL CONSEJO DE ADMINISTRACIÓN DE LA CORPORACIÓN ESTATAL DE RADIO Y TELEVI... | [Ver documento](decreto-057-2021.md) | normalizado · pendiente_revision |
+| 58-21 | 03/02/2021 | 11009 | QUE DEROGA EL DEC. NO. 379-19, QUE NOMBRÓ A ANGELINA DEL CARMEN ESPINAL DILONÉ, DIRECTORA GENERAL NO... | [Ver documento](decreto-058-2021.md) | normalizado · pendiente_revision |
+| 59-21 | 03/02/2021 | 11009 | QUE DESIGNA A MARCOS ANTONIO IGLESIAS SÁNCHEZ Y ABRAHÁM AMIN SELMAN HASBÚN, MIEMBRO INDEPENDIENTE DE... | [Ver documento](decreto-059-2021.md) | normalizado · pendiente_revision |
+| 60-21 | 04/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN DIFE... | [Ver documento](decreto-060-2021.md) | normalizado · pendiente_revision |
+| 61-21 | 04/02/2021 | 11009 | QUE MANTIENE VIGENTE TODAS LAS MEDIDAS DISPUESTAS EN EL DEC. NO. 37-21, A PARTIR DEL MARTES 9 DE FEB... | [Ver documento](decreto-061-2021.md) | normalizado · pendiente_revision |
+| 62-21 | 05/02/2021 | 11009 | QUE DECLARA DE INTERÉS NACIONAL LA INTERVENCIÓN PARA LA REMEDIACIÓN Y CONSTRUCCIÓN DE ESTACIONES DE ... | [Ver documento](decreto-062-2021.md) | normalizado · pendiente_revision |
+| 63-21 | 05/02/2021 | 11009 | QUE NOMBRA A CARLOS GUILLERMO ÁLVAREZ GUZMÁN Y DOLORES ESCALANTE VICTORIANO, ASESORES ADMINISTRATIVO... | [Ver documento](decreto-063-2021.md) | normalizado · pendiente_revision |
+| 64-21 | 05/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL S... | [Ver documento](decreto-064-2021.md) | normalizado · pendiente_revision |
+| 65-21 | 06/02/2021 | 11009 | QUE CREA E INTEGRA EL GABINETE AGROPECUARIO, PRESIDIDO POR EL PRESIDENTE DE LA REPÚBLICA. | [Ver documento](decreto-065-2021.md) | normalizado · pendiente_revision |
+| 66-21 | 08/02/2021 | 11009 | QUE ADICIONA VARIOS MIEMBROS EX OFFICIO HONORÍFICOS DEL CONSEJO NACIONAL DE CULTURA. DESIGNA A BASIL... | [Ver documento](decreto-066-2021.md) | normalizado · pendiente_revision |
+| 67-21 | 08/02/2021 | 11009 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ALEXA... | [Ver documento](decreto-067-2021.md) | normalizado · pendiente_revision |
+| 68-21 | 08/02/2021 | 11009 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN POR DISCAPACIDAD AL SERVIDOR PÚBLICO ... | [Ver documento](decreto-068-2021.md) | normalizado · pendiente_revision |
+| 69-21 | 08/02/2021 | 11009 | QUE CREA E INTEGRA LA COMISIÓN DE RESTAURACIÓN Y CONSERVACIÓN DEL PALACIO NACIONAL Y DE SU ENTORNO, ... | [Ver documento](decreto-069-2021.md) | normalizado · pendiente_revision |
+| 70-21 | 08/02/2021 | 11009 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-070-2021.md) | normalizado · pendiente_revision |
+| 71-21 | 08/02/2021 | 11009 | QUE CREA E INTEGRA EL GABINETE DE TRANSFORMACIÓN DIGITAL, CON DEPENDENCIA ADMINISTRATIVA DEL MINISTE... | [Ver documento](decreto-071-2021.md) | normalizado · pendiente_revision |
+| 72-21 | 08/02/2021 | 11009 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO AL SEÑOR RUBÉN DE LARA FERNÁNDEZ... | [Ver documento](decreto-072-2021.md) | normalizado · pendiente_revision |
+| 73-21 | 08/02/2021 | 11009 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Ver documento](decreto-073-2021.md) | normalizado · pendiente_revision |
+| 74-21 | 08/02/2021 | 11009 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-074-2021.md) | normalizado · pendiente_revision |
+| 75-21 | 08/02/2021 | 11009 | QUE DESIGNA A NEFTALÍ RAFAEL FUERTE VARGAS, ASESOR DEL PODER EJECUTIVO EN ASUNTOS RELACIONADOS CON L... | [Ver documento](decreto-075-2021.md) | normalizado · pendiente_revision |
+| 76-21 | 09/02/2021 | 11009 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS EMBAJADORES, MINISTROS CONSEJEROS Y CONSEJEROS ADSCRITO... | [Ver documento](decreto-076-2021.md) | normalizado · pendiente_revision |
+| 77-21 | 09/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS EMBAJADORES, MINISTROS CONSEJEROS, CONSEJEROS ... | [Ver documento](decreto-077-2021.md) | normalizado · pendiente_revision |
+| 78-21 | 09/02/2021 | 11009 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS VICECÓNSULES Y AUXILIARES DE CONSULADOS EN DIS... | [Ver documento](decreto-078-2021.md) | normalizado · pendiente_revision |
+| 79-21 | 10/02/2021 | 11009 | QUE CREA E INTEGRA EL COMITÉ GESTOR DE VOLUNTARIADOS DE INSTITUCIONES PÚBLICAS. | [Ver documento](decreto-079-2021.md) | normalizado · pendiente_revision |
+| 80-21 | 10/02/2021 | 11009 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE COMEN... | [Ver documento](decreto-080-2021.md) | normalizado · pendiente_revision |
+| 81-21 | 11/02/2021 | 11010 | QUE CONCEDE EL BENEFICIO DE LA NATURALIZACIÓN DOMINICANA ORDINARIA A VARIOS EXTRANJEROS. | [Ver documento](decreto-081-2021.md) | normalizado · pendiente_revision |
+| 82-21 | 12/02/2021 | 11010 | QUE TRASPASA AL MINISTERIO DE SALUD PÚBLICA Y ASISTENCIA SOCIAL, LAS OBLIGACIONES, PERSONAS, ACTIVO ... | [Ver documento](decreto-082-2021.md) | normalizado · pendiente_revision |
+| 83-21 | 12/02/2021 | 11010 | QUE MODIFICA EL ARTÍCULO 3 DEL DEC. NO. 370-11, QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY ... | [Ver documento](decreto-083-2021.md) | normalizado · pendiente_revision |
+| 84-21 | 12/02/2021 | 11010 | QUE DESIGNA A SILVIA NATHALIE JIMÉNEZ SANTIAGO, SUBDIRECTORA DE LA DIRECCIÓN GENERAL DE CINE. | [Ver documento](decreto-084-2021.md) | normalizado · pendiente_revision |
+| 85-21 | 12/02/2021 | 11010 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 6-14, UNA PORCIÓN DE TERRENO DE 486.00... | [Ver documento](decreto-085-2021.md) | normalizado · pendiente_revision |
+| 86-21 | 12/02/2021 | 11010 | QUE ESTABLECE EL REGLAMENTO DE COMPOSICIÓN Y FUNCIONAMIENTO DEL CONSEJO DE SEGURIDAD Y DEFENSA NACIO... | [Ver documento](decreto-086-2021.md) | normalizado · pendiente_revision |
+| 87-21 | 12/02/2021 | 11010 | QUE NOMBRA A JUAN ANTONIO DE LOS SANTOS VARGAS MONCIÓN, ASESOR HONORIFICO EN MATERIA DE EDIFICACIONE... | [Ver documento](decreto-087-2021.md) | normalizado · pendiente_revision |
+| 88-21 | 12/02/2021 | 11010 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO CON DISTINTIVO BLANCO, EN SU PRIMERA, SEGU... | [Ver documento](decreto-088-2021.md) | normalizado · pendiente_revision |
+| 89-21 | 12/02/2021 | 11010 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-089-2021.md) | normalizado · pendiente_revision |
+| 90-21 | 15/02/2021 | 11010 | QUE NOMBRA NUEVOS MIEMBROS DEL PATRONATO NACIONAL DE GANADEROS. MODIFICA LOS DECRETOS NOS. 67-88, 53... | [Ver documento](decreto-090-2021.md) | normalizado · pendiente_revision |
+| 91-21 | 15/02/2021 | 11010 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA DEL CIUDADANO DOMINICANO ISIDRO PUNTIEL SOR... | [Ver documento](decreto-091-2021.md) | normalizado · pendiente_revision |
+| 92-21 | 15/02/2021 | 11010 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ONÉXI... | [Ver documento](decreto-092-2021.md) | normalizado · pendiente_revision |
+| 93-21 | 15/02/2021 | 11010 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE BÉLGICA DEL CIUDADANO BELGA DIDIER DALCQ. | [Ver documento](decreto-093-2021.md) | normalizado · pendiente_revision |
+| 94-21 | 16/02/2021 | 11010 | QUE DECLARA DE DUELO OFICIAL EL DÍA 17 DE FEBRERO DE 2021, CON MOTIVO DEL FALLECIMIENTO DE JUAN PACH... | [Ver documento](decreto-094-2021.md) | normalizado · pendiente_revision |
+| 95-21 | 17/02/2021 | 11010 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR CUARENTA Y CINCO (45) DÍAS M... | [Ver documento](decreto-095-2021.md) | normalizado · pendiente_revision |
+| 96-21 | 17/02/2021 | 11010 | QUE ELEVA EL MONTO DE LAS PENSIONES OTORGADAS POR EL ESTADO DOMINICANO A VARIAS PERSONAS. | [Ver documento](decreto-096-2021.md) | normalizado · pendiente_revision |
+| 97-21 | 17/02/2021 | 11010 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO AL SEÑOR MANUEL MARIA MORA SERRAN... | [Ver documento](decreto-097-2021.md) | normalizado · pendiente_revision |
+| 98-21 | 17/02/2021 | 11010 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-098-2021.md) | normalizado · pendiente_revision |
+| 99-21 | 17/02/2021 | 11010 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-099-2021.md) | normalizado · pendiente_revision |
+| 100-21 | 18/02/2021 | 11011 | QUE DESIGNA A ALEXIS VIDAL CRUZ RODRÍGUEZ Y DOMINGO CONFESOR MATÍAS HERNÁNDEZ, VICEMINISTROS EN DIST... | [Ver documento](decreto-100-2021.md) | normalizado · pendiente_revision |
 | 101-21 | 18/02/2021 | 11011 | QUE NOMBRA A SHEYLA DEL ALBA CASTILLO NÚÑEZ, ELIEZER RODRÍGUEZ NIEVES Y GREGORIO DE JESÚS MONTERO MO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397897&managementType=1) | pendiente_verificacion_pdf |
 | 102-21 | 18/02/2021 | 11011 | QUE DESIGNA A GENARO RODRÍGUEZ, CARLOS MENDIETA RODRÍGUEZ Y MARIA LÓPEZ POLANCO, VICEMINISTROS EN VA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397898&managementType=1) | pendiente_verificacion_pdf |
 | 103-21 | 18/02/2021 | 11011 | QUE NOMBRA A MARCOS ANTONIO IGLESIAS SÁNCHEZ, MIEMBRO INDEPENDIENTE DEL CONSEJO NACIONAL DE MERCADO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397899&managementType=1) | pendiente_verificacion_pdf |
