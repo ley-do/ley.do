@@ -709,6 +709,39 @@ Documentos detectados: **756**.
 - [Decreto núm. 707-2020](decreto-707-2020.md)
 - [Decreto núm. 708-2020](decreto-708-2020.md)
 - [Decreto núm. 709-2020](decreto-709-2020.md)
+- [Decreto núm. 710-2020](decreto-710-2020.md)
+- [Decreto núm. 711-2020](decreto-711-2020.md)
+- [Decreto núm. 712-2020](decreto-712-2020.md)
+- [Decreto núm. 713-2020](decreto-713-2020.md)
+- [Decreto núm. 714-2020](decreto-714-2020.md)
+- [Decreto núm. 715-2020](decreto-715-2020.md)
+- [Decreto núm. 716-2020](decreto-716-2020.md)
+- [Decreto núm. 717-2020](decreto-717-2020.md)
+- [Decreto núm. 718-2020](decreto-718-2020.md)
+- [Decreto núm. 719-2020](decreto-719-2020.md)
+- [Decreto núm. 720-2020](decreto-720-2020.md)
+- [Decreto núm. 721-2020](decreto-721-2020.md)
+- [Decreto núm. 722-2020](decreto-722-2020.md)
+- [Decreto núm. 723-2020](decreto-723-2020.md)
+- [Decreto núm. 724-2020](decreto-724-2020.md)
+- [Decreto núm. 725-2020](decreto-725-2020.md)
+- [Decreto núm. 726-2020](decreto-726-2020.md)
+- [Decreto núm. 727-2020](decreto-727-2020.md)
+- [Decreto núm. 728-2020](decreto-728-2020.md)
+- [Decreto núm. 729-2020](decreto-729-2020.md)
+- [Decreto núm. 730-2020](decreto-730-2020.md)
+- [Decreto núm. 731-2020](decreto-731-2020.md)
+- [Decreto núm. 732-2020](decreto-732-2020.md)
+- [Decreto núm. 733-2020](decreto-733-2020.md)
+- [Decreto núm. 734-2020](decreto-734-2020.md)
+- [Decreto núm. 735-2020](decreto-735-2020.md)
+- [Decreto núm. 736-2020](decreto-736-2020.md)
+- [Decreto núm. 737-2020](decreto-737-2020.md)
+- [Decreto núm. 738-2020](decreto-738-2020.md)
+- [Decreto núm. 739-2020](decreto-739-2020.md)
+- [Decreto núm. 740-2020](decreto-740-2020.md)
+- [Decreto núm. 741-2020](decreto-741-2020.md)
+- [Decreto núm. 742-2020](decreto-742-2020.md)
 
 ## Documentos detectados
 
@@ -1437,39 +1470,39 @@ Documentos detectados: **756**.
 | 707-20 | 17/12/2020 | 11002 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO... | [Ver documento](decreto-707-2020.md) | normalizado · pendiente_revision |
 | 708-20 | 17/12/2020 | 11002 | QUE DESIGNA A LOURDES GISELA ANTONIA VICTORIA-KRUSE, LAURA VIRGINIA RAMONA FAXAS VARGAS DE JORGESEN,... | [Ver documento](decreto-708-2020.md) | normalizado · pendiente_revision |
 | 709-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-709-2020.md) | normalizado · pendiente_revision |
-| 710-20 | 17/12/2020 | 11002 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 271-19. DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397646&managementType=1) | pendiente_verificacion_pdf |
-| 711-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO J. D.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397647&managementType=1) | pendiente_verificacion_pdf |
-| 712-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397648&managementType=1) | pendiente_verificacion_pdf |
-| 713-20 | 17/12/2020 | 11002 | QUE DISPONE LA APERTURA DEL CONSULADO HONORARIO DE LA REPÚBLICA EN BRATISLAVA, REPÚBLICA ESLOVACA. D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397634&managementType=1) | pendiente_verificacion_pdf |
-| 714-20 | 17/12/2020 | 11002 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397649&managementType=1) | pendiente_verificacion_pdf |
-| 715-20 | 17/12/2020 | 11002 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397650&managementType=1) | pendiente_verificacion_pdf |
-| 716-20 | 17/12/2020 | 11002 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A JOSÉ OSVALDO RAMÍREZ Y ANA MARÍA GARCÍA, SUBDIRECTORES DEL C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397635&managementType=1) | pendiente_verificacion_pdf |
-| 717-20 | 17/12/2020 | 11002 | QUE NOMBRA A ELNIO MANUEL DURÁN, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA DOMINIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397651&managementType=1) | pendiente_verificacion_pdf |
-| 718-20 | 17/12/2020 | 11002 | QUE MODIFICA EL NUMERAL 11 DEL ARTÍCULO 4 DEL DEC. NO. 698-20. AUTORIZA A LOS EMPLEADOS O CONTRATIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397652&managementType=1) | pendiente_verificacion_pdf |
-| 719-20 | 18/12/2020 | 11002 | QUE DEROGA EL DEC. NO. 75-20, QUE DESIGNÓ A JUSTINO ERICSON TAVERAS CABRERA, SUBDIRECTOR DEL CONSEJO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397636&managementType=1) | pendiente_verificacion_pdf |
-| 720-20 | 18/12/2020 | 11002 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON A YOCASTA LARA HERNÁNDEZ, OMAR JOSÉ GARCÍA CASTILLO Y... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397653&managementType=1) | pendiente_verificacion_pdf |
-| 721-20 | 19/12/2020 | 11002 | QUE DECLARA DE DUELO OFICIAL EL 21 DE DICIEMBRE DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO DE CA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397654&managementType=1) | pendiente_verificacion_pdf |
-| 722-20 | 21/12/2020 | 11002 | QUE DESIGNA A PEDRO PABLO ACEVEDO, PRESIDENTE DEL CONSEJO NACIONAL DE DISCAPACIDAD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397655&managementType=1) | pendiente_verificacion_pdf |
-| 723-20 | 22/12/2020 | 11002 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397637&managementType=1) | pendiente_verificacion_pdf |
-| 724-20 | 22/12/2020 | 11002 | QUE DISPONE LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO E IRREVOCABLE DE DESARROLLO E INVERSIÓN INMOBI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397656&managementType=1) | pendiente_verificacion_pdf |
-| 725-20 | 23/12/2020 | 11002 | QUE AUTORIZA EL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397657&managementType=1) | pendiente_verificacion_pdf |
-| 726-20 | 23/12/2020 | 11003 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 695-20. INTEGRA EL GABINETE DE TRANSPARENCIA, PREVENCIÓN Y C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397661&managementType=1) | pendiente_verificacion_pdf |
-| 727-20 | 23/12/2020 | 11003 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 546-99, QUE NOMBRÓ A HERVÉ CASTELLE, CÓNSUL HONORARIO DE LA RE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397668&managementType=1) | pendiente_verificacion_pdf |
-| 728-20 | 23/12/2020 | 11003 | QUE DESIGNA A SANTIAGO RAFAEL CABA ABREU, SUBDIRECTOR PARA LA REGIÓN NORTE DE LA COMISIÓN PERMANENTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397669&managementType=1) | pendiente_verificacion_pdf |
-| 729-20 | 28/12/2020 | 11003 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397670&managementType=1) | pendiente_verificacion_pdf |
-| 730-20 | 28/12/2020 | 11003 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A ARLES PATRICIA DE LAS MERCEDES OVALLES Y JUAN RAMÓN DURÁN, C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397662&managementType=1) | pendiente_verificacion_pdf |
-| 731-20 | 28/12/2020 | 11003 | QUE NOMBRA A CARMELO ANTONIO RODRÍGUEZ GUTIÉRREZ, ASESOR DEL PODER EJECUTIVO EN MATERIA DE MICRO, PE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397671&managementType=1) | pendiente_verificacion_pdf |
-| 732-20 | 28/12/2020 | 11003 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 567-12, QUE NOMBRÓ A CARLOS LEROUX DE MOYA, MIEMBRO DE LA COMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397672&managementType=1) | pendiente_verificacion_pdf |
-| 733-20 | 28/12/2020 | 11003 | QUE DESIGNA A MIGUEL ANTONIO VALENZUELA, ASESOR DEL CONSEJO NACIONAL DE GESTIÓN PRESIDENCIAL. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397673&managementType=1) | pendiente_verificacion_pdf |
-| 734-20 | 28/12/2020 | 11003 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397663&managementType=1) | pendiente_verificacion_pdf |
-| 735-20 | 29/12/2020 | 11003 | QUE DESIGNA A MANUEL ERNESTO POLANCO SALVADOR, LOURDES GISELA ANTONIA VICTORIA-KRUSE, ANGIE SHAKIRA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397674&managementType=1) | pendiente_verificacion_pdf |
-| 736-20 | 29/12/2020 | 11003 | QUE DESIGNA AL CÓNSUL GENERAL DE LA REPÚBLICA EN RÍO DE JANEIRO, BRASIL Y VARIOS VICECÓNSULES Y AUXI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397675&managementType=1) | pendiente_verificacion_pdf |
-| 737-20 | 29/12/2020 | 11003 | DEROGA EL ARTÍCULO 5 DEL DEC. NO. 413-20, QUE DESIGNÓ A FRANCISCO JAVIER MATOS PUJOLS, ASESOR EN MAT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397676&managementType=1) | pendiente_verificacion_pdf |
-| 738-20 | 29/12/2020 | 11003 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A FELIX FRANCISCO PEÑA REYES, IVEN ESTEBAN SEGURA FELIZ, SOBIE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397677&managementType=1) | pendiente_verificacion_pdf |
-| 739-20 | 29/12/2020 | 11003 | QUE DESIGNA A JAIME MARTE MARTÍNEZ, PRESIDENTE DEL CONSEJO NACIONAL DE DROGAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397664&managementType=1) | pendiente_verificacion_pdf |
-| 740-20 | 30/12/2020 | 11003 | QUE ESTABLECE EL TOQUE DE QUEDA DE 5:00 PM HASTA LAS 5:00 AM, DESDE EL 1RO. DE ENERO HASTA EL 10 DEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397678&managementType=1) | pendiente_verificacion_pdf |
-| 741-20 | 30/12/2020 | 11003 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397665&managementType=1) | pendiente_verificacion_pdf |
-| 742-20 | 30/12/2020 | 11003 | QUE CREA EL FONDO DE ASISTENCIA SOCIAL FASE I EXTENDIDO, DESDE ENERO HASTA ABRIL DEL 2021. DEROGA LO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397666&managementType=1) | pendiente_verificacion_pdf |
+| 710-20 | 17/12/2020 | 11002 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 271-19. DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNID... | [Ver documento](decreto-710-2020.md) | normalizado · pendiente_revision |
+| 711-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO J. D.... | [Ver documento](decreto-711-2020.md) | normalizado · pendiente_revision |
+| 712-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Ver documento](decreto-712-2020.md) | normalizado · pendiente_revision |
+| 713-20 | 17/12/2020 | 11002 | QUE DISPONE LA APERTURA DEL CONSULADO HONORARIO DE LA REPÚBLICA EN BRATISLAVA, REPÚBLICA ESLOVACA. D... | [Ver documento](decreto-713-2020.md) | normalizado · pendiente_revision |
+| 714-20 | 17/12/2020 | 11002 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-714-2020.md) | normalizado · pendiente_revision |
+| 715-20 | 17/12/2020 | 11002 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-715-2020.md) | normalizado · pendiente_revision |
+| 716-20 | 17/12/2020 | 11002 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A JOSÉ OSVALDO RAMÍREZ Y ANA MARÍA GARCÍA, SUBDIRECTORES DEL C... | [Ver documento](decreto-716-2020.md) | normalizado · pendiente_revision |
+| 717-20 | 17/12/2020 | 11002 | QUE NOMBRA A ELNIO MANUEL DURÁN, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA DOMINIC... | [Ver documento](decreto-717-2020.md) | normalizado · pendiente_revision |
+| 718-20 | 17/12/2020 | 11002 | QUE MODIFICA EL NUMERAL 11 DEL ARTÍCULO 4 DEL DEC. NO. 698-20. AUTORIZA A LOS EMPLEADOS O CONTRATIST... | [Ver documento](decreto-718-2020.md) | normalizado · pendiente_revision |
+| 719-20 | 18/12/2020 | 11002 | QUE DEROGA EL DEC. NO. 75-20, QUE DESIGNÓ A JUSTINO ERICSON TAVERAS CABRERA, SUBDIRECTOR DEL CONSEJO... | [Ver documento](decreto-719-2020.md) | normalizado · pendiente_revision |
+| 720-20 | 18/12/2020 | 11002 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON A YOCASTA LARA HERNÁNDEZ, OMAR JOSÉ GARCÍA CASTILLO Y... | [Ver documento](decreto-720-2020.md) | normalizado · pendiente_revision |
+| 721-20 | 19/12/2020 | 11002 | QUE DECLARA DE DUELO OFICIAL EL 21 DE DICIEMBRE DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO DE CA... | [Ver documento](decreto-721-2020.md) | normalizado · pendiente_revision |
+| 722-20 | 21/12/2020 | 11002 | QUE DESIGNA A PEDRO PABLO ACEVEDO, PRESIDENTE DEL CONSEJO NACIONAL DE DISCAPACIDAD. | [Ver documento](decreto-722-2020.md) | normalizado · pendiente_revision |
+| 723-20 | 22/12/2020 | 11002 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE V... | [Ver documento](decreto-723-2020.md) | normalizado · pendiente_revision |
+| 724-20 | 22/12/2020 | 11002 | QUE DISPONE LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO E IRREVOCABLE DE DESARROLLO E INVERSIÓN INMOBI... | [Ver documento](decreto-724-2020.md) | normalizado · pendiente_revision |
+| 725-20 | 23/12/2020 | 11002 | QUE AUTORIZA EL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Ver documento](decreto-725-2020.md) | normalizado · pendiente_revision |
+| 726-20 | 23/12/2020 | 11003 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 695-20. INTEGRA EL GABINETE DE TRANSPARENCIA, PREVENCIÓN Y C... | [Ver documento](decreto-726-2020.md) | normalizado · pendiente_revision |
+| 727-20 | 23/12/2020 | 11003 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 546-99, QUE NOMBRÓ A HERVÉ CASTELLE, CÓNSUL HONORARIO DE LA RE... | [Ver documento](decreto-727-2020.md) | normalizado · pendiente_revision |
+| 728-20 | 23/12/2020 | 11003 | QUE DESIGNA A SANTIAGO RAFAEL CABA ABREU, SUBDIRECTOR PARA LA REGIÓN NORTE DE LA COMISIÓN PERMANENTE... | [Ver documento](decreto-728-2020.md) | normalizado · pendiente_revision |
+| 729-20 | 28/12/2020 | 11003 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-729-2020.md) | normalizado · pendiente_revision |
+| 730-20 | 28/12/2020 | 11003 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A ARLES PATRICIA DE LAS MERCEDES OVALLES Y JUAN RAMÓN DURÁN, C... | [Ver documento](decreto-730-2020.md) | normalizado · pendiente_revision |
+| 731-20 | 28/12/2020 | 11003 | QUE NOMBRA A CARMELO ANTONIO RODRÍGUEZ GUTIÉRREZ, ASESOR DEL PODER EJECUTIVO EN MATERIA DE MICRO, PE... | [Ver documento](decreto-731-2020.md) | normalizado · pendiente_revision |
+| 732-20 | 28/12/2020 | 11003 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 567-12, QUE NOMBRÓ A CARLOS LEROUX DE MOYA, MIEMBRO DE LA COMI... | [Ver documento](decreto-732-2020.md) | normalizado · pendiente_revision |
+| 733-20 | 28/12/2020 | 11003 | QUE DESIGNA A MIGUEL ANTONIO VALENZUELA, ASESOR DEL CONSEJO NACIONAL DE GESTIÓN PRESIDENCIAL. | [Ver documento](decreto-733-2020.md) | normalizado · pendiente_revision |
+| 734-20 | 28/12/2020 | 11003 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-734-2020.md) | normalizado · pendiente_revision |
+| 735-20 | 29/12/2020 | 11003 | QUE DESIGNA A MANUEL ERNESTO POLANCO SALVADOR, LOURDES GISELA ANTONIA VICTORIA-KRUSE, ANGIE SHAKIRA ... | [Ver documento](decreto-735-2020.md) | normalizado · pendiente_revision |
+| 736-20 | 29/12/2020 | 11003 | QUE DESIGNA AL CÓNSUL GENERAL DE LA REPÚBLICA EN RÍO DE JANEIRO, BRASIL Y VARIOS VICECÓNSULES Y AUXI... | [Ver documento](decreto-736-2020.md) | normalizado · pendiente_revision |
+| 737-20 | 29/12/2020 | 11003 | DEROGA EL ARTÍCULO 5 DEL DEC. NO. 413-20, QUE DESIGNÓ A FRANCISCO JAVIER MATOS PUJOLS, ASESOR EN MAT... | [Ver documento](decreto-737-2020.md) | normalizado · pendiente_revision |
+| 738-20 | 29/12/2020 | 11003 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A FELIX FRANCISCO PEÑA REYES, IVEN ESTEBAN SEGURA FELIZ, SOBIE... | [Ver documento](decreto-738-2020.md) | normalizado · pendiente_revision |
+| 739-20 | 29/12/2020 | 11003 | QUE DESIGNA A JAIME MARTE MARTÍNEZ, PRESIDENTE DEL CONSEJO NACIONAL DE DROGAS. | [Ver documento](decreto-739-2020.md) | normalizado · pendiente_revision |
+| 740-20 | 30/12/2020 | 11003 | QUE ESTABLECE EL TOQUE DE QUEDA DE 5:00 PM HASTA LAS 5:00 AM, DESDE EL 1RO. DE ENERO HASTA EL 10 DEL... | [Ver documento](decreto-740-2020.md) | normalizado · pendiente_revision |
+| 741-20 | 30/12/2020 | 11003 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-741-2020.md) | normalizado · pendiente_revision |
+| 742-20 | 30/12/2020 | 11003 | QUE CREA EL FONDO DE ASISTENCIA SOCIAL FASE I EXTENDIDO, DESDE ENERO HASTA ABRIL DEL 2021. DEROGA LO... | [Ver documento](decreto-742-2020.md) | normalizado · pendiente_revision |
 
 ## Próxima fase
 
