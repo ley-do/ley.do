@@ -809,6 +809,42 @@ Documentos detectados: **838**.
 - [Decreto núm. 801-2021](decreto-801-2021.md)
 - [Decreto núm. 802-2021](decreto-802-2021.md)
 - [Decreto núm. 803-2021](decreto-803-2021.md)
+- [Decreto núm. 804-2021](decreto-804-2021.md)
+- [Decreto núm. 805-2021](decreto-805-2021.md)
+- [Decreto núm. 806-2021](decreto-806-2021.md)
+- [Decreto núm. 807-2021](decreto-807-2021.md)
+- [Decreto núm. 808-2021](decreto-808-2021.md)
+- [Decreto núm. 809-2021](decreto-809-2021.md)
+- [Decreto núm. 810-2021](decreto-810-2021.md)
+- [Decreto núm. 811-2021](decreto-811-2021.md)
+- [Decreto núm. 812-2021](decreto-812-2021.md)
+- [Decreto núm. 813-2021](decreto-813-2021.md)
+- [Decreto núm. 814-2021](decreto-814-2021.md)
+- [Decreto núm. 815-2021](decreto-815-2021.md)
+- [Decreto núm. 816-2021](decreto-816-2021.md)
+- [Decreto núm. 817-2021](decreto-817-2021.md)
+- [Decreto núm. 818-2021](decreto-818-2021.md)
+- [Decreto núm. 819-2021](decreto-819-2021.md)
+- [Decreto núm. 820-2021](decreto-820-2021.md)
+- [Decreto núm. 821-2021](decreto-821-2021.md)
+- [Decreto núm. 822-2021](decreto-822-2021.md)
+- [Decreto núm. 823-2021](decreto-823-2021.md)
+- [Decreto núm. 824-2021](decreto-824-2021.md)
+- [Decreto núm. 825-2021](decreto-825-2021.md)
+- [Decreto núm. 826-2021](decreto-826-2021.md)
+- [Decreto núm. 827-2021](decreto-827-2021.md)
+- [Decreto núm. 828-2021](decreto-828-2021.md)
+- [Decreto núm. 829-2021](decreto-829-2021.md)
+- [Decreto núm. 830-2021](decreto-830-2021.md)
+- [Decreto núm. 831-2021](decreto-831-2021.md)
+- [Decreto núm. 832-2021](decreto-832-2021.md)
+- [Decreto núm. 833-2021](decreto-833-2021.md)
+- [Decreto núm. 834-2021](decreto-834-2021.md)
+- [Decreto núm. 835-2021](decreto-835-2021.md)
+- [Decreto núm. 836-2021](decreto-836-2021.md)
+- [Decreto núm. 837-2021](decreto-837-2021.md)
+- [Decreto núm. 838-2021](decreto-838-2021.md)
+- [Decreto núm. 839-2021](decreto-839-2021.md)
 
 ## Documentos detectados
 
@@ -1615,43 +1651,43 @@ Documentos detectados: **838**.
 | 801-21 | 14/12/2021 | 11049 | QUE NOMBRA A MARYLIN YVONNE DEL CARMEN DIAZ, RECTORA DE LA UNIVERSIDAD TECNOLÓGICA DEL CIBAO CENTRAL... | [Ver documento](decreto-801-2021.md) | normalizado · pendiente_revision |
 | 802-21 | 15/12/2021 | 11049 | QUE DESIGNA A TEODORA MULLIX GERALDINO, GOBERNADORA CIVIL DE LA PROVINCIA SAMANÁ. | [Ver documento](decreto-802-2021.md) | normalizado · pendiente_revision |
 | 803-21 | 15/12/2021 | 11049 | QUE NOMBRA A MENNI LOLIN CUEVAS GONZÁLEZ, CÓNSUL DE LA REPUBLICA DOMINICANA EN ANSE-Á-PITRE, REPUBLI... | [Ver documento](decreto-803-2021.md) | normalizado · pendiente_revision |
-| 804-21 | 15/12/2021 | 11049 | QUE DESIGNA A RAFAEL JESÚS FÉLIZ GARCÍA, MINISTRO DE LA JUVENTUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399016&managementType=1) | pendiente_verificacion_pdf |
-| 805-21 | 15/12/2021 | 11049 | QUE NOMBRA A MIGUEL ÁNGEL CABRAL VERAS, DIRECTOR EJECUTIVO DE LA OFICINA COORDINADORA DE LA REPUBLIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399019&managementType=1) | pendiente_verificacion_pdf |
-| 806-21 | 17/12/2021 | 11049 | QUE DISPONE LA REACTIVACIÓN DE LAS COMISIONES O COMITÉS TÉCNICOS DE IMPLEMENTACIÓN, COORDINACIÓN Y S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399020&managementType=1) | pendiente_verificacion_pdf |
-| 807-21 | 17/12/2021 | 11049 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE COSTA RICA, DE LA NACIONAL CUBANA Y CIUDADAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399021&managementType=1) | pendiente_verificacion_pdf |
-| 808-21 | 17/12/2021 | 11049 | QUE ESTABLECE EL PREMIO NACIONAL A LA INNOVACIÓN PÚBLICA DEL MINISTERIO ADMINISTRATIVO DE LA PRESIDE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399022&managementType=1) | pendiente_verificacion_pdf |
-| 809-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399023&managementType=1) | pendiente_verificacion_pdf |
-| 810-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399024&managementType=1) | pendiente_verificacion_pdf |
-| 811-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399025&managementType=1) | pendiente_verificacion_pdf |
-| 812-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399026&managementType=1) | pendiente_verificacion_pdf |
-| 813-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399027&managementType=1) | pendiente_verificacion_pdf |
-| 814-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399028&managementType=1) | pendiente_verificacion_pdf |
-| 815-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399029&managementType=1) | pendiente_verificacion_pdf |
-| 816-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO, POR ANTIGÜEDAD E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399030&managementType=1) | pendiente_verificacion_pdf |
-| 817-21 | 17/12/2021 | 11049 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399031&managementType=1) | pendiente_verificacion_pdf |
-| 818-21 | 17/12/2021 | 11049 | QUE DESIGNA A ROBERT MIKY TAKATA PIMENTEL, JUAN BOLÍVAR DIAZ SANTANA Y LAURA VIRGINIA FAXAS VARGAS D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399032&managementType=1) | pendiente_verificacion_pdf |
-| 819-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A EXTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399033&managementType=1) | pendiente_verificacion_pdf |
-| 820-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399034&managementType=1) | pendiente_verificacion_pdf |
-| 821-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO POR DISCAPACIDA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399035&managementType=1) | pendiente_verificacion_pdf |
-| 822-21 | 17/12/2021 | 11049 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399036&managementType=1) | pendiente_verificacion_pdf |
-| 823-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399037&managementType=1) | pendiente_verificacion_pdf |
-| 824-21 | 17/12/2021 | 11049 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399038&managementType=1) | pendiente_verificacion_pdf |
+| 804-21 | 15/12/2021 | 11049 | QUE DESIGNA A RAFAEL JESÚS FÉLIZ GARCÍA, MINISTRO DE LA JUVENTUD. | [Ver documento](decreto-804-2021.md) | normalizado · pendiente_revision |
+| 805-21 | 15/12/2021 | 11049 | QUE NOMBRA A MIGUEL ÁNGEL CABRAL VERAS, DIRECTOR EJECUTIVO DE LA OFICINA COORDINADORA DE LA REPUBLIC... | [Ver documento](decreto-805-2021.md) | normalizado · pendiente_revision |
+| 806-21 | 17/12/2021 | 11049 | QUE DISPONE LA REACTIVACIÓN DE LAS COMISIONES O COMITÉS TÉCNICOS DE IMPLEMENTACIÓN, COORDINACIÓN Y S... | [Ver documento](decreto-806-2021.md) | normalizado · pendiente_revision |
+| 807-21 | 17/12/2021 | 11049 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE COSTA RICA, DE LA NACIONAL CUBANA Y CIUDADAN... | [Ver documento](decreto-807-2021.md) | normalizado · pendiente_revision |
+| 808-21 | 17/12/2021 | 11049 | QUE ESTABLECE EL PREMIO NACIONAL A LA INNOVACIÓN PÚBLICA DEL MINISTERIO ADMINISTRATIVO DE LA PRESIDE... | [Ver documento](decreto-808-2021.md) | normalizado · pendiente_revision |
+| 809-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-809-2021.md) | normalizado · pendiente_revision |
+| 810-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-810-2021.md) | normalizado · pendiente_revision |
+| 811-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-811-2021.md) | normalizado · pendiente_revision |
+| 812-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-812-2021.md) | normalizado · pendiente_revision |
+| 813-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-813-2021.md) | normalizado · pendiente_revision |
+| 814-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-814-2021.md) | normalizado · pendiente_revision |
+| 815-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-815-2021.md) | normalizado · pendiente_revision |
+| 816-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO, POR ANTIGÜEDAD E... | [Ver documento](decreto-816-2021.md) | normalizado · pendiente_revision |
+| 817-21 | 17/12/2021 | 11049 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN E... | [Ver documento](decreto-817-2021.md) | normalizado · pendiente_revision |
+| 818-21 | 17/12/2021 | 11049 | QUE DESIGNA A ROBERT MIKY TAKATA PIMENTEL, JUAN BOLÍVAR DIAZ SANTANA Y LAURA VIRGINIA FAXAS VARGAS D... | [Ver documento](decreto-818-2021.md) | normalizado · pendiente_revision |
+| 819-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A EXTR... | [Ver documento](decreto-819-2021.md) | normalizado · pendiente_revision |
+| 820-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-820-2021.md) | normalizado · pendiente_revision |
+| 821-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO POR DISCAPACIDA... | [Ver documento](decreto-821-2021.md) | normalizado · pendiente_revision |
+| 822-21 | 17/12/2021 | 11049 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-822-2021.md) | normalizado · pendiente_revision |
+| 823-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-823-2021.md) | normalizado · pendiente_revision |
+| 824-21 | 17/12/2021 | 11049 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-824-2021.md) | normalizado · pendiente_revision |
 | 752-21 | 19/12/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400, ARTICULO 1, LITERAL 1, DEL AÑO 1... | [Ver documento](decreto-752-2021.md) | normalizado · pendiente_revision |
-| 825-21 | 20/12/2021 | 11049 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, CON MEDALLA DE HONOR, AL ALMIRANTE BRENDA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399039&managementType=1) | pendiente_verificacion_pdf |
-| 826-21 | 20/12/2021 | 11049 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399040&managementType=1) | pendiente_verificacion_pdf |
-| 827-21 | 20/12/2021 | 11049 | QUE MODIFICA EL ARTÍCULO 2 Y EL NUMERAL 6 DEL ARTÍCULO 4 DEL DEC. NO. 729-21, QUE DISPONE LA CONSTIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399041&managementType=1) | pendiente_verificacion_pdf |
-| 828-21 | 23/12/2021 | 11049 | QUE CONCEDE DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399042&managementType=1) | pendiente_verificacion_pdf |
-| 829-21 | 23/12/2021 | 11050 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399089&managementType=1) | pendiente_verificacion_pdf |
-| 830-21 | 23/12/2021 | 11050 | QUE ELEVA EL MONTO DE PENSIONES CONCEDIDAS POR EL ESTADO DOMINICANO A LA SUMA DE RD$10,000.00 MENSUA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399090&managementType=1) | pendiente_verificacion_pdf |
-| 831-21 | 23/12/2021 | 11050 | QUE ELEVA EL MONTO DE PENSIONES CONCEDIDAS A LA SUMA DE RD$10,000.00 MENSUALES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399091&managementType=1) | pendiente_verificacion_pdf |
-| 832-21 | 23/12/2021 | 11051 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399093&managementType=1) | pendiente_verificacion_pdf |
-| 833-21 | 23/12/2021 | 11051 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399094&managementType=1) | pendiente_verificacion_pdf |
-| 834-21 | 23/12/2021 | 11052 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A EX SERVIDORES PÚBL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399096&managementType=1) | pendiente_verificacion_pdf |
-| 835-21 | 23/12/2021 | 11052 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399097&managementType=1) | pendiente_verificacion_pdf |
-| 836-21 | 23/12/2021 | 11053 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399099&managementType=1) | pendiente_verificacion_pdf |
-| 837-21 | 23/12/2021 | 11053 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399100&managementType=1) | pendiente_verificacion_pdf |
-| 838-21 | 23/12/2021 | 11054 | QUE ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMINICANO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399102&managementType=1) | pendiente_verificacion_pdf |
-| 839-21 | 28/12/2021 | 11054 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ELÍAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399103&managementType=1) | pendiente_verificacion_pdf |
+| 825-21 | 20/12/2021 | 11049 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, CON MEDALLA DE HONOR, AL ALMIRANTE BRENDA... | [Ver documento](decreto-825-2021.md) | normalizado · pendiente_revision |
+| 826-21 | 20/12/2021 | 11049 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-826-2021.md) | normalizado · pendiente_revision |
+| 827-21 | 20/12/2021 | 11049 | QUE MODIFICA EL ARTÍCULO 2 Y EL NUMERAL 6 DEL ARTÍCULO 4 DEL DEC. NO. 729-21, QUE DISPONE LA CONSTIT... | [Ver documento](decreto-827-2021.md) | normalizado · pendiente_revision |
+| 828-21 | 23/12/2021 | 11049 | QUE CONCEDE DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO ... | [Ver documento](decreto-828-2021.md) | normalizado · pendiente_revision |
+| 829-21 | 23/12/2021 | 11050 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-829-2021.md) | normalizado · pendiente_revision |
+| 830-21 | 23/12/2021 | 11050 | QUE ELEVA EL MONTO DE PENSIONES CONCEDIDAS POR EL ESTADO DOMINICANO A LA SUMA DE RD$10,000.00 MENSUA... | [Ver documento](decreto-830-2021.md) | normalizado · pendiente_revision |
+| 831-21 | 23/12/2021 | 11050 | QUE ELEVA EL MONTO DE PENSIONES CONCEDIDAS A LA SUMA DE RD$10,000.00 MENSUALES | [Ver documento](decreto-831-2021.md) | normalizado · pendiente_revision |
+| 832-21 | 23/12/2021 | 11051 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS. | [Ver documento](decreto-832-2021.md) | normalizado · pendiente_revision |
+| 833-21 | 23/12/2021 | 11051 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS. | [Ver documento](decreto-833-2021.md) | normalizado · pendiente_revision |
+| 834-21 | 23/12/2021 | 11052 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A EX SERVIDORES PÚBL... | [Ver documento](decreto-834-2021.md) | normalizado · pendiente_revision |
+| 835-21 | 23/12/2021 | 11052 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS. | [Ver documento](decreto-835-2021.md) | normalizado · pendiente_revision |
+| 836-21 | 23/12/2021 | 11053 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS | [Ver documento](decreto-836-2021.md) | normalizado · pendiente_revision |
+| 837-21 | 23/12/2021 | 11053 | QUE ELEVA A LA SUMA DE RD$10,000.00 MENSUALES, EL MONTO DE PENSIONES CONCEDIDAS A VARIAS PERSONAS | [Ver documento](decreto-837-2021.md) | normalizado · pendiente_revision |
+| 838-21 | 23/12/2021 | 11054 | QUE ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMINICANO A VARIAS PERSONAS. | [Ver documento](decreto-838-2021.md) | normalizado · pendiente_revision |
+| 839-21 | 28/12/2021 | 11054 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ELÍAS... | [Ver documento](decreto-839-2021.md) | normalizado · pendiente_revision |
 
 ## Próxima fase
 
