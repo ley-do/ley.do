@@ -1,0 +1,34 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "692",
+  "anio": "2024",
+  "titulo": "que autoriza al señor Julio César George Encarnación, para que pueda aceptar y usar la Condecoración “José Matías Delgado” en el Grado Gran Cruz Placa de Plata, otorgada por el Gobierno de la República de El Salvador. G. O. No. 11179 del 17 de diciembre de 2024",
+  "fecha": "13/12/2024",
+  "gaceta_oficial": "11179",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402889&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402889&managementType=1",
+  "document_id_consultoria": "3402889",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "archivos/decretos/2024/decreto-692-2024.pdf",
+  "ruta_markdown": "docs/decretos/2024/decreto-692-2024.md",
+  "ruta_json": "datos/decretos/2024/decreto-692-2024.json",
+  "sha256_pdf_original": "dddc0001b264047be7631fb59fa277a59e74ced57d248b98c7f876476d70dc8c",
+  "sha256_markdown": "f4a181248a37944eb436389499f6fa5045cbeeac77a5578d55e0f449382a33be",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": true,
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos. La metadata oficial usa 692--24; el encabezado del PDF indica 692-24. Se conserva la anomalía y queda pendiente de revisión humana.",
+  "numero_registro_fuente": "692--24",
+  "alertas_revision": [
+    {
+      "campo": "numero",
+      "valor_fuente_oficial": "692--24",
+      "evidencia_texto_pdf": "Dec. núm. 692-24",
+      "accion": "Conservar el valor de la fuente y normalizar la ruta según el encabezado del PDF; someter a revisión humana."
+    }
+  ]
+}
