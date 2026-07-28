@@ -29,6 +29,9 @@ extra_css:
 plugins:
   - search
 
+hooks:
+  - hooks/excluir_texto_legal_busqueda.py
+
 markdown_extensions:
   - admonition
   - attr_list
