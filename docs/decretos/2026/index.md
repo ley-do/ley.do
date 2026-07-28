@@ -165,6 +165,26 @@ Documentos detectados: **406**.
 - [Decreto núm. 154-2026](decreto-154-2026.md)
 - [Decreto núm. 155-2026](decreto-155-2026.md)
 - [Decreto núm. 156-2026](decreto-156-2026.md)
+- [Decreto núm. 157-2026](decreto-157-2026.md)
+- [Decreto núm. 158-2026](decreto-158-2026.md)
+- [Decreto núm. 159-2026](decreto-159-2026.md)
+- [Decreto núm. 160-2026](decreto-160-2026.md)
+- [Decreto núm. 161-2026](decreto-161-2026.md)
+- [Decreto núm. 162-2026](decreto-162-2026.md)
+- [Decreto núm. 163-2026](decreto-163-2026.md)
+- [Decreto núm. 164-2026](decreto-164-2026.md)
+- [Decreto núm. 165-2026](decreto-165-2026.md)
+- [Decreto núm. 166-2026](decreto-166-2026.md)
+- [Decreto núm. 167-2026](decreto-167-2026.md)
+- [Decreto núm. 168-2026](decreto-168-2026.md)
+- [Decreto núm. 169-2026](decreto-169-2026.md)
+- [Decreto núm. 170-2026](decreto-170-2026.md)
+- [Decreto núm. 171-2026](decreto-171-2026.md)
+- [Decreto núm. 172-2026](decreto-172-2026.md)
+- [Decreto núm. 173-2026](decreto-173-2026.md)
+- [Decreto núm. 174-2026](decreto-174-2026.md)
+- [Decreto núm. 175-2026](decreto-175-2026.md)
+- [Decreto núm. 176-2026](decreto-176-2026.md)
 - [Decreto núm. 197-2026](decreto-197-2026.md)
 - [Decreto núm. 200-2026](decreto-200-2026.md)
 - [Decreto núm. 234-2026](decreto-234-2026.md)
@@ -189,23 +209,23 @@ Documentos detectados: **406**.
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
 |---:|---|---:|---|---|---|
-| 160-26 | 16/03/2025 | 11235 | QUE DESIGNA CON EL NOMBRE DE ORLANDO MARTÍNEZ HOWLEY, EL EDIFICIO CORPORATIVO UBICADO EN LA AVENIDA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404585&managementType=1) | pendiente_verificacion_pdf |
-| 161-26 | 16/03/2025 | 11235 | QUE CONCEDE LA CONDECORACIÓN PÓSTUMA DE LA ORDEN DE MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404599&managementType=1) | pendiente_verificacion_pdf |
-| 162-26 | 16/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO, DE RD$10,000.00 MENSUALES, A 57 AFILIADOS DEL ANTIGUO INSTITUTO DO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404586&managementType=1) | pendiente_verificacion_pdf |
-| 163-26 | 16/03/2025 | 11235 | QUE DEROGA EL ARTÍCULO 47, DEL DECRETO NÚM. 81-25, QUE DESIGNÓ A RAWELL SALOMÓN TAVERAS ARBAJE, MINI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404587&managementType=1) | pendiente_verificacion_pdf |
-| 164-26 | 16/03/2025 | 11235 | QUE OTORGA EXEQUÁTUR A 199 PROFESIONALES, PARA QUE PUEDAN EJERCER LA PROFESIÓN DE LICENCIADOS EN DER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404588&managementType=1) | pendiente_verificacion_pdf |
-| 165-26 | 16/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO A 113 PERSONAS, Y AUMENTA EL MONTO DE LA PENSIÓN DEL ESTADO QUE REC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404600&managementType=1) | pendiente_verificacion_pdf |
-| 166-26 | 16/03/2025 | 11235 | QUE DECLARA DE ALTO INTERÉS NACIONAL EL DISEÑO, FINANCIAMIENTO, CONSTRUCCIÓN, EQUIPAMIENTO, OPERACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404601&managementType=1) | pendiente_verificacion_pdf |
-| 167-26 | 16/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, TRES (3) PORCIONES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404602&managementType=1) | pendiente_verificacion_pdf |
-| 168-26 | 16/03/2025 | 11235 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA AL SEÑOR ADELIO GÓMEZ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404603&managementType=1) | pendiente_verificacion_pdf |
-| 169-26 | 17/03/2025 | 11235 | QUE DESIGNA A ERALEISY LENINA VÁSQUEZ LÓPEZ, SUBDIRECTORA GENERAL DE LA DIRECCIÓN GENERAL DE PROYECT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404604&managementType=1) | pendiente_verificacion_pdf |
-| 170-26 | 17/03/2025 | 11235 | QUE NOMBRA CUATRO (4) VICEMINISTROS EN DISTINTAS ÁREAS DEL MINISTERIO DE INDUSTRIA Y COMERCIA Y MIPY... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404605&managementType=1) | pendiente_verificacion_pdf |
-| 171-26 | 17/03/2025 | 11235 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404589&managementType=1) | pendiente_verificacion_pdf |
-| 172-26 | 17/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA DOS (2) PORCIONES DE TERRENOS EN VILLA BISONÓ, PROVINCIA SANTIAGO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404590&managementType=1) | pendiente_verificacion_pdf |
-| 173-26 | 17/03/2025 | 11235 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 172 PERSONAS, Y POR DISCAPACIDAD A CUATRO (4) PERSONAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404591&managementType=1) | pendiente_verificacion_pdf |
-| 174-26 | 17/03/2025 | 11235 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404592&managementType=1) | pendiente_verificacion_pdf |
-| 175-26 | 18/03/2025 | 11235 | QUE NOMBRA A LAS SEÑORAS ESTEFANY MAYROBI HOLGUÍN GUZMÁN Y PAOLA DIROCIE DE LA CRUZ, VICEMINISTRAS A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404606&managementType=1) | pendiente_verificacion_pdf |
-| 176-26 | 18/03/2025 | 11235 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM. 720-25. DISPONE QUE EL PARQUE DE ZONA FRANCA INDUSTRIAL RIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404607&managementType=1) | pendiente_verificacion_pdf |
+| 160-26 | 16/03/2025 | 11235 | QUE DESIGNA CON EL NOMBRE DE ORLANDO MARTÍNEZ HOWLEY, EL EDIFICIO CORPORATIVO UBICADO EN LA AVENIDA ... | [Ver documento](decreto-160-2026.md) | normalizado · pendiente_revision |
+| 161-26 | 16/03/2025 | 11235 | QUE CONCEDE LA CONDECORACIÓN PÓSTUMA DE LA ORDEN DE MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO D... | [Ver documento](decreto-161-2026.md) | normalizado · pendiente_revision |
+| 162-26 | 16/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO, DE RD$10,000.00 MENSUALES, A 57 AFILIADOS DEL ANTIGUO INSTITUTO DO... | [Ver documento](decreto-162-2026.md) | normalizado · pendiente_revision |
+| 163-26 | 16/03/2025 | 11235 | QUE DEROGA EL ARTÍCULO 47, DEL DECRETO NÚM. 81-25, QUE DESIGNÓ A RAWELL SALOMÓN TAVERAS ARBAJE, MINI... | [Ver documento](decreto-163-2026.md) | normalizado · pendiente_revision |
+| 164-26 | 16/03/2025 | 11235 | QUE OTORGA EXEQUÁTUR A 199 PROFESIONALES, PARA QUE PUEDAN EJERCER LA PROFESIÓN DE LICENCIADOS EN DER... | [Ver documento](decreto-164-2026.md) | normalizado · pendiente_revision |
+| 165-26 | 16/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO A 113 PERSONAS, Y AUMENTA EL MONTO DE LA PENSIÓN DEL ESTADO QUE REC... | [Ver documento](decreto-165-2026.md) | normalizado · pendiente_revision |
+| 166-26 | 16/03/2025 | 11235 | QUE DECLARA DE ALTO INTERÉS NACIONAL EL DISEÑO, FINANCIAMIENTO, CONSTRUCCIÓN, EQUIPAMIENTO, OPERACIÓ... | [Ver documento](decreto-166-2026.md) | normalizado · pendiente_revision |
+| 167-26 | 16/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, TRES (3) PORCIONES... | [Ver documento](decreto-167-2026.md) | normalizado · pendiente_revision |
+| 168-26 | 16/03/2025 | 11235 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA AL SEÑOR ADELIO GÓMEZ... | [Ver documento](decreto-168-2026.md) | normalizado · pendiente_revision |
+| 169-26 | 17/03/2025 | 11235 | QUE DESIGNA A ERALEISY LENINA VÁSQUEZ LÓPEZ, SUBDIRECTORA GENERAL DE LA DIRECCIÓN GENERAL DE PROYECT... | [Ver documento](decreto-169-2026.md) | normalizado · pendiente_revision |
+| 170-26 | 17/03/2025 | 11235 | QUE NOMBRA CUATRO (4) VICEMINISTROS EN DISTINTAS ÁREAS DEL MINISTERIO DE INDUSTRIA Y COMERCIA Y MIPY... | [Ver documento](decreto-170-2026.md) | normalizado · pendiente_revision |
+| 171-26 | 17/03/2025 | 11235 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-171-2026.md) | normalizado · pendiente_revision |
+| 172-26 | 17/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA DOS (2) PORCIONES DE TERRENOS EN VILLA BISONÓ, PROVINCIA SANTIAGO DE... | [Ver documento](decreto-172-2026.md) | normalizado · pendiente_revision |
+| 173-26 | 17/03/2025 | 11235 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 172 PERSONAS, Y POR DISCAPACIDAD A CUATRO (4) PERSONAS... | [Ver documento](decreto-173-2026.md) | normalizado · pendiente_revision |
+| 174-26 | 17/03/2025 | 11235 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-174-2026.md) | normalizado · pendiente_revision |
+| 175-26 | 18/03/2025 | 11235 | QUE NOMBRA A LAS SEÑORAS ESTEFANY MAYROBI HOLGUÍN GUZMÁN Y PAOLA DIROCIE DE LA CRUZ, VICEMINISTRAS A... | [Ver documento](decreto-175-2026.md) | normalizado · pendiente_revision |
+| 176-26 | 18/03/2025 | 11235 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM. 720-25. DISPONE QUE EL PARQUE DE ZONA FRANCA INDUSTRIAL RIO... | [Ver documento](decreto-176-2026.md) | normalizado · pendiente_revision |
 | 177-26 | 18/03/2025 | 11235 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404593&managementType=1) | pendiente_verificacion_pdf |
 | 178-26 | 18/03/2025 | 11235 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO DE ZONAS FRANCAS DE EXPORTACIONES A LA COMPAÑÍA IRON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404608&managementType=1) | pendiente_verificacion_pdf |
 | 179-26 | 18/03/2025 | 11235 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A LA SEÑORA WANDA ALTAGRACIA GARCÍA RONDÓN DE PIMENTEL. DEROGA EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404594&managementType=1) | pendiente_verificacion_pdf |
@@ -382,9 +402,9 @@ Documentos detectados: **406**.
 | 154-26 | 09/03/2026 | 11234 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$97,750.00 MENSUALES, AL SEÑOR SIMEÓN CLASE ULLOA. ... | [Ver documento](decreto-154-2026.md) | normalizado · pendiente_revision |
 | 155-26 | 09/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A 161 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Ver documento](decreto-155-2026.md) | normalizado · pendiente_revision |
 | 156-26 | 09/03/2026 | 11234 | QUE DEROGA EL ARTÍCULO 8 DEL DECRETO NÚM. 644-20, QUE DESIGNÓ A LA SEÑORA MARÍA DE LOS SANTOS AGRAMO... | [Ver documento](decreto-156-2026.md) | normalizado · pendiente_revision |
-| 157-26 | 09/03/2026 | 11234 | QUE DESIGNA 5 VICECÓNSULES Y UN AUXILIAR CONSULAR EN LOS CONSULADOS DE LA REPÚBLICA EN DIFERENTES PA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404583&managementType=1) | pendiente_verificacion_pdf |
-| 158-26 | 09/03/2026 | 11234 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE SESENTA MIL PESOS DOMINI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404566&managementType=1) | pendiente_verificacion_pdf |
-| 159-26 | 09/03/2026 | 11234 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 33 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404567&managementType=1) | pendiente_verificacion_pdf |
+| 157-26 | 09/03/2026 | 11234 | QUE DESIGNA 5 VICECÓNSULES Y UN AUXILIAR CONSULAR EN LOS CONSULADOS DE LA REPÚBLICA EN DIFERENTES PA... | [Ver documento](decreto-157-2026.md) | normalizado · pendiente_revision |
+| 158-26 | 09/03/2026 | 11234 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE SESENTA MIL PESOS DOMINI... | [Ver documento](decreto-158-2026.md) | normalizado · pendiente_revision |
+| 159-26 | 09/03/2026 | 11234 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 33 PERSONAS. | [Ver documento](decreto-159-2026.md) | normalizado · pendiente_revision |
 | 197-26 | 26/03/2026 | 11236 | QUE DISPONE LA REACTIVACIÓN DEL PLAN REGULATORIO DE BANCAS DE LOTERÍA, PUNTOS DE VENTA O AGENCIAS Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404632&managementType=1) | pendiente_verificacion_pdf |
 | 198-26 | 26/03/2026 | 11236 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIOS INMUEBLES UBICADOS EN EL PARAJE COLONIA JUAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404625&managementType=1) | pendiente_verificacion_pdf |
 | 199-26 | 26/03/2026 | 11236 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS EN TODO EL TERRIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404633&managementType=1) | pendiente_verificacion_pdf |
