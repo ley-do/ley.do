@@ -17,11 +17,31 @@
   "ruta_markdown": "docs/decretos/2021/decreto-138-2021.md",
   "ruta_json": "datos/decretos/2021/decreto-138-2021.json",
   "sha256_pdf_original": "65c57660909e26d9ad1373ff26297620e2f7f9d5e042f60027bd215232369fae",
-  "sha256_markdown": "6db663c0b455f9ec9f889e422eb451e0675c23af77756af0767af43f92d7c9d3",
+  "sha256_markdown": "f9547a5dbbd1767dc84f3fdcdab112ac10f9e7cf6a69e9a2ceacf9369fbccaf1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La consulta oficial contiene dos fuentes para `138-21`: el ID `3397938` corresponde a la versión de Gaceta usada para la extracción y el ID `3397888` a una copia oficial firmada preservada como fuente complementaria con hash propio. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "registros_fuente_relacionados": [
+    {
+      "document_id_consultoria": "3397938",
+      "tipo_fuente": "versión de Gaceta usada para extracción",
+      "ruta_pdf_local": "archivos/decretos/2021/decreto-138-2021.pdf",
+      "sha256_pdf": "65c57660909e26d9ad1373ff26297620e2f7f9d5e042f60027bd215232369fae",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397938&managementType=2"
+    },
+    {
+      "document_id_consultoria": "3397888",
+      "tipo_fuente": "copia oficial firmada complementaria",
+      "ruta_pdf_local": "archivos/decretos/2021/decreto-138-2021-fuente-3397888.pdf",
+      "sha256_pdf": "d379cacbc1b6a29c1302550f458c1ab3559f92fcc3d315e96b472795cb1d7a37",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397888&managementType=2",
+      "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397888&managementType=1"
+    }
+  ],
+  "alertas_revision": [
+    "La consulta oficial contiene dos fuentes para `138-21`: el ID `3397938` corresponde a la versión de Gaceta usada para la extracción y el ID `3397888` a una copia oficial firmada preservada como fuente complementaria con hash propio."
+  ]
 }

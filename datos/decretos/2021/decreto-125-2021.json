@@ -17,11 +17,31 @@
   "ruta_markdown": "docs/decretos/2021/decreto-125-2021.md",
   "ruta_json": "datos/decretos/2021/decreto-125-2021.json",
   "sha256_pdf_original": "cb02963c055facc9d218cd0143aa168dcfac70c4655a4df7d1ac98f4cefad155",
-  "sha256_markdown": "a0d48adce33309b5d7b91154f4efbc71d617e8e377db4ff0d5fd012ca160e275",
+  "sha256_markdown": "540e8ace1d8df981e144739cc30e6f2153561a5d66d6d49bea7378724caff973",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La consulta oficial contiene dos fuentes para `125-21`: el ID `3397916` corresponde a la versión de Gaceta usada para la extracción y el ID `3397887` a una copia oficial firmada preservada como fuente complementaria con hash propio. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "registros_fuente_relacionados": [
+    {
+      "document_id_consultoria": "3397916",
+      "tipo_fuente": "versión de Gaceta usada para extracción",
+      "ruta_pdf_local": "archivos/decretos/2021/decreto-125-2021.pdf",
+      "sha256_pdf": "cb02963c055facc9d218cd0143aa168dcfac70c4655a4df7d1ac98f4cefad155",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397916&managementType=2"
+    },
+    {
+      "document_id_consultoria": "3397887",
+      "tipo_fuente": "copia oficial firmada complementaria",
+      "ruta_pdf_local": "archivos/decretos/2021/decreto-125-2021-fuente-3397887.pdf",
+      "sha256_pdf": "8dd758880f43a26069b8dc1ffdca2ea12bed605085dd52fd116e3849f1836f10",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397887&managementType=2",
+      "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397887&managementType=1"
+    }
+  ],
+  "alertas_revision": [
+    "La consulta oficial contiene dos fuentes para `125-21`: el ID `3397916` corresponde a la versión de Gaceta usada para la extracción y el ID `3397887` a una copia oficial firmada preservada como fuente complementaria con hash propio."
+  ]
 }
