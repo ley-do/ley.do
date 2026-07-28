@@ -12,7 +12,7 @@ def nint(v):
 
 def reflow(text):
     lines=[re.sub(r"\s+"," ",x).strip() for x in text.replace("\r","").split("\n")]
-    marker=re.compile(r"^(?:(?:Dec\.|Regl\.)\s*(?:núm\.|No\.)|LUIS ABINADER|Presidente de la República|NÚMERO:|CONSIDERANDO|VIST[OA]|DECRETO:|ART[IÍ]CULO|PÁRRAFO|DADO)",re.I)
+    marker=re.compile(r"^(?:(?:Dec\.|Regl\.)\s*(?:(?:núm\.|No\.)\s*)?|LUIS ABINADER|Presidente de la República|NÚMERO:|CONSIDERANDO|VIST[OA]|DECRETO:|ART[IÍ]CULO|PÁRRAFO|DADO)",re.I)
     blocks=[]; current=[]
     for line in lines:
         if re.fullmatch(r"-\s*\d+\s*-",line): continue
@@ -26,10 +26,10 @@ def reflow(text):
 
 def extract(pdf,n,yy):
     doc=pymupdf.open(pdf); texts=[p.get_text("text") for p in doc]; doc.close()
-    start=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*(?P<numero>0*{n}-{yy})\b",re.I)
-    alternate=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*(?P<numero>0*{n}-\d{{2,4}})\b",re.I)
+    start=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:(?:núm\.|No\.)\s*)?(?P<numero>0*{n}-{yy})\b",re.I)
+    alternate=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:(?:núm\.|No\.)\s*)?(?P<numero>0*{n}-\d{{2,4}})\b",re.I)
     truncated=re.compile(rf"(?im)^(?P<clase>ec\.)\s*(?:núm\.|No\.)\s*(?P<numero>0*{n}-\d{{2,4}})\b",re.I)
-    neighbor=re.compile(rf"(?im)^(?:Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*(\d+)-{yy}\b",re.I)
+    neighbor=re.compile(rf"(?im)^(?:Dec\.|Regl\.)\s*(?:(?:núm\.|No\.)\s*)?(\d+)-{yy}\b",re.I)
     begun=False; trimmed=False; pages=[]; clase_encabezado=""; numero_encabezado=""
     for text in texts:
         if not begun:
@@ -46,7 +46,7 @@ def extract(pdf,n,yy):
 def title(pages,n,yy,year):
     if not pages: return f"Decreto núm. {n:03d}-{year}"
     text=pages[0].split("\n\n",1)[0]
-    text=re.sub(rf"^(?:Dec\.|Regl\.|ec\.)\s*(?:núm\.|No\.)\s*0*{n}-\d{{2,4}}\s*","",text,flags=re.I)
+    text=re.sub(rf"^(?:Dec\.|Regl\.|ec\.)\s*(?:(?:núm\.|No\.)\s*)?0*{n}-\d{{2,4}}\s*","",text,flags=re.I)
     text=re.sub(r"\s*G\.\s*O\.\s*núm\..*$","",text,flags=re.I).strip().rstrip(".")
     return text or f"Decreto núm. {n:03d}-{year}"
 
