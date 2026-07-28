@@ -59,6 +59,31 @@ Documentos detectados: **727**.
 - [Decreto núm. 048-2025](decreto-048-2025.md)
 - [Decreto núm. 049-2025](decreto-049-2025.md)
 - [Decreto núm. 050-2025](decreto-050-2025.md)
+- [Decreto núm. 051-2025](decreto-051-2025.md)
+- [Decreto núm. 052-2025](decreto-052-2025.md)
+- [Decreto núm. 053-2025](decreto-053-2025.md)
+- [Decreto núm. 054-2025](decreto-054-2025.md)
+- [Decreto núm. 055-2025](decreto-055-2025.md)
+- [Decreto núm. 056-2025](decreto-056-2025.md)
+- [Decreto núm. 057-2025](decreto-057-2025.md)
+- [Decreto núm. 058-2025](decreto-058-2025.md)
+- [Decreto núm. 059-2025](decreto-059-2025.md)
+- [Decreto núm. 060-2025](decreto-060-2025.md)
+- [Decreto núm. 061-2025](decreto-061-2025.md)
+- [Decreto núm. 062-2025](decreto-062-2025.md)
+- [Decreto núm. 063-2025](decreto-063-2025.md)
+- [Decreto núm. 064-2025](decreto-064-2025.md)
+- [Decreto núm. 065-2025](decreto-065-2025.md)
+- [Decreto núm. 066-2025](decreto-066-2025.md)
+- [Decreto núm. 067-2025](decreto-067-2025.md)
+- [Decreto núm. 068-2025](decreto-068-2025.md)
+- [Decreto núm. 069-2025](decreto-069-2025.md)
+- [Decreto núm. 070-2025](decreto-070-2025.md)
+- [Decreto núm. 071-2025](decreto-071-2025.md)
+- [Decreto núm. 072-2025](decreto-072-2025.md)
+- [Decreto núm. 073-2025](decreto-073-2025.md)
+- [Decreto núm. 074-2025](decreto-074-2025.md)
+- [Decreto núm. 075-2025](decreto-075-2025.md)
 
 ## Documentos detectados
 
@@ -115,31 +140,31 @@ Documentos detectados: **727**.
 | 48-25 | 31/01/2025 | 11187 | QUE NOMBRA LOS MINISTROS DE EDUCACIÓN, OBRAS PÚBLICAS, TRABAJO Y CULTURA, ASÍ COMO UN ASESOR DEL POD... | [Ver documento](decreto-048-2025.md) | normalizado · pendiente_revision |
 | 49-25 | 03/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TRECE PERSONAS, Y AUMENTA EL MONTO DE LAS PENSIONES DE... | [Ver documento](decreto-049-2025.md) | normalizado · pendiente_revision |
 | 50-25 | 05/02/2025 | 11187 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 111-22 Y SUS MODIFICACIONES. INCLUYE DOCE (12) INSTITUCI... | [Ver documento](decreto-050-2025.md) | normalizado · pendiente_revision |
-| 51-25 | 05/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A SIETE PERSONAS, Y AUMENTA A LA SUMA DE RD$20,000.00 ME... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403028&managementType=1) | pendiente_verificacion_pdf |
-| 52-25 | 05/02/2025 | 11187 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A ONCE PERSONAS. MODIF... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403035&managementType=1) | pendiente_verificacion_pdf |
-| 53-25 | 05/02/2025 | 11187 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO, FÉLI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403029&managementType=1) | pendiente_verificacion_pdf |
-| 54-25 | 05/02/2025 | 11187 | QUE AUTORIZA AL AYUNTAMIENTO MUNICIPAL DE MONTE PLATA, A DONAR A FAVOR DEL INSTITUTO AGRARIO DOMINIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403036&managementType=1) | pendiente_verificacion_pdf |
-| 55-25 | 05/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TREINTA Y NUEVE PERSONAS. OTORGA UNA PENSIÓN POR DISCA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403037&managementType=1) | pendiente_verificacion_pdf |
-| 56-25 | 07/02/2025 | 11188 | QUE DESIGNA A LA SEÑORA CAMILA HERNÁNDEZ VILLAMÁN, VICEMINISTRA DE POLÍTICA TRIBUTARIA DEL MINISTERI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403041&managementType=1) | pendiente_verificacion_pdf |
-| 57-25 | 07/02/2025 | 11188 | QUE SUPRIME LA COMISIÓN SECTORIAL PARA LA REFORMA Y MODERNIZACIÓN DEL SECTOR AGROPECUARIO Y DEROGA E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403042&managementType=1) | pendiente_verificacion_pdf |
-| 58-25 | 10/02/2025 | 11188 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE LÍNEAS DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403043&managementType=1) | pendiente_verificacion_pdf |
-| 59-25 | 10/02/2025 | 11188 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403049&managementType=1) | pendiente_verificacion_pdf |
-| 60-25 | 10/02/2025 | 11188 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE COMEND... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403044&managementType=1) | pendiente_verificacion_pdf |
-| 61-25 | 10/02/2025 | 11188 | QUE CONCEDE PENSIONES DEL ESTADO A TRECE (13) SERVIDORES PÚBLICOS DEL SECTOR SALUD, Y AUMENTA A LA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403050&managementType=1) | pendiente_verificacion_pdf |
-| 62-25 | 10/02/2025 | 11188 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403051&managementType=1) | pendiente_verificacion_pdf |
-| 63-25 | 10/02/2025 | 11188 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN MENSUAL DEL ESTADO POR ANTIGÜEDAD EN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403045&managementType=1) | pendiente_verificacion_pdf |
-| 68-25 | 10/02/2025 | 11188 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO UNIDO DEL NACIONAL BRITÁNICO NICHOLAS BRIAN KNOWLES. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403046&managementType=1) | pendiente_verificacion_pdf |
-| 64-25 | 11/02/2025 | 11188 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, Y DEL DISTRITO MUNICIPAL MICHES, PRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403052&managementType=1) | pendiente_verificacion_pdf |
-| 65-25 | 13/02/2025 | 11188 | QUE CONFIRMA AL SEÑOR EDDY ALCÁNTARA CASTILLO, COMO DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE PRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403053&managementType=1) | pendiente_verificacion_pdf |
-| 66-25 | 13/02/2025 | 11188 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO ERASMO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403054&managementType=1) | pendiente_verificacion_pdf |
-| 67-25 | 13/02/2025 | 11188 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA FEDERATIVA DE BRASIL DE LA NACIONAL DOMINICANA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403055&managementType=1) | pendiente_verificacion_pdf |
-| 69-25 | 14/02/2025 | 11188 | QUE AUTORIZA A VARIOS OFICIALES DE LA ARMADA, DEL EJÉRCITO Y DE LA FUERZA AÉREA, ASÍ COMO A VARIOS R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403056&managementType=1) | pendiente_verificacion_pdf |
-| 70-25 | 14/02/2025 | 11188 | QUE AUTORIZA LA APERTURA DEL CONSULADO HONORARIO DE NUESTRO PAÍS EN HIROSHIMA, JAPÓN. DESIGNA A HAIM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403047&managementType=1) | pendiente_verificacion_pdf |
-| 71-25 | 14/02/2025 | 11188 | QUE AUTORIZA A LA EMBAJADORA PRISCA VIOLETA MAZARA, A ACEPTAR Y USAR LA CONDECORACIÓN “ORDEN DEL GEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403057&managementType=1) | pendiente_verificacion_pdf |
-| 72-25 | 14/02/2025 | 11188 | QUE NOMBRA CUATRO (4) EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE NUESTRO PAÍS EN LA REPÚBLIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403058&managementType=1) | pendiente_verificacion_pdf |
-| 73-25 | 14/02/2025 | 11188 | QUE AUTORIZA AL MAYOR PARACAIDISTA LEONARDO ALFREDO CASTILLO MEJÍA, FARD, PARA QUE PUEDA ACEPTAR Y U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403059&managementType=1) | pendiente_verificacion_pdf |
-| 74-25 | 14/02/2025 | 11188 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 16,452.00 MT2, DENTRO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403060&managementType=1) | pendiente_verificacion_pdf |
-| 75-25 | 14/02/2025 | 11188 | QUE AUTORIZA AL CAPITÁN DE FRAGATA CARLOS MIGUEL MEJÍA MÍNGUEZ, ARD, PARA QUE PUEDA ACEPTAR Y USAR L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403061&managementType=1) | pendiente_verificacion_pdf |
+| 51-25 | 05/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A SIETE PERSONAS, Y AUMENTA A LA SUMA DE RD$20,000.00 ME... | [Ver documento](decreto-051-2025.md) | normalizado · pendiente_revision |
+| 52-25 | 05/02/2025 | 11187 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A ONCE PERSONAS. MODIF... | [Ver documento](decreto-052-2025.md) | normalizado · pendiente_revision |
+| 53-25 | 05/02/2025 | 11187 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO, FÉLI... | [Ver documento](decreto-053-2025.md) | normalizado · pendiente_revision |
+| 54-25 | 05/02/2025 | 11187 | QUE AUTORIZA AL AYUNTAMIENTO MUNICIPAL DE MONTE PLATA, A DONAR A FAVOR DEL INSTITUTO AGRARIO DOMINIC... | [Ver documento](decreto-054-2025.md) | normalizado · pendiente_revision |
+| 55-25 | 05/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TREINTA Y NUEVE PERSONAS. OTORGA UNA PENSIÓN POR DISCA... | [Ver documento](decreto-055-2025.md) | normalizado · pendiente_revision |
+| 56-25 | 07/02/2025 | 11188 | QUE DESIGNA A LA SEÑORA CAMILA HERNÁNDEZ VILLAMÁN, VICEMINISTRA DE POLÍTICA TRIBUTARIA DEL MINISTERI... | [Ver documento](decreto-056-2025.md) | normalizado · pendiente_revision |
+| 57-25 | 07/02/2025 | 11188 | QUE SUPRIME LA COMISIÓN SECTORIAL PARA LA REFORMA Y MODERNIZACIÓN DEL SECTOR AGROPECUARIO Y DEROGA E... | [Ver documento](decreto-057-2025.md) | normalizado · pendiente_revision |
+| 58-25 | 10/02/2025 | 11188 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE LÍNEAS DE ... | [Ver documento](decreto-058-2025.md) | normalizado · pendiente_revision |
+| 59-25 | 10/02/2025 | 11188 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-059-2025.md) | normalizado · pendiente_revision |
+| 60-25 | 10/02/2025 | 11188 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE COMEND... | [Ver documento](decreto-060-2025.md) | normalizado · pendiente_revision |
+| 61-25 | 10/02/2025 | 11188 | QUE CONCEDE PENSIONES DEL ESTADO A TRECE (13) SERVIDORES PÚBLICOS DEL SECTOR SALUD, Y AUMENTA A LA S... | [Ver documento](decreto-061-2025.md) | normalizado · pendiente_revision |
+| 62-25 | 10/02/2025 | 11188 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-062-2025.md) | normalizado · pendiente_revision |
+| 63-25 | 10/02/2025 | 11188 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN MENSUAL DEL ESTADO POR ANTIGÜEDAD EN ... | [Ver documento](decreto-063-2025.md) | normalizado · pendiente_revision |
+| 68-25 | 10/02/2025 | 11188 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO UNIDO DEL NACIONAL BRITÁNICO NICHOLAS BRIAN KNOWLES. ... | [Ver documento](decreto-068-2025.md) | normalizado · pendiente_revision |
+| 64-25 | 11/02/2025 | 11188 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, Y DEL DISTRITO MUNICIPAL MICHES, PRO... | [Ver documento](decreto-064-2025.md) | normalizado · pendiente_revision |
+| 65-25 | 13/02/2025 | 11188 | QUE CONFIRMA AL SEÑOR EDDY ALCÁNTARA CASTILLO, COMO DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE PRO... | [Ver documento](decreto-065-2025.md) | normalizado · pendiente_revision |
+| 66-25 | 13/02/2025 | 11188 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO ERASMO... | [Ver documento](decreto-066-2025.md) | normalizado · pendiente_revision |
+| 67-25 | 13/02/2025 | 11188 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA FEDERATIVA DE BRASIL DE LA NACIONAL DOMINICANA ... | [Ver documento](decreto-067-2025.md) | normalizado · pendiente_revision |
+| 69-25 | 14/02/2025 | 11188 | QUE AUTORIZA A VARIOS OFICIALES DE LA ARMADA, DEL EJÉRCITO Y DE LA FUERZA AÉREA, ASÍ COMO A VARIOS R... | [Ver documento](decreto-069-2025.md) | normalizado · pendiente_revision |
+| 70-25 | 14/02/2025 | 11188 | QUE AUTORIZA LA APERTURA DEL CONSULADO HONORARIO DE NUESTRO PAÍS EN HIROSHIMA, JAPÓN. DESIGNA A HAIM... | [Ver documento](decreto-070-2025.md) | normalizado · pendiente_revision |
+| 71-25 | 14/02/2025 | 11188 | QUE AUTORIZA A LA EMBAJADORA PRISCA VIOLETA MAZARA, A ACEPTAR Y USAR LA CONDECORACIÓN “ORDEN DEL GEN... | [Ver documento](decreto-071-2025.md) | normalizado · pendiente_revision |
+| 72-25 | 14/02/2025 | 11188 | QUE NOMBRA CUATRO (4) EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE NUESTRO PAÍS EN LA REPÚBLIC... | [Ver documento](decreto-072-2025.md) | normalizado · pendiente_revision |
+| 73-25 | 14/02/2025 | 11188 | QUE AUTORIZA AL MAYOR PARACAIDISTA LEONARDO ALFREDO CASTILLO MEJÍA, FARD, PARA QUE PUEDA ACEPTAR Y U... | [Ver documento](decreto-073-2025.md) | normalizado · pendiente_revision |
+| 74-25 | 14/02/2025 | 11188 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 16,452.00 MT2, DENTRO DE ... | [Ver documento](decreto-074-2025.md) | normalizado · pendiente_revision |
+| 75-25 | 14/02/2025 | 11188 | QUE AUTORIZA AL CAPITÁN DE FRAGATA CARLOS MIGUEL MEJÍA MÍNGUEZ, ARD, PARA QUE PUEDA ACEPTAR Y USAR L... | [Ver documento](decreto-075-2025.md) | normalizado · pendiente_revision |
 | 76-25 | 17/02/2025 | 11188 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE TRANSPARENCIA Y ANTICORRUPCIÓN, LA CUAL ESTARÁ PRESID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403062&managementType=1) | pendiente_verificacion_pdf |
 | 77-25 | 17/02/2025 | 11188 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403063&managementType=1) | pendiente_verificacion_pdf |
 | 78-25 | 17/02/2025 | 11188 | QUE INSTRUYE A LOS MIEMBROS DE LA COMISIÓN SUPERVISORA DE LA LEY NÚM. 118-21, CREADA MEDIANTE EL DEC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403048&managementType=1) | pendiente_verificacion_pdf |
