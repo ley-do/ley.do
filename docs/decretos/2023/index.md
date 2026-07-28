@@ -12,111 +12,214 @@ Documentos detectados: **688**.
 - El registro `755-22` corresponde documentalmente a 2022 aunque aparece en la consulta agrupada bajo 2023; no se generará un falso paquete 755-2023.
 - El segundo registro identificado en metadata como `544-23` (ID `3401558`) contiene en el PDF el encabezado `Dec. núm. 554-23`; se normalizará como Decreto núm. 554-2023 conservando la discrepancia para revisión humana.
 
+## Documentos normalizados inicialmente
+
+- [Decreto núm. 001-2023](decreto-001-2023.md)
+- [Decreto núm. 002-2023](decreto-002-2023.md)
+- [Decreto núm. 003-2023](decreto-003-2023.md)
+- [Decreto núm. 004-2023](decreto-004-2023.md)
+- [Decreto núm. 005-2023](decreto-005-2023.md)
+- [Decreto núm. 006-2023](decreto-006-2023.md)
+- [Decreto núm. 007-2023](decreto-007-2023.md)
+- [Decreto núm. 008-2023](decreto-008-2023.md)
+- [Decreto núm. 009-2023](decreto-009-2023.md)
+- [Decreto núm. 010-2023](decreto-010-2023.md)
+- [Decreto núm. 011-2023](decreto-011-2023.md)
+- [Decreto núm. 012-2023](decreto-012-2023.md)
+- [Decreto núm. 013-2023](decreto-013-2023.md)
+- [Decreto núm. 014-2023](decreto-014-2023.md)
+- [Decreto núm. 015-2023](decreto-015-2023.md)
+- [Decreto núm. 016-2023](decreto-016-2023.md)
+- [Decreto núm. 017-2023](decreto-017-2023.md)
+- [Reglamento núm. 018-2023](decreto-018-2023.md)
+- [Decreto núm. 019-2023](decreto-019-2023.md)
+- [Decreto núm. 020-2023](decreto-020-2023.md)
+- [Decreto núm. 021-2023](decreto-021-2023.md)
+- [Decreto núm. 022-2023](decreto-022-2023.md)
+- [Decreto núm. 023-2023](decreto-023-2023.md)
+- [Decreto núm. 024-2023](decreto-024-2023.md)
+- [Decreto núm. 025-2023](decreto-025-2023.md)
+- [Decreto núm. 026-2023](decreto-026-2023.md)
+- [Decreto núm. 027-2023](decreto-027-2023.md)
+- [Decreto núm. 028-2023](decreto-028-2023.md)
+- [Decreto núm. 029-2023](decreto-029-2023.md)
+- [Decreto núm. 030-2023](decreto-030-2023.md)
+- [Decreto núm. 031-2023](decreto-031-2023.md)
+- [Decreto núm. 032-2023](decreto-032-2023.md)
+- [Decreto núm. 033-2023](decreto-033-2023.md)
+- [Decreto núm. 034-2023](decreto-034-2023.md)
+- [Decreto núm. 035-2023](decreto-035-2023.md)
+- [Decreto núm. 036-2023](decreto-036-2023.md)
+- [Decreto núm. 037-2023](decreto-037-2023.md)
+- [Decreto núm. 038-2023](decreto-038-2023.md)
+- [Decreto núm. 039-2023](decreto-039-2023.md)
+- [Decreto núm. 040-2023](decreto-040-2023.md)
+- [Decreto núm. 041-2023](decreto-041-2023.md)
+- [Decreto núm. 042-2023](decreto-042-2023.md)
+- [Decreto núm. 043-2023](decreto-043-2023.md)
+- [Decreto núm. 044-2023](decreto-044-2023.md)
+- [Decreto núm. 045-2023](decreto-045-2023.md)
+- [Decreto núm. 046-2023](decreto-046-2023.md)
+- [Decreto núm. 047-2023](decreto-047-2023.md)
+- [Decreto núm. 048-2023](decreto-048-2023.md)
+- [Decreto núm. 049-2023](decreto-049-2023.md)
+- [Decreto núm. 050-2023](decreto-050-2023.md)
+- [Decreto núm. 051-2023](decreto-051-2023.md)
+- [Decreto núm. 052-2023](decreto-052-2023.md)
+- [Decreto núm. 053-2023](decreto-053-2023.md)
+- [Decreto núm. 054-2023](decreto-054-2023.md)
+- [Decreto núm. 055-2023](decreto-055-2023.md)
+- [Decreto núm. 056-2023](decreto-056-2023.md)
+- [Decreto núm. 057-2023](decreto-057-2023.md)
+- [Decreto núm. 058-2023](decreto-058-2023.md)
+- [Decreto núm. 059-2023](decreto-059-2023.md)
+- [Decreto núm. 060-2023](decreto-060-2023.md)
+- [Decreto núm. 061-2023](decreto-061-2023.md)
+- [Decreto núm. 062-2023](decreto-062-2023.md)
+- [Decreto núm. 063-2023](decreto-063-2023.md)
+- [Decreto núm. 064-2023](decreto-064-2023.md)
+- [Decreto núm. 065-2023](decreto-065-2023.md)
+- [Decreto núm. 066-2023](decreto-066-2023.md)
+- [Decreto núm. 067-2023](decreto-067-2023.md)
+- [Decreto núm. 068-2023](decreto-068-2023.md)
+- [Decreto núm. 069-2023](decreto-069-2023.md)
+- [Decreto núm. 070-2023](decreto-070-2023.md)
+- [Decreto núm. 071-2023](decreto-071-2023.md)
+- [Decreto núm. 072-2023](decreto-072-2023.md)
+- [Decreto núm. 073-2023](decreto-073-2023.md)
+- [Decreto núm. 074-2023](decreto-074-2023.md)
+- [Decreto núm. 075-2023](decreto-075-2023.md)
+- [Decreto núm. 076-2023](decreto-076-2023.md)
+- [Decreto núm. 077-2023](decreto-077-2023.md)
+- [Decreto núm. 078-2023](decreto-078-2023.md)
+- [Decreto núm. 079-2023](decreto-079-2023.md)
+- [Decreto núm. 080-2023](decreto-080-2023.md)
+- [Decreto núm. 081-2023](decreto-081-2023.md)
+- [Decreto núm. 082-2023](decreto-082-2023.md)
+- [Decreto núm. 083-2023](decreto-083-2023.md)
+- [Decreto núm. 084-2023](decreto-084-2023.md)
+- [Decreto núm. 085-2023](decreto-085-2023.md)
+- [Decreto núm. 086-2023](decreto-086-2023.md)
+- [Decreto núm. 087-2023](decreto-087-2023.md)
+- [Decreto núm. 088-2023](decreto-088-2023.md)
+- [Decreto núm. 089-2023](decreto-089-2023.md)
+- [Decreto núm. 090-2023](decreto-090-2023.md)
+- [Decreto núm. 091-2023](decreto-091-2023.md)
+- [Decreto núm. 092-2023](decreto-092-2023.md)
+- [Decreto núm. 093-2023](decreto-093-2023.md)
+- [Decreto núm. 094-2023](decreto-094-2023.md)
+- [Decreto núm. 095-2023](decreto-095-2023.md)
+- [Decreto núm. 096-2023](decreto-096-2023.md)
+- [Decreto núm. 097-2023](decreto-097-2023.md)
+- [Decreto núm. 098-2023](decreto-098-2023.md)
+- [Decreto núm. 099-2023](decreto-099-2023.md)
+- [Decreto núm. 100-2023](decreto-100-2023.md)
+
 ## Documentos detectados
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
 |---:|---|---:|---|---|---|
-| 1-23 | 12/01/2023 | 11095 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.525-22. DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRENO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400591&managementType=1) | pendiente_verificacion_pdf |
-| 2-23 | 12/01/2023 | 11095 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES DE VARIAS DENOMINACIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400592&managementType=1) | pendiente_verificacion_pdf |
-| 3-23 | 12/01/2023 | 11095 | QUE CONVOCA AL SENADO DE LA REPÚBLICA Y A LA CÁMARA DE DIPUTADOS PARA QUE SE REÚNAN EN LEGISLATURA E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400593&managementType=1) | pendiente_verificacion_pdf |
-| 4-23 | 13/01/2023 | 11095 | MEDIANTE EL CUAL SE DECLARAN COMO BENEFICIARÍAS DE LA REGULACIÓN LLEVADA A CABO POR LA COMISIÓN CONS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400594&managementType=1) | pendiente_verificacion_pdf |
-| 5-23 | 16/01/2023 | 11097 | QUE EXTIENDE HASTA EL 31 DE DICIEMBRE DE 2023, EL PLAZO ESTABLECIDO EN EL ARTÍCULO 1 DEL DEC. NÚM.54... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400721&managementType=1) | pendiente_verificacion_pdf |
-| 6-23 | 16/01/2023 | 11097 | EL CUAL TIENE POR OBJETO PROCURAR LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO PO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400722&managementType=1) | pendiente_verificacion_pdf |
-| 7-23 | 17/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO GRAN CRUZ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400711&managementType=1) | pendiente_verificacion_pdf |
-| 8-23 | 18/01/2023 | 11097 | EL CUAL TIENE POR OBJETO IMPULSAR LA IMPLEMENTACIÓN DEL V PLAN DE ACCIÓN DE LA REPUBLICA DOMINICANA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400712&managementType=1) | pendiente_verificacion_pdf |
-| 10-23 | 20/01/2023 | 11097 | QUE NOMBRA FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. DEROGA EL DEC. NÚM. 98-95... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400724&managementType=1) | pendiente_verificacion_pdf |
-| 11-23 | 20/01/2023 | 11097 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA FEDERATIVA DE BRASIL, DEL NACIONAL ESTADOUNIDEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400713&managementType=1) | pendiente_verificacion_pdf |
-| 12-23 | 20/01/2023 | 11097 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A 666 PERSONAS, Y ELEVA EL MONTO DE PENSIONES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400714&managementType=1) | pendiente_verificacion_pdf |
-| 13-23 | 20/01/2023 | 11097 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NÚM. 374-20, QUE NOMBRÓ A JIMMY ROSARIO BERNARD, DIRECTOR GENERAL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400725&managementType=1) | pendiente_verificacion_pdf |
-| 14-23 | 20/01/2023 | 11097 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA A DOCE (12) PERSONAS EXTRANJERAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400715&managementType=1) | pendiente_verificacion_pdf |
-| 9-23 | 20/01/2023 | 11097 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400723&managementType=1) | pendiente_verificacion_pdf |
-| 15-23 | 23/01/2023 | 11097 | QUE NOMBRA A VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ENTRE ELLOS TRES (3) GOBERNAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400726&managementType=1) | pendiente_verificacion_pdf |
-| 16-23 | 23/01/2023 | 11097 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400716&managementType=1) | pendiente_verificacion_pdf |
-| 17-23 | 23/01/2023 | 11097 | QUE DESIGNA A JULIO AMAURY JUSTO DUARTE, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400717&managementType=1) | pendiente_verificacion_pdf |
-| 18-23 | 26/01/2023 | 11097 | DEL SISTEMA ELECTRÓNICO DE GARANTÍAS MOBILIARIAS DE CONFORMIDAD CON LA LEY NÚM. 45-20, DE GARANTÍAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400727&managementType=1) | pendiente_verificacion_pdf |
-| 19-23 | 31/01/2023 | 11097 | QUE DEROGA EL DEC. NÚM.2573 DE 1984, QUE DESIGNÓ A SILVIA MACHICADO DE SALAZAR, CÓNSUL HONORARIO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400728&managementType=1) | pendiente_verificacion_pdf |
-| 20-23 | 31/01/2023 | 11097 | QUE DESIGNA A JUAN JOSÉ PORTORREAL BRANDAO Y MANUEL DE JESÚS MORALES LAMA, EMBAJADORES EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400718&managementType=1) | pendiente_verificacion_pdf |
-| 21-23 | 31/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO AZUL, EN LAS CATEGORÍAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400729&managementType=1) | pendiente_verificacion_pdf |
-| 22-23 | 31/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO, EN LAS CATEGORÍA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400719&managementType=1) | pendiente_verificacion_pdf |
+| 1-23 | 12/01/2023 | 11095 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.525-22. DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRENO D... | [Ver documento](decreto-001-2023.md) | normalizado · pendiente_revision |
+| 2-23 | 12/01/2023 | 11095 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES DE VARIAS DENOMINACIONES. | [Ver documento](decreto-002-2023.md) | normalizado · pendiente_revision |
+| 3-23 | 12/01/2023 | 11095 | QUE CONVOCA AL SENADO DE LA REPÚBLICA Y A LA CÁMARA DE DIPUTADOS PARA QUE SE REÚNAN EN LEGISLATURA E... | [Ver documento](decreto-003-2023.md) | normalizado · pendiente_revision |
+| 4-23 | 13/01/2023 | 11095 | MEDIANTE EL CUAL SE DECLARAN COMO BENEFICIARÍAS DE LA REGULACIÓN LLEVADA A CABO POR LA COMISIÓN CONS... | [Ver documento](decreto-004-2023.md) | normalizado · pendiente_revision |
+| 5-23 | 16/01/2023 | 11097 | QUE EXTIENDE HASTA EL 31 DE DICIEMBRE DE 2023, EL PLAZO ESTABLECIDO EN EL ARTÍCULO 1 DEL DEC. NÚM.54... | [Ver documento](decreto-005-2023.md) | normalizado · pendiente_revision |
+| 6-23 | 16/01/2023 | 11097 | EL CUAL TIENE POR OBJETO PROCURAR LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO PO... | [Ver documento](decreto-006-2023.md) | normalizado · pendiente_revision |
+| 7-23 | 17/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO GRAN CRUZ... | [Ver documento](decreto-007-2023.md) | normalizado · pendiente_revision |
+| 8-23 | 18/01/2023 | 11097 | EL CUAL TIENE POR OBJETO IMPULSAR LA IMPLEMENTACIÓN DEL V PLAN DE ACCIÓN DE LA REPUBLICA DOMINICANA ... | [Ver documento](decreto-008-2023.md) | normalizado · pendiente_revision |
+| 10-23 | 20/01/2023 | 11097 | QUE NOMBRA FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. DEROGA EL DEC. NÚM. 98-95... | [Ver documento](decreto-010-2023.md) | normalizado · pendiente_revision |
+| 11-23 | 20/01/2023 | 11097 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA FEDERATIVA DE BRASIL, DEL NACIONAL ESTADOUNIDEN... | [Ver documento](decreto-011-2023.md) | normalizado · pendiente_revision |
+| 12-23 | 20/01/2023 | 11097 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A 666 PERSONAS, Y ELEVA EL MONTO DE PENSIONES... | [Ver documento](decreto-012-2023.md) | normalizado · pendiente_revision |
+| 13-23 | 20/01/2023 | 11097 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NÚM. 374-20, QUE NOMBRÓ A JIMMY ROSARIO BERNARD, DIRECTOR GENERAL ... | [Ver documento](decreto-013-2023.md) | normalizado · pendiente_revision |
+| 14-23 | 20/01/2023 | 11097 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA A DOCE (12) PERSONAS EXTRANJERAS. | [Ver documento](decreto-014-2023.md) | normalizado · pendiente_revision |
+| 9-23 | 20/01/2023 | 11097 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-009-2023.md) | normalizado · pendiente_revision |
+| 15-23 | 23/01/2023 | 11097 | QUE NOMBRA A VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ENTRE ELLOS TRES (3) GOBERNAD... | [Ver documento](decreto-015-2023.md) | normalizado · pendiente_revision |
+| 16-23 | 23/01/2023 | 11097 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-016-2023.md) | normalizado · pendiente_revision |
+| 17-23 | 23/01/2023 | 11097 | QUE DESIGNA A JULIO AMAURY JUSTO DUARTE, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, D... | [Ver documento](decreto-017-2023.md) | normalizado · pendiente_revision |
+| 18-23 | 26/01/2023 | 11097 | DEL SISTEMA ELECTRÓNICO DE GARANTÍAS MOBILIARIAS DE CONFORMIDAD CON LA LEY NÚM. 45-20, DE GARANTÍAS ... | [Ver documento](decreto-018-2023.md) | normalizado_con_alerta · pendiente_revision |
+| 19-23 | 31/01/2023 | 11097 | QUE DEROGA EL DEC. NÚM.2573 DE 1984, QUE DESIGNÓ A SILVIA MACHICADO DE SALAZAR, CÓNSUL HONORARIO DE ... | [Ver documento](decreto-019-2023.md) | normalizado · pendiente_revision |
+| 20-23 | 31/01/2023 | 11097 | QUE DESIGNA A JUAN JOSÉ PORTORREAL BRANDAO Y MANUEL DE JESÚS MORALES LAMA, EMBAJADORES EN EL SERVICI... | [Ver documento](decreto-020-2023.md) | normalizado · pendiente_revision |
+| 21-23 | 31/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO AZUL, EN LAS CATEGORÍAS ... | [Ver documento](decreto-021-2023.md) | normalizado · pendiente_revision |
+| 22-23 | 31/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO, EN LAS CATEGORÍA... | [Ver documento](decreto-022-2023.md) | normalizado · pendiente_revision |
 | 755-22 | 01/02/2023 | 11097 | FE DE ERRATA:DEC. NÚM. 755 QUE APRUEBA EL REGLAMENTO GENERAL DE APLICACIÓN DE LA LEY NÚM. 168-22, DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400730&managementType=1) | fuera_de_anio · pendiente_revision |
-| 23-23 | 02/02/2023 | 11098 | QUE CREA EL PARQUE INDUSTRIAL LA CEIBA, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE LA COMPAÑÍA OP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400740&managementType=1) | pendiente_verificacion_pdf |
-| 24-23 | 02/02/2023 | 11098 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM.118-22. DISPONE QUE EL PARQUE INDUSTRIAL EDUARDO LEÓN JIM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400741&managementType=1) | pendiente_verificacion_pdf |
-| 25-23 | 02/02/2023 | 11098 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM.128-21. ESTABLECE QUE EL PARQUE DE ZONAS FRANCAS INDUSTRI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400746&managementType=1) | pendiente_verificacion_pdf |
-| 26-23 | 02/02/2023 | 11098 | QUE NOMBRA A GEORGES BASHA HAZIM Y FEDERICO ALBERTO CUELLO CAMILO, EMBAJADORES EXTRAORDINARIOS Y PLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400742&managementType=1) | pendiente_verificacion_pdf |
-| 27-23 | 06/02/2023 | 11098 | QUE NOMBRA A LEONIDAS RADHAMÉS PEÑA DIAZ Y FRANCISCO TAMÁREZ FLORENTINO, ENCARGADOS DE LA UNIDAD ANT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400743&managementType=1) | pendiente_verificacion_pdf |
-| 28-23 | 06/02/2023 | 11098 | QUE CREA LA UNIDAD EJECUTORA (ECO5RD), COMO DEPENDENCIA DE LA PRESIDENCIA DE LA REPUBLICA, CON EL FI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400747&managementType=1) | pendiente_verificacion_pdf |
-| 29-23 | 07/02/2023 | 11098 | QUE NOMBRA A JULIO SIMÓN CASTAÑOS ZOUAIN Y BRIUNNY GARABITO SEGURA, EMBAJADORES EXTRAORDINARIOS Y PL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400748&managementType=1) | pendiente_verificacion_pdf |
-| 30-23 | 07/02/2023 | 11098 | DISPONE QUE LAS EMPRESAS DEBIDAMENTE REGISTRADAS Y AUTORIZADAS COMO EMPRESAS IMPORTADORAS DE ARMAS, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400749&managementType=1) | pendiente_verificacion_pdf |
-| 31-23 | 08/02/2023 | 11099 | QUE NOMBRA A HENRY ARTURO MERCEDES VALES, DIRECTOR GENERAL DE MECENAZGO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400761&managementType=1) | pendiente_verificacion_pdf |
-| 32-23 | 09/02/2023 | 11099 | QUE DECLARA DE EMERGENCIA LAS COMPRAS, Y CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS PARA SER UTILIZ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400754&managementType=1) | pendiente_verificacion_pdf |
-| 33-23 | 13/02/2023 | 11099 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO RUBÉN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400762&managementType=1) | pendiente_verificacion_pdf |
-| 34-23 | 13/02/2023 | 11099 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO MÁXIMO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400755&managementType=1) | pendiente_verificacion_pdf |
-| 35-23 | 13/02/2023 | 11099 | QUE NOMBRA A REYMUNDO ANTONIO GARRIDO LANTIGUA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400763&managementType=1) | pendiente_verificacion_pdf |
-| 36-23 | 13/02/2023 | 11099 | QUE MODIFICA EL DEC. NÚM.573-22. CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400764&managementType=1) | pendiente_verificacion_pdf |
-| 37-23 | 13/02/2023 | 11099 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400756&managementType=1) | pendiente_verificacion_pdf |
-| 38-23 | 13/02/2023 | 11099 | QUE CREA EL PARQUE DE ZONAS FRANCAS MULTIMODAL SAN FRANCISCO DE JACAGUA, BAJO LA ADMINISTRACIÓN TÉCN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400757&managementType=1) | pendiente_verificacion_pdf |
-| 39-23 | 13/02/2023 | 11099 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400765&managementType=1) | pendiente_verificacion_pdf |
-| 40-23 | 13/02/2023 | 11099 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400766&managementType=1) | pendiente_verificacion_pdf |
-| 41-23 | 13/02/2023 | 11099 | QUE NOMBRA AL SEÑOR JOSÉ ARICES MOYA MEJÍA, SUBDIRECTOR GENERAL DE BIENES NACIONALES. DEROGA LOS ART... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400767&managementType=1) | pendiente_verificacion_pdf |
-| 42-23 | 13/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400768&managementType=1) | pendiente_verificacion_pdf |
-| 43-23 | 13/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400769&managementType=1) | pendiente_verificacion_pdf |
-| 44-23 | 14/02/2023 | 11099 | QUE ORDENA AL MINISTERIO DE SALUD PÚBLICA Y ASISTENCIA SOCIAL, CREAR A TRAVÉS DE LA DIRECCIÓN GENERA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400770&managementType=1) | pendiente_verificacion_pdf |
-| 45-23 | 14/02/2023 | 11099 | QUE INTRODUCE MODIFICACIONES AL DEC. NÚM.117-18, QUE APROBÓ EL REGLAMENTO PARA LA RENOVACIÓN AUTOMÁT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400771&managementType=1) | pendiente_verificacion_pdf |
-| 46-23 | 14/02/2023 | 11099 | QUE DESIGNA MIEMBROS DE LA JUNTA DIRECTIVA DE LA DIRECCIÓN NACIONAL DE CONTROL DE DROGAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400758&managementType=1) | pendiente_verificacion_pdf |
-| 47-23 | 14/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400759&managementType=1) | pendiente_verificacion_pdf |
-| 48-23 | 14/02/2023 | 11099 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLON EN EL GRADO DE CABALLERO, A LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400760&managementType=1) | pendiente_verificacion_pdf |
-| 49-23 | 14/02/2023 | 11099 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NÚM.1400 DEL AÑO 1983, ARTÍCULO 1, LITERAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400772&managementType=1) | pendiente_verificacion_pdf |
-| 50-23 | 14/02/2023 | 11099 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400773&managementType=1) | pendiente_verificacion_pdf |
-| 51-23 | 14/02/2023 | 11099 | QUE AUTORIZA AL MAYOR GENERAL PILOTO LEONEL AMÍLCAR MUÑOZ NOBOA, FARD, A ACEPTAR Y USAR LA MEDALLA O... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400774&managementType=1) | pendiente_verificacion_pdf |
-| 52-23 | 14/02/2023 | 11099 | QUE NOMBRA A JULIO AMAURY JUSTO DUARTE, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400775&managementType=1) | pendiente_verificacion_pdf |
-| 53-23 | 14/02/2023 | 11099 | QUE NOMBRA SIETE (7) VICECÓNSULES Y DOS (2) AUXILIARES CONSULARES DE LA REPÚBLICA EN DISTINTOS PAÍSE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400776&managementType=1) | pendiente_verificacion_pdf |
-| 54-23 | 14/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400777&managementType=1) | pendiente_verificacion_pdf |
-| 55-23 | 15/02/2023 | 11101 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 6-23. ESTABLECE QUE LAS DISPOSICIONES DEL CITADO DECRETO AP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400799&managementType=1) | pendiente_verificacion_pdf |
-| 56-23 | 16/02/2023 | 11101 | QUE AUTORIZA A VARIOS OFICIALES DEL EJÉRCITO, DE LA FUERZA AÉREA Y DE LA ARMADA DE LA REPÚBLICA DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400786&managementType=1) | pendiente_verificacion_pdf |
-| 57-23 | 16/02/2023 | 11101 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400800&managementType=1) | pendiente_verificacion_pdf |
-| 58-23 | 16/02/2023 | 11101 | QUE FACULTA A LA DIRECCIÓN GENERAL DE MEDICAMENTOS, ALIMENTOS Y PRODUCTOS SANITARIOS, DEL MINISTERIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400801&managementType=1) | pendiente_verificacion_pdf |
-| 59-23 | 16/02/2023 | 11101 | QUE DEROGA EL DEC. NÚM.747-22, QUE DECLARÓ DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, POR PARTE DEL ESTAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400787&managementType=1) | pendiente_verificacion_pdf |
-| 60-23 | 16/02/2023 | 11101 | MEDIANTE EL CUAL SE INSTITUYEN LOS PREMIOS ANUALES DEL CARNAVAL DOMINICANO SIGUIENTES: PREMIO FELIPE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400788&managementType=1) | pendiente_verificacion_pdf |
-| 61-23 | 16/02/2023 | 11101 | QUE CONCEDE LA CONDECORACIÓN ORDEN DEL MÉRITO AÉREO CON DISTINTIVO BLANCO EN SUS DIFERENTES CATEGORÍ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400789&managementType=1) | pendiente_verificacion_pdf |
-| 62-23 | 17/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400790&managementType=1) | pendiente_verificacion_pdf |
-| 63-23 | 20/02/2023 | 11101 | QUE NOMBRA A RICHARD JAMES COLLIE BETANCES, CÓNSUL GENERAL DE LA REPÚBLICA EN TOKIO, JAPÓN. DEROGA E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400791&managementType=1) | pendiente_verificacion_pdf |
-| 64-23 | 20/02/2023 | 11101 | QUE AUTORIZA A LA COMPAÑÍA GLS GLOBAL LINK SOLUTIONS, SAS, SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400802&managementType=1) | pendiente_verificacion_pdf |
-| 65-23 | 20/02/2023 | 11101 | QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM.57-07, DE INCENTIVO AL DESARROLLO DE FUENTES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400803&managementType=1) | pendiente_verificacion_pdf |
-| 66-23 | 22/02/2023 | 11101 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DOMINICANO Y AUMENTA EL MONTO DE PENSIONES CONCEDIDAS A ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400792&managementType=1) | pendiente_verificacion_pdf |
-| 67-23 | 26/02/2023 | 11101 | QUE COLOCA EN SITUACIÓN DE RETIRO Y LES CONCEDE LA PENSIÓN CORRESPONDIENTE A DOS (2) MAYORES GENERAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400793&managementType=1) | pendiente_verificacion_pdf |
-| 68-23 | 26/02/2023 | 11101 | QUE ASCIENDE A DOS (2) GENERALES DE BRIGADA AL RANGO DE MAYOR GENERAL DEL EJÉRCITO Y A SIETE (7) COR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400804&managementType=1) | pendiente_verificacion_pdf |
-| 69-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 312 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400805&managementType=1) | pendiente_verificacion_pdf |
-| 70-23 | 26/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400806&managementType=1) | pendiente_verificacion_pdf |
-| 71-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A EX SERVIDORES PÚBLICOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400807&managementType=1) | pendiente_verificacion_pdf |
-| 72-23 | 26/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400808&managementType=1) | pendiente_verificacion_pdf |
-| 73-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 175 EX SERVIDORES PÚBLICOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400809&managementType=1) | pendiente_verificacion_pdf |
-| 74-23 | 26/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400794&managementType=1) | pendiente_verificacion_pdf |
-| 75-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 40 EX SERVIDORES PÚBLICOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400795&managementType=1) | pendiente_verificacion_pdf |
-| 76-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 64 EMPLEADOS DEL SECTOR SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400810&managementType=1) | pendiente_verificacion_pdf |
-| 77-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 207 PERSONAS Y A DOS (2) SEÑORAS EN VIRTUD DEL MARCO DEL CONVENIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400796&managementType=1) | pendiente_verificacion_pdf |
-| 78-23 | 26/02/2023 | 11101 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A FRANCISCO ANTONIO PEÑA TAVÁREZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400797&managementType=1) | pendiente_verificacion_pdf |
-| 79-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS Y AUMENTA EL MONTO DE PENSIONES CONCEDIDAS A TRES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400798&managementType=1) | pendiente_verificacion_pdf |
-| 80-23 | 26/02/2023 | 11101 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A DORKA QUEZADA FÉLIX. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400811&managementType=1) | pendiente_verificacion_pdf |
-| 81-23 | 26/02/2023 | 11101 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A MANUEL ANTONIO QUIROZ CEPEDA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400812&managementType=1) | pendiente_verificacion_pdf |
-| 82-23 | 26/02/2023 | 11101 | QUE NOMBRA A OSMAR CONCEPCIÓN BENÍTEZ, EMBAJADOR EN EL SERVICIO INTERNO DEL MINISTERIO DE RELACIONES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400813&managementType=1) | pendiente_verificacion_pdf |
-| 83-23 | 03/03/2023 | 11103 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400825&managementType=1) | pendiente_verificacion_pdf |
-| 84-23 | 03/03/2023 | 11103 | QUE DEROGA EL ARTÍCULO 10 DEL DECRETO NÚM.666-22, QUE ESTABLECIÓ LA ZAFRA AZUCARERA PARA EL PERIODO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400832&managementType=1) | pendiente_verificacion_pdf |
-| 85-23 | 03/03/2023 | 11103 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400833&managementType=1) | pendiente_verificacion_pdf |
-| 86-23 | 08/03/2023 | 11103 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER DOMINICANA 2023 A CATORCE (14) DAMAS DOMINICANAS, CON MO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400826&managementType=1) | pendiente_verificacion_pdf |
-| 87-23 | 09/03/2023 | 11103 | QUE SUSPENDE LA DESIGNACIÓN DE LA SEÑORA LUZ DEL ALBA JIMÉNEZ RAMÍREZ, COMO VICECÓNSUL DE LA REPÚBLI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400834&managementType=1) | pendiente_verificacion_pdf |
-| 88-23 | 09/03/2023 | 11103 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400827&managementType=1) | pendiente_verificacion_pdf |
-| 89-23 | 09/03/2023 | 11103 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400835&managementType=1) | pendiente_verificacion_pdf |
-| 90-23 | 09/03/2023 | 11103 | QUE MODIFICA VARIOS DECRETOS QUE CONCEDIERON INCORPORACIÓN A DISTINTAS COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400836&managementType=1) | pendiente_verificacion_pdf |
-| 91-23 | 09/03/2023 | 11103 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 17,200.00 METROS CUADRADO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400828&managementType=1) | pendiente_verificacion_pdf |
-| 92-23 | 09/03/2023 | 11103 | QUE NOMBRA A MANUEL ROMÁN TEJADA PINEDA, SUBDIRECTOR GENERAL DE BIENES NACIONALES. DEROGA EL ARTÍCUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400837&managementType=1) | pendiente_verificacion_pdf |
-| 93-23 | 09/03/2023 | 11103 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A SESENTA (60) DAMAS DOMINICANAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400829&managementType=1) | pendiente_verificacion_pdf |
-| 94-23 | 09/03/2023 | 11103 | QUE CONFIRMA AL SEÑOR EDDY ANTONIO ALCÁNTARA CASTILLO, COMO DIRECTOR EJECUTIVO DEL INSTITUTO NACIONA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400838&managementType=1) | pendiente_verificacion_pdf |
-| 95-23 | 13/03/2023 | 11103 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400839&managementType=1) | pendiente_verificacion_pdf |
-| 96-23 | 13/03/2023 | 11103 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400840&managementType=1) | pendiente_verificacion_pdf |
-| 97-23 | 13/03/2023 | 11103 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 13,984,411 METROS CUADRAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400841&managementType=1) | pendiente_verificacion_pdf |
-| 98-23 | 13/03/2023 | 11103 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA FRANJA DE TERRENO DE 30 METROS DE ANCHO A TODO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400842&managementType=1) | pendiente_verificacion_pdf |
-| 99-23 | 13/03/2023 | 11103 | QUE DEROGA 1OS DECRETOS QUE NOMBRARON DOS (2) VICECÓNSULES Y TRES (3) AUXILIARES CONSULARES DE LA RE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400843&managementType=1) | pendiente_verificacion_pdf |
-| 100-23 | 15/03/2023 | 11103 | QUE DEROGA LOS DECRETOS QUE NOMBRARON UNA EMBAJADORA ALTERNA EN LA MISIÓN PERMANENTE DE LA REPUBLICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400844&managementType=1) | pendiente_verificacion_pdf |
+| 23-23 | 02/02/2023 | 11098 | QUE CREA EL PARQUE INDUSTRIAL LA CEIBA, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE LA COMPAÑÍA OP... | [Ver documento](decreto-023-2023.md) | normalizado · pendiente_revision |
+| 24-23 | 02/02/2023 | 11098 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM.118-22. DISPONE QUE EL PARQUE INDUSTRIAL EDUARDO LEÓN JIM... | [Ver documento](decreto-024-2023.md) | normalizado · pendiente_revision |
+| 25-23 | 02/02/2023 | 11098 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM.128-21. ESTABLECE QUE EL PARQUE DE ZONAS FRANCAS INDUSTRI... | [Ver documento](decreto-025-2023.md) | normalizado · pendiente_revision |
+| 26-23 | 02/02/2023 | 11098 | QUE NOMBRA A GEORGES BASHA HAZIM Y FEDERICO ALBERTO CUELLO CAMILO, EMBAJADORES EXTRAORDINARIOS Y PLE... | [Ver documento](decreto-026-2023.md) | normalizado · pendiente_revision |
+| 27-23 | 06/02/2023 | 11098 | QUE NOMBRA A LEONIDAS RADHAMÉS PEÑA DIAZ Y FRANCISCO TAMÁREZ FLORENTINO, ENCARGADOS DE LA UNIDAD ANT... | [Ver documento](decreto-027-2023.md) | normalizado · pendiente_revision |
+| 28-23 | 06/02/2023 | 11098 | QUE CREA LA UNIDAD EJECUTORA (ECO5RD), COMO DEPENDENCIA DE LA PRESIDENCIA DE LA REPUBLICA, CON EL FI... | [Ver documento](decreto-028-2023.md) | normalizado · pendiente_revision |
+| 29-23 | 07/02/2023 | 11098 | QUE NOMBRA A JULIO SIMÓN CASTAÑOS ZOUAIN Y BRIUNNY GARABITO SEGURA, EMBAJADORES EXTRAORDINARIOS Y PL... | [Ver documento](decreto-029-2023.md) | normalizado · pendiente_revision |
+| 30-23 | 07/02/2023 | 11098 | DISPONE QUE LAS EMPRESAS DEBIDAMENTE REGISTRADAS Y AUTORIZADAS COMO EMPRESAS IMPORTADORAS DE ARMAS, ... | [Ver documento](decreto-030-2023.md) | normalizado · pendiente_revision |
+| 31-23 | 08/02/2023 | 11099 | QUE NOMBRA A HENRY ARTURO MERCEDES VALES, DIRECTOR GENERAL DE MECENAZGO. | [Ver documento](decreto-031-2023.md) | normalizado · pendiente_revision |
+| 32-23 | 09/02/2023 | 11099 | QUE DECLARA DE EMERGENCIA LAS COMPRAS, Y CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS PARA SER UTILIZ... | [Ver documento](decreto-032-2023.md) | normalizado · pendiente_revision |
+| 33-23 | 13/02/2023 | 11099 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO RUBÉN ... | [Ver documento](decreto-033-2023.md) | normalizado · pendiente_revision |
+| 34-23 | 13/02/2023 | 11099 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO MÁXIMO... | [Ver documento](decreto-034-2023.md) | normalizado · pendiente_revision |
+| 35-23 | 13/02/2023 | 11099 | QUE NOMBRA A REYMUNDO ANTONIO GARRIDO LANTIGUA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURR... | [Ver documento](decreto-035-2023.md) | normalizado · pendiente_revision |
+| 36-23 | 13/02/2023 | 11099 | QUE MODIFICA EL DEC. NÚM.573-22. CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIV... | [Ver documento](decreto-036-2023.md) | normalizado · pendiente_revision |
+| 37-23 | 13/02/2023 | 11099 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-037-2023.md) | normalizado · pendiente_revision |
+| 38-23 | 13/02/2023 | 11099 | QUE CREA EL PARQUE DE ZONAS FRANCAS MULTIMODAL SAN FRANCISCO DE JACAGUA, BAJO LA ADMINISTRACIÓN TÉCN... | [Ver documento](decreto-038-2023.md) | normalizado · pendiente_revision |
+| 39-23 | 13/02/2023 | 11099 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-039-2023.md) | normalizado · pendiente_revision |
+| 40-23 | 13/02/2023 | 11099 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-040-2023.md) | normalizado · pendiente_revision |
+| 41-23 | 13/02/2023 | 11099 | QUE NOMBRA AL SEÑOR JOSÉ ARICES MOYA MEJÍA, SUBDIRECTOR GENERAL DE BIENES NACIONALES. DEROGA LOS ART... | [Ver documento](decreto-041-2023.md) | normalizado · pendiente_revision |
+| 42-23 | 13/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-042-2023.md) | normalizado · pendiente_revision |
+| 43-23 | 13/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-043-2023.md) | normalizado · pendiente_revision |
+| 44-23 | 14/02/2023 | 11099 | QUE ORDENA AL MINISTERIO DE SALUD PÚBLICA Y ASISTENCIA SOCIAL, CREAR A TRAVÉS DE LA DIRECCIÓN GENERA... | [Ver documento](decreto-044-2023.md) | normalizado · pendiente_revision |
+| 45-23 | 14/02/2023 | 11099 | QUE INTRODUCE MODIFICACIONES AL DEC. NÚM.117-18, QUE APROBÓ EL REGLAMENTO PARA LA RENOVACIÓN AUTOMÁT... | [Ver documento](decreto-045-2023.md) | normalizado · pendiente_revision |
+| 46-23 | 14/02/2023 | 11099 | QUE DESIGNA MIEMBROS DE LA JUNTA DIRECTIVA DE LA DIRECCIÓN NACIONAL DE CONTROL DE DROGAS. | [Ver documento](decreto-046-2023.md) | normalizado · pendiente_revision |
+| 47-23 | 14/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-047-2023.md) | normalizado · pendiente_revision |
+| 48-23 | 14/02/2023 | 11099 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLON EN EL GRADO DE CABALLERO, A LA... | [Ver documento](decreto-048-2023.md) | normalizado · pendiente_revision |
+| 49-23 | 14/02/2023 | 11099 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NÚM.1400 DEL AÑO 1983, ARTÍCULO 1, LITERAL... | [Ver documento](decreto-049-2023.md) | normalizado · pendiente_revision |
+| 50-23 | 14/02/2023 | 11099 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE U... | [Ver documento](decreto-050-2023.md) | normalizado · pendiente_revision |
+| 51-23 | 14/02/2023 | 11099 | QUE AUTORIZA AL MAYOR GENERAL PILOTO LEONEL AMÍLCAR MUÑOZ NOBOA, FARD, A ACEPTAR Y USAR LA MEDALLA O... | [Ver documento](decreto-051-2023.md) | normalizado · pendiente_revision |
+| 52-23 | 14/02/2023 | 11099 | QUE NOMBRA A JULIO AMAURY JUSTO DUARTE, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, DE... | [Ver documento](decreto-052-2023.md) | normalizado · pendiente_revision |
+| 53-23 | 14/02/2023 | 11099 | QUE NOMBRA SIETE (7) VICECÓNSULES Y DOS (2) AUXILIARES CONSULARES DE LA REPÚBLICA EN DISTINTOS PAÍSE... | [Ver documento](decreto-053-2023.md) | normalizado · pendiente_revision |
+| 54-23 | 14/02/2023 | 11099 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-054-2023.md) | normalizado · pendiente_revision |
+| 55-23 | 15/02/2023 | 11101 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 6-23. ESTABLECE QUE LAS DISPOSICIONES DEL CITADO DECRETO AP... | [Ver documento](decreto-055-2023.md) | normalizado · pendiente_revision |
+| 56-23 | 16/02/2023 | 11101 | QUE AUTORIZA A VARIOS OFICIALES DEL EJÉRCITO, DE LA FUERZA AÉREA Y DE LA ARMADA DE LA REPÚBLICA DOMI... | [Ver documento](decreto-056-2023.md) | normalizado · pendiente_revision |
+| 57-23 | 16/02/2023 | 11101 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN V... | [Ver documento](decreto-057-2023.md) | normalizado · pendiente_revision |
+| 58-23 | 16/02/2023 | 11101 | QUE FACULTA A LA DIRECCIÓN GENERAL DE MEDICAMENTOS, ALIMENTOS Y PRODUCTOS SANITARIOS, DEL MINISTERIO... | [Ver documento](decreto-058-2023.md) | normalizado · pendiente_revision |
+| 59-23 | 16/02/2023 | 11101 | QUE DEROGA EL DEC. NÚM.747-22, QUE DECLARÓ DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, POR PARTE DEL ESTAD... | [Ver documento](decreto-059-2023.md) | normalizado · pendiente_revision |
+| 60-23 | 16/02/2023 | 11101 | MEDIANTE EL CUAL SE INSTITUYEN LOS PREMIOS ANUALES DEL CARNAVAL DOMINICANO SIGUIENTES: PREMIO FELIPE... | [Ver documento](decreto-060-2023.md) | normalizado · pendiente_revision |
+| 61-23 | 16/02/2023 | 11101 | QUE CONCEDE LA CONDECORACIÓN ORDEN DEL MÉRITO AÉREO CON DISTINTIVO BLANCO EN SUS DIFERENTES CATEGORÍ... | [Ver documento](decreto-061-2023.md) | normalizado · pendiente_revision |
+| 62-23 | 17/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-062-2023.md) | normalizado · pendiente_revision |
+| 63-23 | 20/02/2023 | 11101 | QUE NOMBRA A RICHARD JAMES COLLIE BETANCES, CÓNSUL GENERAL DE LA REPÚBLICA EN TOKIO, JAPÓN. DEROGA E... | [Ver documento](decreto-063-2023.md) | normalizado · pendiente_revision |
+| 64-23 | 20/02/2023 | 11101 | QUE AUTORIZA A LA COMPAÑÍA GLS GLOBAL LINK SOLUTIONS, SAS, SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMI... | [Ver documento](decreto-064-2023.md) | normalizado · pendiente_revision |
+| 65-23 | 20/02/2023 | 11101 | QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM.57-07, DE INCENTIVO AL DESARROLLO DE FUENTES... | [Ver documento](decreto-065-2023.md) | normalizado · pendiente_revision |
+| 66-23 | 22/02/2023 | 11101 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DOMINICANO Y AUMENTA EL MONTO DE PENSIONES CONCEDIDAS A ... | [Ver documento](decreto-066-2023.md) | normalizado · pendiente_revision |
+| 67-23 | 26/02/2023 | 11101 | QUE COLOCA EN SITUACIÓN DE RETIRO Y LES CONCEDE LA PENSIÓN CORRESPONDIENTE A DOS (2) MAYORES GENERAL... | [Ver documento](decreto-067-2023.md) | normalizado · pendiente_revision |
+| 68-23 | 26/02/2023 | 11101 | QUE ASCIENDE A DOS (2) GENERALES DE BRIGADA AL RANGO DE MAYOR GENERAL DEL EJÉRCITO Y A SIETE (7) COR... | [Ver documento](decreto-068-2023.md) | normalizado · pendiente_revision |
+| 69-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 312 PERSONAS. | [Ver documento](decreto-069-2023.md) | normalizado · pendiente_revision |
+| 70-23 | 26/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-070-2023.md) | normalizado · pendiente_revision |
+| 71-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A EX SERVIDORES PÚBLICOS. | [Ver documento](decreto-071-2023.md) | normalizado · pendiente_revision |
+| 72-23 | 26/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-072-2023.md) | normalizado · pendiente_revision |
+| 73-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 175 EX SERVIDORES PÚBLICOS. | [Ver documento](decreto-073-2023.md) | normalizado · pendiente_revision |
+| 74-23 | 26/02/2023 | 11101 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-074-2023.md) | normalizado · pendiente_revision |
+| 75-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 40 EX SERVIDORES PÚBLICOS. | [Ver documento](decreto-075-2023.md) | normalizado · pendiente_revision |
+| 76-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 64 EMPLEADOS DEL SECTOR SALUD. | [Ver documento](decreto-076-2023.md) | normalizado · pendiente_revision |
+| 77-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A 207 PERSONAS Y A DOS (2) SEÑORAS EN VIRTUD DEL MARCO DEL CONVENIO... | [Ver documento](decreto-077-2023.md) | normalizado · pendiente_revision |
+| 78-23 | 26/02/2023 | 11101 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A FRANCISCO ANTONIO PEÑA TAVÁREZ. | [Ver documento](decreto-078-2023.md) | normalizado · pendiente_revision |
+| 79-23 | 26/02/2023 | 11101 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS Y AUMENTA EL MONTO DE PENSIONES CONCEDIDAS A TRES... | [Ver documento](decreto-079-2023.md) | normalizado · pendiente_revision |
+| 80-23 | 26/02/2023 | 11101 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A DORKA QUEZADA FÉLIX. | [Ver documento](decreto-080-2023.md) | normalizado · pendiente_revision |
+| 81-23 | 26/02/2023 | 11101 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A MANUEL ANTONIO QUIROZ CEPEDA. | [Ver documento](decreto-081-2023.md) | normalizado · pendiente_revision |
+| 82-23 | 26/02/2023 | 11101 | QUE NOMBRA A OSMAR CONCEPCIÓN BENÍTEZ, EMBAJADOR EN EL SERVICIO INTERNO DEL MINISTERIO DE RELACIONES... | [Ver documento](decreto-082-2023.md) | normalizado · pendiente_revision |
+| 83-23 | 03/03/2023 | 11103 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-083-2023.md) | normalizado · pendiente_revision |
+| 84-23 | 03/03/2023 | 11103 | QUE DEROGA EL ARTÍCULO 10 DEL DECRETO NÚM.666-22, QUE ESTABLECIÓ LA ZAFRA AZUCARERA PARA EL PERIODO ... | [Ver documento](decreto-084-2023.md) | normalizado · pendiente_revision |
+| 85-23 | 03/03/2023 | 11103 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-085-2023.md) | normalizado · pendiente_revision |
+| 86-23 | 08/03/2023 | 11103 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER DOMINICANA 2023 A CATORCE (14) DAMAS DOMINICANAS, CON MO... | [Ver documento](decreto-086-2023.md) | normalizado · pendiente_revision |
+| 87-23 | 09/03/2023 | 11103 | QUE SUSPENDE LA DESIGNACIÓN DE LA SEÑORA LUZ DEL ALBA JIMÉNEZ RAMÍREZ, COMO VICECÓNSUL DE LA REPÚBLI... | [Ver documento](decreto-087-2023.md) | normalizado · pendiente_revision |
+| 88-23 | 09/03/2023 | 11103 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS... | [Ver documento](decreto-088-2023.md) | normalizado · pendiente_revision |
+| 89-23 | 09/03/2023 | 11103 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-089-2023.md) | normalizado · pendiente_revision |
+| 90-23 | 09/03/2023 | 11103 | QUE MODIFICA VARIOS DECRETOS QUE CONCEDIERON INCORPORACIÓN A DISTINTAS COOPERATIVAS. | [Ver documento](decreto-090-2023.md) | normalizado · pendiente_revision |
+| 91-23 | 09/03/2023 | 11103 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 17,200.00 METROS CUADRADO... | [Ver documento](decreto-091-2023.md) | normalizado · pendiente_revision |
+| 92-23 | 09/03/2023 | 11103 | QUE NOMBRA A MANUEL ROMÁN TEJADA PINEDA, SUBDIRECTOR GENERAL DE BIENES NACIONALES. DEROGA EL ARTÍCUL... | [Ver documento](decreto-092-2023.md) | normalizado · pendiente_revision |
+| 93-23 | 09/03/2023 | 11103 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A SESENTA (60) DAMAS DOMINICANAS. | [Ver documento](decreto-093-2023.md) | normalizado · pendiente_revision |
+| 94-23 | 09/03/2023 | 11103 | QUE CONFIRMA AL SEÑOR EDDY ANTONIO ALCÁNTARA CASTILLO, COMO DIRECTOR EJECUTIVO DEL INSTITUTO NACIONA... | [Ver documento](decreto-094-2023.md) | normalizado · pendiente_revision |
+| 95-23 | 13/03/2023 | 11103 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-095-2023.md) | normalizado · pendiente_revision |
+| 96-23 | 13/03/2023 | 11103 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-096-2023.md) | normalizado · pendiente_revision |
+| 97-23 | 13/03/2023 | 11103 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 13,984,411 METROS CUADRAD... | [Ver documento](decreto-097-2023.md) | normalizado · pendiente_revision |
+| 98-23 | 13/03/2023 | 11103 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA FRANJA DE TERRENO DE 30 METROS DE ANCHO A TODO ... | [Ver documento](decreto-098-2023.md) | normalizado · pendiente_revision |
+| 99-23 | 13/03/2023 | 11103 | QUE DEROGA 1OS DECRETOS QUE NOMBRARON DOS (2) VICECÓNSULES Y TRES (3) AUXILIARES CONSULARES DE LA RE... | [Ver documento](decreto-099-2023.md) | normalizado · pendiente_revision |
+| 100-23 | 15/03/2023 | 11103 | QUE DEROGA LOS DECRETOS QUE NOMBRARON UNA EMBAJADORA ALTERNA EN LA MISIÓN PERMANENTE DE LA REPUBLICA... | [Ver documento](decreto-100-2023.md) | normalizado · pendiente_revision |
 | 101-23 | 15/03/2023 | 11103 | QUE NOMBRA A DAVIDIA DEL CARMEN JIMÉNEZ AGRAMONTE E IRINA MARLOT SANTANA SÁNCHEZ, VICECÓNSULES DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400845&managementType=1) | pendiente_verificacion_pdf |
 | 102-23 | 15/03/2023 | 11103 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO AL SEÑOR GABRIEL ALCANGE CASTRO GONZÁLEZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400846&managementType=1) | pendiente_verificacion_pdf |
 | 103-23 | 15/03/2023 | 11103 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400847&managementType=1) | pendiente_verificacion_pdf |
