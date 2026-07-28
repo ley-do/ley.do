@@ -9,7 +9,7 @@ Documentos detectados: **708**.
 
 ## Registros con numeración atípica
 
-- El registro `108-23` aparece en la consulta oficial agrupada bajo 2024, pero su sufijo documental corresponde a 2023. No se generó un paquete ficticio `108-2024`; queda señalado para su tratamiento en el corpus 2023.
+- El registro aparece como `108-23` en la metadata oficial, pero el PDF indica `Dec. núm. 108-24`. Se conserva la discrepancia y el paquete se normaliza como Decreto núm. 108-2024, pendiente de revisión humana.
 - El registro `692--24` contiene un doble guion en la metadata oficial. Se conserva esa observación y el paquete se normaliza como Decreto núm. 692-2024 únicamente cuando el encabezado del PDF lo confirma.
 
 ## Documentos normalizados inicialmente
@@ -121,6 +121,7 @@ Documentos detectados: **708**.
 - [Decreto núm. 105-2024](decreto-105-2024.md)
 - [Decreto núm. 106-2024](decreto-106-2024.md)
 - [Decreto núm. 107-2024](decreto-107-2024.md)
+- [Decreto núm. 108-2024](decreto-108-2024.md)
 - [Decreto núm. 109-2024](decreto-109-2024.md)
 - [Decreto núm. 110-2024](decreto-110-2024.md)
 - [Decreto núm. 111-2024](decreto-111-2024.md)
@@ -833,7 +834,7 @@ Documentos detectados: **708**.
 | 105-24 | 22/02/2024 | 11143 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 6 PERSONAS Y AUMENTA EL MONTO DE LAS PENSIONES ASIGNAD... | [Ver documento](decreto-105-2024.md) | normalizado · pendiente_revision |
 | 106-24 | 22/02/2024 | 11143 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 61-24. DESIGNA AL CORONEL CARLOS MANUEL BUENAVENTURA CAB... | [Ver documento](decreto-106-2024.md) | normalizado · pendiente_revision |
 | 107-24 | 23/02/2024 | 11143 | QUE NOMBRA A LA SEÑORA MICHELLE COHÉN DE FRIEDLANDER, EMBAJADORA EN EL SERVICIO INTERNO DEL MINISTER... | [Ver documento](decreto-107-2024.md) | normalizado · pendiente_revision |
-| 108-23 | 23/02/2024 | 11143 | QUE DEROGA LOS NUMERALES DEL 25 AL 31 DEL ARTÍCULO 1 DEL DECRETO NÚM. 460-23, QUE CONCEDIÓ PENSIONES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401943&managementType=1) | fuera_de_anio · pendiente_revision |
+| 108-23 | 23/02/2024 | 11143 | QUE DEROGA LOS NUMERALES DEL 25 AL 31 DEL ARTÍCULO 1 DEL DECRETO NÚM. 460-23, QUE CONCEDIÓ PENSIONES... | [Ver documento](decreto-108-2024.md) | normalizado_con_alerta · pendiente_revision |
 | 109-24 | 23/02/2024 | 11143 | QUE CONCEDE PENSIONES DEL ESTADO A DOS SERVIDORES PÚBLICOS DEL SECTOR SALUD. | [Ver documento](decreto-109-2024.md) | normalizado · pendiente_revision |
 | 110-24 | 23/02/2024 | 11143 | QUE MODIFICA EL DECRETO NÚM. 679-23. AUTORIZA AL CAPITÁN DE CORBETA DIÓGENES ASMED FULCAR DE LOS SAN... | [Ver documento](decreto-110-2024.md) | normalizado · pendiente_revision |
 | 111-24 | 26/02/2024 | 11143 | CREA EL PARQUE DE ZONAS FRANCAS DENOMINADO PARQUE INDUSTRIAL DASSTORAGE, BAJO LA ADMINISTRACIÓN TÉCN... | [Ver documento](decreto-111-2024.md) | normalizado · pendiente_revision |
