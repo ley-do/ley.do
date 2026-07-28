@@ -350,7 +350,32 @@ Documentos detectados: **406**.
 - [Decreto núm. 339-2026](decreto-339-2026.md)
 - [Decreto núm. 340-2026](decreto-340-2026.md)
 - [Decreto núm. 341-2026](decreto-341-2026.md)
+- [Decreto núm. 342-2026](decreto-342-2026.md)
+- [Decreto núm. 343-2026](decreto-343-2026.md)
+- [Decreto núm. 344-2026](decreto-344-2026.md)
+- [Decreto núm. 345-2026](decreto-345-2026.md)
+- [Decreto núm. 346-2026](decreto-346-2026.md)
+- [Decreto núm. 347-2026](decreto-347-2026.md)
+- [Decreto núm. 348-2026](decreto-348-2026.md)
+- [Decreto núm. 349-2026](decreto-349-2026.md)
+- [Decreto núm. 350-2026](decreto-350-2026.md)
+- [Decreto núm. 351-2026](decreto-351-2026.md)
 - [Decreto núm. 352-2026](decreto-352-2026.md)
+- [Decreto núm. 353-2026](decreto-353-2026.md)
+- [Decreto núm. 354-2026](decreto-354-2026.md)
+- [Decreto núm. 355-2026](decreto-355-2026.md)
+- [Decreto núm. 356-2026](decreto-356-2026.md)
+- [Decreto núm. 357-2026](decreto-357-2026.md)
+- [Decreto núm. 358-2026](decreto-358-2026.md)
+- [Decreto núm. 359-2026](decreto-359-2026.md)
+- [Decreto núm. 360-2026](decreto-360-2026.md)
+- [Decreto núm. 361-2026](decreto-361-2026.md)
+- [Decreto núm. 362-2026](decreto-362-2026.md)
+- [Decreto núm. 363-2026](decreto-363-2026.md)
+- [Decreto núm. 364-2026](decreto-364-2026.md)
+- [Decreto núm. 365-2026](decreto-365-2026.md)
+- [Decreto núm. 366-2026](decreto-366-2026.md)
+- [Decreto núm. 367-2026](decreto-367-2026.md)
 - [Decreto núm. 409-2026](decreto-409-2026.md)
 - [Decreto núm. 438-2026](decreto-438-2026.md)
 - [Decreto núm. 444-2026](decreto-444-2026.md)
@@ -700,32 +725,32 @@ Documentos detectados: **406**.
 | 339-26 | 22/05/2026 | 11243 | QUE DESIGNA AL SEÑOR OSIRIS ANTONIO DECENA ESPINAL, VICEMINISTRO DE SEGURIDAD ENERGÉTICA E INFRAESTR... | [Ver documento](decreto-339-2026.md) | normalizado · pendiente_revision |
 | 340-26 | 22/05/2026 | 11243 | QUE MODIFICA EL NUMERAL 93 DEL ARTÍCULO 1 DEL DECRETO NÚM. 284-96. ASIGNA AL SEÑOR JUAN CARLOS DE LO... | [Ver documento](decreto-340-2026.md) | normalizado · pendiente_revision |
 | 341-26 | 22/05/2026 | 11243 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA AL SEÑOR JUAN ALBER... | [Ver documento](decreto-341-2026.md) | normalizado · pendiente_revision |
-| 342-26 | 22/05/2026 | 11243 | QUE DESIGNA SIETE (7) VICECÓNSULES Y UN AUXILIAR CONSULAR DE NUESTRO PAÍS EN DIFERENTES CIUDADES. DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404882&managementType=1) | pendiente_verificacion_pdf |
-| 343-26 | 22/05/2026 | 11243 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404883&managementType=1) | pendiente_verificacion_pdf |
-| 344-26 | 25/05/2026 | 11243 | DISPONE QUE LAS INSTITUCIONES SUJETAS AL ÁMBITO DE APLICACIÓN DE LA LEY NÚM. 47-25, DE CONTRATACIONE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404884&managementType=1) | pendiente_verificacion_pdf |
-| 345-26 | 27/05/2026 | 11243 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚM. 276-04. AUTORIZA AL AYUNTAMIENTO DEL DISTRITO NACIONAL A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404885&managementType=1) | pendiente_verificacion_pdf |
-| 346-26 | 27/05/2026 | 11243 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO DAVID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404886&managementType=1) | pendiente_verificacion_pdf |
-| 347-26 | 27/05/2026 | 11243 | QUE AUTORIZA LA EMISIÓN DE MIL MILLONES DE ESTAMPILLAS PARA FÓSFOROS DE RD$0.19. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404887&managementType=1) | pendiente_verificacion_pdf |
-| 348-26 | 29/05/2026 | 11243 | QUE DESIGNA AL SEÑOR JHOAN CARLOS RAMÍREZ GARCÍA, PRIMER SECRETARIO EN EL SERVICIO INTERNO DEL MINIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404888&managementType=1) | pendiente_verificacion_pdf |
-| 349-26 | 01/06/2026 | 11244 | QUE DISPONE LA APERTURA DE LOS CONSULADOS GENERALES DE LA REPÚBLICA DOMINICANA EN SANTIAGO, REPÚBLIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405845&managementType=1) | pendiente_verificacion_pdf |
-| 350-26 | 01/06/2026 | 11244 | QUE DESIGNA A LOS SEÑORES ROBERT RAMÓN ARIAS FERNÁNDEZ, JUAN MERCEDES MATEO GUERRERO Y MARÍA LUISA U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405853&managementType=1) | pendiente_verificacion_pdf |
-| 351-26 | 01/06/2026 | 11244 | QUE DESIGNA AL SEÑOR HÉCTOR PASTOR VÁSQUEZ FRÍAS, CÓNSUL GENERAL DE NUESTRO PAÍS EN CARACAS, REPÚBLI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405854&managementType=1) | pendiente_verificacion_pdf |
+| 342-26 | 22/05/2026 | 11243 | QUE DESIGNA SIETE (7) VICECÓNSULES Y UN AUXILIAR CONSULAR DE NUESTRO PAÍS EN DIFERENTES CIUDADES. DE... | [Ver documento](decreto-342-2026.md) | normalizado · pendiente_revision |
+| 343-26 | 22/05/2026 | 11243 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-343-2026.md) | normalizado · pendiente_revision |
+| 344-26 | 25/05/2026 | 11243 | DISPONE QUE LAS INSTITUCIONES SUJETAS AL ÁMBITO DE APLICACIÓN DE LA LEY NÚM. 47-25, DE CONTRATACIONE... | [Ver documento](decreto-344-2026.md) | normalizado · pendiente_revision |
+| 345-26 | 27/05/2026 | 11243 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚM. 276-04. AUTORIZA AL AYUNTAMIENTO DEL DISTRITO NACIONAL A... | [Ver documento](decreto-345-2026.md) | normalizado · pendiente_revision |
+| 346-26 | 27/05/2026 | 11243 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO DAVID... | [Ver documento](decreto-346-2026.md) | normalizado · pendiente_revision |
+| 347-26 | 27/05/2026 | 11243 | QUE AUTORIZA LA EMISIÓN DE MIL MILLONES DE ESTAMPILLAS PARA FÓSFOROS DE RD$0.19. | [Ver documento](decreto-347-2026.md) | normalizado · pendiente_revision |
+| 348-26 | 29/05/2026 | 11243 | QUE DESIGNA AL SEÑOR JHOAN CARLOS RAMÍREZ GARCÍA, PRIMER SECRETARIO EN EL SERVICIO INTERNO DEL MINIS... | [Ver documento](decreto-348-2026.md) | normalizado · pendiente_revision |
+| 349-26 | 01/06/2026 | 11244 | QUE DISPONE LA APERTURA DE LOS CONSULADOS GENERALES DE LA REPÚBLICA DOMINICANA EN SANTIAGO, REPÚBLIC... | [Ver documento](decreto-349-2026.md) | normalizado · pendiente_revision |
+| 350-26 | 01/06/2026 | 11244 | QUE DESIGNA A LOS SEÑORES ROBERT RAMÓN ARIAS FERNÁNDEZ, JUAN MERCEDES MATEO GUERRERO Y MARÍA LUISA U... | [Ver documento](decreto-350-2026.md) | normalizado · pendiente_revision |
+| 351-26 | 01/06/2026 | 11244 | QUE DESIGNA AL SEÑOR HÉCTOR PASTOR VÁSQUEZ FRÍAS, CÓNSUL GENERAL DE NUESTRO PAÍS EN CARACAS, REPÚBLI... | [Ver documento](decreto-351-2026.md) | normalizado · pendiente_revision |
 | 352-26 | 02/06/2026 | 11244 | QUE DESIGNA A LOS SEÑORES JOSÉ GARCÍA RAMÍREZ, ROSA PASTORA MÉNDEZ MÉNDEZ Y ANÍBAL AMPARO, MIEMBROS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405846&managementType=1) | pendiente_verificacion_pdf |
-| 353-26 | 02/06/2026 | 11244 | QUE DISPONE LA ELABORACIÓN DE LA ESTRATEGIA MARÍTIMA DE LA REPÚBLICA DOMINICANA, COMO INSTRUMENTO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405847&managementType=1) | pendiente_verificacion_pdf |
-| 354-26 | 02/06/2026 | 11244 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$20,000.00 MENSUALES, A LA SEÑORA ÁNGELA YUDERKA MO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405855&managementType=1) | pendiente_verificacion_pdf |
-| 355-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405848&managementType=1) | pendiente_verificacion_pdf |
-| 356-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405856&managementType=1) | pendiente_verificacion_pdf |
-| 357-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A 288 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. DEC. NÚM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405857&managementType=1) | pendiente_verificacion_pdf |
-| 358-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A 237 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405849&managementType=1) | pendiente_verificacion_pdf |
-| 359-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER PROFESIONES DIFERENTES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405858&managementType=1) | pendiente_verificacion_pdf |
-| 360-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405859&managementType=1) | pendiente_verificacion_pdf |
-| 361-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405860&managementType=1) | pendiente_verificacion_pdf |
-| 362-26 | 02/06/2026 | 11244 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 24 PERSONAS. MODIFIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405850&managementType=1) | pendiente_verificacion_pdf |
-| 363-26 | 02/06/2026 | 11244 | QUE AUTORIZA AL SEÑOR AMAURY JUSTO DUARTE, PARA QUE PUEDA ACEPTAR USAR LA CONDECORACIÓN REAL DE “GRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405851&managementType=1) | pendiente_verificacion_pdf |
-| 364-26 | 02/06/2026 | 11244 | QUE AUTORIZA AL SEÑOR GUSTAVO ENRIQUE HERNANDO CASTILLO, PARA QUE PUEDA ACEPTAR USAR LA CONDECORACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405861&managementType=1) | pendiente_verificacion_pdf |
-| 365-26 | 02/06/2026 | 11244 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO CARLO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405862&managementType=1) | pendiente_verificacion_pdf |
-| 366-26 | 02/06/2026 | 11244 | QUE DESIGNA A LA SEÑORA PATRICIA SELMA VILLEGAS DE JORGE, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405863&managementType=1) | pendiente_verificacion_pdf |
-| 367-26 | 02/06/2026 | 11244 | QUE ACOGE LA RESOLUCIÓN NÚM. 6982 DEL 1 DE MAYO DE 2026, DICTADA POR LA COMISIÓN AEROPORTUARIA, EN V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405852&managementType=1) | pendiente_verificacion_pdf |
+| 353-26 | 02/06/2026 | 11244 | QUE DISPONE LA ELABORACIÓN DE LA ESTRATEGIA MARÍTIMA DE LA REPÚBLICA DOMINICANA, COMO INSTRUMENTO DE... | [Ver documento](decreto-353-2026.md) | normalizado · pendiente_revision |
+| 354-26 | 02/06/2026 | 11244 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$20,000.00 MENSUALES, A LA SEÑORA ÁNGELA YUDERKA MO... | [Ver documento](decreto-354-2026.md) | normalizado · pendiente_revision |
+| 355-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Ver documento](decreto-355-2026.md) | normalizado · pendiente_revision |
+| 356-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-356-2026.md) | normalizado · pendiente_revision |
+| 357-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A 288 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. DEC. NÚM... | [Ver documento](decreto-357-2026.md) | normalizado · pendiente_revision |
+| 358-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A 237 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Ver documento](decreto-358-2026.md) | normalizado · pendiente_revision |
+| 359-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER PROFESIONES DIFERENTES. | [Ver documento](decreto-359-2026.md) | normalizado · pendiente_revision |
+| 360-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Ver documento](decreto-360-2026.md) | normalizado · pendiente_revision |
+| 361-26 | 02/06/2026 | 11244 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-361-2026.md) | normalizado · pendiente_revision |
+| 362-26 | 02/06/2026 | 11244 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 24 PERSONAS. MODIFIC... | [Ver documento](decreto-362-2026.md) | normalizado · pendiente_revision |
+| 363-26 | 02/06/2026 | 11244 | QUE AUTORIZA AL SEÑOR AMAURY JUSTO DUARTE, PARA QUE PUEDA ACEPTAR USAR LA CONDECORACIÓN REAL DE “GRA... | [Ver documento](decreto-363-2026.md) | normalizado · pendiente_revision |
+| 364-26 | 02/06/2026 | 11244 | QUE AUTORIZA AL SEÑOR GUSTAVO ENRIQUE HERNANDO CASTILLO, PARA QUE PUEDA ACEPTAR USAR LA CONDECORACIÓ... | [Ver documento](decreto-364-2026.md) | normalizado · pendiente_revision |
+| 365-26 | 02/06/2026 | 11244 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO CARLO... | [Ver documento](decreto-365-2026.md) | normalizado · pendiente_revision |
+| 366-26 | 02/06/2026 | 11244 | QUE DESIGNA A LA SEÑORA PATRICIA SELMA VILLEGAS DE JORGE, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIAR... | [Ver documento](decreto-366-2026.md) | normalizado · pendiente_revision |
+| 367-26 | 02/06/2026 | 11244 | QUE ACOGE LA RESOLUCIÓN NÚM. 6982 DEL 1 DE MAYO DE 2026, DICTADA POR LA COMISIÓN AEROPORTUARIA, EN V... | [Ver documento](decreto-367-2026.md) | normalizado · pendiente_revision |
 | 368-26 | 08/06/2026 | 11246 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 573-25, QUE DESIGNÓ AL SEÑOR JAIME MARTE MARTÍNEZ, CÓNSUL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405865&managementType=1) | pendiente_verificacion_pdf |
 | 369-26 | 08/06/2026 | 11246 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405869&managementType=1) | pendiente_verificacion_pdf |
 | 370-26 | 08/06/2026 | 11246 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405870&managementType=1) | pendiente_verificacion_pdf |
