@@ -58,11 +58,17 @@ def markdown(n,year,d,pages,hpdf,state,trimmed):
     if trimmed: out += ["- El PDF contenía fragmentos de decretos vecinos; se delimitaron usando sus encabezados oficiales.\n"]
     return "".join(out)
 
-def run(repo,year,numbers):
+def run(repo,year,numbers,documentos_explicitos=None):
     inv=json.loads((repo/"fuentes"/f"consultoria_inventario_{year}_leyes_decretos.json").read_text(encoding="utf-8"))
     docs={nint(d.get("numero","")):d for d in inv["documentos"]["decretos"]}
+    docs_por_id={str(d.get("document_id_consultoria")):d for d in inv["documentos"]["decretos"]}
+    documentos_explicitos=documentos_explicitos or {}
     for n in numbers:
-        d=docs[n]; stem=f"decreto-{n:03d}-{year}"
+        document_id=documentos_explicitos.get(n)
+        if document_id is not None and str(document_id) not in docs_por_id:
+            raise KeyError(f"ID de documento no encontrado: {document_id}")
+        d=docs_por_id[str(document_id)] if document_id is not None else docs[n]
+        stem=f"decreto-{n:03d}-{year}"
         pdf=repo/"archivos"/"decretos"/str(year)/(stem+".pdf")
         md=repo/"docs"/"decretos"/str(year)/(stem+".md")
         js=repo/"datos"/"decretos"/str(year)/(stem+".json")
@@ -73,5 +79,10 @@ def run(repo,year,numbers):
         js.parent.mkdir(parents=True,exist_ok=True); js.write_text(json.dumps(meta,ensure_ascii=False,indent=2)+"\n",encoding="utf-8",newline="\n")
         print(f"OK {stem}: {len(pages)} página(s), PDF {hpdf[:12]}…, MD {hmd[:12]}…")
 def main():
-    p=argparse.ArgumentParser(); p.add_argument("--repo",type=Path,default=Path.cwd()); p.add_argument("--anio",type=int,required=True); p.add_argument("--numeros",required=True); a=p.parse_args(); run(a.repo.resolve(),a.anio,[int(x) for x in a.numeros.split(",")])
+    p=argparse.ArgumentParser(); p.add_argument("--repo",type=Path,default=Path.cwd()); p.add_argument("--anio",type=int,required=True); p.add_argument("--numeros",required=True); p.add_argument("--documentos",default="",help="Mapeo numero=document_id_consultoria separado por comas"); a=p.parse_args()
+    documentos={}
+    for item in a.documentos.split(","):
+        if item.strip():
+            numero,document_id=item.split("=",1); documentos[int(numero)]=document_id.strip()
+    run(a.repo.resolve(),a.anio,[int(x) for x in a.numeros.split(",")],documentos)
 if __name__=="__main__": main()

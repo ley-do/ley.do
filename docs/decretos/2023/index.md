@@ -7,6 +7,11 @@ Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecu
 
 Documentos detectados: **688**.
 
+## Registros con numeración atípica
+
+- El registro `755-22` corresponde documentalmente a 2022 aunque aparece en la consulta agrupada bajo 2023; no se generará un falso paquete 755-2023.
+- El segundo registro identificado en metadata como `544-23` (ID `3401558`) contiene en el PDF el encabezado `Dec. núm. 554-23`; se normalizará como Decreto núm. 554-2023 conservando la discrepancia para revisión humana.
+
 ## Documentos detectados
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
@@ -33,7 +38,7 @@ Documentos detectados: **688**.
 | 20-23 | 31/01/2023 | 11097 | QUE DESIGNA A JUAN JOSÉ PORTORREAL BRANDAO Y MANUEL DE JESÚS MORALES LAMA, EMBAJADORES EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400718&managementType=1) | pendiente_verificacion_pdf |
 | 21-23 | 31/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO AZUL, EN LAS CATEGORÍAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400729&managementType=1) | pendiente_verificacion_pdf |
 | 22-23 | 31/01/2023 | 11097 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO, EN LAS CATEGORÍA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400719&managementType=1) | pendiente_verificacion_pdf |
-| 755-22 | 01/02/2023 | 11097 | FE DE ERRATA:DEC. NÚM. 755 QUE APRUEBA EL REGLAMENTO GENERAL DE APLICACIÓN DE LA LEY NÚM. 168-22, DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400730&managementType=1) | pendiente_verificacion_pdf |
+| 755-22 | 01/02/2023 | 11097 | FE DE ERRATA:DEC. NÚM. 755 QUE APRUEBA EL REGLAMENTO GENERAL DE APLICACIÓN DE LA LEY NÚM. 168-22, DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400730&managementType=1) | fuera_de_anio · pendiente_revision |
 | 23-23 | 02/02/2023 | 11098 | QUE CREA EL PARQUE INDUSTRIAL LA CEIBA, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE LA COMPAÑÍA OP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400740&managementType=1) | pendiente_verificacion_pdf |
 | 24-23 | 02/02/2023 | 11098 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM.118-22. DISPONE QUE EL PARQUE INDUSTRIAL EDUARDO LEÓN JIM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400741&managementType=1) | pendiente_verificacion_pdf |
 | 25-23 | 02/02/2023 | 11098 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM.128-21. ESTABLECE QUE EL PARQUE DE ZONAS FRANCAS INDUSTRI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400746&managementType=1) | pendiente_verificacion_pdf |
