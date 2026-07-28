@@ -709,6 +709,77 @@ Documentos detectados: **793**.
 - [Decreto núm. 714-2022](decreto-714-2022.md)
 - [Decreto núm. 715-2022](decreto-715-2022.md)
 - [Decreto núm. 716-2022](decreto-716-2022.md)
+- [Decreto núm. 717-2022](decreto-717-2022.md)
+- [Decreto núm. 718-2022](decreto-718-2022.md)
+- [Decreto núm. 719-2022](decreto-719-2022.md)
+- [Decreto núm. 720-2022](decreto-720-2022.md)
+- [Decreto núm. 721-2022](decreto-721-2022.md)
+- [Decreto núm. 722-2022](decreto-722-2022.md)
+- [Decreto núm. 723-2022](decreto-723-2022.md)
+- [Decreto núm. 724-2022](decreto-724-2022.md)
+- [Decreto núm. 725-2022](decreto-725-2022.md)
+- [Decreto núm. 726-2022](decreto-726-2022.md)
+- [Decreto núm. 727-2022](decreto-727-2022.md)
+- [Decreto núm. 728-2022](decreto-728-2022.md)
+- [Decreto núm. 729-2022](decreto-729-2022.md)
+- [Decreto núm. 730-2022](decreto-730-2022.md)
+- [Decreto núm. 731-2022](decreto-731-2022.md)
+- [Decreto núm. 732-2022](decreto-732-2022.md)
+- [Decreto núm. 733-2022](decreto-733-2022.md)
+- [Decreto núm. 734-2022](decreto-734-2022.md)
+- [Decreto núm. 735-2022](decreto-735-2022.md)
+- [Decreto núm. 736-2022](decreto-736-2022.md)
+- [Decreto núm. 737-2022](decreto-737-2022.md)
+- [Decreto núm. 738-2022](decreto-738-2022.md)
+- [Decreto núm. 739-2022](decreto-739-2022.md)
+- [Decreto núm. 740-2022](decreto-740-2022.md)
+- [Decreto núm. 741-2022](decreto-741-2022.md)
+- [Decreto núm. 742-2022](decreto-742-2022.md)
+- [Decreto núm. 743-2022](decreto-743-2022.md)
+- [Decreto núm. 744-2022](decreto-744-2022.md)
+- [Decreto núm. 745-2022](decreto-745-2022.md)
+- [Decreto núm. 746-2022](decreto-746-2022.md)
+- [Decreto núm. 747-2022](decreto-747-2022.md)
+- [Decreto núm. 748-2022](decreto-748-2022.md)
+- [Decreto núm. 749-2022](decreto-749-2022.md)
+- [Decreto núm. 750-2022](decreto-750-2022.md)
+- [Decreto núm. 751-2022](decreto-751-2022.md)
+- [Decreto núm. 752-2022](decreto-752-2022.md)
+- [Decreto núm. 753-2022](decreto-753-2022.md)
+- [Decreto núm. 754-2022](decreto-754-2022.md)
+- [Decreto núm. 756-2022](decreto-756-2022.md)
+- [Decreto núm. 757-2022](decreto-757-2022.md)
+- [Decreto núm. 758-2022](decreto-758-2022.md)
+- [Decreto núm. 759-2022](decreto-759-2022.md)
+- [Decreto núm. 760-2022](decreto-760-2022.md)
+- [Decreto núm. 761-2022](decreto-761-2022.md)
+- [Decreto núm. 762-2022](decreto-762-2022.md)
+- [Decreto núm. 763-2022](decreto-763-2022.md)
+- [Decreto núm. 764-2022](decreto-764-2022.md)
+- [Decreto núm. 765-2022](decreto-765-2022.md)
+- [Decreto núm. 766-2022](decreto-766-2022.md)
+- [Decreto núm. 767-2022](decreto-767-2022.md)
+- [Decreto núm. 768-2022](decreto-768-2022.md)
+- [Decreto núm. 769-2022](decreto-769-2022.md)
+- [Decreto núm. 770-2022](decreto-770-2022.md)
+- [Decreto núm. 771-2022](decreto-771-2022.md)
+- [Decreto núm. 772-2022](decreto-772-2022.md)
+- [Decreto núm. 773-2022](decreto-773-2022.md)
+- [Decreto núm. 774-2022](decreto-774-2022.md)
+- [Decreto núm. 775-2022](decreto-775-2022.md)
+- [Decreto núm. 776-2022](decreto-776-2022.md)
+- [Decreto núm. 777-2022](decreto-777-2022.md)
+- [Decreto núm. 778-2022](decreto-778-2022.md)
+- [Decreto núm. 779-2022](decreto-779-2022.md)
+- [Decreto núm. 780-2022](decreto-780-2022.md)
+- [Decreto núm. 781-2022](decreto-781-2022.md)
+- [Decreto núm. 782-2022](decreto-782-2022.md)
+- [Decreto núm. 783-2022](decreto-783-2022.md)
+- [Decreto núm. 784-2022](decreto-784-2022.md)
+- [Decreto núm. 785-2022](decreto-785-2022.md)
+- [Decreto núm. 786-2022](decreto-786-2022.md)
+- [Decreto núm. 787-2022](decreto-787-2022.md)
+- [Decreto núm. 788-2022](decreto-788-2022.md)
 
 ## Documentos detectados
 
@@ -1435,78 +1506,78 @@ Documentos detectados: **793**.
 | 714-22 | 29/11/2022 | 11089 | QUE CONFIRMA A JULIO CÉSAR LLIBRE SALCEDO, SERGIA ELENA MEJÍA DE PEÑA Y RICARDO ROJAS LEÓN, COMO MIE... | [Ver documento](decreto-714-2022.md) | normalizado · pendiente_revision |
 | 715-22 | 29/11/2022 | 11089 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-715-2022.md) | normalizado · pendiente_revision |
 | 716-22 | 29/11/2022 | 11089 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-716-2022.md) | normalizado · pendiente_revision |
-| 717-22 | 30/11/2022 | 11089 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARIAS PERSONAS Y ELEVA LOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400606&managementType=1) | pendiente_verificacion_pdf |
-| 718-22 | 30/11/2022 | 11089 | QUE COLOCA EN LA HONROSA CONDICIÓN DE RETIRO VOLUNTARIO Y POR DISCAPACIDAD, ASÍ COMO RETIRO VOLUNTAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400607&managementType=1) | pendiente_verificacion_pdf |
-| 719-22 | 30/11/2022 | 11089 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NÚM. 104-11, QUE DESIGNÓ A MARÍA EUGENIA DEL CASTILLO, COMO CONSEJ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400608&managementType=1) | pendiente_verificacion_pdf |
-| 720-22 | 30/11/2022 | 11089 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ADALBERTO PARRA CASTILLO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400618&managementType=1) | pendiente_verificacion_pdf |
-| 721-22 | 30/11/2022 | 11089 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARIAS PERSONAS Y ELEVA LOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400619&managementType=1) | pendiente_verificacion_pdf |
-| 722-22 | 30/11/2022 | 11089 | QUE DEROGA EL PÁRRAFO DEL ARTÍCULO 8 DEL DEC. NÚM. 637-21, QUE ESTABLECE EL REGLAMENTO DEL EQUILIBRI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400620&managementType=1) | pendiente_verificacion_pdf |
-| 723-22 | 30/11/2022 | 11089 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400621&managementType=1) | pendiente_verificacion_pdf |
-| 724-22 | 30/11/2022 | 11089 | QUE ELEVA LAS PENSIONES OTORGADAS POR EL ESTADO DOMINICANO A VARIOS ODONTÓLOGOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400622&managementType=1) | pendiente_verificacion_pdf |
-| 725-22 | 30/11/2022 | 11089 | QUE AUTORIZA AL MAYOR GENERAL TÉCNICO DE AVIACIÓN CARLOS RAMÓN FEBRILLET RODRÍGUEZ, FARD, A ACEPTAR ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400623&managementType=1) | pendiente_verificacion_pdf |
-| 726-22 | 30/11/2022 | 11089 | QUE DESIGNA A VÍCTOR LIVIO ENMANUEL CEDEÑO BREA, INTENDENTE DEL MERCADO DE VALORES. DEROGA EL ARTÍCU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400624&managementType=1) | pendiente_verificacion_pdf |
-| 727-22 | 30/11/2022 | 11089 | QUE NOMBRA A GUILLERMO MANUEL GONZÁLEZ ECHENIQUE, SUBDIRECTOR DEL INSTITUTO NACIONAL DE LA AGUJA | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400625&managementType=1) | pendiente_verificacion_pdf |
-| 728-22 | 30/11/2022 | 11089 | QUE CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUAN PABLO DUARTE, EN LA CATEGORÍA CORRESPONDIE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400609&managementType=1) | pendiente_verificacion_pdf |
-| 729-22 | 05/12/2022 | 11091 | QUE DESIGNA A CLAUDIO MIGUEL ANTONIO PEGUERO CASTILLO, ASESOR DEL MINISTERIO DE RELACIONES EXTERIORE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400631&managementType=1) | pendiente_verificacion_pdf |
-| 730-22 | 06/12/2022 | 11091 | QUE NOMBRA A RICELA SUGEY SPRAUS JAQUE Y CAROLINA MITSUE YAMAMOTO MUÑOZ, SUBDIRECTORAS DE GESTIÓN DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400638&managementType=1) | pendiente_verificacion_pdf |
-| 731-22 | 07/12/2022 | 11091 | QUE DESIGNA A FÉLIX ARACENA VARGAS, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400639&managementType=1) | pendiente_verificacion_pdf |
-| 732-22 | 07/12/2022 | 11091 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400640&managementType=1) | pendiente_verificacion_pdf |
-| 733-22 | 08/12/2022 | 11091 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400641&managementType=1) | pendiente_verificacion_pdf |
+| 717-22 | 30/11/2022 | 11089 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARIAS PERSONAS Y ELEVA LOS... | [Ver documento](decreto-717-2022.md) | normalizado · pendiente_revision |
+| 718-22 | 30/11/2022 | 11089 | QUE COLOCA EN LA HONROSA CONDICIÓN DE RETIRO VOLUNTARIO Y POR DISCAPACIDAD, ASÍ COMO RETIRO VOLUNTAR... | [Ver documento](decreto-718-2022.md) | normalizado · pendiente_revision |
+| 719-22 | 30/11/2022 | 11089 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NÚM. 104-11, QUE DESIGNÓ A MARÍA EUGENIA DEL CASTILLO, COMO CONSEJ... | [Ver documento](decreto-719-2022.md) | normalizado · pendiente_revision |
+| 720-22 | 30/11/2022 | 11089 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ADALBERTO PARRA CASTILLO. | [Ver documento](decreto-720-2022.md) | normalizado · pendiente_revision |
+| 721-22 | 30/11/2022 | 11089 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARIAS PERSONAS Y ELEVA LOS... | [Ver documento](decreto-721-2022.md) | normalizado · pendiente_revision |
+| 722-22 | 30/11/2022 | 11089 | QUE DEROGA EL PÁRRAFO DEL ARTÍCULO 8 DEL DEC. NÚM. 637-21, QUE ESTABLECE EL REGLAMENTO DEL EQUILIBRI... | [Ver documento](decreto-722-2022.md) | normalizado · pendiente_revision |
+| 723-22 | 30/11/2022 | 11089 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-723-2022.md) | normalizado · pendiente_revision |
+| 724-22 | 30/11/2022 | 11089 | QUE ELEVA LAS PENSIONES OTORGADAS POR EL ESTADO DOMINICANO A VARIOS ODONTÓLOGOS. | [Ver documento](decreto-724-2022.md) | normalizado · pendiente_revision |
+| 725-22 | 30/11/2022 | 11089 | QUE AUTORIZA AL MAYOR GENERAL TÉCNICO DE AVIACIÓN CARLOS RAMÓN FEBRILLET RODRÍGUEZ, FARD, A ACEPTAR ... | [Ver documento](decreto-725-2022.md) | normalizado · pendiente_revision |
+| 726-22 | 30/11/2022 | 11089 | QUE DESIGNA A VÍCTOR LIVIO ENMANUEL CEDEÑO BREA, INTENDENTE DEL MERCADO DE VALORES. DEROGA EL ARTÍCU... | [Ver documento](decreto-726-2022.md) | normalizado · pendiente_revision |
+| 727-22 | 30/11/2022 | 11089 | QUE NOMBRA A GUILLERMO MANUEL GONZÁLEZ ECHENIQUE, SUBDIRECTOR DEL INSTITUTO NACIONAL DE LA AGUJA | [Ver documento](decreto-727-2022.md) | normalizado · pendiente_revision |
+| 728-22 | 30/11/2022 | 11089 | QUE CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUAN PABLO DUARTE, EN LA CATEGORÍA CORRESPONDIE... | [Ver documento](decreto-728-2022.md) | normalizado · pendiente_revision |
+| 729-22 | 05/12/2022 | 11091 | QUE DESIGNA A CLAUDIO MIGUEL ANTONIO PEGUERO CASTILLO, ASESOR DEL MINISTERIO DE RELACIONES EXTERIORE... | [Ver documento](decreto-729-2022.md) | normalizado · pendiente_revision |
+| 730-22 | 06/12/2022 | 11091 | QUE NOMBRA A RICELA SUGEY SPRAUS JAQUE Y CAROLINA MITSUE YAMAMOTO MUÑOZ, SUBDIRECTORAS DE GESTIÓN DE... | [Ver documento](decreto-730-2022.md) | normalizado · pendiente_revision |
+| 731-22 | 07/12/2022 | 11091 | QUE DESIGNA A FÉLIX ARACENA VARGAS, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA DOMI... | [Ver documento](decreto-731-2022.md) | normalizado · pendiente_revision |
+| 732-22 | 07/12/2022 | 11091 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-732-2022.md) | normalizado · pendiente_revision |
+| 733-22 | 08/12/2022 | 11091 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Ver documento](decreto-733-2022.md) | normalizado · pendiente_revision |
 | 734-22 | 12/12/2022 | 11091 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DEL SISTEMA DE TRANSFERENCIA DE COMPETENCIAS DESDE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400632&managementType=1) | pendiente_verificacion_pdf |
-| 734-22 | 12/12/2022 | 11091 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DEL SISTEMA DE TRANSFERENCIA DE COMPETENCIAS DESDE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401027&managementType=1) | pendiente_verificacion_pdf |
-| 735-22 | 15/12/2022 | 11091 | QUE NOMBRA SEIS (6) FUNCIONARIOS CONSULARES EN EL SERVICIO EXTERIOR. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400633&managementType=1) | pendiente_verificacion_pdf |
-| 736-22 | 15/12/2022 | 11091 | QUE CONCEDE EL BENEFICIO DE PENSIONES DEL ESTADO A 501 EX-SERVIDORES DEL ANTIGUO INSTITUTO DOMINICAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400634&managementType=1) | pendiente_verificacion_pdf |
-| 737-22 | 15/12/2022 | 11091 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, LITERAL B), DEL DEC. NÚM. 413-14, UNA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400642&managementType=1) | pendiente_verificacion_pdf |
-| 738-22 | 15/12/2022 | 11091 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 499-22. INTEGRA NUEVAMENTE EL CONSEJO NACIONAL DE AGRICULTU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400643&managementType=1) | pendiente_verificacion_pdf |
-| 739-22 | 15/12/2022 | 11091 | QUE DEROGA LOS DECRETOS QUE NOMBRARON SIETE (7) VICECÓNSULES, TRES (3) AUXILIARES CONSULARES, UN MIN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400644&managementType=1) | pendiente_verificacion_pdf |
-| 740-22 | 15/12/2022 | 11091 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400635&managementType=1) | pendiente_verificacion_pdf |
-| 741-22 | 15/12/2022 | 11091 | QUE DESIGNA A LAURA PATRICIA VICTORIANO AGUASVIVAS Y SUSAN MARGARE CEDEÑO PEÑA, VICECÓNSULES DE LA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400645&managementType=1) | pendiente_verificacion_pdf |
-| 742-22 | 15/12/2022 | 11091 | QUE TRANSFIERE LA CARTERA DE JUBILADOS DE LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARILLADO DE SANTO DOM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400646&managementType=1) | pendiente_verificacion_pdf |
-| 743-22 | 15/12/2022 | 11091 | QUE ELEVA EL MONTO DE LAS PENSIONES OTORGADAS POR EL ESTADO A GENARINA CARIDAD DE LA ALTAGRACIA RODR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400647&managementType=1) | pendiente_verificacion_pdf |
-| 744-22 | 15/12/2022 | 11091 | QUE EXTIENDE POR 180 DÍAS A PARTIR DE LA EMISIÓN DEL PRESENTE DECRETO EL PLAZO ESTABLECIDO EN EL LIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400648&managementType=1) | pendiente_verificacion_pdf |
-| 745-22 | 15/12/2022 | 11091 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400649&managementType=1) | pendiente_verificacion_pdf |
-| 746-22 | 15/12/2022 | 11091 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, UNA FRANJA DE TERR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400650&managementType=1) | pendiente_verificacion_pdf |
-| 747-22 | 15/12/2022 | 11091 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO DE 57 BIENES INMUEB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400651&managementType=1) | pendiente_verificacion_pdf |
-| 748-22 | 16/12/2022 | 11091 | QUE CREA EL PREMIO NACIONAL DE LAS ARTES ESCÉNICAS, EL CUAL SE OTORGARÁ AL ARTISTA QUE HAYA DESARROL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400636&managementType=1) | pendiente_verificacion_pdf |
-| 749-22 | 16/12/2022 | 11091 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO Y AUMEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400637&managementType=1) | pendiente_verificacion_pdf |
-| 750-22 | 20/12/2022 | 11094 | QUE NOMBRA A GEANILDA A. VÁSQUEZ ALMÁNZAR, CÓNSUL GENERAL DE LA REPÚBLICA EN MIAMI, FLORIDA, ESTADOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400656&managementType=1) | pendiente_verificacion_pdf |
-| 751-22 | 20/12/2022 | 11094 | QUE DESIGNA A JOSÉ EVANGELISTA PAULINO GARCÍA, MIEMBRO DEL DIRECTORIO DEL INSTITUTO AGRARIO DOMINICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400673&managementType=1) | pendiente_verificacion_pdf |
-| 752-22 | 20/12/2022 | 11094 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 201-22. INTEGRA NUEVAMENTE EL COMITÉ ORGANIZADOR DE LOS JUE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400674&managementType=1) | pendiente_verificacion_pdf |
-| 753-22 | 20/12/2022 | 11094 | QUE INTEGRA LA DELEGACIÓN QUE REPRESENTARÁ AL ESTADO DOMINICANO EN LA CEREMONIA DE TOMA DE POSESIÓN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400675&managementType=1) | pendiente_verificacion_pdf |
-| 754-22 | 20/12/2022 | 11094 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, VARIAS PORCIONES D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400676&managementType=1) | pendiente_verificacion_pdf |
-| 756-22 | 23/12/2022 | 11094 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO A ANDRÉS ENEMENCIO ALCÁNTARA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400677&managementType=1) | pendiente_verificacion_pdf |
-| 757-22 | 23/12/2022 | 11094 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400678&managementType=1) | pendiente_verificacion_pdf |
-| 758-22 | 23/12/2022 | 11094 | QUE OTORGA EXEQUÁTUR A DISTINTOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400657&managementType=1) | pendiente_verificacion_pdf |
-| 759-22 | 23/12/2022 | 11094 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1 DEL DEC. NÚM. 7 DEL 1 DE ENERO DEL 1... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400679&managementType=1) | pendiente_verificacion_pdf |
-| 760-22 | 23/12/2022 | 11094 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN ORDINARIA A VARIAS PERSONAS EXTRAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400680&managementType=1) | pendiente_verificacion_pdf |
-| 761-22 | 23/12/2022 | 11094 | QUE AUTORIZA AL MAYOR PARACAIDISTA REY FAMILIA DOTEL, F.A.R.D., (DEM), A ACEPTAR Y USAR LA CONDECORA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400658&managementType=1) | pendiente_verificacion_pdf |
-| 762-22 | 23/12/2022 | 11094 | QUE CREA EL PREMIO ANUAL DE ARTESANÍA, ORGANIZADO POR EL MINISTERIO DE CULTURA, CON EL OBJETIVO DE P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400659&managementType=1) | pendiente_verificacion_pdf |
-| 763-22 | 23/12/2022 | 11094 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400660&managementType=1) | pendiente_verificacion_pdf |
-| 764-22 | 23/12/2022 | 11094 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL NUMERAL 21 DEL ARTÍCULO 1 DEL DEC. NÚM. 6-14, V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400661&managementType=1) | pendiente_verificacion_pdf |
-| 765-22 | 23/12/2022 | 11094 | QUE DESIGNA A RAFAEL DARÍO CASTILLO, SUBDIRECTOR DE LOS COMEDORES ECONÓMICOS DEL ESTADO. DEROGA EL A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400662&managementType=1) | pendiente_verificacion_pdf |
-| 766-22 | 23/12/2022 | 11094 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400681&managementType=1) | pendiente_verificacion_pdf |
-| 767-22 | 23/12/2022 | 11094 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A SEIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400682&managementType=1) | pendiente_verificacion_pdf |
-| 768-22 | 26/12/2022 | 11094 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400663&managementType=1) | pendiente_verificacion_pdf |
-| 769-22 | 26/12/2022 | 11094 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400664&managementType=1) | pendiente_verificacion_pdf |
-| 770-22 | 27/12/2022 | 11094 | QUE CREA EL PREMIO INTERNACIONAL PEDRO HENRÍQUEZ UREÑA, A CARGO DEL MINISTERIO DE CULTURA, CON EL PR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400665&managementType=1) | pendiente_verificacion_pdf |
-| 771-22 | 27/12/2022 | 11094 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CUATRO (4) PERSONAS Y AUMEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400683&managementType=1) | pendiente_verificacion_pdf |
-| 772-22 | 27/12/2022 | 11094 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA A ÁNGEL JOSÉ ANTONIO GUASTAFERRO SOSA, IRMA JOSEFINA GÓMEZ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400684&managementType=1) | pendiente_verificacion_pdf |
-| 773-22 | 30/12/2022 | 11094 | QUE DISPONE LA SUSPENSIÓN DE LABORES EN LOS SECTORES PÚBLICO Y PRIVADO, DURANTE EL DÍA 2 DE ENERO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400685&managementType=1) | pendiente_verificacion_pdf |
-| 774-22 | 30/12/2022 | 11094 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400686&managementType=1) | pendiente_verificacion_pdf |
-| 775-22 | 30/12/2022 | 11094 | QUE DESIGNA A FRANKELY RODRÍGUEZ GÓMEZ, MIEMBRO DE LA JUNTA DE DIRECTORES DEL INSTITUTO POSTAL DOMIN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400687&managementType=1) | pendiente_verificacion_pdf |
-| 776-22 | 30/12/2022 | 11094 | QUE CREA E INTEGRA EL CONSEJO INTERMINISTERIAL DE PROPIEDAD INTELECTUAL, COORDINADO POR EL MINISTERI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400688&managementType=1) | pendiente_verificacion_pdf |
-| 777-22 | 30/12/2022 | 11094 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA LOS NUMERALES 1 Y 4 DEL A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400666&managementType=1) | pendiente_verificacion_pdf |
-| 778-22 | 30/12/2022 | 11094 | QUE CREA LA ZONA FRANCA INDUSTRIAL CABALLONA, S.R.L, UBICADA EN CABALLONA, SANTO DOMINGO OESTE, PROV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400689&managementType=1) | pendiente_verificacion_pdf |
-| 779-22 | 30/12/2022 | 11094 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.447-21. DISPONE QUE LA ZONA FRANCA CUCAMA DE CAUCEDO ESTARÁ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400690&managementType=1) | pendiente_verificacion_pdf |
-| 780-22 | 30/12/2022 | 11094 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.840-21. ESTABLECE QUE LA ZONA FRANCA MULTIMODAL CAUCEDO FUNC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400691&managementType=1) | pendiente_verificacion_pdf |
-| 781-22 | 30/12/2022 | 11094 | QUE CREA LA ZONA FRANCA INDUSTRIAL DUARTE – CAYACOA, UBICADA EN PEDRO BRAND, PROVINCIA SANTO DOMINGO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400667&managementType=1) | pendiente_verificacion_pdf |
-| 782-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES DEL ESTADO A VARIOS GREMIALISTAS MERITORIOS DEL SECTOR SALUD, DE LA ASOCIACIÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400668&managementType=1) | pendiente_verificacion_pdf |
-| 783-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400669&managementType=1) | pendiente_verificacion_pdf |
-| 784-22 | 30/12/2022 | 11094 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO BRAYNE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400670&managementType=1) | pendiente_verificacion_pdf |
-| 785-22 | 30/12/2022 | 11094 | QUE DISPONE LA EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO DAVID SEBASTIÁN F... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400671&managementType=1) | pendiente_verificacion_pdf |
-| 786-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES DEL ESTADO A 446 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400692&managementType=1) | pendiente_verificacion_pdf |
-| 787-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS MIEMBROS DE LA CONFEDERACIÓN NACIONAL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400672&managementType=1) | pendiente_verificacion_pdf |
-| 788-22 | 30/12/2022 | 11094 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A ELEUTERIO SERAFÍN COSTE POLANCO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400693&managementType=1) | pendiente_verificacion_pdf |
+| 734-22 | 12/12/2022 | 11091 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DEL SISTEMA DE TRANSFERENCIA DE COMPETENCIAS DESDE... | [Ver documento](decreto-734-2022.md) | normalizado · pendiente_revision |
+| 735-22 | 15/12/2022 | 11091 | QUE NOMBRA SEIS (6) FUNCIONARIOS CONSULARES EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-735-2022.md) | normalizado · pendiente_revision |
+| 736-22 | 15/12/2022 | 11091 | QUE CONCEDE EL BENEFICIO DE PENSIONES DEL ESTADO A 501 EX-SERVIDORES DEL ANTIGUO INSTITUTO DOMINICAN... | [Ver documento](decreto-736-2022.md) | normalizado · pendiente_revision |
+| 737-22 | 15/12/2022 | 11091 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, LITERAL B), DEL DEC. NÚM. 413-14, UNA ... | [Ver documento](decreto-737-2022.md) | normalizado · pendiente_revision |
+| 738-22 | 15/12/2022 | 11091 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 499-22. INTEGRA NUEVAMENTE EL CONSEJO NACIONAL DE AGRICULTU... | [Ver documento](decreto-738-2022.md) | normalizado · pendiente_revision |
+| 739-22 | 15/12/2022 | 11091 | QUE DEROGA LOS DECRETOS QUE NOMBRARON SIETE (7) VICECÓNSULES, TRES (3) AUXILIARES CONSULARES, UN MIN... | [Ver documento](decreto-739-2022.md) | normalizado · pendiente_revision |
+| 740-22 | 15/12/2022 | 11091 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-740-2022.md) | normalizado · pendiente_revision |
+| 741-22 | 15/12/2022 | 11091 | QUE DESIGNA A LAURA PATRICIA VICTORIANO AGUASVIVAS Y SUSAN MARGARE CEDEÑO PEÑA, VICECÓNSULES DE LA R... | [Ver documento](decreto-741-2022.md) | normalizado · pendiente_revision |
+| 742-22 | 15/12/2022 | 11091 | QUE TRANSFIERE LA CARTERA DE JUBILADOS DE LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARILLADO DE SANTO DOM... | [Ver documento](decreto-742-2022.md) | normalizado · pendiente_revision |
+| 743-22 | 15/12/2022 | 11091 | QUE ELEVA EL MONTO DE LAS PENSIONES OTORGADAS POR EL ESTADO A GENARINA CARIDAD DE LA ALTAGRACIA RODR... | [Ver documento](decreto-743-2022.md) | normalizado · pendiente_revision |
+| 744-22 | 15/12/2022 | 11091 | QUE EXTIENDE POR 180 DÍAS A PARTIR DE LA EMISIÓN DEL PRESENTE DECRETO EL PLAZO ESTABLECIDO EN EL LIT... | [Ver documento](decreto-744-2022.md) | normalizado · pendiente_revision |
+| 745-22 | 15/12/2022 | 11091 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Ver documento](decreto-745-2022.md) | normalizado · pendiente_revision |
+| 746-22 | 15/12/2022 | 11091 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, UNA FRANJA DE TERR... | [Ver documento](decreto-746-2022.md) | normalizado · pendiente_revision |
+| 747-22 | 15/12/2022 | 11091 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO DE 57 BIENES INMUEB... | [Ver documento](decreto-747-2022.md) | normalizado · pendiente_revision |
+| 748-22 | 16/12/2022 | 11091 | QUE CREA EL PREMIO NACIONAL DE LAS ARTES ESCÉNICAS, EL CUAL SE OTORGARÁ AL ARTISTA QUE HAYA DESARROL... | [Ver documento](decreto-748-2022.md) | normalizado · pendiente_revision |
+| 749-22 | 16/12/2022 | 11091 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO Y AUMEN... | [Ver documento](decreto-749-2022.md) | normalizado · pendiente_revision |
+| 750-22 | 20/12/2022 | 11094 | QUE NOMBRA A GEANILDA A. VÁSQUEZ ALMÁNZAR, CÓNSUL GENERAL DE LA REPÚBLICA EN MIAMI, FLORIDA, ESTADOS... | [Ver documento](decreto-750-2022.md) | normalizado · pendiente_revision |
+| 751-22 | 20/12/2022 | 11094 | QUE DESIGNA A JOSÉ EVANGELISTA PAULINO GARCÍA, MIEMBRO DEL DIRECTORIO DEL INSTITUTO AGRARIO DOMINICA... | [Ver documento](decreto-751-2022.md) | normalizado · pendiente_revision |
+| 752-22 | 20/12/2022 | 11094 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 201-22. INTEGRA NUEVAMENTE EL COMITÉ ORGANIZADOR DE LOS JUE... | [Ver documento](decreto-752-2022.md) | normalizado · pendiente_revision |
+| 753-22 | 20/12/2022 | 11094 | QUE INTEGRA LA DELEGACIÓN QUE REPRESENTARÁ AL ESTADO DOMINICANO EN LA CEREMONIA DE TOMA DE POSESIÓN ... | [Ver documento](decreto-753-2022.md) | normalizado · pendiente_revision |
+| 754-22 | 20/12/2022 | 11094 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, VARIAS PORCIONES D... | [Ver documento](decreto-754-2022.md) | normalizado · pendiente_revision |
+| 756-22 | 23/12/2022 | 11094 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO A ANDRÉS ENEMENCIO ALCÁNTARA. | [Ver documento](decreto-756-2022.md) | normalizado · pendiente_revision |
+| 757-22 | 23/12/2022 | 11094 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Ver documento](decreto-757-2022.md) | normalizado · pendiente_revision |
+| 758-22 | 23/12/2022 | 11094 | QUE OTORGA EXEQUÁTUR A DISTINTOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN ... | [Ver documento](decreto-758-2022.md) | normalizado · pendiente_revision |
+| 759-22 | 23/12/2022 | 11094 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1 DEL DEC. NÚM. 7 DEL 1 DE ENERO DEL 1... | [Ver documento](decreto-759-2022.md) | normalizado · pendiente_revision |
+| 760-22 | 23/12/2022 | 11094 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN ORDINARIA A VARIAS PERSONAS EXTRAN... | [Ver documento](decreto-760-2022.md) | normalizado · pendiente_revision |
+| 761-22 | 23/12/2022 | 11094 | QUE AUTORIZA AL MAYOR PARACAIDISTA REY FAMILIA DOTEL, F.A.R.D., (DEM), A ACEPTAR Y USAR LA CONDECORA... | [Ver documento](decreto-761-2022.md) | normalizado · pendiente_revision |
+| 762-22 | 23/12/2022 | 11094 | QUE CREA EL PREMIO ANUAL DE ARTESANÍA, ORGANIZADO POR EL MINISTERIO DE CULTURA, CON EL OBJETIVO DE P... | [Ver documento](decreto-762-2022.md) | normalizado · pendiente_revision |
+| 763-22 | 23/12/2022 | 11094 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-763-2022.md) | normalizado · pendiente_revision |
+| 764-22 | 23/12/2022 | 11094 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL NUMERAL 21 DEL ARTÍCULO 1 DEL DEC. NÚM. 6-14, V... | [Ver documento](decreto-764-2022.md) | normalizado · pendiente_revision |
+| 765-22 | 23/12/2022 | 11094 | QUE DESIGNA A RAFAEL DARÍO CASTILLO, SUBDIRECTOR DE LOS COMEDORES ECONÓMICOS DEL ESTADO. DEROGA EL A... | [Ver documento](decreto-765-2022.md) | normalizado · pendiente_revision |
+| 766-22 | 23/12/2022 | 11094 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Ver documento](decreto-766-2022.md) | normalizado · pendiente_revision |
+| 767-22 | 23/12/2022 | 11094 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A SEIS... | [Ver documento](decreto-767-2022.md) | normalizado · pendiente_revision |
+| 768-22 | 26/12/2022 | 11094 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-768-2022.md) | normalizado · pendiente_revision |
+| 769-22 | 26/12/2022 | 11094 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Ver documento](decreto-769-2022.md) | normalizado · pendiente_revision |
+| 770-22 | 27/12/2022 | 11094 | QUE CREA EL PREMIO INTERNACIONAL PEDRO HENRÍQUEZ UREÑA, A CARGO DEL MINISTERIO DE CULTURA, CON EL PR... | [Ver documento](decreto-770-2022.md) | normalizado · pendiente_revision |
+| 771-22 | 27/12/2022 | 11094 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CUATRO (4) PERSONAS Y AUMEN... | [Ver documento](decreto-771-2022.md) | normalizado · pendiente_revision |
+| 772-22 | 27/12/2022 | 11094 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA A ÁNGEL JOSÉ ANTONIO GUASTAFERRO SOSA, IRMA JOSEFINA GÓMEZ ... | [Ver documento](decreto-772-2022.md) | normalizado · pendiente_revision |
+| 773-22 | 30/12/2022 | 11094 | QUE DISPONE LA SUSPENSIÓN DE LABORES EN LOS SECTORES PÚBLICO Y PRIVADO, DURANTE EL DÍA 2 DE ENERO DE... | [Ver documento](decreto-773-2022.md) | normalizado · pendiente_revision |
+| 774-22 | 30/12/2022 | 11094 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-774-2022.md) | normalizado · pendiente_revision |
+| 775-22 | 30/12/2022 | 11094 | QUE DESIGNA A FRANKELY RODRÍGUEZ GÓMEZ, MIEMBRO DE LA JUNTA DE DIRECTORES DEL INSTITUTO POSTAL DOMIN... | [Ver documento](decreto-775-2022.md) | normalizado · pendiente_revision |
+| 776-22 | 30/12/2022 | 11094 | QUE CREA E INTEGRA EL CONSEJO INTERMINISTERIAL DE PROPIEDAD INTELECTUAL, COORDINADO POR EL MINISTERI... | [Ver documento](decreto-776-2022.md) | normalizado · pendiente_revision |
+| 777-22 | 30/12/2022 | 11094 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA LOS NUMERALES 1 Y 4 DEL A... | [Ver documento](decreto-777-2022.md) | normalizado · pendiente_revision |
+| 778-22 | 30/12/2022 | 11094 | QUE CREA LA ZONA FRANCA INDUSTRIAL CABALLONA, S.R.L, UBICADA EN CABALLONA, SANTO DOMINGO OESTE, PROV... | [Ver documento](decreto-778-2022.md) | normalizado · pendiente_revision |
+| 779-22 | 30/12/2022 | 11094 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.447-21. DISPONE QUE LA ZONA FRANCA CUCAMA DE CAUCEDO ESTARÁ ... | [Ver documento](decreto-779-2022.md) | normalizado · pendiente_revision |
+| 780-22 | 30/12/2022 | 11094 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.840-21. ESTABLECE QUE LA ZONA FRANCA MULTIMODAL CAUCEDO FUNC... | [Ver documento](decreto-780-2022.md) | normalizado · pendiente_revision |
+| 781-22 | 30/12/2022 | 11094 | QUE CREA LA ZONA FRANCA INDUSTRIAL DUARTE – CAYACOA, UBICADA EN PEDRO BRAND, PROVINCIA SANTO DOMINGO... | [Ver documento](decreto-781-2022.md) | normalizado · pendiente_revision |
+| 782-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES DEL ESTADO A VARIOS GREMIALISTAS MERITORIOS DEL SECTOR SALUD, DE LA ASOCIACIÓN... | [Ver documento](decreto-782-2022.md) | normalizado · pendiente_revision |
+| 783-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Ver documento](decreto-783-2022.md) | normalizado · pendiente_revision |
+| 784-22 | 30/12/2022 | 11094 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO BRAYNE... | [Ver documento](decreto-784-2022.md) | normalizado · pendiente_revision |
+| 785-22 | 30/12/2022 | 11094 | QUE DISPONE LA EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO DAVID SEBASTIÁN F... | [Ver documento](decreto-785-2022.md) | normalizado · pendiente_revision |
+| 786-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES DEL ESTADO A 446 PERSONAS. | [Ver documento](decreto-786-2022.md) | normalizado · pendiente_revision |
+| 787-22 | 30/12/2022 | 11094 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS MIEMBROS DE LA CONFEDERACIÓN NACIONAL ... | [Ver documento](decreto-787-2022.md) | normalizado · pendiente_revision |
+| 788-22 | 30/12/2022 | 11094 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A ELEUTERIO SERAFÍN COSTE POLANCO. | [Ver documento](decreto-788-2022.md) | normalizado · pendiente_revision |
 
 ## Próxima fase
 
