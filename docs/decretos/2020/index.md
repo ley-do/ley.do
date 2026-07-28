@@ -609,6 +609,106 @@ Documentos detectados: **756**.
 - [Decreto núm. 607-2020](decreto-607-2020.md)
 - [Decreto núm. 608-2020](decreto-608-2020.md)
 - [Decreto núm. 609-2020](decreto-609-2020.md)
+- [Decreto núm. 610-2020](decreto-610-2020.md)
+- [Decreto núm. 611-2020](decreto-611-2020.md)
+- [Decreto núm. 612-2020](decreto-612-2020.md)
+- [Decreto núm. 613-2020](decreto-613-2020.md)
+- [Decreto núm. 614-2020](decreto-614-2020.md)
+- [Decreto núm. 615-2020](decreto-615-2020.md)
+- [Decreto núm. 616-2020](decreto-616-2020.md)
+- [Decreto núm. 617-2020](decreto-617-2020.md)
+- [Decreto núm. 618-2020](decreto-618-2020.md)
+- [Decreto núm. 619-2020](decreto-619-2020.md)
+- [Decreto núm. 620-2020](decreto-620-2020.md)
+- [Decreto núm. 621-2020](decreto-621-2020.md)
+- [Decreto núm. 622-2020](decreto-622-2020.md)
+- [Decreto núm. 623-2020](decreto-623-2020.md)
+- [Decreto núm. 624-2020](decreto-624-2020.md)
+- [Decreto núm. 625-2020](decreto-625-2020.md)
+- [Decreto núm. 626-2020](decreto-626-2020.md)
+- [Decreto núm. 627-2020](decreto-627-2020.md)
+- [Decreto núm. 628-2020](decreto-628-2020.md)
+- [Decreto núm. 629-2020](decreto-629-2020.md)
+- [Decreto núm. 630-2020](decreto-630-2020.md)
+- [Decreto núm. 631-2020](decreto-631-2020.md)
+- [Decreto núm. 632-2020](decreto-632-2020.md)
+- [Decreto núm. 633-2020](decreto-633-2020.md)
+- [Decreto núm. 634-2020](decreto-634-2020.md)
+- [Decreto núm. 635-2020](decreto-635-2020.md)
+- [Decreto núm. 636-2020](decreto-636-2020.md)
+- [Decreto núm. 637-2020](decreto-637-2020.md)
+- [Decreto núm. 638-2020](decreto-638-2020.md)
+- [Decreto núm. 639-2020](decreto-639-2020.md)
+- [Decreto núm. 640-2020](decreto-640-2020.md)
+- [Decreto núm. 641-2020](decreto-641-2020.md)
+- [Decreto núm. 642-2020](decreto-642-2020.md)
+- [Decreto núm. 643-2020](decreto-643-2020.md)
+- [Decreto núm. 644-2020](decreto-644-2020.md)
+- [Decreto núm. 645-2020](decreto-645-2020.md)
+- [Decreto núm. 646-2020](decreto-646-2020.md)
+- [Decreto núm. 647-2020](decreto-647-2020.md)
+- [Decreto núm. 648-2020](decreto-648-2020.md)
+- [Decreto núm. 649-2020](decreto-649-2020.md)
+- [Decreto núm. 650-2020](decreto-650-2020.md)
+- [Decreto núm. 651-2020](decreto-651-2020.md)
+- [Decreto núm. 652-2020](decreto-652-2020.md)
+- [Decreto núm. 653-2020](decreto-653-2020.md)
+- [Decreto núm. 654-2020](decreto-654-2020.md)
+- [Decreto núm. 655-2020](decreto-655-2020.md)
+- [Decreto núm. 656-2020](decreto-656-2020.md)
+- [Decreto núm. 657-2020](decreto-657-2020.md)
+- [Decreto núm. 658-2020](decreto-658-2020.md)
+- [Decreto núm. 659-2020](decreto-659-2020.md)
+- [Decreto núm. 660-2020](decreto-660-2020.md)
+- [Decreto núm. 661-2020](decreto-661-2020.md)
+- [Decreto núm. 662-2020](decreto-662-2020.md)
+- [Decreto núm. 663-2020](decreto-663-2020.md)
+- [Decreto núm. 664-2020](decreto-664-2020.md)
+- [Decreto núm. 665-2020](decreto-665-2020.md)
+- [Decreto núm. 666-2020](decreto-666-2020.md)
+- [Decreto núm. 667-2020](decreto-667-2020.md)
+- [Decreto núm. 668-2020](decreto-668-2020.md)
+- [Decreto núm. 669-2020](decreto-669-2020.md)
+- [Decreto núm. 670-2020](decreto-670-2020.md)
+- [Decreto núm. 671-2020](decreto-671-2020.md)
+- [Decreto núm. 672-2020](decreto-672-2020.md)
+- [Decreto núm. 673-2020](decreto-673-2020.md)
+- [Decreto núm. 674-2020](decreto-674-2020.md)
+- [Decreto núm. 675-2020](decreto-675-2020.md)
+- [Decreto núm. 676-2020](decreto-676-2020.md)
+- [Decreto núm. 677-2020](decreto-677-2020.md)
+- [Decreto núm. 678-2020](decreto-678-2020.md)
+- [Decreto núm. 679-2020](decreto-679-2020.md)
+- [Decreto núm. 680-2020](decreto-680-2020.md)
+- [Decreto núm. 681-2020](decreto-681-2020.md)
+- [Decreto núm. 682-2020](decreto-682-2020.md)
+- [Decreto núm. 683-2020](decreto-683-2020.md)
+- [Decreto núm. 684-2020](decreto-684-2020.md)
+- [Decreto núm. 685-2020](decreto-685-2020.md)
+- [Decreto núm. 686-2020](decreto-686-2020.md)
+- [Decreto núm. 687-2020](decreto-687-2020.md)
+- [Decreto núm. 688-2020](decreto-688-2020.md)
+- [Decreto núm. 689-2020](decreto-689-2020.md)
+- [Decreto núm. 690-2020](decreto-690-2020.md)
+- [Decreto núm. 691-2020](decreto-691-2020.md)
+- [Decreto núm. 692-2020](decreto-692-2020.md)
+- [Decreto núm. 693-2020](decreto-693-2020.md)
+- [Decreto núm. 694-2020](decreto-694-2020.md)
+- [Decreto núm. 695-2020](decreto-695-2020.md)
+- [Decreto núm. 696-2020](decreto-696-2020.md)
+- [Decreto núm. 697-2020](decreto-697-2020.md)
+- [Decreto núm. 698-2020](decreto-698-2020.md)
+- [Decreto núm. 699-2020](decreto-699-2020.md)
+- [Decreto núm. 700-2020](decreto-700-2020.md)
+- [Decreto núm. 701-2020](decreto-701-2020.md)
+- [Decreto núm. 702-2020](decreto-702-2020.md)
+- [Decreto núm. 703-2020](decreto-703-2020.md)
+- [Decreto núm. 704-2020](decreto-704-2020.md)
+- [Decreto núm. 705-2020](decreto-705-2020.md)
+- [Decreto núm. 706-2020](decreto-706-2020.md)
+- [Decreto núm. 707-2020](decreto-707-2020.md)
+- [Decreto núm. 708-2020](decreto-708-2020.md)
+- [Decreto núm. 709-2020](decreto-709-2020.md)
 
 ## Documentos detectados
 
@@ -1237,106 +1337,106 @@ Documentos detectados: **756**.
 | 607-20 | 02/11/2020 | 10996 | QUE CONCEDE EL BENEFICIO DE LA NATURALIZACIÓN DOMINICANA ORDINARIA A VARIOS EXTRANJEROS. | [Ver documento](decreto-607-2020.md) | normalizado · pendiente_revision |
 | 608-20 | 02/11/2020 | 10996 | QUE MODIFICA EL ARTÍCULO 10 DEL DEC. NO. 268-16. CREA E INTEGRA LA COMISIÓN EVALUADORA DE LOS TERREN... | [Ver documento](decreto-608-2020.md) | normalizado · pendiente_revision |
 | 609-20 | 02/11/2020 | 10996 | QUE NOMBRA A RAFAEL PERALTA ROMERO, DIRECTOR GENERAL DE LA BIBLIOTECA NACIONAL “PEDRO HENRÍQUEZ UREÑ... | [Ver documento](decreto-609-2020.md) | normalizado · pendiente_revision |
-| 610-20 | 02/11/2020 | 10996 | QUE DESIGNA A ANTONIO M. TAVERAS GUZMÁN, SENADOR DE LA PROVINCIA SANTO DOMINGO, REPRESENTANTE DEL GO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397458&managementType=1) | pendiente_verificacion_pdf |
-| 611-20 | 02/11/2020 | 10996 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397459&managementType=1) | pendiente_verificacion_pdf |
-| 612-20 | 03/11/2020 | 10996 | QUE INSTRUYE AL MINISTERIO DE LA PRESIDENCIA, GARANTIZAR LA HABILITACIÓN, VALIDACIÓN Y SEGUIMIENTO A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397460&managementType=1) | pendiente_verificacion_pdf |
-| 613-20 | 03/11/2020 | 10996 | QUE INTEGRA EL PATRONATO PRO-DESARROLLO DE LA PROVINCIA SÁNCHEZ RAMÍREZ. DEROGA LOS DECRETOS NOS. 56... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397461&managementType=1) | pendiente_verificacion_pdf |
-| 614-20 | 04/11/2020 | 10996 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A VENUS GUILLERMINA CARBONELL PICHARDO Y KATIA MARÍA ROSARIO P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397493&managementType=1) | pendiente_verificacion_pdf |
-| 615-20 | 05/11/2020 | 10996 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 571-07 Y EL DEC. NO. 124-08, QUE NOMBRARON A JULISSA PATRICIA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397494&managementType=1) | pendiente_verificacion_pdf |
-| 616-20 | 05/11/2020 | 10996 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397495&managementType=1) | pendiente_verificacion_pdf |
-| 617-20 | 05/11/2020 | 10997 | QUE DESIGNA VICECÓNSULES Y AUXILIARES EN EL SERVICIO EXTERIOR. MODIFICA LOS ARTÍCULOS 26 Y 28 DEL DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397558&managementType=1) | pendiente_verificacion_pdf |
-| 618-20 | 05/11/2020 | 10997 | QUE INTEGRA EL CONSEJO DE LA MEDALLA PRESIDENCIAL AL MÉRITO CIVIL. MODIFICA EL ARTÍCULO 4 DEL DEC. N... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397575&managementType=1) | pendiente_verificacion_pdf |
-| 619-20 | 10/11/2020 | 10997 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTE (20) DÍAS A PARTIR DEL 12 DE NO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397576&managementType=1) | pendiente_verificacion_pdf |
-| 620-20 | 10/11/2020 | 10997 | QUE NOMBRA A MARIA ELISA HOLGUÍN LÓPEZ, DIRECTORA DE LA UNIDAD DE ANÁLISIS FINANCIERO (UAF), POR UN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397577&managementType=1) | pendiente_verificacion_pdf |
-| 621-20 | 10/11/2020 | 10997 | QUE NOMBRA A PRÍAMO RAFAEL RAMÍREZ UBIERA E HILDA PATRICIA DE SAN MARTÍN POLANCO MORALES, MIEMBROS D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397578&managementType=1) | pendiente_verificacion_pdf |
-| 622-20 | 10/11/2020 | 10997 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA REHABILITACIÓN, SANEAMIENTO, PRESERVACIÓN Y USO SOSTENIBLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397559&managementType=1) | pendiente_verificacion_pdf |
-| 623-20 | 10/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397579&managementType=1) | pendiente_verificacion_pdf |
-| 624-20 | 10/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397580&managementType=1) | pendiente_verificacion_pdf |
-| 625-20 | 10/11/2020 | 10997 | QUE NOMBRA VARIOS SUBDIRECTORES EN LA DIRECCIÓN GENERAL DE GANADERÍA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397581&managementType=1) | pendiente_verificacion_pdf |
-| 626-20 | 10/11/2020 | 10997 | QUE NOMBRA EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE LA REPÚBLICA EN ITALIA, CONFEDERACIÓN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397582&managementType=1) | pendiente_verificacion_pdf |
-| 627-20 | 10/11/2020 | 10997 | QUE NOMBRA A ROLANDO MUÑOZ MEJÍA, DIRECTOR GENERAL DE MINERÍA. MODIFICA EL ARTÍCULO 3 DEL DEC. NO. 5... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397583&managementType=1) | pendiente_verificacion_pdf |
-| 628-20 | 10/11/2020 | 10997 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397584&managementType=1) | pendiente_verificacion_pdf |
-| 629-20 | 10/11/2020 | 10997 | QUE DESIGNA A CONRADO ARÍSTIDES SANTANA REYES, SUBDIRECTOR DE LA UNIDAD TÉCNICA EJECUTORA DE PROYECT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397585&managementType=1) | pendiente_verificacion_pdf |
-| 630-20 | 10/11/2020 | 10997 | QUE AUTORIZA AL CORONEL PARACAIDISTA JOSÉ ALBERTO HERNÁNDEZ RIVERA, FARD, A ACEPTAR Y USAR LA MEDALL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397560&managementType=1) | pendiente_verificacion_pdf |
-| 631-20 | 10/11/2020 | 10997 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN, POR PARTE DEL ESTADO DOMINICANO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397561&managementType=1) | pendiente_verificacion_pdf |
-| 632-20 | 10/11/2020 | 10997 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FRANC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397586&managementType=1) | pendiente_verificacion_pdf |
-| 633-20 | 10/11/2020 | 10997 | QUE MODIFICA EL NUMERAL 16, ARTÍCULO 1, DEL DEC. NO. 335-13. DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397587&managementType=1) | pendiente_verificacion_pdf |
-| 634-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 166-13, ARTÍCULO 1, NUMERAL 9, VARIAS PAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397588&managementType=1) | pendiente_verificacion_pdf |
-| 635-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 112-16, ARTÍCULO 1, NUMERAL 12, DOS PORCI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397589&managementType=1) | pendiente_verificacion_pdf |
-| 636-20 | 10/11/2020 | 10997 | QUE DEROGA VARIOS NUMERALES DE LOS ARTÍCULOS 1 DE LOS DECRETOS NOS. 387-15, 301-16, 423-17, 112-18 Y... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397590&managementType=1) | pendiente_verificacion_pdf |
-| 637-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADO MEDIANTE DEC. NO. 7-14, ARTÍCULO 1, NUMERALES 12, 13 Y 14, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397591&managementType=1) | pendiente_verificacion_pdf |
-| 638-20 | 11/11/2020 | 10997 | QUE NOMBRA A EUSEBIA MARÍA NÚÑEZ GARCÍA, CÓNSUL GENERAL DE LA REPÚBLICA EN MONTREAL, CANADÁ, Y VARIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397592&managementType=1) | pendiente_verificacion_pdf |
-| 639-20 | 11/11/2020 | 10997 | QUE DESIGNA A RAMÓN ANTONIO SANTOS PÉREZ, ASESOR DE COMERCIALIZACIÓN DE PRODUCTOS AGROPECUARIOS DEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397593&managementType=1) | pendiente_verificacion_pdf |
-| 640-20 | 11/11/2020 | 10997 | QUE INSTRUYE AL CONSEJO NACIONAL DE COMPETITIVIDAD A ELABORAR, ARTICULAR Y COORDINAR LA ESTRATEGIA N... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397594&managementType=1) | pendiente_verificacion_pdf |
-| 641-20 | 12/11/2020 | 10997 | QUE DECLARA DE ALTO INTERÉS NACIONAL EL CULTIVO Y EXPORTACIÓN DEL CACAO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397562&managementType=1) | pendiente_verificacion_pdf |
-| 642-20 | 16/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 398-09, QUE DESIGNÓ A JOSÉ DANTÉS DÍAZ, MINISTRO CONSEJERO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397595&managementType=1) | pendiente_verificacion_pdf |
-| 643-20 | 16/11/2020 | 10997 | QUE DESIGNA A SERGIA ELENA MEJÍA DE PEÑA Y JULIO CÉSAR LLIBRE SALCEDO, MIEMBROS DE LA JUNTA MONETARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397596&managementType=1) | pendiente_verificacion_pdf |
-| 644-20 | 18/11/2020 | 10997 | QUE DESIGNA DOCE (12) VICECÓNSULES DE LA REPÚBLICA EN EL SERVICIO EXTERIOR. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397597&managementType=1) | pendiente_verificacion_pdf |
-| 645-20 | 18/11/2020 | 10997 | QUE NOMBRA A KATIA JULIANA CASTILLO MARTE, CÓNSUL GENERAL DE LA REPÚBLICA EN SANTA CRUZ DE TENERIFE,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397598&managementType=1) | pendiente_verificacion_pdf |
-| 646-20 | 18/11/2020 | 10997 | QUE DESIGNA AL PRESIDENTE Y TRES (3) MIEMBROS DEL CONSEJO DE DIRECTIVO DEL INSTITUTO NACIONAL DE AUX... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397599&managementType=1) | pendiente_verificacion_pdf |
-| 647-20 | 18/11/2020 | 10997 | QUE NOMBRA A PERIANDRO GERTRUDIS DELGADO VARGAS, ASESOR EN MATERIA DE TELECOMUNICACIONES DEL PODER E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397600&managementType=1) | pendiente_verificacion_pdf |
-| 648-20 | 18/11/2020 | 10997 | QUE INTEGRA EL CONSEJO DE DESARROLLO ECOTURÍSTICO DE LA PROVINCIA SAN JOSÉ DE OCOA. DEROGA EL DEC. N... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397601&managementType=1) | pendiente_verificacion_pdf |
-| 649-20 | 18/11/2020 | 10997 | QUE DESIGNA A FRANKLIN ANÍBAL PERALTA UCETA, SUBDIRECTOR DE LA CORPORACIÓN DE ACUEDUCTOS Y ALCANTARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397563&managementType=1) | pendiente_verificacion_pdf |
-| 650-20 | 18/11/2020 | 10997 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A PERSONAS EXTRANJERAS. MODIFICA VARIOS NUMERALES DE LOS ARTÍC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397564&managementType=1) | pendiente_verificacion_pdf |
-| 651-20 | 18/11/2020 | 10997 | QUE DESIGNA A FIDIAS FEDERICO ARISTY PAYANO, ASESOR DEL PODER EJECUTIVO EN POLÍTICAS ANTINARCÓTICAS.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397565&managementType=1) | pendiente_verificacion_pdf |
-| 652-20 | 18/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE VARIOS SUBDIRECTORES EN LA COMISIÓN PRESIDENCIAL DE DESARRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397602&managementType=1) | pendiente_verificacion_pdf |
-| 653-20 | 18/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS ARTÍCULOS 2 Y 4 DEL DEC. NO. 556-20 Y LOS ARTÍCULOS 38 Y 43 DEL DEC. NO. 557... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397603&managementType=1) | pendiente_verificacion_pdf |
-| 654-20 | 18/11/2020 | 10997 | QUE DESIGNA A RAMÓN ANTONIO VALDEZ Y FERNANDO JESÚS DAUHAJRE MORALES, COMISIONADOS NACIONALES DE BOX... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397604&managementType=1) | pendiente_verificacion_pdf |
-| 655-20 | 18/11/2020 | 10997 | QUE NOMBRA A JUAN BOLÍVAR DIAZ SANTANA, ROBERT MIKY TAKATA PIMENTEL Y FEDERICO ALBERTO CUELLO CAMILO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397605&managementType=1) | pendiente_verificacion_pdf |
-| 656-20 | 18/11/2020 | 10997 | QUE DESIGNA A CARLOS PAULINO CÁRDENAS, SUBDIRECTOR DEL CENTRO DE OPERACIONES DE EMERGENCIAS. MODIFIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397606&managementType=1) | pendiente_verificacion_pdf |
-| 657-20 | 18/11/2020 | 10997 | QUE DESIGNA VARIOS FUNCIONARIOS DIPLOMÁTICOS DE LA REPÚBLICA EN LA REPÚBLICA DE HAITÍ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397566&managementType=1) | pendiente_verificacion_pdf |
-| 658-20 | 23/11/2020 | 10997 | QUE CONFIRMA A JOSÉ RICARDO ROJAS LEÓN, COMO MIEMBRO DE LA JUNTA MONETARIA, POR UN PERÍODO DE DOS (2... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397567&managementType=1) | pendiente_verificacion_pdf |
-| 659-20 | 23/11/2020 | 10997 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 10-17. CREA LA UNIDAD COORDINADORA DE PROYECTOS DE DES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397568&managementType=1) | pendiente_verificacion_pdf |
-| 660-20 | 23/11/2020 | 10997 | QUE DESIGNA A ANASTACIO BRAZOBÁN GONZÁLEZ, ASESOR DEL MINISTERIO DE INDUSTRIA, COMERCIO Y MIPYMES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397607&managementType=1) | pendiente_verificacion_pdf |
-| 661-20 | 23/11/2020 | 10997 | QUE DESIGNA A CARLOS ENRIQUE ARIAS FLORIÁN, SUBDIRECTOR DE LA OFICINA METROPOLITANA DE SERVICIOS DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397608&managementType=1) | pendiente_verificacion_pdf |
-| 662-20 | 23/11/2020 | 10997 | QUE DESIGNA VARIOS VICECÓNSULES DE LA REPÚBLICA EN EL SERVICIO EXTERIOR. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397569&managementType=1) | pendiente_verificacion_pdf |
-| 663-20 | 23/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 5-09, MODIFICADO POR EL ARTÍCULO 2 DEL DEC. NO. 269-09, QUE NO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397570&managementType=1) | pendiente_verificacion_pdf |
-| 664-20 | 23/11/2020 | 10997 | QUE CREA LA UNIDAD DE EVALUACIÓN Y SEGUIMIENTO DE PROYECTOS, ADSCRITA AL MINISTERIO ADMINISTRATIVO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397609&managementType=1) | pendiente_verificacion_pdf |
-| 665-20 | 23/11/2020 | 10997 | QUE NOMBRA A HECMILIO ARÍSTIDES GALVÁN CRUZ, DIRECTOR EJECUTIVO DE LA UNIDAD DE EVALUACIÓN Y SEGUIMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397610&managementType=1) | pendiente_verificacion_pdf |
-| 666-20 | 24/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 768-08, QUE DESIGNÓ A IVELISSE GARCÍA, SUBDIRECTORA DEL JARDÍN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397611&managementType=1) | pendiente_verificacion_pdf |
-| 667-20 | 24/11/2020 | 10997 | QUE PERMITE DURANTE EL HORARIO DE TOQUE DE QUEDA LA CIRCULACIÓN DE LOS VEHÍCULOS DE TRANSPORTE Y DIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397612&managementType=1) | pendiente_verificacion_pdf |
-| 668-20 | 24/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397613&managementType=1) | pendiente_verificacion_pdf |
-| 669-20 | 24/11/2020 | 10997 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 424-19, QUE DECLARÓ DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397614&managementType=1) | pendiente_verificacion_pdf |
-| 670-20 | 25/11/2020 | 10997 | QUE CONCEDE DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397615&managementType=1) | pendiente_verificacion_pdf |
-| 671-20 | 25/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR POST MORTEN POR PARTE DEL PODER EJECUTIVO A MARÍA ARGENTINA MINERVA MIRABAL REY... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397616&managementType=1) | pendiente_verificacion_pdf |
-| 672-20 | 27/11/2020 | 10997 | QUE ASCIENDE AL RANGO DE MAYOR GENERAL A VARIOS OFICIALES GENERALES DE LA POLICÍA NACIONAL Y A SU VE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397617&managementType=1) | pendiente_verificacion_pdf |
-| 673-20 | 27/11/2020 | 10997 | QUE NOMBRA A SONIA GUZMÁN K. DE HERNÁNDEZ, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA DE LA REPÚBL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397618&managementType=1) | pendiente_verificacion_pdf |
-| 674-20 | 27/11/2020 | 10997 | QUE DISPONE LA SUSPENSIÓN PROVISIONAL SIN DISFRUTE DE SUELDO, HASTA TANTO PRESENTEN SU DECLARACIÓN J... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397571&managementType=1) | pendiente_verificacion_pdf |
-| 675-20 | 27/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397619&managementType=1) | pendiente_verificacion_pdf |
-| 676-20 | 27/11/2020 | 10997 | QUE AUTORIZA UNA IMPRESIÓN DE ESTAMPILLAS PARA FÓSFOROS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397620&managementType=1) | pendiente_verificacion_pdf |
-| 677-20 | 27/11/2020 | 10997 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE BANI, SANTIAGO DE LOS CABALLEROS, BARAHONA, BAYAGUANA, SAN FRANC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397621&managementType=1) | pendiente_verificacion_pdf |
-| 678-20 | 27/11/2020 | 10997 | QUE MODIFICA VARIOS ARTÍCULOS DE LOS DECRETOS NOS. 454-05, 149-07, 263-09, 369-07, 518-97, 707-10, 5... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397622&managementType=1) | pendiente_verificacion_pdf |
-| 679-20 | 27/11/2020 | 10997 | QUE DESIGNA A RAFAEL EMILIO YUNÉN ZOUAIN, ODALIS GUILLERMO PÉREZ NINA Y ÁNGEL BIENVENIDO MORETA AGUA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397572&managementType=1) | pendiente_verificacion_pdf |
-| 680-20 | 27/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL MINISTER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397573&managementType=1) | pendiente_verificacion_pdf |
-| 681-20 | 27/11/2020 | 10997 | QUE DESIGNA SEIS (6) VICECÓNSULES DE LA REPÚBLICA EN ALEMANIA, ESPAÑA, FRANCIA Y PUERTO RICO. DEJA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397623&managementType=1) | pendiente_verificacion_pdf |
-| 682-20 | 27/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 444-11, ARTÍCULO 1, UNA PORCIÓN DE TERREN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397574&managementType=1) | pendiente_verificacion_pdf |
-| 683-20 | 30/11/2020 | 10998 | QUE DECLARA EL TERRITORIO NACIONAL EN ESTADO DE EMERGENCIA POR UN PERIODO DE CUARENTICINCO (45) DÍAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397498&managementType=1) | pendiente_verificacion_pdf |
-| 684-20 | 30/11/2020 | 10998 | QUE EXTIENDE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTE (20) DÍAS A PARTIR DEL 2 DE DICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397504&managementType=1) | pendiente_verificacion_pdf |
-| 685-20 | 30/11/2020 | 10998 | QUE CREA EL FONDO DE ASISTENCIA SOCIAL “NAVIDAD PARA LOS TRABAJADORES”, HABILITADO PARA EL MES DE DI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397499&managementType=1) | pendiente_verificacion_pdf |
-| 686-20 | 30/11/2020 | 10998 | QUE DESIGNA A PABLO FRANCISCO DE LA MOTA SANTANA, JULIO GONELL MOREL Y ALBERTO MARTE ALMÁNZAR, COMO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397505&managementType=1) | pendiente_verificacion_pdf |
-| 687-20 | 30/11/2020 | 10998 | QUE CREA E INTEGRA LA COMISIÓN DE REVISIÓN Y REESTRUCTURACIÓN DE POLÍTICAS Y PROGRAMAS DESTINADOS A ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397500&managementType=1) | pendiente_verificacion_pdf |
-| 688-20 | 30/11/2020 | 10998 | QUE DESIGNA A JOSÉ DEL CARMEN MARCANO DE LOS SANTOS, ASESOR DE COMERCIO INTERIOR DEL PODER EJECUTIVO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397506&managementType=1) | pendiente_verificacion_pdf |
-| 689-20 | 30/11/2020 | 10998 | QUE DESIGNA FUNCIONARIOS EN LA COMISIÓN MIXTA BILATERAL DOMINICANO-HAITIANA, TODOS CON RANGO DE EMBA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397501&managementType=1) | pendiente_verificacion_pdf |
-| 690-20 | 30/11/2020 | 10998 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 243-18, QUE NOMBRÓ A JOSÉ FRANCISCO RAMOS FRÍAS, CONSEJERO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397502&managementType=1) | pendiente_verificacion_pdf |
-| 691-20 | 30/11/2020 | 10998 | QUE DEROGA EL ARTÍCULO 6 DEL DEC. NO. 354-20, QUE DESIGNÓ A VÍCTOR MIGUEL POLANCO SEVERINO, VICEMINI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397507&managementType=1) | pendiente_verificacion_pdf |
-| 692-20 | 30/11/2020 | 10998 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO DE RD$10,000.00 M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397508&managementType=1) | pendiente_verificacion_pdf |
-| 693-20 | 04/12/2020 | 11000 | QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE LA PENSIÓN CORRESPONDIENTE A VARIOS OFICIALES GENE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397513&managementType=1) | pendiente_verificacion_pdf |
-| 694-20 | 09/12/2020 | 11000 | QUE NOMBRA A LUZ DEL ALBA JIMÉNEZ RAMÍREZ Y VICENTE LUIS DE PEÑA PERALTA, MINISTRA Y VICEMINISTRO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397514&managementType=1) | pendiente_verificacion_pdf |
-| 695-20 | 09/12/2020 | 11000 | QUE CREA E INTEGRA EL GABINETE DE TRANSPARENCIA, PREVENCIÓN Y CONTROL DEL GASTO PÚBLICO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397515&managementType=1) | pendiente_verificacion_pdf |
-| 696-20 | 10/12/2020 | 11000 | QUE CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUAN PABLO DUARTE A VARIOS OFICIALES SUPERIORES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397516&managementType=1) | pendiente_verificacion_pdf |
-| 697-20 | 14/12/2020 | 11002 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN AL MÉRITO AÉREO EN SUS DIFERENTES CATEGORÍAS, CON DISTINTIV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397629&managementType=1) | pendiente_verificacion_pdf |
-| 698-20 | 15/12/2020 | 11002 | QUE DEROGA LOS DECRETOS NOS. 504-20, 554-20 Y 684-20. ESTABLECE NUEVO HORARIO PARA EL TOQUE DE QUEDA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397630&managementType=1) | pendiente_verificacion_pdf |
-| 699-20 | 16/12/2020 | 11002 | QUE DECLARA DE DUELO OFICIAL EL DÍA 17 DE DICIEMBRE DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397638&managementType=1) | pendiente_verificacion_pdf |
-| 700-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397639&managementType=1) | pendiente_verificacion_pdf |
-| 701-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397640&managementType=1) | pendiente_verificacion_pdf |
-| 702-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397631&managementType=1) | pendiente_verificacion_pdf |
-| 703-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397641&managementType=1) | pendiente_verificacion_pdf |
-| 704-20 | 17/12/2020 | 11002 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397642&managementType=1) | pendiente_verificacion_pdf |
-| 705-20 | 17/12/2020 | 11002 | QUE DESIGNA A SONIA PAULINA CABRERA WAGNER, MIEMBRO DE LA COMISIÓN AEROPORTUARIA. DEJA SIN EFECTO LO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397643&managementType=1) | pendiente_verificacion_pdf |
-| 706-20 | 17/12/2020 | 11002 | QUE DESIGNA VARIOS CÓNSULES Y VICECÓNSULES EN EL SERVICIO EXTERIOR. DEJA SIN EFECTO VARIOS ARTÍCULOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397644&managementType=1) | pendiente_verificacion_pdf |
-| 707-20 | 17/12/2020 | 11002 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397645&managementType=1) | pendiente_verificacion_pdf |
-| 708-20 | 17/12/2020 | 11002 | QUE DESIGNA A LOURDES GISELA ANTONIA VICTORIA-KRUSE, LAURA VIRGINIA RAMONA FAXAS VARGAS DE JORGESEN,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397632&managementType=1) | pendiente_verificacion_pdf |
-| 709-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397633&managementType=1) | pendiente_verificacion_pdf |
+| 610-20 | 02/11/2020 | 10996 | QUE DESIGNA A ANTONIO M. TAVERAS GUZMÁN, SENADOR DE LA PROVINCIA SANTO DOMINGO, REPRESENTANTE DEL GO... | [Ver documento](decreto-610-2020.md) | normalizado · pendiente_revision |
+| 611-20 | 02/11/2020 | 10996 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-611-2020.md) | normalizado · pendiente_revision |
+| 612-20 | 03/11/2020 | 10996 | QUE INSTRUYE AL MINISTERIO DE LA PRESIDENCIA, GARANTIZAR LA HABILITACIÓN, VALIDACIÓN Y SEGUIMIENTO A... | [Ver documento](decreto-612-2020.md) | normalizado · pendiente_revision |
+| 613-20 | 03/11/2020 | 10996 | QUE INTEGRA EL PATRONATO PRO-DESARROLLO DE LA PROVINCIA SÁNCHEZ RAMÍREZ. DEROGA LOS DECRETOS NOS. 56... | [Ver documento](decreto-613-2020.md) | normalizado · pendiente_revision |
+| 614-20 | 04/11/2020 | 10996 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A VENUS GUILLERMINA CARBONELL PICHARDO Y KATIA MARÍA ROSARIO P... | [Ver documento](decreto-614-2020.md) | normalizado · pendiente_revision |
+| 615-20 | 05/11/2020 | 10996 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 571-07 Y EL DEC. NO. 124-08, QUE NOMBRARON A JULISSA PATRICIA ... | [Ver documento](decreto-615-2020.md) | normalizado · pendiente_revision |
+| 616-20 | 05/11/2020 | 10996 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE V... | [Ver documento](decreto-616-2020.md) | normalizado · pendiente_revision |
+| 617-20 | 05/11/2020 | 10997 | QUE DESIGNA VICECÓNSULES Y AUXILIARES EN EL SERVICIO EXTERIOR. MODIFICA LOS ARTÍCULOS 26 Y 28 DEL DE... | [Ver documento](decreto-617-2020.md) | normalizado · pendiente_revision |
+| 618-20 | 05/11/2020 | 10997 | QUE INTEGRA EL CONSEJO DE LA MEDALLA PRESIDENCIAL AL MÉRITO CIVIL. MODIFICA EL ARTÍCULO 4 DEL DEC. N... | [Ver documento](decreto-618-2020.md) | normalizado · pendiente_revision |
+| 619-20 | 10/11/2020 | 10997 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTE (20) DÍAS A PARTIR DEL 12 DE NO... | [Ver documento](decreto-619-2020.md) | normalizado · pendiente_revision |
+| 620-20 | 10/11/2020 | 10997 | QUE NOMBRA A MARIA ELISA HOLGUÍN LÓPEZ, DIRECTORA DE LA UNIDAD DE ANÁLISIS FINANCIERO (UAF), POR UN ... | [Ver documento](decreto-620-2020.md) | normalizado · pendiente_revision |
+| 621-20 | 10/11/2020 | 10997 | QUE NOMBRA A PRÍAMO RAFAEL RAMÍREZ UBIERA E HILDA PATRICIA DE SAN MARTÍN POLANCO MORALES, MIEMBROS D... | [Ver documento](decreto-621-2020.md) | normalizado · pendiente_revision |
+| 622-20 | 10/11/2020 | 10997 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA REHABILITACIÓN, SANEAMIENTO, PRESERVACIÓN Y USO SOSTENIBLE... | [Ver documento](decreto-622-2020.md) | normalizado · pendiente_revision |
+| 623-20 | 10/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-623-2020.md) | normalizado · pendiente_revision |
+| 624-20 | 10/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-624-2020.md) | normalizado · pendiente_revision |
+| 625-20 | 10/11/2020 | 10997 | QUE NOMBRA VARIOS SUBDIRECTORES EN LA DIRECCIÓN GENERAL DE GANADERÍA. | [Ver documento](decreto-625-2020.md) | normalizado · pendiente_revision |
+| 626-20 | 10/11/2020 | 10997 | QUE NOMBRA EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE LA REPÚBLICA EN ITALIA, CONFEDERACIÓN ... | [Ver documento](decreto-626-2020.md) | normalizado · pendiente_revision |
+| 627-20 | 10/11/2020 | 10997 | QUE NOMBRA A ROLANDO MUÑOZ MEJÍA, DIRECTOR GENERAL DE MINERÍA. MODIFICA EL ARTÍCULO 3 DEL DEC. NO. 5... | [Ver documento](decreto-627-2020.md) | normalizado · pendiente_revision |
+| 628-20 | 10/11/2020 | 10997 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Ver documento](decreto-628-2020.md) | normalizado · pendiente_revision |
+| 629-20 | 10/11/2020 | 10997 | QUE DESIGNA A CONRADO ARÍSTIDES SANTANA REYES, SUBDIRECTOR DE LA UNIDAD TÉCNICA EJECUTORA DE PROYECT... | [Ver documento](decreto-629-2020.md) | normalizado · pendiente_revision |
+| 630-20 | 10/11/2020 | 10997 | QUE AUTORIZA AL CORONEL PARACAIDISTA JOSÉ ALBERTO HERNÁNDEZ RIVERA, FARD, A ACEPTAR Y USAR LA MEDALL... | [Ver documento](decreto-630-2020.md) | normalizado · pendiente_revision |
+| 631-20 | 10/11/2020 | 10997 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN, POR PARTE DEL ESTADO DOMINICANO DE ... | [Ver documento](decreto-631-2020.md) | normalizado · pendiente_revision |
+| 632-20 | 10/11/2020 | 10997 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FRANC... | [Ver documento](decreto-632-2020.md) | normalizado · pendiente_revision |
+| 633-20 | 10/11/2020 | 10997 | QUE MODIFICA EL NUMERAL 16, ARTÍCULO 1, DEL DEC. NO. 335-13. DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN... | [Ver documento](decreto-633-2020.md) | normalizado · pendiente_revision |
+| 634-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 166-13, ARTÍCULO 1, NUMERAL 9, VARIAS PAR... | [Ver documento](decreto-634-2020.md) | normalizado · pendiente_revision |
+| 635-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 112-16, ARTÍCULO 1, NUMERAL 12, DOS PORCI... | [Ver documento](decreto-635-2020.md) | normalizado · pendiente_revision |
+| 636-20 | 10/11/2020 | 10997 | QUE DEROGA VARIOS NUMERALES DE LOS ARTÍCULOS 1 DE LOS DECRETOS NOS. 387-15, 301-16, 423-17, 112-18 Y... | [Ver documento](decreto-636-2020.md) | normalizado · pendiente_revision |
+| 637-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADO MEDIANTE DEC. NO. 7-14, ARTÍCULO 1, NUMERALES 12, 13 Y 14, ... | [Ver documento](decreto-637-2020.md) | normalizado · pendiente_revision |
+| 638-20 | 11/11/2020 | 10997 | QUE NOMBRA A EUSEBIA MARÍA NÚÑEZ GARCÍA, CÓNSUL GENERAL DE LA REPÚBLICA EN MONTREAL, CANADÁ, Y VARIO... | [Ver documento](decreto-638-2020.md) | normalizado · pendiente_revision |
+| 639-20 | 11/11/2020 | 10997 | QUE DESIGNA A RAMÓN ANTONIO SANTOS PÉREZ, ASESOR DE COMERCIALIZACIÓN DE PRODUCTOS AGROPECUARIOS DEL ... | [Ver documento](decreto-639-2020.md) | normalizado · pendiente_revision |
+| 640-20 | 11/11/2020 | 10997 | QUE INSTRUYE AL CONSEJO NACIONAL DE COMPETITIVIDAD A ELABORAR, ARTICULAR Y COORDINAR LA ESTRATEGIA N... | [Ver documento](decreto-640-2020.md) | normalizado · pendiente_revision |
+| 641-20 | 12/11/2020 | 10997 | QUE DECLARA DE ALTO INTERÉS NACIONAL EL CULTIVO Y EXPORTACIÓN DEL CACAO. | [Ver documento](decreto-641-2020.md) | normalizado · pendiente_revision |
+| 642-20 | 16/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 398-09, QUE DESIGNÓ A JOSÉ DANTÉS DÍAZ, MINISTRO CONSEJERO DE ... | [Ver documento](decreto-642-2020.md) | normalizado · pendiente_revision |
+| 643-20 | 16/11/2020 | 10997 | QUE DESIGNA A SERGIA ELENA MEJÍA DE PEÑA Y JULIO CÉSAR LLIBRE SALCEDO, MIEMBROS DE LA JUNTA MONETARI... | [Ver documento](decreto-643-2020.md) | normalizado · pendiente_revision |
+| 644-20 | 18/11/2020 | 10997 | QUE DESIGNA DOCE (12) VICECÓNSULES DE LA REPÚBLICA EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-644-2020.md) | normalizado · pendiente_revision |
+| 645-20 | 18/11/2020 | 10997 | QUE NOMBRA A KATIA JULIANA CASTILLO MARTE, CÓNSUL GENERAL DE LA REPÚBLICA EN SANTA CRUZ DE TENERIFE,... | [Ver documento](decreto-645-2020.md) | normalizado · pendiente_revision |
+| 646-20 | 18/11/2020 | 10997 | QUE DESIGNA AL PRESIDENTE Y TRES (3) MIEMBROS DEL CONSEJO DE DIRECTIVO DEL INSTITUTO NACIONAL DE AUX... | [Ver documento](decreto-646-2020.md) | normalizado · pendiente_revision |
+| 647-20 | 18/11/2020 | 10997 | QUE NOMBRA A PERIANDRO GERTRUDIS DELGADO VARGAS, ASESOR EN MATERIA DE TELECOMUNICACIONES DEL PODER E... | [Ver documento](decreto-647-2020.md) | normalizado · pendiente_revision |
+| 648-20 | 18/11/2020 | 10997 | QUE INTEGRA EL CONSEJO DE DESARROLLO ECOTURÍSTICO DE LA PROVINCIA SAN JOSÉ DE OCOA. DEROGA EL DEC. N... | [Ver documento](decreto-648-2020.md) | normalizado · pendiente_revision |
+| 649-20 | 18/11/2020 | 10997 | QUE DESIGNA A FRANKLIN ANÍBAL PERALTA UCETA, SUBDIRECTOR DE LA CORPORACIÓN DE ACUEDUCTOS Y ALCANTARI... | [Ver documento](decreto-649-2020.md) | normalizado · pendiente_revision |
+| 650-20 | 18/11/2020 | 10997 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A PERSONAS EXTRANJERAS. MODIFICA VARIOS NUMERALES DE LOS ARTÍC... | [Ver documento](decreto-650-2020.md) | normalizado · pendiente_revision |
+| 651-20 | 18/11/2020 | 10997 | QUE DESIGNA A FIDIAS FEDERICO ARISTY PAYANO, ASESOR DEL PODER EJECUTIVO EN POLÍTICAS ANTINARCÓTICAS.... | [Ver documento](decreto-651-2020.md) | normalizado · pendiente_revision |
+| 652-20 | 18/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE VARIOS SUBDIRECTORES EN LA COMISIÓN PRESIDENCIAL DE DESARRO... | [Ver documento](decreto-652-2020.md) | normalizado · pendiente_revision |
+| 653-20 | 18/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS ARTÍCULOS 2 Y 4 DEL DEC. NO. 556-20 Y LOS ARTÍCULOS 38 Y 43 DEL DEC. NO. 557... | [Ver documento](decreto-653-2020.md) | normalizado · pendiente_revision |
+| 654-20 | 18/11/2020 | 10997 | QUE DESIGNA A RAMÓN ANTONIO VALDEZ Y FERNANDO JESÚS DAUHAJRE MORALES, COMISIONADOS NACIONALES DE BOX... | [Ver documento](decreto-654-2020.md) | normalizado · pendiente_revision |
+| 655-20 | 18/11/2020 | 10997 | QUE NOMBRA A JUAN BOLÍVAR DIAZ SANTANA, ROBERT MIKY TAKATA PIMENTEL Y FEDERICO ALBERTO CUELLO CAMILO... | [Ver documento](decreto-655-2020.md) | normalizado · pendiente_revision |
+| 656-20 | 18/11/2020 | 10997 | QUE DESIGNA A CARLOS PAULINO CÁRDENAS, SUBDIRECTOR DEL CENTRO DE OPERACIONES DE EMERGENCIAS. MODIFIC... | [Ver documento](decreto-656-2020.md) | normalizado · pendiente_revision |
+| 657-20 | 18/11/2020 | 10997 | QUE DESIGNA VARIOS FUNCIONARIOS DIPLOMÁTICOS DE LA REPÚBLICA EN LA REPÚBLICA DE HAITÍ. | [Ver documento](decreto-657-2020.md) | normalizado · pendiente_revision |
+| 658-20 | 23/11/2020 | 10997 | QUE CONFIRMA A JOSÉ RICARDO ROJAS LEÓN, COMO MIEMBRO DE LA JUNTA MONETARIA, POR UN PERÍODO DE DOS (2... | [Ver documento](decreto-658-2020.md) | normalizado · pendiente_revision |
+| 659-20 | 23/11/2020 | 10997 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 10-17. CREA LA UNIDAD COORDINADORA DE PROYECTOS DE DES... | [Ver documento](decreto-659-2020.md) | normalizado · pendiente_revision |
+| 660-20 | 23/11/2020 | 10997 | QUE DESIGNA A ANASTACIO BRAZOBÁN GONZÁLEZ, ASESOR DEL MINISTERIO DE INDUSTRIA, COMERCIO Y MIPYMES. | [Ver documento](decreto-660-2020.md) | normalizado · pendiente_revision |
+| 661-20 | 23/11/2020 | 10997 | QUE DESIGNA A CARLOS ENRIQUE ARIAS FLORIÁN, SUBDIRECTOR DE LA OFICINA METROPOLITANA DE SERVICIOS DE ... | [Ver documento](decreto-661-2020.md) | normalizado · pendiente_revision |
+| 662-20 | 23/11/2020 | 10997 | QUE DESIGNA VARIOS VICECÓNSULES DE LA REPÚBLICA EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-662-2020.md) | normalizado · pendiente_revision |
+| 663-20 | 23/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 5-09, MODIFICADO POR EL ARTÍCULO 2 DEL DEC. NO. 269-09, QUE NO... | [Ver documento](decreto-663-2020.md) | normalizado · pendiente_revision |
+| 664-20 | 23/11/2020 | 10997 | QUE CREA LA UNIDAD DE EVALUACIÓN Y SEGUIMIENTO DE PROYECTOS, ADSCRITA AL MINISTERIO ADMINISTRATIVO D... | [Ver documento](decreto-664-2020.md) | normalizado · pendiente_revision |
+| 665-20 | 23/11/2020 | 10997 | QUE NOMBRA A HECMILIO ARÍSTIDES GALVÁN CRUZ, DIRECTOR EJECUTIVO DE LA UNIDAD DE EVALUACIÓN Y SEGUIMI... | [Ver documento](decreto-665-2020.md) | normalizado · pendiente_revision |
+| 666-20 | 24/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 768-08, QUE DESIGNÓ A IVELISSE GARCÍA, SUBDIRECTORA DEL JARDÍN... | [Ver documento](decreto-666-2020.md) | normalizado · pendiente_revision |
+| 667-20 | 24/11/2020 | 10997 | QUE PERMITE DURANTE EL HORARIO DE TOQUE DE QUEDA LA CIRCULACIÓN DE LOS VEHÍCULOS DE TRANSPORTE Y DIS... | [Ver documento](decreto-667-2020.md) | normalizado · pendiente_revision |
+| 668-20 | 24/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-668-2020.md) | normalizado · pendiente_revision |
+| 669-20 | 24/11/2020 | 10997 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 424-19, QUE DECLARÓ DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRE... | [Ver documento](decreto-669-2020.md) | normalizado · pendiente_revision |
+| 670-20 | 25/11/2020 | 10997 | QUE CONCEDE DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN... | [Ver documento](decreto-670-2020.md) | normalizado · pendiente_revision |
+| 671-20 | 25/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR POST MORTEN POR PARTE DEL PODER EJECUTIVO A MARÍA ARGENTINA MINERVA MIRABAL REY... | [Ver documento](decreto-671-2020.md) | normalizado · pendiente_revision |
+| 672-20 | 27/11/2020 | 10997 | QUE ASCIENDE AL RANGO DE MAYOR GENERAL A VARIOS OFICIALES GENERALES DE LA POLICÍA NACIONAL Y A SU VE... | [Ver documento](decreto-672-2020.md) | normalizado · pendiente_revision |
+| 673-20 | 27/11/2020 | 10997 | QUE NOMBRA A SONIA GUZMÁN K. DE HERNÁNDEZ, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA DE LA REPÚBL... | [Ver documento](decreto-673-2020.md) | normalizado · pendiente_revision |
+| 674-20 | 27/11/2020 | 10997 | QUE DISPONE LA SUSPENSIÓN PROVISIONAL SIN DISFRUTE DE SUELDO, HASTA TANTO PRESENTEN SU DECLARACIÓN J... | [Ver documento](decreto-674-2020.md) | normalizado · pendiente_revision |
+| 675-20 | 27/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-675-2020.md) | normalizado · pendiente_revision |
+| 676-20 | 27/11/2020 | 10997 | QUE AUTORIZA UNA IMPRESIÓN DE ESTAMPILLAS PARA FÓSFOROS. | [Ver documento](decreto-676-2020.md) | normalizado · pendiente_revision |
+| 677-20 | 27/11/2020 | 10997 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE BANI, SANTIAGO DE LOS CABALLEROS, BARAHONA, BAYAGUANA, SAN FRANC... | [Ver documento](decreto-677-2020.md) | normalizado · pendiente_revision |
+| 678-20 | 27/11/2020 | 10997 | QUE MODIFICA VARIOS ARTÍCULOS DE LOS DECRETOS NOS. 454-05, 149-07, 263-09, 369-07, 518-97, 707-10, 5... | [Ver documento](decreto-678-2020.md) | normalizado · pendiente_revision |
+| 679-20 | 27/11/2020 | 10997 | QUE DESIGNA A RAFAEL EMILIO YUNÉN ZOUAIN, ODALIS GUILLERMO PÉREZ NINA Y ÁNGEL BIENVENIDO MORETA AGUA... | [Ver documento](decreto-679-2020.md) | normalizado · pendiente_revision |
+| 680-20 | 27/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL MINISTER... | [Ver documento](decreto-680-2020.md) | normalizado · pendiente_revision |
+| 681-20 | 27/11/2020 | 10997 | QUE DESIGNA SEIS (6) VICECÓNSULES DE LA REPÚBLICA EN ALEMANIA, ESPAÑA, FRANCIA Y PUERTO RICO. DEJA S... | [Ver documento](decreto-681-2020.md) | normalizado · pendiente_revision |
+| 682-20 | 27/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 444-11, ARTÍCULO 1, UNA PORCIÓN DE TERREN... | [Ver documento](decreto-682-2020.md) | normalizado · pendiente_revision |
+| 683-20 | 30/11/2020 | 10998 | QUE DECLARA EL TERRITORIO NACIONAL EN ESTADO DE EMERGENCIA POR UN PERIODO DE CUARENTICINCO (45) DÍAS... | [Ver documento](decreto-683-2020.md) | normalizado · pendiente_revision |
+| 684-20 | 30/11/2020 | 10998 | QUE EXTIENDE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTE (20) DÍAS A PARTIR DEL 2 DE DICI... | [Ver documento](decreto-684-2020.md) | normalizado · pendiente_revision |
+| 685-20 | 30/11/2020 | 10998 | QUE CREA EL FONDO DE ASISTENCIA SOCIAL “NAVIDAD PARA LOS TRABAJADORES”, HABILITADO PARA EL MES DE DI... | [Ver documento](decreto-685-2020.md) | normalizado · pendiente_revision |
+| 686-20 | 30/11/2020 | 10998 | QUE DESIGNA A PABLO FRANCISCO DE LA MOTA SANTANA, JULIO GONELL MOREL Y ALBERTO MARTE ALMÁNZAR, COMO ... | [Ver documento](decreto-686-2020.md) | normalizado · pendiente_revision |
+| 687-20 | 30/11/2020 | 10998 | QUE CREA E INTEGRA LA COMISIÓN DE REVISIÓN Y REESTRUCTURACIÓN DE POLÍTICAS Y PROGRAMAS DESTINADOS A ... | [Ver documento](decreto-687-2020.md) | normalizado · pendiente_revision |
+| 688-20 | 30/11/2020 | 10998 | QUE DESIGNA A JOSÉ DEL CARMEN MARCANO DE LOS SANTOS, ASESOR DE COMERCIO INTERIOR DEL PODER EJECUTIVO... | [Ver documento](decreto-688-2020.md) | normalizado · pendiente_revision |
+| 689-20 | 30/11/2020 | 10998 | QUE DESIGNA FUNCIONARIOS EN LA COMISIÓN MIXTA BILATERAL DOMINICANO-HAITIANA, TODOS CON RANGO DE EMBA... | [Ver documento](decreto-689-2020.md) | normalizado · pendiente_revision |
+| 690-20 | 30/11/2020 | 10998 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 243-18, QUE NOMBRÓ A JOSÉ FRANCISCO RAMOS FRÍAS, CONSEJERO DE ... | [Ver documento](decreto-690-2020.md) | normalizado · pendiente_revision |
+| 691-20 | 30/11/2020 | 10998 | QUE DEROGA EL ARTÍCULO 6 DEL DEC. NO. 354-20, QUE DESIGNÓ A VÍCTOR MIGUEL POLANCO SEVERINO, VICEMINI... | [Ver documento](decreto-691-2020.md) | normalizado · pendiente_revision |
+| 692-20 | 30/11/2020 | 10998 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO DE RD$10,000.00 M... | [Ver documento](decreto-692-2020.md) | normalizado · pendiente_revision |
+| 693-20 | 04/12/2020 | 11000 | QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE LA PENSIÓN CORRESPONDIENTE A VARIOS OFICIALES GENE... | [Ver documento](decreto-693-2020.md) | normalizado · pendiente_revision |
+| 694-20 | 09/12/2020 | 11000 | QUE NOMBRA A LUZ DEL ALBA JIMÉNEZ RAMÍREZ Y VICENTE LUIS DE PEÑA PERALTA, MINISTRA Y VICEMINISTRO DE... | [Ver documento](decreto-694-2020.md) | normalizado · pendiente_revision |
+| 695-20 | 09/12/2020 | 11000 | QUE CREA E INTEGRA EL GABINETE DE TRANSPARENCIA, PREVENCIÓN Y CONTROL DEL GASTO PÚBLICO. | [Ver documento](decreto-695-2020.md) | normalizado · pendiente_revision |
+| 696-20 | 10/12/2020 | 11000 | QUE CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUAN PABLO DUARTE A VARIOS OFICIALES SUPERIORES... | [Ver documento](decreto-696-2020.md) | normalizado · pendiente_revision |
+| 697-20 | 14/12/2020 | 11002 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN AL MÉRITO AÉREO EN SUS DIFERENTES CATEGORÍAS, CON DISTINTIV... | [Ver documento](decreto-697-2020.md) | normalizado · pendiente_revision |
+| 698-20 | 15/12/2020 | 11002 | QUE DEROGA LOS DECRETOS NOS. 504-20, 554-20 Y 684-20. ESTABLECE NUEVO HORARIO PARA EL TOQUE DE QUEDA... | [Ver documento](decreto-698-2020.md) | normalizado · pendiente_revision |
+| 699-20 | 16/12/2020 | 11002 | QUE DECLARA DE DUELO OFICIAL EL DÍA 17 DE DICIEMBRE DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO D... | [Ver documento](decreto-699-2020.md) | normalizado · pendiente_revision |
+| 700-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-700-2020.md) | normalizado · pendiente_revision |
+| 701-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-701-2020.md) | normalizado · pendiente_revision |
+| 702-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-702-2020.md) | normalizado · pendiente_revision |
+| 703-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-703-2020.md) | normalizado · pendiente_revision |
+| 704-20 | 17/12/2020 | 11002 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-704-2020.md) | normalizado · pendiente_revision |
+| 705-20 | 17/12/2020 | 11002 | QUE DESIGNA A SONIA PAULINA CABRERA WAGNER, MIEMBRO DE LA COMISIÓN AEROPORTUARIA. DEJA SIN EFECTO LO... | [Ver documento](decreto-705-2020.md) | normalizado · pendiente_revision |
+| 706-20 | 17/12/2020 | 11002 | QUE DESIGNA VARIOS CÓNSULES Y VICECÓNSULES EN EL SERVICIO EXTERIOR. DEJA SIN EFECTO VARIOS ARTÍCULOS... | [Ver documento](decreto-706-2020.md) | normalizado · pendiente_revision |
+| 707-20 | 17/12/2020 | 11002 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO... | [Ver documento](decreto-707-2020.md) | normalizado · pendiente_revision |
+| 708-20 | 17/12/2020 | 11002 | QUE DESIGNA A LOURDES GISELA ANTONIA VICTORIA-KRUSE, LAURA VIRGINIA RAMONA FAXAS VARGAS DE JORGESEN,... | [Ver documento](decreto-708-2020.md) | normalizado · pendiente_revision |
+| 709-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-709-2020.md) | normalizado · pendiente_revision |
 | 710-20 | 17/12/2020 | 11002 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 271-19. DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397646&managementType=1) | pendiente_verificacion_pdf |
 | 711-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO J. D.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397647&managementType=1) | pendiente_verificacion_pdf |
 | 712-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397648&managementType=1) | pendiente_verificacion_pdf |
