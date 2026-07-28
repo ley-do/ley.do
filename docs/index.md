@@ -1,133 +1,81 @@
-<section class="khaki-hero" markdown>
-<div class="khaki-hero__copy" markdown>
-<span class="khaki-overline">Archivo legal dominicano · Público · Verificable</span>
+<section class="library-landing">
+  <div class="library-lead">
+    <div class="library-lead__copy">
+      <span class="library-overline">Consulta documental · República Dominicana</span>
+      <h1>Una biblioteca legal hecha para verificar.</h1>
+      <p>Textos legales organizados con sus fuentes, originales y metadatos para que personas y máquinas puedan encontrar el documento sin perder su procedencia.</p>
+      <div class="library-actions">
+        <a href="#colecciones">Entrar a las colecciones</a>
+        <a href="acerca/">Conocer el método</a>
+      </div>
+    </div>
 
-# La ley, en claro.
-
-Constitución, leyes, decretos, resoluciones y proyectos organizados para encontrar, verificar y reutilizar documentos legales dominicanos desde sus fuentes oficiales.
-
-<div class="khaki-actions" markdown>
-[Explorar documentos](leyes/index.md)
-[Ver Constitución](constitucion/index.md)
-</div>
-
-<p class="khaki-note">Un corpus versionado en Git, legible por personas y por inteligencia artificial.</p>
-</div>
-
-<div class="khaki-tiles" aria-hidden="true">
-  <div class="khaki-tile tile-word"><span>LEY</span></div>
-  <div class="khaki-tile tile-lines"><i></i><i></i><i></i></div>
-  <div class="khaki-tile tile-year"><span>2016</span><small>— 2026</small></div>
-  <div class="khaki-tile tile-seal"><span></span></div>
-  <div class="khaki-tile tile-columns"><i></i><i></i><i></i><i></i></div>
-  <div class="khaki-tile tile-do"><span>.DO</span></div>
-  <div class="khaki-tile tile-meta"><small>PDF</small><small>MD</small><small>JSON</small></div>
-  <div class="khaki-tile tile-rule"><span></span></div>
-  <div class="khaki-tile tile-source"><small>FUENTE</small><strong>OFICIAL</strong></div>
-</div>
+    <nav class="library-catalog" id="colecciones" aria-label="Colecciones documentales">
+      <div class="library-catalog__head">
+        <span>Catálogo</span>
+        <span>Acceso</span>
+      </div>
+      <a href="constitucion/">
+        <span>Constitución</span>
+        <small>Consultar <span aria-hidden="true">↗</span></small>
+      </a>
+      <a href="leyes/">
+        <span>Leyes</span>
+        <small>Por año <span aria-hidden="true">↗</span></small>
+      </a>
+      <a href="decretos/">
+        <span>Decretos</span>
+        <small>Por año <span aria-hidden="true">↗</span></small>
+      </a>
+      <a href="resoluciones/">
+        <span>Resoluciones</span>
+        <small>Consultar <span aria-hidden="true">↗</span></small>
+      </a>
+      <a href="proyectos/">
+        <span>Proyectos</span>
+        <small>Consultar <span aria-hidden="true">↗</span></small>
+      </a>
+    </nav>
+  </div>
 </section>
 
-!!! warning "Aviso"
-    LEY.DO no es una fuente oficial ni ofrece asesoría legal. La fuente oficial dominicana siempre prevalece.
-
-<section class="khaki-intro" markdown>
-<div markdown>
-<span class="khaki-overline dark">Todo lo que puedes encontrar</span>
-
-## Un archivo legal pensado para ser recorrido, no descifrado.
-</div>
-<div markdown>
-LEY.DO separa cada familia documental, conserva su procedencia y muestra con claridad qué está detectado, qué está normalizado y qué todavía requiere revisión humana.
-</div>
+<section class="library-disclaimer" aria-label="Descargo legal">
+  <h2>Independiente, no oficial.</h2>
+  <p>LEY.DO no interpreta, certifica ni autentica la ley y no ofrece asesoría legal. Cada documento debe comprobarse contra la fuente oficial indicada.</p>
+  <a href="acerca/descargo/">Ver el descargo <span aria-hidden="true">→</span></a>
 </section>
 
-<section class="khaki-index" markdown>
-<div class="khaki-index__row" markdown>
-<span>Constitución</span>
-Versiones constitucionales y documentos de reforma identificados en fuentes oficiales.
-[Consultar](constitucion/index.md)
-</div>
-<div class="khaki-index__row" markdown>
-<span>Leyes</span>
-Leyes dominicanas por año, con número, fecha, gaceta, título y enlace oficial.
-[Consultar](leyes/index.md)
-</div>
-<div class="khaki-index__row" markdown>
-<span>Decretos</span>
-Decretos por año, organizados para descarga, verificación y normalización documental.
-[Consultar](decretos/index.md)
-</div>
-<div class="khaki-index__row" markdown>
-<span>Resoluciones</span>
-Resoluciones oficiales organizadas por institución y período.
-[Consultar](resoluciones/index.md)
-</div>
-<div class="khaki-index__row" markdown>
-<span>Proyectos</span>
-Proyectos legislativos y documentos relacionados provenientes de fuentes oficiales.
-[Consultar](proyectos/index.md)
-</div>
+<section class="library-method" id="metodo">
+  <div class="library-method__intro">
+    <span class="library-overline">La promesa del archivo</span>
+    <h2>Conservar el texto y también su historia.</h2>
+    <p>La interfaz no oculta el proceso: muestra procedencia, formatos disponibles y estado de revisión.</p>
+  </div>
+
+  <div class="library-principles">
+    <article>
+      <span class="library-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <h3>Original</h3>
+      <p>El PDF oficial se preserva sin modificaciones y mantiene el enlace a su institución fuente.</p>
+    </article>
+    <article>
+      <span class="library-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <h3>Legible</h3>
+      <p>El Markdown estructurado facilita lectura, búsqueda y reutilización documental.</p>
+    </article>
+    <article>
+      <span class="library-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <h3>Auditable</h3>
+      <p>JSON, SHA256, estados de revisión e historial en Git permiten comprobar el proceso.</p>
+    </article>
+  </div>
 </section>
 
-<section class="khaki-statement" markdown>
-<div class="khaki-statement__pattern" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
-<div markdown>
-<span class="khaki-overline dark">Por qué existe</span>
-
-## Encontrar un documento no debería significar perder su origen.
-
-LEY.DO busca que cada documento pueda localizarse, contrastarse con su fuente oficial y reutilizarse sin borrar la trazabilidad que le da confianza.
-</div>
-</section>
-
-<section class="khaki-use" markdown>
-<div markdown>
-<span class="khaki-overline dark">Cómo utilizar LEY.DO</span>
-
-## De la búsqueda a la verificación.
-</div>
-<div class="khaki-use__steps" markdown>
-<div markdown>
-### Encuentra
-Entra por tipo de documento y año. La navegación pública evita estructuras técnicas innecesarias.
-</div>
-<div markdown>
-### Contrasta
-Revisa fecha, gaceta, enlace oficial y estado documental antes de utilizar el contenido.
-</div>
-<div markdown>
-### Reutiliza
-PDF conserva el original; Markdown facilita lectura; JSON estructura datos; SHA256 verifica integridad.
-</div>
-</div>
-</section>
-
-<section class="khaki-proof" markdown>
-<div markdown>
-<span class="khaki-overline">Rigor documental</span>
-
-## Una interfaz serena para un archivo exigente.
-
-La estética ayuda a entrar. La trazabilidad permite confiar: fuentes oficiales, hashes, estados de revisión e historial en Git.
-</div>
-<div class="khaki-proof__codes" markdown>
-`fuente_oficial` · `pdf_original`
-
-`markdown` · `json` · `sha256`
-
-`estado_revision: pendiente_revision`
-</div>
-</section>
-
-<section class="khaki-join" markdown>
-<span class="khaki-overline dark">Construcción pública</span>
-
-## Intégrate a LEY.DO.
-
-Ayuda a verificar fuentes, revisar documentos, mejorar la lectura, normalizar datos o construir herramientas abiertas sobre el corpus legal dominicano.
-
-<div class="khaki-actions" markdown>
-[Cómo contribuir](acerca/index.md)
-[Explorar el corpus](leyes/index.md)
-</div>
+<section class="library-source">
+  <div>
+    <span class="library-overline">Trazabilidad antes que velocidad</span>
+    <h2>La fuente oficial siempre prevalece.</h2>
+  </div>
+  <p>LEY.DO es un archivo público independiente. Su función es recopilar, organizar, transcribir y versionar documentos legales públicos provenientes de fuentes oficiales dominicanas.</p>
+  <a href="acerca/">Cómo funciona LEY.DO <span aria-hidden="true">→</span></a>
 </section>

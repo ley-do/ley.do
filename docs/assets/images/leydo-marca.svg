@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Marca de LEY.DO</title>
+  <desc id="desc">Dos marcos abiertos representan la entrada a un archivo; un punto vino identifica el dominio.</desc>
+  <rect width="64" height="64" fill="#f3efe3"/>
+  <path d="M9 57V8h33v49" fill="none" stroke="#26312c" stroke-width="3.5"/>
+  <path d="M20 57V19h34v38" fill="none" stroke="#8d9275" stroke-width="3.5"/>
+  <circle cx="46" cy="40" r="5.5" fill="#7c3f3a"/>
+</svg>

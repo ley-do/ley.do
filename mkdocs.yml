@@ -7,6 +7,8 @@ repo_url: https://github.com/ley-do/ley.do
 theme:
   name: material
   language: es
+  logo: assets/images/leydo-marca.svg
+  favicon: assets/images/leydo-marca.svg
   font:
     text: IBM Plex Sans
     code: IBM Plex Mono
