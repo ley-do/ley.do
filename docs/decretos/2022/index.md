@@ -109,12 +109,112 @@ Documentos detectados: **793**.
 - [Decreto núm. 098-2022](decreto-098-2022.md)
 - [Decreto núm. 099-2022](decreto-099-2022.md)
 - [Decreto núm. 100-2022](decreto-100-2022.md)
+- [Decreto núm. 101-2022](decreto-101-2022.md)
+- [Decreto núm. 102-2022](decreto-102-2022.md)
+- [Decreto núm. 103-2022](decreto-103-2022.md)
+- [Decreto núm. 104-2022](decreto-104-2022.md)
+- [Decreto núm. 105-2022](decreto-105-2022.md)
+- [Decreto núm. 106-2022](decreto-106-2022.md)
+- [Decreto núm. 107-2022](decreto-107-2022.md)
+- [Decreto núm. 108-2022](decreto-108-2022.md)
+- [Decreto núm. 109-2022](decreto-109-2022.md)
+- [Decreto núm. 110-2022](decreto-110-2022.md)
+- [Decreto núm. 111-2022](decreto-111-2022.md)
+- [Decreto núm. 112-2022](decreto-112-2022.md)
+- [Decreto núm. 113-2022](decreto-113-2022.md)
+- [Decreto núm. 114-2022](decreto-114-2022.md)
+- [Decreto núm. 115-2022](decreto-115-2022.md)
+- [Decreto núm. 116-2022](decreto-116-2022.md)
+- [Decreto núm. 117-2022](decreto-117-2022.md)
+- [Decreto núm. 118-2022](decreto-118-2022.md)
+- [Decreto núm. 119-2022](decreto-119-2022.md)
+- [Decreto núm. 120-2022](decreto-120-2022.md)
+- [Decreto núm. 121-2022](decreto-121-2022.md)
+- [Decreto núm. 122-2022](decreto-122-2022.md)
+- [Decreto núm. 123-2022](decreto-123-2022.md)
+- [Decreto núm. 124-2022](decreto-124-2022.md)
+- [Decreto núm. 125-2022](decreto-125-2022.md)
+- [Decreto núm. 126-2022](decreto-126-2022.md)
+- [Decreto núm. 127-2022](decreto-127-2022.md)
+- [Decreto núm. 128-2022](decreto-128-2022.md)
+- [Decreto núm. 129-2022](decreto-129-2022.md)
+- [Decreto núm. 130-2022](decreto-130-2022.md)
+- [Decreto núm. 131-2022](decreto-131-2022.md)
+- [Decreto núm. 132-2022](decreto-132-2022.md)
+- [Decreto núm. 133-2022](decreto-133-2022.md)
+- [Decreto núm. 134-2022](decreto-134-2022.md)
+- [Decreto núm. 135-2022](decreto-135-2022.md)
+- [Decreto núm. 136-2022](decreto-136-2022.md)
+- [Decreto núm. 137-2022](decreto-137-2022.md)
+- [Decreto núm. 138-2022](decreto-138-2022.md)
+- [Decreto núm. 139-2022](decreto-139-2022.md)
+- [Decreto núm. 140-2022](decreto-140-2022.md)
+- [Decreto núm. 141-2022](decreto-141-2022.md)
+- [Decreto núm. 142-2022](decreto-142-2022.md)
+- [Decreto núm. 143-2022](decreto-143-2022.md)
+- [Decreto núm. 144-2022](decreto-144-2022.md)
+- [Decreto núm. 145-2022](decreto-145-2022.md)
+- [Decreto núm. 146-2022](decreto-146-2022.md)
+- [Decreto núm. 147-2022](decreto-147-2022.md)
+- [Decreto núm. 148-2022](decreto-148-2022.md)
+- [Decreto núm. 149-2022](decreto-149-2022.md)
+- [Decreto núm. 150-2022](decreto-150-2022.md)
+- [Decreto núm. 151-2022](decreto-151-2022.md)
+- [Decreto núm. 152-2022](decreto-152-2022.md)
+- [Decreto núm. 153-2022](decreto-153-2022.md)
+- [Decreto núm. 154-2022](decreto-154-2022.md)
+- [Decreto núm. 155-2022](decreto-155-2022.md)
+- [Decreto núm. 156-2022](decreto-156-2022.md)
+- [Decreto núm. 157-2022](decreto-157-2022.md)
+- [Decreto núm. 158-2022](decreto-158-2022.md)
+- [Decreto núm. 159-2022](decreto-159-2022.md)
+- [Decreto núm. 160-2022](decreto-160-2022.md)
+- [Decreto núm. 161-2022](decreto-161-2022.md)
+- [Decreto núm. 162-2022](decreto-162-2022.md)
+- [Decreto núm. 163-2022](decreto-163-2022.md)
+- [Decreto núm. 164-2022](decreto-164-2022.md)
+- [Decreto núm. 165-2022](decreto-165-2022.md)
+- [Decreto núm. 166-2022](decreto-166-2022.md)
+- [Decreto núm. 167-2022](decreto-167-2022.md)
+- [Decreto núm. 168-2022](decreto-168-2022.md)
+- [Decreto núm. 169-2022](decreto-169-2022.md)
+- [Decreto núm. 170-2022](decreto-170-2022.md)
+- [Decreto núm. 171-2022](decreto-171-2022.md)
+- [Decreto núm. 172-2022](decreto-172-2022.md)
+- [Decreto núm. 173-2022](decreto-173-2022.md)
+- [Decreto núm. 174-2022](decreto-174-2022.md)
+- [Decreto núm. 175-2022](decreto-175-2022.md)
+- [Decreto núm. 176-2022](decreto-176-2022.md)
+- [Decreto núm. 177-2022](decreto-177-2022.md)
+- [Decreto núm. 178-2022](decreto-178-2022.md)
+- [Decreto núm. 179-2022](decreto-179-2022.md)
+- [Decreto núm. 180-2022](decreto-180-2022.md)
+- [Decreto núm. 181-2022](decreto-181-2022.md)
+- [Decreto núm. 182-2022](decreto-182-2022.md)
+- [Decreto núm. 183-2022](decreto-183-2022.md)
+- [Decreto núm. 184-2022](decreto-184-2022.md)
+- [Decreto núm. 185-2022](decreto-185-2022.md)
+- [Decreto núm. 186-2022](decreto-186-2022.md)
+- [Decreto núm. 187-2022](decreto-187-2022.md)
+- [Decreto núm. 188-2022](decreto-188-2022.md)
+- [Decreto núm. 189-2022](decreto-189-2022.md)
+- [Decreto núm. 190-2022](decreto-190-2022.md)
+- [Decreto núm. 191-2022](decreto-191-2022.md)
+- [Decreto núm. 192-2022](decreto-192-2022.md)
+- [Decreto núm. 193-2022](decreto-193-2022.md)
+- [Decreto núm. 194-2022](decreto-194-2022.md)
+- [Decreto núm. 195-2022](decreto-195-2022.md)
+- [Decreto núm. 196-2022](decreto-196-2022.md)
+- [Decreto núm. 197-2022](decreto-197-2022.md)
+- [Decreto núm. 198-2022](decreto-198-2022.md)
+- [Decreto núm. 199-2022](decreto-199-2022.md)
+- [Decreto núm. 200-2022](decreto-200-2022.md)
 
 ## Documentos detectados
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
 |---:|---|---:|---|---|---|
-| 132-22 | 22/03/1900 | 11062 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 22, 23 Y 24 DE MARZO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399283&managementType=1) | pendiente_verificacion_pdf |
+| 132-22 | 22/03/1900 | 11062 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 22, 23 Y 24 DE MARZO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Ver documento](decreto-132-2022.md) | normalizado · pendiente_revision |
 | 840-21 | 28/12/2021 | 11055 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO.270-15. ESTABLECE LAS PORCIONES DE TERRENOS DONDE ESTARÁ UBIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399046&managementType=1) | pendiente_verificacion_pdf |
 | 841-21 | 28/12/2021 | 11055 | DEL 28 DE DICIEMBRE DE 2021, QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO.328-10. DISPONE LAS PORCIONES DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399052&managementType=1) | pendiente_verificacion_pdf |
 | 842-21 | 28/12/2021 | 11055 | QUE NOMBRA A ERNESTO TORRES PEREYRA Y PABLO ARAMIS ALMIGAR VALENTÍN ROSARIO, EMBAJADORES EXTRAORDINA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399047&managementType=1) | pendiente_verificacion_pdf |
@@ -235,106 +335,106 @@ Documentos detectados: **793**.
 | 98-22 | 26/02/2022 | 11060 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-098-2022.md) | normalizado · pendiente_revision |
 | 99-22 | 26/02/2022 | 11060 | QUE CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUAN PABLO DUARTE A VARIOS OFICIALES SUPERIORES... | [Ver documento](decreto-099-2022.md) | normalizado · pendiente_revision |
 | 100-22 | 27/02/2022 | 11060 | QUE ASCIENDE A VARIOS OFICIALES GENERALES Y SUPERIORES DEL EJÉRCITO, DE LA ARMADA Y DE LA FUERZA AÉR... | [Ver documento](decreto-100-2022.md) | normalizado · pendiente_revision |
-| 101-22 | 27/02/2022 | 11060 | QUE ASCIENDE A VARIOS GENERALES DE BRIGADA DEL EJÉRCITO Y DE LA FUERZA AÉREA DE REPUBLICA DOMINICANA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399254&managementType=1) | pendiente_verificacion_pdf |
-| 167-22 | 28/02/2022 | 11063 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO A ALEXANDER DE LA ROSA BERIGÜETE. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399151&managementType=1) | pendiente_verificacion_pdf |
-| 102-22 | 01/03/2022 | 11061 | QUE ASCIENDE A ONCE (11) GENERALES DE BRIGADA DE LA POLICÍA NACIONAL AL RANGO DE MAYOR GENERAL Y LOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399256&managementType=1) | pendiente_verificacion_pdf |
-| 103-22 | 01/03/2022 | 11061 | QUE APRUEBA LA POLÍTICA NACIONAL DE DATOS ABIERTOS, LA CUAL SE ENCONTRARÁ DISPONIBLE EN EL PORTAL NA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399263&managementType=1) | pendiente_verificacion_pdf |
-| 104-22 | 01/03/2022 | 11061 | QUE COLOCA EN SITUACIÓN DE RETIRO A VARIOS OFICIALES SUPERIORES, SUBALTERNOS, CLASES Y ASIMILADOS DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399264&managementType=1) | pendiente_verificacion_pdf |
-| 105-22 | 01/03/2022 | 11061 | QUE ASCIENDE A ONCE (11) CORONELES DE LA POLICÍA NACIONAL AL RANGO DE GENERAL DE BRIGADA, P.N. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399265&managementType=1) | pendiente_verificacion_pdf |
-| 106-22 | 07/03/2022 | 11061 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399257&managementType=1) | pendiente_verificacion_pdf |
-| 107-22 | 07/03/2022 | 11061 | QUE CONCEDE LA MEDALLA AL MÉRITO DE LA MUJER A ONCE (11) MUJERES DESTACADAS EN EL QUEHACER SOCIAL, E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399266&managementType=1) | pendiente_verificacion_pdf |
-| 108-22 | 07/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CATORCE (14) MUJERES DESTAC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399267&managementType=1) | pendiente_verificacion_pdf |
-| 109-22 | 07/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO A 140 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399268&managementType=1) | pendiente_verificacion_pdf |
-| 110-22 | 15/03/2022 | 11061 | QUE NOMBRA A FIOR D´ALIZA ALDUEY MERCEDES, DIRECTORA EJECUTIVA DE LA COMISIÓN NACIONAL DE DEFENSA DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399258&managementType=1) | pendiente_verificacion_pdf |
-| 111-22 | 15/03/2022 | 11061 | QUE AUTORIZA EL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399259&managementType=1) | pendiente_verificacion_pdf |
-| 112-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399269&managementType=1) | pendiente_verificacion_pdf |
-| 113-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399270&managementType=1) | pendiente_verificacion_pdf |
-| 114-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399260&managementType=1) | pendiente_verificacion_pdf |
-| 115-22 | 15/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A EX SERVIDORES PÚBLICOS. EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399271&managementType=1) | pendiente_verificacion_pdf |
-| 116-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A DIVERSOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399272&managementType=1) | pendiente_verificacion_pdf |
-| 117-22 | 15/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO A CUARENTIDÓS (42... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399273&managementType=1) | pendiente_verificacion_pdf |
-| 118-22 | 15/03/2022 | 11061 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 308-18. DISPONE QUE EL PARQUE INDUSTRIAL EDUARDO LEÓN JIMÉN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399274&managementType=1) | pendiente_verificacion_pdf |
-| 119-22 | 15/03/2022 | 11061 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NÚM. 58-09, ARTÍCULO 1, NUMERAL 3, LA PARCELA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399261&managementType=1) | pendiente_verificacion_pdf |
-| 120-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TODO EL TE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399262&managementType=1) | pendiente_verificacion_pdf |
-| 121-22 | 15/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A PRÓSPERO DAVANCE JUAN. ELEV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399275&managementType=1) | pendiente_verificacion_pdf |
-| 122-22 | 16/03/2022 | 11061 | QUE CREA EL PREMIO ANUAL A LA EXCELENCIA DEL DOCENTE DE INSTITUCIONES DE EDUCACIÓN SUPERIOR, Y ESTAB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399276&managementType=1) | pendiente_verificacion_pdf |
-| 123-22 | 16/03/2022 | 11062 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO UNA PORCIÓN DE TERR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399278&managementType=1) | pendiente_verificacion_pdf |
-| 124-22 | 16/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE LOS DECRETOS NÚMS. 150-08 Y 204-08, EN VIRTUD DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399295&managementType=1) | pendiente_verificacion_pdf |
-| 125-22 | 17/03/2022 | 11062 | QUE REGULA LOS PROCESOS RELATIVOS AL REGISTRO DE COSMÉTICOS Y PRODUCTOS DE HIGIENE PERSONAL Y DEL HO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399296&managementType=1) | pendiente_verificacion_pdf |
-| 126-22 | 21/03/2022 | 11062 | QUE AUTORIZA AL AYUNTAMIENTO DEL MUNICIPIO DE SANTIAGO DE LOS CABALLEROS, A DONAR A FAVOR DE LA UNIV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399279&managementType=1) | pendiente_verificacion_pdf |
-| 127-22 | 21/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DECRETO NÚM. 371-17, NUMERAL 11, ARTÍCULO 1, UNA P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399280&managementType=1) | pendiente_verificacion_pdf |
-| 128-22 | 21/03/2022 | 11062 | QUE OTORGA EL BENEFICIO DE UNA PENSIÓN ESPECIAL, POR SU TRAYECTORIA DE SERVICIO, A CARMEN ESTHER SOL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399281&managementType=1) | pendiente_verificacion_pdf |
-| 129-22 | 21/03/2022 | 11062 | QUE ELEVA EL MONTO DE LA PENSIÓN OTORGADA POR EL ESTADO DOMINICANO A JOSÉ DE JESÚS NÚÑEZ ROJAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399297&managementType=1) | pendiente_verificacion_pdf |
-| 130-22 | 21/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A WILLIAM SALIN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399298&managementType=1) | pendiente_verificacion_pdf |
-| 131-22 | 21/03/2022 | 11062 | QUE CREA EL MONUMENTO NATURAL LOMA DEL FLACO "JOSÉ FRANCISCO PEÑA GÓMEZ", CON CATEGORÍA III, SEGÚN L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399282&managementType=1) | pendiente_verificacion_pdf |
-| 133-22 | 23/03/2022 | 11062 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399299&managementType=1) | pendiente_verificacion_pdf |
-| 134-22 | 23/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DE RD$10,000.00 MENSUALES, A 1,789 AFILI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399284&managementType=1) | pendiente_verificacion_pdf |
-| 135-22 | 23/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A DIEZ (10) EX SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399300&managementType=1) | pendiente_verificacion_pdf |
-| 136-22 | 23/03/2022 | 11062 | QUE LE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A DIEZ (10) CRONISTAS DE A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399285&managementType=1) | pendiente_verificacion_pdf |
-| 137-22 | 23/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399301&managementType=1) | pendiente_verificacion_pdf |
-| 138-22 | 23/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399302&managementType=1) | pendiente_verificacion_pdf |
-| 139-22 | 23/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399286&managementType=1) | pendiente_verificacion_pdf |
-| 140-22 | 23/03/2022 | 11062 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICO Y CONSULARES EN EL SERVICIO EXTERI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399303&managementType=1) | pendiente_verificacion_pdf |
-| 141-22 | 24/03/2022 | 11062 | QUE DESIGNA A ROBERT MIKY TAKATA PIMENTEL Y MIGUEL ÁNGEL PRESTOL GONZÁLEZ, EMBAJADORES EXTRAORDINARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399287&managementType=1) | pendiente_verificacion_pdf |
-| 142-22 | 24/03/2022 | 11062 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399304&managementType=1) | pendiente_verificacion_pdf |
-| 143-22 | 24/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399305&managementType=1) | pendiente_verificacion_pdf |
-| 144-22 | 24/03/2022 | 11062 | QUE DEROGA EL ARTÍCULO 4 DEL DECRETO NÚM. 6-09 Y EL ARTÍCULO 9 DEL DEC. NÚM. 1029-04, ASÍ COMO DEJA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399288&managementType=1) | pendiente_verificacion_pdf |
-| 145-22 | 24/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399289&managementType=1) | pendiente_verificacion_pdf |
-| 146-22 | 24/03/2022 | 11062 | QUE NOMBRA ERIBERTO JOSÉ GRULLÓN ACOSTA, PRESIDENTE DE LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARILLADO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399306&managementType=1) | pendiente_verificacion_pdf |
-| 147-22 | 24/03/2022 | 11062 | QUE DESIGNA A JOSÉ RADHAMÉS GARCÍA, ASESOR DE LA DIRECCIÓN DE ESTRATEGIA Y COMUNICACIÓN GUBERNAMENTA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399307&managementType=1) | pendiente_verificacion_pdf |
-| 148-22 | 24/03/2022 | 11062 | QUE REGULA LA APLICACIÓN DE LOS IMPUESTOS QUE GRAVAN LOS HIDROCARBUROS UTILIZADOS POR AERONAVES Y EM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399290&managementType=1) | pendiente_verificacion_pdf |
-| 149-22 | 25/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CUATRO (4) PERSONAS. ELEVA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399308&managementType=1) | pendiente_verificacion_pdf |
-| 150-22 | 28/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399291&managementType=1) | pendiente_verificacion_pdf |
-| 151-22 | 29/03/2022 | 11062 | QUE ORDENA LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JOSELI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399309&managementType=1) | pendiente_verificacion_pdf |
-| 152-22 | 29/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO MICHE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399310&managementType=1) | pendiente_verificacion_pdf |
-| 153-22 | 29/03/2022 | 11062 | QUE DESIGNA CINCO (5) VICECÓNSULES Y UN AUXILIAR CONSULAR DE LA REPÚBLICA EN VARIOS PAÍSES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399311&managementType=1) | pendiente_verificacion_pdf |
-| 154-22 | 29/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 18, DEL DEC. NÚM. 6-14, UNA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399312&managementType=1) | pendiente_verificacion_pdf |
-| 155-22 | 29/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 3, DEL DEC. NÚM. 8-14, UNA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399313&managementType=1) | pendiente_verificacion_pdf |
-| 156-22 | 29/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399314&managementType=1) | pendiente_verificacion_pdf |
-| 157-22 | 29/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399315&managementType=1) | pendiente_verificacion_pdf |
-| 158-22 | 31/03/2022 | 11062 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NÚM. 527-06. INTEGRA NUEVAMENTE EL CONSEJO PARA EL DESARRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399292&managementType=1) | pendiente_verificacion_pdf |
-| 159-22 | 31/03/2022 | 11062 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A MIGUEL IGNACIO FINCHEIRA REYES Y SU ESPOSA ROSA MAIRA PALIZA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399293&managementType=1) | pendiente_verificacion_pdf |
-| 160-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO GUILL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399294&managementType=1) | pendiente_verificacion_pdf |
-| 161-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RUBÉN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399316&managementType=1) | pendiente_verificacion_pdf |
-| 162-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO KELVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399317&managementType=1) | pendiente_verificacion_pdf |
-| 163-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399318&managementType=1) | pendiente_verificacion_pdf |
-| 164-22 | 31/03/2022 | 11063 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JONAT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399149&managementType=1) | pendiente_verificacion_pdf |
-| 165-22 | 31/03/2022 | 11063 | QUE MODIFICA EL PÁRRAFO DEL ARTÍCULO 1 DEL DEC. NÚM. 44-22, QUE DISPONE LA ENTREGA EN EXTRADICIÓN A ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399150&managementType=1) | pendiente_verificacion_pdf |
-| 166-22 | 31/03/2022 | 11063 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A SESENTA Y CINCO (65) LOCUTO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399146&managementType=1) | pendiente_verificacion_pdf |
-| 168-22 | 31/03/2022 | 11063 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES Y ELEVA LA SUMA DE PENSIONES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399152&managementType=1) | pendiente_verificacion_pdf |
-| 169-22 | 31/03/2022 | 11063 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO A MARÍA YRENE ÁNGELES FERNÁNDEZ DE LÓPEZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399147&managementType=1) | pendiente_verificacion_pdf |
-| 170-22 | 31/03/2022 | 11063 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO, CON DISTINTIVO AZUL, EN SUS RESPECTIVAS C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399148&managementType=1) | pendiente_verificacion_pdf |
-| 171-22 | 31/03/2022 | 11063 | QUE AUTORIZA AL CAPITÁN DE NAVÍO JOSÉ MANUEL DE JESÚS BÁEZ BÁEZ, ARD, A ACEPTAR Y USAR LA CONDECORAC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399153&managementType=1) | pendiente_verificacion_pdf |
-| 172-22 | 31/03/2022 | 11063 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DE LAS EXPORTACIONES, ADSCRITO AL MINISTERIO DE IN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399154&managementType=1) | pendiente_verificacion_pdf |
-| 173-22 | 31/03/2022 | 11063 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN ORDINARIA A PERSONAS EXTRANJERAS. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399155&managementType=1) | pendiente_verificacion_pdf |
-| 174-22 | 01/04/2022 | 11064 | QUE OTORGA DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DUARTE, SÁNCHEZ Y MELLA, EN EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399158&managementType=1) | pendiente_verificacion_pdf |
+| 101-22 | 27/02/2022 | 11060 | QUE ASCIENDE A VARIOS GENERALES DE BRIGADA DEL EJÉRCITO Y DE LA FUERZA AÉREA DE REPUBLICA DOMINICANA... | [Ver documento](decreto-101-2022.md) | normalizado · pendiente_revision |
+| 167-22 | 28/02/2022 | 11063 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO A ALEXANDER DE LA ROSA BERIGÜETE. | [Ver documento](decreto-167-2022.md) | normalizado · pendiente_revision |
+| 102-22 | 01/03/2022 | 11061 | QUE ASCIENDE A ONCE (11) GENERALES DE BRIGADA DE LA POLICÍA NACIONAL AL RANGO DE MAYOR GENERAL Y LOS... | [Ver documento](decreto-102-2022.md) | normalizado · pendiente_revision |
+| 103-22 | 01/03/2022 | 11061 | QUE APRUEBA LA POLÍTICA NACIONAL DE DATOS ABIERTOS, LA CUAL SE ENCONTRARÁ DISPONIBLE EN EL PORTAL NA... | [Ver documento](decreto-103-2022.md) | normalizado · pendiente_revision |
+| 104-22 | 01/03/2022 | 11061 | QUE COLOCA EN SITUACIÓN DE RETIRO A VARIOS OFICIALES SUPERIORES, SUBALTERNOS, CLASES Y ASIMILADOS DE... | [Ver documento](decreto-104-2022.md) | normalizado · pendiente_revision |
+| 105-22 | 01/03/2022 | 11061 | QUE ASCIENDE A ONCE (11) CORONELES DE LA POLICÍA NACIONAL AL RANGO DE GENERAL DE BRIGADA, P.N. | [Ver documento](decreto-105-2022.md) | normalizado · pendiente_revision |
+| 106-22 | 07/03/2022 | 11061 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO... | [Ver documento](decreto-106-2022.md) | normalizado · pendiente_revision |
+| 107-22 | 07/03/2022 | 11061 | QUE CONCEDE LA MEDALLA AL MÉRITO DE LA MUJER A ONCE (11) MUJERES DESTACADAS EN EL QUEHACER SOCIAL, E... | [Ver documento](decreto-107-2022.md) | normalizado · pendiente_revision |
+| 108-22 | 07/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CATORCE (14) MUJERES DESTAC... | [Ver documento](decreto-108-2022.md) | normalizado · pendiente_revision |
+| 109-22 | 07/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO A 140 PERSONAS. | [Ver documento](decreto-109-2022.md) | normalizado · pendiente_revision |
+| 110-22 | 15/03/2022 | 11061 | QUE NOMBRA A FIOR D´ALIZA ALDUEY MERCEDES, DIRECTORA EJECUTIVA DE LA COMISIÓN NACIONAL DE DEFENSA DE... | [Ver documento](decreto-110-2022.md) | normalizado · pendiente_revision |
+| 111-22 | 15/03/2022 | 11061 | QUE AUTORIZA EL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Ver documento](decreto-111-2022.md) | normalizado · pendiente_revision |
+| 112-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Ver documento](decreto-112-2022.md) | normalizado · pendiente_revision |
+| 113-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Ver documento](decreto-113-2022.md) | normalizado · pendiente_revision |
+| 114-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Ver documento](decreto-114-2022.md) | normalizado · pendiente_revision |
+| 115-22 | 15/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A EX SERVIDORES PÚBLICOS. EL... | [Ver documento](decreto-115-2022.md) | normalizado · pendiente_revision |
+| 116-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A DIVERSOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN... | [Ver documento](decreto-116-2022.md) | normalizado · pendiente_revision |
+| 117-22 | 15/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO A CUARENTIDÓS (42... | [Ver documento](decreto-117-2022.md) | normalizado · pendiente_revision |
+| 118-22 | 15/03/2022 | 11061 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 308-18. DISPONE QUE EL PARQUE INDUSTRIAL EDUARDO LEÓN JIMÉN... | [Ver documento](decreto-118-2022.md) | normalizado · pendiente_revision |
+| 119-22 | 15/03/2022 | 11061 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NÚM. 58-09, ARTÍCULO 1, NUMERAL 3, LA PARCELA... | [Ver documento](decreto-119-2022.md) | normalizado · pendiente_revision |
+| 120-22 | 15/03/2022 | 11061 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TODO EL TE... | [Ver documento](decreto-120-2022.md) | normalizado · pendiente_revision |
+| 121-22 | 15/03/2022 | 11061 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A PRÓSPERO DAVANCE JUAN. ELEV... | [Ver documento](decreto-121-2022.md) | normalizado · pendiente_revision |
+| 122-22 | 16/03/2022 | 11061 | QUE CREA EL PREMIO ANUAL A LA EXCELENCIA DEL DOCENTE DE INSTITUCIONES DE EDUCACIÓN SUPERIOR, Y ESTAB... | [Ver documento](decreto-122-2022.md) | normalizado · pendiente_revision |
+| 123-22 | 16/03/2022 | 11062 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO UNA PORCIÓN DE TERR... | [Ver documento](decreto-123-2022.md) | normalizado · pendiente_revision |
+| 124-22 | 16/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE LOS DECRETOS NÚMS. 150-08 Y 204-08, EN VIRTUD DE L... | [Ver documento](decreto-124-2022.md) | normalizado · pendiente_revision |
+| 125-22 | 17/03/2022 | 11062 | QUE REGULA LOS PROCESOS RELATIVOS AL REGISTRO DE COSMÉTICOS Y PRODUCTOS DE HIGIENE PERSONAL Y DEL HO... | [Ver documento](decreto-125-2022.md) | normalizado · pendiente_revision |
+| 126-22 | 21/03/2022 | 11062 | QUE AUTORIZA AL AYUNTAMIENTO DEL MUNICIPIO DE SANTIAGO DE LOS CABALLEROS, A DONAR A FAVOR DE LA UNIV... | [Ver documento](decreto-126-2022.md) | normalizado · pendiente_revision |
+| 127-22 | 21/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DECRETO NÚM. 371-17, NUMERAL 11, ARTÍCULO 1, UNA P... | [Ver documento](decreto-127-2022.md) | normalizado · pendiente_revision |
+| 128-22 | 21/03/2022 | 11062 | QUE OTORGA EL BENEFICIO DE UNA PENSIÓN ESPECIAL, POR SU TRAYECTORIA DE SERVICIO, A CARMEN ESTHER SOL... | [Ver documento](decreto-128-2022.md) | normalizado · pendiente_revision |
+| 129-22 | 21/03/2022 | 11062 | QUE ELEVA EL MONTO DE LA PENSIÓN OTORGADA POR EL ESTADO DOMINICANO A JOSÉ DE JESÚS NÚÑEZ ROJAS. | [Ver documento](decreto-129-2022.md) | normalizado · pendiente_revision |
+| 130-22 | 21/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A WILLIAM SALIN... | [Ver documento](decreto-130-2022.md) | normalizado · pendiente_revision |
+| 131-22 | 21/03/2022 | 11062 | QUE CREA EL MONUMENTO NATURAL LOMA DEL FLACO "JOSÉ FRANCISCO PEÑA GÓMEZ", CON CATEGORÍA III, SEGÚN L... | [Ver documento](decreto-131-2022.md) | normalizado · pendiente_revision |
+| 133-22 | 23/03/2022 | 11062 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-133-2022.md) | normalizado · pendiente_revision |
+| 134-22 | 23/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DE RD$10,000.00 MENSUALES, A 1,789 AFILI... | [Ver documento](decreto-134-2022.md) | normalizado · pendiente_revision |
+| 135-22 | 23/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A DIEZ (10) EX SE... | [Ver documento](decreto-135-2022.md) | normalizado · pendiente_revision |
+| 136-22 | 23/03/2022 | 11062 | QUE LE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A DIEZ (10) CRONISTAS DE A... | [Ver documento](decreto-136-2022.md) | normalizado · pendiente_revision |
+| 137-22 | 23/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-137-2022.md) | normalizado · pendiente_revision |
+| 138-22 | 23/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-138-2022.md) | normalizado · pendiente_revision |
+| 139-22 | 23/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Ver documento](decreto-139-2022.md) | normalizado · pendiente_revision |
+| 140-22 | 23/03/2022 | 11062 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICO Y CONSULARES EN EL SERVICIO EXTERI... | [Ver documento](decreto-140-2022.md) | normalizado · pendiente_revision |
+| 141-22 | 24/03/2022 | 11062 | QUE DESIGNA A ROBERT MIKY TAKATA PIMENTEL Y MIGUEL ÁNGEL PRESTOL GONZÁLEZ, EMBAJADORES EXTRAORDINARI... | [Ver documento](decreto-141-2022.md) | normalizado · pendiente_revision |
+| 142-22 | 24/03/2022 | 11062 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES | [Ver documento](decreto-142-2022.md) | normalizado · pendiente_revision |
+| 143-22 | 24/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-143-2022.md) | normalizado · pendiente_revision |
+| 144-22 | 24/03/2022 | 11062 | QUE DEROGA EL ARTÍCULO 4 DEL DECRETO NÚM. 6-09 Y EL ARTÍCULO 9 DEL DEC. NÚM. 1029-04, ASÍ COMO DEJA ... | [Ver documento](decreto-144-2022.md) | normalizado · pendiente_revision |
+| 145-22 | 24/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-145-2022.md) | normalizado · pendiente_revision |
+| 146-22 | 24/03/2022 | 11062 | QUE NOMBRA ERIBERTO JOSÉ GRULLÓN ACOSTA, PRESIDENTE DE LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARILLADO... | [Ver documento](decreto-146-2022.md) | normalizado · pendiente_revision |
+| 147-22 | 24/03/2022 | 11062 | QUE DESIGNA A JOSÉ RADHAMÉS GARCÍA, ASESOR DE LA DIRECCIÓN DE ESTRATEGIA Y COMUNICACIÓN GUBERNAMENTA... | [Ver documento](decreto-147-2022.md) | normalizado · pendiente_revision |
+| 148-22 | 24/03/2022 | 11062 | QUE REGULA LA APLICACIÓN DE LOS IMPUESTOS QUE GRAVAN LOS HIDROCARBUROS UTILIZADOS POR AERONAVES Y EM... | [Ver documento](decreto-148-2022.md) | normalizado · pendiente_revision |
+| 149-22 | 25/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CUATRO (4) PERSONAS. ELEVA ... | [Ver documento](decreto-149-2022.md) | normalizado · pendiente_revision |
+| 150-22 | 28/03/2022 | 11062 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-150-2022.md) | normalizado · pendiente_revision |
+| 151-22 | 29/03/2022 | 11062 | QUE ORDENA LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JOSELI... | [Ver documento](decreto-151-2022.md) | normalizado · pendiente_revision |
+| 152-22 | 29/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO MICHE... | [Ver documento](decreto-152-2022.md) | normalizado · pendiente_revision |
+| 153-22 | 29/03/2022 | 11062 | QUE DESIGNA CINCO (5) VICECÓNSULES Y UN AUXILIAR CONSULAR DE LA REPÚBLICA EN VARIOS PAÍSES. | [Ver documento](decreto-153-2022.md) | normalizado · pendiente_revision |
+| 154-22 | 29/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 18, DEL DEC. NÚM. 6-14, UNA... | [Ver documento](decreto-154-2022.md) | normalizado · pendiente_revision |
+| 155-22 | 29/03/2022 | 11062 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 3, DEL DEC. NÚM. 8-14, UNA ... | [Ver documento](decreto-155-2022.md) | normalizado · pendiente_revision |
+| 156-22 | 29/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN TODO EL ... | [Ver documento](decreto-156-2022.md) | normalizado · pendiente_revision |
+| 157-22 | 29/03/2022 | 11062 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-157-2022.md) | normalizado · pendiente_revision |
+| 158-22 | 31/03/2022 | 11062 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NÚM. 527-06. INTEGRA NUEVAMENTE EL CONSEJO PARA EL DESARRO... | [Ver documento](decreto-158-2022.md) | normalizado · pendiente_revision |
+| 159-22 | 31/03/2022 | 11062 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A MIGUEL IGNACIO FINCHEIRA REYES Y SU ESPOSA ROSA MAIRA PALIZA... | [Ver documento](decreto-159-2022.md) | normalizado · pendiente_revision |
+| 160-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO GUILL... | [Ver documento](decreto-160-2022.md) | normalizado · pendiente_revision |
+| 161-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RUBÉN... | [Ver documento](decreto-161-2022.md) | normalizado · pendiente_revision |
+| 162-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO KELVI... | [Ver documento](decreto-162-2022.md) | normalizado · pendiente_revision |
+| 163-22 | 31/03/2022 | 11062 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Ver documento](decreto-163-2022.md) | normalizado · pendiente_revision |
+| 164-22 | 31/03/2022 | 11063 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JONAT... | [Ver documento](decreto-164-2022.md) | normalizado · pendiente_revision |
+| 165-22 | 31/03/2022 | 11063 | QUE MODIFICA EL PÁRRAFO DEL ARTÍCULO 1 DEL DEC. NÚM. 44-22, QUE DISPONE LA ENTREGA EN EXTRADICIÓN A ... | [Ver documento](decreto-165-2022.md) | normalizado · pendiente_revision |
+| 166-22 | 31/03/2022 | 11063 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A SESENTA Y CINCO (65) LOCUTO... | [Ver documento](decreto-166-2022.md) | normalizado · pendiente_revision |
+| 168-22 | 31/03/2022 | 11063 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES Y ELEVA LA SUMA DE PENSIONES ... | [Ver documento](decreto-168-2022.md) | normalizado · pendiente_revision |
+| 169-22 | 31/03/2022 | 11063 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO A MARÍA YRENE ÁNGELES FERNÁNDEZ DE LÓPEZ. | [Ver documento](decreto-169-2022.md) | normalizado · pendiente_revision |
+| 170-22 | 31/03/2022 | 11063 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO, CON DISTINTIVO AZUL, EN SUS RESPECTIVAS C... | [Ver documento](decreto-170-2022.md) | normalizado · pendiente_revision |
+| 171-22 | 31/03/2022 | 11063 | QUE AUTORIZA AL CAPITÁN DE NAVÍO JOSÉ MANUEL DE JESÚS BÁEZ BÁEZ, ARD, A ACEPTAR Y USAR LA CONDECORAC... | [Ver documento](decreto-171-2022.md) | normalizado · pendiente_revision |
+| 172-22 | 31/03/2022 | 11063 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DE LAS EXPORTACIONES, ADSCRITO AL MINISTERIO DE IN... | [Ver documento](decreto-172-2022.md) | normalizado · pendiente_revision |
+| 173-22 | 31/03/2022 | 11063 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN ORDINARIA A PERSONAS EXTRANJERAS. ... | [Ver documento](decreto-173-2022.md) | normalizado · pendiente_revision |
+| 174-22 | 01/04/2022 | 11064 | QUE OTORGA DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DUARTE, SÁNCHEZ Y MELLA, EN EL ... | [Ver documento](decreto-174-2022.md) | normalizado · pendiente_revision |
 | 100-17 | 03/04/2022 | 10879 | QUE DEROGA Y DEJA SIN EFECTO EL PODER ESPECIAL NO. 41-16, DEL 26 DE SEPTIEMBRE DE 2016, OTORGADO AL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399603&managementType=1) | pendiente_verificacion_pdf |
-| 175-22 | 04/04/2022 | 11064 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR AL SEÑOR JOSÉ JOAQUÍN GARCÍA T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399159&managementType=1) | pendiente_verificacion_pdf |
-| 176-22 | 04/04/2022 | 11064 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399168&managementType=1) | pendiente_verificacion_pdf |
-| 177-22 | 04/04/2022 | 11064 | QUE CREA EL PREMIO BIBLIOTECA NACIONAL DE LITERATURA INFANTIL., ORGANIZADO Y COSTEADO POR LA BIBLIOT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399169&managementType=1) | pendiente_verificacion_pdf |
-| 178-22 | 04/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LUCIOLA LEÓNIDAS ECHAVARRÍA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399160&managementType=1) | pendiente_verificacion_pdf |
-| 179-22 | 05/04/2022 | 11064 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA PRIVILEGIADA A RONALD EDUARDO SKEWES RAMN, DE NACIONALIDAD ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399170&managementType=1) | pendiente_verificacion_pdf |
-| 180-22 | 06/04/2022 | 11064 | QUE NOMBRA A LILIANA MARÍA CASTILLO TAPIA Y ALBERTO CRUZ ACOSTA, MIEMBROS-ESPECIALISTAS EN DIVERSAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399161&managementType=1) | pendiente_verificacion_pdf |
-| 181-22 | 08/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO A 349 PROFESIONALES AGROPECUARIOS. ELEVA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399171&managementType=1) | pendiente_verificacion_pdf |
-| 182-22 | 08/04/2022 | 11064 | QUE MODIFICA LOS DECRETOS NÚMEROS 78-16 Y 326-16. DISPONE QUE EL NOMBRE DEL PARQUE INDUSTRIAL Y ZONA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399172&managementType=1) | pendiente_verificacion_pdf |
-| 183-22 | 08/04/2022 | 11064 | QUE DESIGNA A REYMUNDO ANTONIO GARRIDO LANTIGUA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399162&managementType=1) | pendiente_verificacion_pdf |
-| 184-22 | 08/04/2022 | 11064 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, EN DIVERSAS CATEGORÍAS, A VARIOS OFICIALE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399173&managementType=1) | pendiente_verificacion_pdf |
-| 185-22 | 08/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399163&managementType=1) | pendiente_verificacion_pdf |
-| 186-22 | 08/04/2022 | 11064 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399174&managementType=1) | pendiente_verificacion_pdf |
-| 187-22 | 11/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A EX EMPLEADOS PÚBLICOS. CON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399164&managementType=1) | pendiente_verificacion_pdf |
-| 188-22 | 11/04/2022 | 11064 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO, CON DISTINTIVO AZUL, A VARIOS OFICIALES S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399175&managementType=1) | pendiente_verificacion_pdf |
-| 189-22 | 11/04/2022 | 11064 | QUE DESIGNA A GUMERCINDO LUCIANO, SUBDIRECTOR DEL INSTITUTO NACIONAL DE LA UVA. DEROGA LOS ARTÍCULOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399165&managementType=1) | pendiente_verificacion_pdf |
-| 190-22 | 11/04/2022 | 11064 | QUE NOMBRA A MILDRED GABRIELA DE LA ALTAGRACIA PÉREZ DE ARIAS Y MILIDELQUIS MARÍA ESTÉVEZ, DIRECTORA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399166&managementType=1) | pendiente_verificacion_pdf |
-| 191-22 | 11/04/2022 | 11064 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE LA PLANTA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399176&managementType=1) | pendiente_verificacion_pdf |
-| 192-22 | 13/04/2022 | 11064 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE CABALLER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399167&managementType=1) | pendiente_verificacion_pdf |
-| 193-22 | 18/04/2022 | 11065 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS A EX EMPLE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399329&managementType=1) | pendiente_verificacion_pdf |
-| 194-22 | 18/04/2022 | 11065 | QUE DECLARA DE UTILIDAD PÚBLICA VARIAS PORCIONES DE TERRENOS PARA SER DESTINADAS A LA CONSTRUCCIÓN D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399330&managementType=1) | pendiente_verificacion_pdf |
-| 195-22 | 22/04/2022 | 11065 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399331&managementType=1) | pendiente_verificacion_pdf |
-| 196-22 | 22/04/2022 | 11065 | QUE DESIGNA AL SEÑOR EDWARD RAFAEL GUZMÁN PADILLA, GERENTE GENERAL DEL CONSEJO NACIONAL DE SEGURIDAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399332&managementType=1) | pendiente_verificacion_pdf |
-| 197-22 | 22/04/2022 | 11065 | QUE AUTORIZA LA IMPRESIÓN DE OCHOCIENTOS MILLONES DE ESTAMPILLAS PARA FÓSFOROS | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399333&managementType=1) | pendiente_verificacion_pdf |
-| 198-22 | 27/04/2022 | 11065 | QUE DESIGNA AL SEÑOR ADOLFO ANTONIO MARTÍN MARTÍ GUTIÉRREZ, MIEMBRO DE LA COMISIÓN REGULADORA DE PRÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399334&managementType=1) | pendiente_verificacion_pdf |
-| 199-22 | 27/04/2022 | 11065 | QUE DEROGA EL DEC. NÚM. 499-21 QUE CONSTITUYÓ EL FIDEICOMISO DE PATRIMONIO PÚBLICO RECUPERADO. MODIF... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399335&managementType=1) | pendiente_verificacion_pdf |
-| 200-22 | 27/04/2022 | 11065 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A FLAVIO TITO VESPACIANO VALENZUELA LUGO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399336&managementType=1) | pendiente_verificacion_pdf |
+| 175-22 | 04/04/2022 | 11064 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR AL SEÑOR JOSÉ JOAQUÍN GARCÍA T... | [Ver documento](decreto-175-2022.md) | normalizado · pendiente_revision |
+| 176-22 | 04/04/2022 | 11064 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA R... | [Ver documento](decreto-176-2022.md) | normalizado · pendiente_revision |
+| 177-22 | 04/04/2022 | 11064 | QUE CREA EL PREMIO BIBLIOTECA NACIONAL DE LITERATURA INFANTIL., ORGANIZADO Y COSTEADO POR LA BIBLIOT... | [Ver documento](decreto-177-2022.md) | normalizado · pendiente_revision |
+| 178-22 | 04/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LUCIOLA LEÓNIDAS ECHAVARRÍA... | [Ver documento](decreto-178-2022.md) | normalizado · pendiente_revision |
+| 179-22 | 05/04/2022 | 11064 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA PRIVILEGIADA A RONALD EDUARDO SKEWES RAMN, DE NACIONALIDAD ... | [Ver documento](decreto-179-2022.md) | normalizado · pendiente_revision |
+| 180-22 | 06/04/2022 | 11064 | QUE NOMBRA A LILIANA MARÍA CASTILLO TAPIA Y ALBERTO CRUZ ACOSTA, MIEMBROS-ESPECIALISTAS EN DIVERSAS ... | [Ver documento](decreto-180-2022.md) | normalizado · pendiente_revision |
+| 181-22 | 08/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES DEL ESTADO A 349 PROFESIONALES AGROPECUARIOS. ELEVA... | [Ver documento](decreto-181-2022.md) | normalizado · pendiente_revision |
+| 182-22 | 08/04/2022 | 11064 | QUE MODIFICA LOS DECRETOS NÚMEROS 78-16 Y 326-16. DISPONE QUE EL NOMBRE DEL PARQUE INDUSTRIAL Y ZONA... | [Ver documento](decreto-182-2022.md) | normalizado · pendiente_revision |
+| 183-22 | 08/04/2022 | 11064 | QUE DESIGNA A REYMUNDO ANTONIO GARRIDO LANTIGUA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA R... | [Ver documento](decreto-183-2022.md) | normalizado · pendiente_revision |
+| 184-22 | 08/04/2022 | 11064 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, EN DIVERSAS CATEGORÍAS, A VARIOS OFICIALE... | [Ver documento](decreto-184-2022.md) | normalizado · pendiente_revision |
+| 185-22 | 08/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-185-2022.md) | normalizado · pendiente_revision |
+| 186-22 | 08/04/2022 | 11064 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-186-2022.md) | normalizado · pendiente_revision |
+| 187-22 | 11/04/2022 | 11064 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A EX EMPLEADOS PÚBLICOS. CON... | [Ver documento](decreto-187-2022.md) | normalizado · pendiente_revision |
+| 188-22 | 11/04/2022 | 11064 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO, CON DISTINTIVO AZUL, A VARIOS OFICIALES S... | [Ver documento](decreto-188-2022.md) | normalizado · pendiente_revision |
+| 189-22 | 11/04/2022 | 11064 | QUE DESIGNA A GUMERCINDO LUCIANO, SUBDIRECTOR DEL INSTITUTO NACIONAL DE LA UVA. DEROGA LOS ARTÍCULOS... | [Ver documento](decreto-189-2022.md) | normalizado · pendiente_revision |
+| 190-22 | 11/04/2022 | 11064 | QUE NOMBRA A MILDRED GABRIELA DE LA ALTAGRACIA PÉREZ DE ARIAS Y MILIDELQUIS MARÍA ESTÉVEZ, DIRECTORA... | [Ver documento](decreto-190-2022.md) | normalizado · pendiente_revision |
+| 191-22 | 11/04/2022 | 11064 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE LA PLANTA ... | [Ver documento](decreto-191-2022.md) | normalizado · pendiente_revision |
+| 192-22 | 13/04/2022 | 11064 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE CABALLER... | [Ver documento](decreto-192-2022.md) | normalizado · pendiente_revision |
+| 193-22 | 18/04/2022 | 11065 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS A EX EMPLE... | [Ver documento](decreto-193-2022.md) | normalizado · pendiente_revision |
+| 194-22 | 18/04/2022 | 11065 | QUE DECLARA DE UTILIDAD PÚBLICA VARIAS PORCIONES DE TERRENOS PARA SER DESTINADAS A LA CONSTRUCCIÓN D... | [Ver documento](decreto-194-2022.md) | normalizado · pendiente_revision |
+| 195-22 | 22/04/2022 | 11065 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-195-2022.md) | normalizado · pendiente_revision |
+| 196-22 | 22/04/2022 | 11065 | QUE DESIGNA AL SEÑOR EDWARD RAFAEL GUZMÁN PADILLA, GERENTE GENERAL DEL CONSEJO NACIONAL DE SEGURIDAD... | [Ver documento](decreto-196-2022.md) | normalizado · pendiente_revision |
+| 197-22 | 22/04/2022 | 11065 | QUE AUTORIZA LA IMPRESIÓN DE OCHOCIENTOS MILLONES DE ESTAMPILLAS PARA FÓSFOROS | [Ver documento](decreto-197-2022.md) | normalizado · pendiente_revision |
+| 198-22 | 27/04/2022 | 11065 | QUE DESIGNA AL SEÑOR ADOLFO ANTONIO MARTÍN MARTÍ GUTIÉRREZ, MIEMBRO DE LA COMISIÓN REGULADORA DE PRÁ... | [Ver documento](decreto-198-2022.md) | normalizado · pendiente_revision |
+| 199-22 | 27/04/2022 | 11065 | QUE DEROGA EL DEC. NÚM. 499-21 QUE CONSTITUYÓ EL FIDEICOMISO DE PATRIMONIO PÚBLICO RECUPERADO. MODIF... | [Ver documento](decreto-199-2022.md) | normalizado · pendiente_revision |
+| 200-22 | 27/04/2022 | 11065 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A FLAVIO TITO VESPACIANO VALENZUELA LUGO. | [Ver documento](decreto-200-2022.md) | normalizado · pendiente_revision |
 | 201-22 | 27/04/2022 | 11065 | QUE DISPONE LA CONFORMACIÓN DEL COMITÉ ORGANIZADOR DE LOS JUEGOS CENTROAMERICANOS Y DEL CARIBE–SANTO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399337&managementType=1) | pendiente_verificacion_pdf |
 | 202-22 | 27/04/2022 | 11065 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE LA PENSIÓN DE QUE D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399338&managementType=1) | pendiente_verificacion_pdf |
 | 203-22 | 27/04/2022 | 11065 | QUE DEROGA EL ARTÍCULO 9 DEL DEC. NÚM.706-20, RESPECTO A LA REPOSICIÓN DE IRMA MILAGROS CASTRO CRUZ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399339&managementType=1) | pendiente_verificacion_pdf |
