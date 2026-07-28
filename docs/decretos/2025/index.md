@@ -84,6 +84,31 @@ Documentos detectados: **727**.
 - [Decreto núm. 073-2025](decreto-073-2025.md)
 - [Decreto núm. 074-2025](decreto-074-2025.md)
 - [Decreto núm. 075-2025](decreto-075-2025.md)
+- [Decreto núm. 076-2025](decreto-076-2025.md)
+- [Decreto núm. 077-2025](decreto-077-2025.md)
+- [Decreto núm. 078-2025](decreto-078-2025.md)
+- [Decreto núm. 079-2025](decreto-079-2025.md)
+- [Decreto núm. 080-2025](decreto-080-2025.md)
+- [Decreto núm. 081-2025](decreto-081-2025.md)
+- [Decreto núm. 082-2025](decreto-082-2025.md)
+- [Decreto núm. 083-2025](decreto-083-2025.md)
+- [Decreto núm. 084-2025](decreto-084-2025.md)
+- [Decreto núm. 085-2025](decreto-085-2025.md)
+- [Decreto núm. 086-2025](decreto-086-2025.md)
+- [Decreto núm. 087-2025](decreto-087-2025.md)
+- [Decreto núm. 088-2025](decreto-088-2025.md)
+- [Decreto núm. 089-2025](decreto-089-2025.md)
+- [Decreto núm. 090-2025](decreto-090-2025.md)
+- [Decreto núm. 091-2025](decreto-091-2025.md)
+- [Decreto núm. 092-2025](decreto-092-2025.md)
+- [Decreto núm. 093-2025](decreto-093-2025.md)
+- [Decreto núm. 094-2025](decreto-094-2025.md)
+- [Decreto núm. 095-2025](decreto-095-2025.md)
+- [Decreto núm. 096-2025](decreto-096-2025.md)
+- [Decreto núm. 097-2025](decreto-097-2025.md)
+- [Decreto núm. 098-2025](decreto-098-2025.md)
+- [Decreto núm. 099-2025](decreto-099-2025.md)
+- [Decreto núm. 100-2025](decreto-100-2025.md)
 
 ## Documentos detectados
 
@@ -165,35 +190,35 @@ Documentos detectados: **727**.
 | 73-25 | 14/02/2025 | 11188 | QUE AUTORIZA AL MAYOR PARACAIDISTA LEONARDO ALFREDO CASTILLO MEJÍA, FARD, PARA QUE PUEDA ACEPTAR Y U... | [Ver documento](decreto-073-2025.md) | normalizado · pendiente_revision |
 | 74-25 | 14/02/2025 | 11188 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 16,452.00 MT2, DENTRO DE ... | [Ver documento](decreto-074-2025.md) | normalizado · pendiente_revision |
 | 75-25 | 14/02/2025 | 11188 | QUE AUTORIZA AL CAPITÁN DE FRAGATA CARLOS MIGUEL MEJÍA MÍNGUEZ, ARD, PARA QUE PUEDA ACEPTAR Y USAR L... | [Ver documento](decreto-075-2025.md) | normalizado · pendiente_revision |
-| 76-25 | 17/02/2025 | 11188 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE TRANSPARENCIA Y ANTICORRUPCIÓN, LA CUAL ESTARÁ PRESID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403062&managementType=1) | pendiente_verificacion_pdf |
-| 77-25 | 17/02/2025 | 11188 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403063&managementType=1) | pendiente_verificacion_pdf |
-| 78-25 | 17/02/2025 | 11188 | QUE INSTRUYE A LOS MIEMBROS DE LA COMISIÓN SUPERVISORA DE LA LEY NÚM. 118-21, CREADA MEDIANTE EL DEC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403048&managementType=1) | pendiente_verificacion_pdf |
-| 79-25 | 17/02/2025 | 11188 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR RD$40,000.00 MENSUALES AL SEÑOR DINARDO JACINTO DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403064&managementType=1) | pendiente_verificacion_pdf |
-| 80-25 | 17/02/2025 | 11188 | QUE AUMENTA A LA SUMA DE RD$40,000.00 MENSUALES LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA NICE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403065&managementType=1) | pendiente_verificacion_pdf |
-| 81-25 | 19/02/2025 | 11189 | QUE NOMBRA DIECIOCHO (18) MINISTROS CONSEJEROS, DIECISIETE (17) CONSEJEROS DE EMBAJADAS, ASÍ COMO 21... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403068&managementType=1) | pendiente_verificacion_pdf |
-| 82-25 | 19/02/2025 | 11189 | QUE CONCEDE PENSIONES DEL ESTADO A 1861 PERSONAS QUE LABORAN EN EL MINISTERIO DE EDUCACIÓN Y AUMENTA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403075&managementType=1) | pendiente_verificacion_pdf |
-| 83-25 | 21/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403069&managementType=1) | pendiente_verificacion_pdf |
-| 84-25 | 21/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A 198 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403076&managementType=1) | pendiente_verificacion_pdf |
-| 85-25 | 21/02/2025 | 11189 | QUE DESIGNA AL SEÑOR JULIÁN PERALTA MENDOZA, MIEMBRO DEL CONSEJO DIRECTIVO DEL INSTITUTO AZUCARERO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403077&managementType=1) | pendiente_verificacion_pdf |
-| 86-25 | 21/02/2025 | 11189 | QUE MODIFICA LOS ARTÍCULOS 6 Y 153 DEL DECRETO NÚM. 356-22, QUE ESTABLECE EL REGLAMENTO DE APLICACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403070&managementType=1) | pendiente_verificacion_pdf |
-| 87-25 | 21/02/2025 | 11189 | QUE DEROGA LOS ARTÍCULOS 3, 4, 5, Y 7 DEL DECRETO NÚM. 333-20, LOS ARTÍCULOS 1 Y 2 DEL DECRETO NÚM. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403071&managementType=1) | pendiente_verificacion_pdf |
-| 88-25 | 24/02/2025 | 11189 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS, Y AUMENTA A LA SUMA DE RD$30,000.00 MENSUA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403078&managementType=1) | pendiente_verificacion_pdf |
-| 89-25 | 24/02/2025 | 11189 | QUE AUTORIZA AL MAYOR GENERAL PILOTO FLOREAL TARCICIO SUÁREZ MARTÍNEZ, (FARD), PARA QUE PUEDA ACEPTA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403072&managementType=1) | pendiente_verificacion_pdf |
-| 90-25 | 24/02/2025 | 11189 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO DIÓGEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403073&managementType=1) | pendiente_verificacion_pdf |
-| 91-25 | 24/02/2025 | 11189 | QUE DESIGNA A LA SEÑORA SANDRA HERMINIA ABINADER SUERO, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403079&managementType=1) | pendiente_verificacion_pdf |
-| 92-25 | 24/02/2025 | 11189 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR RD$150,000.00 MENSUALES AL SEÑOR JULIO GUILLERMO ORT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403080&managementType=1) | pendiente_verificacion_pdf |
-| 93-25 | 25/02/2025 | 11189 | QUE DESIGNA A REYNA GLORIA CHALJUB THEN, SUBDIRECTORA GENERAL DE LA DIRECCIÓN GENERAL DE PROYECTOS E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403081&managementType=1) | pendiente_verificacion_pdf |
-| 100-25 | 26/02/2025 | 11189 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN 3 SERVIDOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403088&managementType=1) | pendiente_verificacion_pdf |
+| 76-25 | 17/02/2025 | 11188 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE TRANSPARENCIA Y ANTICORRUPCIÓN, LA CUAL ESTARÁ PRESID... | [Ver documento](decreto-076-2025.md) | normalizado · pendiente_revision |
+| 77-25 | 17/02/2025 | 11188 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Ver documento](decreto-077-2025.md) | normalizado · pendiente_revision |
+| 78-25 | 17/02/2025 | 11188 | QUE INSTRUYE A LOS MIEMBROS DE LA COMISIÓN SUPERVISORA DE LA LEY NÚM. 118-21, CREADA MEDIANTE EL DEC... | [Ver documento](decreto-078-2025.md) | normalizado · pendiente_revision |
+| 79-25 | 17/02/2025 | 11188 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR RD$40,000.00 MENSUALES AL SEÑOR DINARDO JACINTO DE L... | [Ver documento](decreto-079-2025.md) | normalizado · pendiente_revision |
+| 80-25 | 17/02/2025 | 11188 | QUE AUMENTA A LA SUMA DE RD$40,000.00 MENSUALES LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA NICE... | [Ver documento](decreto-080-2025.md) | normalizado · pendiente_revision |
+| 81-25 | 19/02/2025 | 11189 | QUE NOMBRA DIECIOCHO (18) MINISTROS CONSEJEROS, DIECISIETE (17) CONSEJEROS DE EMBAJADAS, ASÍ COMO 21... | [Ver documento](decreto-081-2025.md) | normalizado · pendiente_revision |
+| 82-25 | 19/02/2025 | 11189 | QUE CONCEDE PENSIONES DEL ESTADO A 1861 PERSONAS QUE LABORAN EN EL MINISTERIO DE EDUCACIÓN Y AUMENTA... | [Ver documento](decreto-082-2025.md) | normalizado · pendiente_revision |
+| 83-25 | 21/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-083-2025.md) | normalizado · pendiente_revision |
+| 84-25 | 21/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A 198 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Ver documento](decreto-084-2025.md) | normalizado · pendiente_revision |
+| 85-25 | 21/02/2025 | 11189 | QUE DESIGNA AL SEÑOR JULIÁN PERALTA MENDOZA, MIEMBRO DEL CONSEJO DIRECTIVO DEL INSTITUTO AZUCARERO D... | [Ver documento](decreto-085-2025.md) | normalizado · pendiente_revision |
+| 86-25 | 21/02/2025 | 11189 | QUE MODIFICA LOS ARTÍCULOS 6 Y 153 DEL DECRETO NÚM. 356-22, QUE ESTABLECE EL REGLAMENTO DE APLICACIÓ... | [Ver documento](decreto-086-2025.md) | normalizado · pendiente_revision |
+| 87-25 | 21/02/2025 | 11189 | QUE DEROGA LOS ARTÍCULOS 3, 4, 5, Y 7 DEL DECRETO NÚM. 333-20, LOS ARTÍCULOS 1 Y 2 DEL DECRETO NÚM. ... | [Ver documento](decreto-087-2025.md) | normalizado · pendiente_revision |
+| 88-25 | 24/02/2025 | 11189 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS, Y AUMENTA A LA SUMA DE RD$30,000.00 MENSUA... | [Ver documento](decreto-088-2025.md) | normalizado · pendiente_revision |
+| 89-25 | 24/02/2025 | 11189 | QUE AUTORIZA AL MAYOR GENERAL PILOTO FLOREAL TARCICIO SUÁREZ MARTÍNEZ, (FARD), PARA QUE PUEDA ACEPTA... | [Ver documento](decreto-089-2025.md) | normalizado · pendiente_revision |
+| 90-25 | 24/02/2025 | 11189 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO DIÓGEN... | [Ver documento](decreto-090-2025.md) | normalizado · pendiente_revision |
+| 91-25 | 24/02/2025 | 11189 | QUE DESIGNA A LA SEÑORA SANDRA HERMINIA ABINADER SUERO, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA... | [Ver documento](decreto-091-2025.md) | normalizado · pendiente_revision |
+| 92-25 | 24/02/2025 | 11189 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR RD$150,000.00 MENSUALES AL SEÑOR JULIO GUILLERMO ORT... | [Ver documento](decreto-092-2025.md) | normalizado · pendiente_revision |
+| 93-25 | 25/02/2025 | 11189 | QUE DESIGNA A REYNA GLORIA CHALJUB THEN, SUBDIRECTORA GENERAL DE LA DIRECCIÓN GENERAL DE PROYECTOS E... | [Ver documento](decreto-093-2025.md) | normalizado · pendiente_revision |
+| 100-25 | 26/02/2025 | 11189 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN 3 SERVIDOR... | [Ver documento](decreto-100-2025.md) | normalizado · pendiente_revision |
 | 101-25 | 26/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA AMPLIACIÓN DEL ACUEDUCTO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403089&managementType=1) | pendiente_verificacion_pdf |
 | 102-25 | 26/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DEL POLITÉCNI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403074&managementType=1) | pendiente_verificacion_pdf |
 | 103-25 | 26/02/2025 | 11189 | QUE DESIGNA NIEVE (9) VICEMINISTROS EN LOS MINISTERIOS DE SALUD PÚBLICA, ADMINISTRATIVO DE LA PRESID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403090&managementType=1) | pendiente_verificacion_pdf |
 | 104-25 | 26/02/2025 | 11189 | QUE ORDENA LA ACTIVACIÓN DEL CONSEJO NACIONAL ANTITERRORISTA Y LA DIRECCIÓN NACIONAL ANTITERRORISTA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403091&managementType=1) | pendiente_verificacion_pdf |
-| 94-25 | 26/02/2025 | 11189 | QUE DESIGNA A VÍCTOR ROGELIO BENAVIDES VALERIO, DIRECTOR EJECUTIVO DE LA COMISIÓN NACIONAL DE DEFENS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403082&managementType=1) | pendiente_verificacion_pdf |
-| 95-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403083&managementType=1) | pendiente_verificacion_pdf |
-| 96-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403084&managementType=1) | pendiente_verificacion_pdf |
-| 97-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. MODIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403085&managementType=1) | pendiente_verificacion_pdf |
-| 98-25 | 26/02/2025 | 11189 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403086&managementType=1) | pendiente_verificacion_pdf |
-| 99-25 | 26/02/2025 | 11189 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403087&managementType=1) | pendiente_verificacion_pdf |
+| 94-25 | 26/02/2025 | 11189 | QUE DESIGNA A VÍCTOR ROGELIO BENAVIDES VALERIO, DIRECTOR EJECUTIVO DE LA COMISIÓN NACIONAL DE DEFENS... | [Ver documento](decreto-094-2025.md) | normalizado · pendiente_revision |
+| 95-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES | [Ver documento](decreto-095-2025.md) | normalizado · pendiente_revision |
+| 96-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-096-2025.md) | normalizado · pendiente_revision |
+| 97-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. MODIFICA... | [Ver documento](decreto-097-2025.md) | normalizado · pendiente_revision |
+| 98-25 | 26/02/2025 | 11189 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Ver documento](decreto-098-2025.md) | normalizado · pendiente_revision |
+| 99-25 | 26/02/2025 | 11189 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-099-2025.md) | normalizado · pendiente_revision |
 | 105-25 | 28/02/2025 | 11189 | QUE ORDENA LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO POR MEDIO DE LA APLICACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403092&managementType=1) | pendiente_verificacion_pdf |
 | 106-25 | 28/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADAS A LA CONSTRUCCIÓN DE PLANTELES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403093&managementType=1) | pendiente_verificacion_pdf |
 | 107-25 | 03/03/2025 | 11190 | QUE DEROGA EL DECRETO NÚM. 30-25, QUE APRUEBA EL REGLAMENTO QUE REGULA LA PERCEPCIÓN Y APLICACIÓN DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403135&managementType=1) | pendiente_verificacion_pdf |
