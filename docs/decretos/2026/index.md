@@ -295,10 +295,35 @@ Documentos detectados: **406**.
 - [Decreto núm. 284-2026](decreto-284-2026.md)
 - [Decreto núm. 285-2026](decreto-285-2026.md)
 - [Decreto núm. 286-2026](decreto-286-2026.md)
+- [Decreto núm. 287-2026](decreto-287-2026.md)
+- [Decreto núm. 288-2026](decreto-288-2026.md)
+- [Decreto núm. 289-2026](decreto-289-2026.md)
+- [Decreto núm. 290-2026](decreto-290-2026.md)
+- [Decreto núm. 291-2026](decreto-291-2026.md)
+- [Decreto núm. 292-2026](decreto-292-2026.md)
+- [Decreto núm. 293-2026](decreto-293-2026.md)
+- [Decreto núm. 294-2026](decreto-294-2026.md)
+- [Decreto núm. 295-2026](decreto-295-2026.md)
+- [Decreto núm. 296-2026](decreto-296-2026.md)
+- [Decreto núm. 297-2026](decreto-297-2026.md)
 - [Decreto núm. 298-2026](decreto-298-2026.md)
+- [Decreto núm. 299-2026](decreto-299-2026.md)
+- [Decreto núm. 300-2026](decreto-300-2026.md)
+- [Decreto núm. 301-2026](decreto-301-2026.md)
+- [Decreto núm. 302-2026](decreto-302-2026.md)
+- [Decreto núm. 303-2026](decreto-303-2026.md)
+- [Decreto núm. 304-2026](decreto-304-2026.md)
+- [Decreto núm. 305-2026](decreto-305-2026.md)
+- [Decreto núm. 306-2026](decreto-306-2026.md)
+- [Decreto núm. 307-2026](decreto-307-2026.md)
+- [Decreto núm. 308-2026](decreto-308-2026.md)
 - [Decreto núm. 309-2026](decreto-309-2026.md)
+- [Decreto núm. 310-2026](decreto-310-2026.md)
 - [Decreto núm. 311-2026](decreto-311-2026.md)
 - [Decreto núm. 312-2026](decreto-312-2026.md)
+- [Decreto núm. 313-2026](decreto-313-2026.md)
+- [Decreto núm. 314-2026](decreto-314-2026.md)
+- [Decreto núm. 315-2026](decreto-315-2026.md)
 - [Decreto núm. 330-2026](decreto-330-2026.md)
 - [Decreto núm. 352-2026](decreto-352-2026.md)
 - [Decreto núm. 409-2026](decreto-409-2026.md)
@@ -595,35 +620,35 @@ Documentos detectados: **406**.
 | 284-26 | 27/04/2026 | 11239 | QUE DESIGNA AL SEÑOR TONY RAFUL TEJADA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, DE... | [Ver documento](decreto-284-2026.md) | normalizado · pendiente_revision |
 | 285-26 | 27/04/2026 | 11239 | QUE DESIGNA AL SEÑOR CARLOS ALESSANDRY ROA HOWLEY, DIRECTOR EJECUTIVO DEL PLAN PARA EL DESARROLLO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404773&managementType=1) | pendiente_verificacion_pdf |
 | 286-26 | 27/04/2026 | 11239 | QUE MODIFICA EL NUMERAL 16, DEL ARTÍCULO 3 DEL DECRETO NÚM.665-12, DEL REGLAMENTO PARA LA PRESCRIPCI... | [Ver documento](decreto-286-2026.md) | normalizado · pendiente_revision |
-| 287-26 | 27/04/2026 | 11239 | QUE APRUEBA EL REGLAMENTO SOBRE EL SEGURO DE RIESGOS LABORALES. DEROGA EL DECRETO NÚM. 548-03. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404775&managementType=1) | pendiente_verificacion_pdf |
-| 288-26 | 28/04/2026 | 11239 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DEL INMUEBL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404776&managementType=1) | pendiente_verificacion_pdf |
-| 289-26 | 28/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 149-18. DISPONE QUE EL INMUEBLE IDENTIFICADO COMO DESIGN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404777&managementType=1) | pendiente_verificacion_pdf |
-| 290-26 | 28/04/2026 | 11239 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, LA PARCELA NÚM. 56-B-1-A-259-SUB-4, UBICADA EN EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404778&managementType=1) | pendiente_verificacion_pdf |
-| 291-26 | 29/04/2026 | 11239 | QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM. 1-26, ORGÁNICA DE LA DIRECCIÓN NACIONAL DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404779&managementType=1) | pendiente_verificacion_pdf |
-| 292-26 | 29/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 410-14. DISPONE QUE EL INMUEBLE IDENTIFICADO COMO DESIGN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404780&managementType=1) | pendiente_verificacion_pdf |
-| 293-26 | 30/04/2026 | 11239 | QUE DESIGNA A LA SEÑORA ROCÍO ISABEL VIDAL CARABALLO, DIRECTORA EJECUTIVA DE LA UNIDAD EJECUTORA PAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404781&managementType=1) | pendiente_verificacion_pdf |
-| 294-26 | 30/04/2026 | 11239 | QUE DESIGNA A LOS SEÑORES EYMI JIMÉNEZ HORIMITSU, ALEXANDRA ARIAS OROWSKA Y SAMUEL JONATAN CASTRO MA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404782&managementType=1) | pendiente_verificacion_pdf |
-| 295-26 | 30/04/2026 | 11239 | QUE DEROGA EL DECRETO NÚM. 801-09, QUE DESIGNÓ AL SEÑOR ANTHONY ANIS GEORGE MIKHAIL HAGGAR, CÓNSUL H... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404783&managementType=1) | pendiente_verificacion_pdf |
-| 296-26 | 30/04/2026 | 11239 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 92-23, QUE DESIGNÓ AL SEÑOR MANUEL RAMÓN TEJADA PINEDA, SU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404784&managementType=1) | pendiente_verificacion_pdf |
-| 297-26 | 30/04/2026 | 11239 | QUE DESIGNA AL SEÑOR JOSÉ ANTONIO LANTIGUA HERRERA, COMISIONADO NACIONAL DE BOXEO Y LUCHA. DEROGA EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404785&managementType=1) | pendiente_verificacion_pdf |
+| 287-26 | 27/04/2026 | 11239 | QUE APRUEBA EL REGLAMENTO SOBRE EL SEGURO DE RIESGOS LABORALES. DEROGA EL DECRETO NÚM. 548-03. | [Ver documento](decreto-287-2026.md) | normalizado · pendiente_revision |
+| 288-26 | 28/04/2026 | 11239 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DEL INMUEBL... | [Ver documento](decreto-288-2026.md) | normalizado · pendiente_revision |
+| 289-26 | 28/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 149-18. DISPONE QUE EL INMUEBLE IDENTIFICADO COMO DESIGN... | [Ver documento](decreto-289-2026.md) | normalizado · pendiente_revision |
+| 290-26 | 28/04/2026 | 11239 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, LA PARCELA NÚM. 56-B-1-A-259-SUB-4, UBICADA EN EL ... | [Ver documento](decreto-290-2026.md) | normalizado · pendiente_revision |
+| 291-26 | 29/04/2026 | 11239 | QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM. 1-26, ORGÁNICA DE LA DIRECCIÓN NACIONAL DE ... | [Ver documento](decreto-291-2026.md) | normalizado · pendiente_revision |
+| 292-26 | 29/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 410-14. DISPONE QUE EL INMUEBLE IDENTIFICADO COMO DESIGN... | [Ver documento](decreto-292-2026.md) | normalizado · pendiente_revision |
+| 293-26 | 30/04/2026 | 11239 | QUE DESIGNA A LA SEÑORA ROCÍO ISABEL VIDAL CARABALLO, DIRECTORA EJECUTIVA DE LA UNIDAD EJECUTORA PAR... | [Ver documento](decreto-293-2026.md) | normalizado · pendiente_revision |
+| 294-26 | 30/04/2026 | 11239 | QUE DESIGNA A LOS SEÑORES EYMI JIMÉNEZ HORIMITSU, ALEXANDRA ARIAS OROWSKA Y SAMUEL JONATAN CASTRO MA... | [Ver documento](decreto-294-2026.md) | normalizado · pendiente_revision |
+| 295-26 | 30/04/2026 | 11239 | QUE DEROGA EL DECRETO NÚM. 801-09, QUE DESIGNÓ AL SEÑOR ANTHONY ANIS GEORGE MIKHAIL HAGGAR, CÓNSUL H... | [Ver documento](decreto-295-2026.md) | normalizado · pendiente_revision |
+| 296-26 | 30/04/2026 | 11239 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 92-23, QUE DESIGNÓ AL SEÑOR MANUEL RAMÓN TEJADA PINEDA, SU... | [Ver documento](decreto-296-2026.md) | normalizado · pendiente_revision |
+| 297-26 | 30/04/2026 | 11239 | QUE DESIGNA AL SEÑOR JOSÉ ANTONIO LANTIGUA HERRERA, COMISIONADO NACIONAL DE BOXEO Y LUCHA. DEROGA EL... | [Ver documento](decreto-297-2026.md) | normalizado · pendiente_revision |
 | 298-26 | 01/05/2026 | 11241 | QUE DESIGNA CUATRO (4) MIEMBROS DE LA COMISIÓN DE VEEDURÍA CIUDADANA EN EL MARCO DEL PROCESO DE LICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404848&managementType=1) | pendiente_verificacion_pdf |
-| 299-26 | 06/05/2026 | 11241 | QUE DESIGNA AL SEÑOR JOSÉ MANUEL LÓPEZ GUTIÉRREZ, ADMINISTRADOR DEL PARQUE NACIONAL MIRADOR NORTE. D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404858&managementType=1) | pendiente_verificacion_pdf |
-| 300-26 | 06/05/2026 | 11241 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE NOVENTA MIL PESOS DOMINICANOS CON 00/100... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404859&managementType=1) | pendiente_verificacion_pdf |
-| 301-26 | 06/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. MODI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404860&managementType=1) | pendiente_verificacion_pdf |
-| 302-26 | 06/05/2026 | 11241 | QUE RATIFICA A LOS SEÑORES KAREL JOSÉ CASTILLO ALMONTE, YSABEL RAINELDA FLORES PICHARDO Y CLARA ARGE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404861&managementType=1) | pendiente_verificacion_pdf |
-| 303-26 | 06/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404862&managementType=1) | pendiente_verificacion_pdf |
-| 304-26 | 06/05/2026 | 11241 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE UNA PORC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404849&managementType=1) | pendiente_verificacion_pdf |
-| 305-26 | 06/05/2026 | 11241 | QUE AUTORIZA A VARIOS OFICIALES SUPERIORES, DE LA FUERZA AÉREA DE LA REPÚBLICA DOMINICANA, PARA QUE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404850&managementType=1) | pendiente_verificacion_pdf |
-| 306-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DEL SEÑOR ALFREDO ANTO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404863&managementType=1) | pendiente_verificacion_pdf |
-| 307-26 | 06/05/2026 | 11241 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA RECEPCIÓN DE LA AUDITORÍA QUE REALIZARÁ LA ORGANIZACIÓN DE A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404851&managementType=1) | pendiente_verificacion_pdf |
-| 308-26 | 06/05/2026 | 11241 | QUE DESIGNA A LOS SEÑORES MANUEL ANTONIO DURÁN PILARTE, YSSET CARIDAD ROMÁN MALDONADO, JOSÉ JULIO GÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404864&managementType=1) | pendiente_verificacion_pdf |
+| 299-26 | 06/05/2026 | 11241 | QUE DESIGNA AL SEÑOR JOSÉ MANUEL LÓPEZ GUTIÉRREZ, ADMINISTRADOR DEL PARQUE NACIONAL MIRADOR NORTE. D... | [Ver documento](decreto-299-2026.md) | normalizado · pendiente_revision |
+| 300-26 | 06/05/2026 | 11241 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE NOVENTA MIL PESOS DOMINICANOS CON 00/100... | [Ver documento](decreto-300-2026.md) | normalizado · pendiente_revision |
+| 301-26 | 06/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. MODI... | [Ver documento](decreto-301-2026.md) | normalizado · pendiente_revision |
+| 302-26 | 06/05/2026 | 11241 | QUE RATIFICA A LOS SEÑORES KAREL JOSÉ CASTILLO ALMONTE, YSABEL RAINELDA FLORES PICHARDO Y CLARA ARGE... | [Ver documento](decreto-302-2026.md) | normalizado · pendiente_revision |
+| 303-26 | 06/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-303-2026.md) | normalizado · pendiente_revision |
+| 304-26 | 06/05/2026 | 11241 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE UNA PORC... | [Ver documento](decreto-304-2026.md) | normalizado · pendiente_revision |
+| 305-26 | 06/05/2026 | 11241 | QUE AUTORIZA A VARIOS OFICIALES SUPERIORES, DE LA FUERZA AÉREA DE LA REPÚBLICA DOMINICANA, PARA QUE ... | [Ver documento](decreto-305-2026.md) | normalizado · pendiente_revision |
+| 306-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DEL SEÑOR ALFREDO ANTO... | [Ver documento](decreto-306-2026.md) | normalizado · pendiente_revision |
+| 307-26 | 06/05/2026 | 11241 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA RECEPCIÓN DE LA AUDITORÍA QUE REALIZARÁ LA ORGANIZACIÓN DE A... | [Ver documento](decreto-307-2026.md) | normalizado · pendiente_revision |
+| 308-26 | 06/05/2026 | 11241 | QUE DESIGNA A LOS SEÑORES MANUEL ANTONIO DURÁN PILARTE, YSSET CARIDAD ROMÁN MALDONADO, JOSÉ JULIO GÓ... | [Ver documento](decreto-308-2026.md) | normalizado · pendiente_revision |
 | 309-26 | 06/05/2026 | 11241 | QUE CREA LA COMISIÓN EJECUTIVA PARA LA TRANSFORMACIÓN EDUCATIVA, INTEGRADA POR LOS MINISTROS DE EDUC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404852&managementType=1) | pendiente_verificacion_pdf |
-| 310-26 | 06/05/2026 | 11241 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN AL MÉRITO NAVAL, CON MEDALLA AL SERVICIO DISTINGUIDO, EN SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404853&managementType=1) | pendiente_verificacion_pdf |
+| 310-26 | 06/05/2026 | 11241 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN AL MÉRITO NAVAL, CON MEDALLA AL SERVICIO DISTINGUIDO, EN SE... | [Ver documento](decreto-310-2026.md) | normalizado · pendiente_revision |
 | 311-26 | 06/05/2026 | 11241 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO AUDRY... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404865&managementType=1) | pendiente_verificacion_pdf |
 | 312-26 | 06/05/2026 | 11241 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO LUICH... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404866&managementType=1) | pendiente_verificacion_pdf |
-| 313-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DE LA SEÑORA LUCÍA ENC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404854&managementType=1) | pendiente_verificacion_pdf |
-| 314-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DE LA SEÑORA MINERVA A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404855&managementType=1) | pendiente_verificacion_pdf |
-| 315-26 | 11/05/2026 | 11241 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 18 SERVIDORES DEL INSTIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404856&managementType=1) | pendiente_verificacion_pdf |
+| 313-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DE LA SEÑORA LUCÍA ENC... | [Ver documento](decreto-313-2026.md) | normalizado · pendiente_revision |
+| 314-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DE LA SEÑORA MINERVA A... | [Ver documento](decreto-314-2026.md) | normalizado · pendiente_revision |
+| 315-26 | 11/05/2026 | 11241 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 18 SERVIDORES DEL INSTIT... | [Ver documento](decreto-315-2026.md) | normalizado · pendiente_revision |
 | 316-26 | 11/05/2026 | 11241 | QUE DEROGA EL ARTÍCULO 9 DEL DECRETO NÚM. 708-08 Y EL DECRETO NÚM. 384-16, QUE DESIGNARON A LOS SEÑO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404867&managementType=1) | pendiente_verificacion_pdf |
 | 317-26 | 11/05/2026 | 11241 | QUE DESIGNA AL SEÑOR ROBERT YABRIEL MARTÍNEZ, VICECÓNSUL DE NUESTRO PAÍS EN LA REPÚBLICA DE PANAMÁ. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404868&managementType=1) | pendiente_verificacion_pdf |
 | 318-26 | 11/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE MOCA, PROVINCIA ESPAILLAT, A VENDER A DIFERENTES PERSONAS VARIAS POR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404857&managementType=1) | pendiente_verificacion_pdf |
