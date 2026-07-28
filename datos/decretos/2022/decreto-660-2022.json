@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "660",
+  "anio": "2022",
+  "titulo": "que concede la condecoración de la Orden Heráldica de Cristóbal Colón en el grado de Caballero, al señor Ramón Victoriano Rodríguez (Negro) Santos. G. O. No. 11086 del 14 de noviembre de 2022",
+  "fecha": "07/11/2022",
+  "gaceta_oficial": "11086",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400539&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400539&managementType=1",
+  "document_id_consultoria": "3400539",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "archivos/decretos/2022/decreto-660-2022.pdf",
+  "ruta_markdown": "docs/decretos/2022/decreto-660-2022.md",
+  "ruta_json": "datos/decretos/2022/decreto-660-2022.json",
+  "sha256_pdf_original": "a4f13572ba31a4afaaea76fcc4966ecd6a52ac588cd6b17ec219457ddebf8eda",
+  "sha256_markdown": "e4416c0c5fc090234756f438033b3de223de0b03dfc1a9488d437fa0cb8e96d3",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": true,
+  "commit_publicacion": "",
+  "notas": "El encabezado sumario y la metadata oficial usan `660-22`, mientras la línea formal del PDF usa la forma larga equivalente `660-2022`; ambas formas se conservan para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_encabezado_pdf": "660-22",
+  "numero_formal_pdf": "660-2022",
+  "alertas_revision": [
+    "El encabezado sumario y la metadata oficial usan `660-22`, mientras la línea formal del PDF usa la forma larga equivalente `660-2022`; ambas formas se conservan para revisión humana."
+  ]
+}

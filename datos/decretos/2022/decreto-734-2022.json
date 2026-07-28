@@ -1,0 +1,41 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "734",
+  "anio": "2022",
+  "titulo": "que crea e integra el Gabinete para el Desarrollo del Sistema de Transferencia de Competencias desde los Órganos y Entes del Poder Ejecutivo hacia la Administración Local, presidida por el ministro de Administración Pública y del cual forma parte el consultor jurídico del Poder Ejecutivo, entre otras instituciones. G. O. No. 11091 del 16 de diciembre de 2022",
+  "fecha": "12/12/2022",
+  "gaceta_oficial": "11091",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401027&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401027&managementType=1",
+  "document_id_consultoria": "3401027",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "archivos/decretos/2022/decreto-734-2022.pdf",
+  "ruta_markdown": "docs/decretos/2022/decreto-734-2022.md",
+  "ruta_json": "datos/decretos/2022/decreto-734-2022.json",
+  "sha256_pdf_original": "036855ad70a50069efd55618e5489acbe1d886049d281066374a358fe5b6ef5e",
+  "sha256_markdown": "cfbd626fa70a258baaebde3fbb0b3dd17dc64f25e93530d9241c8282fff8bc3b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": true,
+  "commit_publicacion": "",
+  "notas": "La consulta oficial contiene dos registros para `734-22`: el ID `3400632` devolvió HTTP 500 al recuperar el PDF y el ID `3401027` proporcionó el PDF oficial archivado; se conserva una sola identidad documental sin sobrescritura silenciosa. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "registros_fuente_relacionados": [
+    {
+      "document_id_consultoria": "3400632",
+      "resultado_recuperacion_pdf": "HTTP 500"
+    },
+    {
+      "document_id_consultoria": "3401027",
+      "resultado_recuperacion_pdf": "PDF oficial archivado",
+      "usado_como_fuente_del_paquete": true
+    }
+  ],
+  "alertas_revision": [
+    "La consulta oficial contiene dos registros para `734-22`: el ID `3400632` devolvió HTTP 500 al recuperar el PDF y el ID `3401027` proporcionó el PDF oficial archivado; se conserva una sola identidad documental sin sobrescritura silenciosa."
+  ]
+}
