@@ -109,6 +109,106 @@ Documentos detectados: **756**.
 - [Decreto núm. 098-2020](decreto-098-2020.md)
 - [Decreto núm. 099-2020](decreto-099-2020.md)
 - [Decreto núm. 100-2020](decreto-100-2020.md)
+- [Decreto núm. 101-2020](decreto-101-2020.md)
+- [Decreto núm. 102-2020](decreto-102-2020.md)
+- [Decreto núm. 103-2020](decreto-103-2020.md)
+- [Decreto núm. 104-2020](decreto-104-2020.md)
+- [Decreto núm. 105-2020](decreto-105-2020.md)
+- [Decreto núm. 106-2020](decreto-106-2020.md)
+- [Decreto núm. 107-2020](decreto-107-2020.md)
+- [Decreto núm. 108-2020](decreto-108-2020.md)
+- [Decreto núm. 109-2020](decreto-109-2020.md)
+- [Decreto núm. 110-2020](decreto-110-2020.md)
+- [Decreto núm. 111-2020](decreto-111-2020.md)
+- [Decreto núm. 112-2020](decreto-112-2020.md)
+- [Decreto núm. 113-2020](decreto-113-2020.md)
+- [Decreto núm. 114-2020](decreto-114-2020.md)
+- [Decreto núm. 115-2020](decreto-115-2020.md)
+- [Decreto núm. 116-2020](decreto-116-2020.md)
+- [Decreto núm. 117-2020](decreto-117-2020.md)
+- [Decreto núm. 118-2020](decreto-118-2020.md)
+- [Decreto núm. 119-2020](decreto-119-2020.md)
+- [Decreto núm. 120-2020](decreto-120-2020.md)
+- [Decreto núm. 121-2020](decreto-121-2020.md)
+- [Decreto núm. 122-2020](decreto-122-2020.md)
+- [Decreto núm. 123-2020](decreto-123-2020.md)
+- [Decreto núm. 124-2020](decreto-124-2020.md)
+- [Decreto núm. 125-2020](decreto-125-2020.md)
+- [Decreto núm. 126-2020](decreto-126-2020.md)
+- [Decreto núm. 127-2020](decreto-127-2020.md)
+- [Decreto núm. 128-2020](decreto-128-2020.md)
+- [Decreto núm. 129-2020](decreto-129-2020.md)
+- [Decreto núm. 130-2020](decreto-130-2020.md)
+- [Decreto núm. 131-2020](decreto-131-2020.md)
+- [Decreto núm. 132-2020](decreto-132-2020.md)
+- [Decreto núm. 133-2020](decreto-133-2020.md)
+- [Decreto núm. 134-2020](decreto-134-2020.md)
+- [Decreto núm. 135-2020](decreto-135-2020.md)
+- [Decreto núm. 136-2020](decreto-136-2020.md)
+- [Decreto núm. 137-2020](decreto-137-2020.md)
+- [Decreto núm. 138-2020](decreto-138-2020.md)
+- [Decreto núm. 139-2020](decreto-139-2020.md)
+- [Decreto núm. 140-2020](decreto-140-2020.md)
+- [Decreto núm. 141-2020](decreto-141-2020.md)
+- [Decreto núm. 142-2020](decreto-142-2020.md)
+- [Decreto núm. 143-2020](decreto-143-2020.md)
+- [Decreto núm. 144-2020](decreto-144-2020.md)
+- [Decreto núm. 145-2020](decreto-145-2020.md)
+- [Decreto núm. 146-2020](decreto-146-2020.md)
+- [Decreto núm. 147-2020](decreto-147-2020.md)
+- [Decreto núm. 148-2020](decreto-148-2020.md)
+- [Decreto núm. 149-2020](decreto-149-2020.md)
+- [Decreto núm. 150-2020](decreto-150-2020.md)
+- [Decreto núm. 151-2020](decreto-151-2020.md)
+- [Decreto núm. 152-2020](decreto-152-2020.md)
+- [Decreto núm. 153-2020](decreto-153-2020.md)
+- [Decreto núm. 154-2020](decreto-154-2020.md)
+- [Decreto núm. 155-2020](decreto-155-2020.md)
+- [Decreto núm. 156-2020](decreto-156-2020.md)
+- [Decreto núm. 157-2020](decreto-157-2020.md)
+- [Decreto núm. 158-2020](decreto-158-2020.md)
+- [Decreto núm. 159-2020](decreto-159-2020.md)
+- [Decreto núm. 160-2020](decreto-160-2020.md)
+- [Decreto núm. 161-2020](decreto-161-2020.md)
+- [Decreto núm. 162-2020](decreto-162-2020.md)
+- [Decreto núm. 163-2020](decreto-163-2020.md)
+- [Decreto núm. 164-2020](decreto-164-2020.md)
+- [Decreto núm. 165-2020](decreto-165-2020.md)
+- [Decreto núm. 166-2020](decreto-166-2020.md)
+- [Decreto núm. 167-2020](decreto-167-2020.md)
+- [Decreto núm. 168-2020](decreto-168-2020.md)
+- [Decreto núm. 169-2020](decreto-169-2020.md)
+- [Decreto núm. 170-2020](decreto-170-2020.md)
+- [Decreto núm. 171-2020](decreto-171-2020.md)
+- [Decreto núm. 172-2020](decreto-172-2020.md)
+- [Decreto núm. 173-2020](decreto-173-2020.md)
+- [Decreto núm. 174-2020](decreto-174-2020.md)
+- [Decreto núm. 175-2020](decreto-175-2020.md)
+- [Decreto núm. 176-2020](decreto-176-2020.md)
+- [Decreto núm. 177-2020](decreto-177-2020.md)
+- [Decreto núm. 178-2020](decreto-178-2020.md)
+- [Decreto núm. 179-2020](decreto-179-2020.md)
+- [Decreto núm. 180-2020](decreto-180-2020.md)
+- [Decreto núm. 181-2020](decreto-181-2020.md)
+- [Decreto núm. 182-2020](decreto-182-2020.md)
+- [Decreto núm. 183-2020](decreto-183-2020.md)
+- [Decreto núm. 184-2020](decreto-184-2020.md)
+- [Decreto núm. 185-2020](decreto-185-2020.md)
+- [Decreto núm. 186-2020](decreto-186-2020.md)
+- [Decreto núm. 187-2020](decreto-187-2020.md)
+- [Decreto núm. 188-2020](decreto-188-2020.md)
+- [Decreto núm. 189-2020](decreto-189-2020.md)
+- [Decreto núm. 190-2020](decreto-190-2020.md)
+- [Decreto núm. 191-2020](decreto-191-2020.md)
+- [Decreto núm. 192-2020](decreto-192-2020.md)
+- [Decreto núm. 193-2020](decreto-193-2020.md)
+- [Decreto núm. 194-2020](decreto-194-2020.md)
+- [Decreto núm. 195-2020](decreto-195-2020.md)
+- [Decreto núm. 196-2020](decreto-196-2020.md)
+- [Decreto núm. 197-2020](decreto-197-2020.md)
+- [Decreto núm. 198-2020](decreto-198-2020.md)
+- [Decreto núm. 199-2020](decreto-199-2020.md)
+- [Decreto núm. 200-2020](decreto-200-2020.md)
 
 ## Documentos detectados
 
@@ -234,108 +334,108 @@ Documentos detectados: **756**.
 | 96-20 | 04/03/2020 | 10974 | QUE DEROGA EL ARTICULO 4 DEL DECRETO 599-08 DEL 20 DE SEPTIEMBRE DE 2008 | [Ver documento](decreto-096-2020.md) | normalizado · pendiente_revision |
 | 97-20 | 04/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FLAVIO ANTONIO CABREJA GÓMEZ, VICECÓNSUL DE LA REPÚBLICA EN LA HABANA, CUBA. | [Ver documento](decreto-097-2020.md) | normalizado · pendiente_revision |
 | 100-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-100-2020.md) | normalizado · pendiente_revision |
-| 101-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395847&managementType=1) | pendiente_verificacion_pdf |
-| 102-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395848&managementType=1) | pendiente_verificacion_pdf |
-| 103-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395849&managementType=1) | pendiente_verificacion_pdf |
-| 104-20 | 06/03/2020 | 10974 | QUE DESIGNA A LA SEÑORA GISSELLE MARIA FIALLO PELLERANO, CONSEJERA DE LA EMBAJADA DE LA REPÚBLICA DO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395850&managementType=1) | pendiente_verificacion_pdf |
-| 105-20 | 06/03/2020 | 10974 | NOMBRA A LOS SEÑORES RAFAEL RODRÍGUEZ MOLINA Y RAMÓN MORILLO OGANDO, SUBDIRECTORES GENERALES DE BIEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395851&managementType=1) | pendiente_verificacion_pdf |
-| 106-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FAUSTINO ROSARIO FERMÍN, SUBDIRECTOR DEL CONSEJO ESTATAL DEL AZÚCAR (CEA). | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395852&managementType=1) | pendiente_verificacion_pdf |
-| 107-20 | 06/03/2020 | 10974 | QUE NOMBRA AL SEÑOR FREDDY ANTONIO HERNÁNDEZ DE LA ROSA, SUBDIRECTOR GENERAL DE GANADERÍA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395853&managementType=1) | pendiente_verificacion_pdf |
-| 108-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR RUBÉN DARÍO GRULLÓN GÓMEZ, SUBDIRECTOR DEL INSTITUTO NACIONAL DE RECURSOS HIDRÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395854&managementType=1) | pendiente_verificacion_pdf |
+| 101-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-101-2020.md) | normalizado · pendiente_revision |
+| 102-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-102-2020.md) | normalizado · pendiente_revision |
+| 103-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-103-2020.md) | normalizado · pendiente_revision |
+| 104-20 | 06/03/2020 | 10974 | QUE DESIGNA A LA SEÑORA GISSELLE MARIA FIALLO PELLERANO, CONSEJERA DE LA EMBAJADA DE LA REPÚBLICA DO... | [Ver documento](decreto-104-2020.md) | normalizado · pendiente_revision |
+| 105-20 | 06/03/2020 | 10974 | NOMBRA A LOS SEÑORES RAFAEL RODRÍGUEZ MOLINA Y RAMÓN MORILLO OGANDO, SUBDIRECTORES GENERALES DE BIEN... | [Ver documento](decreto-105-2020.md) | normalizado · pendiente_revision |
+| 106-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FAUSTINO ROSARIO FERMÍN, SUBDIRECTOR DEL CONSEJO ESTATAL DEL AZÚCAR (CEA). | [Ver documento](decreto-106-2020.md) | normalizado · pendiente_revision |
+| 107-20 | 06/03/2020 | 10974 | QUE NOMBRA AL SEÑOR FREDDY ANTONIO HERNÁNDEZ DE LA ROSA, SUBDIRECTOR GENERAL DE GANADERÍA. | [Ver documento](decreto-107-2020.md) | normalizado · pendiente_revision |
+| 108-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR RUBÉN DARÍO GRULLÓN GÓMEZ, SUBDIRECTOR DEL INSTITUTO NACIONAL DE RECURSOS HIDRÁ... | [Ver documento](decreto-108-2020.md) | normalizado · pendiente_revision |
 | 98-20 | 06/03/2020 | 10974 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER A VARIAS DAMAS DOMINICANAS, CON MOTIVO DEL DÍA INTERNACI... | [Ver documento](decreto-098-2020.md) | normalizado · pendiente_revision |
 | 99-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-099-2020.md) | normalizado · pendiente_revision |
-| 109-20 | 11/03/2020 | 10974 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES DOCENTES EN EL SISTEMA EDUCATIVO UNIVERSITARIO Y PREUNI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395676&managementType=1) | pendiente_verificacion_pdf |
-| 110-20 | 11/03/2020 | 10974 | QUE NOMBRA A LA SEÑORA MIGUELINA DE CASTRO, ADMINISTRADORA DEL HIPÓDROMO V CENTENARIO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395677&managementType=1) | pendiente_verificacion_pdf |
-| 111-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO ROBE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395678&managementType=1) | pendiente_verificacion_pdf |
-| 112-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395679&managementType=1) | pendiente_verificacion_pdf |
-| 113-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL GOBIERNO DE LA REPÚBLICA FRANCESA, DEL CIUDADANO DOMINICANO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395680&managementType=1) | pendiente_verificacion_pdf |
-| 114-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO MELV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395681&managementType=1) | pendiente_verificacion_pdf |
-| 115-20 | 11/03/2020 | 10974 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 333-13, ARTÍCULO 1, NUMERALES 1 Y 2, L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395682&managementType=1) | pendiente_verificacion_pdf |
-| 116-20 | 11/03/2020 | 10974 | QUE MODIFICA EL NUMERAL 3 DEL ARTÍCULO 1 DEL DEC. NO. 41-15. DECLARA DE UTILIDAD PÚBLICA LA PARCELA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395683&managementType=1) | pendiente_verificacion_pdf |
-| 117-20 | 11/03/2020 | 10974 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 18 DEL DEC. NO. 118-16, LA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395684&managementType=1) | pendiente_verificacion_pdf |
-| 118-20 | 11/03/2020 | 10974 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 463-19, QUE A SU VEZ MODIFICÓ EL NUMERAL 4 DEL ARTÍCULO 1 DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395685&managementType=1) | pendiente_verificacion_pdf |
-| 119-20 | 11/03/2020 | 10974 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, VARIAS PORCIONES D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395686&managementType=1) | pendiente_verificacion_pdf |
-| 120-20 | 11/03/2020 | 10974 | QUE CREA EL PARQUE ZONA FRANCA INDUSTRIAL QUE SE DENOMINARÁ ZONA FRANCA INDUSTRIAL HATILLO, BAJO LA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395687&managementType=1) | pendiente_verificacion_pdf |
-| 121-20 | 11/03/2020 | 10974 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 312-18, QUE MODIFICARON LOS DECRETOS NOS. 143-10 Y 371... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395688&managementType=1) | pendiente_verificacion_pdf |
-| 122-20 | 11/03/2020 | 10974 | QUE DEROGA EL DEC. NO. 65-20, DEL 29 DE ENERO DE 2020. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395689&managementType=1) | pendiente_verificacion_pdf |
-| 123-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 134-11, QUE NOMBRÓ AL SEÑOR IVÁN IGNACIO TAPIA LINARES, MINIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395690&managementType=1) | pendiente_verificacion_pdf |
-| 124-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 220-06, QUE DESIGNÓ AL SEÑOR LUDOVINO HERRERA CABRAL, COMO VIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395691&managementType=1) | pendiente_verificacion_pdf |
-| 125-20 | 11/03/2020 | 10974 | QUE NOMBRA AL SEÑOR PAVLOS PHOTIADES, CÓNSUL HONORARIO DE LA REPUBLICA DOMINICANA EN NICOSIA, CHIPRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395692&managementType=1) | pendiente_verificacion_pdf |
-| 126-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 425-14, QUE OTORGÓ EXEQUATUR AL SEÑOR JOSÉ MARIA SANGUINO BLAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395693&managementType=1) | pendiente_verificacion_pdf |
-| 127-20 | 11/03/2020 | 10974 | QUE AUTORIZA A TURPIAL AIRLINES, C.A., SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMIDAD CON LAS LEYES DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395694&managementType=1) | pendiente_verificacion_pdf |
-| 128-20 | 11/03/2020 | 10974 | QUE AUTORIZA A LA COMPAÑÍA CHURCHES ESTATE AGENTS, LTD, SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMIDAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395695&managementType=1) | pendiente_verificacion_pdf |
-| 129-20 | 11/03/2020 | 10974 | QUE AUTORIZA AL TENIENTE CORONEL PILOTO DANIEL YAPOR GENAO, FARD, A ACEPTAR Y USAR LA CONDECORACIÓN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395696&managementType=1) | pendiente_verificacion_pdf |
-| 130-20 | 16/03/2020 | 10975 | QUE DECLARA DUELO OFICIAL EL DÍA 17 DE MARZO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DEL DOCT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395699&managementType=1) | pendiente_verificacion_pdf |
-| 131-20 | 19/03/2020 | 10975 | QUE NOMBRA AL DR. JORGE MARTE BÁEZ, ASESOR MÉDICO DEL PODER EJECUTIVO, QUIEN FORMARÁ PARTE DE LA COM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395700&managementType=1) | pendiente_verificacion_pdf |
-| 132-20 | 19/03/2020 | 10975 | QUE CONFIRMA LA COMISIÓN DE ALTO NIVEL PARA LA PREVENCIÓN Y CONTROL DEL CORONAVIRUS Y CREA E INTEGRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395701&managementType=1) | pendiente_verificacion_pdf |
-| 133-20 | 19/03/2020 | 10975 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE BIENES Y SERVICIOS INDISPENSABLES PARA LA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395702&managementType=1) | pendiente_verificacion_pdf |
-| 134-20 | 19/03/2020 | 10975 | QUE DECLARA DE ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL EN VIRTUD DE LA AUTORIZACIÓN OTOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395703&managementType=1) | pendiente_verificacion_pdf |
-| 135-20 | 20/03/2020 | 10975 | QUE ESTABLECE UN TOQUE DE QUEDA EN TODO EL TERRITORIO NACIONAL Y PROHÍBE EL TRÁNSITO Y CIRCULACIÓN D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395704&managementType=1) | pendiente_verificacion_pdf |
-| 136-20 | 23/03/2020 | 10975 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 135-20. DISPONE LA CIRCULACIÓN DE VEHÍCULOS DEDICADOS AL TRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395706&managementType=1) | pendiente_verificacion_pdf |
-| 137-20 | 23/03/2020 | 10975 | QUE SUSPENDE, MIENTRAS DURE EL ESTADO DE EMERGENCIA, EL COMPUTO DE LOS PLAZOS Y TÉRMINOS DE LOS PROC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395707&managementType=1) | pendiente_verificacion_pdf |
-| 138-20 | 26/03/2020 | 10975 | QUE DISPONE LA EXTENSIÓN DEL HORARIO DEL TOQUE DE QUEDA DE 5:00 P.M. A 6:00 A.M. ESTABLECIDO PARA TO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395708&managementType=1) | pendiente_verificacion_pdf |
-| 139-20 | 26/03/2020 | 10975 | QUE DESIGNA A LOS SEÑORES HÉCTOR BIENVENIDO MEDINA DISLA Y MATILDE CHÁVEZ DE ÁLVAREZ, DIRECTOR GENER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395709&managementType=1) | pendiente_verificacion_pdf |
-| 140-20 | 31/03/2020 | 10975 | QUE NOMBRA AL DR. AMADO ALEJANDRO BÁEZ, ASESOR DEL PODER EJECUTIVO EN SALUD PÚBLICA Y SISTEMAS DE DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395710&managementType=1) | pendiente_verificacion_pdf |
-| 141-20 | 01/04/2020 | 10975 | QUE CREA E INTEGRA EL COMITÉ DE EMERGENCIA Y GESTIÓN SANITARIA PARA EL COMBATE DEL COVID-19. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395711&managementType=1) | pendiente_verificacion_pdf |
-| 142-20 | 02/04/2020 | 10975 | DISPONE QUE SE MANTENDRÁN VIGENTES POR UN PLAZO ADICIONAL DE QUINCE (15) DÍAS, A PARTIR DEL VIERNES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395712&managementType=1) | pendiente_verificacion_pdf |
-| 143-20 | 02/04/2020 | 10975 | QUE CREA EL FONDO DE ASISTENCIA SOLIDARIA AL EMPLEADO (FASE) PARA APOYAR DE MANERA TRANSITORIA A LOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395713&managementType=1) | pendiente_verificacion_pdf |
-| 144-20 | 02/04/2020 | 10975 | QUE MODIFICA EL ART. 2 DEL DEC. NO. 133-20, PARA QUE TAMBIÉN APLIQUE A LAS SIGUIENTES INSTITUCIONES:... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395714&managementType=1) | pendiente_verificacion_pdf |
-| 145-20 | 05/04/2020 | 10975 | QUE CREA E INTEGRA LA COMISIÓN DE VEEDURÍA CIUDADANA COVID-19 COMO MECANISMO PARA VIGILAR, DAR SEGUI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395715&managementType=1) | pendiente_verificacion_pdf |
-| 146-20 | 08/04/2020 | 10975 | QUE NOMBRA A LAS SEÑORAS KENIA LORA ABREU Y GREYBBI MARIA CUELLO COSTE DE TORRES, DIRECTORA DEL INST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395716&managementType=1) | pendiente_verificacion_pdf |
-| 147-20 | 09/04/2020 | 10975 | QUE DESIGNA AL LIC. MARCEL ALEXANDER MEJÍA TAVERAS, VICEMINISTRO DE COOPERACIÓN INTERNACIONAL DEL MI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395717&managementType=1) | pendiente_verificacion_pdf |
-| 149-20 | 09/04/2020 | 10975 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395718&managementType=1) | pendiente_verificacion_pdf |
-| 148-20 | 13/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR UN PLAZO DE DIECISIETE (17) ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395720&managementType=1) | pendiente_verificacion_pdf |
-| 150-20 | 13/04/2020 | 10975 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FAUST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395719&managementType=1) | pendiente_verificacion_pdf |
-| 151-20 | 17/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR 17 DÍAS CONTADOS A PARTIR DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395754&managementType=1) | pendiente_verificacion_pdf |
-| 152-20 | 17/04/2020 | 10975 | QUE DESIGNA A LOS SEÑORES BIENVENIDO PEÑA Y ADRIÁN PUELLO GUERRERO, VICEMINISTROS DE SALUD PÚBLICA. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395755&managementType=1) | pendiente_verificacion_pdf |
-| 153-20 | 30/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DIECISIETE (17) DÍAS MÁS, A ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395756&managementType=1) | pendiente_verificacion_pdf |
-| 154-20 | 30/04/2020 | 10975 | QUE MANTIENE VIGENTES HASTA EL DOMINGO 17 DE MAYO DEL AÑO EN CURSO LAS MEDIDAS DE DISTANCIAMIENTO SO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395757&managementType=1) | pendiente_verificacion_pdf |
-| 155-20 | 01/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES GUSTAVO LEMBERT CANÓ Y JULIO CÉSAR NÚÑEZ, CÓNSULES GENERALES DE LA REPÚBLIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395758&managementType=1) | pendiente_verificacion_pdf |
-| 156-20 | 11/05/2020 | 10976 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 51-19. DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395822&managementType=1) | pendiente_verificacion_pdf |
-| 157-20 | 13/05/2020 | 10976 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395824&managementType=1) | pendiente_verificacion_pdf |
-| 158-20 | 13/05/2020 | 10976 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 141-14, QUE DESIGNÓ AL ING. ANTONIO HERRERA, VICEMINISTRO DE E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395825&managementType=1) | pendiente_verificacion_pdf |
-| 159-20 | 15/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES DANILO RAFAEL SANTOS Y PEDRO RENÉ ALMONTE MEJÍA, VICEMINISTROS PARA LAS COM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395826&managementType=1) | pendiente_verificacion_pdf |
-| 160-20 | 17/05/2020 | 10976 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR UN PLAZO DE QUINCE (15) DÍAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395827&managementType=1) | pendiente_verificacion_pdf |
-| 161-20 | 17/05/2020 | 10976 | QUE MANTIENE VIGENTES LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395830&managementType=1) | pendiente_verificacion_pdf |
-| 162-20 | 18/05/2020 | 10976 | QUE INTEGRA AL MINISTERIO DE ENERGÍA Y MINAS COMO MIEMBRO DE LA COMISIÓN PRESIDENCIAL PARA LA REESTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395831&managementType=1) | pendiente_verificacion_pdf |
-| 163-20 | 19/05/2020 | 10976 | QUE NOMBRA A LA LIC. ZORAIMA CUELLO, DIRECTORA EJECUTIVA DEL CONSEJO NACIONAL DE COMPETITIVIDAD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395842&managementType=1) | pendiente_verificacion_pdf |
-| 164-20 | 20/05/2020 | 10976 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 276-18. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395843&managementType=1) | pendiente_verificacion_pdf |
-| 165-20 | 20/05/2020 | 10976 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395844&managementType=1) | pendiente_verificacion_pdf |
-| 166-20 | 20/05/2020 | 10976 | QUE LE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A LA CÁMARA DE COMERCIO, INDUSTRIA, TURISMO Y PRODUC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395845&managementType=1) | pendiente_verificacion_pdf |
-| 167-20 | 20/05/2020 | 10976 | QUE DEROGA EL DEC. NO. 73-19, MEDIANTE EL CUAL SE DESIGNÓ AL LIC. ROBERT WANDER DE LA CRUZ CARPIO, S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395855&managementType=1) | pendiente_verificacion_pdf |
-| 168-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO WILL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395856&managementType=1) | pendiente_verificacion_pdf |
-| 169-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO JOEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395857&managementType=1) | pendiente_verificacion_pdf |
-| 170-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE FRANCIA, DEL CIUDADANO FRANCÉS FERNAND SIMON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395858&managementType=1) | pendiente_verificacion_pdf |
-| 171-20 | 21/05/2020 | 10976 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIOS EXTRANJEROS. MODIFICA EL NUMERAL 4 DEL ARTÍCULO 1 DEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395859&managementType=1) | pendiente_verificacion_pdf |
-| 172-20 | 22/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES JULIO ALBERTO AVILA AVILA Y JULISSA ESPERANZA MARTÍNEZ SANTOS VICEMINISTROS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395860&managementType=1) | pendiente_verificacion_pdf |
-| 173-20 | 27/05/2020 | 10976 | QUE DESIGNA AL ING. JOSÉ CASIMIRO RAMOS CALDERÓN, ASESOR AGRÍCOLA DEL PODER EJECUTIVO Y COORDINADOR ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395861&managementType=1) | pendiente_verificacion_pdf |
-| 174-20 | 28/05/2020 | 10976 | QUE ESTABLECE UN PROCEDIMIENTO ESPECIALIZADO PARA LOGRAR LA TITULACIÓN DE LOS PARQUES INDUSTRIALES Y... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395864&managementType=1) | pendiente_verificacion_pdf |
-| 175-20 | 28/05/2020 | 10976 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE FOMENTO A LA INNOVACIÓN PARA LA ELABORACIÓN DE LA EST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395865&managementType=1) | pendiente_verificacion_pdf |
-| 176-20 | 28/05/2020 | 10976 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DECRETO NO. 305-18, ARTÍCULO 1, NUMERAL 8, LA PARC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395866&managementType=1) | pendiente_verificacion_pdf |
-| 177-20 | 28/05/2020 | 10976 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL NUMERAL 6, DEL ARTÍCULO 1 DEL DECRETO NO. 209-1... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395867&managementType=1) | pendiente_verificacion_pdf |
-| 178-20 | 28/05/2020 | 10976 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS EN ESPERANZA, PROVINCIA V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395868&managementType=1) | pendiente_verificacion_pdf |
-| 179-20 | 28/05/2020 | 10976 | QUE DESIGNA A LA SEÑORA ALEJANDRA BERNAL VERAS, VICECÓNSUL DE LA REPÚBLICA EN MADRID, ESPAÑA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395869&managementType=1) | pendiente_verificacion_pdf |
-| 180-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR SERGIO ANTONIO GA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395870&managementType=1) | pendiente_verificacion_pdf |
-| 181-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR RAHONEL GRULLÓN G... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395871&managementType=1) | pendiente_verificacion_pdf |
-| 182-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR VÍCTOR JOSÉ DEL P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395872&managementType=1) | pendiente_verificacion_pdf |
-| 183-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A LA SEÑORA JUANA ERANIA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395873&managementType=1) | pendiente_verificacion_pdf |
-| 184-20 | 29/05/2020 | 10976 | QUE MODIFICA LOS ARTÍCULOS 5, 6, 7, 8 Y 9 DEL DECRETO NO. 143-20, QUE CREÓ EL FONDO DE ASISTENCIA SO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395874&managementType=1) | pendiente_verificacion_pdf |
-| 185-20 | 29/05/2020 | 10976 | QUE CREA EL PROGRAMA DE ASISTENCIA AL TRABAJADOR INDEPENDIENTE (PA’TI). | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395875&managementType=1) | pendiente_verificacion_pdf |
-| 186-20 | 29/05/2020 | 10976 | QUE CONFIRMA AL SEÑOR PEDRO LUIS CASTELLANOS COMO SUPERINTENDENTE DE SALUD Y RIESGOS LABORALES, DESI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395876&managementType=1) | pendiente_verificacion_pdf |
-| 187-20 | 01/06/2020 | 10976 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DOCE (12) DÍAS, CONTADOS A P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395877&managementType=1) | pendiente_verificacion_pdf |
-| 188-20 | 01/06/2020 | 10976 | QUE RATIFICA TODAS LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE EL 1... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395878&managementType=1) | pendiente_verificacion_pdf |
-| 189-20 | 02/06/2020 | 10977 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395879&managementType=1) | pendiente_verificacion_pdf |
-| 190-20 | 02/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395880&managementType=1) | pendiente_verificacion_pdf |
-| 191-20 | 02/06/2020 | 10977 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395881&managementType=1) | pendiente_verificacion_pdf |
-| 192-20 | 02/06/2020 | 10977 | QUE DESIGNA A LA SEÑORA CHERYBELL ESTHER GÓMEZ POLANCO, CONSEJERA EN LA MISIÓN PERMANENTE DE LA REPÚ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395882&managementType=1) | pendiente_verificacion_pdf |
-| 193-20 | 02/06/2020 | 10977 | QUE NOMBRA A LOS SEÑORES HERNÁN GUAROA SÁNCHEZ DE LOS SANTOS, NELCY KARINA ALMONTE CHECO Y EVELYN VÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395883&managementType=1) | pendiente_verificacion_pdf |
-| 194-20 | 03/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395884&managementType=1) | pendiente_verificacion_pdf |
-| 195-20 | 03/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR CARLOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395885&managementType=1) | pendiente_verificacion_pdf |
-| 196-20 | 04/06/2020 | 10977 | QUE DESIGNA A LOS SEÑORES GEOVANNY GONZÁLEZ CAPELLÁN Y WILLIAM AQUINO, MIEMBRO DEL CONSEJO DE ADMINI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395886&managementType=1) | pendiente_verificacion_pdf |
-| 197-20 | 04/06/2020 | 10977 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 1408-04, QUE DESIGNÓ AL SEÑOR RAMÓN REVI MATOS, COMO PRIMER SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395887&managementType=1) | pendiente_verificacion_pdf |
-| 198-20 | 04/06/2020 | 10977 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, NUMERAL 17 DEL DEC. NO. 230-13, VARIAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395888&managementType=1) | pendiente_verificacion_pdf |
-| 199-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES Y ELEVA PENSIONES DEL ESTADO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395889&managementType=1) | pendiente_verificacion_pdf |
-| 200-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395890&managementType=1) | pendiente_verificacion_pdf |
+| 109-20 | 11/03/2020 | 10974 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES DOCENTES EN EL SISTEMA EDUCATIVO UNIVERSITARIO Y PREUNI... | [Ver documento](decreto-109-2020.md) | normalizado · pendiente_revision |
+| 110-20 | 11/03/2020 | 10974 | QUE NOMBRA A LA SEÑORA MIGUELINA DE CASTRO, ADMINISTRADORA DEL HIPÓDROMO V CENTENARIO. | [Ver documento](decreto-110-2020.md) | normalizado · pendiente_revision |
+| 111-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO ROBE... | [Ver documento](decreto-111-2020.md) | normalizado · pendiente_revision |
+| 112-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO DOMI... | [Ver documento](decreto-112-2020.md) | normalizado · pendiente_revision |
+| 113-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL GOBIERNO DE LA REPÚBLICA FRANCESA, DEL CIUDADANO DOMINICANO... | [Ver documento](decreto-113-2020.md) | normalizado · pendiente_revision |
+| 114-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO MELV... | [Ver documento](decreto-114-2020.md) | normalizado · pendiente_revision |
+| 115-20 | 11/03/2020 | 10974 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 333-13, ARTÍCULO 1, NUMERALES 1 Y 2, L... | [Ver documento](decreto-115-2020.md) | normalizado · pendiente_revision |
+| 116-20 | 11/03/2020 | 10974 | QUE MODIFICA EL NUMERAL 3 DEL ARTÍCULO 1 DEL DEC. NO. 41-15. DECLARA DE UTILIDAD PÚBLICA LA PARCELA ... | [Ver documento](decreto-116-2020.md) | normalizado · pendiente_revision |
+| 117-20 | 11/03/2020 | 10974 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 18 DEL DEC. NO. 118-16, LA ... | [Ver documento](decreto-117-2020.md) | normalizado · pendiente_revision |
+| 118-20 | 11/03/2020 | 10974 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 463-19, QUE A SU VEZ MODIFICÓ EL NUMERAL 4 DEL ARTÍCULO 1 DE... | [Ver documento](decreto-118-2020.md) | normalizado · pendiente_revision |
+| 119-20 | 11/03/2020 | 10974 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, VARIAS PORCIONES D... | [Ver documento](decreto-119-2020.md) | normalizado · pendiente_revision |
+| 120-20 | 11/03/2020 | 10974 | QUE CREA EL PARQUE ZONA FRANCA INDUSTRIAL QUE SE DENOMINARÁ ZONA FRANCA INDUSTRIAL HATILLO, BAJO LA ... | [Ver documento](decreto-120-2020.md) | normalizado · pendiente_revision |
+| 121-20 | 11/03/2020 | 10974 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 312-18, QUE MODIFICARON LOS DECRETOS NOS. 143-10 Y 371... | [Ver documento](decreto-121-2020.md) | normalizado · pendiente_revision |
+| 122-20 | 11/03/2020 | 10974 | QUE DEROGA EL DEC. NO. 65-20, DEL 29 DE ENERO DE 2020. | [Ver documento](decreto-122-2020.md) | normalizado · pendiente_revision |
+| 123-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 134-11, QUE NOMBRÓ AL SEÑOR IVÁN IGNACIO TAPIA LINARES, MINIST... | [Ver documento](decreto-123-2020.md) | normalizado · pendiente_revision |
+| 124-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 220-06, QUE DESIGNÓ AL SEÑOR LUDOVINO HERRERA CABRAL, COMO VIC... | [Ver documento](decreto-124-2020.md) | normalizado · pendiente_revision |
+| 125-20 | 11/03/2020 | 10974 | QUE NOMBRA AL SEÑOR PAVLOS PHOTIADES, CÓNSUL HONORARIO DE LA REPUBLICA DOMINICANA EN NICOSIA, CHIPRE... | [Ver documento](decreto-125-2020.md) | normalizado · pendiente_revision |
+| 126-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 425-14, QUE OTORGÓ EXEQUATUR AL SEÑOR JOSÉ MARIA SANGUINO BLAN... | [Ver documento](decreto-126-2020.md) | normalizado · pendiente_revision |
+| 127-20 | 11/03/2020 | 10974 | QUE AUTORIZA A TURPIAL AIRLINES, C.A., SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMIDAD CON LAS LEYES DE... | [Ver documento](decreto-127-2020.md) | normalizado · pendiente_revision |
+| 128-20 | 11/03/2020 | 10974 | QUE AUTORIZA A LA COMPAÑÍA CHURCHES ESTATE AGENTS, LTD, SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMIDAD... | [Ver documento](decreto-128-2020.md) | normalizado · pendiente_revision |
+| 129-20 | 11/03/2020 | 10974 | QUE AUTORIZA AL TENIENTE CORONEL PILOTO DANIEL YAPOR GENAO, FARD, A ACEPTAR Y USAR LA CONDECORACIÓN ... | [Ver documento](decreto-129-2020.md) | normalizado · pendiente_revision |
+| 130-20 | 16/03/2020 | 10975 | QUE DECLARA DUELO OFICIAL EL DÍA 17 DE MARZO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DEL DOCT... | [Ver documento](decreto-130-2020.md) | normalizado · pendiente_revision |
+| 131-20 | 19/03/2020 | 10975 | QUE NOMBRA AL DR. JORGE MARTE BÁEZ, ASESOR MÉDICO DEL PODER EJECUTIVO, QUIEN FORMARÁ PARTE DE LA COM... | [Ver documento](decreto-131-2020.md) | normalizado · pendiente_revision |
+| 132-20 | 19/03/2020 | 10975 | QUE CONFIRMA LA COMISIÓN DE ALTO NIVEL PARA LA PREVENCIÓN Y CONTROL DEL CORONAVIRUS Y CREA E INTEGRA... | [Ver documento](decreto-132-2020.md) | normalizado · pendiente_revision |
+| 133-20 | 19/03/2020 | 10975 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE BIENES Y SERVICIOS INDISPENSABLES PARA LA ... | [Ver documento](decreto-133-2020.md) | normalizado · pendiente_revision |
+| 134-20 | 19/03/2020 | 10975 | QUE DECLARA DE ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL EN VIRTUD DE LA AUTORIZACIÓN OTOR... | [Ver documento](decreto-134-2020.md) | normalizado · pendiente_revision |
+| 135-20 | 20/03/2020 | 10975 | QUE ESTABLECE UN TOQUE DE QUEDA EN TODO EL TERRITORIO NACIONAL Y PROHÍBE EL TRÁNSITO Y CIRCULACIÓN D... | [Ver documento](decreto-135-2020.md) | normalizado · pendiente_revision |
+| 136-20 | 23/03/2020 | 10975 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 135-20. DISPONE LA CIRCULACIÓN DE VEHÍCULOS DEDICADOS AL TRA... | [Ver documento](decreto-136-2020.md) | normalizado · pendiente_revision |
+| 137-20 | 23/03/2020 | 10975 | QUE SUSPENDE, MIENTRAS DURE EL ESTADO DE EMERGENCIA, EL COMPUTO DE LOS PLAZOS Y TÉRMINOS DE LOS PROC... | [Ver documento](decreto-137-2020.md) | normalizado · pendiente_revision |
+| 138-20 | 26/03/2020 | 10975 | QUE DISPONE LA EXTENSIÓN DEL HORARIO DEL TOQUE DE QUEDA DE 5:00 P.M. A 6:00 A.M. ESTABLECIDO PARA TO... | [Ver documento](decreto-138-2020.md) | normalizado · pendiente_revision |
+| 139-20 | 26/03/2020 | 10975 | QUE DESIGNA A LOS SEÑORES HÉCTOR BIENVENIDO MEDINA DISLA Y MATILDE CHÁVEZ DE ÁLVAREZ, DIRECTOR GENER... | [Ver documento](decreto-139-2020.md) | normalizado · pendiente_revision |
+| 140-20 | 31/03/2020 | 10975 | QUE NOMBRA AL DR. AMADO ALEJANDRO BÁEZ, ASESOR DEL PODER EJECUTIVO EN SALUD PÚBLICA Y SISTEMAS DE DE... | [Ver documento](decreto-140-2020.md) | normalizado · pendiente_revision |
+| 141-20 | 01/04/2020 | 10975 | QUE CREA E INTEGRA EL COMITÉ DE EMERGENCIA Y GESTIÓN SANITARIA PARA EL COMBATE DEL COVID-19. | [Ver documento](decreto-141-2020.md) | normalizado · pendiente_revision |
+| 142-20 | 02/04/2020 | 10975 | DISPONE QUE SE MANTENDRÁN VIGENTES POR UN PLAZO ADICIONAL DE QUINCE (15) DÍAS, A PARTIR DEL VIERNES ... | [Ver documento](decreto-142-2020.md) | normalizado · pendiente_revision |
+| 143-20 | 02/04/2020 | 10975 | QUE CREA EL FONDO DE ASISTENCIA SOLIDARIA AL EMPLEADO (FASE) PARA APOYAR DE MANERA TRANSITORIA A LOS... | [Ver documento](decreto-143-2020.md) | normalizado · pendiente_revision |
+| 144-20 | 02/04/2020 | 10975 | QUE MODIFICA EL ART. 2 DEL DEC. NO. 133-20, PARA QUE TAMBIÉN APLIQUE A LAS SIGUIENTES INSTITUCIONES:... | [Ver documento](decreto-144-2020.md) | normalizado · pendiente_revision |
+| 145-20 | 05/04/2020 | 10975 | QUE CREA E INTEGRA LA COMISIÓN DE VEEDURÍA CIUDADANA COVID-19 COMO MECANISMO PARA VIGILAR, DAR SEGUI... | [Ver documento](decreto-145-2020.md) | normalizado · pendiente_revision |
+| 146-20 | 08/04/2020 | 10975 | QUE NOMBRA A LAS SEÑORAS KENIA LORA ABREU Y GREYBBI MARIA CUELLO COSTE DE TORRES, DIRECTORA DEL INST... | [Ver documento](decreto-146-2020.md) | normalizado · pendiente_revision |
+| 147-20 | 09/04/2020 | 10975 | QUE DESIGNA AL LIC. MARCEL ALEXANDER MEJÍA TAVERAS, VICEMINISTRO DE COOPERACIÓN INTERNACIONAL DEL MI... | [Ver documento](decreto-147-2020.md) | normalizado · pendiente_revision |
+| 149-20 | 09/04/2020 | 10975 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-149-2020.md) | normalizado · pendiente_revision |
+| 148-20 | 13/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR UN PLAZO DE DIECISIETE (17) ... | [Ver documento](decreto-148-2020.md) | normalizado · pendiente_revision |
+| 150-20 | 13/04/2020 | 10975 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FAUST... | [Ver documento](decreto-150-2020.md) | normalizado · pendiente_revision |
+| 151-20 | 17/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR 17 DÍAS CONTADOS A PARTIR DE... | [Ver documento](decreto-151-2020.md) | normalizado · pendiente_revision |
+| 152-20 | 17/04/2020 | 10975 | QUE DESIGNA A LOS SEÑORES BIENVENIDO PEÑA Y ADRIÁN PUELLO GUERRERO, VICEMINISTROS DE SALUD PÚBLICA. ... | [Ver documento](decreto-152-2020.md) | normalizado · pendiente_revision |
+| 153-20 | 30/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DIECISIETE (17) DÍAS MÁS, A ... | [Ver documento](decreto-153-2020.md) | normalizado · pendiente_revision |
+| 154-20 | 30/04/2020 | 10975 | QUE MANTIENE VIGENTES HASTA EL DOMINGO 17 DE MAYO DEL AÑO EN CURSO LAS MEDIDAS DE DISTANCIAMIENTO SO... | [Ver documento](decreto-154-2020.md) | normalizado · pendiente_revision |
+| 155-20 | 01/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES GUSTAVO LEMBERT CANÓ Y JULIO CÉSAR NÚÑEZ, CÓNSULES GENERALES DE LA REPÚBLIC... | [Ver documento](decreto-155-2020.md) | normalizado · pendiente_revision |
+| 156-20 | 11/05/2020 | 10976 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 51-19. DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUI... | [Ver documento](decreto-156-2020.md) | normalizado · pendiente_revision |
+| 157-20 | 13/05/2020 | 10976 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-157-2020.md) | normalizado · pendiente_revision |
+| 158-20 | 13/05/2020 | 10976 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 141-14, QUE DESIGNÓ AL ING. ANTONIO HERRERA, VICEMINISTRO DE E... | [Ver documento](decreto-158-2020.md) | normalizado · pendiente_revision |
+| 159-20 | 15/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES DANILO RAFAEL SANTOS Y PEDRO RENÉ ALMONTE MEJÍA, VICEMINISTROS PARA LAS COM... | [Ver documento](decreto-159-2020.md) | normalizado · pendiente_revision |
+| 160-20 | 17/05/2020 | 10976 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR UN PLAZO DE QUINCE (15) DÍAS... | [Ver documento](decreto-160-2020.md) | normalizado · pendiente_revision |
+| 161-20 | 17/05/2020 | 10976 | QUE MANTIENE VIGENTES LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE E... | [Ver documento](decreto-161-2020.md) | normalizado · pendiente_revision |
+| 162-20 | 18/05/2020 | 10976 | QUE INTEGRA AL MINISTERIO DE ENERGÍA Y MINAS COMO MIEMBRO DE LA COMISIÓN PRESIDENCIAL PARA LA REESTR... | [Ver documento](decreto-162-2020.md) | normalizado · pendiente_revision |
+| 163-20 | 19/05/2020 | 10976 | QUE NOMBRA A LA LIC. ZORAIMA CUELLO, DIRECTORA EJECUTIVA DEL CONSEJO NACIONAL DE COMPETITIVIDAD. | [Ver documento](decreto-163-2020.md) | normalizado · pendiente_revision |
+| 164-20 | 20/05/2020 | 10976 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 276-18. | [Ver documento](decreto-164-2020.md) | normalizado · pendiente_revision |
+| 165-20 | 20/05/2020 | 10976 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-165-2020.md) | normalizado · pendiente_revision |
+| 166-20 | 20/05/2020 | 10976 | QUE LE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A LA CÁMARA DE COMERCIO, INDUSTRIA, TURISMO Y PRODUC... | [Ver documento](decreto-166-2020.md) | normalizado · pendiente_revision |
+| 167-20 | 20/05/2020 | 10976 | QUE DEROGA EL DEC. NO. 73-19, MEDIANTE EL CUAL SE DESIGNÓ AL LIC. ROBERT WANDER DE LA CRUZ CARPIO, S... | [Ver documento](decreto-167-2020.md) | normalizado · pendiente_revision |
+| 168-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO WILL... | [Ver documento](decreto-168-2020.md) | normalizado · pendiente_revision |
+| 169-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO JOEL... | [Ver documento](decreto-169-2020.md) | normalizado · pendiente_revision |
+| 170-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE FRANCIA, DEL CIUDADANO FRANCÉS FERNAND SIMON... | [Ver documento](decreto-170-2020.md) | normalizado · pendiente_revision |
+| 171-20 | 21/05/2020 | 10976 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIOS EXTRANJEROS. MODIFICA EL NUMERAL 4 DEL ARTÍCULO 1 DEL... | [Ver documento](decreto-171-2020.md) | normalizado · pendiente_revision |
+| 172-20 | 22/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES JULIO ALBERTO AVILA AVILA Y JULISSA ESPERANZA MARTÍNEZ SANTOS VICEMINISTROS... | [Ver documento](decreto-172-2020.md) | normalizado · pendiente_revision |
+| 173-20 | 27/05/2020 | 10976 | QUE DESIGNA AL ING. JOSÉ CASIMIRO RAMOS CALDERÓN, ASESOR AGRÍCOLA DEL PODER EJECUTIVO Y COORDINADOR ... | [Ver documento](decreto-173-2020.md) | normalizado · pendiente_revision |
+| 174-20 | 28/05/2020 | 10976 | QUE ESTABLECE UN PROCEDIMIENTO ESPECIALIZADO PARA LOGRAR LA TITULACIÓN DE LOS PARQUES INDUSTRIALES Y... | [Ver documento](decreto-174-2020.md) | normalizado · pendiente_revision |
+| 175-20 | 28/05/2020 | 10976 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE FOMENTO A LA INNOVACIÓN PARA LA ELABORACIÓN DE LA EST... | [Ver documento](decreto-175-2020.md) | normalizado · pendiente_revision |
+| 176-20 | 28/05/2020 | 10976 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DECRETO NO. 305-18, ARTÍCULO 1, NUMERAL 8, LA PARC... | [Ver documento](decreto-176-2020.md) | normalizado · pendiente_revision |
+| 177-20 | 28/05/2020 | 10976 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL NUMERAL 6, DEL ARTÍCULO 1 DEL DECRETO NO. 209-1... | [Ver documento](decreto-177-2020.md) | normalizado · pendiente_revision |
+| 178-20 | 28/05/2020 | 10976 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS EN ESPERANZA, PROVINCIA V... | [Ver documento](decreto-178-2020.md) | normalizado · pendiente_revision |
+| 179-20 | 28/05/2020 | 10976 | QUE DESIGNA A LA SEÑORA ALEJANDRA BERNAL VERAS, VICECÓNSUL DE LA REPÚBLICA EN MADRID, ESPAÑA. | [Ver documento](decreto-179-2020.md) | normalizado · pendiente_revision |
+| 180-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR SERGIO ANTONIO GA... | [Ver documento](decreto-180-2020.md) | normalizado · pendiente_revision |
+| 181-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR RAHONEL GRULLÓN G... | [Ver documento](decreto-181-2020.md) | normalizado · pendiente_revision |
+| 182-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR VÍCTOR JOSÉ DEL P... | [Ver documento](decreto-182-2020.md) | normalizado · pendiente_revision |
+| 183-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A LA SEÑORA JUANA ERANIA R... | [Ver documento](decreto-183-2020.md) | normalizado · pendiente_revision |
+| 184-20 | 29/05/2020 | 10976 | QUE MODIFICA LOS ARTÍCULOS 5, 6, 7, 8 Y 9 DEL DECRETO NO. 143-20, QUE CREÓ EL FONDO DE ASISTENCIA SO... | [Ver documento](decreto-184-2020.md) | normalizado · pendiente_revision |
+| 185-20 | 29/05/2020 | 10976 | QUE CREA EL PROGRAMA DE ASISTENCIA AL TRABAJADOR INDEPENDIENTE (PA’TI). | [Ver documento](decreto-185-2020.md) | normalizado · pendiente_revision |
+| 186-20 | 29/05/2020 | 10976 | QUE CONFIRMA AL SEÑOR PEDRO LUIS CASTELLANOS COMO SUPERINTENDENTE DE SALUD Y RIESGOS LABORALES, DESI... | [Ver documento](decreto-186-2020.md) | normalizado · pendiente_revision |
+| 187-20 | 01/06/2020 | 10976 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DOCE (12) DÍAS, CONTADOS A P... | [Ver documento](decreto-187-2020.md) | normalizado · pendiente_revision |
+| 188-20 | 01/06/2020 | 10976 | QUE RATIFICA TODAS LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE EL 1... | [Ver documento](decreto-188-2020.md) | normalizado · pendiente_revision |
+| 189-20 | 02/06/2020 | 10977 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES ... | [Ver documento](decreto-189-2020.md) | normalizado · pendiente_revision |
+| 190-20 | 02/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-190-2020.md) | normalizado · pendiente_revision |
+| 191-20 | 02/06/2020 | 10977 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-191-2020.md) | normalizado · pendiente_revision |
+| 192-20 | 02/06/2020 | 10977 | QUE DESIGNA A LA SEÑORA CHERYBELL ESTHER GÓMEZ POLANCO, CONSEJERA EN LA MISIÓN PERMANENTE DE LA REPÚ... | [Ver documento](decreto-192-2020.md) | normalizado · pendiente_revision |
+| 193-20 | 02/06/2020 | 10977 | QUE NOMBRA A LOS SEÑORES HERNÁN GUAROA SÁNCHEZ DE LOS SANTOS, NELCY KARINA ALMONTE CHECO Y EVELYN VÁ... | [Ver documento](decreto-193-2020.md) | normalizado · pendiente_revision |
+| 194-20 | 03/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-194-2020.md) | normalizado · pendiente_revision |
+| 195-20 | 03/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR CARLOS... | [Ver documento](decreto-195-2020.md) | normalizado · pendiente_revision |
+| 196-20 | 04/06/2020 | 10977 | QUE DESIGNA A LOS SEÑORES GEOVANNY GONZÁLEZ CAPELLÁN Y WILLIAM AQUINO, MIEMBRO DEL CONSEJO DE ADMINI... | [Ver documento](decreto-196-2020.md) | normalizado · pendiente_revision |
+| 197-20 | 04/06/2020 | 10977 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 1408-04, QUE DESIGNÓ AL SEÑOR RAMÓN REVI MATOS, COMO PRIMER SE... | [Ver documento](decreto-197-2020.md) | normalizado · pendiente_revision |
+| 198-20 | 04/06/2020 | 10977 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, NUMERAL 17 DEL DEC. NO. 230-13, VARIAS... | [Ver documento](decreto-198-2020.md) | normalizado · pendiente_revision |
+| 199-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES Y ELEVA PENSIONES DEL ESTADO ... | [Ver documento](decreto-199-2020.md) | normalizado · pendiente_revision |
+| 200-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-200-2020.md) | normalizado · pendiente_revision |
 | 201-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395891&managementType=1) | pendiente_verificacion_pdf |
 | 202-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395892&managementType=1) | pendiente_verificacion_pdf |
 | 203-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395893&managementType=1) | pendiente_verificacion_pdf |
