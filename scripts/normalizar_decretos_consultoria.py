@@ -26,25 +26,26 @@ def reflow(text):
 
 def extract(pdf,n,yy):
     doc=pymupdf.open(pdf); texts=[p.get_text("text") for p in doc]; doc.close()
-    start=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*0*{n}-{yy}\b",re.I)
+    start=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*(?P<numero>0*{n}-{yy})\b",re.I)
+    alternate=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*(?P<numero>0*{n}-\d{{2,4}})\b",re.I)
     neighbor=re.compile(rf"(?im)^(?:Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*(\d+)-{yy}\b",re.I)
-    begun=False; trimmed=False; pages=[]; clase_encabezado=""
+    begun=False; trimmed=False; pages=[]; clase_encabezado=""; numero_encabezado=""
     for text in texts:
         if not begun:
-            m=start.search(text)
+            m=start.search(text) or alternate.search(text)
             if not m: continue
-            trimmed|=bool(text[:m.start()].strip()); clase_encabezado=m.group("clase"); text=text[m.start():]; begun=True
+            trimmed|=bool(text[:m.start()].strip()); clase_encabezado=m.group("clase"); numero_encabezado=m.group("numero"); text=text[m.start():]; begun=True
         end=next((m for m in neighbor.finditer(text) if int(m.group(1))!=n),None)
         if end: text=text[:end.start()]; trimmed=True
         text=reflow(text)
         if text: pages.append(text)
         if end: break
-    return pages,trimmed,("extraido_desde_pdf_oficial" if begun else "encabezado_no_encontrado"),clase_encabezado
+    return pages,trimmed,("extraido_desde_pdf_oficial" if begun else "encabezado_no_encontrado"),clase_encabezado,numero_encabezado
 
 def title(pages,n,yy,year):
     if not pages: return f"Decreto núm. {n:03d}-{year}"
     text=pages[0].split("\n\n",1)[0]
-    text=re.sub(rf"^(?:Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*0*{n}-{yy}\s*","",text,flags=re.I)
+    text=re.sub(rf"^(?:Dec\.|Regl\.)\s*(?:núm\.|No\.)\s*0*{n}-\d{{2,4}}\s*","",text,flags=re.I)
     text=re.sub(r"\s*G\.\s*O\.\s*núm\..*$","",text,flags=re.I).strip().rstrip(".")
     return text or f"Decreto núm. {n:03d}-{year}"
 
@@ -73,9 +74,16 @@ def run(repo,year,numbers,documentos_explicitos=None):
         md=repo/"docs"/"decretos"/str(year)/(stem+".md")
         js=repo/"datos"/"decretos"/str(year)/(stem+".json")
         if not pdf.exists() or not pdf.read_bytes().startswith(b"%PDF"): raise ValueError(f"PDF ausente/inválido: {pdf}")
-        pages,trimmed,state,clase_encabezado=extract(pdf,n,str(year)[-2:]); hpdf=sha(pdf)
-        md.parent.mkdir(parents=True,exist_ok=True); md.write_text(markdown(n,year,d,pages,hpdf,state,trimmed,clase_encabezado),encoding="utf-8",newline="\n"); hmd=sha(md); tipo_documento="reglamento" if clase_encabezado.lower().startswith("regl") else "decreto"
+        pages,trimmed,state,clase_encabezado,numero_encabezado=extract(pdf,n,str(year)[-2:]); hpdf=sha(pdf)
+        formal=re.search(rf"(?im)^NÚMERO:\s*(0*{n}-\d{{2,4}})\b","\n".join(pages)); numero_formal=formal.group(1) if formal else ""; esperado=f"{n}-{str(year)[-2:]}"; discrepancia=bool(numero_encabezado and numero_encabezado.lstrip("0")!=esperado)
+        md_text=markdown(n,year,d,pages,hpdf,state,trimmed,clase_encabezado)
+        if discrepancia:
+            alerta=f"El encabezado sumario del PDF indica `{numero_encabezado}`, mientras la línea formal indica `{numero_formal or esperado}` y la metadata oficial corresponde a `{esperado}`; se conserva la discrepancia para revisión humana."
+            md_text=md_text.replace(f"- Número: {n:03d}\n",f"- Número: {n:03d}\n- Número en el encabezado sumario del PDF: `{numero_encabezado}`\n- Número formal en el PDF: `{numero_formal or esperado}`\n",1).replace("## Notas de revisión\n\n",f"## Notas de revisión\n\n- {alerta}\n",1)
+        md.parent.mkdir(parents=True,exist_ok=True); md.write_text(md_text,encoding="utf-8",newline="\n"); hmd=sha(md); tipo_documento="reglamento" if clase_encabezado.lower().startswith("regl") else "decreto"
         meta={"tipo_documento":tipo_documento,"categoria_inventario_fuente":"decretos","denominacion_encabezado_pdf":clase_encabezado,"numero":f"{n:03d}","anio":str(year),"titulo":title(pages,n,str(year)[-2:],year),"fecha":d.get("fecha_documento",""),"gaceta_oficial":d.get("gaceta_oficial",""),"institucion_fuente":d.get("institucion_fuente",""),"url_fuente_oficial":d.get("url_fuente_oficial",""),"url_pdf_original":d.get("url_documento_consultoria_descargar",""),"url_documento_oficial":d.get("url_documento_consultoria_abrir",""),"document_id_consultoria":d.get("document_id_consultoria",""),"fecha_consulta":date.today().isoformat(),"ruta_pdf_local":f"archivos/decretos/{year}/{stem}.pdf","ruta_markdown":f"docs/decretos/{year}/{stem}.md","ruta_json":f"datos/decretos/{year}/{stem}.json","sha256_pdf_original":hpdf,"sha256_markdown":hmd,"estado_revision":"pendiente_revision","estado_publicacion":"normalizado","estado_extraccion":state,"fragmentos_decretos_vecinos_excluidos":trimmed,"commit_publicacion":"","notas":"Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."}
+        if discrepancia:
+            meta.update({"numero_encabezado_pdf":numero_encabezado,"numero_formal_pdf":numero_formal or esperado,"alertas_revision":[alerta],"notas":alerta+" Texto extraído automáticamente desde PDF oficial; verificar contra el PDF."})
         js.parent.mkdir(parents=True,exist_ok=True); js.write_text(json.dumps(meta,ensure_ascii=False,indent=2)+"\n",encoding="utf-8",newline="\n")
         print(f"OK {stem}: {len(pages)} página(s), PDF {hpdf[:12]}…, MD {hmd[:12]}…")
 def main():
