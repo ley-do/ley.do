@@ -9,6 +9,7 @@ Documentos detectados: **688**.
 
 ## Registros con numeración atípica
 
+- El registro `675-23` tiene sus endpoints oficiales de apertura y descarga temporalmente rotos (HTTP 500); su página conserva metadata y evidencia de recortes vecinos, pero queda `pendiente_encontrar_pdf`.
 - El registro `413-23` tiene sus endpoints oficiales de apertura y descarga temporalmente rotos (HTTP 500); su página conserva metadata y evidencia de recortes vecinos, pero queda `pendiente_encontrar_pdf`.
 - El registro `755-22` corresponde documentalmente a 2022 aunque aparece en la consulta agrupada bajo 2023; no se generará un falso paquete 755-2023.
 - El segundo registro identificado en metadata como `544-23` (ID `3401558`) contiene en el PDF el encabezado `Dec. núm. 554-23`; se normalizará como Decreto núm. 554-2023 conservando la discrepancia para revisión humana.
@@ -616,6 +617,7 @@ Documentos detectados: **688**.
 - [Decreto núm. 604-2023](decreto-604-2023.md)
 - [Decreto núm. 605-2023](decreto-605-2023.md)
 - [Decreto núm. 606-2023](decreto-606-2023.md)
+- [Decreto núm. 675-2023](decreto-675-2023.md)
 
 ## Documentos detectados
 
@@ -1292,7 +1294,7 @@ Documentos detectados: **688**.
 | 672-23 | 29/12/2023 | 11138 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401707&managementType=1) | pendiente_verificacion_pdf |
 | 673-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401708&managementType=1) | pendiente_verificacion_pdf |
 | 674-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401709&managementType=1) | pendiente_verificacion_pdf |
-| 675-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A DIFERENTES ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401710&managementType=1) | pendiente_verificacion_pdf |
+| 675-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A DIFERENTES ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-675-2023.md) | pendiente_encontrar_pdf · pendiente_revision |
 | 676-23 | 29/12/2023 | 11138 | QUE AUTORIZA AL CORONEL PILOTO DAMIÁN ALBERTO V. CASTRO ORTIZ, FARD Y AL CORONEL PILOTO RICHARD AMIR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401711&managementType=1) | pendiente_verificacion_pdf |
 | 677-23 | 29/12/2023 | 11138 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERALES 1 Y 2, DEL DEC. NÚM. 406-... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401712&managementType=1) | pendiente_verificacion_pdf |
 | 678-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401713&managementType=1) | pendiente_verificacion_pdf |
