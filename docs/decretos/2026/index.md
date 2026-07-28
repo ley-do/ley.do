@@ -212,6 +212,31 @@ Documentos detectados: **406**.
 - [Decreto núm. 201-2026](decreto-201-2026.md)
 - [Decreto núm. 202-2026](decreto-202-2026.md)
 - [Decreto núm. 203-2026](decreto-203-2026.md)
+- [Decreto núm. 204-2026](decreto-204-2026.md)
+- [Decreto núm. 205-2026](decreto-205-2026.md)
+- [Decreto núm. 206-2026](decreto-206-2026.md)
+- [Decreto núm. 207-2026](decreto-207-2026.md)
+- [Decreto núm. 208-2026](decreto-208-2026.md)
+- [Decreto núm. 209-2026](decreto-209-2026.md)
+- [Decreto núm. 210-2026](decreto-210-2026.md)
+- [Decreto núm. 211-2026](decreto-211-2026.md)
+- [Decreto núm. 212-2026](decreto-212-2026.md)
+- [Decreto núm. 213-2026](decreto-213-2026.md)
+- [Decreto núm. 214-2026](decreto-214-2026.md)
+- [Decreto núm. 215-2026](decreto-215-2026.md)
+- [Decreto núm. 216-2026](decreto-216-2026.md)
+- [Decreto núm. 217-2026](decreto-217-2026.md)
+- [Decreto núm. 218-2026](decreto-218-2026.md)
+- [Decreto núm. 219-2026](decreto-219-2026.md)
+- [Decreto núm. 220-2026](decreto-220-2026.md)
+- [Decreto núm. 221-2026](decreto-221-2026.md)
+- [Decreto núm. 222-2026](decreto-222-2026.md)
+- [Decreto núm. 223-2026](decreto-223-2026.md)
+- [Decreto núm. 224-2026](decreto-224-2026.md)
+- [Decreto núm. 225-2026](decreto-225-2026.md)
+- [Decreto núm. 226-2026](decreto-226-2026.md)
+- [Decreto núm. 227-2026](decreto-227-2026.md)
+- [Decreto núm. 228-2026](decreto-228-2026.md)
 - [Decreto núm. 234-2026](decreto-234-2026.md)
 - [Decreto núm. 236-2026](decreto-236-2026.md)
 - [Decreto núm. 240-2026](decreto-240-2026.md)
@@ -437,31 +462,31 @@ Documentos detectados: **406**.
 | 201-26 | 26/03/2026 | 11236 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDENARÍA, A 20 PERSONAS EXTRAN... | [Ver documento](decreto-201-2026.md) | normalizado · pendiente_revision |
 | 202-26 | 26/03/2026 | 11236 | QUE ASCIENDE AL CORONEL FRANCISCO ADOLFO FRANCISCO PIMENTEL, P.N., AL RANGO DE GENERAL, P. N. Y LO D... | [Ver documento](decreto-202-2026.md) | normalizado · pendiente_revision |
 | 203-26 | 26/03/2026 | 11236 | QUE DEROGA EL ARTÍCULO 6 DEL DECRETO NÚM. 408-20, QUE DESIGNÓ A JOHANNY VILLAMÁN ESPINO, SUBDIRECTOR... | [Ver documento](decreto-203-2026.md) | normalizado · pendiente_revision |
-| 204-26 | 26/03/2026 | 11236 | QUE MODIFICA EL LITERAL D) DEL ARTÍCULO 1 DEL DECRETO NÚM. 37-25. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404627&managementType=1) | pendiente_verificacion_pdf |
-| 205-26 | 26/03/2026 | 11236 | QUE CONCEDE NATURALIZACIÓN DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 22 PERSONAS EXTRANJER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404628&managementType=1) | pendiente_verificacion_pdf |
-| 206-26 | 26/03/2026 | 11236 | QUE MODIFICA EL NUMERAL 66 DEL ARTÍCULO 1 DEL DECRETO NÚM. 369-13, QUE DECLARÓ DE UTILIDAD PÚBLICA U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404637&managementType=1) | pendiente_verificacion_pdf |
-| 207-26 | 26/03/2026 | 11236 | QUE CONCEDE PENSIONES DEL ESTADO A 47 SERVIDORES PÚBLICOS DEL INSTITUTO AGRARIO DOMINICANO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404638&managementType=1) | pendiente_verificacion_pdf |
-| 208-26 | 26/03/2026 | 11236 | QUE NOMBRA A JOHANNES MARINUS KELNER DE BENITO, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE ZONAS FRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404629&managementType=1) | pendiente_verificacion_pdf |
-| 209-26 | 31/03/2026 | 11236 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM.381-23, QUE DESIGNÓ A LUIS FREDY GUZMÁN MORENO, SUBDIRECTOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404639&managementType=1) | pendiente_verificacion_pdf |
-| 210-26 | 31/03/2026 | 11236 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$120,000.00 MENSUALES, AL SEÑOR LUIS FREDY GUZMÁN M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404640&managementType=1) | pendiente_verificacion_pdf |
-| 211-26 | 31/03/2026 | 11236 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A VENDER Y PERMUTAR TERRENOS DE SU PROPIE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404641&managementType=1) | pendiente_verificacion_pdf |
-| 212-26 | 31/03/2026 | 11236 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 44 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404630&managementType=1) | pendiente_verificacion_pdf |
-| 213-26 | 31/03/2026 | 11236 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 21 PERSONAS, Y AUMENTA LAS PENSIONES DEL ESTADO DE QUE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404642&managementType=1) | pendiente_verificacion_pdf |
-| 214-26 | 31/03/2026 | 11236 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 17 MIEMBROS DE LA FEDERACIÓN DOMINICANA DE LOS DERECHO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404631&managementType=1) | pendiente_verificacion_pdf |
-| 215-26 | 31/03/2026 | 11236 | QUE DEROGA EL DECRETO NÚM.162-25, QUE DISPUSO LA CONSTITUCIÓN DEL FIDEICOMISO PÚBLICO PARA LA GESTIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404643&managementType=1) | pendiente_verificacion_pdf |
-| 216-26 | 31/03/2026 | 11236 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN VARIOS MIEMBROS DEL SECTOR SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404644&managementType=1) | pendiente_verificacion_pdf |
-| 217-26 | 01/04/2026 | 11237 | QUE CONCEDE PENSIONES DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (RD$10,000.00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404649&managementType=1) | pendiente_verificacion_pdf |
-| 218-26 | 01/04/2026 | 11237 | QUE DESIGNA CUATRO (4) MIEMBROS DEL CONSEJO DE ADMINISTRACIÓN DE LA INDUSTRIA MILITAR DOMINICANA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404650&managementType=1) | pendiente_verificacion_pdf |
-| 219-26 | 01/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A 217 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404661&managementType=1) | pendiente_verificacion_pdf |
-| 220-26 | 01/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404662&managementType=1) | pendiente_verificacion_pdf |
-| 221-26 | 01/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE TRES (3)... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404651&managementType=1) | pendiente_verificacion_pdf |
-| 222-26 | 01/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE SIETE (7... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404663&managementType=1) | pendiente_verificacion_pdf |
-| 223-26 | 06/04/2026 | 11237 | QUE DESIGNA A LA SEÑORA MARITZA ALTAGRACIA MARMOLEJOS PADILLA, SUBDIRECTORA DE LA CORPORACIÓN DE ACU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404652&managementType=1) | pendiente_verificacion_pdf |
-| 224-26 | 06/04/2026 | 11237 | QUE CONCEDE AL MAYOR GENERAL ANDRÉS MODESTO CRUZ CRUZ, P.N., LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404664&managementType=1) | pendiente_verificacion_pdf |
-| 225-26 | 07/04/2026 | 11237 | QUE DESIGNA A LA SEÑORA HERMINIA REYES ABRÉU, VICEMINISTRA ADMINISTRATIVA FINANCIERA DEL MINISTERIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404665&managementType=1) | pendiente_verificacion_pdf |
-| 226-26 | 08/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404666&managementType=1) | pendiente_verificacion_pdf |
-| 227-26 | 08/04/2026 | 11237 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 28 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404653&managementType=1) | pendiente_verificacion_pdf |
-| 228-26 | 08/04/2026 | 11237 | QUE AUTORIZA AL AYUNTAMIENTO DEL DISTRITO NACIONAL A DONAR A FAVOR DEL ESTADO DOMINICANO, LA PARCELA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404654&managementType=1) | pendiente_verificacion_pdf |
+| 204-26 | 26/03/2026 | 11236 | QUE MODIFICA EL LITERAL D) DEL ARTÍCULO 1 DEL DECRETO NÚM. 37-25. | [Ver documento](decreto-204-2026.md) | normalizado · pendiente_revision |
+| 205-26 | 26/03/2026 | 11236 | QUE CONCEDE NATURALIZACIÓN DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 22 PERSONAS EXTRANJER... | [Ver documento](decreto-205-2026.md) | normalizado · pendiente_revision |
+| 206-26 | 26/03/2026 | 11236 | QUE MODIFICA EL NUMERAL 66 DEL ARTÍCULO 1 DEL DECRETO NÚM. 369-13, QUE DECLARÓ DE UTILIDAD PÚBLICA U... | [Ver documento](decreto-206-2026.md) | normalizado · pendiente_revision |
+| 207-26 | 26/03/2026 | 11236 | QUE CONCEDE PENSIONES DEL ESTADO A 47 SERVIDORES PÚBLICOS DEL INSTITUTO AGRARIO DOMINICANO. | [Ver documento](decreto-207-2026.md) | normalizado · pendiente_revision |
+| 208-26 | 26/03/2026 | 11236 | QUE NOMBRA A JOHANNES MARINUS KELNER DE BENITO, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE ZONAS FRA... | [Ver documento](decreto-208-2026.md) | normalizado · pendiente_revision |
+| 209-26 | 31/03/2026 | 11236 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM.381-23, QUE DESIGNÓ A LUIS FREDY GUZMÁN MORENO, SUBDIRECTOR... | [Ver documento](decreto-209-2026.md) | normalizado · pendiente_revision |
+| 210-26 | 31/03/2026 | 11236 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$120,000.00 MENSUALES, AL SEÑOR LUIS FREDY GUZMÁN M... | [Ver documento](decreto-210-2026.md) | normalizado · pendiente_revision |
+| 211-26 | 31/03/2026 | 11236 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A VENDER Y PERMUTAR TERRENOS DE SU PROPIE... | [Ver documento](decreto-211-2026.md) | normalizado · pendiente_revision |
+| 212-26 | 31/03/2026 | 11236 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 44 PERSONAS. | [Ver documento](decreto-212-2026.md) | normalizado · pendiente_revision |
+| 213-26 | 31/03/2026 | 11236 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 21 PERSONAS, Y AUMENTA LAS PENSIONES DEL ESTADO DE QUE... | [Ver documento](decreto-213-2026.md) | normalizado · pendiente_revision |
+| 214-26 | 31/03/2026 | 11236 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 17 MIEMBROS DE LA FEDERACIÓN DOMINICANA DE LOS DERECHO... | [Ver documento](decreto-214-2026.md) | normalizado · pendiente_revision |
+| 215-26 | 31/03/2026 | 11236 | QUE DEROGA EL DECRETO NÚM.162-25, QUE DISPUSO LA CONSTITUCIÓN DEL FIDEICOMISO PÚBLICO PARA LA GESTIÓ... | [Ver documento](decreto-215-2026.md) | normalizado · pendiente_revision |
+| 216-26 | 31/03/2026 | 11236 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN VARIOS MIEMBROS DEL SECTOR SALUD. | [Ver documento](decreto-216-2026.md) | normalizado · pendiente_revision |
+| 217-26 | 01/04/2026 | 11237 | QUE CONCEDE PENSIONES DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (RD$10,000.00... | [Ver documento](decreto-217-2026.md) | normalizado · pendiente_revision |
+| 218-26 | 01/04/2026 | 11237 | QUE DESIGNA CUATRO (4) MIEMBROS DEL CONSEJO DE ADMINISTRACIÓN DE LA INDUSTRIA MILITAR DOMINICANA. | [Ver documento](decreto-218-2026.md) | normalizado · pendiente_revision |
+| 219-26 | 01/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A 217 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-219-2026.md) | normalizado · pendiente_revision |
+| 220-26 | 01/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-220-2026.md) | normalizado · pendiente_revision |
+| 221-26 | 01/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE TRES (3)... | [Ver documento](decreto-221-2026.md) | normalizado · pendiente_revision |
+| 222-26 | 01/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE SIETE (7... | [Ver documento](decreto-222-2026.md) | normalizado · pendiente_revision |
+| 223-26 | 06/04/2026 | 11237 | QUE DESIGNA A LA SEÑORA MARITZA ALTAGRACIA MARMOLEJOS PADILLA, SUBDIRECTORA DE LA CORPORACIÓN DE ACU... | [Ver documento](decreto-223-2026.md) | normalizado · pendiente_revision |
+| 224-26 | 06/04/2026 | 11237 | QUE CONCEDE AL MAYOR GENERAL ANDRÉS MODESTO CRUZ CRUZ, P.N., LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO... | [Ver documento](decreto-224-2026.md) | normalizado · pendiente_revision |
+| 225-26 | 07/04/2026 | 11237 | QUE DESIGNA A LA SEÑORA HERMINIA REYES ABRÉU, VICEMINISTRA ADMINISTRATIVA FINANCIERA DEL MINISTERIO ... | [Ver documento](decreto-225-2026.md) | normalizado · pendiente_revision |
+| 226-26 | 08/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-226-2026.md) | normalizado · pendiente_revision |
+| 227-26 | 08/04/2026 | 11237 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 28 PERSONAS. | [Ver documento](decreto-227-2026.md) | normalizado · pendiente_revision |
+| 228-26 | 08/04/2026 | 11237 | QUE AUTORIZA AL AYUNTAMIENTO DEL DISTRITO NACIONAL A DONAR A FAVOR DEL ESTADO DOMINICANO, LA PARCELA... | [Ver documento](decreto-228-2026.md) | normalizado · pendiente_revision |
 | 229-26 | 10/04/2026 | 11237 | QUE DEROGA EL ARTÍCULO 11 DEL DECRETO NÚM. 339-22 Y EL ARTÍCULO 9 DEL DECRETO NÚM. 28-25. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404667&managementType=1) | pendiente_verificacion_pdf |
 | 230-26 | 10/04/2026 | 11237 | QUE DESIGNA SEIS (6) VICECÓNSULES Y CUATRO (4) AUXILIARES CONSULARES EN LOS CONSULADOS DE NUESTRO PA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404668&managementType=1) | pendiente_verificacion_pdf |
 | 231-26 | 10/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN LA PROVINCIA ESPAIL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404669&managementType=1) | pendiente_verificacion_pdf |
