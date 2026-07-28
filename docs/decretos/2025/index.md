@@ -184,6 +184,56 @@ Documentos detectados: **727**.
 - [Decreto núm. 176-2025](decreto-176-2025.md)
 - [Decreto núm. 177-2025](decreto-177-2025.md)
 - [Decreto núm. 178-2025](decreto-178-2025.md)
+- [Decreto núm. 179-2025](decreto-179-2025.md)
+- [Decreto núm. 180-2025](decreto-180-2025.md)
+- [Decreto núm. 181-2025](decreto-181-2025.md)
+- [Decreto núm. 182-2025](decreto-182-2025.md)
+- [Decreto núm. 183-2025](decreto-183-2025.md)
+- [Decreto núm. 184-2025](decreto-184-2025.md)
+- [Decreto núm. 185-2025](decreto-185-2025.md)
+- [Decreto núm. 186-2025](decreto-186-2025.md)
+- [Decreto núm. 187-2025](decreto-187-2025.md)
+- [Decreto núm. 188-2025](decreto-188-2025.md)
+- [Decreto núm. 189-2025](decreto-189-2025.md)
+- [Decreto núm. 190-2025](decreto-190-2025.md)
+- [Decreto núm. 191-2025](decreto-191-2025.md)
+- [Decreto núm. 192-2025](decreto-192-2025.md)
+- [Decreto núm. 193-2025](decreto-193-2025.md)
+- [Decreto núm. 194-2025](decreto-194-2025.md)
+- [Decreto núm. 195-2025](decreto-195-2025.md)
+- [Decreto núm. 196-2025](decreto-196-2025.md)
+- [Decreto núm. 197-2025](decreto-197-2025.md)
+- [Decreto núm. 198-2025](decreto-198-2025.md)
+- [Decreto núm. 199-2025](decreto-199-2025.md)
+- [Decreto núm. 200-2025](decreto-200-2025.md)
+- [Decreto núm. 201-2025](decreto-201-2025.md)
+- [Decreto núm. 202-2025](decreto-202-2025.md)
+- [Decreto núm. 203-2025](decreto-203-2025.md)
+- [Decreto núm. 204-2025](decreto-204-2025.md)
+- [Decreto núm. 205-2025](decreto-205-2025.md)
+- [Decreto núm. 206-2025](decreto-206-2025.md)
+- [Decreto núm. 207-2025](decreto-207-2025.md)
+- [Decreto núm. 208-2025](decreto-208-2025.md)
+- [Decreto núm. 209-2025](decreto-209-2025.md)
+- [Decreto núm. 210-2025](decreto-210-2025.md)
+- [Decreto núm. 211-2025](decreto-211-2025.md)
+- [Decreto núm. 212-2025](decreto-212-2025.md)
+- [Decreto núm. 213-2025](decreto-213-2025.md)
+- [Decreto núm. 214-2025](decreto-214-2025.md)
+- [Decreto núm. 215-2025](decreto-215-2025.md)
+- [Decreto núm. 216-2025](decreto-216-2025.md)
+- [Decreto núm. 217-2025](decreto-217-2025.md)
+- [Decreto núm. 218-2025](decreto-218-2025.md)
+- [Decreto núm. 219-2025](decreto-219-2025.md)
+- [Decreto núm. 220-2025](decreto-220-2025.md)
+- [Decreto núm. 221-2025](decreto-221-2025.md)
+- [Decreto núm. 222-2025](decreto-222-2025.md)
+- [Decreto núm. 223-2025](decreto-223-2025.md)
+- [Decreto núm. 224-2025](decreto-224-2025.md)
+- [Decreto núm. 225-2025](decreto-225-2025.md)
+- [Decreto núm. 226-2025](decreto-226-2025.md)
+- [Decreto núm. 227-2025](decreto-227-2025.md)
+- [Decreto núm. 228-2025](decreto-228-2025.md)
 
 ## Documentos detectados
 
@@ -365,56 +415,56 @@ Documentos detectados: **727**.
 | 176-25 | 02/04/2025 | 11193 | QUE CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR “JUAN PABLO DUARTE”, EN LA CATEGORÍA CORRESPOND... | [Ver documento](decreto-176-2025.md) | normalizado · pendiente_revision |
 | 177-25 | 02/04/2025 | 11193 | QUE OTORGA EXEQUÁTUR A 327 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-177-2025.md) | normalizado · pendiente_revision |
 | 178-25 | 02/04/2025 | 11193 | EL CUAL TIENE POR OBJETO LA IMPLEMENTACIÓN DE UNA ESCALA DE RANGOS ENTRE ALISTADOS Y SUBOFICIALES DE... | [Ver documento](decreto-178-2025.md) | normalizado · pendiente_revision |
-| 179-25 | 02/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 325-20. DISPONE QUE LA SEÑORA MILAGROS ORTIZ BOSCH, EX V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403246&managementType=1) | pendiente_verificacion_pdf |
-| 180-25 | 03/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚM. 48-25. DESIGNA A LA SEÑORA CELINÉS JOSEFINA TORIBIO ALMÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403247&managementType=1) | pendiente_verificacion_pdf |
-| 181-25 | 03/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A CUARENTA Y NUEVE PERSONAS, Y OTORGA PENSIONES POR DISC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403248&managementType=1) | pendiente_verificacion_pdf |
-| 182-25 | 03/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A DIECISÉIS SERVIDORES DEL MINISTERIO DE RELACIONES EXTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403249&managementType=1) | pendiente_verificacion_pdf |
-| 183-25 | 03/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403250&managementType=1) | pendiente_verificacion_pdf |
-| 184-25 | 03/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403260&managementType=1) | pendiente_verificacion_pdf |
-| 185-25 | 03/04/2025 | 11193 | QUE DESIGNA A LOS SEÑORES FERNANDO ARTURO TERUEL CAPRI Y SAMUEL TAVERAS TIBURCIO, VICEMINISTROS TÉCN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403261&managementType=1) | pendiente_verificacion_pdf |
-| 186-25 | 03/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 111-22. INCLUYE AL CUERPO DE SEGURIDAD PRESIDENCIAL, LA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403262&managementType=1) | pendiente_verificacion_pdf |
-| 187-25 | 03/04/2025 | 11193 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A NUEVE PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403263&managementType=1) | pendiente_verificacion_pdf |
-| 188-25 | 07/04/2025 | 11193 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA AMPLIACIÓN DEL ACUEDUCTO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403251&managementType=1) | pendiente_verificacion_pdf |
-| 189-25 | 07/04/2025 | 11193 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA DEL NACIONAL DOMINICANO BRÁNDOLES MALDONADO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403264&managementType=1) | pendiente_verificacion_pdf |
-| 190-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403265&managementType=1) | pendiente_verificacion_pdf |
-| 191-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403266&managementType=1) | pendiente_verificacion_pdf |
-| 192-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403252&managementType=1) | pendiente_verificacion_pdf |
-| 193-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 25 SERVIDORES DEL SECTOR S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403267&managementType=1) | pendiente_verificacion_pdf |
-| 194-25 | 08/04/2025 | 11193 | QUE DECLARA LOS DÍAS 8, 9, Y 10 DE ABRIL DE 2025 DE DUELO OFICIAL, CON MOTIVO DEL DERRUMBE DEL TECHO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403268&managementType=1) | pendiente_verificacion_pdf |
-| 195-25 | 10/04/2025 | 11193 | QUE EXTIENDE EL DUELO DECLARADO MEDIANTE EL DECRETO NÚM. 194-25, Y EN CONSECUENCIA SE DECLARAN DE DU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403253&managementType=1) | pendiente_verificacion_pdf |
-| 196-25 | 10/04/2025 | 11193 | QUE APRUEBA LA POLÍTICA NACIONAL DE COMPETENCIA DE LA REPÚBLICA DOMINICANA, COMO UN INSTRUMENTO ESTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403269&managementType=1) | pendiente_verificacion_pdf |
-| 197-25 | 10/04/2025 | 11193 | QUE NOMBRA AL SEÑOR ISRAEL PORFIRIO BIENVENIDO MAÑÓN ALCÁNTARA, MIEMBRO INDEPENDIENTE DEL CONSEJO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403254&managementType=1) | pendiente_verificacion_pdf |
-| 198-25 | 10/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 161-97. DISPONE QUE EN LO ADELANTE DONDE DIGA OPERADORA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403270&managementType=1) | pendiente_verificacion_pdf |
-| 199-25 | 10/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TRESCIENTAS PERSONAS, Y AUMENTA LAS PENSIONES DE QUE D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403255&managementType=1) | pendiente_verificacion_pdf |
-| 200-25 | 11/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A ONCE PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403271&managementType=1) | pendiente_verificacion_pdf |
-| 201-25 | 11/04/2025 | 11193 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL EN DISTINTAS CATEGORÍAS, A VARIOS OFICIALE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403272&managementType=1) | pendiente_verificacion_pdf |
-| 202-25 | 14/04/2025 | 11193 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE GRAN CRUZ PLACA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403256&managementType=1) | pendiente_verificacion_pdf |
-| 203-25 | 14/04/2025 | 11193 | QUE CONCEDE DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO GR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403273&managementType=1) | pendiente_verificacion_pdf |
-| 204-25 | 14/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 810-00. CREA EL PATRONATO PARA LA SOSTENIBILIDAD DEL TEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403274&managementType=1) | pendiente_verificacion_pdf |
-| 205-25 | 14/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 111-22 Y SUS MODIFICACIONES. INCLUYE A LA PROCURADURÍA G... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403275&managementType=1) | pendiente_verificacion_pdf |
-| 206-25 | 14/04/2025 | 11193 | QUE DEROGA EL DECRETO NÚM. 505-07, QUE OTORGÓ EXEQUATUR A ANNE GOFFAUX, PARA QUE EJERCIERA FUNCIONES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403257&managementType=1) | pendiente_verificacion_pdf |
-| 207-25 | 14/04/2025 | 11193 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403276&managementType=1) | pendiente_verificacion_pdf |
-| 208-25 | 14/04/2025 | 11193 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403258&managementType=1) | pendiente_verificacion_pdf |
-| 209-25 | 15/04/2025 | 11193 | QUE MODIFICA LOS ARTÍCULOS 2 Y 9 DEL DECRETO NÚM. 115-25. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403259&managementType=1) | pendiente_verificacion_pdf |
-| 210-25 | 15/04/2025 | 11193 | QUE DESIGNA AL SEÑOR FRANCISCO ANTONIO SOLIMÁN RIJO, VICEMINISTRO DE NORMAS, REGLAMENTACIONES Y TRAM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403277&managementType=1) | pendiente_verificacion_pdf |
-| 211-25 | 15/04/2025 | 11193 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JAIRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403278&managementType=1) | pendiente_verificacion_pdf |
-| 212-25 | 16/04/2025 | 11194 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 660-05. DISPONE QUE EL CONSEJO DIRECTIVO DEL PATRONATO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403286&managementType=1) | pendiente_verificacion_pdf |
-| 213-25 | 16/04/2025 | 11194 | QUE DECLARA DE EMERGENCIA NACIONAL LAS COMPRAS Y CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS PARA LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403296&managementType=1) | pendiente_verificacion_pdf |
-| 214-25 | 17/04/2025 | 11194 | QUE DECLARA LA SITUACIÓN PREVISTA EN EL ARTÍCULO 23 DE LA LEY NÚM. 147-02, SOBRE GESTIÓN DE RIESGOS,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403287&managementType=1) | pendiente_verificacion_pdf |
-| 215-25 | 20/04/2025 | 11194 | EL CUAL TIENE POR OBJETO IMPULSAR LA ARTICULACIÓN DE LAS POLÍTICAS, DIRECTRICES Y MECANISMOS MIGRATO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403297&managementType=1) | pendiente_verificacion_pdf |
-| 216-25 | 21/04/2025 | 11194 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 22, 23 Y 24 DEL MES DE ABRIL DE 2025, CON MOTIVO DEL FALLECIMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403298&managementType=1) | pendiente_verificacion_pdf |
-| 217-25 | 21/04/2025 | 11194 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 579-24. DESIGNA A FERNANDO P. HENRÍQUEZ COMO COORDINADOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403299&managementType=1) | pendiente_verificacion_pdf |
-| 218-25 | 22/04/2025 | 11194 | QUE OTORGA EXEQUÁTUR A 186 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403300&managementType=1) | pendiente_verificacion_pdf |
-| 219-25 | 23/04/2025 | 11194 | QUE DISPONE LA FUSIÓN DE LOS COMEDORES ECONÓMICOS DEL ESTADO Y EL PLAN DE ASISTENCIA SOCIAL DE LA PR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403301&managementType=1) | pendiente_verificacion_pdf |
-| 220-25 | 25/04/2025 | 11194 | QUE CREA EL PROGRAMA NACIONAL DE PIGNORACIÓN, EL CUAL TIENE POR OBJETO FOMENTAR, INCENTIVAR Y REGULA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403302&managementType=1) | pendiente_verificacion_pdf |
-| 221-25 | 28/04/2025 | 11194 | QUE CONSTITUYE LA INDUSTRIA MILITAR DOMINICANA, S.A., COMO UNA EMPRESA PÚBLICA DE CAPITAL ÚNICO ESTA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403303&managementType=1) | pendiente_verificacion_pdf |
-| 222-25 | 29/04/2025 | 11194 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 27-23, QUE DESIGNÓ AL SEÑOR FRANCISCO TAMÁREZ FLORENTINO E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403304&managementType=1) | pendiente_verificacion_pdf |
-| 223-25 | 29/04/2025 | 11194 | QUE MODIFICA EL ARTÍCULO 8 DEL DECRETO NÚM. 581-23. DISPONE QUE EL CONSEJO TÉCNICO DEL FIDEICOMISO F... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403305&managementType=1) | pendiente_verificacion_pdf |
-| 224-25 | 29/04/2025 | 11194 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403306&managementType=1) | pendiente_verificacion_pdf |
-| 225-25 | 29/04/2025 | 11194 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TREINTA Y DOS PERSONAS, Y AUMENTA LAS PENSIONES DE QUE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403288&managementType=1) | pendiente_verificacion_pdf |
-| 226-25 | 30/04/2025 | 11194 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A SEIS (6) PERSONAS. AUMENTA LA PENSIÓN DEL ESTADO DE QU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403307&managementType=1) | pendiente_verificacion_pdf |
-| 227-25 | 30/04/2025 | 11194 | QUE NOMBRA LAS GOBERNADORAS CIVILES DE LAS PROVINCIAS LA ALTAGRACIA, MONTE CRISTI Y SANTIAGO RODRÍGU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403289&managementType=1) | pendiente_verificacion_pdf |
-| 228-25 | 30/04/2025 | 11194 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO ERNESTO PÉREZ SÁNC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403308&managementType=1) | pendiente_verificacion_pdf |
+| 179-25 | 02/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 325-20. DISPONE QUE LA SEÑORA MILAGROS ORTIZ BOSCH, EX V... | [Ver documento](decreto-179-2025.md) | normalizado · pendiente_revision |
+| 180-25 | 03/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚM. 48-25. DESIGNA A LA SEÑORA CELINÉS JOSEFINA TORIBIO ALMÁ... | [Ver documento](decreto-180-2025.md) | normalizado · pendiente_revision |
+| 181-25 | 03/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A CUARENTA Y NUEVE PERSONAS, Y OTORGA PENSIONES POR DISC... | [Ver documento](decreto-181-2025.md) | normalizado · pendiente_revision |
+| 182-25 | 03/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A DIECISÉIS SERVIDORES DEL MINISTERIO DE RELACIONES EXTE... | [Ver documento](decreto-182-2025.md) | normalizado · pendiente_revision |
+| 183-25 | 03/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Ver documento](decreto-183-2025.md) | normalizado · pendiente_revision |
+| 184-25 | 03/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-184-2025.md) | normalizado · pendiente_revision |
+| 185-25 | 03/04/2025 | 11193 | QUE DESIGNA A LOS SEÑORES FERNANDO ARTURO TERUEL CAPRI Y SAMUEL TAVERAS TIBURCIO, VICEMINISTROS TÉCN... | [Ver documento](decreto-185-2025.md) | normalizado · pendiente_revision |
+| 186-25 | 03/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 111-22. INCLUYE AL CUERPO DE SEGURIDAD PRESIDENCIAL, LA ... | [Ver documento](decreto-186-2025.md) | normalizado · pendiente_revision |
+| 187-25 | 03/04/2025 | 11193 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A NUEVE PERSONAS. | [Ver documento](decreto-187-2025.md) | normalizado · pendiente_revision |
+| 188-25 | 07/04/2025 | 11193 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA AMPLIACIÓN DEL ACUEDUCTO D... | [Ver documento](decreto-188-2025.md) | normalizado · pendiente_revision |
+| 189-25 | 07/04/2025 | 11193 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA DEL NACIONAL DOMINICANO BRÁNDOLES MALDONADO... | [Ver documento](decreto-189-2025.md) | normalizado · pendiente_revision |
+| 190-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-190-2025.md) | normalizado · pendiente_revision |
+| 191-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-191-2025.md) | normalizado · pendiente_revision |
+| 192-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-192-2025.md) | normalizado · pendiente_revision |
+| 193-25 | 07/04/2025 | 11193 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 25 SERVIDORES DEL SECTOR S... | [Ver documento](decreto-193-2025.md) | normalizado · pendiente_revision |
+| 194-25 | 08/04/2025 | 11193 | QUE DECLARA LOS DÍAS 8, 9, Y 10 DE ABRIL DE 2025 DE DUELO OFICIAL, CON MOTIVO DEL DERRUMBE DEL TECHO... | [Ver documento](decreto-194-2025.md) | normalizado · pendiente_revision |
+| 195-25 | 10/04/2025 | 11193 | QUE EXTIENDE EL DUELO DECLARADO MEDIANTE EL DECRETO NÚM. 194-25, Y EN CONSECUENCIA SE DECLARAN DE DU... | [Ver documento](decreto-195-2025.md) | normalizado · pendiente_revision |
+| 196-25 | 10/04/2025 | 11193 | QUE APRUEBA LA POLÍTICA NACIONAL DE COMPETENCIA DE LA REPÚBLICA DOMINICANA, COMO UN INSTRUMENTO ESTR... | [Ver documento](decreto-196-2025.md) | normalizado · pendiente_revision |
+| 197-25 | 10/04/2025 | 11193 | QUE NOMBRA AL SEÑOR ISRAEL PORFIRIO BIENVENIDO MAÑÓN ALCÁNTARA, MIEMBRO INDEPENDIENTE DEL CONSEJO DE... | [Ver documento](decreto-197-2025.md) | normalizado · pendiente_revision |
+| 198-25 | 10/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 161-97. DISPONE QUE EN LO ADELANTE DONDE DIGA OPERADORA ... | [Ver documento](decreto-198-2025.md) | normalizado · pendiente_revision |
+| 199-25 | 10/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TRESCIENTAS PERSONAS, Y AUMENTA LAS PENSIONES DE QUE D... | [Ver documento](decreto-199-2025.md) | normalizado · pendiente_revision |
+| 200-25 | 11/04/2025 | 11193 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A ONCE PERSONAS. | [Ver documento](decreto-200-2025.md) | normalizado · pendiente_revision |
+| 201-25 | 11/04/2025 | 11193 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL EN DISTINTAS CATEGORÍAS, A VARIOS OFICIALE... | [Ver documento](decreto-201-2025.md) | normalizado · pendiente_revision |
+| 202-25 | 14/04/2025 | 11193 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE GRAN CRUZ PLACA... | [Ver documento](decreto-202-2025.md) | normalizado · pendiente_revision |
+| 203-25 | 14/04/2025 | 11193 | QUE CONCEDE DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO GR... | [Ver documento](decreto-203-2025.md) | normalizado · pendiente_revision |
+| 204-25 | 14/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 810-00. CREA EL PATRONATO PARA LA SOSTENIBILIDAD DEL TEL... | [Ver documento](decreto-204-2025.md) | normalizado · pendiente_revision |
+| 205-25 | 14/04/2025 | 11193 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 111-22 Y SUS MODIFICACIONES. INCLUYE A LA PROCURADURÍA G... | [Ver documento](decreto-205-2025.md) | normalizado · pendiente_revision |
+| 206-25 | 14/04/2025 | 11193 | QUE DEROGA EL DECRETO NÚM. 505-07, QUE OTORGÓ EXEQUATUR A ANNE GOFFAUX, PARA QUE EJERCIERA FUNCIONES... | [Ver documento](decreto-206-2025.md) | normalizado · pendiente_revision |
+| 207-25 | 14/04/2025 | 11193 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Ver documento](decreto-207-2025.md) | normalizado · pendiente_revision |
+| 208-25 | 14/04/2025 | 11193 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-208-2025.md) | normalizado · pendiente_revision |
+| 209-25 | 15/04/2025 | 11193 | QUE MODIFICA LOS ARTÍCULOS 2 Y 9 DEL DECRETO NÚM. 115-25. | [Ver documento](decreto-209-2025.md) | normalizado · pendiente_revision |
+| 210-25 | 15/04/2025 | 11193 | QUE DESIGNA AL SEÑOR FRANCISCO ANTONIO SOLIMÁN RIJO, VICEMINISTRO DE NORMAS, REGLAMENTACIONES Y TRAM... | [Ver documento](decreto-210-2025.md) | normalizado · pendiente_revision |
+| 211-25 | 15/04/2025 | 11193 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JAIRO... | [Ver documento](decreto-211-2025.md) | normalizado · pendiente_revision |
+| 212-25 | 16/04/2025 | 11194 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 660-05. DISPONE QUE EL CONSEJO DIRECTIVO DEL PATRONATO D... | [Ver documento](decreto-212-2025.md) | normalizado · pendiente_revision |
+| 213-25 | 16/04/2025 | 11194 | QUE DECLARA DE EMERGENCIA NACIONAL LAS COMPRAS Y CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS PARA LA... | [Ver documento](decreto-213-2025.md) | normalizado · pendiente_revision |
+| 214-25 | 17/04/2025 | 11194 | QUE DECLARA LA SITUACIÓN PREVISTA EN EL ARTÍCULO 23 DE LA LEY NÚM. 147-02, SOBRE GESTIÓN DE RIESGOS,... | [Ver documento](decreto-214-2025.md) | normalizado · pendiente_revision |
+| 215-25 | 20/04/2025 | 11194 | EL CUAL TIENE POR OBJETO IMPULSAR LA ARTICULACIÓN DE LAS POLÍTICAS, DIRECTRICES Y MECANISMOS MIGRATO... | [Ver documento](decreto-215-2025.md) | normalizado · pendiente_revision |
+| 216-25 | 21/04/2025 | 11194 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 22, 23 Y 24 DEL MES DE ABRIL DE 2025, CON MOTIVO DEL FALLECIMI... | [Ver documento](decreto-216-2025.md) | normalizado · pendiente_revision |
+| 217-25 | 21/04/2025 | 11194 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 579-24. DESIGNA A FERNANDO P. HENRÍQUEZ COMO COORDINADOR... | [Ver documento](decreto-217-2025.md) | normalizado · pendiente_revision |
+| 218-25 | 22/04/2025 | 11194 | QUE OTORGA EXEQUÁTUR A 186 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-218-2025.md) | normalizado · pendiente_revision |
+| 219-25 | 23/04/2025 | 11194 | QUE DISPONE LA FUSIÓN DE LOS COMEDORES ECONÓMICOS DEL ESTADO Y EL PLAN DE ASISTENCIA SOCIAL DE LA PR... | [Ver documento](decreto-219-2025.md) | normalizado · pendiente_revision |
+| 220-25 | 25/04/2025 | 11194 | QUE CREA EL PROGRAMA NACIONAL DE PIGNORACIÓN, EL CUAL TIENE POR OBJETO FOMENTAR, INCENTIVAR Y REGULA... | [Ver documento](decreto-220-2025.md) | normalizado · pendiente_revision |
+| 221-25 | 28/04/2025 | 11194 | QUE CONSTITUYE LA INDUSTRIA MILITAR DOMINICANA, S.A., COMO UNA EMPRESA PÚBLICA DE CAPITAL ÚNICO ESTA... | [Ver documento](decreto-221-2025.md) | normalizado · pendiente_revision |
+| 222-25 | 29/04/2025 | 11194 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 27-23, QUE DESIGNÓ AL SEÑOR FRANCISCO TAMÁREZ FLORENTINO E... | [Ver documento](decreto-222-2025.md) | normalizado · pendiente_revision |
+| 223-25 | 29/04/2025 | 11194 | QUE MODIFICA EL ARTÍCULO 8 DEL DECRETO NÚM. 581-23. DISPONE QUE EL CONSEJO TÉCNICO DEL FIDEICOMISO F... | [Ver documento](decreto-223-2025.md) | normalizado · pendiente_revision |
+| 224-25 | 29/04/2025 | 11194 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Ver documento](decreto-224-2025.md) | normalizado · pendiente_revision |
+| 225-25 | 29/04/2025 | 11194 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TREINTA Y DOS PERSONAS, Y AUMENTA LAS PENSIONES DE QUE... | [Ver documento](decreto-225-2025.md) | normalizado · pendiente_revision |
+| 226-25 | 30/04/2025 | 11194 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A SEIS (6) PERSONAS. AUMENTA LA PENSIÓN DEL ESTADO DE QU... | [Ver documento](decreto-226-2025.md) | normalizado · pendiente_revision |
+| 227-25 | 30/04/2025 | 11194 | QUE NOMBRA LAS GOBERNADORAS CIVILES DE LAS PROVINCIAS LA ALTAGRACIA, MONTE CRISTI Y SANTIAGO RODRÍGU... | [Ver documento](decreto-227-2025.md) | normalizado · pendiente_revision |
+| 228-25 | 30/04/2025 | 11194 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO ERNESTO PÉREZ SÁNC... | [Ver documento](decreto-228-2025.md) | normalizado · pendiente_revision |
 | 229-25 | 30/04/2025 | 11194 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO FRANC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403309&managementType=1) | pendiente_verificacion_pdf |
 | 230-25 | 30/04/2025 | 11194 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403310&managementType=1) | pendiente_verificacion_pdf |
 | 231-25 | 30/04/2025 | 11194 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403311&managementType=1) | pendiente_verificacion_pdf |
