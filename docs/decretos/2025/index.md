@@ -284,6 +284,56 @@ Documentos detectados: **727**.
 - [Decreto núm. 276-2025](decreto-276-2025.md)
 - [Decreto núm. 277-2025](decreto-277-2025.md)
 - [Decreto núm. 278-2025](decreto-278-2025.md)
+- [Decreto núm. 279-2025](decreto-279-2025.md)
+- [Decreto núm. 280-2025](decreto-280-2025.md)
+- [Decreto núm. 281-2025](decreto-281-2025.md)
+- [Decreto núm. 282-2025](decreto-282-2025.md)
+- [Decreto núm. 283-2025](decreto-283-2025.md)
+- [Decreto núm. 284-2025](decreto-284-2025.md)
+- [Decreto núm. 285-2025](decreto-285-2025.md)
+- [Decreto núm. 286-2025](decreto-286-2025.md)
+- [Decreto núm. 287-2025](decreto-287-2025.md)
+- [Decreto núm. 288-2025](decreto-288-2025.md)
+- [Decreto núm. 289-2025](decreto-289-2025.md)
+- [Decreto núm. 290-2025](decreto-290-2025.md)
+- [Decreto núm. 291-2025](decreto-291-2025.md)
+- [Decreto núm. 292-2025](decreto-292-2025.md)
+- [Decreto núm. 293-2025](decreto-293-2025.md)
+- [Decreto núm. 294-2025](decreto-294-2025.md)
+- [Decreto núm. 295-2025](decreto-295-2025.md)
+- [Decreto núm. 296-2025](decreto-296-2025.md)
+- [Decreto núm. 297-2025](decreto-297-2025.md)
+- [Decreto núm. 298-2025](decreto-298-2025.md)
+- [Decreto núm. 299-2025](decreto-299-2025.md)
+- [Decreto núm. 300-2025](decreto-300-2025.md)
+- [Decreto núm. 301-2025](decreto-301-2025.md)
+- [Decreto núm. 302-2025](decreto-302-2025.md)
+- [Decreto núm. 303-2025](decreto-303-2025.md)
+- [Decreto núm. 304-2025](decreto-304-2025.md)
+- [Decreto núm. 305-2025](decreto-305-2025.md)
+- [Decreto núm. 306-2025](decreto-306-2025.md)
+- [Decreto núm. 307-2025](decreto-307-2025.md)
+- [Decreto núm. 308-2025](decreto-308-2025.md)
+- [Decreto núm. 309-2025](decreto-309-2025.md)
+- [Decreto núm. 310-2025](decreto-310-2025.md)
+- [Decreto núm. 311-2025](decreto-311-2025.md)
+- [Decreto núm. 312-2025](decreto-312-2025.md)
+- [Decreto núm. 313-2025](decreto-313-2025.md)
+- [Decreto núm. 314-2025](decreto-314-2025.md)
+- [Decreto núm. 315-2025](decreto-315-2025.md)
+- [Decreto núm. 316-2025](decreto-316-2025.md)
+- [Decreto núm. 317-2025](decreto-317-2025.md)
+- [Decreto núm. 318-2025](decreto-318-2025.md)
+- [Decreto núm. 319-2025](decreto-319-2025.md)
+- [Decreto núm. 320-2025](decreto-320-2025.md)
+- [Decreto núm. 321-2025](decreto-321-2025.md)
+- [Decreto núm. 322-2025](decreto-322-2025.md)
+- [Decreto núm. 323-2025](decreto-323-2025.md)
+- [Decreto núm. 324-2025](decreto-324-2025.md)
+- [Decreto núm. 325-2025](decreto-325-2025.md)
+- [Decreto núm. 326-2025](decreto-326-2025.md)
+- [Decreto núm. 327-2025](decreto-327-2025.md)
+- [Decreto núm. 328-2025](decreto-328-2025.md)
 
 ## Documentos detectados
 
@@ -565,60 +615,60 @@ Documentos detectados: **727**.
 | 276-25 | 23/05/2025 | 11196 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 37 PERSONAS. AUMENTA EL MONTO DE LA PENSIÓN DEL ESTADO... | [Ver documento](decreto-276-2025.md) | normalizado · pendiente_revision |
 | 277-25 | 23/05/2025 | 11196 | QUE CREA DE MANERA PROVISIONAL, EL COMITÉ PARA LA GESTIÓN DE LA PLAZA DEL PUEBLO DE LOS PESCADORES, ... | [Ver documento](decreto-277-2025.md) | normalizado · pendiente_revision |
 | 278-25 | 26/05/2025 | 11196 | QUE DESIGNA AL VICEALMIRANTE JOSÉ MANUEL CABRERA ULLOA, A.R.D., COMISIONADO PRESIDENCIAL PARA LA IMP... | [Ver documento](decreto-278-2025.md) | normalizado · pendiente_revision |
-| 279-25 | 27/05/2025 | 11196 | QUE NOMBRA A LOS SEÑORES ANDY RAFAEL RODRÍGUEZ DURÁN Y ERNESTO TORRES PEREYRA, EMBAJADORES EXTRAORDI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403387&managementType=1) | pendiente_verificacion_pdf |
-| 280-25 | 27/05/2025 | 11196 | QUE DEROGA EL NUMERAL 1 DEL ARTÍCULO 1 DEL DECRETO NÚM. 57-21 Y DEROGA PARCIALMENTE EL ARTÍCULO 1 DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403388&managementType=1) | pendiente_verificacion_pdf |
-| 281-25 | 27/05/2025 | 11196 | QUE RECONOCE A LUISA OZEMA PELLERANO CASTRO POR CUMPLIRSE EL 123º ANIVERSARIO DE SU FALLECIMIENTO, E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403389&managementType=1) | pendiente_verificacion_pdf |
-| 282-25 | 27/05/2025 | 11196 | QUE DISPONE EL TRASLADO AL PANTEÓN DE LA PATRIA DE LOS RESTOS MORTALES DE LA MAESTRA NORMAL AMBROSIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403371&managementType=1) | pendiente_verificacion_pdf |
-| 283-25 | 27/05/2025 | 11196 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403372&managementType=1) | pendiente_verificacion_pdf |
-| 284-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO HAIRON BENJAMÍN ME... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403373&managementType=1) | pendiente_verificacion_pdf |
-| 285-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA , DEL CIUDADANO DOMINICANO GENARO PEÑA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403374&managementType=1) | pendiente_verificacion_pdf |
-| 286-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO CARL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403375&managementType=1) | pendiente_verificacion_pdf |
-| 287-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO EZEQU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403376&managementType=1) | pendiente_verificacion_pdf |
-| 288-25 | 30/05/2025 | 11198 | QUE DISPONE EL TRASLADO AL PANTEÓN DE LA PATRIA DE LOS RESTOS MORTALES DE JUAN RODRÍGUEZ GARCÍA (JUA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403428&managementType=1) | pendiente_verificacion_pdf |
-| 289-25 | 03/06/2025 | 11198 | QUE DESIGNA AL SEÑOR JOSÉ ANTONIO AYBAR FÉLIX, PRESIDENTE DE LA COMISIÓN NACIONAL DE ESPECTÁCULOS PÚ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403429&managementType=1) | pendiente_verificacion_pdf |
-| 290-25 | 03/06/2025 | 11198 | QUE NOMBRA 2 MIEMBROS Y 3 SUPLENTES DEL DIRECTORIO EJECUTIVO DEL BANCO AGRÍCOLA DE LA REPÚBLICA DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403430&managementType=1) | pendiente_verificacion_pdf |
-| 291-25 | 03/06/2025 | 11198 | QUE NOMBRA DOS VICECÓNSULES DE LA REPÚBLICA EN LOS ÁNGELES, CALIFORNIA, ESTADOS UNIDOS DE AMÉRICA Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403431&managementType=1) | pendiente_verificacion_pdf |
-| 291-25 | 03/06/2025 | 11199 | FE DE ERRATA: EL DEC. NÚM. 291-25 DEL 3 DE JUNIO DE 2025,SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403491&managementType=1) | pendiente_verificacion_pdf |
-| 292-25 | 03/06/2025 | 11198 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 48 PERSONAS, Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403432&managementType=1) | pendiente_verificacion_pdf |
-| 293-25 | 03/06/2025 | 11198 | QUE RATIFICA AL SEÑOR MARCOS ANTONIO IGLESIAS SÁNCHEZ, COMO MIEMBRO INDEPENDIENTE DEL CONSEJO NACION... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403433&managementType=1) | pendiente_verificacion_pdf |
-| 294-25 | 03/06/2025 | 11198 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 46 PERSONAS. OTORGA UNA PENSIÓN DEL ESTADO POR DISCAPA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403434&managementType=1) | pendiente_verificacion_pdf |
-| 295-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403435&managementType=1) | pendiente_verificacion_pdf |
-| 296-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403436&managementType=1) | pendiente_verificacion_pdf |
-| 297-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403437&managementType=1) | pendiente_verificacion_pdf |
-| 298-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403438&managementType=1) | pendiente_verificacion_pdf |
-| 299-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403439&managementType=1) | pendiente_verificacion_pdf |
-| 300-25 | 03/06/2025 | 11198 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 385-18, QUE DESIGNÓ A LA SEÑORA SOLANGE EUNICE BLANDINO WO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403440&managementType=1) | pendiente_verificacion_pdf |
-| 301-25 | 03/06/2025 | 11198 | DISPONE QUE EL CONSEJO NACIONAL PARA EL CAMBIO CLIMÁTICO Y MECANISMO DE DESARROLLO LIMPIO, EN LO ADE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403441&managementType=1) | pendiente_verificacion_pdf |
-| 302-25 | 03/06/2025 | 11198 | QUE APRUEBA EL PLAN NACIONAL DE GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS (PLANGIR) 2025-2035, PROPUE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403442&managementType=1) | pendiente_verificacion_pdf |
-| 303-25 | 05/06/2025 | 11198 | QUE NOMBRA A LA SEÑORA GIANNA LIZ FRANJUL RIVERA, VICEMINISTRA DE DESARROLLO INDUSTRIAL DEL MINISTER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403443&managementType=1) | pendiente_verificacion_pdf |
-| 303-25 | 05/06/2025 | 11199 | FE DE ERRATA: EL DEC. NÚM. 303-25 DEL 5 DE JUNIO DE 2025, SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403498&managementType=1) | pendiente_verificacion_pdf |
-| 304-25 | 06/06/2025 | 11198 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR ROMÁN RAMO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403444&managementType=1) | pendiente_verificacion_pdf |
-| 305-25 | 06/06/2025 | 11198 | QUE MODIFICA EL ARTÍCULO 1, LITERAL B), DEL DECRETO NÚM. 299-14. DISPONE QUE LA COOPERATIVA DE AHORR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403445&managementType=1) | pendiente_verificacion_pdf |
-| 306-25 | 06/06/2025 | 11198 | QUE CREA UNA COMISIÓN CONSULTIVA CON EL OBJETO DE EVALUAR LA VIABILIDAD DE CONSTRUIR EN TERRENOS PRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403446&managementType=1) | pendiente_verificacion_pdf |
-| 307-25 | 06/06/2025 | 11198 | QUE DESIGNA AL SEÑOR CARLOS ANTONIO MICHELÉN NANNUN, MINISTRO CONSEJERO EN LA MISIÓN PERMANENTE DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403447&managementType=1) | pendiente_verificacion_pdf |
-| 307-25 | 06/06/2025 | 11199 | FE DE ERRATA: EL DEC. NÚM. 307-25 DEL 6 JUNIO DE 2025, SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICIAL,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403499&managementType=1) | pendiente_verificacion_pdf |
-| 308-25 | 06/06/2025 | 11198 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403448&managementType=1) | pendiente_verificacion_pdf |
-| 309-25 | 06/06/2025 | 11198 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403449&managementType=1) | pendiente_verificacion_pdf |
-| 310-25 | 06/06/2025 | 11198 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403450&managementType=1) | pendiente_verificacion_pdf |
-| 311-25 | 06/06/2025 | 11198 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DE QUE DISFRUTAN 284 MIEMBROS DE LA AS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403451&managementType=1) | pendiente_verificacion_pdf |
-| 311-25 | 06/06/2025 | 11198 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DE QUE DISFRUTAN 284 MIEMBROS DE LA AS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403452&managementType=1) | pendiente_verificacion_pdf |
-| 312-25 | 11/06/2025 | 11199 | QUE NOMBRA A LOS SEÑORES ANDY RAFAEL RODRÍGUEZ DURÁN Y ERIKA YLONCA ÁLVAREZ RODRÍGUEZ, EMBAJADORES E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403480&managementType=1) | pendiente_verificacion_pdf |
-| 313-25 | 16/06/2025 | 11199 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 111-24. DISPONE QUE EL PARQUE DE ZONA FRANCA DENOMINADO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403481&managementType=1) | pendiente_verificacion_pdf |
-| 314-25 | 16/06/2025 | 11199 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, CON MEDALLA AL MÉRITO NAVAL EN SU PRIMERA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403482&managementType=1) | pendiente_verificacion_pdf |
-| 315-25 | 16/06/2025 | 11199 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 361-17, QUE OTORGÓ EXEQUÁTUR AL SEÑOR ALESSANDRO MARIO SEG... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403483&managementType=1) | pendiente_verificacion_pdf |
-| 316-25 | 16/06/2025 | 11199 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A OCHO PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403492&managementType=1) | pendiente_verificacion_pdf |
-| 317-25 | 16/06/2025 | 11199 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, DE MOCA, PROVINCIA ESPAILLAT Y DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403493&managementType=1) | pendiente_verificacion_pdf |
-| 318-25 | 16/06/2025 | 11199 | QUE AUTORIZA A TRES (3) OFICIALES GENERALES Y SUPERIORES DEL EJERCITO NACIONAL Y DE LA FUERZA AÉREA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403484&managementType=1) | pendiente_verificacion_pdf |
-| 319-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A 252 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403485&managementType=1) | pendiente_verificacion_pdf |
-| 320-25 | 16/06/2025 | 11199 | CREA EL PARQUE DE ZONAS FRANCAS CIBAO FREE TRADE PARK, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403486&managementType=1) | pendiente_verificacion_pdf |
-| 321-25 | 16/06/2025 | 11199 | QUE CONCEDE LA CONDECORACIÓN DE LA “ORDEN AL MÉRITO NAVAL, CON MEDALLA AL SERVICIO DISTINGUIDO EN SU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403487&managementType=1) | pendiente_verificacion_pdf |
-| 322-25 | 16/06/2025 | 11199 | QUE CONCEDE PENSIONES DEL ESTADO A TREINTA Y CINCO (35) SERVIDORES PÚBLICOS DEL SECTOR SALUD Y REAJU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403488&managementType=1) | pendiente_verificacion_pdf |
-| 323-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403489&managementType=1) | pendiente_verificacion_pdf |
-| 324-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403490&managementType=1) | pendiente_verificacion_pdf |
-| 325-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER PROFESIONES DIFERENTES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403494&managementType=1) | pendiente_verificacion_pdf |
-| 326-25 | 16/06/2025 | 11199 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$50,000.00 MENSUALES, A 116 ECONOMISTAS, Y AUMENTA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403495&managementType=1) | pendiente_verificacion_pdf |
-| 327-25 | 16/06/2025 | 11199 | QUE CONCEDE PENSIONES DEL ESTADO A CUATRO (4) PERSONAS, Y AUMENTA LAS PENSIONES OTORGADAS A DOS (2).... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403496&managementType=1) | pendiente_verificacion_pdf |
-| 328-25 | 16/06/2025 | 11199 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR LEÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403497&managementType=1) | pendiente_verificacion_pdf |
+| 279-25 | 27/05/2025 | 11196 | QUE NOMBRA A LOS SEÑORES ANDY RAFAEL RODRÍGUEZ DURÁN Y ERNESTO TORRES PEREYRA, EMBAJADORES EXTRAORDI... | [Ver documento](decreto-279-2025.md) | normalizado · pendiente_revision |
+| 280-25 | 27/05/2025 | 11196 | QUE DEROGA EL NUMERAL 1 DEL ARTÍCULO 1 DEL DECRETO NÚM. 57-21 Y DEROGA PARCIALMENTE EL ARTÍCULO 1 DE... | [Ver documento](decreto-280-2025.md) | normalizado · pendiente_revision |
+| 281-25 | 27/05/2025 | 11196 | QUE RECONOCE A LUISA OZEMA PELLERANO CASTRO POR CUMPLIRSE EL 123º ANIVERSARIO DE SU FALLECIMIENTO, E... | [Ver documento](decreto-281-2025.md) | normalizado · pendiente_revision |
+| 282-25 | 27/05/2025 | 11196 | QUE DISPONE EL TRASLADO AL PANTEÓN DE LA PATRIA DE LOS RESTOS MORTALES DE LA MAESTRA NORMAL AMBROSIA... | [Ver documento](decreto-282-2025.md) | normalizado · pendiente_revision |
+| 283-25 | 27/05/2025 | 11196 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-283-2025.md) | normalizado · pendiente_revision |
+| 284-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO HAIRON BENJAMÍN ME... | [Ver documento](decreto-284-2025.md) | normalizado · pendiente_revision |
+| 285-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA , DEL CIUDADANO DOMINICANO GENARO PEÑA... | [Ver documento](decreto-285-2025.md) | normalizado · pendiente_revision |
+| 286-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO CARL... | [Ver documento](decreto-286-2025.md) | normalizado · pendiente_revision |
+| 287-25 | 29/05/2025 | 11196 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO EZEQU... | [Ver documento](decreto-287-2025.md) | normalizado · pendiente_revision |
+| 288-25 | 30/05/2025 | 11198 | QUE DISPONE EL TRASLADO AL PANTEÓN DE LA PATRIA DE LOS RESTOS MORTALES DE JUAN RODRÍGUEZ GARCÍA (JUA... | [Ver documento](decreto-288-2025.md) | normalizado · pendiente_revision |
+| 289-25 | 03/06/2025 | 11198 | QUE DESIGNA AL SEÑOR JOSÉ ANTONIO AYBAR FÉLIX, PRESIDENTE DE LA COMISIÓN NACIONAL DE ESPECTÁCULOS PÚ... | [Ver documento](decreto-289-2025.md) | normalizado · pendiente_revision |
+| 290-25 | 03/06/2025 | 11198 | QUE NOMBRA 2 MIEMBROS Y 3 SUPLENTES DEL DIRECTORIO EJECUTIVO DEL BANCO AGRÍCOLA DE LA REPÚBLICA DOMI... | [Ver documento](decreto-290-2025.md) | normalizado · pendiente_revision |
+| 291-25 | 03/06/2025 | 11198 | QUE NOMBRA DOS VICECÓNSULES DE LA REPÚBLICA EN LOS ÁNGELES, CALIFORNIA, ESTADOS UNIDOS DE AMÉRICA Y ... | [Ver documento](decreto-291-2025.md) | normalizado · pendiente_revision |
+| 291-25 | 03/06/2025 | 11199 | FE DE ERRATA: EL DEC. NÚM. 291-25 DEL 3 DE JUNIO DE 2025,SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICIA... | [Ver documento](decreto-291-2025.md) | normalizado · pendiente_revision |
+| 292-25 | 03/06/2025 | 11198 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 48 PERSONAS, Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN ... | [Ver documento](decreto-292-2025.md) | normalizado · pendiente_revision |
+| 293-25 | 03/06/2025 | 11198 | QUE RATIFICA AL SEÑOR MARCOS ANTONIO IGLESIAS SÁNCHEZ, COMO MIEMBRO INDEPENDIENTE DEL CONSEJO NACION... | [Ver documento](decreto-293-2025.md) | normalizado · pendiente_revision |
+| 294-25 | 03/06/2025 | 11198 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 46 PERSONAS. OTORGA UNA PENSIÓN DEL ESTADO POR DISCAPA... | [Ver documento](decreto-294-2025.md) | normalizado · pendiente_revision |
+| 295-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Ver documento](decreto-295-2025.md) | normalizado · pendiente_revision |
+| 296-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-296-2025.md) | normalizado · pendiente_revision |
+| 297-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-297-2025.md) | normalizado · pendiente_revision |
+| 298-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES | [Ver documento](decreto-298-2025.md) | normalizado · pendiente_revision |
+| 299-25 | 03/06/2025 | 11198 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-299-2025.md) | normalizado · pendiente_revision |
+| 300-25 | 03/06/2025 | 11198 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 385-18, QUE DESIGNÓ A LA SEÑORA SOLANGE EUNICE BLANDINO WO... | [Ver documento](decreto-300-2025.md) | normalizado · pendiente_revision |
+| 301-25 | 03/06/2025 | 11198 | DISPONE QUE EL CONSEJO NACIONAL PARA EL CAMBIO CLIMÁTICO Y MECANISMO DE DESARROLLO LIMPIO, EN LO ADE... | [Ver documento](decreto-301-2025.md) | normalizado · pendiente_revision |
+| 302-25 | 03/06/2025 | 11198 | QUE APRUEBA EL PLAN NACIONAL DE GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS (PLANGIR) 2025-2035, PROPUE... | [Ver documento](decreto-302-2025.md) | normalizado · pendiente_revision |
+| 303-25 | 05/06/2025 | 11198 | QUE NOMBRA A LA SEÑORA GIANNA LIZ FRANJUL RIVERA, VICEMINISTRA DE DESARROLLO INDUSTRIAL DEL MINISTER... | [Ver documento](decreto-303-2025.md) | normalizado · pendiente_revision |
+| 303-25 | 05/06/2025 | 11199 | FE DE ERRATA: EL DEC. NÚM. 303-25 DEL 5 DE JUNIO DE 2025, SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICI... | [Ver documento](decreto-303-2025.md) | normalizado · pendiente_revision |
+| 304-25 | 06/06/2025 | 11198 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR ROMÁN RAMO... | [Ver documento](decreto-304-2025.md) | normalizado · pendiente_revision |
+| 305-25 | 06/06/2025 | 11198 | QUE MODIFICA EL ARTÍCULO 1, LITERAL B), DEL DECRETO NÚM. 299-14. DISPONE QUE LA COOPERATIVA DE AHORR... | [Ver documento](decreto-305-2025.md) | normalizado · pendiente_revision |
+| 306-25 | 06/06/2025 | 11198 | QUE CREA UNA COMISIÓN CONSULTIVA CON EL OBJETO DE EVALUAR LA VIABILIDAD DE CONSTRUIR EN TERRENOS PRO... | [Ver documento](decreto-306-2025.md) | normalizado · pendiente_revision |
+| 307-25 | 06/06/2025 | 11198 | QUE DESIGNA AL SEÑOR CARLOS ANTONIO MICHELÉN NANNUN, MINISTRO CONSEJERO EN LA MISIÓN PERMANENTE DE L... | [Ver documento](decreto-307-2025.md) | normalizado · pendiente_revision |
+| 307-25 | 06/06/2025 | 11199 | FE DE ERRATA: EL DEC. NÚM. 307-25 DEL 6 JUNIO DE 2025, SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICIAL,... | [Ver documento](decreto-307-2025.md) | normalizado · pendiente_revision |
+| 308-25 | 06/06/2025 | 11198 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-308-2025.md) | normalizado · pendiente_revision |
+| 309-25 | 06/06/2025 | 11198 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-309-2025.md) | normalizado · pendiente_revision |
+| 310-25 | 06/06/2025 | 11198 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-310-2025.md) | normalizado · pendiente_revision |
+| 311-25 | 06/06/2025 | 11198 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DE QUE DISFRUTAN 284 MIEMBROS DE LA AS... | [Ver documento](decreto-311-2025.md) | normalizado · pendiente_revision |
+| 311-25 | 06/06/2025 | 11198 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DE QUE DISFRUTAN 284 MIEMBROS DE LA AS... | [Ver documento](decreto-311-2025.md) | normalizado · pendiente_revision |
+| 312-25 | 11/06/2025 | 11199 | QUE NOMBRA A LOS SEÑORES ANDY RAFAEL RODRÍGUEZ DURÁN Y ERIKA YLONCA ÁLVAREZ RODRÍGUEZ, EMBAJADORES E... | [Ver documento](decreto-312-2025.md) | normalizado · pendiente_revision |
+| 313-25 | 16/06/2025 | 11199 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 111-24. DISPONE QUE EL PARQUE DE ZONA FRANCA DENOMINADO ... | [Ver documento](decreto-313-2025.md) | normalizado · pendiente_revision |
+| 314-25 | 16/06/2025 | 11199 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, CON MEDALLA AL MÉRITO NAVAL EN SU PRIMERA... | [Ver documento](decreto-314-2025.md) | normalizado · pendiente_revision |
+| 315-25 | 16/06/2025 | 11199 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 361-17, QUE OTORGÓ EXEQUÁTUR AL SEÑOR ALESSANDRO MARIO SEG... | [Ver documento](decreto-315-2025.md) | normalizado · pendiente_revision |
+| 316-25 | 16/06/2025 | 11199 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A OCHO PERSONAS. | [Ver documento](decreto-316-2025.md) | normalizado · pendiente_revision |
+| 317-25 | 16/06/2025 | 11199 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, DE MOCA, PROVINCIA ESPAILLAT Y DE LA... | [Ver documento](decreto-317-2025.md) | normalizado · pendiente_revision |
+| 318-25 | 16/06/2025 | 11199 | QUE AUTORIZA A TRES (3) OFICIALES GENERALES Y SUPERIORES DEL EJERCITO NACIONAL Y DE LA FUERZA AÉREA ... | [Ver documento](decreto-318-2025.md) | normalizado · pendiente_revision |
+| 319-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A 252 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO | [Ver documento](decreto-319-2025.md) | normalizado · pendiente_revision |
+| 320-25 | 16/06/2025 | 11199 | CREA EL PARQUE DE ZONAS FRANCAS CIBAO FREE TRADE PARK, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE... | [Ver documento](decreto-320-2025.md) | normalizado · pendiente_revision |
+| 321-25 | 16/06/2025 | 11199 | QUE CONCEDE LA CONDECORACIÓN DE LA “ORDEN AL MÉRITO NAVAL, CON MEDALLA AL SERVICIO DISTINGUIDO EN SU... | [Ver documento](decreto-321-2025.md) | normalizado · pendiente_revision |
+| 322-25 | 16/06/2025 | 11199 | QUE CONCEDE PENSIONES DEL ESTADO A TREINTA Y CINCO (35) SERVIDORES PÚBLICOS DEL SECTOR SALUD Y REAJU... | [Ver documento](decreto-322-2025.md) | normalizado · pendiente_revision |
+| 323-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-323-2025.md) | normalizado · pendiente_revision |
+| 324-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-324-2025.md) | normalizado · pendiente_revision |
+| 325-25 | 16/06/2025 | 11199 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER PROFESIONES DIFERENTES. | [Ver documento](decreto-325-2025.md) | normalizado · pendiente_revision |
+| 326-25 | 16/06/2025 | 11199 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$50,000.00 MENSUALES, A 116 ECONOMISTAS, Y AUMENTA ... | [Ver documento](decreto-326-2025.md) | normalizado · pendiente_revision |
+| 327-25 | 16/06/2025 | 11199 | QUE CONCEDE PENSIONES DEL ESTADO A CUATRO (4) PERSONAS, Y AUMENTA LAS PENSIONES OTORGADAS A DOS (2).... | [Ver documento](decreto-327-2025.md) | normalizado · pendiente_revision |
+| 328-25 | 16/06/2025 | 11199 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES, LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR LEÓN... | [Ver documento](decreto-328-2025.md) | normalizado · pendiente_revision |
 | 329-25 | 17/06/2025 | 11200 | QUE NOMBRA A LOS SEÑORES VÍCTOR ISMAEL VÁSQUEZ IGNACIO Y EDGAR IGNACIO DÍAZ PÉREZ, SUBDIRECTORES DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403514&managementType=1) | pendiente_verificacion_pdf |
 | 330-25 | 18/06/2025 | 11200 | QUE NOMBRA TRES CÓNSULES GENERALES DE LA REPÚBLICA EN VARIOS PAÍSES, TRES EMBAJADORES EN EL SERVICIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403515&managementType=1) | pendiente_verificacion_pdf |
 | 331-25 | 18/06/2025 | 11200 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$100,000.00 MENSUALES A DOS PERSONAS. DEROGA LOS AR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403503&managementType=1) | pendiente_verificacion_pdf |
