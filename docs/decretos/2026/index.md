@@ -185,8 +185,33 @@ Documentos detectados: **406**.
 - [Decreto núm. 174-2026](decreto-174-2026.md)
 - [Decreto núm. 175-2026](decreto-175-2026.md)
 - [Decreto núm. 176-2026](decreto-176-2026.md)
+- [Decreto núm. 177-2026](decreto-177-2026.md)
+- [Decreto núm. 178-2026](decreto-178-2026.md)
+- [Decreto núm. 179-2026](decreto-179-2026.md)
+- [Decreto núm. 180-2026](decreto-180-2026.md)
+- [Decreto núm. 181-2026](decreto-181-2026.md)
+- [Decreto núm. 182-2026](decreto-182-2026.md)
+- [Decreto núm. 183-2026](decreto-183-2026.md)
+- [Decreto núm. 184-2026](decreto-184-2026.md)
+- [Decreto núm. 185-2026](decreto-185-2026.md)
+- [Decreto núm. 186-2026](decreto-186-2026.md)
+- [Decreto núm. 187-2026](decreto-187-2026.md)
+- [Decreto núm. 188-2026](decreto-188-2026.md)
+- [Decreto núm. 189-2026](decreto-189-2026.md)
+- [Decreto núm. 190-2026](decreto-190-2026.md)
+- [Decreto núm. 191-2026](decreto-191-2026.md)
+- [Decreto núm. 192-2026](decreto-192-2026.md)
+- [Decreto núm. 193-2026](decreto-193-2026.md)
+- [Decreto núm. 194-2026](decreto-194-2026.md)
+- [Decreto núm. 195-2026](decreto-195-2026.md)
+- [Decreto núm. 196-2026](decreto-196-2026.md)
 - [Decreto núm. 197-2026](decreto-197-2026.md)
+- [Decreto núm. 198-2026](decreto-198-2026.md)
+- [Decreto núm. 199-2026](decreto-199-2026.md)
 - [Decreto núm. 200-2026](decreto-200-2026.md)
+- [Decreto núm. 201-2026](decreto-201-2026.md)
+- [Decreto núm. 202-2026](decreto-202-2026.md)
+- [Decreto núm. 203-2026](decreto-203-2026.md)
 - [Decreto núm. 234-2026](decreto-234-2026.md)
 - [Decreto núm. 236-2026](decreto-236-2026.md)
 - [Decreto núm. 240-2026](decreto-240-2026.md)
@@ -226,26 +251,26 @@ Documentos detectados: **406**.
 | 174-26 | 17/03/2025 | 11235 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-174-2026.md) | normalizado · pendiente_revision |
 | 175-26 | 18/03/2025 | 11235 | QUE NOMBRA A LAS SEÑORAS ESTEFANY MAYROBI HOLGUÍN GUZMÁN Y PAOLA DIROCIE DE LA CRUZ, VICEMINISTRAS A... | [Ver documento](decreto-175-2026.md) | normalizado · pendiente_revision |
 | 176-26 | 18/03/2025 | 11235 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM. 720-25. DISPONE QUE EL PARQUE DE ZONA FRANCA INDUSTRIAL RIO... | [Ver documento](decreto-176-2026.md) | normalizado · pendiente_revision |
-| 177-26 | 18/03/2025 | 11235 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404593&managementType=1) | pendiente_verificacion_pdf |
-| 178-26 | 18/03/2025 | 11235 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO DE ZONAS FRANCAS DE EXPORTACIONES A LA COMPAÑÍA IRON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404608&managementType=1) | pendiente_verificacion_pdf |
-| 179-26 | 18/03/2025 | 11235 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A LA SEÑORA WANDA ALTAGRACIA GARCÍA RONDÓN DE PIMENTEL. DEROGA EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404594&managementType=1) | pendiente_verificacion_pdf |
-| 180-26 | 18/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO A 17 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404595&managementType=1) | pendiente_verificacion_pdf |
-| 181-26 | 18/03/2025 | 11235 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIVERSAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404609&managementType=1) | pendiente_verificacion_pdf |
-| 182-26 | 19/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN TÁBARA ARRIBA, PROV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404610&managementType=1) | pendiente_verificacion_pdf |
-| 183-26 | 19/03/2025 | 11235 | QUE DESIGNA A CARLOS FEDERICO AYACX MERCEDES CONTRERAS, VICEMINISTRO DE PLANIFICACIÓN Y DESARROLLO E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404611&managementType=1) | pendiente_verificacion_pdf |
-| 184-26 | 19/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN MATANZA, PROVINCIA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404612&managementType=1) | pendiente_verificacion_pdf |
-| 185-26 | 19/03/2025 | 11235 | QUE CREA DE MANERA PROVINCIAL, EL COMITÉ PARA LA GESTIÓN DEL ACCESO PÚBLICO DE PLAYA ESMERALDA, UBIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404613&managementType=1) | pendiente_verificacion_pdf |
-| 186-26 | 19/03/2025 | 11235 | QUE CREA E INTEGRA EL COMITÉ PARA LA GESTIÓN DE LA PLAZA MULTICULTURAL SEIBANA, HASTA TANTO SEA FORM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404614&managementType=1) | pendiente_verificacion_pdf |
-| 187-26 | 19/03/2025 | 11235 | QUE CREA DE MANERA PROVISIONAL EL COMITÉ PARA LA GESTIÓN DE LA PLAZA DE VENDEDORES DE PLAYA SOSÚA, H... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404596&managementType=1) | pendiente_verificacion_pdf |
-| 188-26 | 19/03/2025 | 11235 | QUE DEROGA EL ARTÍCULO 13 DEL DECRETO NÚM. 633-24. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404615&managementType=1) | pendiente_verificacion_pdf |
-| 189-26 | 19/03/2025 | 11235 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAS EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404616&managementType=1) | pendiente_verificacion_pdf |
-| 190-26 | 19/03/2025 | 11235 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA PRIVILEGIADA AL SEÑOR GENEROSO BERTOLIN AGUSTÍN, DE NACIONA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404617&managementType=1) | pendiente_verificacion_pdf |
-| 191-26 | 19/03/2025 | 11235 | QUE NOMBRA A RAFAEL ANTONIO LANTIGUA CIRIACO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURREN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404618&managementType=1) | pendiente_verificacion_pdf |
-| 192-26 | 19/03/2025 | 11235 | QUE DEROGA EL ARTÍCULO 15 DEL DECRETO NÚM.28-25, QUE DESIGNÓ A MARÍA GABRIELA SANTONI BISONÓ, MINIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404619&managementType=1) | pendiente_verificacion_pdf |
-| 193-26 | 20/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO A CIEN (100 PERSONAS), ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404620&managementType=1) | pendiente_verificacion_pdf |
-| 194-26 | 20/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS, PARA SER UTILIZADAS E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404597&managementType=1) | pendiente_verificacion_pdf |
-| 195-26 | 20/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL SETENTA Y TRES (73) PORCIONES DE TERRENOS EN EL DIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404621&managementType=1) | pendiente_verificacion_pdf |
-| 196-26 | 20/03/2025 | 11235 | QUE NOMBRA A FREDERICK LÓPEZ FERNÁNDEZ SUBDIRECTOR GENERAL DE TECNOLOGÍA DE LA DIRECCIÓN GENERAL DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404598&managementType=1) | pendiente_verificacion_pdf |
+| 177-26 | 18/03/2025 | 11235 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO NACIONAL DE ZONAS FRANCAS DE EXPORTACIÓN A LA COMPAÑ... | [Ver documento](decreto-177-2026.md) | normalizado · pendiente_revision |
+| 178-26 | 18/03/2025 | 11235 | QUE RATIFICA EL PERMISO OTORGADO POR EL CONSEJO DE ZONAS FRANCAS DE EXPORTACIONES A LA COMPAÑÍA IRON... | [Ver documento](decreto-178-2026.md) | normalizado · pendiente_revision |
+| 179-26 | 18/03/2025 | 11235 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A LA SEÑORA WANDA ALTAGRACIA GARCÍA RONDÓN DE PIMENTEL. DEROGA EL... | [Ver documento](decreto-179-2026.md) | normalizado · pendiente_revision |
+| 180-26 | 18/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO A 17 PERSONAS. | [Ver documento](decreto-180-2026.md) | normalizado · pendiente_revision |
+| 181-26 | 18/03/2025 | 11235 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIVERSAS PROFESIONES. | [Ver documento](decreto-181-2026.md) | normalizado · pendiente_revision |
+| 182-26 | 19/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN TÁBARA ARRIBA, PROV... | [Ver documento](decreto-182-2026.md) | normalizado · pendiente_revision |
+| 183-26 | 19/03/2025 | 11235 | QUE DESIGNA A CARLOS FEDERICO AYACX MERCEDES CONTRERAS, VICEMINISTRO DE PLANIFICACIÓN Y DESARROLLO E... | [Ver documento](decreto-183-2026.md) | normalizado · pendiente_revision |
+| 184-26 | 19/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN MATANZA, PROVINCIA ... | [Ver documento](decreto-184-2026.md) | normalizado · pendiente_revision |
+| 185-26 | 19/03/2025 | 11235 | QUE CREA DE MANERA PROVINCIAL, EL COMITÉ PARA LA GESTIÓN DEL ACCESO PÚBLICO DE PLAYA ESMERALDA, UBIC... | [Ver documento](decreto-185-2026.md) | normalizado · pendiente_revision |
+| 186-26 | 19/03/2025 | 11235 | QUE CREA E INTEGRA EL COMITÉ PARA LA GESTIÓN DE LA PLAZA MULTICULTURAL SEIBANA, HASTA TANTO SEA FORM... | [Ver documento](decreto-186-2026.md) | normalizado · pendiente_revision |
+| 187-26 | 19/03/2025 | 11235 | QUE CREA DE MANERA PROVISIONAL EL COMITÉ PARA LA GESTIÓN DE LA PLAZA DE VENDEDORES DE PLAYA SOSÚA, H... | [Ver documento](decreto-187-2026.md) | normalizado · pendiente_revision |
+| 188-26 | 19/03/2025 | 11235 | QUE DEROGA EL ARTÍCULO 13 DEL DECRETO NÚM. 633-24. | [Ver documento](decreto-188-2026.md) | normalizado · pendiente_revision |
+| 189-26 | 19/03/2025 | 11235 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAS EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-189-2026.md) | normalizado · pendiente_revision |
+| 190-26 | 19/03/2025 | 11235 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA PRIVILEGIADA AL SEÑOR GENEROSO BERTOLIN AGUSTÍN, DE NACIONA... | [Ver documento](decreto-190-2026.md) | normalizado · pendiente_revision |
+| 191-26 | 19/03/2025 | 11235 | QUE NOMBRA A RAFAEL ANTONIO LANTIGUA CIRIACO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURREN... | [Ver documento](decreto-191-2026.md) | normalizado · pendiente_revision |
+| 192-26 | 19/03/2025 | 11235 | QUE DEROGA EL ARTÍCULO 15 DEL DECRETO NÚM.28-25, QUE DESIGNÓ A MARÍA GABRIELA SANTONI BISONÓ, MINIST... | [Ver documento](decreto-192-2026.md) | normalizado · pendiente_revision |
+| 193-26 | 20/03/2025 | 11235 | QUE CONCEDE PENSIONES DEL ESTADO A CIEN (100 PERSONAS), ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD E... | [Ver documento](decreto-193-2026.md) | normalizado · pendiente_revision |
+| 194-26 | 20/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS, PARA SER UTILIZADAS E... | [Ver documento](decreto-194-2026.md) | normalizado · pendiente_revision |
+| 195-26 | 20/03/2025 | 11235 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL SETENTA Y TRES (73) PORCIONES DE TERRENOS EN EL DIS... | [Ver documento](decreto-195-2026.md) | normalizado · pendiente_revision |
+| 196-26 | 20/03/2025 | 11235 | QUE NOMBRA A FREDERICK LÓPEZ FERNÁNDEZ SUBDIRECTOR GENERAL DE TECNOLOGÍA DE LA DIRECCIÓN GENERAL DE ... | [Ver documento](decreto-196-2026.md) | normalizado · pendiente_revision |
 | 1-26 | 05/01/2026 | 11228 | QUE NOMBRA A LOS SEÑORES JORGE A. SUBERO ISA Y ANTOLIANO PERALTA ROMERO, CONSULTOR JURÍDICO DEL PODE... | [Ver documento](decreto-001-2026.md) | normalizado · pendiente_revision |
 | 2-26 | 06/01/2026 | 11228 | QUE NOMBRA A LOS SEÑORES FRANCISCO OLIVERIO ESPAILLAT BENCOSME Y GLORIA ROELY REYES GÓMEZ, MINISTROS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404189&managementType=1) | pendiente_verificacion_pdf |
 | 3-26 | 06/01/2026 | 11228 | QUE NOMBRA AL SEÑOR VÍCTOR ORLANDO BISONÓ HAZA, MINISTRO DE LA VIVIENDA, HÁBITAT Y EDIFICACIONES A P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404200&managementType=1) | pendiente_verificacion_pdf |
@@ -406,12 +431,12 @@ Documentos detectados: **406**.
 | 158-26 | 09/03/2026 | 11234 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE SESENTA MIL PESOS DOMINI... | [Ver documento](decreto-158-2026.md) | normalizado · pendiente_revision |
 | 159-26 | 09/03/2026 | 11234 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 33 PERSONAS. | [Ver documento](decreto-159-2026.md) | normalizado · pendiente_revision |
 | 197-26 | 26/03/2026 | 11236 | QUE DISPONE LA REACTIVACIÓN DEL PLAN REGULATORIO DE BANCAS DE LOTERÍA, PUNTOS DE VENTA O AGENCIAS Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404632&managementType=1) | pendiente_verificacion_pdf |
-| 198-26 | 26/03/2026 | 11236 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIOS INMUEBLES UBICADOS EN EL PARAJE COLONIA JUAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404625&managementType=1) | pendiente_verificacion_pdf |
-| 199-26 | 26/03/2026 | 11236 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS EN TODO EL TERRIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404633&managementType=1) | pendiente_verificacion_pdf |
+| 198-26 | 26/03/2026 | 11236 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIOS INMUEBLES UBICADOS EN EL PARAJE COLONIA JUAN... | [Ver documento](decreto-198-2026.md) | normalizado · pendiente_revision |
+| 199-26 | 26/03/2026 | 11236 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS EN TODO EL TERRIT... | [Ver documento](decreto-199-2026.md) | normalizado · pendiente_revision |
 | 200-26 | 26/03/2026 | 11236 | QUE CREA E INTEGRA LA COMISIÓN PARA LA PUESTA EN FUNCIONAMIENTO DEL MUSEO HISTÓRICO DE LA GESTA DE A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404634&managementType=1) | pendiente_verificacion_pdf |
-| 201-26 | 26/03/2026 | 11236 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDENARÍA, A 20 PERSONAS EXTRAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404635&managementType=1) | pendiente_verificacion_pdf |
-| 202-26 | 26/03/2026 | 11236 | QUE ASCIENDE AL CORONEL FRANCISCO ADOLFO FRANCISCO PIMENTEL, P.N., AL RANGO DE GENERAL, P. N. Y LO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404626&managementType=1) | pendiente_verificacion_pdf |
-| 203-26 | 26/03/2026 | 11236 | QUE DEROGA EL ARTÍCULO 6 DEL DECRETO NÚM. 408-20, QUE DESIGNÓ A JOHANNY VILLAMÁN ESPINO, SUBDIRECTOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404636&managementType=1) | pendiente_verificacion_pdf |
+| 201-26 | 26/03/2026 | 11236 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDENARÍA, A 20 PERSONAS EXTRAN... | [Ver documento](decreto-201-2026.md) | normalizado · pendiente_revision |
+| 202-26 | 26/03/2026 | 11236 | QUE ASCIENDE AL CORONEL FRANCISCO ADOLFO FRANCISCO PIMENTEL, P.N., AL RANGO DE GENERAL, P. N. Y LO D... | [Ver documento](decreto-202-2026.md) | normalizado · pendiente_revision |
+| 203-26 | 26/03/2026 | 11236 | QUE DEROGA EL ARTÍCULO 6 DEL DECRETO NÚM. 408-20, QUE DESIGNÓ A JOHANNY VILLAMÁN ESPINO, SUBDIRECTOR... | [Ver documento](decreto-203-2026.md) | normalizado · pendiente_revision |
 | 204-26 | 26/03/2026 | 11236 | QUE MODIFICA EL LITERAL D) DEL ARTÍCULO 1 DEL DECRETO NÚM. 37-25. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404627&managementType=1) | pendiente_verificacion_pdf |
 | 205-26 | 26/03/2026 | 11236 | QUE CONCEDE NATURALIZACIÓN DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 22 PERSONAS EXTRANJER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404628&managementType=1) | pendiente_verificacion_pdf |
 | 206-26 | 26/03/2026 | 11236 | QUE MODIFICA EL NUMERAL 66 DEL ARTÍCULO 1 DEL DECRETO NÚM. 369-13, QUE DECLARÓ DE UTILIDAD PÚBLICA U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404637&managementType=1) | pendiente_verificacion_pdf |
