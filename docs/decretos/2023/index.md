@@ -617,7 +617,92 @@ Documentos detectados: **688**.
 - [Decreto núm. 604-2023](decreto-604-2023.md)
 - [Decreto núm. 605-2023](decreto-605-2023.md)
 - [Decreto núm. 606-2023](decreto-606-2023.md)
+- [Decreto núm. 607-2023](decreto-607-2023.md)
+- [Decreto núm. 608-2023](decreto-608-2023.md)
+- [Decreto núm. 609-2023](decreto-609-2023.md)
+- [Decreto núm. 610-2023](decreto-610-2023.md)
+- [Decreto núm. 611-2023](decreto-611-2023.md)
+- [Decreto núm. 612-2023](decreto-612-2023.md)
+- [Decreto núm. 613-2023](decreto-613-2023.md)
+- [Decreto núm. 614-2023](decreto-614-2023.md)
+- [Decreto núm. 615-2023](decreto-615-2023.md)
+- [Decreto núm. 616-2023](decreto-616-2023.md)
+- [Decreto núm. 617-2023](decreto-617-2023.md)
+- [Decreto núm. 618-2023](decreto-618-2023.md)
+- [Decreto núm. 619-2023](decreto-619-2023.md)
+- [Decreto núm. 620-2023](decreto-620-2023.md)
+- [Decreto núm. 621-2023](decreto-621-2023.md)
+- [Decreto núm. 622-2023](decreto-622-2023.md)
+- [Decreto núm. 623-2023](decreto-623-2023.md)
+- [Decreto núm. 624-2023](decreto-624-2023.md)
+- [Decreto núm. 625-2023](decreto-625-2023.md)
+- [Decreto núm. 626-2023](decreto-626-2023.md)
+- [Decreto núm. 627-2023](decreto-627-2023.md)
+- [Decreto núm. 628-2023](decreto-628-2023.md)
+- [Decreto núm. 629-2023](decreto-629-2023.md)
+- [Decreto núm. 630-2023](decreto-630-2023.md)
+- [Decreto núm. 631-2023](decreto-631-2023.md)
+- [Decreto núm. 632-2023](decreto-632-2023.md)
+- [Decreto núm. 633-2023](decreto-633-2023.md)
+- [Decreto núm. 634-2023](decreto-634-2023.md)
+- [Decreto núm. 635-2023](decreto-635-2023.md)
+- [Decreto núm. 636-2023](decreto-636-2023.md)
+- [Decreto núm. 637-2023](decreto-637-2023.md)
+- [Decreto núm. 638-2023](decreto-638-2023.md)
+- [Decreto núm. 639-2023](decreto-639-2023.md)
+- [Decreto núm. 640-2023](decreto-640-2023.md)
+- [Decreto núm. 641-2023](decreto-641-2023.md)
+- [Decreto núm. 642-2023](decreto-642-2023.md)
+- [Decreto núm. 643-2023](decreto-643-2023.md)
+- [Decreto núm. 644-2023](decreto-644-2023.md)
+- [Decreto núm. 645-2023](decreto-645-2023.md)
+- [Decreto núm. 646-2023](decreto-646-2023.md)
+- [Decreto núm. 647-2023](decreto-647-2023.md)
+- [Decreto núm. 648-2023](decreto-648-2023.md)
+- [Decreto núm. 649-2023](decreto-649-2023.md)
+- [Decreto núm. 650-2023](decreto-650-2023.md)
+- [Decreto núm. 651-2023](decreto-651-2023.md)
+- [Decreto núm. 652-2023](decreto-652-2023.md)
+- [Decreto núm. 653-2023](decreto-653-2023.md)
+- [Decreto núm. 654-2023](decreto-654-2023.md)
+- [Decreto núm. 655-2023](decreto-655-2023.md)
+- [Decreto núm. 656-2023](decreto-656-2023.md)
+- [Decreto núm. 657-2023](decreto-657-2023.md)
+- [Decreto núm. 658-2023](decreto-658-2023.md)
+- [Decreto núm. 659-2023](decreto-659-2023.md)
+- [Decreto núm. 660-2023](decreto-660-2023.md)
+- [Decreto núm. 661-2023](decreto-661-2023.md)
+- [Decreto núm. 662-2023](decreto-662-2023.md)
+- [Decreto núm. 663-2023](decreto-663-2023.md)
+- [Decreto núm. 664-2023](decreto-664-2023.md)
+- [Decreto núm. 665-2023](decreto-665-2023.md)
+- [Decreto núm. 666-2023](decreto-666-2023.md)
+- [Decreto núm. 667-2023](decreto-667-2023.md)
+- [Decreto núm. 668-2023](decreto-668-2023.md)
+- [Decreto núm. 669-2023](decreto-669-2023.md)
+- [Decreto núm. 670-2023](decreto-670-2023.md)
+- [Decreto núm. 671-2023](decreto-671-2023.md)
+- [Decreto núm. 672-2023](decreto-672-2023.md)
+- [Decreto núm. 673-2023](decreto-673-2023.md)
+- [Decreto núm. 674-2023](decreto-674-2023.md)
 - [Decreto núm. 675-2023](decreto-675-2023.md)
+- [Decreto núm. 676-2023](decreto-676-2023.md)
+- [Decreto núm. 677-2023](decreto-677-2023.md)
+- [Decreto núm. 678-2023](decreto-678-2023.md)
+- [Decreto núm. 679-2023](decreto-679-2023.md)
+- [Decreto núm. 680-2023](decreto-680-2023.md)
+- [Decreto núm. 681-2023](decreto-681-2023.md)
+- [Decreto núm. 682-2023](decreto-682-2023.md)
+- [Decreto núm. 683-2023](decreto-683-2023.md)
+- [Decreto núm. 684-2023](decreto-684-2023.md)
+- [Decreto núm. 685-2023](decreto-685-2023.md)
+- [Decreto núm. 686-2023](decreto-686-2023.md)
+- [Decreto núm. 687-2023](decreto-687-2023.md)
+- [Decreto núm. 688-2023](decreto-688-2023.md)
+- [Decreto núm. 689-2023](decreto-689-2023.md)
+- [Decreto núm. 690-2023](decreto-690-2023.md)
+- [Decreto núm. 691-2023](decreto-691-2023.md)
+- [Decreto núm. 692-2023](decreto-692-2023.md)
 
 ## Documentos detectados
 
@@ -1224,93 +1309,93 @@ Documentos detectados: **688**.
 | 604-23 | 24/11/2023 | 11130 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE ARGENTINA DEL NACIONAL DOMINICANO YOENFRY TR... | [Ver documento](decreto-604-2023.md) | normalizado · pendiente_revision |
 | 605-23 | 29/11/2023 | 11130 | QUE AUTORIZA AL AYUNTAMIENTO MUNICIPAL DE EL VALLE, MUNICIPIO SABANA DE LA MAR, PROVINCIA HATO MAYOR... | [Ver documento](decreto-605-2023.md) | normalizado · pendiente_revision |
 | 606-23 | 29/11/2023 | 11130 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS, CON LAS DENOMI... | [Ver documento](decreto-606-2023.md) | normalizado · pendiente_revision |
-| 607-23 | 29/11/2023 | 11130 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE COSTA RICA DE LA NACIONAL DOMINICANA JOSEFIN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401607&managementType=1) | pendiente_verificacion_pdf |
-| 608-23 | 29/11/2023 | 11130 | QUE NOMBRA A RENSO ANTONIO HERRERA FRANCO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401608&managementType=1) | pendiente_verificacion_pdf |
-| 609-23 | 29/11/2023 | 11130 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. MODIFICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401619&managementType=1) | pendiente_verificacion_pdf |
-| 610-23 | 29/11/2023 | 11130 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. MODIFICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401620&managementType=1) | pendiente_verificacion_pdf |
-| 611-23 | 29/11/2023 | 11130 | QUE DEROGA EL ARTÍCULO 7 DEL DECRETO NÚM. 259-21, QUE DESIGNÓ A MANUEL DE JESÚS MARTE, SUBDIRECTOR E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401621&managementType=1) | pendiente_verificacion_pdf |
-| 612-23 | 29/11/2023 | 11130 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA MARÍA ALTAGRACIA MÉNDEZ DE CON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401622&managementType=1) | pendiente_verificacion_pdf |
-| 613-23 | 29/11/2023 | 11130 | MODIFICA EL NUMERAL 1 DEL ARTÍCULO 1 DEL DECRETO NÚM. 116-17, PARA QUE DIGA: UNA PORCIÓN DE TERRENO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401623&managementType=1) | pendiente_verificacion_pdf |
-| 614-23 | 29/11/2023 | 11130 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 19 PERSONAS, Y AUMENTA EL MONTO DE LAS PENSIONES ASIGN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401624&managementType=1) | pendiente_verificacion_pdf |
-| 615-23 | 30/11/2023 | 11130 | QUE DESIGNA LA DELEGACIÓN QUE REPRESENTARÁ AL GOBIERNO DE LA REPÚBLICA DOMINICANA EN LOS ACTOS DE TR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401625&managementType=1) | pendiente_verificacion_pdf |
-| 616-23 | 30/11/2023 | 11130 | QUE DESIGNA LOS INTEGRANTES DE LAS DELEGACIONES OFICIALES DE LA REPÚBLICA DOMINICANA PARA LA CUMBRE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401626&managementType=1) | pendiente_verificacion_pdf |
-| 617-23 | 04/12/2023 | 11131 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 585-23, MODIFICADO POR LOS DECRETOS NÚMEROS 587-23 Y 601... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401630&managementType=1) | pendiente_verificacion_pdf |
-| 618-23 | 06/12/2023 | 11131 | QUE DEROGA EL DECRETO NÚM. 697-22, QUE DESIGNÓ A CARLOS ANTONIO CASTRO MUÑOZ, DIRECTOR DEL CENTRO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401631&managementType=1) | pendiente_verificacion_pdf |
-| 619-23 | 08/12/2023 | 11131 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE OFICIAL, AL DR.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401636&managementType=1) | pendiente_verificacion_pdf |
-| 620-23 | 08/12/2023 | 11131 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 585-23, MODIFICADO POR LOS DECRETOS NÚMEROS 587-23, 601-23 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401632&managementType=1) | pendiente_verificacion_pdf |
-| 621-23 | 08/12/2023 | 11131 | QUE MODIFICA EL PÁRRAFO DEL ARTÍCULO 1 DEL DEC. NÚM. 541-23. ORDENA QUE DICHA ENTREGA EN EXTRADICIÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401633&managementType=1) | pendiente_verificacion_pdf |
-| 622-23 | 08/12/2023 | 11131 | QUE APRUEBA EL REGLAMENTO DE APLICACIÓN DE LA LEY ORGÁNICA DE REGIONES ÚNICAS DE PLANIFICACIÓN DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401637&managementType=1) | pendiente_verificacion_pdf |
-| 623-23 | 08/12/2023 | 11131 | QUE MODIFICA EL NUMERAL 32 DEL ARTÍCULO 1 DEL DEC. NÚM. 320-13. DISPONE QUE LA PARCELA NÚM. 31076086... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401638&managementType=1) | pendiente_verificacion_pdf |
-| 624-23 | 08/12/2023 | 11131 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIF... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401639&managementType=1) | pendiente_verificacion_pdf |
-| 625-23 | 08/12/2023 | 11131 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401640&managementType=1) | pendiente_verificacion_pdf |
-| 626-23 | 08/12/2023 | 11131 | QUE MODIFICA EL NUMERAL 12 DEL ARTÍCULO 1 DEL DECRETO NÚM. 169-14, PARA QUE DIGA LO SIGUIENTE: DISPO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401634&managementType=1) | pendiente_verificacion_pdf |
-| 627-23 | 08/12/2023 | 11131 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401635&managementType=1) | pendiente_verificacion_pdf |
-| 628-23 | 08/12/2023 | 11131 | QUE MODIFICA EL NUMERAL 20 DEL ARTÍCULO 1 DEL DECRETO NÚM. 290-16. DISPONE QUE LA PARCELA NÚM. 20713... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401641&managementType=1) | pendiente_verificacion_pdf |
-| 629-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401642&managementType=1) | pendiente_verificacion_pdf |
-| 630-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 24 PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASIGNAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401643&managementType=1) | pendiente_verificacion_pdf |
-| 631-23 | 11/12/2023 | 11131 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO AL SEÑOR PENG KIAM MIGUEL SANG BEN. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401644&managementType=1) | pendiente_verificacion_pdf |
-| 632-23 | 11/12/2023 | 11131 | QUE NOMBRA A RAMÓN DOLORES VALERIO DIAZ Y JUAN ERNESTO TAVERAS DEL ROSARIO, VICECÓNSULES DE LA REPÚB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401645&managementType=1) | pendiente_verificacion_pdf |
-| 633-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS, Y ELEVA EL MONTO DE LA PENSIÓN DE QUE DISF... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401646&managementType=1) | pendiente_verificacion_pdf |
-| 634-23 | 11/12/2023 | 11131 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A VARIAS PERSONAS COMO PRIMEROS Y SEGUNDOS SECRETARIOS, CONSEJ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401647&managementType=1) | pendiente_verificacion_pdf |
-| 635-23 | 11/12/2023 | 11131 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO AL SEÑOR RAFAEL EUGENIO SÁNCHEZ SORIANO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401648&managementType=1) | pendiente_verificacion_pdf |
-| 636-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS, Y ELEVA EL MONTO DE LA PENSIÓN DE 0QUE DIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401649&managementType=1) | pendiente_verificacion_pdf |
-| 637-23 | 11/12/2023 | 11131 | QUE DESIGNA A LA SEÑORA AMELIA LIDIA ZINAYDA CABRAL DE CUELLO, AUXILIAR CONSULAR EN EL CONSULADO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401650&managementType=1) | pendiente_verificacion_pdf |
+| 607-23 | 29/11/2023 | 11130 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE COSTA RICA DE LA NACIONAL DOMINICANA JOSEFIN... | [Ver documento](decreto-607-2023.md) | normalizado · pendiente_revision |
+| 608-23 | 29/11/2023 | 11130 | QUE NOMBRA A RENSO ANTONIO HERRERA FRANCO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE,... | [Ver documento](decreto-608-2023.md) | normalizado · pendiente_revision |
+| 609-23 | 29/11/2023 | 11130 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. MODIFICA ... | [Ver documento](decreto-609-2023.md) | normalizado · pendiente_revision |
+| 610-23 | 29/11/2023 | 11130 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. MODIFICA ... | [Ver documento](decreto-610-2023.md) | normalizado · pendiente_revision |
+| 611-23 | 29/11/2023 | 11130 | QUE DEROGA EL ARTÍCULO 7 DEL DECRETO NÚM. 259-21, QUE DESIGNÓ A MANUEL DE JESÚS MARTE, SUBDIRECTOR E... | [Ver documento](decreto-611-2023.md) | normalizado · pendiente_revision |
+| 612-23 | 29/11/2023 | 11130 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO DE QUE DISFRUTA LA SEÑORA MARÍA ALTAGRACIA MÉNDEZ DE CON... | [Ver documento](decreto-612-2023.md) | normalizado · pendiente_revision |
+| 613-23 | 29/11/2023 | 11130 | MODIFICA EL NUMERAL 1 DEL ARTÍCULO 1 DEL DECRETO NÚM. 116-17, PARA QUE DIGA: UNA PORCIÓN DE TERRENO ... | [Ver documento](decreto-613-2023.md) | normalizado · pendiente_revision |
+| 614-23 | 29/11/2023 | 11130 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 19 PERSONAS, Y AUMENTA EL MONTO DE LAS PENSIONES ASIGN... | [Ver documento](decreto-614-2023.md) | normalizado · pendiente_revision |
+| 615-23 | 30/11/2023 | 11130 | QUE DESIGNA LA DELEGACIÓN QUE REPRESENTARÁ AL GOBIERNO DE LA REPÚBLICA DOMINICANA EN LOS ACTOS DE TR... | [Ver documento](decreto-615-2023.md) | normalizado · pendiente_revision |
+| 616-23 | 30/11/2023 | 11130 | QUE DESIGNA LOS INTEGRANTES DE LAS DELEGACIONES OFICIALES DE LA REPÚBLICA DOMINICANA PARA LA CUMBRE ... | [Ver documento](decreto-616-2023.md) | normalizado · pendiente_revision |
+| 617-23 | 04/12/2023 | 11131 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 585-23, MODIFICADO POR LOS DECRETOS NÚMEROS 587-23 Y 601... | [Ver documento](decreto-617-2023.md) | normalizado · pendiente_revision |
+| 618-23 | 06/12/2023 | 11131 | QUE DEROGA EL DECRETO NÚM. 697-22, QUE DESIGNÓ A CARLOS ANTONIO CASTRO MUÑOZ, DIRECTOR DEL CENTRO DE... | [Ver documento](decreto-618-2023.md) | normalizado · pendiente_revision |
+| 619-23 | 08/12/2023 | 11131 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE OFICIAL, AL DR.... | [Ver documento](decreto-619-2023.md) | normalizado · pendiente_revision |
+| 620-23 | 08/12/2023 | 11131 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NÚM. 585-23, MODIFICADO POR LOS DECRETOS NÚMEROS 587-23, 601-23 ... | [Ver documento](decreto-620-2023.md) | normalizado · pendiente_revision |
+| 621-23 | 08/12/2023 | 11131 | QUE MODIFICA EL PÁRRAFO DEL ARTÍCULO 1 DEL DEC. NÚM. 541-23. ORDENA QUE DICHA ENTREGA EN EXTRADICIÓN... | [Ver documento](decreto-621-2023.md) | normalizado · pendiente_revision |
+| 622-23 | 08/12/2023 | 11131 | QUE APRUEBA EL REGLAMENTO DE APLICACIÓN DE LA LEY ORGÁNICA DE REGIONES ÚNICAS DE PLANIFICACIÓN DE LA... | [Ver documento](decreto-622-2023.md) | normalizado · pendiente_revision |
+| 623-23 | 08/12/2023 | 11131 | QUE MODIFICA EL NUMERAL 32 DEL ARTÍCULO 1 DEL DEC. NÚM. 320-13. DISPONE QUE LA PARCELA NÚM. 31076086... | [Ver documento](decreto-623-2023.md) | normalizado · pendiente_revision |
+| 624-23 | 08/12/2023 | 11131 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIF... | [Ver documento](decreto-624-2023.md) | normalizado · pendiente_revision |
+| 625-23 | 08/12/2023 | 11131 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-625-2023.md) | normalizado · pendiente_revision |
+| 626-23 | 08/12/2023 | 11131 | QUE MODIFICA EL NUMERAL 12 DEL ARTÍCULO 1 DEL DECRETO NÚM. 169-14, PARA QUE DIGA LO SIGUIENTE: DISPO... | [Ver documento](decreto-626-2023.md) | normalizado · pendiente_revision |
+| 627-23 | 08/12/2023 | 11131 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-627-2023.md) | normalizado · pendiente_revision |
+| 628-23 | 08/12/2023 | 11131 | QUE MODIFICA EL NUMERAL 20 DEL ARTÍCULO 1 DEL DECRETO NÚM. 290-16. DISPONE QUE LA PARCELA NÚM. 20713... | [Ver documento](decreto-628-2023.md) | normalizado · pendiente_revision |
+| 629-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Ver documento](decreto-629-2023.md) | normalizado · pendiente_revision |
+| 630-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 24 PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASIGNAD... | [Ver documento](decreto-630-2023.md) | normalizado · pendiente_revision |
+| 631-23 | 11/12/2023 | 11131 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO AL SEÑOR PENG KIAM MIGUEL SANG BEN. | [Ver documento](decreto-631-2023.md) | normalizado · pendiente_revision |
+| 632-23 | 11/12/2023 | 11131 | QUE NOMBRA A RAMÓN DOLORES VALERIO DIAZ Y JUAN ERNESTO TAVERAS DEL ROSARIO, VICECÓNSULES DE LA REPÚB... | [Ver documento](decreto-632-2023.md) | normalizado · pendiente_revision |
+| 633-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS, Y ELEVA EL MONTO DE LA PENSIÓN DE QUE DISF... | [Ver documento](decreto-633-2023.md) | normalizado · pendiente_revision |
+| 634-23 | 11/12/2023 | 11131 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A VARIAS PERSONAS COMO PRIMEROS Y SEGUNDOS SECRETARIOS, CONSEJ... | [Ver documento](decreto-634-2023.md) | normalizado · pendiente_revision |
+| 635-23 | 11/12/2023 | 11131 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO AL SEÑOR RAFAEL EUGENIO SÁNCHEZ SORIANO. | [Ver documento](decreto-635-2023.md) | normalizado · pendiente_revision |
+| 636-23 | 11/12/2023 | 11131 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS, Y ELEVA EL MONTO DE LA PENSIÓN DE 0QUE DIS... | [Ver documento](decreto-636-2023.md) | normalizado · pendiente_revision |
+| 637-23 | 11/12/2023 | 11131 | QUE DESIGNA A LA SEÑORA AMELIA LIDIA ZINAYDA CABRAL DE CUELLO, AUXILIAR CONSULAR EN EL CONSULADO DE ... | [Ver documento](decreto-637-2023.md) | normalizado · pendiente_revision |
 | 584-23 | 18/12/2023 | 11130 | QUE DISPONE LA SUSPENSIÓN DE LABORES EN EL TERRITORIO NACIONAL, EN LOS SECTORES TANTO PÚBLICO COMO P... | [Ver documento](decreto-584-2023.md) | normalizado · pendiente_revision |
-| 638-23 | 19/12/2023 | 11138 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE ITALIA DEL NACIONAL DOMINICANO HAMILTON LORA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401669&managementType=1) | pendiente_verificacion_pdf |
-| 639-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 62 COMBATIENTES CONSTITUCIONALISTAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401670&managementType=1) | pendiente_verificacion_pdf |
-| 640-23 | 19/12/2023 | 11138 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 585-23, MODIFICADO POR LOS DECRETOS NÚMEROS 587-23, 601-... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401671&managementType=1) | pendiente_verificacion_pdf |
-| 641-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401685&managementType=1) | pendiente_verificacion_pdf |
-| 642-23 | 19/12/2023 | 11138 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 35-21, QUE A SU VEZ MODIFICÓ EL ARTÍCULO 5 DEL DECRETO N... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401686&managementType=1) | pendiente_verificacion_pdf |
-| 643-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$35,000.00 MENSUALES A 116 TAXISTAS TURÍSTICOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401687&managementType=1) | pendiente_verificacion_pdf |
-| 644-23 | 19/12/2023 | 11138 | QUE APRUEBA EL ESTABLECIMIENTO DEL AEROPUERTO INTERNACIONAL CABO ROJO, UBICADO EN LA SECCIÓN TRES CH... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401688&managementType=1) | pendiente_verificacion_pdf |
-| 645-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 200 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401689&managementType=1) | pendiente_verificacion_pdf |
-| 646-23 | 19/12/2023 | 11138 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 5, DEL DECRETO NÚM. 209-18,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401672&managementType=1) | pendiente_verificacion_pdf |
-| 647-23 | 19/12/2023 | 11138 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401673&managementType=1) | pendiente_verificacion_pdf |
-| 648-23 | 19/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401690&managementType=1) | pendiente_verificacion_pdf |
-| 649-23 | 19/12/2023 | 11138 | QUE OTORGA PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401674&managementType=1) | pendiente_verificacion_pdf |
-| 650-23 | 19/12/2023 | 11138 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN LOS SEÑORES JOSÉ RAMÓN GUZMÁN CAPUTO Y HUGO AN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401691&managementType=1) | pendiente_verificacion_pdf |
-| 651-23 | 19/12/2023 | 11138 | QUE CONCEDES PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. OTORGA UNA PENSIÓN ESPECIAL POR DISC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401692&managementType=1) | pendiente_verificacion_pdf |
-| 652-23 | 19/12/2023 | 11138 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DEL ESTADO DOMINICANO ASIGNADAS A 40 O... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401693&managementType=1) | pendiente_verificacion_pdf |
-| 653-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$15,000.00 MENSUALES, A 57 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401675&managementType=1) | pendiente_verificacion_pdf |
-| 654-23 | 19/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES POR ANTIGÜEDAD EN EL SERVICIO A 75 EX S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401694&managementType=1) | pendiente_verificacion_pdf |
-| 655-23 | 21/12/2023 | 11138 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401676&managementType=1) | pendiente_verificacion_pdf |
-| 656-23 | 21/12/2023 | 11138 | QUE NOMBRA A GUINA MARYS SERRATA ENCARNACIÓN Y MANUEL DE JESÚS SALCEDO OLIVERO, CÓNSULES GENERALES D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401695&managementType=1) | pendiente_verificacion_pdf |
-| 657-23 | 21/12/2023 | 11138 | QUE NOMBRA A JAIME YORQUIS FRANCISCO RODRÍGUEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401696&managementType=1) | pendiente_verificacion_pdf |
-| 658-23 | 24/12/2023 | 11138 | QUE DECLARA DUELO OFICIAL EL DÍA 3 DE ENERO DEL 2024, CON MOTIVO DEL FALLECIMIENTO DEL EMBAJADOR FRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401677&managementType=1) | pendiente_verificacion_pdf |
-| 682-23 | 24/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO POR RD$10,000.00 MENSUALES A 477 TRABAJADORES PORTUARIOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401715&managementType=1) | pendiente_verificacion_pdf |
-| 659-23 | 26/12/2023 | 11138 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR OSCAR MATEO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401697&managementType=1) | pendiente_verificacion_pdf |
-| 660-23 | 26/12/2023 | 11138 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 348-20, QUE NOMBRÓ A RUTH HENRÍQUEZ MANZUETA, SUBDIRECTORA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401698&managementType=1) | pendiente_verificacion_pdf |
-| 661-23 | 27/12/2023 | 11138 | QUE DISPONE LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO DE DESARROLLO INMOBILIARIO QUE SE DENOMINARÁ F... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401678&managementType=1) | pendiente_verificacion_pdf |
-| 662-23 | 27/12/2023 | 11138 | QUE DEROGA EL DEC. NÚM. 651-20 Y EL NUMERAL 5 DEL ARTÍCULO 2 DEL DEC. NÚM. 273-23, QUE DESIGNARON A ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401699&managementType=1) | pendiente_verificacion_pdf |
-| 663-23 | 29/12/2023 | 11138 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA REGULACIÓN Y BIOSEGURIDAD DE LAS GRANJAS PORCINAS CON EL PRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401700&managementType=1) | pendiente_verificacion_pdf |
-| 664-23 | 29/12/2023 | 11138 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA PARCELA NÚM. 46-BIS-K, CON UNA EXTENSIÓN DE 710 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401679&managementType=1) | pendiente_verificacion_pdf |
-| 665-23 | 29/12/2023 | 11138 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR PEDRO ÁLVA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401680&managementType=1) | pendiente_verificacion_pdf |
-| 666-23 | 29/12/2023 | 11138 | QUE ESTABLECE COMO FECHA LÍMITE LAS 11: 59 P. M, DEL 31 DE JULIO DE 2024 PARA QUE LAS CONCESIONARIAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401701&managementType=1) | pendiente_verificacion_pdf |
-| 667-23 | 29/12/2023 | 11138 | QUE NOMBRA A CELSO JOSÉ MARRANZINI PÉREZ, PRESIDENTE DEL CONSEJO UNIFICADO DE LAS EMPRESAS DISTRIBUI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401702&managementType=1) | pendiente_verificacion_pdf |
-| 668-23 | 29/12/2023 | 11138 | QUE NOMBRA A ANDY RAFAEL RODRÍGUEZ DURÁN, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE NUESTRO PAÍ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401703&managementType=1) | pendiente_verificacion_pdf |
-| 669-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO A 71 EX SERVIDORES DEL SECTO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401704&managementType=1) | pendiente_verificacion_pdf |
-| 670-23 | 29/12/2023 | 11138 | QUE MODIFICA EL NUMERAL 19 DEL ARTÍCULO 1 DEL DEC. NÚM. 7-14, PARA QUE DIGA: UNA PORCIÓN DE TERRENO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401705&managementType=1) | pendiente_verificacion_pdf |
-| 671-23 | 29/12/2023 | 11138 | QUE AUTORIZA AL MAYOR GENERAL TÉCNICO DE AVIACIÓN CARLOS FEBRILLET RODRÍGUEZ, FARD, A ACEPTAR Y USAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401706&managementType=1) | pendiente_verificacion_pdf |
-| 672-23 | 29/12/2023 | 11138 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401707&managementType=1) | pendiente_verificacion_pdf |
-| 673-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401708&managementType=1) | pendiente_verificacion_pdf |
-| 674-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401709&managementType=1) | pendiente_verificacion_pdf |
+| 638-23 | 19/12/2023 | 11138 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE ITALIA DEL NACIONAL DOMINICANO HAMILTON LORA... | [Ver documento](decreto-638-2023.md) | normalizado · pendiente_revision |
+| 639-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 62 COMBATIENTES CONSTITUCIONALISTAS. | [Ver documento](decreto-639-2023.md) | normalizado · pendiente_revision |
+| 640-23 | 19/12/2023 | 11138 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 585-23, MODIFICADO POR LOS DECRETOS NÚMEROS 587-23, 601-... | [Ver documento](decreto-640-2023.md) | normalizado · pendiente_revision |
+| 641-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Ver documento](decreto-641-2023.md) | normalizado · pendiente_revision |
+| 642-23 | 19/12/2023 | 11138 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 35-21, QUE A SU VEZ MODIFICÓ EL ARTÍCULO 5 DEL DECRETO N... | [Ver documento](decreto-642-2023.md) | normalizado · pendiente_revision |
+| 643-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$35,000.00 MENSUALES A 116 TAXISTAS TURÍSTICOS. | [Ver documento](decreto-643-2023.md) | normalizado · pendiente_revision |
+| 644-23 | 19/12/2023 | 11138 | QUE APRUEBA EL ESTABLECIMIENTO DEL AEROPUERTO INTERNACIONAL CABO ROJO, UBICADO EN LA SECCIÓN TRES CH... | [Ver documento](decreto-644-2023.md) | normalizado · pendiente_revision |
+| 645-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 200 PERSONAS. | [Ver documento](decreto-645-2023.md) | normalizado · pendiente_revision |
+| 646-23 | 19/12/2023 | 11138 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 5, DEL DECRETO NÚM. 209-18,... | [Ver documento](decreto-646-2023.md) | normalizado · pendiente_revision |
+| 647-23 | 19/12/2023 | 11138 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-647-2023.md) | normalizado · pendiente_revision |
+| 648-23 | 19/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-648-2023.md) | normalizado · pendiente_revision |
+| 649-23 | 19/12/2023 | 11138 | QUE OTORGA PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Ver documento](decreto-649-2023.md) | normalizado · pendiente_revision |
+| 650-23 | 19/12/2023 | 11138 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN LOS SEÑORES JOSÉ RAMÓN GUZMÁN CAPUTO Y HUGO AN... | [Ver documento](decreto-650-2023.md) | normalizado · pendiente_revision |
+| 651-23 | 19/12/2023 | 11138 | QUE CONCEDES PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. OTORGA UNA PENSIÓN ESPECIAL POR DISC... | [Ver documento](decreto-651-2023.md) | normalizado · pendiente_revision |
+| 652-23 | 19/12/2023 | 11138 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DEL ESTADO DOMINICANO ASIGNADAS A 40 O... | [Ver documento](decreto-652-2023.md) | normalizado · pendiente_revision |
+| 653-23 | 19/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$15,000.00 MENSUALES, A 57 PERSONAS. | [Ver documento](decreto-653-2023.md) | normalizado · pendiente_revision |
+| 654-23 | 19/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES POR ANTIGÜEDAD EN EL SERVICIO A 75 EX S... | [Ver documento](decreto-654-2023.md) | normalizado · pendiente_revision |
+| 655-23 | 21/12/2023 | 11138 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Ver documento](decreto-655-2023.md) | normalizado · pendiente_revision |
+| 656-23 | 21/12/2023 | 11138 | QUE NOMBRA A GUINA MARYS SERRATA ENCARNACIÓN Y MANUEL DE JESÚS SALCEDO OLIVERO, CÓNSULES GENERALES D... | [Ver documento](decreto-656-2023.md) | normalizado · pendiente_revision |
+| 657-23 | 21/12/2023 | 11138 | QUE NOMBRA A JAIME YORQUIS FRANCISCO RODRÍGUEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURR... | [Ver documento](decreto-657-2023.md) | normalizado · pendiente_revision |
+| 658-23 | 24/12/2023 | 11138 | QUE DECLARA DUELO OFICIAL EL DÍA 3 DE ENERO DEL 2024, CON MOTIVO DEL FALLECIMIENTO DEL EMBAJADOR FRA... | [Ver documento](decreto-658-2023.md) | normalizado · pendiente_revision |
+| 682-23 | 24/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO POR RD$10,000.00 MENSUALES A 477 TRABAJADORES PORTUARIOS... | [Ver documento](decreto-682-2023.md) | normalizado · pendiente_revision |
+| 659-23 | 26/12/2023 | 11138 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR OSCAR MATEO... | [Ver documento](decreto-659-2023.md) | normalizado · pendiente_revision |
+| 660-23 | 26/12/2023 | 11138 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 348-20, QUE NOMBRÓ A RUTH HENRÍQUEZ MANZUETA, SUBDIRECTORA... | [Ver documento](decreto-660-2023.md) | normalizado · pendiente_revision |
+| 661-23 | 27/12/2023 | 11138 | QUE DISPONE LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO DE DESARROLLO INMOBILIARIO QUE SE DENOMINARÁ F... | [Ver documento](decreto-661-2023.md) | normalizado · pendiente_revision |
+| 662-23 | 27/12/2023 | 11138 | QUE DEROGA EL DEC. NÚM. 651-20 Y EL NUMERAL 5 DEL ARTÍCULO 2 DEL DEC. NÚM. 273-23, QUE DESIGNARON A ... | [Ver documento](decreto-662-2023.md) | normalizado · pendiente_revision |
+| 663-23 | 29/12/2023 | 11138 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA REGULACIÓN Y BIOSEGURIDAD DE LAS GRANJAS PORCINAS CON EL PRO... | [Ver documento](decreto-663-2023.md) | normalizado · pendiente_revision |
+| 664-23 | 29/12/2023 | 11138 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA PARCELA NÚM. 46-BIS-K, CON UNA EXTENSIÓN DE 710 ... | [Ver documento](decreto-664-2023.md) | normalizado · pendiente_revision |
+| 665-23 | 29/12/2023 | 11138 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR PEDRO ÁLVA... | [Ver documento](decreto-665-2023.md) | normalizado · pendiente_revision |
+| 666-23 | 29/12/2023 | 11138 | QUE ESTABLECE COMO FECHA LÍMITE LAS 11: 59 P. M, DEL 31 DE JULIO DE 2024 PARA QUE LAS CONCESIONARIAS... | [Ver documento](decreto-666-2023.md) | normalizado · pendiente_revision |
+| 667-23 | 29/12/2023 | 11138 | QUE NOMBRA A CELSO JOSÉ MARRANZINI PÉREZ, PRESIDENTE DEL CONSEJO UNIFICADO DE LAS EMPRESAS DISTRIBUI... | [Ver documento](decreto-667-2023.md) | normalizado · pendiente_revision |
+| 668-23 | 29/12/2023 | 11138 | QUE NOMBRA A ANDY RAFAEL RODRÍGUEZ DURÁN, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE NUESTRO PAÍ... | [Ver documento](decreto-668-2023.md) | normalizado · pendiente_revision |
+| 669-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO A 71 EX SERVIDORES DEL SECTO... | [Ver documento](decreto-669-2023.md) | normalizado · pendiente_revision |
+| 670-23 | 29/12/2023 | 11138 | QUE MODIFICA EL NUMERAL 19 DEL ARTÍCULO 1 DEL DEC. NÚM. 7-14, PARA QUE DIGA: UNA PORCIÓN DE TERRENO ... | [Ver documento](decreto-670-2023.md) | normalizado · pendiente_revision |
+| 671-23 | 29/12/2023 | 11138 | QUE AUTORIZA AL MAYOR GENERAL TÉCNICO DE AVIACIÓN CARLOS FEBRILLET RODRÍGUEZ, FARD, A ACEPTAR Y USAR... | [Ver documento](decreto-671-2023.md) | normalizado · pendiente_revision |
+| 672-23 | 29/12/2023 | 11138 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-672-2023.md) | normalizado · pendiente_revision |
+| 673-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Ver documento](decreto-673-2023.md) | normalizado · pendiente_revision |
+| 674-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-674-2023.md) | normalizado · pendiente_revision |
 | 675-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A DIFERENTES ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-675-2023.md) | pendiente_encontrar_pdf · pendiente_revision |
-| 676-23 | 29/12/2023 | 11138 | QUE AUTORIZA AL CORONEL PILOTO DAMIÁN ALBERTO V. CASTRO ORTIZ, FARD Y AL CORONEL PILOTO RICHARD AMIR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401711&managementType=1) | pendiente_verificacion_pdf |
-| 677-23 | 29/12/2023 | 11138 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERALES 1 Y 2, DEL DEC. NÚM. 406-... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401712&managementType=1) | pendiente_verificacion_pdf |
-| 678-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401713&managementType=1) | pendiente_verificacion_pdf |
-| 679-23 | 29/12/2023 | 11138 | QUE AUTORIZA AL CAPITÁN DE CORBETA DIÓGENES ASMED FULCAR DE LOS SANTOS, ERD, A ACEPTAR Y USAR LA CON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401681&managementType=1) | pendiente_verificacion_pdf |
-| 680-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 200 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401682&managementType=1) | pendiente_verificacion_pdf |
-| 681-23 | 29/12/2023 | 11138 | QUE DECLARA DISUELTA LA COOPERATIVA POPULAR DE AHORROS, CRÉDITOS Y SERVICIOS MÚLTIPLES (COOPPOPULAR)... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401714&managementType=1) | pendiente_verificacion_pdf |
-| 683-23 | 29/12/2023 | 11138 | QUE DESIGNA A NUEVE PERSONAS PARA CUBRIR LAS VACANTES EXISTENTES A LA FECHA COMO MIEMBROS DEL CONSEJ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401683&managementType=1) | pendiente_verificacion_pdf |
-| 684-23 | 29/12/2023 | 11138 | QUE DESIGNA A 7 PERSONAS PARA CUBRIR LAS VACANTES EXISTENTES A LA FECHA COMO MIEMBROS DEL CONSEJO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401716&managementType=1) | pendiente_verificacion_pdf |
-| 685-23 | 29/12/2023 | 11138 | QUE DESIGNA A ABEL MADERA ESPINAL, DIRECTOR GENERAL DE GANADERÍA, EN ADICIÓN A SUS FUNCIONES COMO MI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401717&managementType=1) | pendiente_verificacion_pdf |
-| 686-23 | 29/12/2023 | 11138 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚM. 303-21. DISPONE QUE EL CONSEJO TÉCNICO DEL FIDEICOMISO M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401718&managementType=1) | pendiente_verificacion_pdf |
-| 687-23 | 29/12/2023 | 11138 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES DE 18 DENOMINACIONES PARA EL FRANQUEO DE DISTINTAS CORRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401719&managementType=1) | pendiente_verificacion_pdf |
-| 688-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401684&managementType=1) | pendiente_verificacion_pdf |
-| 689-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401720&managementType=1) | pendiente_verificacion_pdf |
-| 690-23 | 29/12/2023 | 11138 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401721&managementType=1) | pendiente_verificacion_pdf |
-| 691-23 | 29/12/2023 | 11138 | QUE CREA LA DIRECCIÓN DEL COMISIONADO NACIONAL DE BEISBOL Y SE DISPONE SU DESCONCENTRACIÓN FUNCIONAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401722&managementType=1) | pendiente_verificacion_pdf |
-| 692-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA LOS DECRET... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401723&managementType=1) | pendiente_verificacion_pdf |
+| 676-23 | 29/12/2023 | 11138 | QUE AUTORIZA AL CORONEL PILOTO DAMIÁN ALBERTO V. CASTRO ORTIZ, FARD Y AL CORONEL PILOTO RICHARD AMIR... | [Ver documento](decreto-676-2023.md) | normalizado · pendiente_revision |
+| 677-23 | 29/12/2023 | 11138 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERALES 1 Y 2, DEL DEC. NÚM. 406-... | [Ver documento](decreto-677-2023.md) | normalizado · pendiente_revision |
+| 678-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS, Y ELEVA EL MONTO DE LAS PENSIONES ASI... | [Ver documento](decreto-678-2023.md) | normalizado · pendiente_revision |
+| 679-23 | 29/12/2023 | 11138 | QUE AUTORIZA AL CAPITÁN DE CORBETA DIÓGENES ASMED FULCAR DE LOS SANTOS, ERD, A ACEPTAR Y USAR LA CON... | [Ver documento](decreto-679-2023.md) | normalizado · pendiente_revision |
+| 680-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 200 PERSONAS. | [Ver documento](decreto-680-2023.md) | normalizado · pendiente_revision |
+| 681-23 | 29/12/2023 | 11138 | QUE DECLARA DISUELTA LA COOPERATIVA POPULAR DE AHORROS, CRÉDITOS Y SERVICIOS MÚLTIPLES (COOPPOPULAR)... | [Ver documento](decreto-681-2023.md) | normalizado · pendiente_revision |
+| 683-23 | 29/12/2023 | 11138 | QUE DESIGNA A NUEVE PERSONAS PARA CUBRIR LAS VACANTES EXISTENTES A LA FECHA COMO MIEMBROS DEL CONSEJ... | [Ver documento](decreto-683-2023.md) | normalizado · pendiente_revision |
+| 684-23 | 29/12/2023 | 11138 | QUE DESIGNA A 7 PERSONAS PARA CUBRIR LAS VACANTES EXISTENTES A LA FECHA COMO MIEMBROS DEL CONSEJO DE... | [Ver documento](decreto-684-2023.md) | normalizado · pendiente_revision |
+| 685-23 | 29/12/2023 | 11138 | QUE DESIGNA A ABEL MADERA ESPINAL, DIRECTOR GENERAL DE GANADERÍA, EN ADICIÓN A SUS FUNCIONES COMO MI... | [Ver documento](decreto-685-2023.md) | normalizado · pendiente_revision |
+| 686-23 | 29/12/2023 | 11138 | QUE MODIFICA EL ARTÍCULO 7 DEL DECRETO NÚM. 303-21. DISPONE QUE EL CONSEJO TÉCNICO DEL FIDEICOMISO M... | [Ver documento](decreto-686-2023.md) | normalizado · pendiente_revision |
+| 687-23 | 29/12/2023 | 11138 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES DE 18 DENOMINACIONES PARA EL FRANQUEO DE DISTINTAS CORRE... | [Ver documento](decreto-687-2023.md) | normalizado · pendiente_revision |
+| 688-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICI... | [Ver documento](decreto-688-2023.md) | normalizado · pendiente_revision |
+| 689-23 | 29/12/2023 | 11138 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Ver documento](decreto-689-2023.md) | normalizado · pendiente_revision |
+| 690-23 | 29/12/2023 | 11138 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE S... | [Ver documento](decreto-690-2023.md) | normalizado · pendiente_revision |
+| 691-23 | 29/12/2023 | 11138 | QUE CREA LA DIRECCIÓN DEL COMISIONADO NACIONAL DE BEISBOL Y SE DISPONE SU DESCONCENTRACIÓN FUNCIONAL... | [Ver documento](decreto-691-2023.md) | normalizado · pendiente_revision |
+| 692-23 | 29/12/2023 | 11138 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA LOS DECRET... | [Ver documento](decreto-692-2023.md) | normalizado · pendiente_revision |
 
 ## Próxima fase
 
