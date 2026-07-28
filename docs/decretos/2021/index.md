@@ -1,13 +1,26 @@
-# Decretos 2021
+# Decretos y reglamentos 2021
 
 !!! warning "Aviso"
-    LEY.DO no es una fuente oficial. Los documentos de esta página están detectados en fuente oficial y pendientes de verificación de PDF, normalización y revisión humana.
+    LEY.DO no es una fuente oficial. Los documentos fueron normalizados automáticamente desde fuentes oficiales y permanecen pendientes de revisión humana. Verifique cada documento contra la fuente oficial indicada.
 
 Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consulta/).
 
-Documentos detectados: **838**.
+## Cobertura reconciliada
 
-## Documentos normalizados inicialmente
+- Registros detectados en la fuente oficial: **838**.
+- Identidades documentales reconciliadas: **836**.
+- Paquetes canónicos PDF + Markdown + JSON: **836**.
+- Rendiciones oficiales complementarias archivadas: **2**.
+- Registros fuera de 2021: **0**.
+- Estado de revisión de todos los paquetes: `pendiente_revision`.
+
+## Salvedades documentales
+
+- Los decretos 125-21 y 138-21 tienen dos rendiciones oficiales cada uno: una versión de Gaceta usada para la extracción y una copia firmada escaneada preservada con ruta y SHA256 propios.
+- El encabezado visible del Decreto 683-21 aparece truncado como `ec. No. 683-21`; la línea formal indica `NÚMERO: 683-21`. La discrepancia se conserva para revisión humana.
+- El registro 558-21 está agrupado por la fuente entre decretos, pero su encabezado observable dice `Regl. núm. 558-21`; el paquete conserva ambos datos por separado.
+
+## Documentos normalizados
 
 - [Decreto núm. 001-2021](decreto-001-2021.md)
 - [Decreto núm. 002-2021](decreto-002-2021.md)
@@ -846,7 +859,7 @@ Documentos detectados: **838**.
 - [Decreto núm. 838-2021](decreto-838-2021.md)
 - [Decreto núm. 839-2021](decreto-839-2021.md)
 
-## Documentos detectados
+## Registros de la fuente oficial
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
 |---:|---|---:|---|---|---|
@@ -974,8 +987,8 @@ Documentos detectados: **838**.
 | 122-21 | 24/02/2021 | 11011 | QUE DESIGNA A JUAN TOMÁS TAVERAS RODRÍGUEZ, ASESOR DEL PODER EJECUTIVO. | [Ver documento](decreto-122-2021.md) | normalizado · pendiente_revision |
 | 123-21 | 25/02/2021 | 11011 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO CON DISTINTIVO AZUL EN SUS RESPECTIVAS CAT... | [Ver documento](decreto-123-2021.md) | normalizado · pendiente_revision |
 | 124-21 | 25/02/2021 | 11011 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO.166-13, NUMERAL 12, ARTÍCULO 1, LA PARCELA... | [Ver documento](decreto-124-2021.md) | normalizado · pendiente_revision |
-| 125-21 | 25/02/2021 | EN TRAMITE DE PUBLICACIÓN EN GACETA OFICIAL | QUE DEJA SIN EFECTO LAS DESIGNACIONES DE FUNCIONARIOS DIPLOMATICOS Y CONSULAR EN EL SERVICIO EXTERIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397887&managementType=1) | pendiente_verificacion_pdf |
-| 125-21 | 25/02/2021 | 11011 | QUE DEROGA LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN VARI... | [Ver documento](decreto-125-2021.md) | normalizado · pendiente_revision |
+| 125-21 | 25/02/2021 | EN TRAMITE DE PUBLICACIÓN EN GACETA OFICIAL | QUE DEJA SIN EFECTO LAS DESIGNACIONES DE FUNCIONARIOS DIPLOMATICOS Y CONSULAR EN EL SERVICIO EXTERIO... | [Ver documento](decreto-125-2021.md) · [Fuente 3397887](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397887&managementType=1) | fuente oficial complementaria archivada · pendiente_revision |
+| 125-21 | 25/02/2021 | 11011 | QUE DEROGA LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN VARI... | [Ver documento](decreto-125-2021.md) · [Fuente 3397916](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397916&managementType=1) | normalizado con 2 rendiciones oficiales · pendiente_revision |
 | 126-21 | 25/02/2021 | 11011 | QUE NOMBRA VARIOS VICECÓNSULES Y AUXILIARES DE CONSULADOS DE LA REPÚBLICA EN DISTINTOS PAÍSES. | [Ver documento](decreto-126-2021.md) | normalizado · pendiente_revision |
 | 127-21 | 25/02/2021 | 11011 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A VARIOS SERVIDORES PÚBLICOS... | [Ver documento](decreto-127-2021.md) | normalizado · pendiente_revision |
 | 128-21 | 25/02/2021 | 11011 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO.62-13. DISPONE QUE EL PARQUE DE ZONAS FRANCAS INDUSTRIALES DE... | [Ver documento](decreto-128-2021.md) | normalizado · pendiente_revision |
@@ -988,8 +1001,8 @@ Documentos detectados: **838**.
 | 135-21 | 02/03/2021 | 11012 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-135-2021.md) | normalizado · pendiente_revision |
 | 136-21 | 02/03/2021 | 11012 | QUE CONCEDE LA NACIONALIDAD DOMINICANA A TÍTULO DE NATURALIZACIÓN ORDINARIA A VARIAS PERSONAS EXTRAN... | [Ver documento](decreto-136-2021.md) | normalizado · pendiente_revision |
 | 137-21 | 02/03/2021 | 11012 | QUE DESIGNA VICECÓNSULES DE LA REPÚBLICA EN VARIOS PAÍSES, ASÍ COMO AUXILIARES DE LOS CONSULADOS EN ... | [Ver documento](decreto-137-2021.md) | normalizado · pendiente_revision |
-| 138-21 | 03/03/2021 | EN TRAMITE | QUE DEJA SIN EFECTO LA DESIGNACION DE FUNCIONARIOS ADSCRITO AL MINISTERIO DE RELACIONES EXTERIORES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397888&managementType=1) | pendiente_verificacion_pdf |
-| 138-21 | 03/03/2021 | 11012 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 762-11 Y EL ARTÍCULO 2 DEL DEC. NO. 577-08, QUE NOMBRARON DOS ... | [Ver documento](decreto-138-2021.md) | normalizado · pendiente_revision |
+| 138-21 | 03/03/2021 | EN TRAMITE | QUE DEJA SIN EFECTO LA DESIGNACION DE FUNCIONARIOS ADSCRITO AL MINISTERIO DE RELACIONES EXTERIORES | [Ver documento](decreto-138-2021.md) · [Fuente 3397888](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397888&managementType=1) | fuente oficial complementaria archivada · pendiente_revision |
+| 138-21 | 03/03/2021 | 11012 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 762-11 Y EL ARTÍCULO 2 DEL DEC. NO. 577-08, QUE NOMBRARON DOS ... | [Ver documento](decreto-138-2021.md) · [Fuente 3397938](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397938&managementType=1) | normalizado con 2 rendiciones oficiales · pendiente_revision |
 | 139-21 | 03/03/2021 | 11012 | QUE DESIGNA A BENNY EURÍPIDES METZ MUÑOZ, QUILVIO ALBERTO VERAS PÉREZ Y PAULINO PÉREZ ENCARNACIÓN CO... | [Ver documento](decreto-139-2021.md) | normalizado · pendiente_revision |
 | 140-21 | 03/03/2021 | 11012 | QUE DESIGNA A MANUEL AUGUSTO VARGAS PAYANO Y CRISTIAN MARTÍNEZ VILLANUEVA, DIRECTOR GENERAL Y ASESOR... | [Ver documento](decreto-140-2021.md) | normalizado · pendiente_revision |
 | 141-21 | 03/03/2021 | 11012 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL GOBIERNO DE CANADÁ, DEL NACIONAL HAITIANO Y CIUDADANO CANAD... | [Ver documento](decreto-141-2021.md) | normalizado · pendiente_revision |
@@ -1533,7 +1546,7 @@ Documentos detectados: **838**.
 | 679-21 | 28/10/2021 | 11042 | QUE DEROGA EL DEC. NO. 351-20, QUE DESIGNÓ A SERAFIN CANARIO DE LA ROSA, ADMINISTRADOR GENERAL DE LA... | [Ver documento](decreto-679-2021.md) | normalizado · pendiente_revision |
 | 680-21 | 29/10/2021 | 11042 | QUE DEROGA EL DEC. NO. 722-20, QUE DESIGNÓ A PEDRO PABLO ACEVEDO, PRESIDENTE DEL CONSEJO NACIONAL DE... | [Ver documento](decreto-680-2021.md) | normalizado · pendiente_revision |
 | 681-21 | 29/10/2021 | 11042 | QUE CONCEDE PENSIONES DEL ESTADO Y AUMENTA EL MONTO DE LAS PENSIONES CONCEDIDAS A PUPO VALOY Y GEORG... | [Ver documento](decreto-681-2021.md) | normalizado · pendiente_revision |
-| 683-21 | 29/10/2021 | 11042 | QUE DECLARA DE DUELO OFICIAL EL 31 DE OCTUBRE DE 2021, CON MOTIVO DEL FALLECIMIENTO DE REINALDO DE L... | [Ver documento](decreto-683-2021.md) | normalizado · pendiente_revision |
+| 683-21 | 29/10/2021 | 11042 | QUE DECLARA DE DUELO OFICIAL EL 31 DE OCTUBRE DE 2021, CON MOTIVO DEL FALLECIMIENTO DE REINALDO DE L... | [Ver documento](decreto-683-2021.md) | normalizado con alerta de encabezado · pendiente_revision |
 | 684-21 | 30/10/2021 | 11042 | QUE NOMBRA LOS DIRECTORES DEL CONSEJO DE GESTIÓN PRESIDENCIAL Y DE LA OFICINA DE GESTIÓN SOCIAL DE L... | [Ver documento](decreto-684-2021.md) | normalizado · pendiente_revision |
 | 685-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-685-2021.md) | normalizado · pendiente_revision |
 | 686-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-686-2021.md) | normalizado · pendiente_revision |
