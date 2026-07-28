@@ -1,0 +1,31 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "554",
+  "anio": "2023",
+  "titulo": "que dispone la suspensión provisional, por un plazo de 60 días renovables, de conformidad con el artículo 88 de la Ley núm. 41-08, a la directora del Acuario Nacional, señora Wanda García. Designa en dicha posición, a título honorífico y en forma interina, al señor Jimmy Constantino García Saviñón, director de la Autoridad Nacional de Asuntos Marítimos. G. O. No. 11128 del 20 de noviembre de 2023",
+  "fecha": "07/11/2023",
+  "gaceta_oficial": "11128",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401558&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401558&managementType=1",
+  "document_id_consultoria": "3401558",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "archivos/decretos/2023/decreto-554-2023.pdf",
+  "ruta_markdown": "docs/decretos/2023/decreto-554-2023.md",
+  "ruta_json": "datos/decretos/2023/decreto-554-2023.json",
+  "sha256_pdf_original": "0bc2bef4d20e74b0501e77774811c5dcdcf1a499106c8160fcf57fd373800d2a",
+  "sha256_markdown": "883fc905e2e2225dee72b38dbe6a48dd60a994ca17c44ab8adf130cc3c4fcb0b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": true,
+  "commit_publicacion": "",
+  "notas": "La metadata oficial identifica el registro como 544-23; el PDF contiene el encabezado Dec. núm. 554-23. Texto extraído automáticamente; verificar contra el PDF.",
+  "numero_registro_fuente": "544-23",
+  "alertas_revision": [
+    "La metadata fuente dice 544-23; el encabezado del PDF confirma 554-23."
+  ]
+}

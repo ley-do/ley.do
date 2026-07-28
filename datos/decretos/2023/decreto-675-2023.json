@@ -1,0 +1,28 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "675",
+  "anio": "2023",
+  "titulo": "QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A DIFERENTES ASOCIACIONES COOPERATIVAS.",
+  "fecha": "29/12/2023",
+  "gaceta_oficial": "11138",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401710&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401710&managementType=1",
+  "document_id_consultoria": "3401710",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "",
+  "ruta_markdown": "docs/decretos/2023/decreto-675-2023.md",
+  "ruta_json": "datos/decretos/2023/decreto-675-2023.json",
+  "sha256_pdf_original": "",
+  "sha256_markdown": "a3d633f87304160db9a587fdb2dd2cec2d6395848b201643939f58419b157cd8",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "descubierto",
+  "estado_extraccion": "pendiente_encontrar_pdf",
+  "commit_publicacion": "",
+  "alertas_revision": [
+    "El endpoint oficial devuelve HTTP 500.",
+    "El documento aparece dividido entre recortes oficiales vecinos; no se fusionaron."
+  ],
+  "notas": "Pendiente localizar un PDF oficial completo. Los recortes de los registros 674 y 676 solo aportan partes separadas del documento."
+}
