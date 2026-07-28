@@ -1,0 +1,45 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "303",
+  "anio": "2025",
+  "titulo": "del 5 de junio de 2025, se publica nuevamente en esta Gaceta Oficial, por haberse incurrido en errores materiales en su anterior publicación en la Gaceta Oficial núm. 11198 del 9 de junio de 2025",
+  "fecha": "05/06/2025",
+  "gaceta_oficial": "11199",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403498&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403498&managementType=1",
+  "document_id_consultoria": "3403498",
+  "fecha_consulta": "2026-07-27",
+  "ruta_pdf_local": "archivos/decretos/2025/decreto-303-2025.pdf",
+  "ruta_markdown": "docs/decretos/2025/decreto-303-2025.md",
+  "ruta_json": "datos/decretos/2025/decreto-303-2025.json",
+  "sha256_pdf_original": "2d2afbe8344f574bd6fe517fd9052cd62c78a5fa39de79118d1f7256a2231852",
+  "sha256_markdown": "206499956ef4baeeeb9e466ddef5f5d8050807adbafbad553a2f5f765c40b616",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": true,
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos. El registro principal se identifica en la fuente oficial como fe de errata; se conserva también el registro oficial anterior. LEY.DO no interpreta los efectos jurídicos de la corrección.",
+  "registros_oficiales_relacionados": [
+    {
+      "rol": "paquete_principal",
+      "document_id_consultoria": "3403498",
+      "titulo_registro_fuente": "FE DE ERRATA: EL DEC. NÚM. 303-25 DEL 5 DE JUNIO DE 2025, SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICI...",
+      "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403498&managementType=2",
+      "ruta_pdf_local": "archivos/decretos/2025/decreto-303-2025.pdf",
+      "ruta_markdown": "docs/decretos/2025/decreto-303-2025.md",
+      "sha256_pdf_original": "2d2afbe8344f574bd6fe517fd9052cd62c78a5fa39de79118d1f7256a2231852"
+    },
+    {
+      "rol": "registro_oficial_adicional",
+      "document_id_consultoria": "3403443",
+      "titulo_registro_fuente": "QUE NOMBRA A LA SEÑORA GIANNA LIZ FRANJUL RIVERA, VICEMINISTRA DE DESARROLLO INDUSTRIAL DEL MINISTER...",
+      "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403443&managementType=2",
+      "ruta_pdf_local": "archivos/decretos/2025/registros-oficiales/decreto-303-2025-registro-3403443.pdf",
+      "ruta_markdown": "docs/decretos/2025/registros-oficiales/decreto-303-2025-registro-3403443.md",
+      "sha256_pdf_original": "4d64e697b8553eff71c62a293151ae6055531769c4fe8681b7f04e6ba6c4f209"
+    }
+  ]
+}
