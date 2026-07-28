@@ -155,6 +155,16 @@ Documentos detectados: **406**.
 - [Decreto núm. 144-2026](decreto-144-2026.md)
 - [Decreto núm. 145-2026](decreto-145-2026.md)
 - [Decreto núm. 146-2026](decreto-146-2026.md)
+- [Decreto núm. 147-2026](decreto-147-2026.md)
+- [Decreto núm. 148-2026](decreto-148-2026.md)
+- [Decreto núm. 149-2026](decreto-149-2026.md)
+- [Decreto núm. 150-2026](decreto-150-2026.md)
+- [Decreto núm. 151-2026](decreto-151-2026.md)
+- [Decreto núm. 152-2026](decreto-152-2026.md)
+- [Decreto núm. 153-2026](decreto-153-2026.md)
+- [Decreto núm. 154-2026](decreto-154-2026.md)
+- [Decreto núm. 155-2026](decreto-155-2026.md)
+- [Decreto núm. 156-2026](decreto-156-2026.md)
 - [Decreto núm. 197-2026](decreto-197-2026.md)
 - [Decreto núm. 200-2026](decreto-200-2026.md)
 - [Decreto núm. 234-2026](decreto-234-2026.md)
@@ -362,16 +372,16 @@ Documentos detectados: **406**.
 | 144-26 | 04/03/2026 | 11234 | QUE DEROGA EL ARTÍCULO 20 DEL DECRETO NÚM. 330-20, QUE DESIGNÓ AL SEÑOR RAMÓN A. PÉREZ FERMÍN, VICEM... | [Ver documento](decreto-144-2026.md) | normalizado · pendiente_revision |
 | 145-26 | 04/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-145-2026.md) | normalizado · pendiente_revision |
 | 146-26 | 04/03/2026 | 11234 | QUE APRUEBA EL ESTABLECIMIENTO DE UN AEROPUERTO INTERNACIONAL DE CARÁCTER PRIVADO Y COMERCIAL, DENOM... | [Ver documento](decreto-146-2026.md) | normalizado · pendiente_revision |
-| 147-26 | 04/03/2026 | 11234 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS CON DIFERENTES D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404575&managementType=1) | pendiente_verificacion_pdf |
-| 148-26 | 04/03/2026 | 11234 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 46 PERSONAS. MODIFIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404576&managementType=1) | pendiente_verificacion_pdf |
-| 149-26 | 04/03/2026 | 11234 | QUE DEROGA LOS DECRETOS QUE NOMBRARON PERSONAL CONSULAR EN DIFERENTES PAÍSES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404564&managementType=1) | pendiente_verificacion_pdf |
-| 150-26 | 09/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404577&managementType=1) | pendiente_verificacion_pdf |
-| 151-26 | 09/03/2026 | 11234 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER DOMINICANA 2026, A 22 DESTACADAS DAMAS DOMINICANAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404578&managementType=1) | pendiente_verificacion_pdf |
-| 152-26 | 09/03/2026 | 11234 | QUE NOMBRA AL SEÑOR JHON PATRICK HUVANE, COORDINADOR DE LA UNIDAD DE MODERNIZACIÓN OPERATIVA DE LA C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404579&managementType=1) | pendiente_verificacion_pdf |
-| 153-26 | 09/03/2026 | 11234 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$36,265.00 MENSUALES, AL SEÑOR ANTONIO JAIME HERMES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404580&managementType=1) | pendiente_verificacion_pdf |
-| 154-26 | 09/03/2026 | 11234 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$97,750.00 MENSUALES, AL SEÑOR SIMEÓN CLASE ULLOA. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404565&managementType=1) | pendiente_verificacion_pdf |
-| 155-26 | 09/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A 161 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404581&managementType=1) | pendiente_verificacion_pdf |
-| 156-26 | 09/03/2026 | 11234 | QUE DEROGA EL ARTÍCULO 8 DEL DECRETO NÚM. 644-20, QUE DESIGNÓ A LA SEÑORA MARÍA DE LOS SANTOS AGRAMO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404582&managementType=1) | pendiente_verificacion_pdf |
+| 147-26 | 04/03/2026 | 11234 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS CON DIFERENTES D... | [Ver documento](decreto-147-2026.md) | normalizado · pendiente_revision |
+| 148-26 | 04/03/2026 | 11234 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 46 PERSONAS. MODIFIC... | [Ver documento](decreto-148-2026.md) | normalizado · pendiente_revision |
+| 149-26 | 04/03/2026 | 11234 | QUE DEROGA LOS DECRETOS QUE NOMBRARON PERSONAL CONSULAR EN DIFERENTES PAÍSES. | [Ver documento](decreto-149-2026.md) | normalizado · pendiente_revision |
+| 150-26 | 09/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-150-2026.md) | normalizado · pendiente_revision |
+| 151-26 | 09/03/2026 | 11234 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER DOMINICANA 2026, A 22 DESTACADAS DAMAS DOMINICANAS. | [Ver documento](decreto-151-2026.md) | normalizado · pendiente_revision |
+| 152-26 | 09/03/2026 | 11234 | QUE NOMBRA AL SEÑOR JHON PATRICK HUVANE, COORDINADOR DE LA UNIDAD DE MODERNIZACIÓN OPERATIVA DE LA C... | [Ver documento](decreto-152-2026.md) | normalizado · pendiente_revision |
+| 153-26 | 09/03/2026 | 11234 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$36,265.00 MENSUALES, AL SEÑOR ANTONIO JAIME HERMES... | [Ver documento](decreto-153-2026.md) | normalizado · pendiente_revision |
+| 154-26 | 09/03/2026 | 11234 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$97,750.00 MENSUALES, AL SEÑOR SIMEÓN CLASE ULLOA. ... | [Ver documento](decreto-154-2026.md) | normalizado · pendiente_revision |
+| 155-26 | 09/03/2026 | 11234 | QUE OTORGA EXEQUÁTUR A 161 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. MODIFICA... | [Ver documento](decreto-155-2026.md) | normalizado · pendiente_revision |
+| 156-26 | 09/03/2026 | 11234 | QUE DEROGA EL ARTÍCULO 8 DEL DECRETO NÚM. 644-20, QUE DESIGNÓ A LA SEÑORA MARÍA DE LOS SANTOS AGRAMO... | [Ver documento](decreto-156-2026.md) | normalizado · pendiente_revision |
 | 157-26 | 09/03/2026 | 11234 | QUE DESIGNA 5 VICECÓNSULES Y UN AUXILIAR CONSULAR EN LOS CONSULADOS DE LA REPÚBLICA EN DIFERENTES PA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404583&managementType=1) | pendiente_verificacion_pdf |
 | 158-26 | 09/03/2026 | 11234 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE SESENTA MIL PESOS DOMINI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404566&managementType=1) | pendiente_verificacion_pdf |
 | 159-26 | 09/03/2026 | 11234 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 33 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404567&managementType=1) | pendiente_verificacion_pdf |
