@@ -309,6 +309,106 @@ Documentos detectados: **838**.
 - [Decreto núm. 298-2021](decreto-298-2021.md)
 - [Decreto núm. 299-2021](decreto-299-2021.md)
 - [Decreto núm. 300-2021](decreto-300-2021.md)
+- [Decreto núm. 301-2021](decreto-301-2021.md)
+- [Decreto núm. 302-2021](decreto-302-2021.md)
+- [Decreto núm. 303-2021](decreto-303-2021.md)
+- [Decreto núm. 304-2021](decreto-304-2021.md)
+- [Decreto núm. 305-2021](decreto-305-2021.md)
+- [Decreto núm. 306-2021](decreto-306-2021.md)
+- [Decreto núm. 307-2021](decreto-307-2021.md)
+- [Decreto núm. 308-2021](decreto-308-2021.md)
+- [Decreto núm. 309-2021](decreto-309-2021.md)
+- [Decreto núm. 310-2021](decreto-310-2021.md)
+- [Decreto núm. 311-2021](decreto-311-2021.md)
+- [Decreto núm. 312-2021](decreto-312-2021.md)
+- [Decreto núm. 313-2021](decreto-313-2021.md)
+- [Decreto núm. 314-2021](decreto-314-2021.md)
+- [Decreto núm. 315-2021](decreto-315-2021.md)
+- [Decreto núm. 316-2021](decreto-316-2021.md)
+- [Decreto núm. 317-2021](decreto-317-2021.md)
+- [Decreto núm. 319-2021](decreto-319-2021.md)
+- [Decreto núm. 320-2021](decreto-320-2021.md)
+- [Decreto núm. 321-2021](decreto-321-2021.md)
+- [Decreto núm. 322-2021](decreto-322-2021.md)
+- [Decreto núm. 323-2021](decreto-323-2021.md)
+- [Decreto núm. 324-2021](decreto-324-2021.md)
+- [Decreto núm. 325-2021](decreto-325-2021.md)
+- [Decreto núm. 326-2021](decreto-326-2021.md)
+- [Decreto núm. 327-2021](decreto-327-2021.md)
+- [Decreto núm. 328-2021](decreto-328-2021.md)
+- [Decreto núm. 329-2021](decreto-329-2021.md)
+- [Decreto núm. 330-2021](decreto-330-2021.md)
+- [Decreto núm. 331-2021](decreto-331-2021.md)
+- [Decreto núm. 332-2021](decreto-332-2021.md)
+- [Decreto núm. 333-2021](decreto-333-2021.md)
+- [Decreto núm. 334-2021](decreto-334-2021.md)
+- [Decreto núm. 335-2021](decreto-335-2021.md)
+- [Decreto núm. 336-2021](decreto-336-2021.md)
+- [Decreto núm. 337-2021](decreto-337-2021.md)
+- [Decreto núm. 338-2021](decreto-338-2021.md)
+- [Decreto núm. 339-2021](decreto-339-2021.md)
+- [Decreto núm. 340-2021](decreto-340-2021.md)
+- [Decreto núm. 341-2021](decreto-341-2021.md)
+- [Decreto núm. 342-2021](decreto-342-2021.md)
+- [Decreto núm. 343-2021](decreto-343-2021.md)
+- [Decreto núm. 344-2021](decreto-344-2021.md)
+- [Decreto núm. 345-2021](decreto-345-2021.md)
+- [Decreto núm. 346-2021](decreto-346-2021.md)
+- [Decreto núm. 347-2021](decreto-347-2021.md)
+- [Decreto núm. 348-2021](decreto-348-2021.md)
+- [Decreto núm. 349-2021](decreto-349-2021.md)
+- [Decreto núm. 350-2021](decreto-350-2021.md)
+- [Decreto núm. 351-2021](decreto-351-2021.md)
+- [Decreto núm. 352-2021](decreto-352-2021.md)
+- [Decreto núm. 353-2021](decreto-353-2021.md)
+- [Decreto núm. 354-2021](decreto-354-2021.md)
+- [Decreto núm. 355-2021](decreto-355-2021.md)
+- [Decreto núm. 356-2021](decreto-356-2021.md)
+- [Decreto núm. 357-2021](decreto-357-2021.md)
+- [Decreto núm. 358-2021](decreto-358-2021.md)
+- [Decreto núm. 359-2021](decreto-359-2021.md)
+- [Decreto núm. 360-2021](decreto-360-2021.md)
+- [Decreto núm. 361-2021](decreto-361-2021.md)
+- [Decreto núm. 362-2021](decreto-362-2021.md)
+- [Decreto núm. 363-2021](decreto-363-2021.md)
+- [Decreto núm. 364-2021](decreto-364-2021.md)
+- [Decreto núm. 365-2021](decreto-365-2021.md)
+- [Decreto núm. 366-2021](decreto-366-2021.md)
+- [Decreto núm. 367-2021](decreto-367-2021.md)
+- [Decreto núm. 368-2021](decreto-368-2021.md)
+- [Decreto núm. 369-2021](decreto-369-2021.md)
+- [Decreto núm. 370-2021](decreto-370-2021.md)
+- [Decreto núm. 371-2021](decreto-371-2021.md)
+- [Decreto núm. 372-2021](decreto-372-2021.md)
+- [Decreto núm. 373-2021](decreto-373-2021.md)
+- [Decreto núm. 374-2021](decreto-374-2021.md)
+- [Decreto núm. 375-2021](decreto-375-2021.md)
+- [Decreto núm. 376-2021](decreto-376-2021.md)
+- [Decreto núm. 377-2021](decreto-377-2021.md)
+- [Decreto núm. 378-2021](decreto-378-2021.md)
+- [Decreto núm. 379-2021](decreto-379-2021.md)
+- [Decreto núm. 380-2021](decreto-380-2021.md)
+- [Decreto núm. 381-2021](decreto-381-2021.md)
+- [Decreto núm. 382-2021](decreto-382-2021.md)
+- [Decreto núm. 383-2021](decreto-383-2021.md)
+- [Decreto núm. 384-2021](decreto-384-2021.md)
+- [Decreto núm. 385-2021](decreto-385-2021.md)
+- [Decreto núm. 386-2021](decreto-386-2021.md)
+- [Decreto núm. 387-2021](decreto-387-2021.md)
+- [Decreto núm. 388-2021](decreto-388-2021.md)
+- [Decreto núm. 389-2021](decreto-389-2021.md)
+- [Decreto núm. 390-2021](decreto-390-2021.md)
+- [Decreto núm. 391-2021](decreto-391-2021.md)
+- [Decreto núm. 392-2021](decreto-392-2021.md)
+- [Decreto núm. 393-2021](decreto-393-2021.md)
+- [Decreto núm. 394-2021](decreto-394-2021.md)
+- [Decreto núm. 395-2021](decreto-395-2021.md)
+- [Decreto núm. 396-2021](decreto-396-2021.md)
+- [Decreto núm. 397-2021](decreto-397-2021.md)
+- [Decreto núm. 398-2021](decreto-398-2021.md)
+- [Decreto núm. 399-2021](decreto-399-2021.md)
+- [Decreto núm. 400-2021](decreto-400-2021.md)
+- [Decreto núm. 401-2021](decreto-401-2021.md)
 
 ## Documentos detectados
 
@@ -616,106 +716,106 @@ Documentos detectados: **838**.
 | 298-21 | 30/04/2021 | 11018 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA ORDINARIA A VARIOS EXTRANJEROS. | [Ver documento](decreto-298-2021.md) | normalizado · pendiente_revision |
 | 299-21 | 03/05/2021 | 11019 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-299-2021.md) | normalizado · pendiente_revision |
 | 300-21 | 03/05/2021 | 11019 | QUE NOMBRA A REYMUNDO ANTONIO GARRIDO LANTIGUA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA RE... | [Ver documento](decreto-300-2021.md) | normalizado · pendiente_revision |
-| 301-21 | 03/05/2021 | 11019 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 267-08. DISPONE QUE LA ZONA FRANCA INDUSTRIAL DE LA ROMANA, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398155&managementType=1) | pendiente_verificacion_pdf |
-| 302-21 | 10/05/2021 | 11019 | QUE INTEGRA LA COMISIÓN PARA COORDINAR LA CONMEMORACIÓN DEL CENTENARIO DEL NATALICIO DEL DR. ANTONIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398148&managementType=1) | pendiente_verificacion_pdf |
-| 303-21 | 10/05/2021 | 11019 | QUE AUTORIZA LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO, DE ADMINISTRACIÓN, INVERSIÓN, GARANTÍA, FUEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398156&managementType=1) | pendiente_verificacion_pdf |
-| 304-21 | 10/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398157&managementType=1) | pendiente_verificacion_pdf |
-| 305-21 | 10/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398158&managementType=1) | pendiente_verificacion_pdf |
-| 306-21 | 10/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398159&managementType=1) | pendiente_verificacion_pdf |
-| 307-21 | 10/05/2021 | 11019 | QUE MODIFICA LOS ARTÍCULOS 1, 2 Y 3 DEL DEC. NO. 268-16. INTEGRA LA COMISIÓN EVALUADORA DE LOS TERRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398160&managementType=1) | pendiente_verificacion_pdf |
-| 308-21 | 10/05/2021 | 11019 | QUE CREA EL PROGRAMA NACIONAL PARA LA INTERVENCIÓN Y ESTABLECIMIENTO DE NUEVOS MUSEOS, ADSCRITO AL M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398149&managementType=1) | pendiente_verificacion_pdf |
-| 309-21 | 10/05/2021 | 11019 | QUE ELEVA EL MONTO DE LAS PENSIONES CONCEDIDAS POR EL ESTADO DOMINICANO A FERNANDO ARTURO ORTIZ BOSC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398161&managementType=1) | pendiente_verificacion_pdf |
-| 310-21 | 10/05/2021 | 11019 | QUE DESIGNA A CRISTINA MARGARITA AMIAMA ESPAILLAT, DIRECTORA TÉCNICA DEL CONSEJO NACIONAL DE DISCAPA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398150&managementType=1) | pendiente_verificacion_pdf |
-| 311-21 | 10/05/2021 | 11019 | QUE NOMBRA A OSVALDO ANTONIO CANARIO MORENO, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE DISCAPACIDAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398162&managementType=1) | pendiente_verificacion_pdf |
-| 312-21 | 10/05/2021 | 11019 | QUE DESIGNA A JORGE WILLIAN HERNÁNDEZ DÍAZ, PRESIDENTE DEL CONSEJO DIRECTIVO DEL CENTRO DE ATENCIÓN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398151&managementType=1) | pendiente_verificacion_pdf |
-| 313-21 | 13/05/2021 | 11019 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398152&managementType=1) | pendiente_verificacion_pdf |
-| 314-21 | 13/05/2021 | 11019 | QUE NOMBRA A JOSÉ ALFONSO BLANCO CONDE, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398163&managementType=1) | pendiente_verificacion_pdf |
-| 315-21 | 13/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398164&managementType=1) | pendiente_verificacion_pdf |
-| 316-21 | 13/05/2021 | 11019 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 236-15, QUE DESIGNÓ A YOMARYS ALTAGRACIA SALDAÑA PAYANO, COMO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398165&managementType=1) | pendiente_verificacion_pdf |
-| 317-21 | 13/05/2021 | 11019 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, LITERAL A) DEL DEC. NO. 555-08, LA PAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398153&managementType=1) | pendiente_verificacion_pdf |
-| 319-21 | 13/05/2021 | 11019 | QUE MANTIENE VIGENTES TODAS LAS MEDIDAS DISPUESTAS EN EL DEC. NO. 133-21. ESTABLECE EL TOQUE DE QUED... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398166&managementType=1) | pendiente_verificacion_pdf |
-| 320-21 | 13/05/2021 | 11019 | QUE APRUEBA EL REGLAMENTO DE LA LEY NO. 225-20, GENERAL DE GESTIÓN INTEGRAL Y COPROCESAMIENTO DE RES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398167&managementType=1) | pendiente_verificacion_pdf |
-| 321-21 | 14/05/2021 | 11021 | QUE DEROGA EL ARTÍCULO 52 DEL DEC. NO. 339-20. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398184&managementType=1) | pendiente_verificacion_pdf |
-| 322-21 | 14/05/2021 | 11021 | QUE CREA E INTEGRA EL COMITÉ PARA LA PRESERVACIÓN DE LA CIUDAD COLONIAL DE SANTO DOMINGO. DEROGA LOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398185&managementType=1) | pendiente_verificacion_pdf |
-| 323-21 | 14/05/2021 | 11021 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1 DEL DEC. NO. 302-18, UNA PORCIÓN DE TER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398176&managementType=1) | pendiente_verificacion_pdf |
-| 324-21 | 14/05/2021 | 11021 | QUE DEROGA EL NUMERAL 4 DEL ARTÍCULO 1 DEL DEC. NO. 83-14, Y SU MODIFICACIÓN MEDIANTE EL ARTÍCULO 4 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398177&managementType=1) | pendiente_verificacion_pdf |
-| 325-21 | 17/05/2021 | 11021 | QUE CREA EL FONDO DE ASISTENCIA PARA LOS TRABAJADORES DEL SECTOR TURISMO, HABILITADO PARA LOS MESES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398186&managementType=1) | pendiente_verificacion_pdf |
-| 326-21 | 18/05/2021 | 11021 | QUE ESTABLECE UNA VEDA EN TODO EL TERRITORIO NACIONAL PARA LA CAPTURA DE VARIAS ESPECIES MARINAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398187&managementType=1) | pendiente_verificacion_pdf |
-| 327-21 | 18/05/2021 | 11021 | QUE DECLARA DE DUELO OFICIAL EL DÍA 19 DE MAYO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DE PED... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398188&managementType=1) | pendiente_verificacion_pdf |
-| 328-21 | 18/05/2021 | 11021 | QUE CREA E INTEGRA EL GABINETE DE TRANSPORTE, CON EL OBJETIVO DE FIJAR LAS ORIENTACIONES, PROGRAMAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398189&managementType=1) | pendiente_verificacion_pdf |
-| 329-21 | 18/05/2021 | 11021 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 343-20. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398178&managementType=1) | pendiente_verificacion_pdf |
-| 330-21 | 19/05/2021 | 11021 | QUE NOMBRA A FRANCISCO A. CARABALLO, LOURDES GISELA ANTONIA VICTORIA-KRUSE Y MANUEL MORALES LAMA, EM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398190&managementType=1) | pendiente_verificacion_pdf |
-| 331-21 | 19/05/2021 | 11021 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO, EN TERCERA CATEG... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398191&managementType=1) | pendiente_verificacion_pdf |
-| 332-21 | 19/05/2021 | 11021 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS Y ELEVA EL MONTO DE PENSIONES OTORGADAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398192&managementType=1) | pendiente_verificacion_pdf |
-| 333-21 | 19/05/2021 | 11021 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DE CRISTÓBAL COLÓN, EN EL GRADO DE CABALLERO A SIETE (7) MÉ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398193&managementType=1) | pendiente_verificacion_pdf |
-| 334-21 | 19/05/2021 | 11021 | QUE SUSPENDE POR UN PLAZO DE 60 DÍAS RENOVABLES, A LUIS MAISICHELL DICENT, ADMINISTRADOR DE LA LOTER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398209&managementType=1) | pendiente_verificacion_pdf |
-| 335-21 | 20/05/2021 | 11021 | QUE DECLARA EL 30 DE MAYO DE CADA AÑO, COMO "DIA DE LA LIBERTAD". | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398179&managementType=1) | pendiente_verificacion_pdf |
-| 336-21 | 21/05/2021 | 11021 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 510-03. DISPONE QUE LOS TERRENOS DE LA ZONA FRANCA INDUSTRIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398195&managementType=1) | pendiente_verificacion_pdf |
-| 337-21 | 22/05/2021 | 11021 | QUE NOMBRA A OSVALDO ANTONIO CANARIO MONTERO, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE DISCAPACIDA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398196&managementType=1) | pendiente_verificacion_pdf |
-| 338-21 | 22/05/2021 | 11021 | QUE DESIGNA A SORAYA VIRGINIA AGUASVIVAS NÚÑEZ Y LUCILO ANTONIO SANTOS, ASESORES DEL INSTITUTO DE DO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398197&managementType=1) | pendiente_verificacion_pdf |
-| 339-21 | 26/05/2021 | 11021 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398180&managementType=1) | pendiente_verificacion_pdf |
-| 340-21 | 26/05/2021 | 11021 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398198&managementType=1) | pendiente_verificacion_pdf |
-| 341-21 | 26/05/2021 | 11021 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398199&managementType=1) | pendiente_verificacion_pdf |
-| 342-21 | 26/05/2021 | 11021 | QUE NOMBRA A NÉSTOR BAUDILIO VILLEGAS CEDEÑO Y JONHSON ENCARNACIÓN DIAZ, ASESORES HONORÍFICOS DEL PO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398181&managementType=1) | pendiente_verificacion_pdf |
-| 343-21 | 26/05/2021 | 11021 | QUE DEROGA LOS ARTÍCULOS 7 Y 4 DE LOS DECRETOS NÚMS. 645-20 Y 318-21, QUE DESIGNARON DOS VICECÓNSULE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398200&managementType=1) | pendiente_verificacion_pdf |
-| 344-21 | 26/05/2021 | 11021 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398201&managementType=1) | pendiente_verificacion_pdf |
-| 345-21 | 26/05/2021 | 11021 | QUE PRORROGA POR 45 DÍAS A PARTIR DEL 30 DE MAYO DEL AÑO EN CURSO, EL ESTADO DE EMERGENCIA EN TODO E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398202&managementType=1) | pendiente_verificacion_pdf |
-| 346-21 | 26/05/2021 | 11021 | QUE EXTIENDE LA VIGENCIA DE LAS MEDIDAS DISPUESTAS EN EL DEC. NO. 133-21, HASTA EL 11 DE JUNIO DEL A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398203&managementType=1) | pendiente_verificacion_pdf |
-| 347-21 | 31/05/2021 | 11021 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RAFAE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398182&managementType=1) | pendiente_verificacion_pdf |
-| 348-21 | 31/05/2021 | 11021 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 601-08. CREA E INTEGRA EL CONSEJO NACIONAL PARA EL CAMBIO CL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398204&managementType=1) | pendiente_verificacion_pdf |
-| 349-21 | 31/05/2021 | 11021 | QUE MODIFICA EL DEC. NO. 346-21. ESTABLECE EL TOQUE DE QUEDA A PARTIR DEL 2 DE JUNIO HASTA EL 9 DEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398210&managementType=1) | pendiente_verificacion_pdf |
-| 350-21 | 02/06/2021 | 11023 | QUE ASCIENDE AL CORONEL JUAN PABLO FERREIRA VERAS, P.N., AL RANGO DE GENERAL DE BRIGADA DE LA POLICÍ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398265&managementType=1) | pendiente_verificacion_pdf |
-| 351-21 | 02/06/2021 | 11023 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE LOS MUNICIPIOS DE SANTIAGO DE LOS CABALLEROS, PADRE LAS CASAS, M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398270&managementType=1) | pendiente_verificacion_pdf |
-| 352-21 | 02/06/2021 | 11023 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398271&managementType=1) | pendiente_verificacion_pdf |
-| 353-21 | 02/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398272&managementType=1) | pendiente_verificacion_pdf |
-| 354-21 | 02/06/2021 | 11023 | QUE NOMBRA A TOMÁS OZUNA TAPIA, CONSULTOR TÉCNICO EN EL MINISTERIO DE ENERGÍAS Y MINAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398266&managementType=1) | pendiente_verificacion_pdf |
-| 355-21 | 02/06/2021 | 11023 | DEL 2 DE JUNIO DE 2021, QUE DESIGNA A FRANCISCO A. CARABALLO Y LOURDES GISELA ANTONIA VICTORIA-KRUSE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398273&managementType=1) | pendiente_verificacion_pdf |
-| 356-21 | 02/06/2021 | 11023 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3142 DEL 2 DE FEBRERO DE 1973, UNA PORCIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398274&managementType=1) | pendiente_verificacion_pdf |
-| 357-21 | 02/06/2021 | 11023 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, NUMERAL 3 DEL DEC. NO. 58-09, UNA PORC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398275&managementType=1) | pendiente_verificacion_pdf |
-| 358-21 | 02/06/2021 | 11023 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3852 DEL 6 DE SEPTIEMBRE DEL 1973, UNA PO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398276&managementType=1) | pendiente_verificacion_pdf |
-| 359-21 | 02/06/2021 | 11023 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JOSÉ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398277&managementType=1) | pendiente_verificacion_pdf |
-| 360-21 | 04/06/2021 | 11023 | QUE MODIFICA LOS ARTÍCULO 2, 3 Y 6 DEL DEC. NO. 260-14. TRANSFORMA LA COMISIÓN PRESIDENCIAL PARA LA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398278&managementType=1) | pendiente_verificacion_pdf |
-| 361-21 | 04/06/2021 | 11023 | QUE MODIFICA LOS ARTÍCULOS 2, 3 Y 4 DEL DEC. NO. 261-16. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398279&managementType=1) | pendiente_verificacion_pdf |
-| 362-21 | 04/06/2021 | 11023 | QUE OTORGA DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN, EN EL GRADO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398280&managementType=1) | pendiente_verificacion_pdf |
-| 363-21 | 07/06/2021 | 11023 | QUE DECLARA DE DUELO OFICIAL EL MARTES 8 DE JUNIO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398281&managementType=1) | pendiente_verificacion_pdf |
-| 364-21 | 08/06/2021 | 11023 | QUE EXTIENDE EL TOQUE DE QUEDA Y LAS MEDIDAS DISPUESTAS EN LOS ARTÍCULOS 5 AL 20 DEL DEC. NO. 349-21... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398282&managementType=1) | pendiente_verificacion_pdf |
-| 365-21 | 10/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398283&managementType=1) | pendiente_verificacion_pdf |
-| 366-21 | 10/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398284&managementType=1) | pendiente_verificacion_pdf |
-| 367-21 | 10/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398285&managementType=1) | pendiente_verificacion_pdf |
-| 368-21 | 10/06/2021 | 11023 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS VICECÓNSULES Y AUXILIARES DE CONSULADOS EN DISTINTOS PA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398286&managementType=1) | pendiente_verificacion_pdf |
-| 369-21 | 10/06/2021 | 11023 | QUE DEROGA LOS NOMBRAMIENTOS DE VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398267&managementType=1) | pendiente_verificacion_pdf |
-| 370-21 | 14/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398287&managementType=1) | pendiente_verificacion_pdf |
-| 371-21 | 14/06/2021 | 11023 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 185-09 Y EL ARTÍCULO 3 DEL DEC. NO. 351-17. NOMBRA A BERNARDO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398288&managementType=1) | pendiente_verificacion_pdf |
-| 372-21 | 14/06/2021 | 11023 | QUE NOMBRA A ENEIDA DE JESÚS LÓPEZ RODRÍGUEZ Y MARIA CARIDAD HERNÁNDEZ RODRÍGUEZ, MINISTRA CONSEJERA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398268&managementType=1) | pendiente_verificacion_pdf |
-| 373-21 | 14/06/2021 | 11023 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398289&managementType=1) | pendiente_verificacion_pdf |
-| 374-21 | 14/06/2021 | 11023 | QUE DESIGNA A FRANK HANS DANNENBERG CASTELLANOS, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCUR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398290&managementType=1) | pendiente_verificacion_pdf |
-| 375-21 | 14/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398291&managementType=1) | pendiente_verificacion_pdf |
-| 376-21 | 14/06/2021 | 11023 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA, DE LA NACIONAL ITALIANA Y CIUDADANA D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398269&managementType=1) | pendiente_verificacion_pdf |
-| 377-21 | 14/06/2021 | 11023 | QUE CREA EL PROGRAMA SUPÉRATE, EL CUAL TENDRÁ COMO OBJETIVO IMPLEMENTAR UNA ESTRATEGIA DE LUCHA INTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398292&managementType=1) | pendiente_verificacion_pdf |
-| 378-21 | 15/06/2021 | 11023 | QUE MODIFICA EL ARTÍCULO 5 DEL DEC. NO. 349-21. ESTABLECE EL TOQUE DE QUEDA DESDE EL MIÉRCOLES 16 HA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398293&managementType=1) | pendiente_verificacion_pdf |
-| 379-21 | 15/06/2021 | 11023 | DEROGA EL ARTÍCULO 4 DEL DEC. NO. 388-20 Y EL DEC. NO. 334-21. DESIGNA A TEÓFILO JOSÉ ABRAHÁN LEO TA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398294&managementType=1) | pendiente_verificacion_pdf |
-| 380-21 | 16/06/2021 | 11023 | QUE NOMBRA A WING CHIONG HO WONG, ENLACE DEL PODER EJECUTIVO CON LA COMUNIDAD DOMINICO-CHINA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398295&managementType=1) | pendiente_verificacion_pdf |
-| 381-21 | 16/06/2021 | 11023 | QUE NOMBRA A TEÓFILO JOSÉ ABRAHÁN LEO TABAR MANZUR, ADMINISTRADOR DE LA LOTERÍA NACIONAL, A TÍTULO H... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398296&managementType=1) | pendiente_verificacion_pdf |
-| 382-21 | 17/06/2021 | 11024 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3852 DEL 1973, UNA PORCIÓN DE TERRENO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398231&managementType=1) | pendiente_verificacion_pdf |
-| 383-21 | 17/06/2021 | 11024 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398232&managementType=1) | pendiente_verificacion_pdf |
-| 384-21 | 17/06/2021 | 11024 | QUE DESIGNA A FÉLIX ANTONIO REYNA ECHAVARRÍA Y LEONARDO ADAMES TEJEDA, CÓNSULES GENERALES DE LA REPÚ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398233&managementType=1) | pendiente_verificacion_pdf |
-| 385-21 | 17/06/2021 | 11024 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A NÉSTOR LUIS P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398234&managementType=1) | pendiente_verificacion_pdf |
-| 386-21 | 17/06/2021 | 11024 | QUE NOMBRA A ARMANDO PAINO HENRÍQUEZ DÁJER, DIRECTOR EJECUTIVO DEL CONSEJO DIRECTIVO DEL FIDEICOMISO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398235&managementType=1) | pendiente_verificacion_pdf |
-| 387-21 | 17/06/2021 | 11024 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO POR ANTIGÜEDAD A ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398236&managementType=1) | pendiente_verificacion_pdf |
-| 388-21 | 18/06/2021 | 11024 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 374-21, QUE DESIGNÓ A MANUEL EMILIO CELESTINO GUERRERO, EMBAJA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398228&managementType=1) | pendiente_verificacion_pdf |
-| 389-21 | 18/06/2021 | 11024 | QUE CREA LA OFICINA DE DESARROLLO DE PROYECTOS DE MOVILIDAD URBANA E INTERURBANA, BAJO DEPENDENCIA A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398237&managementType=1) | pendiente_verificacion_pdf |
-| 390-21 | 18/06/2021 | 11024 | QUE NOMBRA A JUAN ANTONIO DE LOS SANTOS VARGAS MONCIÓN, DIRECTOR EJECUTIVO DEL GABINETE PARA LA REHA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398238&managementType=1) | pendiente_verificacion_pdf |
-| 391-21 | 18/06/2021 | 11024 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA ORDINARIA A VARIOS EXTRANJEROS. MODIFICA LOS NUMERALES 17 Y... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398239&managementType=1) | pendiente_verificacion_pdf |
-| 392-21 | 18/06/2021 | 11024 | QUE NOMBRA VARIOS OFICIALES GENERALES Y SUPERIORES COMO AGREGADOS DE EMBAJADAS DE LA REPÚBLICA EN EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398240&managementType=1) | pendiente_verificacion_pdf |
-| 393-21 | 18/06/2021 | 11024 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3308 DEL 15 DE FEBRERO DEL 1978, LITERAL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398241&managementType=1) | pendiente_verificacion_pdf |
-| 394-21 | 18/06/2021 | 11024 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398242&managementType=1) | pendiente_verificacion_pdf |
-| 395-21 | 18/06/2021 | 11024 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1 DEL DEC. NO. 410-14, QUE MODIFICÓ EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398243&managementType=1) | pendiente_verificacion_pdf |
-| 396-21 | 19/06/2021 | 11024 | QUE ESTABLECE MEDIDAS PARA REGULAR EL GASTO PÚBLICO DURANTE EL RESTO DEL AÑO 2021 HASTA EL 1ERO. DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398244&managementType=1) | pendiente_verificacion_pdf |
-| 397-21 | 21/06/2021 | 11024 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, EN SU SEGUNDA CATEGORÍA, A LOS TENIENTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398245&managementType=1) | pendiente_verificacion_pdf |
-| 398-21 | 22/06/2021 | 11024 | QUE EXTIENDE HASTA EL 30 DE JUNIO DE 2021, EL TOQUE DE QUEDA DISPUESTO EN EL ARTÍCULO 5 DEL DEC. NO.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398246&managementType=1) | pendiente_verificacion_pdf |
-| 399-21 | 25/06/2021 | 11024 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, A PATRICIA PHELPS D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398247&managementType=1) | pendiente_verificacion_pdf |
-| 400-21 | 28/06/2021 | 11024 | QUE CREA E INTEGRA UNA COMISIÓN ENCARGADA DE EVALUAR LA ASIGNACIÓN DE MILITARES Y POLICÍAS QUE PREST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398248&managementType=1) | pendiente_verificacion_pdf |
-| 401-21 | 29/06/2021 | 11024 | QUE EXTIENDE HASTA EL 9 DE JULIO DE 2021, EL TOQUE DE QUEDA DISPUESTO EN EL ARTÍCULO 5 DEL DEC. NO. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398249&managementType=1) | pendiente_verificacion_pdf |
+| 301-21 | 03/05/2021 | 11019 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 267-08. DISPONE QUE LA ZONA FRANCA INDUSTRIAL DE LA ROMANA, ... | [Ver documento](decreto-301-2021.md) | normalizado · pendiente_revision |
+| 302-21 | 10/05/2021 | 11019 | QUE INTEGRA LA COMISIÓN PARA COORDINAR LA CONMEMORACIÓN DEL CENTENARIO DEL NATALICIO DEL DR. ANTONIO... | [Ver documento](decreto-302-2021.md) | normalizado · pendiente_revision |
+| 303-21 | 10/05/2021 | 11019 | QUE AUTORIZA LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO, DE ADMINISTRACIÓN, INVERSIÓN, GARANTÍA, FUEN... | [Ver documento](decreto-303-2021.md) | normalizado · pendiente_revision |
+| 304-21 | 10/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-304-2021.md) | normalizado · pendiente_revision |
+| 305-21 | 10/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-305-2021.md) | normalizado · pendiente_revision |
+| 306-21 | 10/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-306-2021.md) | normalizado · pendiente_revision |
+| 307-21 | 10/05/2021 | 11019 | QUE MODIFICA LOS ARTÍCULOS 1, 2 Y 3 DEL DEC. NO. 268-16. INTEGRA LA COMISIÓN EVALUADORA DE LOS TERRE... | [Ver documento](decreto-307-2021.md) | normalizado · pendiente_revision |
+| 308-21 | 10/05/2021 | 11019 | QUE CREA EL PROGRAMA NACIONAL PARA LA INTERVENCIÓN Y ESTABLECIMIENTO DE NUEVOS MUSEOS, ADSCRITO AL M... | [Ver documento](decreto-308-2021.md) | normalizado · pendiente_revision |
+| 309-21 | 10/05/2021 | 11019 | QUE ELEVA EL MONTO DE LAS PENSIONES CONCEDIDAS POR EL ESTADO DOMINICANO A FERNANDO ARTURO ORTIZ BOSC... | [Ver documento](decreto-309-2021.md) | normalizado · pendiente_revision |
+| 310-21 | 10/05/2021 | 11019 | QUE DESIGNA A CRISTINA MARGARITA AMIAMA ESPAILLAT, DIRECTORA TÉCNICA DEL CONSEJO NACIONAL DE DISCAPA... | [Ver documento](decreto-310-2021.md) | normalizado · pendiente_revision |
+| 311-21 | 10/05/2021 | 11019 | QUE NOMBRA A OSVALDO ANTONIO CANARIO MORENO, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE DISCAPACIDAD... | [Ver documento](decreto-311-2021.md) | normalizado · pendiente_revision |
+| 312-21 | 10/05/2021 | 11019 | QUE DESIGNA A JORGE WILLIAN HERNÁNDEZ DÍAZ, PRESIDENTE DEL CONSEJO DIRECTIVO DEL CENTRO DE ATENCIÓN ... | [Ver documento](decreto-312-2021.md) | normalizado · pendiente_revision |
+| 313-21 | 13/05/2021 | 11019 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA ... | [Ver documento](decreto-313-2021.md) | normalizado · pendiente_revision |
+| 314-21 | 13/05/2021 | 11019 | QUE NOMBRA A JOSÉ ALFONSO BLANCO CONDE, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, DE... | [Ver documento](decreto-314-2021.md) | normalizado · pendiente_revision |
+| 315-21 | 13/05/2021 | 11019 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-315-2021.md) | normalizado · pendiente_revision |
+| 316-21 | 13/05/2021 | 11019 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 236-15, QUE DESIGNÓ A YOMARYS ALTAGRACIA SALDAÑA PAYANO, COMO ... | [Ver documento](decreto-316-2021.md) | normalizado · pendiente_revision |
+| 317-21 | 13/05/2021 | 11019 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, LITERAL A) DEL DEC. NO. 555-08, LA PAR... | [Ver documento](decreto-317-2021.md) | normalizado · pendiente_revision |
+| 319-21 | 13/05/2021 | 11019 | QUE MANTIENE VIGENTES TODAS LAS MEDIDAS DISPUESTAS EN EL DEC. NO. 133-21. ESTABLECE EL TOQUE DE QUED... | [Ver documento](decreto-319-2021.md) | normalizado · pendiente_revision |
+| 320-21 | 13/05/2021 | 11019 | QUE APRUEBA EL REGLAMENTO DE LA LEY NO. 225-20, GENERAL DE GESTIÓN INTEGRAL Y COPROCESAMIENTO DE RES... | [Ver documento](decreto-320-2021.md) | normalizado · pendiente_revision |
+| 321-21 | 14/05/2021 | 11021 | QUE DEROGA EL ARTÍCULO 52 DEL DEC. NO. 339-20. | [Ver documento](decreto-321-2021.md) | normalizado · pendiente_revision |
+| 322-21 | 14/05/2021 | 11021 | QUE CREA E INTEGRA EL COMITÉ PARA LA PRESERVACIÓN DE LA CIUDAD COLONIAL DE SANTO DOMINGO. DEROGA LOS... | [Ver documento](decreto-322-2021.md) | normalizado · pendiente_revision |
+| 323-21 | 14/05/2021 | 11021 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1 DEL DEC. NO. 302-18, UNA PORCIÓN DE TER... | [Ver documento](decreto-323-2021.md) | normalizado · pendiente_revision |
+| 324-21 | 14/05/2021 | 11021 | QUE DEROGA EL NUMERAL 4 DEL ARTÍCULO 1 DEL DEC. NO. 83-14, Y SU MODIFICACIÓN MEDIANTE EL ARTÍCULO 4 ... | [Ver documento](decreto-324-2021.md) | normalizado · pendiente_revision |
+| 325-21 | 17/05/2021 | 11021 | QUE CREA EL FONDO DE ASISTENCIA PARA LOS TRABAJADORES DEL SECTOR TURISMO, HABILITADO PARA LOS MESES ... | [Ver documento](decreto-325-2021.md) | normalizado · pendiente_revision |
+| 326-21 | 18/05/2021 | 11021 | QUE ESTABLECE UNA VEDA EN TODO EL TERRITORIO NACIONAL PARA LA CAPTURA DE VARIAS ESPECIES MARINAS. | [Ver documento](decreto-326-2021.md) | normalizado · pendiente_revision |
+| 327-21 | 18/05/2021 | 11021 | QUE DECLARA DE DUELO OFICIAL EL DÍA 19 DE MAYO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DE PED... | [Ver documento](decreto-327-2021.md) | normalizado · pendiente_revision |
+| 328-21 | 18/05/2021 | 11021 | QUE CREA E INTEGRA EL GABINETE DE TRANSPORTE, CON EL OBJETIVO DE FIJAR LAS ORIENTACIONES, PROGRAMAS ... | [Ver documento](decreto-328-2021.md) | normalizado · pendiente_revision |
+| 329-21 | 18/05/2021 | 11021 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 343-20. | [Ver documento](decreto-329-2021.md) | normalizado · pendiente_revision |
+| 330-21 | 19/05/2021 | 11021 | QUE NOMBRA A FRANCISCO A. CARABALLO, LOURDES GISELA ANTONIA VICTORIA-KRUSE Y MANUEL MORALES LAMA, EM... | [Ver documento](decreto-330-2021.md) | normalizado · pendiente_revision |
+| 331-21 | 19/05/2021 | 11021 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, CON DISTINTIVO BLANCO, EN TERCERA CATEG... | [Ver documento](decreto-331-2021.md) | normalizado · pendiente_revision |
+| 332-21 | 19/05/2021 | 11021 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS Y ELEVA EL MONTO DE PENSIONES OTORGADAS ... | [Ver documento](decreto-332-2021.md) | normalizado · pendiente_revision |
+| 333-21 | 19/05/2021 | 11021 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DE CRISTÓBAL COLÓN, EN EL GRADO DE CABALLERO A SIETE (7) MÉ... | [Ver documento](decreto-333-2021.md) | normalizado · pendiente_revision |
+| 334-21 | 19/05/2021 | 11021 | QUE SUSPENDE POR UN PLAZO DE 60 DÍAS RENOVABLES, A LUIS MAISICHELL DICENT, ADMINISTRADOR DE LA LOTER... | [Ver documento](decreto-334-2021.md) | normalizado · pendiente_revision |
+| 335-21 | 20/05/2021 | 11021 | QUE DECLARA EL 30 DE MAYO DE CADA AÑO, COMO "DIA DE LA LIBERTAD". | [Ver documento](decreto-335-2021.md) | normalizado · pendiente_revision |
+| 336-21 | 21/05/2021 | 11021 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 510-03. DISPONE QUE LOS TERRENOS DE LA ZONA FRANCA INDUSTRIA... | [Ver documento](decreto-336-2021.md) | normalizado · pendiente_revision |
+| 337-21 | 22/05/2021 | 11021 | QUE NOMBRA A OSVALDO ANTONIO CANARIO MONTERO, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE DISCAPACIDA... | [Ver documento](decreto-337-2021.md) | normalizado · pendiente_revision |
+| 338-21 | 22/05/2021 | 11021 | QUE DESIGNA A SORAYA VIRGINIA AGUASVIVAS NÚÑEZ Y LUCILO ANTONIO SANTOS, ASESORES DEL INSTITUTO DE DO... | [Ver documento](decreto-338-2021.md) | normalizado · pendiente_revision |
+| 339-21 | 26/05/2021 | 11021 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-339-2021.md) | normalizado · pendiente_revision |
+| 340-21 | 26/05/2021 | 11021 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-340-2021.md) | normalizado · pendiente_revision |
+| 341-21 | 26/05/2021 | 11021 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-341-2021.md) | normalizado · pendiente_revision |
+| 342-21 | 26/05/2021 | 11021 | QUE NOMBRA A NÉSTOR BAUDILIO VILLEGAS CEDEÑO Y JONHSON ENCARNACIÓN DIAZ, ASESORES HONORÍFICOS DEL PO... | [Ver documento](decreto-342-2021.md) | normalizado · pendiente_revision |
+| 343-21 | 26/05/2021 | 11021 | QUE DEROGA LOS ARTÍCULOS 7 Y 4 DE LOS DECRETOS NÚMS. 645-20 Y 318-21, QUE DESIGNARON DOS VICECÓNSULE... | [Ver documento](decreto-343-2021.md) | normalizado · pendiente_revision |
+| 344-21 | 26/05/2021 | 11021 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-344-2021.md) | normalizado · pendiente_revision |
+| 345-21 | 26/05/2021 | 11021 | QUE PRORROGA POR 45 DÍAS A PARTIR DEL 30 DE MAYO DEL AÑO EN CURSO, EL ESTADO DE EMERGENCIA EN TODO E... | [Ver documento](decreto-345-2021.md) | normalizado · pendiente_revision |
+| 346-21 | 26/05/2021 | 11021 | QUE EXTIENDE LA VIGENCIA DE LAS MEDIDAS DISPUESTAS EN EL DEC. NO. 133-21, HASTA EL 11 DE JUNIO DEL A... | [Ver documento](decreto-346-2021.md) | normalizado · pendiente_revision |
+| 347-21 | 31/05/2021 | 11021 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RAFAE... | [Ver documento](decreto-347-2021.md) | normalizado · pendiente_revision |
+| 348-21 | 31/05/2021 | 11021 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 601-08. CREA E INTEGRA EL CONSEJO NACIONAL PARA EL CAMBIO CL... | [Ver documento](decreto-348-2021.md) | normalizado · pendiente_revision |
+| 349-21 | 31/05/2021 | 11021 | QUE MODIFICA EL DEC. NO. 346-21. ESTABLECE EL TOQUE DE QUEDA A PARTIR DEL 2 DE JUNIO HASTA EL 9 DEL ... | [Ver documento](decreto-349-2021.md) | normalizado · pendiente_revision |
+| 350-21 | 02/06/2021 | 11023 | QUE ASCIENDE AL CORONEL JUAN PABLO FERREIRA VERAS, P.N., AL RANGO DE GENERAL DE BRIGADA DE LA POLICÍ... | [Ver documento](decreto-350-2021.md) | normalizado · pendiente_revision |
+| 351-21 | 02/06/2021 | 11023 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE LOS MUNICIPIOS DE SANTIAGO DE LOS CABALLEROS, PADRE LAS CASAS, M... | [Ver documento](decreto-351-2021.md) | normalizado · pendiente_revision |
+| 352-21 | 02/06/2021 | 11023 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-352-2021.md) | normalizado · pendiente_revision |
+| 353-21 | 02/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-353-2021.md) | normalizado · pendiente_revision |
+| 354-21 | 02/06/2021 | 11023 | QUE NOMBRA A TOMÁS OZUNA TAPIA, CONSULTOR TÉCNICO EN EL MINISTERIO DE ENERGÍAS Y MINAS. | [Ver documento](decreto-354-2021.md) | normalizado · pendiente_revision |
+| 355-21 | 02/06/2021 | 11023 | DEL 2 DE JUNIO DE 2021, QUE DESIGNA A FRANCISCO A. CARABALLO Y LOURDES GISELA ANTONIA VICTORIA-KRUSE... | [Ver documento](decreto-355-2021.md) | normalizado · pendiente_revision |
+| 356-21 | 02/06/2021 | 11023 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3142 DEL 2 DE FEBRERO DE 1973, UNA PORCIÓ... | [Ver documento](decreto-356-2021.md) | normalizado · pendiente_revision |
+| 357-21 | 02/06/2021 | 11023 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, NUMERAL 3 DEL DEC. NO. 58-09, UNA PORC... | [Ver documento](decreto-357-2021.md) | normalizado · pendiente_revision |
+| 358-21 | 02/06/2021 | 11023 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3852 DEL 6 DE SEPTIEMBRE DEL 1973, UNA PO... | [Ver documento](decreto-358-2021.md) | normalizado · pendiente_revision |
+| 359-21 | 02/06/2021 | 11023 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JOSÉ ... | [Ver documento](decreto-359-2021.md) | normalizado · pendiente_revision |
+| 360-21 | 04/06/2021 | 11023 | QUE MODIFICA LOS ARTÍCULO 2, 3 Y 6 DEL DEC. NO. 260-14. TRANSFORMA LA COMISIÓN PRESIDENCIAL PARA LA ... | [Ver documento](decreto-360-2021.md) | normalizado · pendiente_revision |
+| 361-21 | 04/06/2021 | 11023 | QUE MODIFICA LOS ARTÍCULOS 2, 3 Y 4 DEL DEC. NO. 261-16. | [Ver documento](decreto-361-2021.md) | normalizado · pendiente_revision |
+| 362-21 | 04/06/2021 | 11023 | QUE OTORGA DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN, EN EL GRADO ... | [Ver documento](decreto-362-2021.md) | normalizado · pendiente_revision |
+| 363-21 | 07/06/2021 | 11023 | QUE DECLARA DE DUELO OFICIAL EL MARTES 8 DE JUNIO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DE ... | [Ver documento](decreto-363-2021.md) | normalizado · pendiente_revision |
+| 364-21 | 08/06/2021 | 11023 | QUE EXTIENDE EL TOQUE DE QUEDA Y LAS MEDIDAS DISPUESTAS EN LOS ARTÍCULOS 5 AL 20 DEL DEC. NO. 349-21... | [Ver documento](decreto-364-2021.md) | normalizado · pendiente_revision |
+| 365-21 | 10/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-365-2021.md) | normalizado · pendiente_revision |
+| 366-21 | 10/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-366-2021.md) | normalizado · pendiente_revision |
+| 367-21 | 10/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-367-2021.md) | normalizado · pendiente_revision |
+| 368-21 | 10/06/2021 | 11023 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS VICECÓNSULES Y AUXILIARES DE CONSULADOS EN DISTINTOS PA... | [Ver documento](decreto-368-2021.md) | normalizado · pendiente_revision |
+| 369-21 | 10/06/2021 | 11023 | QUE DEROGA LOS NOMBRAMIENTOS DE VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIO... | [Ver documento](decreto-369-2021.md) | normalizado · pendiente_revision |
+| 370-21 | 14/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-370-2021.md) | normalizado · pendiente_revision |
+| 371-21 | 14/06/2021 | 11023 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 185-09 Y EL ARTÍCULO 3 DEL DEC. NO. 351-17. NOMBRA A BERNARDO ... | [Ver documento](decreto-371-2021.md) | normalizado · pendiente_revision |
+| 372-21 | 14/06/2021 | 11023 | QUE NOMBRA A ENEIDA DE JESÚS LÓPEZ RODRÍGUEZ Y MARIA CARIDAD HERNÁNDEZ RODRÍGUEZ, MINISTRA CONSEJERA... | [Ver documento](decreto-372-2021.md) | normalizado · pendiente_revision |
+| 373-21 | 14/06/2021 | 11023 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-373-2021.md) | normalizado · pendiente_revision |
+| 374-21 | 14/06/2021 | 11023 | QUE DESIGNA A FRANK HANS DANNENBERG CASTELLANOS, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCUR... | [Ver documento](decreto-374-2021.md) | normalizado · pendiente_revision |
+| 375-21 | 14/06/2021 | 11023 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-375-2021.md) | normalizado · pendiente_revision |
+| 376-21 | 14/06/2021 | 11023 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA, DE LA NACIONAL ITALIANA Y CIUDADANA D... | [Ver documento](decreto-376-2021.md) | normalizado · pendiente_revision |
+| 377-21 | 14/06/2021 | 11023 | QUE CREA EL PROGRAMA SUPÉRATE, EL CUAL TENDRÁ COMO OBJETIVO IMPLEMENTAR UNA ESTRATEGIA DE LUCHA INTE... | [Ver documento](decreto-377-2021.md) | normalizado · pendiente_revision |
+| 378-21 | 15/06/2021 | 11023 | QUE MODIFICA EL ARTÍCULO 5 DEL DEC. NO. 349-21. ESTABLECE EL TOQUE DE QUEDA DESDE EL MIÉRCOLES 16 HA... | [Ver documento](decreto-378-2021.md) | normalizado · pendiente_revision |
+| 379-21 | 15/06/2021 | 11023 | DEROGA EL ARTÍCULO 4 DEL DEC. NO. 388-20 Y EL DEC. NO. 334-21. DESIGNA A TEÓFILO JOSÉ ABRAHÁN LEO TA... | [Ver documento](decreto-379-2021.md) | normalizado · pendiente_revision |
+| 380-21 | 16/06/2021 | 11023 | QUE NOMBRA A WING CHIONG HO WONG, ENLACE DEL PODER EJECUTIVO CON LA COMUNIDAD DOMINICO-CHINA. | [Ver documento](decreto-380-2021.md) | normalizado · pendiente_revision |
+| 381-21 | 16/06/2021 | 11023 | QUE NOMBRA A TEÓFILO JOSÉ ABRAHÁN LEO TABAR MANZUR, ADMINISTRADOR DE LA LOTERÍA NACIONAL, A TÍTULO H... | [Ver documento](decreto-381-2021.md) | normalizado · pendiente_revision |
+| 382-21 | 17/06/2021 | 11024 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3852 DEL 1973, UNA PORCIÓN DE TERRENO DE ... | [Ver documento](decreto-382-2021.md) | normalizado · pendiente_revision |
+| 383-21 | 17/06/2021 | 11024 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-383-2021.md) | normalizado · pendiente_revision |
+| 384-21 | 17/06/2021 | 11024 | QUE DESIGNA A FÉLIX ANTONIO REYNA ECHAVARRÍA Y LEONARDO ADAMES TEJEDA, CÓNSULES GENERALES DE LA REPÚ... | [Ver documento](decreto-384-2021.md) | normalizado · pendiente_revision |
+| 385-21 | 17/06/2021 | 11024 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A NÉSTOR LUIS P... | [Ver documento](decreto-385-2021.md) | normalizado · pendiente_revision |
+| 386-21 | 17/06/2021 | 11024 | QUE NOMBRA A ARMANDO PAINO HENRÍQUEZ DÁJER, DIRECTOR EJECUTIVO DEL CONSEJO DIRECTIVO DEL FIDEICOMISO... | [Ver documento](decreto-386-2021.md) | normalizado · pendiente_revision |
+| 387-21 | 17/06/2021 | 11024 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO POR ANTIGÜEDAD A ... | [Ver documento](decreto-387-2021.md) | normalizado · pendiente_revision |
+| 388-21 | 18/06/2021 | 11024 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 374-21, QUE DESIGNÓ A MANUEL EMILIO CELESTINO GUERRERO, EMBAJA... | [Ver documento](decreto-388-2021.md) | normalizado · pendiente_revision |
+| 389-21 | 18/06/2021 | 11024 | QUE CREA LA OFICINA DE DESARROLLO DE PROYECTOS DE MOVILIDAD URBANA E INTERURBANA, BAJO DEPENDENCIA A... | [Ver documento](decreto-389-2021.md) | normalizado · pendiente_revision |
+| 390-21 | 18/06/2021 | 11024 | QUE NOMBRA A JUAN ANTONIO DE LOS SANTOS VARGAS MONCIÓN, DIRECTOR EJECUTIVO DEL GABINETE PARA LA REHA... | [Ver documento](decreto-390-2021.md) | normalizado · pendiente_revision |
+| 391-21 | 18/06/2021 | 11024 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA ORDINARIA A VARIOS EXTRANJEROS. MODIFICA LOS NUMERALES 17 Y... | [Ver documento](decreto-391-2021.md) | normalizado · pendiente_revision |
+| 392-21 | 18/06/2021 | 11024 | QUE NOMBRA VARIOS OFICIALES GENERALES Y SUPERIORES COMO AGREGADOS DE EMBAJADAS DE LA REPÚBLICA EN EL... | [Ver documento](decreto-392-2021.md) | normalizado · pendiente_revision |
+| 393-21 | 18/06/2021 | 11024 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 3308 DEL 15 DE FEBRERO DEL 1978, LITERAL ... | [Ver documento](decreto-393-2021.md) | normalizado · pendiente_revision |
+| 394-21 | 18/06/2021 | 11024 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-394-2021.md) | normalizado · pendiente_revision |
+| 395-21 | 18/06/2021 | 11024 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1 DEL DEC. NO. 410-14, QUE MODIFICÓ EL... | [Ver documento](decreto-395-2021.md) | normalizado · pendiente_revision |
+| 396-21 | 19/06/2021 | 11024 | QUE ESTABLECE MEDIDAS PARA REGULAR EL GASTO PÚBLICO DURANTE EL RESTO DEL AÑO 2021 HASTA EL 1ERO. DE ... | [Ver documento](decreto-396-2021.md) | normalizado · pendiente_revision |
+| 397-21 | 21/06/2021 | 11024 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, EN SU SEGUNDA CATEGORÍA, A LOS TENIENTE... | [Ver documento](decreto-397-2021.md) | normalizado · pendiente_revision |
+| 398-21 | 22/06/2021 | 11024 | QUE EXTIENDE HASTA EL 30 DE JUNIO DE 2021, EL TOQUE DE QUEDA DISPUESTO EN EL ARTÍCULO 5 DEL DEC. NO.... | [Ver documento](decreto-398-2021.md) | normalizado · pendiente_revision |
+| 399-21 | 25/06/2021 | 11024 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, A PATRICIA PHELPS D... | [Ver documento](decreto-399-2021.md) | normalizado · pendiente_revision |
+| 400-21 | 28/06/2021 | 11024 | QUE CREA E INTEGRA UNA COMISIÓN ENCARGADA DE EVALUAR LA ASIGNACIÓN DE MILITARES Y POLICÍAS QUE PREST... | [Ver documento](decreto-400-2021.md) | normalizado · pendiente_revision |
+| 401-21 | 29/06/2021 | 11024 | QUE EXTIENDE HASTA EL 9 DE JULIO DE 2021, EL TOQUE DE QUEDA DISPUESTO EN EL ARTÍCULO 5 DEL DEC. NO. ... | [Ver documento](decreto-401-2021.md) | normalizado · pendiente_revision |
 | 402-21 | 01/07/2021 | 11025 | QUE NOMBRA VARIOS FUNCIONARIOS DIPLOMÁTICOS ADSCRITOS AL MINISTERIO DE RELACIONES EXTERIORES. DESIGN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398255&managementType=1) | pendiente_verificacion_pdf |
 | 403-21 | 02/07/2021 | 11025 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE VARIOS FUNCIONARIOS DIPLOMÁTICOS EN EL EXTERIOR Y EN EL MINISTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398256&managementType=1) | pendiente_verificacion_pdf |
 | 404-21 | 02/07/2021 | 11025 | QUE DEROGA VARIOS ARTÍCULOS DE LOS DECRETOS NOS. 125-21, 261-21 Y 272-21. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398257&managementType=1) | pendiente_verificacion_pdf |
