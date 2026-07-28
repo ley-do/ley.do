@@ -237,13 +237,38 @@ Documentos detectados: **406**.
 - [Decreto núm. 226-2026](decreto-226-2026.md)
 - [Decreto núm. 227-2026](decreto-227-2026.md)
 - [Decreto núm. 228-2026](decreto-228-2026.md)
+- [Decreto núm. 229-2026](decreto-229-2026.md)
+- [Decreto núm. 230-2026](decreto-230-2026.md)
+- [Decreto núm. 231-2026](decreto-231-2026.md)
+- [Decreto núm. 232-2026](decreto-232-2026.md)
+- [Decreto núm. 233-2026](decreto-233-2026.md)
 - [Decreto núm. 234-2026](decreto-234-2026.md)
+- [Decreto núm. 235-2026](decreto-235-2026.md)
 - [Decreto núm. 236-2026](decreto-236-2026.md)
+- [Decreto núm. 237-2026](decreto-237-2026.md)
+- [Decreto núm. 238-2026](decreto-238-2026.md)
+- [Decreto núm. 239-2026](decreto-239-2026.md)
 - [Decreto núm. 240-2026](decreto-240-2026.md)
 - [Decreto núm. 241-2026](decreto-241-2026.md)
 - [Decreto núm. 242-2026](decreto-242-2026.md)
 - [Decreto núm. 243-2026](decreto-243-2026.md)
+- [Decreto núm. 244-2026](decreto-244-2026.md)
 - [Decreto núm. 245-2026](decreto-245-2026.md)
+- [Decreto núm. 246-2026](decreto-246-2026.md)
+- [Decreto núm. 247-2026](decreto-247-2026.md)
+- [Decreto núm. 248-2026](decreto-248-2026.md)
+- [Decreto núm. 249-2026](decreto-249-2026.md)
+- [Decreto núm. 250-2026](decreto-250-2026.md)
+- [Decreto núm. 251-2026](decreto-251-2026.md)
+- [Decreto núm. 252-2026](decreto-252-2026.md)
+- [Decreto núm. 253-2026](decreto-253-2026.md)
+- [Decreto núm. 254-2026](decreto-254-2026.md)
+- [Decreto núm. 255-2026](decreto-255-2026.md)
+- [Decreto núm. 256-2026](decreto-256-2026.md)
+- [Decreto núm. 257-2026](decreto-257-2026.md)
+- [Decreto núm. 258-2026](decreto-258-2026.md)
+- [Decreto núm. 259-2026](decreto-259-2026.md)
+- [Decreto núm. 260-2026](decreto-260-2026.md)
 - [Decreto núm. 285-2026](decreto-285-2026.md)
 - [Decreto núm. 298-2026](decreto-298-2026.md)
 - [Decreto núm. 309-2026](decreto-309-2026.md)
@@ -487,38 +512,38 @@ Documentos detectados: **406**.
 | 226-26 | 08/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-226-2026.md) | normalizado · pendiente_revision |
 | 227-26 | 08/04/2026 | 11237 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 28 PERSONAS. | [Ver documento](decreto-227-2026.md) | normalizado · pendiente_revision |
 | 228-26 | 08/04/2026 | 11237 | QUE AUTORIZA AL AYUNTAMIENTO DEL DISTRITO NACIONAL A DONAR A FAVOR DEL ESTADO DOMINICANO, LA PARCELA... | [Ver documento](decreto-228-2026.md) | normalizado · pendiente_revision |
-| 229-26 | 10/04/2026 | 11237 | QUE DEROGA EL ARTÍCULO 11 DEL DECRETO NÚM. 339-22 Y EL ARTÍCULO 9 DEL DECRETO NÚM. 28-25. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404667&managementType=1) | pendiente_verificacion_pdf |
-| 230-26 | 10/04/2026 | 11237 | QUE DESIGNA SEIS (6) VICECÓNSULES Y CUATRO (4) AUXILIARES CONSULARES EN LOS CONSULADOS DE NUESTRO PA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404668&managementType=1) | pendiente_verificacion_pdf |
-| 231-26 | 10/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN LA PROVINCIA ESPAIL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404669&managementType=1) | pendiente_verificacion_pdf |
-| 232-26 | 10/04/2026 | 11237 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 21 PERSONAS. MODIFIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404670&managementType=1) | pendiente_verificacion_pdf |
-| 233-26 | 10/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A 247 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404671&managementType=1) | pendiente_verificacion_pdf |
-| 237-26 | 10/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404672&managementType=1) | pendiente_verificacion_pdf |
+| 229-26 | 10/04/2026 | 11237 | QUE DEROGA EL ARTÍCULO 11 DEL DECRETO NÚM. 339-22 Y EL ARTÍCULO 9 DEL DECRETO NÚM. 28-25. | [Ver documento](decreto-229-2026.md) | normalizado · pendiente_revision |
+| 230-26 | 10/04/2026 | 11237 | QUE DESIGNA SEIS (6) VICECÓNSULES Y CUATRO (4) AUXILIARES CONSULARES EN LOS CONSULADOS DE NUESTRO PA... | [Ver documento](decreto-230-2026.md) | normalizado · pendiente_revision |
+| 231-26 | 10/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN LA PROVINCIA ESPAIL... | [Ver documento](decreto-231-2026.md) | normalizado · pendiente_revision |
+| 232-26 | 10/04/2026 | 11237 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A 21 PERSONAS. MODIFIC... | [Ver documento](decreto-232-2026.md) | normalizado · pendiente_revision |
+| 233-26 | 10/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A 247 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-233-2026.md) | normalizado · pendiente_revision |
+| 237-26 | 10/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-237-2026.md) | normalizado · pendiente_revision |
 | 234-26 | 12/04/2026 | 11237 | QUE DECLARA LA SITUACIÓN PREVISTA EN EL ARTÍCULO 23 DE LA LEY NÚM. 147-02, SOBRE GESTIÓN DE RIESGOS,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404655&managementType=1) | pendiente_verificacion_pdf |
-| 235-26 | 13/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN LAS PROVINCIAS MONS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404656&managementType=1) | pendiente_verificacion_pdf |
+| 235-26 | 13/04/2026 | 11237 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS EN LAS PROVINCIAS MONS... | [Ver documento](decreto-235-2026.md) | normalizado · pendiente_revision |
 | 236-26 | 13/04/2026 | 11237 | QUE CREA E INTEGRA LA COMISIÓN PARA LA COORDINACIÓN Y DIRECCIÓN DEL PLAN PARA EL DESARROLLO ECONÓMIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404657&managementType=1) | pendiente_verificacion_pdf |
-| 238-26 | 13/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404673&managementType=1) | pendiente_verificacion_pdf |
-| 239-26 | 13/04/2026 | 11237 | QUE DECLARA DE EMERGENCIA LAS CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS NECESARIAS PARA LA EJECUCI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404658&managementType=1) | pendiente_verificacion_pdf |
+| 238-26 | 13/04/2026 | 11237 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-238-2026.md) | normalizado · pendiente_revision |
+| 239-26 | 13/04/2026 | 11237 | QUE DECLARA DE EMERGENCIA LAS CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS NECESARIAS PARA LA EJECUCI... | [Ver documento](decreto-239-2026.md) | normalizado · pendiente_revision |
 | 240-26 | 14/04/2026 | 11237 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO FRANK... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404674&managementType=1) | pendiente_verificacion_pdf |
 | 241-26 | 14/04/2026 | 11237 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO CARLO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404675&managementType=1) | pendiente_verificacion_pdf |
 | 242-26 | 14/04/2026 | 11237 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO RUDDY... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404676&managementType=1) | pendiente_verificacion_pdf |
 | 243-26 | 14/04/2026 | 11237 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO MIGUE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404659&managementType=1) | pendiente_verificacion_pdf |
-| 244-26 | 14/04/2026 | 11237 | QUE DECLARA LA SITUACIÓN PREVISTA EN EL ARTÍCULO 23 DE LA LEY NÚM. 147-02, SOBRE GESTIÓN DE RIESGOS,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404677&managementType=1) | pendiente_verificacion_pdf |
+| 244-26 | 14/04/2026 | 11237 | QUE DECLARA LA SITUACIÓN PREVISTA EN EL ARTÍCULO 23 DE LA LEY NÚM. 147-02, SOBRE GESTIÓN DE RIESGOS,... | [Ver documento](decreto-244-2026.md) | normalizado · pendiente_revision |
 | 245-26 | 15/04/2026 | 11237 | QUE CREA E INTEGRA LA COMISIÓN PARA LA CONMEMORACIÓN DEL SESQUICENTENARIO DEL FALLECIMIENTO DE JUAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404678&managementType=1) | pendiente_verificacion_pdf |
-| 246-26 | 15/04/2026 | 11237 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 240-24. CREA LA OFICINA NACIONAL DE APOYO A LA REFORMA P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404660&managementType=1) | pendiente_verificacion_pdf |
-| 247-26 | 15/04/2026 | 11237 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR ARTURO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404679&managementType=1) | pendiente_verificacion_pdf |
-| 248-26 | 15/04/2026 | 11237 | QUE MODIFICA EL PÁRRAFO DEL ARTÍCULO 1 DEL DECRETO NÚM. 191-21, EN LA REDACCIÓN DADA POR EL DECRETO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404680&managementType=1) | pendiente_verificacion_pdf |
-| 249-26 | 15/04/2026 | 11237 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE ITALIA, DEL NACIONAL ITALIANO LORIS DI CASTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404681&managementType=1) | pendiente_verificacion_pdf |
-| 250-26 | 15/04/2026 | 11237 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO, A 26 EMPLEADOS D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404682&managementType=1) | pendiente_verificacion_pdf |
-| 251-26 | 16/04/2026 | 11238 | QUE DESIGNA AL SEÑOR CARLOS CASTRO GIL, AUXILIAR CONSULAR DE NUESTRO PAÍS EN FILADELFIA, PENSILVANIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404687&managementType=1) | pendiente_verificacion_pdf |
-| 252-26 | 17/04/2026 | 11238 | QUE MODIFICA EL NUMERAL 3 DEL ARTÍCULO 1 DEL DECRETO NÚM. 29-19 Y EL NUMERAL 1 DEL ARTÍCULO 1 DEL DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404688&managementType=1) | pendiente_verificacion_pdf |
-| 253-26 | 17/04/2026 | 11238 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO, A 19 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404696&managementType=1) | pendiente_verificacion_pdf |
-| 254-26 | 17/04/2026 | 11238 | QUE MODIFICA EL ARTÍCULO 5 DEL DECRETO NÚM. 352-03, EL ARTÍCULO 22 DEL DECRETO NÚM. 828-02, EL ARTÍC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404689&managementType=1) | pendiente_verificacion_pdf |
-| 255-26 | 17/04/2026 | 11238 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A VENDER A DIFERENTES PERSONAS VARIAS POR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404690&managementType=1) | pendiente_verificacion_pdf |
-| 256-26 | 17/04/2026 | 11238 | QUE DECLARA DE EMERGENCIA LAS CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS NECESARIAS PARA LA EJECUCI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404691&managementType=1) | pendiente_verificacion_pdf |
-| 257-26 | 17/04/2026 | 11238 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 82-26. ESTABLECE LAS INSTITUCIONES AUTORIZADAS A REALIZA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404692&managementType=1) | pendiente_verificacion_pdf |
-| 258-26 | 17/04/2026 | 11238 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404693&managementType=1) | pendiente_verificacion_pdf |
-| 259-26 | 17/04/2026 | 11238 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 6,366.51 MT2, PARA SER DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404697&managementType=1) | pendiente_verificacion_pdf |
-| 260-26 | 17/04/2026 | 11238 | QUE INSTRUYE A LA INDUSTRIA MILITAR DOMINICANA, S.A., A TRAVÉS DE SU CONSEJO DE ADMINISTRACIÓN, A EL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404698&managementType=1) | pendiente_verificacion_pdf |
+| 246-26 | 15/04/2026 | 11237 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 240-24. CREA LA OFICINA NACIONAL DE APOYO A LA REFORMA P... | [Ver documento](decreto-246-2026.md) | normalizado · pendiente_revision |
+| 247-26 | 15/04/2026 | 11237 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR ARTURO DE ... | [Ver documento](decreto-247-2026.md) | normalizado · pendiente_revision |
+| 248-26 | 15/04/2026 | 11237 | QUE MODIFICA EL PÁRRAFO DEL ARTÍCULO 1 DEL DECRETO NÚM. 191-21, EN LA REDACCIÓN DADA POR EL DECRETO ... | [Ver documento](decreto-248-2026.md) | normalizado · pendiente_revision |
+| 249-26 | 15/04/2026 | 11237 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE ITALIA, DEL NACIONAL ITALIANO LORIS DI CASTR... | [Ver documento](decreto-249-2026.md) | normalizado · pendiente_revision |
+| 250-26 | 15/04/2026 | 11237 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO, A 26 EMPLEADOS D... | [Ver documento](decreto-250-2026.md) | normalizado · pendiente_revision |
+| 251-26 | 16/04/2026 | 11238 | QUE DESIGNA AL SEÑOR CARLOS CASTRO GIL, AUXILIAR CONSULAR DE NUESTRO PAÍS EN FILADELFIA, PENSILVANIA... | [Ver documento](decreto-251-2026.md) | normalizado · pendiente_revision |
+| 252-26 | 17/04/2026 | 11238 | QUE MODIFICA EL NUMERAL 3 DEL ARTÍCULO 1 DEL DECRETO NÚM. 29-19 Y EL NUMERAL 1 DEL ARTÍCULO 1 DEL DE... | [Ver documento](decreto-252-2026.md) | normalizado · pendiente_revision |
+| 253-26 | 17/04/2026 | 11238 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO, A 19 PERSONAS. | [Ver documento](decreto-253-2026.md) | normalizado · pendiente_revision |
+| 254-26 | 17/04/2026 | 11238 | QUE MODIFICA EL ARTÍCULO 5 DEL DECRETO NÚM. 352-03, EL ARTÍCULO 22 DEL DECRETO NÚM. 828-02, EL ARTÍC... | [Ver documento](decreto-254-2026.md) | normalizado · pendiente_revision |
+| 255-26 | 17/04/2026 | 11238 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A VENDER A DIFERENTES PERSONAS VARIAS POR... | [Ver documento](decreto-255-2026.md) | normalizado · pendiente_revision |
+| 256-26 | 17/04/2026 | 11238 | QUE DECLARA DE EMERGENCIA LAS CONTRATACIONES DE BIENES, SERVICIOS Y OBRAS NECESARIAS PARA LA EJECUCI... | [Ver documento](decreto-256-2026.md) | normalizado · pendiente_revision |
+| 257-26 | 17/04/2026 | 11238 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 82-26. ESTABLECE LAS INSTITUCIONES AUTORIZADAS A REALIZA... | [Ver documento](decreto-257-2026.md) | normalizado · pendiente_revision |
+| 258-26 | 17/04/2026 | 11238 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-258-2026.md) | normalizado · pendiente_revision |
+| 259-26 | 17/04/2026 | 11238 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 6,366.51 MT2, PARA SER DE... | [Ver documento](decreto-259-2026.md) | normalizado · pendiente_revision |
+| 260-26 | 17/04/2026 | 11238 | QUE INSTRUYE A LA INDUSTRIA MILITAR DOMINICANA, S.A., A TRAVÉS DE SU CONSEJO DE ADMINISTRACIÓN, A EL... | [Ver documento](decreto-260-2026.md) | normalizado · pendiente_revision |
 | 261-26 | 17/04/2026 | 11238 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 40 SERVIDORES PÚBLICOS DEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404694&managementType=1) | pendiente_verificacion_pdf |
 | 262-26 | 17/04/2026 | 11238 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD, A LOS SEÑORE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404695&managementType=1) | pendiente_verificacion_pdf |
 | 263-26 | 20/04/2026 | 11239 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 153-22, QUE DESIGNÓ AL SEÑOR LUIS ERNESTO CORNIELLE SEGURA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404751&managementType=1) | pendiente_verificacion_pdf |
