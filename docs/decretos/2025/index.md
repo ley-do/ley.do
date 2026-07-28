@@ -34,6 +34,31 @@ Documentos detectados: **727**.
 - [Decreto núm. 023-2025](decreto-023-2025.md)
 - [Decreto núm. 024-2025](decreto-024-2025.md)
 - [Decreto núm. 025-2025](decreto-025-2025.md)
+- [Decreto núm. 026-2025](decreto-026-2025.md)
+- [Decreto núm. 027-2025](decreto-027-2025.md)
+- [Decreto núm. 028-2025](decreto-028-2025.md)
+- [Decreto núm. 029-2025](decreto-029-2025.md)
+- [Decreto núm. 030-2025](decreto-030-2025.md)
+- [Decreto núm. 031-2025](decreto-031-2025.md)
+- [Decreto núm. 032-2025](decreto-032-2025.md)
+- [Decreto núm. 033-2025](decreto-033-2025.md)
+- [Decreto núm. 034-2025](decreto-034-2025.md)
+- [Decreto núm. 035-2025](decreto-035-2025.md)
+- [Decreto núm. 036-2025](decreto-036-2025.md)
+- [Decreto núm. 037-2025](decreto-037-2025.md)
+- [Decreto núm. 038-2025](decreto-038-2025.md)
+- [Decreto núm. 039-2025](decreto-039-2025.md)
+- [Decreto núm. 040-2025](decreto-040-2025.md)
+- [Decreto núm. 041-2025](decreto-041-2025.md)
+- [Decreto núm. 042-2025](decreto-042-2025.md)
+- [Decreto núm. 043-2025](decreto-043-2025.md)
+- [Decreto núm. 044-2025](decreto-044-2025.md)
+- [Decreto núm. 045-2025](decreto-045-2025.md)
+- [Decreto núm. 046-2025](decreto-046-2025.md)
+- [Decreto núm. 047-2025](decreto-047-2025.md)
+- [Decreto núm. 048-2025](decreto-048-2025.md)
+- [Decreto núm. 049-2025](decreto-049-2025.md)
+- [Decreto núm. 050-2025](decreto-050-2025.md)
 
 ## Documentos detectados
 
@@ -65,31 +90,31 @@ Documentos detectados: **727**.
 | 23-25 | 17/01/2025 | 11186 | QUE ASCIENDE AL CORONEL MILTON ALEXIS MOSCAT LÓPEZ (CB) AL RANGO DE GENERAL DEL CUERPO DE BOMBEROS. ... | [Ver documento](decreto-023-2025.md) | normalizado · pendiente_revision |
 | 24-25 | 17/01/2025 | 11186 | QUE SUPRIME LA COMISIÓN PRESIDENCIAL PARA EL DESARROLLO DEL MERCADO HIPOTECARIO Y EL FIDEICOMISO, Y ... | [Ver documento](decreto-024-2025.md) | normalizado · pendiente_revision |
 | 25-25 | 17/01/2025 | 11186 | QUE EXTIENDE HASTA EL 31 DE DICIEMBRE DE 2025, EL PLAZO ESTABLECIDO EN EL ARTÍCULO 5 DEL DECRETO NÚM... | [Ver documento](decreto-025-2025.md) | normalizado · pendiente_revision |
-| 26-25 | 17/01/2025 | 11186 | QUE DESIGNA AL SEÑOR JESÚS FERIS IGLESIAS, ASESOR DEL PODER EJECUTIVO EN MATERIA DE SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403011&managementType=1) | pendiente_verificacion_pdf |
-| 27-25 | 17/01/2025 | 11186 | QUE OTORGA EXEQUÁTUR A 122 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403012&managementType=1) | pendiente_verificacion_pdf |
-| 28-25 | 17/01/2025 | 11186 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN EL MINISTERIO DE RELACIONES EXTERIORES, EN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403013&managementType=1) | pendiente_verificacion_pdf |
-| 29-25 | 17/01/2025 | 11186 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 479-23, QUE DESIGNÓ A CARLOS ALBERTO NÚÑEZ, CÓNSUL GENERAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403014&managementType=1) | pendiente_verificacion_pdf |
-| 30-25 | 17/01/2025 | 11186 | QUE APRUEBA EL REGLAMENTO QUE REGULA LA PERCEPCIÓN Y APLICACIÓN DEL ITBIS EN LOS SERVICIOS OFRECIDOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403015&managementType=1) | pendiente_verificacion_pdf |
-| 31-25 | 20/01/2025 | 11186 | QUE DISPONE LA CONSTRUCCIÓN Y HABILITACIÓN DE UNA TERMINAL DE IMPORTACIÓN DE COMBUSTIBLES LÍQUIDOS, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403016&managementType=1) | pendiente_verificacion_pdf |
-| 32-25 | 22/01/2025 | 11186 | QUE MODIFICA LOS ARTÍCULOS 9 PÁRRAFO I Y 10 DEL DECRETO NÚM. 643-24. DEROGA EL ARTÍCULO 16 DEL CITAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403017&managementType=1) | pendiente_verificacion_pdf |
-| 33-25 | 22/01/2025 | 11186 | QUE CREA EL CONSEJO CONSULTIVO PARA LA TRANSFORMACIÓN ADMINISTRATIVA Y FINANCIERA DE LA POLICÍA NACI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403018&managementType=1) | pendiente_verificacion_pdf |
-| 34-25 | 22/01/2025 | 11186 | QUE DESIGNA A LOS SEÑORES ELENA VIYELLA DE PALIZA, PEDRO BRACHE, CELSO JUAN MARRANZINI, MARISOL VICE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403019&managementType=1) | pendiente_verificacion_pdf |
-| 35-25 | 22/01/2025 | 11186 | QUE CREA LA RED DE CENTROS DE RETENCIÓN VEHICULAR (RCRV), LA CUAL INTEGRARÁ A TODOS LOS CENTROS DE R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403020&managementType=1) | pendiente_verificacion_pdf |
-| 36-25 | 22/01/2025 | 11186 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO UBICADA EN EL MUNICIPIO MONC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402996&managementType=1) | pendiente_verificacion_pdf |
-| 37-25 | 22/01/2025 | 11186 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS CON DIFERENTES D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403021&managementType=1) | pendiente_verificacion_pdf |
-| 38-25 | 22/01/2025 | 11186 | QUE MODIFICA LOS ARTÍCULOS 4, 8, 10, 13,15, 17, 21, 22, 23, 24, 25 26, 47, 54, 67 Y 78, DEL DECRETO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403022&managementType=1) | pendiente_verificacion_pdf |
-| 39-25 | 22/01/2025 | 11186 | QUE CONCEDE LA CONDECORACIÓN DE LA MEDALLA AL MÉRITO DE LA SEGURIDAD DE LA AVIACIÓN CIVIL CON DISTIN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403023&managementType=1) | pendiente_verificacion_pdf |
-| 40-25 | 22/01/2025 | 11186 | QUE NOMBRA A LOS SEÑORES ANDRÉS LUCIANO MATEO MARTÍNEZ Y SONIA GUZMÁN K. DE HERNÁNDEZ, EMBAJADORES E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403024&managementType=1) | pendiente_verificacion_pdf |
-| 41-25 | 22/01/2025 | 11186 | QUE NOMBRA AL SEÑOR REINALDO RAFAEL ESPINAL EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE NUESTRO P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402997&managementType=1) | pendiente_verificacion_pdf |
-| 42-25 | 23/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE CHILE, DEL NACIONAL DOMINICANO WELLINGTON MA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402998&managementType=1) | pendiente_verificacion_pdf |
-| 43-25 | 23/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ERICK... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402999&managementType=1) | pendiente_verificacion_pdf |
-| 44-25 | 27/01/2025 | 11187 | QUE CONCEDE PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICIO A 502 SERVIDORES DEL MINISTERIO DE ED... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403026&managementType=1) | pendiente_verificacion_pdf |
-| 45-25 | 28/01/2025 | 11187 | QUE DESIGNA AL GENERAL WERNER MANUEL NÚÑEZ QUEZADA, P.N., DIRECTOR DE ASUNTOS INTERNOS DE LA POLICÍA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403030&managementType=1) | pendiente_verificacion_pdf |
-| 46-25 | 30/01/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A CUATRO PERSONAS, Y AUMENTA A LA SUMA DE RD$110,000.00 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403031&managementType=1) | pendiente_verificacion_pdf |
-| 47-25 | 31/01/2025 | 11187 | QUE NOMBRA MINISTROS CONSEJEROS, CONSEJEROS, SECRETARIOS DE EMBAJADAS ADSCRITOS AL MINISTERIO DE REL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403027&managementType=1) | pendiente_verificacion_pdf |
-| 48-25 | 31/01/2025 | 11187 | QUE NOMBRA LOS MINISTROS DE EDUCACIÓN, OBRAS PÚBLICAS, TRABAJO Y CULTURA, ASÍ COMO UN ASESOR DEL POD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403032&managementType=1) | pendiente_verificacion_pdf |
-| 49-25 | 03/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TRECE PERSONAS, Y AUMENTA EL MONTO DE LAS PENSIONES DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403033&managementType=1) | pendiente_verificacion_pdf |
-| 50-25 | 05/02/2025 | 11187 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 111-22 Y SUS MODIFICACIONES. INCLUYE DOCE (12) INSTITUCI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403034&managementType=1) | pendiente_verificacion_pdf |
+| 26-25 | 17/01/2025 | 11186 | QUE DESIGNA AL SEÑOR JESÚS FERIS IGLESIAS, ASESOR DEL PODER EJECUTIVO EN MATERIA DE SALUD. | [Ver documento](decreto-026-2025.md) | normalizado · pendiente_revision |
+| 27-25 | 17/01/2025 | 11186 | QUE OTORGA EXEQUÁTUR A 122 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-027-2025.md) | normalizado · pendiente_revision |
+| 28-25 | 17/01/2025 | 11186 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN EL MINISTERIO DE RELACIONES EXTERIORES, EN ... | [Ver documento](decreto-028-2025.md) | normalizado · pendiente_revision |
+| 29-25 | 17/01/2025 | 11186 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 479-23, QUE DESIGNÓ A CARLOS ALBERTO NÚÑEZ, CÓNSUL GENERAL... | [Ver documento](decreto-029-2025.md) | normalizado · pendiente_revision |
+| 30-25 | 17/01/2025 | 11186 | QUE APRUEBA EL REGLAMENTO QUE REGULA LA PERCEPCIÓN Y APLICACIÓN DEL ITBIS EN LOS SERVICIOS OFRECIDOS... | [Ver documento](decreto-030-2025.md) | normalizado · pendiente_revision |
+| 31-25 | 20/01/2025 | 11186 | QUE DISPONE LA CONSTRUCCIÓN Y HABILITACIÓN DE UNA TERMINAL DE IMPORTACIÓN DE COMBUSTIBLES LÍQUIDOS, ... | [Ver documento](decreto-031-2025.md) | normalizado · pendiente_revision |
+| 32-25 | 22/01/2025 | 11186 | QUE MODIFICA LOS ARTÍCULOS 9 PÁRRAFO I Y 10 DEL DECRETO NÚM. 643-24. DEROGA EL ARTÍCULO 16 DEL CITAD... | [Ver documento](decreto-032-2025.md) | normalizado · pendiente_revision |
+| 33-25 | 22/01/2025 | 11186 | QUE CREA EL CONSEJO CONSULTIVO PARA LA TRANSFORMACIÓN ADMINISTRATIVA Y FINANCIERA DE LA POLICÍA NACI... | [Ver documento](decreto-033-2025.md) | normalizado · pendiente_revision |
+| 34-25 | 22/01/2025 | 11186 | QUE DESIGNA A LOS SEÑORES ELENA VIYELLA DE PALIZA, PEDRO BRACHE, CELSO JUAN MARRANZINI, MARISOL VICE... | [Ver documento](decreto-034-2025.md) | normalizado · pendiente_revision |
+| 35-25 | 22/01/2025 | 11186 | QUE CREA LA RED DE CENTROS DE RETENCIÓN VEHICULAR (RCRV), LA CUAL INTEGRARÁ A TODOS LOS CENTROS DE R... | [Ver documento](decreto-035-2025.md) | normalizado · pendiente_revision |
+| 36-25 | 22/01/2025 | 11186 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO UBICADA EN EL MUNICIPIO MONC... | [Ver documento](decreto-036-2025.md) | normalizado · pendiente_revision |
+| 37-25 | 22/01/2025 | 11186 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS CON DIFERENTES D... | [Ver documento](decreto-037-2025.md) | normalizado · pendiente_revision |
+| 38-25 | 22/01/2025 | 11186 | QUE MODIFICA LOS ARTÍCULOS 4, 8, 10, 13,15, 17, 21, 22, 23, 24, 25 26, 47, 54, 67 Y 78, DEL DECRETO ... | [Ver documento](decreto-038-2025.md) | normalizado · pendiente_revision |
+| 39-25 | 22/01/2025 | 11186 | QUE CONCEDE LA CONDECORACIÓN DE LA MEDALLA AL MÉRITO DE LA SEGURIDAD DE LA AVIACIÓN CIVIL CON DISTIN... | [Ver documento](decreto-039-2025.md) | normalizado · pendiente_revision |
+| 40-25 | 22/01/2025 | 11186 | QUE NOMBRA A LOS SEÑORES ANDRÉS LUCIANO MATEO MARTÍNEZ Y SONIA GUZMÁN K. DE HERNÁNDEZ, EMBAJADORES E... | [Ver documento](decreto-040-2025.md) | normalizado · pendiente_revision |
+| 41-25 | 22/01/2025 | 11186 | QUE NOMBRA AL SEÑOR REINALDO RAFAEL ESPINAL EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE NUESTRO P... | [Ver documento](decreto-041-2025.md) | normalizado · pendiente_revision |
+| 42-25 | 23/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE CHILE, DEL NACIONAL DOMINICANO WELLINGTON MA... | [Ver documento](decreto-042-2025.md) | normalizado · pendiente_revision |
+| 43-25 | 23/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ERICK... | [Ver documento](decreto-043-2025.md) | normalizado · pendiente_revision |
+| 44-25 | 27/01/2025 | 11187 | QUE CONCEDE PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICIO A 502 SERVIDORES DEL MINISTERIO DE ED... | [Ver documento](decreto-044-2025.md) | normalizado · pendiente_revision |
+| 45-25 | 28/01/2025 | 11187 | QUE DESIGNA AL GENERAL WERNER MANUEL NÚÑEZ QUEZADA, P.N., DIRECTOR DE ASUNTOS INTERNOS DE LA POLICÍA... | [Ver documento](decreto-045-2025.md) | normalizado · pendiente_revision |
+| 46-25 | 30/01/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A CUATRO PERSONAS, Y AUMENTA A LA SUMA DE RD$110,000.00 ... | [Ver documento](decreto-046-2025.md) | normalizado · pendiente_revision |
+| 47-25 | 31/01/2025 | 11187 | QUE NOMBRA MINISTROS CONSEJEROS, CONSEJEROS, SECRETARIOS DE EMBAJADAS ADSCRITOS AL MINISTERIO DE REL... | [Ver documento](decreto-047-2025.md) | normalizado · pendiente_revision |
+| 48-25 | 31/01/2025 | 11187 | QUE NOMBRA LOS MINISTROS DE EDUCACIÓN, OBRAS PÚBLICAS, TRABAJO Y CULTURA, ASÍ COMO UN ASESOR DEL POD... | [Ver documento](decreto-048-2025.md) | normalizado · pendiente_revision |
+| 49-25 | 03/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TRECE PERSONAS, Y AUMENTA EL MONTO DE LAS PENSIONES DE... | [Ver documento](decreto-049-2025.md) | normalizado · pendiente_revision |
+| 50-25 | 05/02/2025 | 11187 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 111-22 Y SUS MODIFICACIONES. INCLUYE DOCE (12) INSTITUCI... | [Ver documento](decreto-050-2025.md) | normalizado · pendiente_revision |
 | 51-25 | 05/02/2025 | 11187 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A SIETE PERSONAS, Y AUMENTA A LA SUMA DE RD$20,000.00 ME... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403028&managementType=1) | pendiente_verificacion_pdf |
 | 52-25 | 05/02/2025 | 11187 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A ONCE PERSONAS. MODIF... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403035&managementType=1) | pendiente_verificacion_pdf |
 | 53-25 | 05/02/2025 | 11187 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO, FÉLI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403029&managementType=1) | pendiente_verificacion_pdf |
