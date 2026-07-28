@@ -713,6 +713,14 @@ Documentos detectados: **708**.
 - [Decreto núm. 700-2024](decreto-700-2024.md)
 - [Decreto núm. 701-2024](decreto-701-2024.md)
 - [Decreto núm. 702-2024](decreto-702-2024.md)
+- [Decreto núm. 703-2024](decreto-703-2024.md)
+- [Decreto núm. 704-2024](decreto-704-2024.md)
+- [Decreto núm. 705-2024](decreto-705-2024.md)
+- [Decreto núm. 706-2024](decreto-706-2024.md)
+- [Decreto núm. 707-2024](decreto-707-2024.md)
+- [Decreto núm. 708-2024](decreto-708-2024.md)
+- [Decreto núm. 709-2024](decreto-709-2024.md)
+- [Decreto núm. 710-2024](decreto-710-2024.md)
 
 ## Documentos detectados
 
@@ -1418,14 +1426,14 @@ Documentos detectados: **708**.
 | 700-24 | 19/12/2024 | 11182 | QUE ADICIONA LA PROVINCIA ESPAILLAT A LA SÉPTIMA (7MA) BRIGADA DE INFANTERÍA DEL EJÉRCITO DE REPÚB... | [Ver documento](decreto-700-2024.md) | normalizado · pendiente_revision |
 | 701-24 | 19/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A 212 PROFESIONALES PARA EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-701-2024.md) | normalizado · pendiente_revision |
 | 702-24 | 19/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-702-2024.md) | normalizado · pendiente_revision |
-| 703-24 | 23/12/2024 | 11182 | QUE NOMBRA AL SEÑOR FRANCISCO ALBERTO CARABALLO NÚÑEZ, VICEMINISTRO DE POLÍTICA EXTERIOR BILATERAL E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402929&managementType=1) | pendiente_verificacion_pdf |
-| 704-24 | 23/12/2024 | 11182 | QUE NOMBRA LOS EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE NUESTRO PAÍS EN LA REPÚBLICA DE CH... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402938&managementType=1) | pendiente_verificacion_pdf |
-| 705-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402939&managementType=1) | pendiente_verificacion_pdf |
-| 706-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A 157 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402930&managementType=1) | pendiente_verificacion_pdf |
-| 707-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402931&managementType=1) | pendiente_verificacion_pdf |
-| 708-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402932&managementType=1) | pendiente_verificacion_pdf |
-| 709-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402940&managementType=1) | pendiente_verificacion_pdf |
-| 710-24 | 31/12/2024 | 11182 | MODIFICA LOS DECRETOS NÚMS. 289-24 Y 394-24. DISPONE QUE DONDE SE MENCIONE EL “PABELLÓN DE VOLEIBOL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402941&managementType=1) | pendiente_verificacion_pdf |
+| 703-24 | 23/12/2024 | 11182 | QUE NOMBRA AL SEÑOR FRANCISCO ALBERTO CARABALLO NÚÑEZ, VICEMINISTRO DE POLÍTICA EXTERIOR BILATERAL E... | [Ver documento](decreto-703-2024.md) | normalizado · pendiente_revision |
+| 704-24 | 23/12/2024 | 11182 | QUE NOMBRA LOS EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE NUESTRO PAÍS EN LA REPÚBLICA DE CH... | [Ver documento](decreto-704-2024.md) | normalizado · pendiente_revision |
+| 705-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Ver documento](decreto-705-2024.md) | normalizado · pendiente_revision |
+| 706-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A 157 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-706-2024.md) | normalizado · pendiente_revision |
+| 707-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-707-2024.md) | normalizado · pendiente_revision |
+| 708-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-708-2024.md) | normalizado · pendiente_revision |
+| 709-24 | 31/12/2024 | 11182 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-709-2024.md) | normalizado · pendiente_revision |
+| 710-24 | 31/12/2024 | 11182 | MODIFICA LOS DECRETOS NÚMS. 289-24 Y 394-24. DISPONE QUE DONDE SE MENCIONE EL “PABELLÓN DE VOLEIBOL ... | [Ver documento](decreto-710-2024.md) | normalizado · pendiente_revision |
 
 ## Próxima fase
 
