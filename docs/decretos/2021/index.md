@@ -709,6 +709,106 @@ Documentos detectados: **838**.
 - [Decreto núm. 700-2021](decreto-700-2021.md)
 - [Decreto núm. 701-2021](decreto-701-2021.md)
 - [Decreto núm. 702-2021](decreto-702-2021.md)
+- [Decreto núm. 703-2021](decreto-703-2021.md)
+- [Decreto núm. 704-2021](decreto-704-2021.md)
+- [Decreto núm. 705-2021](decreto-705-2021.md)
+- [Decreto núm. 706-2021](decreto-706-2021.md)
+- [Decreto núm. 707-2021](decreto-707-2021.md)
+- [Decreto núm. 708-2021](decreto-708-2021.md)
+- [Decreto núm. 709-2021](decreto-709-2021.md)
+- [Decreto núm. 710-2021](decreto-710-2021.md)
+- [Decreto núm. 711-2021](decreto-711-2021.md)
+- [Decreto núm. 712-2021](decreto-712-2021.md)
+- [Decreto núm. 713-2021](decreto-713-2021.md)
+- [Decreto núm. 714-2021](decreto-714-2021.md)
+- [Decreto núm. 715-2021](decreto-715-2021.md)
+- [Decreto núm. 716-2021](decreto-716-2021.md)
+- [Decreto núm. 717-2021](decreto-717-2021.md)
+- [Decreto núm. 718-2021](decreto-718-2021.md)
+- [Decreto núm. 719-2021](decreto-719-2021.md)
+- [Decreto núm. 720-2021](decreto-720-2021.md)
+- [Decreto núm. 721-2021](decreto-721-2021.md)
+- [Decreto núm. 722-2021](decreto-722-2021.md)
+- [Decreto núm. 723-2021](decreto-723-2021.md)
+- [Decreto núm. 724-2021](decreto-724-2021.md)
+- [Decreto núm. 725-2021](decreto-725-2021.md)
+- [Decreto núm. 726-2021](decreto-726-2021.md)
+- [Decreto núm. 727-2021](decreto-727-2021.md)
+- [Decreto núm. 728-2021](decreto-728-2021.md)
+- [Decreto núm. 729-2021](decreto-729-2021.md)
+- [Decreto núm. 730-2021](decreto-730-2021.md)
+- [Decreto núm. 731-2021](decreto-731-2021.md)
+- [Decreto núm. 732-2021](decreto-732-2021.md)
+- [Decreto núm. 733-2021](decreto-733-2021.md)
+- [Decreto núm. 734-2021](decreto-734-2021.md)
+- [Decreto núm. 735-2021](decreto-735-2021.md)
+- [Decreto núm. 736-2021](decreto-736-2021.md)
+- [Decreto núm. 737-2021](decreto-737-2021.md)
+- [Decreto núm. 738-2021](decreto-738-2021.md)
+- [Decreto núm. 739-2021](decreto-739-2021.md)
+- [Decreto núm. 740-2021](decreto-740-2021.md)
+- [Decreto núm. 741-2021](decreto-741-2021.md)
+- [Decreto núm. 742-2021](decreto-742-2021.md)
+- [Decreto núm. 743-2021](decreto-743-2021.md)
+- [Decreto núm. 744-2021](decreto-744-2021.md)
+- [Decreto núm. 745-2021](decreto-745-2021.md)
+- [Decreto núm. 746-2021](decreto-746-2021.md)
+- [Decreto núm. 747-2021](decreto-747-2021.md)
+- [Decreto núm. 748-2021](decreto-748-2021.md)
+- [Decreto núm. 749-2021](decreto-749-2021.md)
+- [Decreto núm. 750-2021](decreto-750-2021.md)
+- [Decreto núm. 751-2021](decreto-751-2021.md)
+- [Decreto núm. 752-2021](decreto-752-2021.md)
+- [Decreto núm. 753-2021](decreto-753-2021.md)
+- [Decreto núm. 754-2021](decreto-754-2021.md)
+- [Decreto núm. 755-2021](decreto-755-2021.md)
+- [Decreto núm. 756-2021](decreto-756-2021.md)
+- [Decreto núm. 757-2021](decreto-757-2021.md)
+- [Decreto núm. 758-2021](decreto-758-2021.md)
+- [Decreto núm. 759-2021](decreto-759-2021.md)
+- [Decreto núm. 760-2021](decreto-760-2021.md)
+- [Decreto núm. 761-2021](decreto-761-2021.md)
+- [Decreto núm. 762-2021](decreto-762-2021.md)
+- [Decreto núm. 763-2021](decreto-763-2021.md)
+- [Decreto núm. 764-2021](decreto-764-2021.md)
+- [Decreto núm. 765-2021](decreto-765-2021.md)
+- [Decreto núm. 767-2021](decreto-767-2021.md)
+- [Decreto núm. 768-2021](decreto-768-2021.md)
+- [Decreto núm. 769-2021](decreto-769-2021.md)
+- [Decreto núm. 770-2021](decreto-770-2021.md)
+- [Decreto núm. 771-2021](decreto-771-2021.md)
+- [Decreto núm. 772-2021](decreto-772-2021.md)
+- [Decreto núm. 773-2021](decreto-773-2021.md)
+- [Decreto núm. 774-2021](decreto-774-2021.md)
+- [Decreto núm. 775-2021](decreto-775-2021.md)
+- [Decreto núm. 776-2021](decreto-776-2021.md)
+- [Decreto núm. 777-2021](decreto-777-2021.md)
+- [Decreto núm. 778-2021](decreto-778-2021.md)
+- [Decreto núm. 779-2021](decreto-779-2021.md)
+- [Decreto núm. 780-2021](decreto-780-2021.md)
+- [Decreto núm. 781-2021](decreto-781-2021.md)
+- [Decreto núm. 782-2021](decreto-782-2021.md)
+- [Decreto núm. 783-2021](decreto-783-2021.md)
+- [Decreto núm. 784-2021](decreto-784-2021.md)
+- [Decreto núm. 785-2021](decreto-785-2021.md)
+- [Decreto núm. 786-2021](decreto-786-2021.md)
+- [Decreto núm. 787-2021](decreto-787-2021.md)
+- [Decreto núm. 788-2021](decreto-788-2021.md)
+- [Decreto núm. 789-2021](decreto-789-2021.md)
+- [Decreto núm. 790-2021](decreto-790-2021.md)
+- [Decreto núm. 791-2021](decreto-791-2021.md)
+- [Decreto núm. 792-2021](decreto-792-2021.md)
+- [Decreto núm. 793-2021](decreto-793-2021.md)
+- [Decreto núm. 794-2021](decreto-794-2021.md)
+- [Decreto núm. 795-2021](decreto-795-2021.md)
+- [Decreto núm. 796-2021](decreto-796-2021.md)
+- [Decreto núm. 797-2021](decreto-797-2021.md)
+- [Decreto núm. 798-2021](decreto-798-2021.md)
+- [Decreto núm. 799-2021](decreto-799-2021.md)
+- [Decreto núm. 800-2021](decreto-800-2021.md)
+- [Decreto núm. 801-2021](decreto-801-2021.md)
+- [Decreto núm. 802-2021](decreto-802-2021.md)
+- [Decreto núm. 803-2021](decreto-803-2021.md)
 
 ## Documentos detectados
 
@@ -1415,106 +1515,106 @@ Documentos detectados: **838**.
 | 700-21 | 30/10/2021 | 11042 | NOMBRA A ELVIS ANTONIO ALAM LORA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO CONCURRENTE, DE LA REP... | [Ver documento](decreto-700-2021.md) | normalizado · pendiente_revision |
 | 701-21 | 30/10/2021 | 11042 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Ver documento](decreto-701-2021.md) | normalizado · pendiente_revision |
 | 702-21 | 30/10/2021 | 11042 | 702-21 QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES | [Ver documento](decreto-702-2021.md) | normalizado · pendiente_revision |
-| 703-21 | 30/10/2021 | 11042 | QUE DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRENO DE 62.000.00 METROS CUADRADOS, DENTRO DE LA P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398860&managementType=1) | pendiente_verificacion_pdf |
-| 704-21 | 01/11/2021 | 11043 | QUE DEROGA EL ARTÍCULO 18 DEL DEC. NO.340-20, QUE DESIGNÓ A ELSA ARGENTINA DE LEÓN ABREU, GOBERNADOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398891&managementType=1) | pendiente_verificacion_pdf |
+| 703-21 | 30/10/2021 | 11042 | QUE DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRENO DE 62.000.00 METROS CUADRADOS, DENTRO DE LA P... | [Ver documento](decreto-703-2021.md) | normalizado · pendiente_revision |
+| 704-21 | 01/11/2021 | 11043 | QUE DEROGA EL ARTÍCULO 18 DEL DEC. NO.340-20, QUE DESIGNÓ A ELSA ARGENTINA DE LEÓN ABREU, GOBERNADOR... | [Ver documento](decreto-704-2021.md) | normalizado · pendiente_revision |
 | 692-21 | 02/11/2021 | 11042 | QUE EXTIENDE POR UN PERÍODO DE 10 AÑOS Y LA AMPLIACIÓN DEL PROYECTO DE MANEJO DE LAS CUENCAS ALTAS D... | [Ver documento](decreto-692-2021.md) | normalizado · pendiente_revision |
-| 705-21 | 03/11/2021 | 11043 | QUE CREA E INTEGRA UNA COMISIÓN TÉCNICOFORESTAL, PRESIDIDA POR EL MINISTRO DE MEDIO AMBIENTE Y RECUR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398885&managementType=1) | pendiente_verificacion_pdf |
-| 706-21 | 04/11/2021 | 11043 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO.1681 DEL 1983. DISPONE QUE LA ZONA FRANCA INDUSTRIAL DE LA PR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398892&managementType=1) | pendiente_verificacion_pdf |
-| 707-21 | 04/11/2021 | 11043 | QUE NOMBRA A HELEN DAHIANA MEDINA GARCÍA Y MARCOS JESÚS COLÓN ARACHE, SUBDIRECTORES FINANCIERA Y ADM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398893&managementType=1) | pendiente_verificacion_pdf |
-| 708-21 | 04/11/2021 | 11043 | QUE NOMBRA A JOSÉ ALBERTO ACOSTA SALDAÑA, SUBDIRECTOR EJECUTIVO DE LA AUTORIDAD PORTUARIA DOMINICANA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398886&managementType=1) | pendiente_verificacion_pdf |
-| 709-21 | 04/11/2021 | 11043 | QUE NOMBRA A NANCY ALTAGRACIA MONES VALDEZ, MIEMBRO DEL CONSEJO DIRECTIVO DEL CENTRO DE ATENCIÓN INT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398894&managementType=1) | pendiente_verificacion_pdf |
-| 710-21 | 04/11/2021 | 11043 | QUE NOMBRA A GUARIONEX AGÜERO ENCARNACIÓN, FÉLIX ALBERTO GONZÁLEZ GONZÁLEZ Y HANOI MARGARITA VÁSQUEZ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398895&managementType=1) | pendiente_verificacion_pdf |
-| 711-21 | 04/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398896&managementType=1) | pendiente_verificacion_pdf |
-| 712-21 | 04/11/2021 | 11043 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 36.00 METROS CUADRADOS, D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398897&managementType=1) | pendiente_verificacion_pdf |
-| 713-21 | 04/11/2021 | 11043 | EL CUAL TIENE POR OBJETO FOMENTAR LOS PRINCIPIOS DE GOBIERNO ABIERTO, A SER IMPLEMENTADOS EN LA ADMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398887&managementType=1) | pendiente_verificacion_pdf |
-| 714-21 | 04/11/2021 | 11043 | QUE DESIGNA A DEXY LEE JULISSA HERNÁNDEZ DURÁN, VICEMINISTRA DE PLANIFICACIÓN Y DESARROLLO EDUCATIVO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398898&managementType=1) | pendiente_verificacion_pdf |
-| 715-21 | 04/11/2021 | 11043 | QUE AUMENTA A RD$10,000.00 (DIEZ MIL PESOS DOMINICANOS) MENSUALES LAS PENSIONES DE QUE DISFRUTAN LOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398899&managementType=1) | pendiente_verificacion_pdf |
-| 716-21 | 04/11/2021 | 11043 | QUE DEROGA EL DEC. NO.418-19, QUE MODIFICÓ LOS ARTÍCULOS 5 Y 7 DEL DEC. NO.373-17, QUE ESTABLECIÓ LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398900&managementType=1) | pendiente_verificacion_pdf |
-| 717-21 | 08/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398901&managementType=1) | pendiente_verificacion_pdf |
-| 718-21 | 08/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398888&managementType=1) | pendiente_verificacion_pdf |
-| 719-21 | 08/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398889&managementType=1) | pendiente_verificacion_pdf |
-| 720-21 | 08/11/2021 | 11043 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIAS PERSONAS EXTRANJERAS. MODIFICA EL NUMERAL 20 DEL ARTÍ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398902&managementType=1) | pendiente_verificacion_pdf |
-| 721-21 | 08/11/2021 | 11043 | QUE AUTORIZA AL GENERAL DE BRIGADA LIC. CRISTÓBAL MORALES, P.N, A ACEPTAR Y USAR LA MEDALLA DE HONOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398903&managementType=1) | pendiente_verificacion_pdf |
-| 722-21 | 08/11/2021 | 11043 | QUE DISPONE LA SUSPENSIÓN DEL DIRECTOR GENERAL DEL INSTITUTO POSTAL DOMINICANO, DE CONFORMIDAD CON E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398904&managementType=1) | pendiente_verificacion_pdf |
-| 723-21 | 10/11/2021 | 11043 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE EDDY ANTONIO CURIEL VÁSQUEZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398890&managementType=1) | pendiente_verificacion_pdf |
-| 724-21 | 10/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JOHN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398906&managementType=1) | pendiente_verificacion_pdf |
-| 725-21 | 10/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JOSÉ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398919&managementType=1) | pendiente_verificacion_pdf |
-| 726-21 | 10/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ROMIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398907&managementType=1) | pendiente_verificacion_pdf |
-| 727-21 | 10/11/2021 | 11045 | QUE DESIGNA A ORLANDO ANTONIO SÁNCHEZ DIAZ, ASESOR EN COMERCIALIZACIÓN AGRÍCOLA DEL PRESIDENTE DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398920&managementType=1) | pendiente_verificacion_pdf |
-| 728-21 | 10/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS Y ELEVA EL MONTO DE PENSIONES A EX EMPLEADOS PÚBL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398921&managementType=1) | pendiente_verificacion_pdf |
-| 729-21 | 10/11/2021 | 11045 | QUE CONSTITUYE EL FIDEICOMISO PARA TRANSFORMACIÓN Y PROFESIONALIZACIÓN DE LA POLICÍA NACIONAL. CREA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398908&managementType=1) | pendiente_verificacion_pdf |
-| 730-21 | 11/11/2021 | 11045 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDA EJERCER SUS RESPECTIVAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398922&managementType=1) | pendiente_verificacion_pdf |
-| 731-21 | 12/11/2021 | 11045 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES A VARIOS SERVIDORES PÚBLICOS | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398909&managementType=1) | pendiente_verificacion_pdf |
-| 732-21 | 12/11/2021 | 11045 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES A VARIOS SERVIDORES PÚBLICOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398923&managementType=1) | pendiente_verificacion_pdf |
-| 733-21 | 16/11/2021 | 11045 | QUE NOMBRA A VÍCTOR RAMÓN CASTRO IZQUIERDO, DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DEL BIENESTAR ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398924&managementType=1) | pendiente_verificacion_pdf |
-| 734-21 | 17/11/2021 | 11045 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN GRADO DE COMENDADOR, AL PAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398925&managementType=1) | pendiente_verificacion_pdf |
-| 735-21 | 19/11/2021 | 11045 | QUE ASCIENDE AL CORONEL INTENDENTE CÉSAR ARTURO ABREU ALMÁNZAR (CB), AL RANGO DE GENERAL DEL CUERPO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398926&managementType=1) | pendiente_verificacion_pdf |
-| 736-21 | 19/11/2021 | 11045 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398910&managementType=1) | pendiente_verificacion_pdf |
-| 737-21 | 19/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL CIUDADANO DOMINICANO RICHARD WILSON TO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398927&managementType=1) | pendiente_verificacion_pdf |
-| 738-21 | 19/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPUBLICA DE ARGENTINA, DEL NACIONAL DOMINICANO SADOT MIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398928&managementType=1) | pendiente_verificacion_pdf |
-| 739-21 | 19/11/2021 | 11045 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE ELBA ALTAGRACIA NOELIA REGÚS ENGE DE SHEPARD | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398929&managementType=1) | pendiente_verificacion_pdf |
-| 740-21 | 19/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. AUMENTA EL MONTO DE PENSIONES CONCEDIDAS A EX EM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398930&managementType=1) | pendiente_verificacion_pdf |
-| 741-21 | 19/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS, ASÍ COMO AUMENTOS DE PENSIONES A EX SERVIDORES P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398911&managementType=1) | pendiente_verificacion_pdf |
-| 742-21 | 19/11/2021 | 11045 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A LUIS AQUILINO NIN CAVALLO | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398912&managementType=1) | pendiente_verificacion_pdf |
-| 743-21 | 19/11/2021 | 11045 | QUE AUMENTA LA PENSIÓN DEL ESTADO DE QUE DISFRUTA MILAGROS GENOVEVA PEGUERO V. DE PATERSON | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398931&managementType=1) | pendiente_verificacion_pdf |
-| 744-21 | 19/11/2021 | 11045 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN VARIAS PERSONAS | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398932&managementType=1) | pendiente_verificacion_pdf |
-| 745-21 | 19/11/2021 | 11045 | QUE ESTABLECE LA ZAFRA AZUCARERA DEL PERIODO 2021-2022 DE LOS INGENIOS DEL PAÍS, LA CUAL COMPRENDERÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398913&managementType=1) | pendiente_verificacion_pdf |
-| 746-21 | 19/11/2021 | 11045 | QUE DESIGNA A TONY RAFUL TEJADA Y DAVID ENMANUEL PUIG BUCHEL, EMBAJADORES EXTRAORDINARIOS Y PLENIPOT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398933&managementType=1) | pendiente_verificacion_pdf |
-| 747-21 | 19/11/2021 | 11045 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LIC. EN DERECHO | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398914&managementType=1) | pendiente_verificacion_pdf |
-| 748-21 | 19/11/2021 | 11045 | QUE AUTORIZA A VARIOS MIEMBROS DE LAS FUERZAS ARMADAS A ACEPTAR Y USAR CONDECORACIONES EXTRANJERAS O... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398915&managementType=1) | pendiente_verificacion_pdf |
-| 749-21 | 19/11/2021 | 11045 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR CON DISTINTIVO BLANCO, EN PRIMERA Y SEGU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398916&managementType=1) | pendiente_verificacion_pdf |
-| 750-21 | 19/11/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL AÑO 1983, UNA PORCIÓN DE TERR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398934&managementType=1) | pendiente_verificacion_pdf |
-| 751-21 | 19/11/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400, ARTICULO 1, LITERAL 1, DEL AÑO 1... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398935&managementType=1) | pendiente_verificacion_pdf |
-| 753-21 | 19/11/2021 | 11045 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398981&managementType=1) | pendiente_verificacion_pdf |
-| 754-21 | 19/11/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL AÑO 1983, ARTICULO 1, LITERAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398938&managementType=1) | pendiente_verificacion_pdf |
-| 755-21 | 22/11/2021 | 11045 | QUE NOMBRA A VARIOS VICECÓNSULES Y AUXILIARES DE CONSULADOS DE LA REPÚBLICA EN DISTINTOS PAÍSES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398939&managementType=1) | pendiente_verificacion_pdf |
-| 756-21 | 22/11/2021 | 11045 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398917&managementType=1) | pendiente_verificacion_pdf |
-| 757-21 | 23/11/2021 | 11045 | QUE AUTORIZA A VARIAS PERSONAS A HACER CAMBIOS EN SUS NOMBRES. MODIFICA EL NUMERAL 1 DEL ARTÍCULO 1 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398918&managementType=1) | pendiente_verificacion_pdf |
-| 758-21 | 23/11/2021 | 11045 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A CLAUDIO MANUEL MUÑOZ MORILLO | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398940&managementType=1) | pendiente_verificacion_pdf |
-| 759-21 | 23/11/2021 | 11045 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE NELSON ANTONIO MUÑOZ SANTOS | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398941&managementType=1) | pendiente_verificacion_pdf |
-| 760-21 | 23/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES CONCEDIDAS A EX EMP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398942&managementType=1) | pendiente_verificacion_pdf |
-| 761-21 | 23/11/2021 | 11045 | QUE INSTITUYE EL 18 DE NOVIEMBRE DE CADA AÑO COMO DIA NACIONAL DE LA FAMILIA, EN EL MARCO DEL MES DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398943&managementType=1) | pendiente_verificacion_pdf |
-| 762-21 | 23/11/2021 | 11046 | QUE CONCEDE EL BENEFICIO DE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398950&managementType=1) | pendiente_verificacion_pdf |
-| 763-21 | 24/11/2021 | 11046 | QUE DECLARA DE DUELO OFICIAL EL 25 DE NOVIEMBRE DEL PRESENTE AÑO CON MOTIVO DEL FALLECIMIENTO DEL MA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398951&managementType=1) | pendiente_verificacion_pdf |
-| 764-21 | 26/11/2021 | 11046 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR CON DISTINTIVO BLANCO, EN PRIMERA Y SEGU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398947&managementType=1) | pendiente_verificacion_pdf |
-| 765-21 | 30/11/2021 | 11046 | QUE ELEVA LA SUMA DE LA PENSIÓN OTORGADA POR EL ESTADO A LA SEÑORA ELBA ALTAGRACIA NOELIA REGÚS ENGE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398952&managementType=1) | pendiente_verificacion_pdf |
-| 767-21 | 03/12/2021 | 11047 | QUE DESIGNA A JHONY RAFAEL RODRÍGUEZ HENRÍQUEZ, ASESOR HONORÍFICO DEL PODER EJECUTIVO EN DESARROLLO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398968&managementType=1) | pendiente_verificacion_pdf |
-| 768-21 | 03/12/2021 | 11047 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A VÍCTOR MANUEL ALCIBÍADES FELIZ PÉREZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398955&managementType=1) | pendiente_verificacion_pdf |
-| 769-21 | 03/12/2021 | 11047 | QUE NOMBRA A VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. DEROGA EL ARTÍCU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398969&managementType=1) | pendiente_verificacion_pdf |
-| 770-21 | 03/12/2021 | 11047 | QUE NOMBRA EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS, CONCURRENTES, DE LA REPÚBLICA EN NEPAL Y... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398970&managementType=1) | pendiente_verificacion_pdf |
-| 771-21 | 03/12/2021 | 11047 | QUE DESIGNA A DAVID ENMANUEL PUIG BUCHEL, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398971&managementType=1) | pendiente_verificacion_pdf |
-| 772-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398956&managementType=1) | pendiente_verificacion_pdf |
-| 773-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398957&managementType=1) | pendiente_verificacion_pdf |
-| 774-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398958&managementType=1) | pendiente_verificacion_pdf |
-| 775-21 | 03/12/2021 | 11047 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE ARGENTINA, DEL NACIONAL DOMINICANO ODALKIS R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398959&managementType=1) | pendiente_verificacion_pdf |
-| 776-21 | 03/12/2021 | 11047 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398960&managementType=1) | pendiente_verificacion_pdf |
-| 777-21 | 03/12/2021 | 11047 | QUE CONCEDE UNA PENSIÓN ESPECIAL DE ESTADO A JUAN DANIEL BALCÁCER JIMÉNEZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398972&managementType=1) | pendiente_verificacion_pdf |
-| 778-21 | 03/12/2021 | 11047 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES CONCEDIDAS A EX EMPL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398973&managementType=1) | pendiente_verificacion_pdf |
-| 779-21 | 03/12/2021 | 11047 | QUE CONCEDE PENSIONES DEL ESTADO A VARIOS SERVIDORES PÚBLICOS DEL SECTOR SALUD. ELEVA EL MONTO DE PE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398961&managementType=1) | pendiente_verificacion_pdf |
-| 780-21 | 03/12/2021 | 11047 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A JOSÉ TABAR GONZÁLEZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398962&managementType=1) | pendiente_verificacion_pdf |
-| 781-21 | 03/12/2021 | 11047 | QUE CONCEDE PENSIONES DEL ESTADO A EX SERVIDORES PÚBLICOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398974&managementType=1) | pendiente_verificacion_pdf |
-| 782-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398963&managementType=1) | pendiente_verificacion_pdf |
-| 783-21 | 03/12/2021 | 11047 | QUE DISPONE ERIGIR UN MAUSOLEO EN HONOR A ENRIQUILLO. CREA E INTEGRA UNA COMISIÓN ESPECIAL PRESIDIDA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398964&managementType=1) | pendiente_verificacion_pdf |
-| 784-21 | 03/12/2021 | 11047 | QUE NOMBRA A MARGARITO DE LEÓN CASTILLO, CÓNSUL DE LA REPÚBLICA EN JUANA MÉNDEZ, HAITÍ. DEROGA EL AR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398975&managementType=1) | pendiente_verificacion_pdf |
-| 785-21 | 06/12/2021 | 11047 | QUE PONE A CARGO DEL ORGANISMO INTERNACIONAL REGIONAL DE SANIDAD AGROPECUARIA, TODAS LAS MEDIDAS REL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398976&managementType=1) | pendiente_verificacion_pdf |
-| 786-21 | 06/12/2021 | 11047 | QUE DEROGA EL ARTÍCULO L DEL DEC. NO.694-20, QUE DESIGNÓ A LUZ DEL ALBA JIMÉNEZ RAMÍREZ, COMO MINIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398977&managementType=1) | pendiente_verificacion_pdf |
-| 787-21 | 06/12/2021 | 11047 | QUE INSTRUYE A LOS MINISTERIOS DE SALUD PÚBLICA Y ASISTENCIA SOCIAL Y DE TURISMO A ELABORAR, PREVIA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398978&managementType=1) | pendiente_verificacion_pdf |
-| 788-21 | 07/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398979&managementType=1) | pendiente_verificacion_pdf |
-| 789-21 | 07/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398980&managementType=1) | pendiente_verificacion_pdf |
-| 790-21 | 08/12/2021 | 11047 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398965&managementType=1) | pendiente_verificacion_pdf |
-| 791-21 | 09/12/2021 | 11047 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL EL PROCESO DE IMPLEMENTACIÓN Y ELECCIÓN DE LAS COMISIONES DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398966&managementType=1) | pendiente_verificacion_pdf |
-| 792-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO DE QUE DISFRUTA FLORENCIA ROSARIO RAMOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399001&managementType=1) | pendiente_verificacion_pdf |
-| 793-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO CONCEDIDA A TAMARA ELSIRA HERRERA GARCÍA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399002&managementType=1) | pendiente_verificacion_pdf |
-| 794-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO DE QUE DISFRUTA JOSÉ FRANCISCO MATOS MATOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399003&managementType=1) | pendiente_verificacion_pdf |
-| 795-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO CONCEDIDA A JULIÁN BONILLA MEDINA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399004&managementType=1) | pendiente_verificacion_pdf |
-| 796-21 | 10/12/2021 | 11048 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399005&managementType=1) | pendiente_verificacion_pdf |
-| 797-21 | 10/12/2021 | 11048 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO.659-21, QUE CREA EL PARQUE NACIONAL LOMA LOS SIETE PICOS, BAJ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399006&managementType=1) | pendiente_verificacion_pdf |
-| 798-21 | 10/12/2021 | 11048 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO.1400 DEL 1983, ARTÍCULO 1, LITERAL 1, U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399007&managementType=1) | pendiente_verificacion_pdf |
-| 799-21 | 10/12/2021 | 11048 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA POR EL DEC. NO.1400 DEL 1983, ARTÍCULO 1, LITERAL 1, DOS PO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399008&managementType=1) | pendiente_verificacion_pdf |
-| 800-21 | 10/12/2021 | 11048 | QUE EXCLUYE DE LA EXPROPIACIÓN DISPUESTA POR EL DEC. NO.1400 DEL 1983, EN SU ARTÍCULO 1, LITERAL 1, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399009&managementType=1) | pendiente_verificacion_pdf |
-| 801-21 | 14/12/2021 | 11049 | QUE NOMBRA A MARYLIN YVONNE DEL CARMEN DIAZ, RECTORA DE LA UNIVERSIDAD TECNOLÓGICA DEL CIBAO CENTRAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399015&managementType=1) | pendiente_verificacion_pdf |
-| 802-21 | 15/12/2021 | 11049 | QUE DESIGNA A TEODORA MULLIX GERALDINO, GOBERNADORA CIVIL DE LA PROVINCIA SAMANÁ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399017&managementType=1) | pendiente_verificacion_pdf |
-| 803-21 | 15/12/2021 | 11049 | QUE NOMBRA A MENNI LOLIN CUEVAS GONZÁLEZ, CÓNSUL DE LA REPUBLICA DOMINICANA EN ANSE-Á-PITRE, REPUBLI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399018&managementType=1) | pendiente_verificacion_pdf |
+| 705-21 | 03/11/2021 | 11043 | QUE CREA E INTEGRA UNA COMISIÓN TÉCNICOFORESTAL, PRESIDIDA POR EL MINISTRO DE MEDIO AMBIENTE Y RECUR... | [Ver documento](decreto-705-2021.md) | normalizado · pendiente_revision |
+| 706-21 | 04/11/2021 | 11043 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO.1681 DEL 1983. DISPONE QUE LA ZONA FRANCA INDUSTRIAL DE LA PR... | [Ver documento](decreto-706-2021.md) | normalizado · pendiente_revision |
+| 707-21 | 04/11/2021 | 11043 | QUE NOMBRA A HELEN DAHIANA MEDINA GARCÍA Y MARCOS JESÚS COLÓN ARACHE, SUBDIRECTORES FINANCIERA Y ADM... | [Ver documento](decreto-707-2021.md) | normalizado · pendiente_revision |
+| 708-21 | 04/11/2021 | 11043 | QUE NOMBRA A JOSÉ ALBERTO ACOSTA SALDAÑA, SUBDIRECTOR EJECUTIVO DE LA AUTORIDAD PORTUARIA DOMINICANA... | [Ver documento](decreto-708-2021.md) | normalizado · pendiente_revision |
+| 709-21 | 04/11/2021 | 11043 | QUE NOMBRA A NANCY ALTAGRACIA MONES VALDEZ, MIEMBRO DEL CONSEJO DIRECTIVO DEL CENTRO DE ATENCIÓN INT... | [Ver documento](decreto-709-2021.md) | normalizado · pendiente_revision |
+| 710-21 | 04/11/2021 | 11043 | QUE NOMBRA A GUARIONEX AGÜERO ENCARNACIÓN, FÉLIX ALBERTO GONZÁLEZ GONZÁLEZ Y HANOI MARGARITA VÁSQUEZ... | [Ver documento](decreto-710-2021.md) | normalizado · pendiente_revision |
+| 711-21 | 04/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-711-2021.md) | normalizado · pendiente_revision |
+| 712-21 | 04/11/2021 | 11043 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 36.00 METROS CUADRADOS, D... | [Ver documento](decreto-712-2021.md) | normalizado · pendiente_revision |
+| 713-21 | 04/11/2021 | 11043 | EL CUAL TIENE POR OBJETO FOMENTAR LOS PRINCIPIOS DE GOBIERNO ABIERTO, A SER IMPLEMENTADOS EN LA ADMI... | [Ver documento](decreto-713-2021.md) | normalizado · pendiente_revision |
+| 714-21 | 04/11/2021 | 11043 | QUE DESIGNA A DEXY LEE JULISSA HERNÁNDEZ DURÁN, VICEMINISTRA DE PLANIFICACIÓN Y DESARROLLO EDUCATIVO... | [Ver documento](decreto-714-2021.md) | normalizado · pendiente_revision |
+| 715-21 | 04/11/2021 | 11043 | QUE AUMENTA A RD$10,000.00 (DIEZ MIL PESOS DOMINICANOS) MENSUALES LAS PENSIONES DE QUE DISFRUTAN LOS... | [Ver documento](decreto-715-2021.md) | normalizado · pendiente_revision |
+| 716-21 | 04/11/2021 | 11043 | QUE DEROGA EL DEC. NO.418-19, QUE MODIFICÓ LOS ARTÍCULOS 5 Y 7 DEL DEC. NO.373-17, QUE ESTABLECIÓ LA... | [Ver documento](decreto-716-2021.md) | normalizado · pendiente_revision |
+| 717-21 | 08/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-717-2021.md) | normalizado · pendiente_revision |
+| 718-21 | 08/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-718-2021.md) | normalizado · pendiente_revision |
+| 719-21 | 08/11/2021 | 11043 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-719-2021.md) | normalizado · pendiente_revision |
+| 720-21 | 08/11/2021 | 11043 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIAS PERSONAS EXTRANJERAS. MODIFICA EL NUMERAL 20 DEL ARTÍ... | [Ver documento](decreto-720-2021.md) | normalizado · pendiente_revision |
+| 721-21 | 08/11/2021 | 11043 | QUE AUTORIZA AL GENERAL DE BRIGADA LIC. CRISTÓBAL MORALES, P.N, A ACEPTAR Y USAR LA MEDALLA DE HONOR... | [Ver documento](decreto-721-2021.md) | normalizado · pendiente_revision |
+| 722-21 | 08/11/2021 | 11043 | QUE DISPONE LA SUSPENSIÓN DEL DIRECTOR GENERAL DEL INSTITUTO POSTAL DOMINICANO, DE CONFORMIDAD CON E... | [Ver documento](decreto-722-2021.md) | normalizado · pendiente_revision |
+| 723-21 | 10/11/2021 | 11043 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE EDDY ANTONIO CURIEL VÁSQUEZ. | [Ver documento](decreto-723-2021.md) | normalizado · pendiente_revision |
+| 724-21 | 10/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JOHN ... | [Ver documento](decreto-724-2021.md) | normalizado · pendiente_revision |
+| 725-21 | 10/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JOSÉ ... | [Ver documento](decreto-725-2021.md) | normalizado · pendiente_revision |
+| 726-21 | 10/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO ROMIT... | [Ver documento](decreto-726-2021.md) | normalizado · pendiente_revision |
+| 727-21 | 10/11/2021 | 11045 | QUE DESIGNA A ORLANDO ANTONIO SÁNCHEZ DIAZ, ASESOR EN COMERCIALIZACIÓN AGRÍCOLA DEL PRESIDENTE DE LA... | [Ver documento](decreto-727-2021.md) | normalizado · pendiente_revision |
+| 728-21 | 10/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS Y ELEVA EL MONTO DE PENSIONES A EX EMPLEADOS PÚBL... | [Ver documento](decreto-728-2021.md) | normalizado · pendiente_revision |
+| 729-21 | 10/11/2021 | 11045 | QUE CONSTITUYE EL FIDEICOMISO PARA TRANSFORMACIÓN Y PROFESIONALIZACIÓN DE LA POLICÍA NACIONAL. CREA ... | [Ver documento](decreto-729-2021.md) | normalizado · pendiente_revision |
+| 730-21 | 11/11/2021 | 11045 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDA EJERCER SUS RESPECTIVAS PROFESIONES | [Ver documento](decreto-730-2021.md) | normalizado · pendiente_revision |
+| 731-21 | 12/11/2021 | 11045 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES A VARIOS SERVIDORES PÚBLICOS | [Ver documento](decreto-731-2021.md) | normalizado · pendiente_revision |
+| 732-21 | 12/11/2021 | 11045 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES A VARIOS SERVIDORES PÚBLICOS. | [Ver documento](decreto-732-2021.md) | normalizado · pendiente_revision |
+| 733-21 | 16/11/2021 | 11045 | QUE NOMBRA A VÍCTOR RAMÓN CASTRO IZQUIERDO, DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DEL BIENESTAR ... | [Ver documento](decreto-733-2021.md) | normalizado · pendiente_revision |
+| 734-21 | 17/11/2021 | 11045 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN GRADO DE COMENDADOR, AL PAD... | [Ver documento](decreto-734-2021.md) | normalizado · pendiente_revision |
+| 735-21 | 19/11/2021 | 11045 | QUE ASCIENDE AL CORONEL INTENDENTE CÉSAR ARTURO ABREU ALMÁNZAR (CB), AL RANGO DE GENERAL DEL CUERPO ... | [Ver documento](decreto-735-2021.md) | normalizado · pendiente_revision |
+| 736-21 | 19/11/2021 | 11045 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Ver documento](decreto-736-2021.md) | normalizado · pendiente_revision |
+| 737-21 | 19/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL CIUDADANO DOMINICANO RICHARD WILSON TO... | [Ver documento](decreto-737-2021.md) | normalizado · pendiente_revision |
+| 738-21 | 19/11/2021 | 11045 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPUBLICA DE ARGENTINA, DEL NACIONAL DOMINICANO SADOT MIC... | [Ver documento](decreto-738-2021.md) | normalizado · pendiente_revision |
+| 739-21 | 19/11/2021 | 11045 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE ELBA ALTAGRACIA NOELIA REGÚS ENGE DE SHEPARD | [Ver documento](decreto-739-2021.md) | normalizado · pendiente_revision |
+| 740-21 | 19/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. AUMENTA EL MONTO DE PENSIONES CONCEDIDAS A EX EM... | [Ver documento](decreto-740-2021.md) | normalizado · pendiente_revision |
+| 741-21 | 19/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS, ASÍ COMO AUMENTOS DE PENSIONES A EX SERVIDORES P... | [Ver documento](decreto-741-2021.md) | normalizado · pendiente_revision |
+| 742-21 | 19/11/2021 | 11045 | QUE CONCEDE UNA PENSIÓN DEL ESTADO A LUIS AQUILINO NIN CAVALLO | [Ver documento](decreto-742-2021.md) | normalizado · pendiente_revision |
+| 743-21 | 19/11/2021 | 11045 | QUE AUMENTA LA PENSIÓN DEL ESTADO DE QUE DISFRUTA MILAGROS GENOVEVA PEGUERO V. DE PATERSON | [Ver documento](decreto-743-2021.md) | normalizado · pendiente_revision |
+| 744-21 | 19/11/2021 | 11045 | QUE AUMENTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN VARIAS PERSONAS | [Ver documento](decreto-744-2021.md) | normalizado · pendiente_revision |
+| 745-21 | 19/11/2021 | 11045 | QUE ESTABLECE LA ZAFRA AZUCARERA DEL PERIODO 2021-2022 DE LOS INGENIOS DEL PAÍS, LA CUAL COMPRENDERÁ... | [Ver documento](decreto-745-2021.md) | normalizado · pendiente_revision |
+| 746-21 | 19/11/2021 | 11045 | QUE DESIGNA A TONY RAFUL TEJADA Y DAVID ENMANUEL PUIG BUCHEL, EMBAJADORES EXTRAORDINARIOS Y PLENIPOT... | [Ver documento](decreto-746-2021.md) | normalizado · pendiente_revision |
+| 747-21 | 19/11/2021 | 11045 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LIC. EN DERECHO | [Ver documento](decreto-747-2021.md) | normalizado · pendiente_revision |
+| 748-21 | 19/11/2021 | 11045 | QUE AUTORIZA A VARIOS MIEMBROS DE LAS FUERZAS ARMADAS A ACEPTAR Y USAR CONDECORACIONES EXTRANJERAS O... | [Ver documento](decreto-748-2021.md) | normalizado · pendiente_revision |
+| 749-21 | 19/11/2021 | 11045 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR CON DISTINTIVO BLANCO, EN PRIMERA Y SEGU... | [Ver documento](decreto-749-2021.md) | normalizado · pendiente_revision |
+| 750-21 | 19/11/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL AÑO 1983, UNA PORCIÓN DE TERR... | [Ver documento](decreto-750-2021.md) | normalizado · pendiente_revision |
+| 751-21 | 19/11/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400, ARTICULO 1, LITERAL 1, DEL AÑO 1... | [Ver documento](decreto-751-2021.md) | normalizado · pendiente_revision |
+| 753-21 | 19/11/2021 | 11045 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES | [Ver documento](decreto-753-2021.md) | normalizado · pendiente_revision |
+| 754-21 | 19/11/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL AÑO 1983, ARTICULO 1, LITERAL... | [Ver documento](decreto-754-2021.md) | normalizado · pendiente_revision |
+| 755-21 | 22/11/2021 | 11045 | QUE NOMBRA A VARIOS VICECÓNSULES Y AUXILIARES DE CONSULADOS DE LA REPÚBLICA EN DISTINTOS PAÍSES | [Ver documento](decreto-755-2021.md) | normalizado · pendiente_revision |
+| 756-21 | 22/11/2021 | 11045 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBLICA EN E... | [Ver documento](decreto-756-2021.md) | normalizado · pendiente_revision |
+| 757-21 | 23/11/2021 | 11045 | QUE AUTORIZA A VARIAS PERSONAS A HACER CAMBIOS EN SUS NOMBRES. MODIFICA EL NUMERAL 1 DEL ARTÍCULO 1 ... | [Ver documento](decreto-757-2021.md) | normalizado · pendiente_revision |
+| 758-21 | 23/11/2021 | 11045 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A CLAUDIO MANUEL MUÑOZ MORILLO | [Ver documento](decreto-758-2021.md) | normalizado · pendiente_revision |
+| 759-21 | 23/11/2021 | 11045 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE NELSON ANTONIO MUÑOZ SANTOS | [Ver documento](decreto-759-2021.md) | normalizado · pendiente_revision |
+| 760-21 | 23/11/2021 | 11045 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES CONCEDIDAS A EX EMP... | [Ver documento](decreto-760-2021.md) | normalizado · pendiente_revision |
+| 761-21 | 23/11/2021 | 11045 | QUE INSTITUYE EL 18 DE NOVIEMBRE DE CADA AÑO COMO DIA NACIONAL DE LA FAMILIA, EN EL MARCO DEL MES DE... | [Ver documento](decreto-761-2021.md) | normalizado · pendiente_revision |
+| 762-21 | 23/11/2021 | 11046 | QUE CONCEDE EL BENEFICIO DE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SE... | [Ver documento](decreto-762-2021.md) | normalizado · pendiente_revision |
+| 763-21 | 24/11/2021 | 11046 | QUE DECLARA DE DUELO OFICIAL EL 25 DE NOVIEMBRE DEL PRESENTE AÑO CON MOTIVO DEL FALLECIMIENTO DEL MA... | [Ver documento](decreto-763-2021.md) | normalizado · pendiente_revision |
+| 764-21 | 26/11/2021 | 11046 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR CON DISTINTIVO BLANCO, EN PRIMERA Y SEGU... | [Ver documento](decreto-764-2021.md) | normalizado · pendiente_revision |
+| 765-21 | 30/11/2021 | 11046 | QUE ELEVA LA SUMA DE LA PENSIÓN OTORGADA POR EL ESTADO A LA SEÑORA ELBA ALTAGRACIA NOELIA REGÚS ENGE... | [Ver documento](decreto-765-2021.md) | normalizado · pendiente_revision |
+| 767-21 | 03/12/2021 | 11047 | QUE DESIGNA A JHONY RAFAEL RODRÍGUEZ HENRÍQUEZ, ASESOR HONORÍFICO DEL PODER EJECUTIVO EN DESARROLLO ... | [Ver documento](decreto-767-2021.md) | normalizado · pendiente_revision |
+| 768-21 | 03/12/2021 | 11047 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A VÍCTOR MANUEL ALCIBÍADES FELIZ PÉREZ. | [Ver documento](decreto-768-2021.md) | normalizado · pendiente_revision |
+| 769-21 | 03/12/2021 | 11047 | QUE NOMBRA A VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. DEROGA EL ARTÍCU... | [Ver documento](decreto-769-2021.md) | normalizado · pendiente_revision |
+| 770-21 | 03/12/2021 | 11047 | QUE NOMBRA EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS, CONCURRENTES, DE LA REPÚBLICA EN NEPAL Y... | [Ver documento](decreto-770-2021.md) | normalizado · pendiente_revision |
+| 771-21 | 03/12/2021 | 11047 | QUE DESIGNA A DAVID ENMANUEL PUIG BUCHEL, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, ... | [Ver documento](decreto-771-2021.md) | normalizado · pendiente_revision |
+| 772-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-772-2021.md) | normalizado · pendiente_revision |
+| 773-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-773-2021.md) | normalizado · pendiente_revision |
+| 774-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-774-2021.md) | normalizado · pendiente_revision |
+| 775-21 | 03/12/2021 | 11047 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE ARGENTINA, DEL NACIONAL DOMINICANO ODALKIS R... | [Ver documento](decreto-775-2021.md) | normalizado · pendiente_revision |
+| 776-21 | 03/12/2021 | 11047 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-776-2021.md) | normalizado · pendiente_revision |
+| 777-21 | 03/12/2021 | 11047 | QUE CONCEDE UNA PENSIÓN ESPECIAL DE ESTADO A JUAN DANIEL BALCÁCER JIMÉNEZ. | [Ver documento](decreto-777-2021.md) | normalizado · pendiente_revision |
+| 778-21 | 03/12/2021 | 11047 | QUE CONCEDE PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES CONCEDIDAS A EX EMPL... | [Ver documento](decreto-778-2021.md) | normalizado · pendiente_revision |
+| 779-21 | 03/12/2021 | 11047 | QUE CONCEDE PENSIONES DEL ESTADO A VARIOS SERVIDORES PÚBLICOS DEL SECTOR SALUD. ELEVA EL MONTO DE PE... | [Ver documento](decreto-779-2021.md) | normalizado · pendiente_revision |
+| 780-21 | 03/12/2021 | 11047 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A JOSÉ TABAR GONZÁLEZ. | [Ver documento](decreto-780-2021.md) | normalizado · pendiente_revision |
+| 781-21 | 03/12/2021 | 11047 | QUE CONCEDE PENSIONES DEL ESTADO A EX SERVIDORES PÚBLICOS. | [Ver documento](decreto-781-2021.md) | normalizado · pendiente_revision |
+| 782-21 | 03/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-782-2021.md) | normalizado · pendiente_revision |
+| 783-21 | 03/12/2021 | 11047 | QUE DISPONE ERIGIR UN MAUSOLEO EN HONOR A ENRIQUILLO. CREA E INTEGRA UNA COMISIÓN ESPECIAL PRESIDIDA... | [Ver documento](decreto-783-2021.md) | normalizado · pendiente_revision |
+| 784-21 | 03/12/2021 | 11047 | QUE NOMBRA A MARGARITO DE LEÓN CASTILLO, CÓNSUL DE LA REPÚBLICA EN JUANA MÉNDEZ, HAITÍ. DEROGA EL AR... | [Ver documento](decreto-784-2021.md) | normalizado · pendiente_revision |
+| 785-21 | 06/12/2021 | 11047 | QUE PONE A CARGO DEL ORGANISMO INTERNACIONAL REGIONAL DE SANIDAD AGROPECUARIA, TODAS LAS MEDIDAS REL... | [Ver documento](decreto-785-2021.md) | normalizado · pendiente_revision |
+| 786-21 | 06/12/2021 | 11047 | QUE DEROGA EL ARTÍCULO L DEL DEC. NO.694-20, QUE DESIGNÓ A LUZ DEL ALBA JIMÉNEZ RAMÍREZ, COMO MINIST... | [Ver documento](decreto-786-2021.md) | normalizado · pendiente_revision |
+| 787-21 | 06/12/2021 | 11047 | QUE INSTRUYE A LOS MINISTERIOS DE SALUD PÚBLICA Y ASISTENCIA SOCIAL Y DE TURISMO A ELABORAR, PREVIA ... | [Ver documento](decreto-787-2021.md) | normalizado · pendiente_revision |
+| 788-21 | 07/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-788-2021.md) | normalizado · pendiente_revision |
+| 789-21 | 07/12/2021 | 11047 | QUE CONCEDE INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-789-2021.md) | normalizado · pendiente_revision |
+| 790-21 | 08/12/2021 | 11047 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-790-2021.md) | normalizado · pendiente_revision |
+| 791-21 | 09/12/2021 | 11047 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL EL PROCESO DE IMPLEMENTACIÓN Y ELECCIÓN DE LAS COMISIONES DE ... | [Ver documento](decreto-791-2021.md) | normalizado · pendiente_revision |
+| 792-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO DE QUE DISFRUTA FLORENCIA ROSARIO RAMOS. | [Ver documento](decreto-792-2021.md) | normalizado · pendiente_revision |
+| 793-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO CONCEDIDA A TAMARA ELSIRA HERRERA GARCÍA. | [Ver documento](decreto-793-2021.md) | normalizado · pendiente_revision |
+| 794-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO DE QUE DISFRUTA JOSÉ FRANCISCO MATOS MATOS. | [Ver documento](decreto-794-2021.md) | normalizado · pendiente_revision |
+| 795-21 | 10/12/2021 | 11048 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO CONCEDIDA A JULIÁN BONILLA MEDINA. | [Ver documento](decreto-795-2021.md) | normalizado · pendiente_revision |
+| 796-21 | 10/12/2021 | 11048 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-796-2021.md) | normalizado · pendiente_revision |
+| 797-21 | 10/12/2021 | 11048 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO.659-21, QUE CREA EL PARQUE NACIONAL LOMA LOS SIETE PICOS, BAJ... | [Ver documento](decreto-797-2021.md) | normalizado · pendiente_revision |
+| 798-21 | 10/12/2021 | 11048 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO.1400 DEL 1983, ARTÍCULO 1, LITERAL 1, U... | [Ver documento](decreto-798-2021.md) | normalizado · pendiente_revision |
+| 799-21 | 10/12/2021 | 11048 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA POR EL DEC. NO.1400 DEL 1983, ARTÍCULO 1, LITERAL 1, DOS PO... | [Ver documento](decreto-799-2021.md) | normalizado · pendiente_revision |
+| 800-21 | 10/12/2021 | 11048 | QUE EXCLUYE DE LA EXPROPIACIÓN DISPUESTA POR EL DEC. NO.1400 DEL 1983, EN SU ARTÍCULO 1, LITERAL 1, ... | [Ver documento](decreto-800-2021.md) | normalizado · pendiente_revision |
+| 801-21 | 14/12/2021 | 11049 | QUE NOMBRA A MARYLIN YVONNE DEL CARMEN DIAZ, RECTORA DE LA UNIVERSIDAD TECNOLÓGICA DEL CIBAO CENTRAL... | [Ver documento](decreto-801-2021.md) | normalizado · pendiente_revision |
+| 802-21 | 15/12/2021 | 11049 | QUE DESIGNA A TEODORA MULLIX GERALDINO, GOBERNADORA CIVIL DE LA PROVINCIA SAMANÁ. | [Ver documento](decreto-802-2021.md) | normalizado · pendiente_revision |
+| 803-21 | 15/12/2021 | 11049 | QUE NOMBRA A MENNI LOLIN CUEVAS GONZÁLEZ, CÓNSUL DE LA REPUBLICA DOMINICANA EN ANSE-Á-PITRE, REPUBLI... | [Ver documento](decreto-803-2021.md) | normalizado · pendiente_revision |
 | 804-21 | 15/12/2021 | 11049 | QUE DESIGNA A RAFAEL JESÚS FÉLIZ GARCÍA, MINISTRO DE LA JUVENTUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399016&managementType=1) | pendiente_verificacion_pdf |
 | 805-21 | 15/12/2021 | 11049 | QUE NOMBRA A MIGUEL ÁNGEL CABRAL VERAS, DIRECTOR EJECUTIVO DE LA OFICINA COORDINADORA DE LA REPUBLIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399019&managementType=1) | pendiente_verificacion_pdf |
 | 806-21 | 17/12/2021 | 11049 | QUE DISPONE LA REACTIVACIÓN DE LAS COMISIONES O COMITÉS TÉCNICOS DE IMPLEMENTACIÓN, COORDINACIÓN Y S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399020&managementType=1) | pendiente_verificacion_pdf |
@@ -1536,7 +1636,7 @@ Documentos detectados: **838**.
 | 822-21 | 17/12/2021 | 11049 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399036&managementType=1) | pendiente_verificacion_pdf |
 | 823-21 | 17/12/2021 | 11049 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399037&managementType=1) | pendiente_verificacion_pdf |
 | 824-21 | 17/12/2021 | 11049 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399038&managementType=1) | pendiente_verificacion_pdf |
-| 752-21 | 19/12/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400, ARTICULO 1, LITERAL 1, DEL AÑO 1... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398936&managementType=1) | pendiente_verificacion_pdf |
+| 752-21 | 19/12/2021 | 11045 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400, ARTICULO 1, LITERAL 1, DEL AÑO 1... | [Ver documento](decreto-752-2021.md) | normalizado · pendiente_revision |
 | 825-21 | 20/12/2021 | 11049 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO NAVAL, CON MEDALLA DE HONOR, AL ALMIRANTE BRENDA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399039&managementType=1) | pendiente_verificacion_pdf |
 | 826-21 | 20/12/2021 | 11049 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399040&managementType=1) | pendiente_verificacion_pdf |
 | 827-21 | 20/12/2021 | 11049 | QUE MODIFICA EL ARTÍCULO 2 Y EL NUMERAL 6 DEL ARTÍCULO 4 DEL DEC. NO. 729-21, QUE DISPONE LA CONSTIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399041&managementType=1) | pendiente_verificacion_pdf |
