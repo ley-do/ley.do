@@ -1,0 +1,34 @@
+{
+  "tipo_documento": "decreto",
+  "numero": "108",
+  "anio": "2024",
+  "titulo": "que deroga los numerales del 25 al 31 del artículo 1 del Decreto núm. 460-23, que concedió pensiones del Estado a varias personas. G. O. No. 11143 del 3 de marzo de 2024",
+  "fecha": "23/02/2024",
+  "gaceta_oficial": "11143",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401943&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401943&managementType=1",
+  "document_id_consultoria": "3401943",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "archivos/decretos/2024/decreto-108-2024.pdf",
+  "ruta_markdown": "docs/decretos/2024/decreto-108-2024.md",
+  "ruta_json": "datos/decretos/2024/decreto-108-2024.json",
+  "sha256_pdf_original": "6ed687951847026939a39508dd3f7e0711875460eabfd8572e933bdf255e14dd",
+  "sha256_markdown": "7f7fa9e41b650568d607da9b1be060882acdcbe0dd2c83990a1479261cd65a6a",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": true,
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos. La metadata oficial usa 108-23; el encabezado del PDF indica 108-24. El paquete se normaliza como 108-2024 y queda pendiente de revisión humana.",
+  "numero_registro_fuente": "108-23",
+  "alertas_revision": [
+    {
+      "campo": "numero",
+      "valor_fuente_oficial": "108-23",
+      "evidencia_texto_pdf": "Dec. núm. 108-24",
+      "accion": "Conservar el valor de la metadata y normalizar el paquete según el encabezado del PDF; someter a revisión humana."
+    }
+  ]
+}
