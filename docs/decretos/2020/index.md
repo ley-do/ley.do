@@ -309,6 +309,106 @@ Documentos detectados: **756**.
 - [Decreto núm. 299-2020](decreto-299-2020.md)
 - [Decreto núm. 300-2020](decreto-300-2020.md)
 - [Decreto núm. 301-2020](decreto-301-2020.md)
+- [Decreto núm. 302-2020](decreto-302-2020.md)
+- [Decreto núm. 303-2020](decreto-303-2020.md)
+- [Decreto núm. 304-2020](decreto-304-2020.md)
+- [Decreto núm. 305-2020](decreto-305-2020.md)
+- [Decreto núm. 306-2020](decreto-306-2020.md)
+- [Decreto núm. 307-2020](decreto-307-2020.md)
+- [Decreto núm. 308-2020](decreto-308-2020.md)
+- [Decreto núm. 309-2020](decreto-309-2020.md)
+- [Decreto núm. 310-2020](decreto-310-2020.md)
+- [Decreto núm. 311-2020](decreto-311-2020.md)
+- [Decreto núm. 312-2020](decreto-312-2020.md)
+- [Decreto núm. 313-2020](decreto-313-2020.md)
+- [Decreto núm. 314-2020](decreto-314-2020.md)
+- [Decreto núm. 315-2020](decreto-315-2020.md)
+- [Decreto núm. 316-2020](decreto-316-2020.md)
+- [Decreto núm. 317-2020](decreto-317-2020.md)
+- [Decreto núm. 318-2020](decreto-318-2020.md)
+- [Decreto núm. 319-2020](decreto-319-2020.md)
+- [Decreto núm. 320-2020](decreto-320-2020.md)
+- [Decreto núm. 321-2020](decreto-321-2020.md)
+- [Decreto núm. 322-2020](decreto-322-2020.md)
+- [Decreto núm. 323-2020](decreto-323-2020.md)
+- [Decreto núm. 324-2020](decreto-324-2020.md)
+- [Decreto núm. 325-2020](decreto-325-2020.md)
+- [Decreto núm. 326-2020](decreto-326-2020.md)
+- [Decreto núm. 327-2020](decreto-327-2020.md)
+- [Decreto núm. 328-2020](decreto-328-2020.md)
+- [Decreto núm. 329-2020](decreto-329-2020.md)
+- [Decreto núm. 330-2020](decreto-330-2020.md)
+- [Decreto núm. 331-2020](decreto-331-2020.md)
+- [Decreto núm. 332-2020](decreto-332-2020.md)
+- [Decreto núm. 333-2020](decreto-333-2020.md)
+- [Decreto núm. 334-2020](decreto-334-2020.md)
+- [Decreto núm. 335-2020](decreto-335-2020.md)
+- [Decreto núm. 336-2020](decreto-336-2020.md)
+- [Decreto núm. 337-2020](decreto-337-2020.md)
+- [Decreto núm. 338-2020](decreto-338-2020.md)
+- [Decreto núm. 339-2020](decreto-339-2020.md)
+- [Decreto núm. 340-2020](decreto-340-2020.md)
+- [Decreto núm. 341-2020](decreto-341-2020.md)
+- [Decreto núm. 342-2020](decreto-342-2020.md)
+- [Decreto núm. 343-2020](decreto-343-2020.md)
+- [Decreto núm. 344-2020](decreto-344-2020.md)
+- [Decreto núm. 345-2020](decreto-345-2020.md)
+- [Decreto núm. 346-2020](decreto-346-2020.md)
+- [Decreto núm. 347-2020](decreto-347-2020.md)
+- [Decreto núm. 348-2020](decreto-348-2020.md)
+- [Decreto núm. 349-2020](decreto-349-2020.md)
+- [Decreto núm. 350-2020](decreto-350-2020.md)
+- [Decreto núm. 351-2020](decreto-351-2020.md)
+- [Decreto núm. 352-2020](decreto-352-2020.md)
+- [Decreto núm. 353-2020](decreto-353-2020.md)
+- [Decreto núm. 354-2020](decreto-354-2020.md)
+- [Decreto núm. 355-2020](decreto-355-2020.md)
+- [Decreto núm. 356-2020](decreto-356-2020.md)
+- [Decreto núm. 357-2020](decreto-357-2020.md)
+- [Decreto núm. 358-2020](decreto-358-2020.md)
+- [Decreto núm. 359-2020](decreto-359-2020.md)
+- [Decreto núm. 360-2020](decreto-360-2020.md)
+- [Decreto núm. 361-2020](decreto-361-2020.md)
+- [Decreto núm. 362-2020](decreto-362-2020.md)
+- [Decreto núm. 363-2020](decreto-363-2020.md)
+- [Decreto núm. 364-2020](decreto-364-2020.md)
+- [Decreto núm. 365-2020](decreto-365-2020.md)
+- [Decreto núm. 366-2020](decreto-366-2020.md)
+- [Decreto núm. 367-2020](decreto-367-2020.md)
+- [Decreto núm. 368-2020](decreto-368-2020.md)
+- [Decreto núm. 369-2020](decreto-369-2020.md)
+- [Decreto núm. 370-2020](decreto-370-2020.md)
+- [Decreto núm. 371-2020](decreto-371-2020.md)
+- [Decreto núm. 372-2020](decreto-372-2020.md)
+- [Decreto núm. 373-2020](decreto-373-2020.md)
+- [Decreto núm. 374-2020](decreto-374-2020.md)
+- [Decreto núm. 375-2020](decreto-375-2020.md)
+- [Decreto núm. 376-2020](decreto-376-2020.md)
+- [Decreto núm. 377-2020](decreto-377-2020.md)
+- [Decreto núm. 378-2020](decreto-378-2020.md)
+- [Decreto núm. 379-2020](decreto-379-2020.md)
+- [Decreto núm. 380-2020](decreto-380-2020.md)
+- [Decreto núm. 381-2020](decreto-381-2020.md)
+- [Decreto núm. 382-2020](decreto-382-2020.md)
+- [Decreto núm. 383-2020](decreto-383-2020.md)
+- [Decreto núm. 384-2020](decreto-384-2020.md)
+- [Decreto núm. 385-2020](decreto-385-2020.md)
+- [Decreto núm. 386-2020](decreto-386-2020.md)
+- [Decreto núm. 387-2020](decreto-387-2020.md)
+- [Decreto núm. 388-2020](decreto-388-2020.md)
+- [Decreto núm. 389-2020](decreto-389-2020.md)
+- [Decreto núm. 390-2020](decreto-390-2020.md)
+- [Decreto núm. 391-2020](decreto-391-2020.md)
+- [Decreto núm. 392-2020](decreto-392-2020.md)
+- [Decreto núm. 393-2020](decreto-393-2020.md)
+- [Decreto núm. 394-2020](decreto-394-2020.md)
+- [Decreto núm. 395-2020](decreto-395-2020.md)
+- [Decreto núm. 396-2020](decreto-396-2020.md)
+- [Decreto núm. 397-2020](decreto-397-2020.md)
+- [Decreto núm. 398-2020](decreto-398-2020.md)
+- [Decreto núm. 399-2020](decreto-399-2020.md)
+- [Decreto núm. 400-2020](decreto-400-2020.md)
+- [Decreto núm. 401-2020](decreto-401-2020.md)
 
 ## Documentos detectados
 
@@ -637,106 +737,106 @@ Documentos detectados: **756**.
 | 299-20 | 10/08/2020 | 10983 | QUE DESIGNA A SU EXCELENCIA REVERENDÍSIMA MONSEÑOR FRANCISCO OZORIA ACOSTA, MAYOR GENERAL CAPELLÁN C... | [Ver documento](decreto-299-2020.md) | normalizado · pendiente_revision |
 | 300-20 | 10/08/2020 | 10983 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR LUIS ROLAN... | [Ver documento](decreto-300-2020.md) | normalizado · pendiente_revision |
 | 301-20 | 10/08/2020 | 10983 | QUE DEROGA EL DEC. NO. 283-17, QUE NOMBRÓ A LA SEÑORA MARIA DE LOS ÁNGELES GARCÍA, EMBAJADORA HONORI... | [Ver documento](decreto-301-2020.md) | normalizado · pendiente_revision |
-| 302-20 | 10/08/2020 | 10983 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 339-16, QUE DESIGNÓ A LA SEÑORA PASTORA LILLIE BERMÚDEZ IBARRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396073&managementType=1) | pendiente_verificacion_pdf |
-| 303-20 | 10/08/2020 | EN TRAMITE DE PUBLICACION EN GACETA OFICIAL | QUE DISPONE LA ENTREGA EN EXTRADICION A LOS ESTADOS UNIDOS DE AMERICA DEL NACIONAL DOMINICANO JOSE F... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396074&managementType=1) | pendiente_verificacion_pdf |
-| 304-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO KELVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396075&managementType=1) | pendiente_verificacion_pdf |
-| 305-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO CÉSAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396076&managementType=1) | pendiente_verificacion_pdf |
-| 306-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396077&managementType=1) | pendiente_verificacion_pdf |
-| 307-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RAMÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396078&managementType=1) | pendiente_verificacion_pdf |
-| 308-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO OSCAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396079&managementType=1) | pendiente_verificacion_pdf |
-| 309-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396083&managementType=1) | pendiente_verificacion_pdf |
-| 310-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396084&managementType=1) | pendiente_verificacion_pdf |
-| 311-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396085&managementType=1) | pendiente_verificacion_pdf |
-| 312-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396086&managementType=1) | pendiente_verificacion_pdf |
-| 313-20 | 12/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396087&managementType=1) | pendiente_verificacion_pdf |
-| 314-20 | 12/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396088&managementType=1) | pendiente_verificacion_pdf |
-| 315-20 | 12/08/2020 | 10983 | QUE INSTRUYE AL MINISTERIO DE MEDIO AMBIENTE Y RECURSOS NATURALES, REVOCAR Y DEJAR SIN EFECTO EL PER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396089&managementType=1) | pendiente_verificacion_pdf |
-| 316-20 | 13/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR CON DISTINTIVO BLANCO, EN PRIMERA CLASE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396090&managementType=1) | pendiente_verificacion_pdf |
-| 317-20 | 13/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO, CON DISTINTIVO BLANCO, EN PRIMERA Y SEGUN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396091&managementType=1) | pendiente_verificacion_pdf |
-| 318-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL TENIENTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396095&managementType=1) | pendiente_verificacion_pdf |
-| 319-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE LAS PENSIONES CORRESPONDIENTES, POR ANTIGÜEDAD EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396096&managementType=1) | pendiente_verificacion_pdf |
-| 320-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL GENERAL DE BRIGADA ABOGADO JUAN MANUEL MÉNDEZ GARCÍA, ERD., DIRECTOR DEL CENTRO DE O... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396097&managementType=1) | pendiente_verificacion_pdf |
-| 321-20 | 14/08/2020 | 10983 | QUE ASCIENDE A LA CONTRALMIRANTE MAYRA ALICIA DIAZ MARTINEZ, AL RANGO DE VICEALMIRANTE, ARD; A LOS C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396098&managementType=1) | pendiente_verificacion_pdf |
-| 322-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL CORONEL FIDEL AUGUSTO CALCAÑO PAULINO, ERD Y AL CORONEL RIGOBERTO DE LOS SANTOS GUER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396099&managementType=1) | pendiente_verificacion_pdf |
-| 323-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL MAYOR G... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396100&managementType=1) | pendiente_verificacion_pdf |
-| 324-20 | 16/08/2020 | 10986 | QUE INTEGRA EL GABINETE DEL GOBIERNO CENTRAL Y NOMBRA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL EST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396101&managementType=1) | pendiente_verificacion_pdf |
-| 325-20 | 16/08/2020 | 10986 | QUE NOMBRA A LA SEÑORA MILAGROS ORTIZ BOSCH, ASESORA DEL PODER EJECUTIVO EN MATERIA DE ÉTICA, TRANSP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396102&managementType=1) | pendiente_verificacion_pdf |
-| 326-20 | 16/08/2020 | 10986 | QUE NOMBRA TRES (3) VICEMINISTROS DE DEFENSA, A LOS COMANDANTES Y SUBCOMANDANTES DEL EJÉRCITO Y DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396103&managementType=1) | pendiente_verificacion_pdf |
-| 327-20 | 16/08/2020 | 10986 | QUE NOMBRA A LUIS SOTO, DIRECTOR DEL DEPARTAMENTO NACIONAL DE INVESTIGACIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396104&managementType=1) | pendiente_verificacion_pdf |
-| 328-20 | 16/08/2020 | 10986 | QUE CREA LA SECRETARIA GENERAL DEL GABINETE DEL PRESIDENTE DE LA REPÚBLICA. DESIGNA A EILYN BELTRÁN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396105&managementType=1) | pendiente_verificacion_pdf |
-| 329-20 | 16/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396126&managementType=1) | pendiente_verificacion_pdf |
-| 330-20 | 16/08/2020 | 10986 | QUE NOMBRA CINCUENTA Y SIETE (57) VICEMINISTROS EN DISTINTOS MINISTERIOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396135&managementType=1) | pendiente_verificacion_pdf |
-| 331-20 | 16/08/2020 | 10986 | NOMBRA A FRANCISCO ANTONIO PEÑA GUABA, COORDINADOR DEL GABINETE DE POLÍTICAS SOCIALES, Y A GLORIA R.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396127&managementType=1) | pendiente_verificacion_pdf |
-| 332-20 | 16/08/2020 | 10986 | QUE DESIGNA A PEDRO SILVERIO ÁLVAREZ, JOEL SANTOS ECHAVARRÍA, LUIS AMAURY SÁNCHEZ LEMBERT, JOSÉ DANI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396128&managementType=1) | pendiente_verificacion_pdf |
-| 333-20 | 16/08/2020 | 10986 | QUE NOMBRA A RAFAEL SUÁREZ, EDWIN ACOSTA, EMILIO RODRÍGUEZ, YENI BERENICE REYNOSO, MÁRTIREZ CIRILO Q... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396106&managementType=1) | pendiente_verificacion_pdf |
-| 334-20 | 16/08/2020 | 10986 | QUE DESIGNA A SAMUEL PEREYRA ROJAS, ADMINISTRADOR GENERAL DEL BANCO DE RESERVAS DE LA REPÚBLICA DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396129&managementType=1) | pendiente_verificacion_pdf |
-| 335-20 | 16/08/2020 | 10986 | QUE DEROGA EL DEC. NO. 236-15, QUE DESIGNÓ A HORACIO EMILIO MAZARA LUGO, DIRECTOR EJECUTIVO DEL INST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396137&managementType=1) | pendiente_verificacion_pdf |
-| 336-20 | 16/08/2020 | 10986 | QUE NOMBRA A HOMERO ARGEL FIGUEROA GÜÍLAMO, DIRECTOR DE INFORMACIÓN, ANÁLISIS Y PROGRAMACIÓN ESTRATÉ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396130&managementType=1) | pendiente_verificacion_pdf |
-| 337-20 | 16/08/2020 | 10986 | QUE NOMBRA A MONSEÑOR AGRIPINO NÚÑEZ COLLADO, ASESOR HONORÍFICO DEL PODER EJECUTIVO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396215&managementType=1) | pendiente_verificacion_pdf |
-| 338-20 | 16/08/2020 | 10986 | QUE MODIFICA LOS ARTÍCULOS 2, 3 Y 4 DEL DEC. NO. 201-14, QUE DECLARA DE ALTA PRIORIDAD DEL GOBIERNO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396138&managementType=1) | pendiente_verificacion_pdf |
-| 339-20 | 16/08/2020 | 10986 | QUE DESIGNA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396131&managementType=1) | pendiente_verificacion_pdf |
-| 340-20 | 16/08/2020 | 10986 | QUE NOMBRA VEINTISIETE (27) GOBERNADORAS CIVILES EN VARIAS PROVINCIAS DEL PAÍS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396139&managementType=1) | pendiente_verificacion_pdf |
-| 341-20 | 16/08/2020 | 10986 | QUE MODIFICA EL DEC. NO. 287-08, QUE ESTABLECIÓ EL REGLAMENTO DE LA CONSULTORÍA JURÍDICA DEL PODER E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396140&managementType=1) | pendiente_verificacion_pdf |
-| 342-20 | 16/08/2020 | 10986 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA LIQUIDACIÓN DE LA CORPORACIÓN DOMINICANA DE EMPRESAS ELÉCTRI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396141&managementType=1) | pendiente_verificacion_pdf |
-| 343-20 | 16/08/2020 | 10986 | QUE DESIGNA A TOMÁS OZUNA TAPIA, ANDRÉS CUETO ROSARIO Y MILTON TEÓFILO MORRISON RAMÍREZ, GERENTES GE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396132&managementType=1) | pendiente_verificacion_pdf |
-| 344-20 | 16/08/2020 | 10986 | QUE NOMBRA A MERCEDES PICHARDO PÉREZ, ASISTENTE PERSONAL DEL PRESIDENTE DE LA REPÚBLICA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396133&managementType=1) | pendiente_verificacion_pdf |
-| 345-20 | 16/08/2020 | 10986 | QUE NOMBRA A CÉSAR CEDEÑO, DIRECTOR GENERAL DE BIENES NACIONALES, Y DIRECTOR HONORIFICO DEL CONSEJO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396134&managementType=1) | pendiente_verificacion_pdf |
-| 346-20 | 16/08/2020 | 10986 | QUE DESIGNA A JUAN FORTUNATO MUBARAK PÉREZ, DIRECTOR NACIONAL DE PATRIMONIO MONUMENTAL. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396142&managementType=1) | pendiente_verificacion_pdf |
-| 347-20 | 16/08/2020 | 10986 | QUE NOMBRA AL GENERAL DE BRIGADA VICENTE MOTA MEDINA, ERD, DIRECTOR EJECUTIVO DEL SISTEMA NACIONAL D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396143&managementType=1) | pendiente_verificacion_pdf |
-| 348-20 | 17/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. DEROGA EL ARTÍCULO 18 DEL DEC. NO. 33... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396144&managementType=1) | pendiente_verificacion_pdf |
-| 349-20 | 17/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396145&managementType=1) | pendiente_verificacion_pdf |
-| 350-20 | 17/08/2020 | 10986 | QUE NOMBRA A FELIPE ANTONIO SUBERVÍ HERNÁNDEZ, DIRECTOR GENERAL DE LA CORPORACIÓN DEL ACUEDUCTO Y AL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396146&managementType=1) | pendiente_verificacion_pdf |
-| 351-20 | 17/08/2020 | 10986 | QUE DESIGNA A SERAFIN CANARIO DE LA ROSA, ADMINISTRADOR GENERAL DE LA CENTRAL TERMOELÉCTRICA PUNTA C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396147&managementType=1) | pendiente_verificacion_pdf |
-| 352-20 | 17/08/2020 | 10986 | QUE DESIGNA TRES (3) VICEMINISTROS Y TRES (3) ASESORES EN EL MINISTERIO DE TURISMO. DEROGA LOS ARTÍC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396148&managementType=1) | pendiente_verificacion_pdf |
-| 353-20 | 17/08/2020 | 10986 | QUE NOMBRA A NOELIA EULALIA DEL CORAZÓN DE JESÚS SHEPHARD DE BENCOSME, SUBDIRECTORA DEL DESPACHO PRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396149&managementType=1) | pendiente_verificacion_pdf |
-| 354-20 | 17/08/2020 | 10986 | QUE DESIGNA VARIOS VICEMINISTROS Y FUNCIONARIOS EN DISTINTOS MINISTERIOS Y LOS CÓNSULES GENERALES DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396150&managementType=1) | pendiente_verificacion_pdf |
-| 355-20 | 17/08/2020 | 10986 | QUE DESIGNA A EDWARD RAFAEL GUZMÁN PADILLA, IVELISSE V. ACOSTA REYES, JOSÉ ANTONIO MATOS PÉREZ, FERN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396151&managementType=1) | pendiente_verificacion_pdf |
-| 356-20 | 19/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396152&managementType=1) | pendiente_verificacion_pdf |
-| 357-20 | 19/08/2020 | 10986 | QUE CONFIRMA A CLARISSA DE LA ROCHA, COMO VICEGOBERNADORA DEL BANCO CENTRAL DE LA REPÚBLICA DOMINICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396153&managementType=1) | pendiente_verificacion_pdf |
-| 358-20 | 19/08/2020 | 10986 | QUE EXTIENDE LA VIGENCIA DE LOS PROGRAMAS FASE I, FASE II, QUÉDATE EN CASA Y PA’TI, HASTA EL 31 DE D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396154&managementType=1) | pendiente_verificacion_pdf |
-| 359-20 | 19/08/2020 | 10986 | QUE ASCIENDE AL CAPITÁN DE NAVÍO JUAN CÁNDIDO PEÑA OGANDO AL RANGO DE CONTRALMIRANTE ARD., Y AL CORO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396163&managementType=1) | pendiente_verificacion_pdf |
-| 360-20 | 19/08/2020 | 10986 | QUE ASCIENDE AL CAPITÁN DE NAVÍO JOSÉ MANUEL CABRERA ULLOA AL RANGO CONTRALMIRANTE ARD., Y LO DESIGN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396155&managementType=1) | pendiente_verificacion_pdf |
-| 361-20 | 19/08/2020 | 10986 | QUE DESIGNA A HÉCTOR RADHAMÉS GONZÁLEZ MEDINA, PERSIO CÁNDIDO CRUZ PICHARDO, ARISMENDY DE JESÚS ALMO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396156&managementType=1) | pendiente_verificacion_pdf |
-| 362-20 | 19/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON UNA CONSEJERA Y EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396157&managementType=1) | pendiente_verificacion_pdf |
-| 363-20 | 19/08/2020 | 10986 | QUE DESIGNA EMBAJADORES REPRESENTANTES PERMANENTES Y ALTERNOS DE LA REPÚBLICA DOMINICANA ANTE LA ORG... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396158&managementType=1) | pendiente_verificacion_pdf |
-| 364-20 | 19/08/2020 | 10986 | QUE NOMBRA A VARIOS VICEMINISTROS EN EL MINISTERIO DE EDUCACIÓN SUPERIOR, CIENCIA Y TECNOLOGÍA. DERO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396159&managementType=1) | pendiente_verificacion_pdf |
-| 365-20 | 19/08/2020 | 10986 | QUE DESIGNA A FERNANDO ANTONIO CRUZ, JOSÉ MODESTO YOVANI CRUZ DURÁN Y YAMAL NASSER MICHELÉN STEFAN, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396160&managementType=1) | pendiente_verificacion_pdf |
-| 366-20 | 20/08/2020 | 10986 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO Y DEROGA LOS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396161&managementType=1) | pendiente_verificacion_pdf |
-| 367-20 | 20/08/2020 | 10986 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 302-14, QUE DESIGNÓ AL GENERAL DE BRIGADA ARACENIS CASTILLO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396162&managementType=1) | pendiente_verificacion_pdf |
-| 368-20 | 20/08/2020 | 10986 | QUE DISUELVE EL DESPACHO DE LA PRIMERA DAMA. TRANSFIERE AL MINISTERIO DE SALUD PÚBLICA Y ASISTENCIA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396164&managementType=1) | pendiente_verificacion_pdf |
-| 369-20 | 20/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE SEIS (6) SUBADMINISTRADORES DEL BANCO AGRÍCOLA DE LA REPÚBL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396165&managementType=1) | pendiente_verificacion_pdf |
-| 370-20 | 20/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO Y DEJA SIN EFECTO LOS DECRETOS QUE NOM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396166&managementType=1) | pendiente_verificacion_pdf |
-| 371-20 | 20/08/2020 | 10986 | NOMBRA A RAFAEL ANTONIO SANTOS PÉREZ, DIRECTOR EJECUTIVO DE LA OFICINA PARA EL REORDENAMIENTO DEL TR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396167&managementType=1) | pendiente_verificacion_pdf |
-| 372-20 | 20/08/2020 | 10986 | QUE ASCIENDE A LOS CORONELES CÉSAR AUGUSTO MIRANDA MAÑÓN Y JORGE LUIS MOREL DE DIOS, E.R.D., AL RANG... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396168&managementType=1) | pendiente_verificacion_pdf |
-| 373-20 | 21/08/2020 | 10986 | QUE DESIGNA VOCALES MIEMBROS Y VOCALES SUPLENTES DEL CONSEJO DE DIRECTORES DEL BANCO DE RESERVAS DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396183&managementType=1) | pendiente_verificacion_pdf |
-| 374-20 | 21/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. MODIFICA LOS ARTÍCULOS 1 Y 14 DEL DEC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396169&managementType=1) | pendiente_verificacion_pdf |
-| 375-20 | 21/08/2020 | 10986 | QUE INTEGRA EL CONSEJO UNIFICADO DE LAS EMPRESAS DISTRIBUIDORAS DE ELECTRICIDAD, CREADO MEDIANTE DEC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396170&managementType=1) | pendiente_verificacion_pdf |
-| 376-20 | 21/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ASÍ COMO EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396171&managementType=1) | pendiente_verificacion_pdf |
-| 377-20 | 21/08/2020 | 10986 | QUE NOMBRA A SANTIAGO HAZIM, DIRECTOR EJECUTIVO DEL SEGURO NACIONAL DE SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396172&managementType=1) | pendiente_verificacion_pdf |
-| 378-20 | 21/08/2020 | 10986 | QUE DESIGNA A MARIO LAMA OLIVERO, DIRECTOR EJECUTIVO DEL SERVICIO NACIONAL DE SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396173&managementType=1) | pendiente_verificacion_pdf |
-| 379-20 | 21/08/2020 | 10986 | QUE NOMBRA A RAFAEL EVARISTO SANTOS BADIA, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE FORMACIÓN TÉCN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396174&managementType=1) | pendiente_verificacion_pdf |
-| 380-20 | 21/08/2020 | 10986 | QUE AGREGA UN NUMERAL 11 AL ARTÍCULO 4 DEL DEC. NO. 266-20. DISPONE LA CIRCULACIÓN HASTA LAS 11:00 P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396175&managementType=1) | pendiente_verificacion_pdf |
-| 381-20 | 22/08/2020 | 10986 | QUE DEROGA LOS ARTÍCULOS 4, 5 Y 6 DEL DEC. NO. 538-12, QUE DESIGNARON A ELSO MARTÍNEZ, JULIO CANELO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396176&managementType=1) | pendiente_verificacion_pdf |
-| 382-20 | 22/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON PROCURADORES GENERALES ADJUNTOS EN LA PROCURADURÍA GENERAL DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396177&managementType=1) | pendiente_verificacion_pdf |
-| 383-20 | 22/08/2020 | 10986 | QUE DESIGNA VICEMINISTROS EN LOS MINISTERIOS DE LA MUJER, DE DEPORTES Y RECREACIÓN, Y DE INDUSTRIA, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396178&managementType=1) | pendiente_verificacion_pdf |
-| 384-20 | 22/08/2020 | 10986 | QUE NOMBRA A LUIS JOSÉ CHÁVEZ CASTELLANOS, ASESOR DEL INSTITUTO DOMINICANO DE AVIACIÓN CIVIL. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396179&managementType=1) | pendiente_verificacion_pdf |
-| 385-20 | 22/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE VARIOS FUNCIONARIOS EN EL INSTITUTO DOMINICANO DE AVIACIÓN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396180&managementType=1) | pendiente_verificacion_pdf |
-| 386-20 | 23/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS SUBDIRECTORES Y OTROS FUNCIONARIOS EN LA AUTORIDAD PORT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396181&managementType=1) | pendiente_verificacion_pdf |
-| 387-20 | 23/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS SUBADMINISTRADORES Y SUBDIRECTORES EN LOS COMEDORES ECO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396182&managementType=1) | pendiente_verificacion_pdf |
-| 388-20 | 23/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396216&managementType=1) | pendiente_verificacion_pdf |
-| 389-20 | 24/08/2020 | 10986 | QUE MODIFICA EL DEC. NO. 491-12, QUE CREA LA DIRECCIÓN GENERAL DE PROGRAMAS ESPECIALES DE LA PRESIDE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396217&managementType=1) | pendiente_verificacion_pdf |
-| 390-20 | 24/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396218&managementType=1) | pendiente_verificacion_pdf |
-| 391-20 | 24/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN LA CORPORACIÓN DE FOMENTO DE LA INDUSTRIA H... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397463&managementType=1) | pendiente_verificacion_pdf |
-| 392-20 | 24/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396219&managementType=1) | pendiente_verificacion_pdf |
-| 393-20 | 25/08/2020 | 10986 | QUE DESIGNA A RAFAEL DAMARES TORIBIO DOMÍNGUEZ, PRESIDENTE DEL PLENO DEL CONSEJO ECONÓMICO Y SOCIAL.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396220&managementType=1) | pendiente_verificacion_pdf |
-| 394-20 | 25/08/2020 | 10986 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 519-12, QUE NOMBRÓ A JESÚS FÉLIZ, VICEMINISTRO DE MONITOREO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396221&managementType=1) | pendiente_verificacion_pdf |
-| 395-20 | 25/08/2020 | 10986 | QUE DESIGNA A GEORGE ROBLES RODRÍGUEZ, ASESOR DEL MINISTERIO DE RELACIONES EXTERIORES, PARA TEMAS DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396222&managementType=1) | pendiente_verificacion_pdf |
-| 396-20 | 25/08/2020 | 10986 | QUE NOMBRA A ERIC ANTONIO RIVERO MARTIN, ASESOR EN ASUNTOS AGROPECUARIOS DEL PODER EJECUTIVO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396223&managementType=1) | pendiente_verificacion_pdf |
-| 397-20 | 26/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN LA LOTERÍA NACIONAL, DIRECCIÓN GENERA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396224&managementType=1) | pendiente_verificacion_pdf |
-| 398-20 | 26/08/2020 | 10986 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ERAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396225&managementType=1) | pendiente_verificacion_pdf |
-| 399-20 | 26/08/2020 | 10986 | QUE DESIGNA A CECILIO ANTONIO RODRÍGUEZ MONTÁS, DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE BIENEST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396226&managementType=1) | pendiente_verificacion_pdf |
-| 400-20 | 26/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON SUBDIRECTORES Y DIRECTORES EN EL INSTITUTO AGRARIO DOMINICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396227&managementType=1) | pendiente_verificacion_pdf |
-| 401-20 | 27/08/2020 | 10986 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES PARA LA ADQUISICIÓN DE INSUMOS Y MEDICAMENTOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396228&managementType=1) | pendiente_verificacion_pdf |
+| 302-20 | 10/08/2020 | 10983 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 339-16, QUE DESIGNÓ A LA SEÑORA PASTORA LILLIE BERMÚDEZ IBARRA... | [Ver documento](decreto-302-2020.md) | normalizado · pendiente_revision |
+| 303-20 | 10/08/2020 | EN TRAMITE DE PUBLICACION EN GACETA OFICIAL | QUE DISPONE LA ENTREGA EN EXTRADICION A LOS ESTADOS UNIDOS DE AMERICA DEL NACIONAL DOMINICANO JOSE F... | [Ver registro](decreto-303-2020.md) · [Fuente 3396074](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396074&managementType=1) | pendiente_encontrar_pdf · pendiente_revision |
+| 304-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO KELVI... | [Ver documento](decreto-304-2020.md) | normalizado · pendiente_revision |
+| 305-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO CÉSAR... | [Ver documento](decreto-305-2020.md) | normalizado · pendiente_revision |
+| 306-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Ver documento](decreto-306-2020.md) | normalizado · pendiente_revision |
+| 307-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RAMÓN... | [Ver documento](decreto-307-2020.md) | normalizado · pendiente_revision |
+| 308-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO OSCAR... | [Ver documento](decreto-308-2020.md) | normalizado · pendiente_revision |
+| 309-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-309-2020.md) | normalizado · pendiente_revision |
+| 310-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-310-2020.md) | normalizado · pendiente_revision |
+| 311-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-311-2020.md) | normalizado · pendiente_revision |
+| 312-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-312-2020.md) | normalizado · pendiente_revision |
+| 313-20 | 12/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS | [Ver documento](decreto-313-2020.md) | normalizado · pendiente_revision |
+| 314-20 | 12/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-314-2020.md) | normalizado · pendiente_revision |
+| 315-20 | 12/08/2020 | 10983 | QUE INSTRUYE AL MINISTERIO DE MEDIO AMBIENTE Y RECURSOS NATURALES, REVOCAR Y DEJAR SIN EFECTO EL PER... | [Ver documento](decreto-315-2020.md) | normalizado · pendiente_revision |
+| 316-20 | 13/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR CON DISTINTIVO BLANCO, EN PRIMERA CLASE ... | [Ver documento](decreto-316-2020.md) | normalizado · pendiente_revision |
+| 317-20 | 13/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO, CON DISTINTIVO BLANCO, EN PRIMERA Y SEGUN... | [Ver documento](decreto-317-2020.md) | normalizado · pendiente_revision |
+| 318-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL TENIENTE... | [Ver documento](decreto-318-2020.md) | normalizado · pendiente_revision |
+| 319-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE LAS PENSIONES CORRESPONDIENTES, POR ANTIGÜEDAD EN... | [Ver documento](decreto-319-2020.md) | normalizado · pendiente_revision |
+| 320-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL GENERAL DE BRIGADA ABOGADO JUAN MANUEL MÉNDEZ GARCÍA, ERD., DIRECTOR DEL CENTRO DE O... | [Ver documento](decreto-320-2020.md) | normalizado · pendiente_revision |
+| 321-20 | 14/08/2020 | 10983 | QUE ASCIENDE A LA CONTRALMIRANTE MAYRA ALICIA DIAZ MARTINEZ, AL RANGO DE VICEALMIRANTE, ARD; A LOS C... | [Ver documento](decreto-321-2020.md) | normalizado · pendiente_revision |
+| 322-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL CORONEL FIDEL AUGUSTO CALCAÑO PAULINO, ERD Y AL CORONEL RIGOBERTO DE LOS SANTOS GUER... | [Ver documento](decreto-322-2020.md) | normalizado · pendiente_revision |
+| 323-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL MAYOR G... | [Ver documento](decreto-323-2020.md) | normalizado · pendiente_revision |
+| 324-20 | 16/08/2020 | 10986 | QUE INTEGRA EL GABINETE DEL GOBIERNO CENTRAL Y NOMBRA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL EST... | [Ver documento](decreto-324-2020.md) | normalizado · pendiente_revision |
+| 325-20 | 16/08/2020 | 10986 | QUE NOMBRA A LA SEÑORA MILAGROS ORTIZ BOSCH, ASESORA DEL PODER EJECUTIVO EN MATERIA DE ÉTICA, TRANSP... | [Ver documento](decreto-325-2020.md) | normalizado · pendiente_revision |
+| 326-20 | 16/08/2020 | 10986 | QUE NOMBRA TRES (3) VICEMINISTROS DE DEFENSA, A LOS COMANDANTES Y SUBCOMANDANTES DEL EJÉRCITO Y DE L... | [Ver documento](decreto-326-2020.md) | normalizado · pendiente_revision |
+| 327-20 | 16/08/2020 | 10986 | QUE NOMBRA A LUIS SOTO, DIRECTOR DEL DEPARTAMENTO NACIONAL DE INVESTIGACIONES. | [Ver documento](decreto-327-2020.md) | normalizado · pendiente_revision |
+| 328-20 | 16/08/2020 | 10986 | QUE CREA LA SECRETARIA GENERAL DEL GABINETE DEL PRESIDENTE DE LA REPÚBLICA. DESIGNA A EILYN BELTRÁN ... | [Ver documento](decreto-328-2020.md) | normalizado · pendiente_revision |
+| 329-20 | 16/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-329-2020.md) | normalizado · pendiente_revision |
+| 330-20 | 16/08/2020 | 10986 | QUE NOMBRA CINCUENTA Y SIETE (57) VICEMINISTROS EN DISTINTOS MINISTERIOS. | [Ver documento](decreto-330-2020.md) | normalizado · pendiente_revision |
+| 331-20 | 16/08/2020 | 10986 | NOMBRA A FRANCISCO ANTONIO PEÑA GUABA, COORDINADOR DEL GABINETE DE POLÍTICAS SOCIALES, Y A GLORIA R.... | [Ver documento](decreto-331-2020.md) | normalizado · pendiente_revision |
+| 332-20 | 16/08/2020 | 10986 | QUE DESIGNA A PEDRO SILVERIO ÁLVAREZ, JOEL SANTOS ECHAVARRÍA, LUIS AMAURY SÁNCHEZ LEMBERT, JOSÉ DANI... | [Ver documento](decreto-332-2020.md) | normalizado · pendiente_revision |
+| 333-20 | 16/08/2020 | 10986 | QUE NOMBRA A RAFAEL SUÁREZ, EDWIN ACOSTA, EMILIO RODRÍGUEZ, YENI BERENICE REYNOSO, MÁRTIREZ CIRILO Q... | [Ver documento](decreto-333-2020.md) | normalizado · pendiente_revision |
+| 334-20 | 16/08/2020 | 10986 | QUE DESIGNA A SAMUEL PEREYRA ROJAS, ADMINISTRADOR GENERAL DEL BANCO DE RESERVAS DE LA REPÚBLICA DOMI... | [Ver documento](decreto-334-2020.md) | normalizado · pendiente_revision |
+| 335-20 | 16/08/2020 | 10986 | QUE DEROGA EL DEC. NO. 236-15, QUE DESIGNÓ A HORACIO EMILIO MAZARA LUGO, DIRECTOR EJECUTIVO DEL INST... | [Ver documento](decreto-335-2020.md) | normalizado · pendiente_revision |
+| 336-20 | 16/08/2020 | 10986 | QUE NOMBRA A HOMERO ARGEL FIGUEROA GÜÍLAMO, DIRECTOR DE INFORMACIÓN, ANÁLISIS Y PROGRAMACIÓN ESTRATÉ... | [Ver documento](decreto-336-2020.md) | normalizado · pendiente_revision |
+| 337-20 | 16/08/2020 | 10986 | QUE NOMBRA A MONSEÑOR AGRIPINO NÚÑEZ COLLADO, ASESOR HONORÍFICO DEL PODER EJECUTIVO. | [Ver documento](decreto-337-2020.md) | normalizado · pendiente_revision |
+| 338-20 | 16/08/2020 | 10986 | QUE MODIFICA LOS ARTÍCULOS 2, 3 Y 4 DEL DEC. NO. 201-14, QUE DECLARA DE ALTA PRIORIDAD DEL GOBIERNO ... | [Ver documento](decreto-338-2020.md) | normalizado · pendiente_revision |
+| 339-20 | 16/08/2020 | 10986 | QUE DESIGNA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-339-2020.md) | normalizado · pendiente_revision |
+| 340-20 | 16/08/2020 | 10986 | QUE NOMBRA VEINTISIETE (27) GOBERNADORAS CIVILES EN VARIAS PROVINCIAS DEL PAÍS. | [Ver documento](decreto-340-2020.md) | normalizado · pendiente_revision |
+| 341-20 | 16/08/2020 | 10986 | QUE MODIFICA EL DEC. NO. 287-08, QUE ESTABLECIÓ EL REGLAMENTO DE LA CONSULTORÍA JURÍDICA DEL PODER E... | [Ver documento](decreto-341-2020.md) | normalizado · pendiente_revision |
+| 342-20 | 16/08/2020 | 10986 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA LIQUIDACIÓN DE LA CORPORACIÓN DOMINICANA DE EMPRESAS ELÉCTRI... | [Ver documento](decreto-342-2020.md) | normalizado · pendiente_revision |
+| 343-20 | 16/08/2020 | 10986 | QUE DESIGNA A TOMÁS OZUNA TAPIA, ANDRÉS CUETO ROSARIO Y MILTON TEÓFILO MORRISON RAMÍREZ, GERENTES GE... | [Ver documento](decreto-343-2020.md) | normalizado · pendiente_revision |
+| 344-20 | 16/08/2020 | 10986 | QUE NOMBRA A MERCEDES PICHARDO PÉREZ, ASISTENTE PERSONAL DEL PRESIDENTE DE LA REPÚBLICA. | [Ver documento](decreto-344-2020.md) | normalizado · pendiente_revision |
+| 345-20 | 16/08/2020 | 10986 | QUE NOMBRA A CÉSAR CEDEÑO, DIRECTOR GENERAL DE BIENES NACIONALES, Y DIRECTOR HONORIFICO DEL CONSEJO ... | [Ver documento](decreto-345-2020.md) | normalizado · pendiente_revision |
+| 346-20 | 16/08/2020 | 10986 | QUE DESIGNA A JUAN FORTUNATO MUBARAK PÉREZ, DIRECTOR NACIONAL DE PATRIMONIO MONUMENTAL. | [Ver documento](decreto-346-2020.md) | normalizado · pendiente_revision |
+| 347-20 | 16/08/2020 | 10986 | QUE NOMBRA AL GENERAL DE BRIGADA VICENTE MOTA MEDINA, ERD, DIRECTOR EJECUTIVO DEL SISTEMA NACIONAL D... | [Ver documento](decreto-347-2020.md) | normalizado · pendiente_revision |
+| 348-20 | 17/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. DEROGA EL ARTÍCULO 18 DEL DEC. NO. 33... | [Ver documento](decreto-348-2020.md) | normalizado · pendiente_revision |
+| 349-20 | 17/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-349-2020.md) | normalizado · pendiente_revision |
+| 350-20 | 17/08/2020 | 10986 | QUE NOMBRA A FELIPE ANTONIO SUBERVÍ HERNÁNDEZ, DIRECTOR GENERAL DE LA CORPORACIÓN DEL ACUEDUCTO Y AL... | [Ver documento](decreto-350-2020.md) | normalizado · pendiente_revision |
+| 351-20 | 17/08/2020 | 10986 | QUE DESIGNA A SERAFIN CANARIO DE LA ROSA, ADMINISTRADOR GENERAL DE LA CENTRAL TERMOELÉCTRICA PUNTA C... | [Ver documento](decreto-351-2020.md) | normalizado · pendiente_revision |
+| 352-20 | 17/08/2020 | 10986 | QUE DESIGNA TRES (3) VICEMINISTROS Y TRES (3) ASESORES EN EL MINISTERIO DE TURISMO. DEROGA LOS ARTÍC... | [Ver documento](decreto-352-2020.md) | normalizado · pendiente_revision |
+| 353-20 | 17/08/2020 | 10986 | QUE NOMBRA A NOELIA EULALIA DEL CORAZÓN DE JESÚS SHEPHARD DE BENCOSME, SUBDIRECTORA DEL DESPACHO PRE... | [Ver documento](decreto-353-2020.md) | normalizado · pendiente_revision |
+| 354-20 | 17/08/2020 | 10986 | QUE DESIGNA VARIOS VICEMINISTROS Y FUNCIONARIOS EN DISTINTOS MINISTERIOS Y LOS CÓNSULES GENERALES DE... | [Ver documento](decreto-354-2020.md) | normalizado · pendiente_revision |
+| 355-20 | 17/08/2020 | 10986 | QUE DESIGNA A EDWARD RAFAEL GUZMÁN PADILLA, IVELISSE V. ACOSTA REYES, JOSÉ ANTONIO MATOS PÉREZ, FERN... | [Ver documento](decreto-355-2020.md) | normalizado · pendiente_revision |
+| 356-20 | 19/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-356-2020.md) | normalizado · pendiente_revision |
+| 357-20 | 19/08/2020 | 10986 | QUE CONFIRMA A CLARISSA DE LA ROCHA, COMO VICEGOBERNADORA DEL BANCO CENTRAL DE LA REPÚBLICA DOMINICA... | [Ver documento](decreto-357-2020.md) | normalizado · pendiente_revision |
+| 358-20 | 19/08/2020 | 10986 | QUE EXTIENDE LA VIGENCIA DE LOS PROGRAMAS FASE I, FASE II, QUÉDATE EN CASA Y PA’TI, HASTA EL 31 DE D... | [Ver documento](decreto-358-2020.md) | normalizado · pendiente_revision |
+| 359-20 | 19/08/2020 | 10986 | QUE ASCIENDE AL CAPITÁN DE NAVÍO JUAN CÁNDIDO PEÑA OGANDO AL RANGO DE CONTRALMIRANTE ARD., Y AL CORO... | [Ver documento](decreto-359-2020.md) | normalizado · pendiente_revision |
+| 360-20 | 19/08/2020 | 10986 | QUE ASCIENDE AL CAPITÁN DE NAVÍO JOSÉ MANUEL CABRERA ULLOA AL RANGO CONTRALMIRANTE ARD., Y LO DESIGN... | [Ver documento](decreto-360-2020.md) | normalizado · pendiente_revision |
+| 361-20 | 19/08/2020 | 10986 | QUE DESIGNA A HÉCTOR RADHAMÉS GONZÁLEZ MEDINA, PERSIO CÁNDIDO CRUZ PICHARDO, ARISMENDY DE JESÚS ALMO... | [Ver documento](decreto-361-2020.md) | normalizado · pendiente_revision |
+| 362-20 | 19/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON UNA CONSEJERA Y EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIA... | [Ver documento](decreto-362-2020.md) | normalizado · pendiente_revision |
+| 363-20 | 19/08/2020 | 10986 | QUE DESIGNA EMBAJADORES REPRESENTANTES PERMANENTES Y ALTERNOS DE LA REPÚBLICA DOMINICANA ANTE LA ORG... | [Ver documento](decreto-363-2020.md) | normalizado · pendiente_revision |
+| 364-20 | 19/08/2020 | 10986 | QUE NOMBRA A VARIOS VICEMINISTROS EN EL MINISTERIO DE EDUCACIÓN SUPERIOR, CIENCIA Y TECNOLOGÍA. DERO... | [Ver documento](decreto-364-2020.md) | normalizado · pendiente_revision |
+| 365-20 | 19/08/2020 | 10986 | QUE DESIGNA A FERNANDO ANTONIO CRUZ, JOSÉ MODESTO YOVANI CRUZ DURÁN Y YAMAL NASSER MICHELÉN STEFAN, ... | [Ver documento](decreto-365-2020.md) | normalizado · pendiente_revision |
+| 366-20 | 20/08/2020 | 10986 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO Y DEROGA LOS ... | [Ver documento](decreto-366-2020.md) | normalizado · pendiente_revision |
+| 367-20 | 20/08/2020 | 10986 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 302-14, QUE DESIGNÓ AL GENERAL DE BRIGADA ARACENIS CASTILLO DE... | [Ver documento](decreto-367-2020.md) | normalizado · pendiente_revision |
+| 368-20 | 20/08/2020 | 10986 | QUE DISUELVE EL DESPACHO DE LA PRIMERA DAMA. TRANSFIERE AL MINISTERIO DE SALUD PÚBLICA Y ASISTENCIA ... | [Ver documento](decreto-368-2020.md) | normalizado · pendiente_revision |
+| 369-20 | 20/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE SEIS (6) SUBADMINISTRADORES DEL BANCO AGRÍCOLA DE LA REPÚBL... | [Ver documento](decreto-369-2020.md) | normalizado · pendiente_revision |
+| 370-20 | 20/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO Y DEJA SIN EFECTO LOS DECRETOS QUE NOM... | [Ver documento](decreto-370-2020.md) | normalizado · pendiente_revision |
+| 371-20 | 20/08/2020 | 10986 | NOMBRA A RAFAEL ANTONIO SANTOS PÉREZ, DIRECTOR EJECUTIVO DE LA OFICINA PARA EL REORDENAMIENTO DEL TR... | [Ver documento](decreto-371-2020.md) | normalizado · pendiente_revision |
+| 372-20 | 20/08/2020 | 10986 | QUE ASCIENDE A LOS CORONELES CÉSAR AUGUSTO MIRANDA MAÑÓN Y JORGE LUIS MOREL DE DIOS, E.R.D., AL RANG... | [Ver documento](decreto-372-2020.md) | normalizado · pendiente_revision |
+| 373-20 | 21/08/2020 | 10986 | QUE DESIGNA VOCALES MIEMBROS Y VOCALES SUPLENTES DEL CONSEJO DE DIRECTORES DEL BANCO DE RESERVAS DE ... | [Ver documento](decreto-373-2020.md) | normalizado · pendiente_revision |
+| 374-20 | 21/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. MODIFICA LOS ARTÍCULOS 1 Y 14 DEL DEC... | [Ver documento](decreto-374-2020.md) | normalizado · pendiente_revision |
+| 375-20 | 21/08/2020 | 10986 | QUE INTEGRA EL CONSEJO UNIFICADO DE LAS EMPRESAS DISTRIBUIDORAS DE ELECTRICIDAD, CREADO MEDIANTE DEC... | [Ver documento](decreto-375-2020.md) | normalizado · pendiente_revision |
+| 376-20 | 21/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ASÍ COMO EN... | [Ver documento](decreto-376-2020.md) | normalizado · pendiente_revision |
+| 377-20 | 21/08/2020 | 10986 | QUE NOMBRA A SANTIAGO HAZIM, DIRECTOR EJECUTIVO DEL SEGURO NACIONAL DE SALUD. | [Ver documento](decreto-377-2020.md) | normalizado · pendiente_revision |
+| 378-20 | 21/08/2020 | 10986 | QUE DESIGNA A MARIO LAMA OLIVERO, DIRECTOR EJECUTIVO DEL SERVICIO NACIONAL DE SALUD. | [Ver documento](decreto-378-2020.md) | normalizado · pendiente_revision |
+| 379-20 | 21/08/2020 | 10986 | QUE NOMBRA A RAFAEL EVARISTO SANTOS BADIA, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE FORMACIÓN TÉCN... | [Ver documento](decreto-379-2020.md) | normalizado · pendiente_revision |
+| 380-20 | 21/08/2020 | 10986 | QUE AGREGA UN NUMERAL 11 AL ARTÍCULO 4 DEL DEC. NO. 266-20. DISPONE LA CIRCULACIÓN HASTA LAS 11:00 P... | [Ver documento](decreto-380-2020.md) | normalizado · pendiente_revision |
+| 381-20 | 22/08/2020 | 10986 | QUE DEROGA LOS ARTÍCULOS 4, 5 Y 6 DEL DEC. NO. 538-12, QUE DESIGNARON A ELSO MARTÍNEZ, JULIO CANELO ... | [Ver documento](decreto-381-2020.md) | normalizado · pendiente_revision |
+| 382-20 | 22/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON PROCURADORES GENERALES ADJUNTOS EN LA PROCURADURÍA GENERAL DE ... | [Ver documento](decreto-382-2020.md) | normalizado · pendiente_revision |
+| 383-20 | 22/08/2020 | 10986 | QUE DESIGNA VICEMINISTROS EN LOS MINISTERIOS DE LA MUJER, DE DEPORTES Y RECREACIÓN, Y DE INDUSTRIA, ... | [Ver documento](decreto-383-2020.md) | normalizado · pendiente_revision |
+| 384-20 | 22/08/2020 | 10986 | QUE NOMBRA A LUIS JOSÉ CHÁVEZ CASTELLANOS, ASESOR DEL INSTITUTO DOMINICANO DE AVIACIÓN CIVIL. | [Ver documento](decreto-384-2020.md) | normalizado · pendiente_revision |
+| 385-20 | 22/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE VARIOS FUNCIONARIOS EN EL INSTITUTO DOMINICANO DE AVIACIÓN ... | [Ver documento](decreto-385-2020.md) | normalizado · pendiente_revision |
+| 386-20 | 23/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS SUBDIRECTORES Y OTROS FUNCIONARIOS EN LA AUTORIDAD PORT... | [Ver documento](decreto-386-2020.md) | normalizado · pendiente_revision |
+| 387-20 | 23/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS SUBADMINISTRADORES Y SUBDIRECTORES EN LOS COMEDORES ECO... | [Ver documento](decreto-387-2020.md) | normalizado · pendiente_revision |
+| 388-20 | 23/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-388-2020.md) | normalizado · pendiente_revision |
+| 389-20 | 24/08/2020 | 10986 | QUE MODIFICA EL DEC. NO. 491-12, QUE CREA LA DIRECCIÓN GENERAL DE PROGRAMAS ESPECIALES DE LA PRESIDE... | [Ver documento](decreto-389-2020.md) | normalizado · pendiente_revision |
+| 390-20 | 24/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-390-2020.md) | normalizado · pendiente_revision |
+| 391-20 | 24/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN LA CORPORACIÓN DE FOMENTO DE LA INDUSTRIA H... | [Ver documento](decreto-391-2020.md) | normalizado · pendiente_revision |
+| 392-20 | 24/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-392-2020.md) | normalizado · pendiente_revision |
+| 393-20 | 25/08/2020 | 10986 | QUE DESIGNA A RAFAEL DAMARES TORIBIO DOMÍNGUEZ, PRESIDENTE DEL PLENO DEL CONSEJO ECONÓMICO Y SOCIAL.... | [Ver documento](decreto-393-2020.md) | normalizado · pendiente_revision |
+| 394-20 | 25/08/2020 | 10986 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 519-12, QUE NOMBRÓ A JESÚS FÉLIZ, VICEMINISTRO DE MONITOREO DE... | [Ver documento](decreto-394-2020.md) | normalizado · pendiente_revision |
+| 395-20 | 25/08/2020 | 10986 | QUE DESIGNA A GEORGE ROBLES RODRÍGUEZ, ASESOR DEL MINISTERIO DE RELACIONES EXTERIORES, PARA TEMAS DE... | [Ver documento](decreto-395-2020.md) | normalizado · pendiente_revision |
+| 396-20 | 25/08/2020 | 10986 | QUE NOMBRA A ERIC ANTONIO RIVERO MARTIN, ASESOR EN ASUNTOS AGROPECUARIOS DEL PODER EJECUTIVO. | [Ver documento](decreto-396-2020.md) | normalizado · pendiente_revision |
+| 397-20 | 26/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN LA LOTERÍA NACIONAL, DIRECCIÓN GENERA... | [Ver documento](decreto-397-2020.md) | normalizado · pendiente_revision |
+| 398-20 | 26/08/2020 | 10986 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ERAS... | [Ver documento](decreto-398-2020.md) | normalizado · pendiente_revision |
+| 399-20 | 26/08/2020 | 10986 | QUE DESIGNA A CECILIO ANTONIO RODRÍGUEZ MONTÁS, DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE BIENEST... | [Ver documento](decreto-399-2020.md) | normalizado · pendiente_revision |
+| 400-20 | 26/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON SUBDIRECTORES Y DIRECTORES EN EL INSTITUTO AGRARIO DOMINICA... | [Ver documento](decreto-400-2020.md) | normalizado · pendiente_revision |
+| 401-20 | 27/08/2020 | 10986 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES PARA LA ADQUISICIÓN DE INSUMOS Y MEDICAMENTOS... | [Ver documento](decreto-401-2020.md) | normalizado · pendiente_revision |
 | 402-20 | 27/08/2020 | 10986 | QUE DESIGNA A RUBÉN ARTURO SILIÉ VALDEZ, VICEMINISTRO DE RELACIONES EXTERIORES PARA ASUNTOS MULTILAT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396229&managementType=1) | pendiente_verificacion_pdf |
 | 403-20 | 27/08/2020 | 10986 | QUE MODIFICA EL NUMERAL 113 DEL ARTÍCULO 1 DEL DEC. NO. 290-12, QUE MODIFICÓ A SU VEZ EL ARTÍCULO 1 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396298&managementType=1) | pendiente_verificacion_pdf |
 | 404-20 | 27/08/2020 | 10986 | QUE NOMBRA A HUGO ALBERTO TAVERAS BAUTISTA, PRESIDENTE DE LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARILL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396230&managementType=1) | pendiente_verificacion_pdf |
