@@ -324,7 +324,32 @@ Documentos detectados: **406**.
 - [Decreto núm. 313-2026](decreto-313-2026.md)
 - [Decreto núm. 314-2026](decreto-314-2026.md)
 - [Decreto núm. 315-2026](decreto-315-2026.md)
+- [Decreto núm. 316-2026](decreto-316-2026.md)
+- [Decreto núm. 317-2026](decreto-317-2026.md)
+- [Decreto núm. 318-2026](decreto-318-2026.md)
+- [Decreto núm. 319-2026](decreto-319-2026.md)
+- [Decreto núm. 320-2026](decreto-320-2026.md)
+- [Decreto núm. 321-2026](decreto-321-2026.md)
+- [Decreto núm. 322-2026](decreto-322-2026.md)
+- [Decreto núm. 323-2026](decreto-323-2026.md)
+- [Decreto núm. 324-2026](decreto-324-2026.md)
+- [Decreto núm. 325-2026](decreto-325-2026.md)
+- [Decreto núm. 326-2026](decreto-326-2026.md)
+- [Decreto núm. 327-2026](decreto-327-2026.md)
+- [Decreto núm. 328-2026](decreto-328-2026.md)
+- [Decreto núm. 329-2026](decreto-329-2026.md)
 - [Decreto núm. 330-2026](decreto-330-2026.md)
+- [Decreto núm. 331-2026](decreto-331-2026.md)
+- [Decreto núm. 332-2026](decreto-332-2026.md)
+- [Decreto núm. 333-2026](decreto-333-2026.md)
+- [Decreto núm. 334-2026](decreto-334-2026.md)
+- [Decreto núm. 335-2026](decreto-335-2026.md)
+- [Decreto núm. 336-2026](decreto-336-2026.md)
+- [Decreto núm. 337-2026](decreto-337-2026.md)
+- [Decreto núm. 338-2026](decreto-338-2026.md)
+- [Decreto núm. 339-2026](decreto-339-2026.md)
+- [Decreto núm. 340-2026](decreto-340-2026.md)
+- [Decreto núm. 341-2026](decreto-341-2026.md)
 - [Decreto núm. 352-2026](decreto-352-2026.md)
 - [Decreto núm. 409-2026](decreto-409-2026.md)
 - [Decreto núm. 438-2026](decreto-438-2026.md)
@@ -649,32 +674,32 @@ Documentos detectados: **406**.
 | 313-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DE LA SEÑORA LUCÍA ENC... | [Ver documento](decreto-313-2026.md) | normalizado · pendiente_revision |
 | 314-26 | 06/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A PERMUTAR A FAVOR DE LA SEÑORA MINERVA A... | [Ver documento](decreto-314-2026.md) | normalizado · pendiente_revision |
 | 315-26 | 11/05/2026 | 11241 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A 18 SERVIDORES DEL INSTIT... | [Ver documento](decreto-315-2026.md) | normalizado · pendiente_revision |
-| 316-26 | 11/05/2026 | 11241 | QUE DEROGA EL ARTÍCULO 9 DEL DECRETO NÚM. 708-08 Y EL DECRETO NÚM. 384-16, QUE DESIGNARON A LOS SEÑO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404867&managementType=1) | pendiente_verificacion_pdf |
-| 317-26 | 11/05/2026 | 11241 | QUE DESIGNA AL SEÑOR ROBERT YABRIEL MARTÍNEZ, VICECÓNSUL DE NUESTRO PAÍS EN LA REPÚBLICA DE PANAMÁ. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404868&managementType=1) | pendiente_verificacion_pdf |
-| 318-26 | 11/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE MOCA, PROVINCIA ESPAILLAT, A VENDER A DIFERENTES PERSONAS VARIAS POR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404857&managementType=1) | pendiente_verificacion_pdf |
-| 319-26 | 11/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404869&managementType=1) | pendiente_verificacion_pdf |
-| 320-26 | 11/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404870&managementType=1) | pendiente_verificacion_pdf |
-| 321-26 | 12/05/2026 | 11242 | QUE DESIGNA COMO ORGANIZACIÓN TERRORISTA AL CUERPO DE LA GUARDIA REVOLUCIONARIA ISLÁMICA (CGRI), INC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404822&managementType=1) | pendiente_verificacion_pdf |
-| 322-26 | 12/05/2026 | 11242 | QUE EXTIENDE POR UN PLAZO DE 30 DÍAS CONTADOS A PARTIR DEL VENCIMIENTO DEL PLAZO ESTABLECIDO EN EL A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404823&managementType=1) | pendiente_verificacion_pdf |
-| 323-26 | 12/05/2026 | 11242 | QUE EXTIENDE POR UN PLAZO DE 30 DÍAS CONTADOS A PARTIR DEL VENCIMIENTO DEL PLAZO ESTABLECIDO EN EL A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404833&managementType=1) | pendiente_verificacion_pdf |
-| 324-26 | 15/05/2026 | 11242 | QUE AUMENTA A LA SUMA DE RD$150,000.00 MENSUALES LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR BERN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404824&managementType=1) | pendiente_verificacion_pdf |
-| 325-26 | 15/05/2026 | 11242 | QUE MODIFICA EL NUMERAL 25 DEL ARTÍCULO 1 DEL DECRETO NÚM. 158-26. DISPONE EXCLUIR A LA SEÑORA ROSAU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404825&managementType=1) | pendiente_verificacion_pdf |
-| 326-26 | 15/05/2026 | 11242 | QUE AUTORIZA AL AYUNTAMIENTO DEL MUNICIPIO DE AZUA A DONAR A FAVOR DEL ESTADO DOMINICANO, UNA PORCIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404834&managementType=1) | pendiente_verificacion_pdf |
-| 327-26 | 15/05/2026 | 11242 | DISPONE QUE EN LO ADELANTE, EL HOSPITAL CENTRAL DE LAS FUERZAS ARMADAS SE DENOMINARÁ HOSPITAL UNIVER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404826&managementType=1) | pendiente_verificacion_pdf |
-| 328-26 | 15/05/2026 | 11242 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, BAYAGUANA, PADRE LAS CASAS, NEYBA, S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404827&managementType=1) | pendiente_verificacion_pdf |
-| 329-26 | 15/05/2026 | 11242 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, UNA PORCIÓN DE TERRENO DE 2,000.00 MT2, UBICADA EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404835&managementType=1) | pendiente_verificacion_pdf |
+| 316-26 | 11/05/2026 | 11241 | QUE DEROGA EL ARTÍCULO 9 DEL DECRETO NÚM. 708-08 Y EL DECRETO NÚM. 384-16, QUE DESIGNARON A LOS SEÑO... | [Ver documento](decreto-316-2026.md) | normalizado · pendiente_revision |
+| 317-26 | 11/05/2026 | 11241 | QUE DESIGNA AL SEÑOR ROBERT YABRIEL MARTÍNEZ, VICECÓNSUL DE NUESTRO PAÍS EN LA REPÚBLICA DE PANAMÁ. ... | [Ver documento](decreto-317-2026.md) | normalizado · pendiente_revision |
+| 318-26 | 11/05/2026 | 11241 | QUE AUTORIZA AL AYUNTAMIENTO DE MOCA, PROVINCIA ESPAILLAT, A VENDER A DIFERENTES PERSONAS VARIAS POR... | [Ver documento](decreto-318-2026.md) | normalizado · pendiente_revision |
+| 319-26 | 11/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-319-2026.md) | normalizado · pendiente_revision |
+| 320-26 | 11/05/2026 | 11241 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Ver documento](decreto-320-2026.md) | normalizado · pendiente_revision |
+| 321-26 | 12/05/2026 | 11242 | QUE DESIGNA COMO ORGANIZACIÓN TERRORISTA AL CUERPO DE LA GUARDIA REVOLUCIONARIA ISLÁMICA (CGRI), INC... | [Ver documento](decreto-321-2026.md) | normalizado · pendiente_revision |
+| 322-26 | 12/05/2026 | 11242 | QUE EXTIENDE POR UN PLAZO DE 30 DÍAS CONTADOS A PARTIR DEL VENCIMIENTO DEL PLAZO ESTABLECIDO EN EL A... | [Ver documento](decreto-322-2026.md) | normalizado · pendiente_revision |
+| 323-26 | 12/05/2026 | 11242 | QUE EXTIENDE POR UN PLAZO DE 30 DÍAS CONTADOS A PARTIR DEL VENCIMIENTO DEL PLAZO ESTABLECIDO EN EL A... | [Ver documento](decreto-323-2026.md) | normalizado · pendiente_revision |
+| 324-26 | 15/05/2026 | 11242 | QUE AUMENTA A LA SUMA DE RD$150,000.00 MENSUALES LA PENSIÓN DEL ESTADO DE QUE DISFRUTA EL SEÑOR BERN... | [Ver documento](decreto-324-2026.md) | normalizado · pendiente_revision |
+| 325-26 | 15/05/2026 | 11242 | QUE MODIFICA EL NUMERAL 25 DEL ARTÍCULO 1 DEL DECRETO NÚM. 158-26. DISPONE EXCLUIR A LA SEÑORA ROSAU... | [Ver documento](decreto-325-2026.md) | normalizado · pendiente_revision |
+| 326-26 | 15/05/2026 | 11242 | QUE AUTORIZA AL AYUNTAMIENTO DEL MUNICIPIO DE AZUA A DONAR A FAVOR DEL ESTADO DOMINICANO, UNA PORCIÓ... | [Ver documento](decreto-326-2026.md) | normalizado · pendiente_revision |
+| 327-26 | 15/05/2026 | 11242 | DISPONE QUE EN LO ADELANTE, EL HOSPITAL CENTRAL DE LAS FUERZAS ARMADAS SE DENOMINARÁ HOSPITAL UNIVER... | [Ver documento](decreto-327-2026.md) | normalizado · pendiente_revision |
+| 328-26 | 15/05/2026 | 11242 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE SANTIAGO DE LOS CABALLEROS, BAYAGUANA, PADRE LAS CASAS, NEYBA, S... | [Ver documento](decreto-328-2026.md) | normalizado · pendiente_revision |
+| 329-26 | 15/05/2026 | 11242 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, UNA PORCIÓN DE TERRENO DE 2,000.00 MT2, UBICADA EN... | [Ver documento](decreto-329-2026.md) | normalizado · pendiente_revision |
 | 330-26 | 15/05/2026 | 11242 | QUE MODIFICA EL ARTÍCULO 21 DEL DECRETO NÚM. 6-19, SOBRE EL REGLAMENTO DE LICENCIAS DE CONDUCIR. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404836&managementType=1) | pendiente_verificacion_pdf |
-| 331-26 | 18/05/2026 | 11242 | QUE CREA LA AUTORIDAD NACIONAL DE AVIACIÓN ESTATAL DE LA REPÚBLICA DOMINICANA (ANAE-RD), COMO ÓRGANO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404828&managementType=1) | pendiente_verificacion_pdf |
-| 332-26 | 18/05/2026 | 11242 | QUE CREA EL CENTRO INTEGRAL DE SALUD MENTAL DE LAS FUERZAS ARMADAS, CON EL OBJETIVO DE ATENDER LA SA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404829&managementType=1) | pendiente_verificacion_pdf |
-| 333-26 | 19/05/2026 | 11242 | QUE DEROGA VARIOS DECRETOS QUE DESIGNARON 5 VICECÓNSULES Y UN AUXILIAR CONSULAR EN LOS CONSULADOS DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404837&managementType=1) | pendiente_verificacion_pdf |
-| 334-26 | 19/05/2026 | 11242 | QUE MODIFICA LOS ARTÍCULOS 2, 8 Y 10 DEL DECRETO NÚM. 357-24, SOBRE EL FIDEICOMISO PÚBLICO PARA LA M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404830&managementType=1) | pendiente_verificacion_pdf |
-| 335-26 | 19/05/2026 | 11242 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 223-19, QUE DESIGNÓ A LA SEÑORA ELY MARLENY PÉREZ ADAMES, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404838&managementType=1) | pendiente_verificacion_pdf |
-| 336-26 | 19/05/2026 | 11242 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. MODIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404839&managementType=1) | pendiente_verificacion_pdf |
-| 337-26 | 19/05/2026 | 11242 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404831&managementType=1) | pendiente_verificacion_pdf |
-| 338-26 | 19/05/2026 | 11242 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO MISSA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404832&managementType=1) | pendiente_verificacion_pdf |
-| 339-26 | 22/05/2026 | 11243 | QUE DESIGNA AL SEÑOR OSIRIS ANTONIO DECENA ESPINAL, VICEMINISTRO DE SEGURIDAD ENERGÉTICA E INFRAESTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404879&managementType=1) | pendiente_verificacion_pdf |
-| 340-26 | 22/05/2026 | 11243 | QUE MODIFICA EL NUMERAL 93 DEL ARTÍCULO 1 DEL DECRETO NÚM. 284-96. ASIGNA AL SEÑOR JUAN CARLOS DE LO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404880&managementType=1) | pendiente_verificacion_pdf |
-| 341-26 | 22/05/2026 | 11243 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA AL SEÑOR JUAN ALBER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404881&managementType=1) | pendiente_verificacion_pdf |
+| 331-26 | 18/05/2026 | 11242 | QUE CREA LA AUTORIDAD NACIONAL DE AVIACIÓN ESTATAL DE LA REPÚBLICA DOMINICANA (ANAE-RD), COMO ÓRGANO... | [Ver documento](decreto-331-2026.md) | normalizado · pendiente_revision |
+| 332-26 | 18/05/2026 | 11242 | QUE CREA EL CENTRO INTEGRAL DE SALUD MENTAL DE LAS FUERZAS ARMADAS, CON EL OBJETIVO DE ATENDER LA SA... | [Ver documento](decreto-332-2026.md) | normalizado · pendiente_revision |
+| 333-26 | 19/05/2026 | 11242 | QUE DEROGA VARIOS DECRETOS QUE DESIGNARON 5 VICECÓNSULES Y UN AUXILIAR CONSULAR EN LOS CONSULADOS DE... | [Ver documento](decreto-333-2026.md) | normalizado · pendiente_revision |
+| 334-26 | 19/05/2026 | 11242 | QUE MODIFICA LOS ARTÍCULOS 2, 8 Y 10 DEL DECRETO NÚM. 357-24, SOBRE EL FIDEICOMISO PÚBLICO PARA LA M... | [Ver documento](decreto-334-2026.md) | normalizado · pendiente_revision |
+| 335-26 | 19/05/2026 | 11242 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 223-19, QUE DESIGNÓ A LA SEÑORA ELY MARLENY PÉREZ ADAMES, ... | [Ver documento](decreto-335-2026.md) | normalizado · pendiente_revision |
+| 336-26 | 19/05/2026 | 11242 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. MODIFICA... | [Ver documento](decreto-336-2026.md) | normalizado · pendiente_revision |
+| 337-26 | 19/05/2026 | 11242 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO LUIS ... | [Ver documento](decreto-337-2026.md) | normalizado · pendiente_revision |
+| 338-26 | 19/05/2026 | 11242 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO MISSA... | [Ver documento](decreto-338-2026.md) | normalizado · pendiente_revision |
+| 339-26 | 22/05/2026 | 11243 | QUE DESIGNA AL SEÑOR OSIRIS ANTONIO DECENA ESPINAL, VICEMINISTRO DE SEGURIDAD ENERGÉTICA E INFRAESTR... | [Ver documento](decreto-339-2026.md) | normalizado · pendiente_revision |
+| 340-26 | 22/05/2026 | 11243 | QUE MODIFICA EL NUMERAL 93 DEL ARTÍCULO 1 DEL DECRETO NÚM. 284-96. ASIGNA AL SEÑOR JUAN CARLOS DE LO... | [Ver documento](decreto-340-2026.md) | normalizado · pendiente_revision |
+| 341-26 | 22/05/2026 | 11243 | QUE CONCEDE LA NATURALIZACIÓN DOMINICANA A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA AL SEÑOR JUAN ALBER... | [Ver documento](decreto-341-2026.md) | normalizado · pendiente_revision |
 | 342-26 | 22/05/2026 | 11243 | QUE DESIGNA SIETE (7) VICECÓNSULES Y UN AUXILIAR CONSULAR DE NUESTRO PAÍS EN DIFERENTES CIUDADES. DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404882&managementType=1) | pendiente_verificacion_pdf |
 | 343-26 | 22/05/2026 | 11243 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404883&managementType=1) | pendiente_verificacion_pdf |
 | 344-26 | 25/05/2026 | 11243 | DISPONE QUE LAS INSTITUCIONES SUJETAS AL ÁMBITO DE APLICACIÓN DE LA LEY NÚM. 47-25, DE CONTRATACIONE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404884&managementType=1) | pendiente_verificacion_pdf |
