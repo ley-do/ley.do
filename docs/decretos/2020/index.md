@@ -7,6 +7,109 @@ Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecu
 
 Documentos detectados: **756**.
 
+## Documentos normalizados inicialmente
+
+- [Decreto núm. 001-2020](decreto-001-2020.md)
+- [Decreto núm. 002-2020](decreto-002-2020.md)
+- [Decreto núm. 003-2020](decreto-003-2020.md)
+- [Decreto núm. 004-2020](decreto-004-2020.md)
+- [Decreto núm. 005-2020](decreto-005-2020.md)
+- [Decreto núm. 006-2020](decreto-006-2020.md)
+- [Decreto núm. 007-2020](decreto-007-2020.md)
+- [Decreto núm. 008-2020](decreto-008-2020.md)
+- [Decreto núm. 009-2020](decreto-009-2020.md)
+- [Decreto núm. 010-2020](decreto-010-2020.md)
+- [Decreto núm. 011-2020](decreto-011-2020.md)
+- [Decreto núm. 012-2020](decreto-012-2020.md)
+- [Decreto núm. 013-2020](decreto-013-2020.md)
+- [Decreto núm. 014-2020](decreto-014-2020.md)
+- [Decreto núm. 015-2020](decreto-015-2020.md)
+- [Decreto núm. 016-2020](decreto-016-2020.md)
+- [Decreto núm. 017-2020](decreto-017-2020.md)
+- [Decreto núm. 018-2020](decreto-018-2020.md)
+- [Decreto núm. 019-2020](decreto-019-2020.md)
+- [Decreto núm. 020-2020](decreto-020-2020.md)
+- [Decreto núm. 021-2020](decreto-021-2020.md)
+- [Decreto núm. 022-2020](decreto-022-2020.md)
+- [Decreto núm. 023-2020](decreto-023-2020.md)
+- [Decreto núm. 024-2020](decreto-024-2020.md)
+- [Decreto núm. 025-2020](decreto-025-2020.md)
+- [Decreto núm. 026-2020](decreto-026-2020.md)
+- [Decreto núm. 027-2020](decreto-027-2020.md)
+- [Decreto núm. 028-2020](decreto-028-2020.md)
+- [Decreto núm. 029-2020](decreto-029-2020.md)
+- [Decreto núm. 030-2020](decreto-030-2020.md)
+- [Decreto núm. 031-2020](decreto-031-2020.md)
+- [Decreto núm. 032-2020](decreto-032-2020.md)
+- [Decreto núm. 033-2020](decreto-033-2020.md)
+- [Decreto núm. 034-2020](decreto-034-2020.md)
+- [Decreto núm. 035-2020](decreto-035-2020.md)
+- [Decreto núm. 036-2020](decreto-036-2020.md)
+- [Decreto núm. 037-2020](decreto-037-2020.md)
+- [Decreto núm. 038-2020](decreto-038-2020.md)
+- [Decreto núm. 039-2020](decreto-039-2020.md)
+- [Decreto núm. 040-2020](decreto-040-2020.md)
+- [Decreto núm. 041-2020](decreto-041-2020.md)
+- [Decreto núm. 042-2020](decreto-042-2020.md)
+- [Decreto núm. 043-2020](decreto-043-2020.md)
+- [Decreto núm. 044-2020](decreto-044-2020.md)
+- [Decreto núm. 045-2020](decreto-045-2020.md)
+- [Decreto núm. 046-2020](decreto-046-2020.md)
+- [Decreto núm. 047-2020](decreto-047-2020.md)
+- [Decreto núm. 048-2020](decreto-048-2020.md)
+- [Decreto núm. 049-2020](decreto-049-2020.md)
+- [Decreto núm. 050-2020](decreto-050-2020.md)
+- [Decreto núm. 051-2020](decreto-051-2020.md)
+- [Decreto núm. 052-2020](decreto-052-2020.md)
+- [Decreto núm. 053-2020](decreto-053-2020.md)
+- [Decreto núm. 054-2020](decreto-054-2020.md)
+- [Decreto núm. 055-2020](decreto-055-2020.md)
+- [Decreto núm. 056-2020](decreto-056-2020.md)
+- [Decreto núm. 057-2020](decreto-057-2020.md)
+- [Decreto núm. 058-2020](decreto-058-2020.md)
+- [Decreto núm. 059-2020](decreto-059-2020.md)
+- [Decreto núm. 060-2020](decreto-060-2020.md)
+- [Decreto núm. 061-2020](decreto-061-2020.md)
+- [Decreto núm. 062-2020](decreto-062-2020.md)
+- [Decreto núm. 063-2020](decreto-063-2020.md)
+- [Decreto núm. 064-2020](decreto-064-2020.md)
+- [Decreto núm. 065-2020](decreto-065-2020.md)
+- [Decreto núm. 066-2020](decreto-066-2020.md)
+- [Decreto núm. 067-2020](decreto-067-2020.md)
+- [Decreto núm. 068-2020](decreto-068-2020.md)
+- [Decreto núm. 069-2020](decreto-069-2020.md)
+- [Decreto núm. 070-2020](decreto-070-2020.md)
+- [Decreto núm. 071-2020](decreto-071-2020.md)
+- [Decreto núm. 072-2020](decreto-072-2020.md)
+- [Decreto núm. 073-2020](decreto-073-2020.md)
+- [Decreto núm. 074-2020](decreto-074-2020.md)
+- [Decreto núm. 075-2020](decreto-075-2020.md)
+- [Decreto núm. 076-2020](decreto-076-2020.md)
+- [Decreto núm. 077-2020](decreto-077-2020.md)
+- [Decreto núm. 078-2020](decreto-078-2020.md)
+- [Decreto núm. 079-2020](decreto-079-2020.md)
+- [Decreto núm. 080-2020](decreto-080-2020.md)
+- [Decreto núm. 081-2020](decreto-081-2020.md)
+- [Decreto núm. 082-2020](decreto-082-2020.md)
+- [Decreto núm. 083-2020](decreto-083-2020.md)
+- [Decreto núm. 084-2020](decreto-084-2020.md)
+- [Decreto núm. 085-2020](decreto-085-2020.md)
+- [Decreto núm. 086-2020](decreto-086-2020.md)
+- [Decreto núm. 087-2020](decreto-087-2020.md)
+- [Decreto núm. 088-2020](decreto-088-2020.md)
+- [Decreto núm. 089-2020](decreto-089-2020.md)
+- [Decreto núm. 090-2020](decreto-090-2020.md)
+- [Decreto núm. 091-2020](decreto-091-2020.md)
+- [Decreto núm. 092-2020](decreto-092-2020.md)
+- [Decreto núm. 093-2020](decreto-093-2020.md)
+- [Decreto núm. 094-2020](decreto-094-2020.md)
+- [Decreto núm. 095-2020](decreto-095-2020.md)
+- [Decreto núm. 096-2020](decreto-096-2020.md)
+- [Decreto núm. 097-2020](decreto-097-2020.md)
+- [Decreto núm. 098-2020](decreto-098-2020.md)
+- [Decreto núm. 099-2020](decreto-099-2020.md)
+- [Decreto núm. 100-2020](decreto-100-2020.md)
+
 ## Documentos detectados
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
@@ -33,104 +136,104 @@ Documentos detectados: **756**.
 | 497-19 | 30/12/2019 | 10967 | QUE DECLARA EL AÑO 2020 COMO EL AÑO DE LA CONSOLIDACIÓN DE LA SEGURIDAD ALIMENTARIA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395453&managementType=1) | pendiente_verificacion_pdf |
 | 498-19 | 30/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395454&managementType=1) | pendiente_verificacion_pdf |
 | 499-19 | 30/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395455&managementType=1) | pendiente_verificacion_pdf |
-| 1-20 | 10/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA EUNISIS VÁSQUEZ ACOSTA, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA DE LA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395410&managementType=1) | pendiente_verificacion_pdf |
-| 10-20 | 10/01/2020 | 10968 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395408&managementType=1) | pendiente_verificacion_pdf |
-| 11-20 | 10/01/2020 | 10968 | QUE MODIFICA VARIOS NUMERALES DEL ARTÍCULO 1 DE LOS DECRETOS NOS. 334-13, 198-14 Y 297-16, QUE DECLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395409&managementType=1) | pendiente_verificacion_pdf |
-| 12-20 | 10/01/2020 | 10968 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395411&managementType=1) | pendiente_verificacion_pdf |
-| 13-20 | 10/01/2020 | 10968 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395412&managementType=1) | pendiente_verificacion_pdf |
-| 14-20 | 10/01/2020 | 10968 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL ARTÍCULO 1, NUMERAL 6 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395413&managementType=1) | pendiente_verificacion_pdf |
-| 15-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO EDUAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395414&managementType=1) | pendiente_verificacion_pdf |
-| 16-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JEIFR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395415&managementType=1) | pendiente_verificacion_pdf |
-| 17-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ARMAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395416&managementType=1) | pendiente_verificacion_pdf |
-| 18-20 | 10/01/2020 | 10968 | QUE NOMBRA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395431&managementType=1) | pendiente_verificacion_pdf |
-| 2-20 | 10/01/2020 | 10968 | QUE NOMBRA AL SEÑOR BOLÍVAR ISRAEL MARTE NÚÑEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA RE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395420&managementType=1) | pendiente_verificacion_pdf |
-| 3-20 | 10/01/2020 | 10968 | QUE DESIGNA AL ING. EZEQUIEL MANUEL VÓLQUEZ MEDINA, DIRECTOR GENERAL DE LA ADMINISTRADORA DE SUBSIDI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395418&managementType=1) | pendiente_verificacion_pdf |
-| 4-20 | 10/01/2020 | 10968 | QUE NOMBRA A LA SEÑORA GISELA ANTONIA VICTORIA-KRUSE, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395419&managementType=1) | pendiente_verificacion_pdf |
-| 5-20 | 10/01/2020 | 10968 | QUE DESIGNA AL SEÑOR HUGO GUILLIANI CURY, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395594&managementType=1) | pendiente_verificacion_pdf |
-| 6-20 | 10/01/2020 | 10968 | QUE NOMBRA AL SEÑOR FEDERICO ALBERTO CUELLO CAMILO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395421&managementType=1) | pendiente_verificacion_pdf |
-| 7-20 | 10/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA YEIMI MILEIBY LORA PERALTA, AUXILIAR DEL CONSULADO DE LA REPÚBLICA DOMINICAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395422&managementType=1) | pendiente_verificacion_pdf |
-| 8-20 | 10/01/2020 | 10968 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 471-09 Y EL ARTÍCULO 1 DEL DEC. NÚM. 261-12. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395423&managementType=1) | pendiente_verificacion_pdf |
-| 9-20 | 10/01/2020 | 10968 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 348-17, EN SU ARTÍCULO 1, NUMERAL 4, VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395424&managementType=1) | pendiente_verificacion_pdf |
-| 19-20 | 13/01/2020 | 10968 | QUE CONVOCA DE FORMA EXTRAORDINARIA AL SENADO Y A LA CÁMARA DE DIPUTADOS PARA QUE SE REÚNAN POR UN P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395432&managementType=1) | pendiente_verificacion_pdf |
-| 20-20 | 14/01/2020 | 10968 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395433&managementType=1) | pendiente_verificacion_pdf |
-| 21-20 | 16/01/2020 | 10968 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL PARA LA REESTRUCTURACIÓN DEL VERTEDERO A CIELO ABIERTO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395434&managementType=1) | pendiente_verificacion_pdf |
-| 22-20 | 16/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA GIRE THESALIA CALDERÓN DÍAZ, VICECÓNSUL EN EL CONSULADO DE LA REPÚBLICA DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395456&managementType=1) | pendiente_verificacion_pdf |
-| 23-20 | 17/01/2020 | 10969 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395457&managementType=1) | pendiente_verificacion_pdf |
-| 24-20 | 17/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES DOMINGO DE JESÚS ALMONTE REINOSO Y RICARDO SAMUEL MOLINA ACOSTA, SUBDIRECT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395458&managementType=1) | pendiente_verificacion_pdf |
-| 25-20 | 17/01/2020 | 10969 | QUE CONFIRMA A LA DRA. ANINA DEL CASTILLO CAZAÑO, COMO DIRECTORA EJECUTIVA DEL INSTITUTO NACIONAL DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395459&managementType=1) | pendiente_verificacion_pdf |
-| 26-20 | 17/01/2020 | 10969 | QUE DESIGNA AL LIC. MÁXIMO ARISMENDY ARISTY CARABALLO, MIEMBRO DEL CONSEJO DE ADMINISTRACIÓN DE LA E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395460&managementType=1) | pendiente_verificacion_pdf |
-| 27-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES SANTIAGO RODRÍGUEZ FIGUEREO, FRANCISCO SANTANA Y MERCEDES ALTAGRACIA BRITO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395461&managementType=1) | pendiente_verificacion_pdf |
-| 28-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES BIENVENIDO TOLENTINO SANTANA Y JORGE NICOLÁS CORDERO PACHE, CÓNSULES GENER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395462&managementType=1) | pendiente_verificacion_pdf |
-| 29-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES FRANCISCO FERNANDO CÁCERES LIRIANO Y RAMÓN CARREÑO, CÓNSULES GENERALES DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395463&managementType=1) | pendiente_verificacion_pdf |
-| 30-20 | 24/01/2020 | 10969 | QUE DESIGNA A LAS SEÑORAS FELICITA AQUINO DE LEÓN Y ANA YRIS BELTRÉ FERNÁNDEZ, MINISTRA CONSEJERA Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395464&managementType=1) | pendiente_verificacion_pdf |
-| 31-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES RAFAEL ACOSTA JAVIER Y MILTÓN ANDRÉS JIMÉNEZ, MINISTROS CONSEJEROS DE LAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395465&managementType=1) | pendiente_verificacion_pdf |
-| 32-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES RUDY ALEXIS MEJÍA MANBRÚ Y MARÍA YVELISSE ALONZO LA PAZ, VICECÓNSULES DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395466&managementType=1) | pendiente_verificacion_pdf |
-| 33-20 | 24/01/2020 | 10969 | QUE DESIGNA AL SEÑOR LEO SERRANO BELTRÉ, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN MADRID, ESPAÑA. N... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395467&managementType=1) | pendiente_verificacion_pdf |
-| 34-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES DOMINGO NOVA, FLEURYS MAYOBANEX RIVERA CABRAL Y DEYDANIA RODRÍGUEZ PÉREZ, V... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395468&managementType=1) | pendiente_verificacion_pdf |
-| 35-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES FABIÁN PERALTA Y CELESTE ENCARNACIÓN MERÁN, VICECÓNSUL DE LA REPÚBLICA EN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395469&managementType=1) | pendiente_verificacion_pdf |
-| 36-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES ANEDICE TEJADA Y SIRVIO DOTEL FIGUEREO, AUXILIAR DEL CONSULADO EN MILÁN, IT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395470&managementType=1) | pendiente_verificacion_pdf |
-| 37-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES WILLIAM POLANCO Y SANTIAGO FELIZ PÉREZ, AUXILIARES DE LOS CONSULADOS DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395471&managementType=1) | pendiente_verificacion_pdf |
-| 38-20 | 24/01/2020 | 10969 | QUE DEROGA LOS ARTÍCULOS 5 Y 2 DE LOS DECRETOS NOS. 584-08 Y 808-08, QUE DESIGNARON UN VICECÓNSUL Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395472&managementType=1) | pendiente_verificacion_pdf |
-| 39-20 | 24/01/2020 | 10969 | QUE DEROGA LOS ARTÍCULOS 1 DEL DEC. NO. 617-10, 10 DEL DEC. NO. 115-11, Y 15 DEL DEC. NO. 223-11, QU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395473&managementType=1) | pendiente_verificacion_pdf |
-| 40-20 | 24/01/2020 | 10969 | QUE DEROGA EL ARTÍCULO 2, DEL DEC. NO. 632-07, QUE NOMBRÓ UN AUXILIAR DEL CONSULADO DE LA REPÚBLICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395474&managementType=1) | pendiente_verificacion_pdf |
-| 41-20 | 24/01/2020 | 10969 | QUE DEROGA EL DECRETO NO. 99-06 Y LOS ARTÍCULOS 2 Y 13 DE LOS DECRETOS NOS. 282-10 Y 223-11, QUE DES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395475&managementType=1) | pendiente_verificacion_pdf |
-| 42-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 162-07, QUE DESIGNÓ UN VICECÓNSUL DE LA REPÚBLICA EN MILANO, ITALIA, Y LOS AR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395476&managementType=1) | pendiente_verificacion_pdf |
-| 43-20 | 24/01/2020 | 10969 | QUE DEROGA EL ART. 4 DEL DEC. NO. 1390-04, EL DEC. NO. 163-06 Y EL ARTÍCULO 12 DEL DEC. NO. 115-11, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395477&managementType=1) | pendiente_verificacion_pdf |
-| 44-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 401-06, QUE DESIGNÓ UN VICECÓNSUL DE LA REPÚBLICA EN ZURICH, SUIZA, EL ARTÍCU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395478&managementType=1) | pendiente_verificacion_pdf |
-| 45-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 602-08, EL ART. 28 DEL DEC. NO. 06-09 Y EL ART. 3 DEL DEC. NO. 261-12, QUE NO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395479&managementType=1) | pendiente_verificacion_pdf |
-| 46-20 | 24/01/2020 | 10969 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 1443-04, QUE DESIGNÓ UN AUXILIAR DEL CONSULADO EN MARSELLA, FR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395480&managementType=1) | pendiente_verificacion_pdf |
-| 47-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 216-07, QUE DESIGNÓ AL SEÑOR PORFIRIO SUERO PÉREZ, CONSEJERO DE LA EMBAJADA D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395481&managementType=1) | pendiente_verificacion_pdf |
-| 48-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES OSCAR GÓMEZ Y ROLANDO SANTANA MANZUETA, VICECÓNSUL EN BARCELONA, ESPAÑA Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395482&managementType=1) | pendiente_verificacion_pdf |
-| 49-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES RUBÉN DARÍO JAVIER SÁNCHEZ Y JUAN DE JESÚS CUEVAS FÉLIZ, TERCER SECRETARIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395483&managementType=1) | pendiente_verificacion_pdf |
-| 50-20 | 24/01/2020 | 10969 | QUE DESIGNA AL SEÑOR ADRIANO RAFAEL DE LOS SANTOS GALVÁ, MINISTRO CONSEJERO DE LA EMBAJADA DE LA REP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395484&managementType=1) | pendiente_verificacion_pdf |
-| 51-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES JUAN RAMÓN HERNÁNDEZ REYNOSO Y SACHENKA SANTOS GONZÁLEZ, AGREGADOS CULTURAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395485&managementType=1) | pendiente_verificacion_pdf |
-| 52-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES JULIO ANTONIO RAMÍREZ FRANCO, EFRAÍN CUEVAS LÓPEZ Y SATURNINO TUCENT CIPRI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395486&managementType=1) | pendiente_verificacion_pdf |
-| 53-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES APOLINAR MONTERO BATISTA Y LUIS ALBERTO PELÁEZ ANDINO, VICECÓNSULES DE LA R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395487&managementType=1) | pendiente_verificacion_pdf |
-| 54-20 | 28/01/2020 | 10969 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395488&managementType=1) | pendiente_verificacion_pdf |
-| 55-20 | 28/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES RAMÓN NICOLÁS DE LOS SANTOS Y JUNIOR CONTRERAS, GOBERNADOR CIVIL DE LA PRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395489&managementType=1) | pendiente_verificacion_pdf |
-| 56-20 | 29/01/2020 | 10970 | QUE NOMBRA A LA SEÑORA EVELIA PÉREZ ESTÉVEZ, SUBDIRECTORA DEL PLAN DE ASISTENCIA SOCIAL DE LA PRESID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395490&managementType=1) | pendiente_verificacion_pdf |
-| 57-20 | 29/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES YILTON RAFAEL SANTANA Y LUIS ALBERTO NÚÑEZ CASTRO, MIEMBRO DEL DIRECTORIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395491&managementType=1) | pendiente_verificacion_pdf |
-| 58-20 | 29/01/2020 | 10970 | QUE DEROGA EL ART. 4 DEL DEC. NO. 173-11, QUE NOMBRÓ AL SEÑOR RICHARD PÉREZ, SUBDIRECTOR DEL INSTITU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395492&managementType=1) | pendiente_verificacion_pdf |
-| 59-20 | 29/01/2020 | 10970 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395493&managementType=1) | pendiente_verificacion_pdf |
-| 60-20 | 29/01/2020 | 10970 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395494&managementType=1) | pendiente_verificacion_pdf |
-| 61-20 | 29/01/2020 | 10970 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FRANC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395495&managementType=1) | pendiente_verificacion_pdf |
-| 62-20 | 29/01/2020 | 10970 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. MODIFICA EL LIT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395496&managementType=1) | pendiente_verificacion_pdf |
-| 63-20 | 29/01/2020 | 10970 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395497&managementType=1) | pendiente_verificacion_pdf |
-| 64-20 | 29/01/2020 | 10970 | QUE CREA EL PARQUE DE ZONA FRANCA INDUSTRIAL LIMESTONE PARK, UBICADO EN LUPERÓN, PUERTO PLATA, BAJO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395498&managementType=1) | pendiente_verificacion_pdf |
-| 65-20 | 29/01/2020 | 10970 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES ALTERNOS, MINISTROS CONSEJEROS, CONSEJEROS, VICECÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395499&managementType=1) | pendiente_verificacion_pdf |
-| 66-20 | 29/01/2020 | 10970 | QUE DEROGA VARIAS DISPOSICIONES QUE DEJAN SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES, MINISTROS CONSEJE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395500&managementType=1) | pendiente_verificacion_pdf |
-| 67-20 | 29/01/2020 | 10970 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES ADSCRITOS AL MINISTERIO DE RELACIONES EXTERIORES, M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395501&managementType=1) | pendiente_verificacion_pdf |
-| 68-20 | 29/01/2020 | 10970 | QUE DEROGA EL DEC. NO. 29-09 QUE DESIGNÓ AL SEÑOR RAMÓN ANTONIO NINA TRINIDAD, COMO MINISTRO CONSEJE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395502&managementType=1) | pendiente_verificacion_pdf |
-| 69-20 | 29/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES JOHNNY RAFAEL MATHEW ESTRELLA Y GLAUDY ONDINA GÓMEZ FAJARDO, AUXILIAR DEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395503&managementType=1) | pendiente_verificacion_pdf |
-| 70-20 | 29/01/2020 | 10970 | QUE ASCIENDE AL SEÑOR PEDRO FELIX RAMÓN GÓMEZ POLANCO, A PRIMER SECRETARIO DE LA EMBAJADA DE LA REPÚ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395504&managementType=1) | pendiente_verificacion_pdf |
-| 71-20 | 29/01/2020 | 10970 | QUE ASCIENDE A LA CONSEJERA MARÍA GABRIELA SANTONI BISONÓ, A MINISTRA CONSEJERA Y LA TRASLADA A LA E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395505&managementType=1) | pendiente_verificacion_pdf |
-| 72-20 | 29/01/2020 | 10970 | QUE NOMBRA A LOS SEÑORES RAFAEL ANTONIO LANTIGUA CIRIACO Y CARLOS DANTE HEREDIA GARCÍA, EMBAJADORES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395506&managementType=1) | pendiente_verificacion_pdf |
-| 73-20 | 29/01/2020 | 10970 | QUE DESIGNA AL SEÑOR FRANCISCO JOSÉ HERNÁNDEZ MICHELI, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN CHI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395507&managementType=1) | pendiente_verificacion_pdf |
-| 74-20 | 31/01/2020 | 10970 | QUE NOMBRA A LOS SEÑORES CHANELL D. ESTRELLA ABREU Y JUAN MANUEL OSORIA SUÁREZ, SUBDIRECTORA ADMINIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395545&managementType=1) | pendiente_verificacion_pdf |
-| 75-20 | 31/01/2020 | 10970 | QUE DESIGNA AL SEÑOR JUSTINO EDISON TAVÁREZ CABRERA, SUBDIRECTOR DEL CONSEJO ESTATAL DEL AZÚCAR (CEA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395546&managementType=1) | pendiente_verificacion_pdf |
-| 76-20 | 06/02/2020 | 10971 | QUE DESIGNA AL SEÑOR JESÚS RAFAEL CABRERA, ASESOR EMPRESARIAL DEL PODER EJECUTIVO EN LA PROVINCIA PU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395547&managementType=1) | pendiente_verificacion_pdf |
-| 77-20 | 06/02/2020 | 10971 | QUE DESIGNA A LAS SEÑORAS YOVALINA ISABEL PICHARDO GARCÍA Y NAYELIN DENISSE AQUINO SERRANO, CONSEJER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395548&managementType=1) | pendiente_verificacion_pdf |
-| 78-20 | 06/02/2020 | 10971 | QUE NOMBRA AL SEÑOR JHONNY ANTONIO LEONARDO HENRÍQUEZ, ASESOR COMERCIAL DEL PODER EJECUTIVO PARA LA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395549&managementType=1) | pendiente_verificacion_pdf |
-| 79-20 | 06/02/2020 | 10971 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE CONSEJEROS, AGREGADOS, MINISTROS CONSEJEROS, SECRETARIOS Y AUXI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395550&managementType=1) | pendiente_verificacion_pdf |
-| 80-20 | 10/02/2020 | 10971 | QUE DESIGNA AL ARQ. ENRIQUE JOSÉ FELIZ GONZÁLEZ, DIRECTOR EJECUTIVO DE LA CORPORACIÓN DE ACUEDUCTOS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395633&managementType=1) | pendiente_verificacion_pdf |
-| 81-20 | 13/02/2020 | 10971 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES DOCENTES EN EL SISTEMA EDUCATIVO UNIVERSITARIO Y PREUNI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395634&managementType=1) | pendiente_verificacion_pdf |
-| 82-20 | 13/02/2020 | 10971 | QUE DESIGNA A LA SEÑORA LOREMI GONZÁLEZ FERNÁNDEZ, CONSEJERA DE LA EMBAJADA DE LA REPÚBLICA EN ITALI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395635&managementType=1) | pendiente_verificacion_pdf |
-| 83-20 | 14/02/2020 | 10971 | QUE DESIGNA A LOS SEÑORES JUAN MERCEDES MATEO GUERRERO Y ELFRIDA PETRONILA DÍAZ CARTASIO, CONSEJEROS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395636&managementType=1) | pendiente_verificacion_pdf |
-| 84-20 | 19/02/2020 | 10973 | QUE ASCIENDE A LOS SEÑORES JULIO BIENVENIDO PUJOLS, NANCY PATRICIA FRANJUL PÉREZ Y VENUS GUILLERMINA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395637&managementType=1) | pendiente_verificacion_pdf |
-| 85-20 | 19/02/2020 | 10973 | QUE DEROGA EL DEC. NO. 543-06, QUE DESIGNÓ AL SEÑOR THOMAS AUGUSTO AMARAL NEVES, COMO CÓNSUL HONORAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395638&managementType=1) | pendiente_verificacion_pdf |
-| 86-20 | 21/02/2020 | 10973 | QUE INSTRUYE A LAS INSTITUCIONES A CARGO DE LA EJECUCIÓN DE PROGRAMAS DESTINADOS AL ALIVIO DE LA POB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395655&managementType=1) | pendiente_verificacion_pdf |
-| 87-20 | 26/02/2020 | 10973 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE BIENES Y SERVICIOS INDISPENSABLES PARA LA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395656&managementType=1) | pendiente_verificacion_pdf |
-| 88-20 | 03/03/2020 | 10973 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395657&managementType=1) | pendiente_verificacion_pdf |
-| 89-20 | 04/03/2020 | 10974 | QUE DESIGNA AL SEÑOR VÍCTOR MANUEL GRIMALDI CÉSPEDES, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395658&managementType=1) | pendiente_verificacion_pdf |
-| 90-20 | 04/03/2020 | 10974 | QUE NOMBRA AL SEÑOR FAUSTO MARINO MENDOZA RODRÍGUEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395659&managementType=1) | pendiente_verificacion_pdf |
-| 91-20 | 04/03/2020 | 10974 | QUE APRUEBA EL PLAN NACIONAL DE ATRIBUCIÓN DE FRECUENCIAS (PNAF) EN LOS TÉRMINOS SOMETIDOS AL PODER ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395660&managementType=1) | pendiente_verificacion_pdf |
-| 92-20 | 04/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395661&managementType=1) | pendiente_verificacion_pdf |
-| 93-20 | 04/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 549-12, QUE NOMBRÓ AL LIC. JOSÉ FRANCISCO MARTINEZ RODRÍGUEZ, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395662&managementType=1) | pendiente_verificacion_pdf |
-| 94-20 | 04/03/2020 | 10974 | QUE MODIFICA EL ARTÍCULO 3 DEL DEC. NO.36-20. DESIGNA AL SEÑOR FABIO HILARIO CEPEDA, COMO VICECÓNSUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395663&managementType=1) | pendiente_verificacion_pdf |
-| 95-20 | 04/03/2020 | 10974 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395664&managementType=1) | pendiente_verificacion_pdf |
-| 96-20 | 04/03/2020 | 10974 | QUE DEROGA EL ARTICULO 4 DEL DECRETO 599-08 DEL 20 DE SEPTIEMBRE DE 2008 | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395665&managementType=1) | pendiente_verificacion_pdf |
-| 97-20 | 04/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FLAVIO ANTONIO CABREJA GÓMEZ, VICECÓNSUL DE LA REPÚBLICA EN LA HABANA, CUBA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395666&managementType=1) | pendiente_verificacion_pdf |
-| 100-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395846&managementType=1) | pendiente_verificacion_pdf |
+| 1-20 | 10/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA EUNISIS VÁSQUEZ ACOSTA, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA DE LA R... | [Ver documento](decreto-001-2020.md) | normalizado · pendiente_revision |
+| 10-20 | 10/01/2020 | 10968 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE U... | [Ver documento](decreto-010-2020.md) | normalizado · pendiente_revision |
+| 11-20 | 10/01/2020 | 10968 | QUE MODIFICA VARIOS NUMERALES DEL ARTÍCULO 1 DE LOS DECRETOS NOS. 334-13, 198-14 Y 297-16, QUE DECLA... | [Ver documento](decreto-011-2020.md) | normalizado · pendiente_revision |
+| 12-20 | 10/01/2020 | 10968 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-012-2020.md) | normalizado · pendiente_revision |
+| 13-20 | 10/01/2020 | 10968 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-013-2020.md) | normalizado · pendiente_revision |
+| 14-20 | 10/01/2020 | 10968 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL ARTÍCULO 1, NUMERAL 6 ... | [Ver documento](decreto-014-2020.md) | normalizado · pendiente_revision |
+| 15-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO EDUAR... | [Ver documento](decreto-015-2020.md) | normalizado · pendiente_revision |
+| 16-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JEIFR... | [Ver documento](decreto-016-2020.md) | normalizado · pendiente_revision |
+| 17-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ARMAN... | [Ver documento](decreto-017-2020.md) | normalizado · pendiente_revision |
+| 18-20 | 10/01/2020 | 10968 | QUE NOMBRA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-018-2020.md) | normalizado · pendiente_revision |
+| 2-20 | 10/01/2020 | 10968 | QUE NOMBRA AL SEÑOR BOLÍVAR ISRAEL MARTE NÚÑEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA RE... | [Ver documento](decreto-002-2020.md) | normalizado · pendiente_revision |
+| 3-20 | 10/01/2020 | 10968 | QUE DESIGNA AL ING. EZEQUIEL MANUEL VÓLQUEZ MEDINA, DIRECTOR GENERAL DE LA ADMINISTRADORA DE SUBSIDI... | [Ver documento](decreto-003-2020.md) | normalizado · pendiente_revision |
+| 4-20 | 10/01/2020 | 10968 | QUE NOMBRA A LA SEÑORA GISELA ANTONIA VICTORIA-KRUSE, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA, ... | [Ver documento](decreto-004-2020.md) | normalizado · pendiente_revision |
+| 5-20 | 10/01/2020 | 10968 | QUE DESIGNA AL SEÑOR HUGO GUILLIANI CURY, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, ... | [Ver documento](decreto-005-2020.md) | normalizado · pendiente_revision |
+| 6-20 | 10/01/2020 | 10968 | QUE NOMBRA AL SEÑOR FEDERICO ALBERTO CUELLO CAMILO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CON... | [Ver documento](decreto-006-2020.md) | normalizado · pendiente_revision |
+| 7-20 | 10/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA YEIMI MILEIBY LORA PERALTA, AUXILIAR DEL CONSULADO DE LA REPÚBLICA DOMINICAN... | [Ver documento](decreto-007-2020.md) | normalizado · pendiente_revision |
+| 8-20 | 10/01/2020 | 10968 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 471-09 Y EL ARTÍCULO 1 DEL DEC. NÚM. 261-12. | [Ver documento](decreto-008-2020.md) | normalizado · pendiente_revision |
+| 9-20 | 10/01/2020 | 10968 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 348-17, EN SU ARTÍCULO 1, NUMERAL 4, VARI... | [Ver documento](decreto-009-2020.md) | normalizado · pendiente_revision |
+| 19-20 | 13/01/2020 | 10968 | QUE CONVOCA DE FORMA EXTRAORDINARIA AL SENADO Y A LA CÁMARA DE DIPUTADOS PARA QUE SE REÚNAN POR UN P... | [Ver documento](decreto-019-2020.md) | normalizado · pendiente_revision |
+| 20-20 | 14/01/2020 | 10968 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-020-2020.md) | normalizado · pendiente_revision |
+| 21-20 | 16/01/2020 | 10968 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL PARA LA REESTRUCTURACIÓN DEL VERTEDERO A CIELO ABIERTO D... | [Ver documento](decreto-021-2020.md) | normalizado · pendiente_revision |
+| 22-20 | 16/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA GIRE THESALIA CALDERÓN DÍAZ, VICECÓNSUL EN EL CONSULADO DE LA REPÚBLICA DOMI... | [Ver documento](decreto-022-2020.md) | normalizado · pendiente_revision |
+| 23-20 | 17/01/2020 | 10969 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-023-2020.md) | normalizado · pendiente_revision |
+| 24-20 | 17/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES DOMINGO DE JESÚS ALMONTE REINOSO Y RICARDO SAMUEL MOLINA ACOSTA, SUBDIRECT... | [Ver documento](decreto-024-2020.md) | normalizado · pendiente_revision |
+| 25-20 | 17/01/2020 | 10969 | QUE CONFIRMA A LA DRA. ANINA DEL CASTILLO CAZAÑO, COMO DIRECTORA EJECUTIVA DEL INSTITUTO NACIONAL DE... | [Ver documento](decreto-025-2020.md) | normalizado · pendiente_revision |
+| 26-20 | 17/01/2020 | 10969 | QUE DESIGNA AL LIC. MÁXIMO ARISMENDY ARISTY CARABALLO, MIEMBRO DEL CONSEJO DE ADMINISTRACIÓN DE LA E... | [Ver documento](decreto-026-2020.md) | normalizado · pendiente_revision |
+| 27-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES SANTIAGO RODRÍGUEZ FIGUEREO, FRANCISCO SANTANA Y MERCEDES ALTAGRACIA BRITO ... | [Ver documento](decreto-027-2020.md) | normalizado · pendiente_revision |
+| 28-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES BIENVENIDO TOLENTINO SANTANA Y JORGE NICOLÁS CORDERO PACHE, CÓNSULES GENER... | [Ver documento](decreto-028-2020.md) | normalizado · pendiente_revision |
+| 29-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES FRANCISCO FERNANDO CÁCERES LIRIANO Y RAMÓN CARREÑO, CÓNSULES GENERALES DE L... | [Ver documento](decreto-029-2020.md) | normalizado · pendiente_revision |
+| 30-20 | 24/01/2020 | 10969 | QUE DESIGNA A LAS SEÑORAS FELICITA AQUINO DE LEÓN Y ANA YRIS BELTRÉ FERNÁNDEZ, MINISTRA CONSEJERA Y ... | [Ver documento](decreto-030-2020.md) | normalizado · pendiente_revision |
+| 31-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES RAFAEL ACOSTA JAVIER Y MILTÓN ANDRÉS JIMÉNEZ, MINISTROS CONSEJEROS DE LAS ... | [Ver documento](decreto-031-2020.md) | normalizado · pendiente_revision |
+| 32-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES RUDY ALEXIS MEJÍA MANBRÚ Y MARÍA YVELISSE ALONZO LA PAZ, VICECÓNSULES DE LA... | [Ver documento](decreto-032-2020.md) | normalizado · pendiente_revision |
+| 33-20 | 24/01/2020 | 10969 | QUE DESIGNA AL SEÑOR LEO SERRANO BELTRÉ, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN MADRID, ESPAÑA. N... | [Ver documento](decreto-033-2020.md) | normalizado · pendiente_revision |
+| 34-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES DOMINGO NOVA, FLEURYS MAYOBANEX RIVERA CABRAL Y DEYDANIA RODRÍGUEZ PÉREZ, V... | [Ver documento](decreto-034-2020.md) | normalizado · pendiente_revision |
+| 35-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES FABIÁN PERALTA Y CELESTE ENCARNACIÓN MERÁN, VICECÓNSUL DE LA REPÚBLICA EN ... | [Ver documento](decreto-035-2020.md) | normalizado · pendiente_revision |
+| 36-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES ANEDICE TEJADA Y SIRVIO DOTEL FIGUEREO, AUXILIAR DEL CONSULADO EN MILÁN, IT... | [Ver documento](decreto-036-2020.md) | normalizado · pendiente_revision |
+| 37-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES WILLIAM POLANCO Y SANTIAGO FELIZ PÉREZ, AUXILIARES DE LOS CONSULADOS DE LA... | [Ver documento](decreto-037-2020.md) | normalizado · pendiente_revision |
+| 38-20 | 24/01/2020 | 10969 | QUE DEROGA LOS ARTÍCULOS 5 Y 2 DE LOS DECRETOS NOS. 584-08 Y 808-08, QUE DESIGNARON UN VICECÓNSUL Y ... | [Ver documento](decreto-038-2020.md) | normalizado · pendiente_revision |
+| 39-20 | 24/01/2020 | 10969 | QUE DEROGA LOS ARTÍCULOS 1 DEL DEC. NO. 617-10, 10 DEL DEC. NO. 115-11, Y 15 DEL DEC. NO. 223-11, QU... | [Ver documento](decreto-039-2020.md) | normalizado · pendiente_revision |
+| 40-20 | 24/01/2020 | 10969 | QUE DEROGA EL ARTÍCULO 2, DEL DEC. NO. 632-07, QUE NOMBRÓ UN AUXILIAR DEL CONSULADO DE LA REPÚBLICA ... | [Ver documento](decreto-040-2020.md) | normalizado · pendiente_revision |
+| 41-20 | 24/01/2020 | 10969 | QUE DEROGA EL DECRETO NO. 99-06 Y LOS ARTÍCULOS 2 Y 13 DE LOS DECRETOS NOS. 282-10 Y 223-11, QUE DES... | [Ver documento](decreto-041-2020.md) | normalizado · pendiente_revision |
+| 42-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 162-07, QUE DESIGNÓ UN VICECÓNSUL DE LA REPÚBLICA EN MILANO, ITALIA, Y LOS AR... | [Ver documento](decreto-042-2020.md) | normalizado · pendiente_revision |
+| 43-20 | 24/01/2020 | 10969 | QUE DEROGA EL ART. 4 DEL DEC. NO. 1390-04, EL DEC. NO. 163-06 Y EL ARTÍCULO 12 DEL DEC. NO. 115-11, ... | [Ver documento](decreto-043-2020.md) | normalizado · pendiente_revision |
+| 44-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 401-06, QUE DESIGNÓ UN VICECÓNSUL DE LA REPÚBLICA EN ZURICH, SUIZA, EL ARTÍCU... | [Ver documento](decreto-044-2020.md) | normalizado · pendiente_revision |
+| 45-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 602-08, EL ART. 28 DEL DEC. NO. 06-09 Y EL ART. 3 DEL DEC. NO. 261-12, QUE NO... | [Ver documento](decreto-045-2020.md) | normalizado · pendiente_revision |
+| 46-20 | 24/01/2020 | 10969 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 1443-04, QUE DESIGNÓ UN AUXILIAR DEL CONSULADO EN MARSELLA, FR... | [Ver documento](decreto-046-2020.md) | normalizado · pendiente_revision |
+| 47-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 216-07, QUE DESIGNÓ AL SEÑOR PORFIRIO SUERO PÉREZ, CONSEJERO DE LA EMBAJADA D... | [Ver documento](decreto-047-2020.md) | normalizado · pendiente_revision |
+| 48-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES OSCAR GÓMEZ Y ROLANDO SANTANA MANZUETA, VICECÓNSUL EN BARCELONA, ESPAÑA Y ... | [Ver documento](decreto-048-2020.md) | normalizado · pendiente_revision |
+| 49-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES RUBÉN DARÍO JAVIER SÁNCHEZ Y JUAN DE JESÚS CUEVAS FÉLIZ, TERCER SECRETARIO ... | [Ver documento](decreto-049-2020.md) | normalizado · pendiente_revision |
+| 50-20 | 24/01/2020 | 10969 | QUE DESIGNA AL SEÑOR ADRIANO RAFAEL DE LOS SANTOS GALVÁ, MINISTRO CONSEJERO DE LA EMBAJADA DE LA REP... | [Ver documento](decreto-050-2020.md) | normalizado · pendiente_revision |
+| 51-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES JUAN RAMÓN HERNÁNDEZ REYNOSO Y SACHENKA SANTOS GONZÁLEZ, AGREGADOS CULTURAL... | [Ver documento](decreto-051-2020.md) | normalizado · pendiente_revision |
+| 52-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES JULIO ANTONIO RAMÍREZ FRANCO, EFRAÍN CUEVAS LÓPEZ Y SATURNINO TUCENT CIPRI... | [Ver documento](decreto-052-2020.md) | normalizado · pendiente_revision |
+| 53-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES APOLINAR MONTERO BATISTA Y LUIS ALBERTO PELÁEZ ANDINO, VICECÓNSULES DE LA R... | [Ver documento](decreto-053-2020.md) | normalizado · pendiente_revision |
+| 54-20 | 28/01/2020 | 10969 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-054-2020.md) | normalizado · pendiente_revision |
+| 55-20 | 28/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES RAMÓN NICOLÁS DE LOS SANTOS Y JUNIOR CONTRERAS, GOBERNADOR CIVIL DE LA PRO... | [Ver documento](decreto-055-2020.md) | normalizado · pendiente_revision |
+| 56-20 | 29/01/2020 | 10970 | QUE NOMBRA A LA SEÑORA EVELIA PÉREZ ESTÉVEZ, SUBDIRECTORA DEL PLAN DE ASISTENCIA SOCIAL DE LA PRESID... | [Ver documento](decreto-056-2020.md) | normalizado · pendiente_revision |
+| 57-20 | 29/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES YILTON RAFAEL SANTANA Y LUIS ALBERTO NÚÑEZ CASTRO, MIEMBRO DEL DIRECTORIO ... | [Ver documento](decreto-057-2020.md) | normalizado · pendiente_revision |
+| 58-20 | 29/01/2020 | 10970 | QUE DEROGA EL ART. 4 DEL DEC. NO. 173-11, QUE NOMBRÓ AL SEÑOR RICHARD PÉREZ, SUBDIRECTOR DEL INSTITU... | [Ver documento](decreto-058-2020.md) | normalizado · pendiente_revision |
+| 59-20 | 29/01/2020 | 10970 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-059-2020.md) | normalizado · pendiente_revision |
+| 60-20 | 29/01/2020 | 10970 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-060-2020.md) | normalizado · pendiente_revision |
+| 61-20 | 29/01/2020 | 10970 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FRANC... | [Ver documento](decreto-061-2020.md) | normalizado · pendiente_revision |
+| 62-20 | 29/01/2020 | 10970 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. MODIFICA EL LIT... | [Ver documento](decreto-062-2020.md) | normalizado · pendiente_revision |
+| 63-20 | 29/01/2020 | 10970 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-063-2020.md) | normalizado · pendiente_revision |
+| 64-20 | 29/01/2020 | 10970 | QUE CREA EL PARQUE DE ZONA FRANCA INDUSTRIAL LIMESTONE PARK, UBICADO EN LUPERÓN, PUERTO PLATA, BAJO ... | [Ver documento](decreto-064-2020.md) | normalizado · pendiente_revision |
+| 65-20 | 29/01/2020 | 10970 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES ALTERNOS, MINISTROS CONSEJEROS, CONSEJEROS, VICECÓN... | [Ver documento](decreto-065-2020.md) | normalizado · pendiente_revision |
+| 66-20 | 29/01/2020 | 10970 | QUE DEROGA VARIAS DISPOSICIONES QUE DEJAN SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES, MINISTROS CONSEJE... | [Ver documento](decreto-066-2020.md) | normalizado · pendiente_revision |
+| 67-20 | 29/01/2020 | 10970 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES ADSCRITOS AL MINISTERIO DE RELACIONES EXTERIORES, M... | [Ver documento](decreto-067-2020.md) | normalizado · pendiente_revision |
+| 68-20 | 29/01/2020 | 10970 | QUE DEROGA EL DEC. NO. 29-09 QUE DESIGNÓ AL SEÑOR RAMÓN ANTONIO NINA TRINIDAD, COMO MINISTRO CONSEJE... | [Ver documento](decreto-068-2020.md) | normalizado · pendiente_revision |
+| 69-20 | 29/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES JOHNNY RAFAEL MATHEW ESTRELLA Y GLAUDY ONDINA GÓMEZ FAJARDO, AUXILIAR DEL ... | [Ver documento](decreto-069-2020.md) | normalizado · pendiente_revision |
+| 70-20 | 29/01/2020 | 10970 | QUE ASCIENDE AL SEÑOR PEDRO FELIX RAMÓN GÓMEZ POLANCO, A PRIMER SECRETARIO DE LA EMBAJADA DE LA REPÚ... | [Ver documento](decreto-070-2020.md) | normalizado · pendiente_revision |
+| 71-20 | 29/01/2020 | 10970 | QUE ASCIENDE A LA CONSEJERA MARÍA GABRIELA SANTONI BISONÓ, A MINISTRA CONSEJERA Y LA TRASLADA A LA E... | [Ver documento](decreto-071-2020.md) | normalizado · pendiente_revision |
+| 72-20 | 29/01/2020 | 10970 | QUE NOMBRA A LOS SEÑORES RAFAEL ANTONIO LANTIGUA CIRIACO Y CARLOS DANTE HEREDIA GARCÍA, EMBAJADORES ... | [Ver documento](decreto-072-2020.md) | normalizado · pendiente_revision |
+| 73-20 | 29/01/2020 | 10970 | QUE DESIGNA AL SEÑOR FRANCISCO JOSÉ HERNÁNDEZ MICHELI, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN CHI... | [Ver documento](decreto-073-2020.md) | normalizado · pendiente_revision |
+| 74-20 | 31/01/2020 | 10970 | QUE NOMBRA A LOS SEÑORES CHANELL D. ESTRELLA ABREU Y JUAN MANUEL OSORIA SUÁREZ, SUBDIRECTORA ADMINIS... | [Ver documento](decreto-074-2020.md) | normalizado · pendiente_revision |
+| 75-20 | 31/01/2020 | 10970 | QUE DESIGNA AL SEÑOR JUSTINO EDISON TAVÁREZ CABRERA, SUBDIRECTOR DEL CONSEJO ESTATAL DEL AZÚCAR (CEA... | [Ver documento](decreto-075-2020.md) | normalizado · pendiente_revision |
+| 76-20 | 06/02/2020 | 10971 | QUE DESIGNA AL SEÑOR JESÚS RAFAEL CABRERA, ASESOR EMPRESARIAL DEL PODER EJECUTIVO EN LA PROVINCIA PU... | [Ver documento](decreto-076-2020.md) | normalizado · pendiente_revision |
+| 77-20 | 06/02/2020 | 10971 | QUE DESIGNA A LAS SEÑORAS YOVALINA ISABEL PICHARDO GARCÍA Y NAYELIN DENISSE AQUINO SERRANO, CONSEJER... | [Ver documento](decreto-077-2020.md) | normalizado · pendiente_revision |
+| 78-20 | 06/02/2020 | 10971 | QUE NOMBRA AL SEÑOR JHONNY ANTONIO LEONARDO HENRÍQUEZ, ASESOR COMERCIAL DEL PODER EJECUTIVO PARA LA ... | [Ver documento](decreto-078-2020.md) | normalizado · pendiente_revision |
+| 79-20 | 06/02/2020 | 10971 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE CONSEJEROS, AGREGADOS, MINISTROS CONSEJEROS, SECRETARIOS Y AUXI... | [Ver documento](decreto-079-2020.md) | normalizado · pendiente_revision |
+| 80-20 | 10/02/2020 | 10971 | QUE DESIGNA AL ARQ. ENRIQUE JOSÉ FELIZ GONZÁLEZ, DIRECTOR EJECUTIVO DE LA CORPORACIÓN DE ACUEDUCTOS ... | [Ver documento](decreto-080-2020.md) | normalizado · pendiente_revision |
+| 81-20 | 13/02/2020 | 10971 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES DOCENTES EN EL SISTEMA EDUCATIVO UNIVERSITARIO Y PREUNI... | [Ver documento](decreto-081-2020.md) | normalizado · pendiente_revision |
+| 82-20 | 13/02/2020 | 10971 | QUE DESIGNA A LA SEÑORA LOREMI GONZÁLEZ FERNÁNDEZ, CONSEJERA DE LA EMBAJADA DE LA REPÚBLICA EN ITALI... | [Ver documento](decreto-082-2020.md) | normalizado · pendiente_revision |
+| 83-20 | 14/02/2020 | 10971 | QUE DESIGNA A LOS SEÑORES JUAN MERCEDES MATEO GUERRERO Y ELFRIDA PETRONILA DÍAZ CARTASIO, CONSEJEROS... | [Ver documento](decreto-083-2020.md) | normalizado · pendiente_revision |
+| 84-20 | 19/02/2020 | 10973 | QUE ASCIENDE A LOS SEÑORES JULIO BIENVENIDO PUJOLS, NANCY PATRICIA FRANJUL PÉREZ Y VENUS GUILLERMINA... | [Ver documento](decreto-084-2020.md) | normalizado · pendiente_revision |
+| 85-20 | 19/02/2020 | 10973 | QUE DEROGA EL DEC. NO. 543-06, QUE DESIGNÓ AL SEÑOR THOMAS AUGUSTO AMARAL NEVES, COMO CÓNSUL HONORAR... | [Ver documento](decreto-085-2020.md) | normalizado · pendiente_revision |
+| 86-20 | 21/02/2020 | 10973 | QUE INSTRUYE A LAS INSTITUCIONES A CARGO DE LA EJECUCIÓN DE PROGRAMAS DESTINADOS AL ALIVIO DE LA POB... | [Ver documento](decreto-086-2020.md) | normalizado · pendiente_revision |
+| 87-20 | 26/02/2020 | 10973 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE BIENES Y SERVICIOS INDISPENSABLES PARA LA ... | [Ver documento](decreto-087-2020.md) | normalizado · pendiente_revision |
+| 88-20 | 03/03/2020 | 10973 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-088-2020.md) | normalizado · pendiente_revision |
+| 89-20 | 04/03/2020 | 10974 | QUE DESIGNA AL SEÑOR VÍCTOR MANUEL GRIMALDI CÉSPEDES, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE... | [Ver documento](decreto-089-2020.md) | normalizado · pendiente_revision |
+| 90-20 | 04/03/2020 | 10974 | QUE NOMBRA AL SEÑOR FAUSTO MARINO MENDOZA RODRÍGUEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE ... | [Ver documento](decreto-090-2020.md) | normalizado · pendiente_revision |
+| 91-20 | 04/03/2020 | 10974 | QUE APRUEBA EL PLAN NACIONAL DE ATRIBUCIÓN DE FRECUENCIAS (PNAF) EN LOS TÉRMINOS SOMETIDOS AL PODER ... | [Ver documento](decreto-091-2020.md) | normalizado · pendiente_revision |
+| 92-20 | 04/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-092-2020.md) | normalizado · pendiente_revision |
+| 93-20 | 04/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 549-12, QUE NOMBRÓ AL LIC. JOSÉ FRANCISCO MARTINEZ RODRÍGUEZ, ... | [Ver documento](decreto-093-2020.md) | normalizado · pendiente_revision |
+| 94-20 | 04/03/2020 | 10974 | QUE MODIFICA EL ARTÍCULO 3 DEL DEC. NO.36-20. DESIGNA AL SEÑOR FABIO HILARIO CEPEDA, COMO VICECÓNSUL... | [Ver documento](decreto-094-2020.md) | normalizado · pendiente_revision |
+| 95-20 | 04/03/2020 | 10974 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-095-2020.md) | normalizado · pendiente_revision |
+| 96-20 | 04/03/2020 | 10974 | QUE DEROGA EL ARTICULO 4 DEL DECRETO 599-08 DEL 20 DE SEPTIEMBRE DE 2008 | [Ver documento](decreto-096-2020.md) | normalizado · pendiente_revision |
+| 97-20 | 04/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FLAVIO ANTONIO CABREJA GÓMEZ, VICECÓNSUL DE LA REPÚBLICA EN LA HABANA, CUBA. | [Ver documento](decreto-097-2020.md) | normalizado · pendiente_revision |
+| 100-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-100-2020.md) | normalizado · pendiente_revision |
 | 101-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395847&managementType=1) | pendiente_verificacion_pdf |
 | 102-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395848&managementType=1) | pendiente_verificacion_pdf |
 | 103-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395849&managementType=1) | pendiente_verificacion_pdf |
@@ -139,8 +242,8 @@ Documentos detectados: **756**.
 | 106-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FAUSTINO ROSARIO FERMÍN, SUBDIRECTOR DEL CONSEJO ESTATAL DEL AZÚCAR (CEA). | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395852&managementType=1) | pendiente_verificacion_pdf |
 | 107-20 | 06/03/2020 | 10974 | QUE NOMBRA AL SEÑOR FREDDY ANTONIO HERNÁNDEZ DE LA ROSA, SUBDIRECTOR GENERAL DE GANADERÍA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395853&managementType=1) | pendiente_verificacion_pdf |
 | 108-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR RUBÉN DARÍO GRULLÓN GÓMEZ, SUBDIRECTOR DEL INSTITUTO NACIONAL DE RECURSOS HIDRÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395854&managementType=1) | pendiente_verificacion_pdf |
-| 98-20 | 06/03/2020 | 10974 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER A VARIAS DAMAS DOMINICANAS, CON MOTIVO DEL DÍA INTERNACI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395697&managementType=1) | pendiente_verificacion_pdf |
-| 99-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395698&managementType=1) | pendiente_verificacion_pdf |
+| 98-20 | 06/03/2020 | 10974 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER A VARIAS DAMAS DOMINICANAS, CON MOTIVO DEL DÍA INTERNACI... | [Ver documento](decreto-098-2020.md) | normalizado · pendiente_revision |
+| 99-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-099-2020.md) | normalizado · pendiente_revision |
 | 109-20 | 11/03/2020 | 10974 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES DOCENTES EN EL SISTEMA EDUCATIVO UNIVERSITARIO Y PREUNI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395676&managementType=1) | pendiente_verificacion_pdf |
 | 110-20 | 11/03/2020 | 10974 | QUE NOMBRA A LA SEÑORA MIGUELINA DE CASTRO, ADMINISTRADORA DEL HIPÓDROMO V CENTENARIO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395677&managementType=1) | pendiente_verificacion_pdf |
 | 111-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO ROBE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395678&managementType=1) | pendiente_verificacion_pdf |
