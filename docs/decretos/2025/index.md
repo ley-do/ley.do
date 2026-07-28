@@ -109,6 +109,31 @@ Documentos detectados: **727**.
 - [Decreto núm. 098-2025](decreto-098-2025.md)
 - [Decreto núm. 099-2025](decreto-099-2025.md)
 - [Decreto núm. 100-2025](decreto-100-2025.md)
+- [Decreto núm. 101-2025](decreto-101-2025.md)
+- [Decreto núm. 102-2025](decreto-102-2025.md)
+- [Decreto núm. 103-2025](decreto-103-2025.md)
+- [Decreto núm. 104-2025](decreto-104-2025.md)
+- [Decreto núm. 105-2025](decreto-105-2025.md)
+- [Decreto núm. 106-2025](decreto-106-2025.md)
+- [Decreto núm. 107-2025](decreto-107-2025.md)
+- [Decreto núm. 108-2025](decreto-108-2025.md)
+- [Decreto núm. 109-2025](decreto-109-2025.md)
+- [Decreto núm. 110-2025](decreto-110-2025.md)
+- [Decreto núm. 111-2025](decreto-111-2025.md)
+- [Decreto núm. 112-2025](decreto-112-2025.md)
+- [Decreto núm. 113-2025](decreto-113-2025.md)
+- [Decreto núm. 114-2025](decreto-114-2025.md)
+- [Decreto núm. 115-2025](decreto-115-2025.md)
+- [Decreto núm. 116-2025](decreto-116-2025.md)
+- [Decreto núm. 117-2025](decreto-117-2025.md)
+- [Decreto núm. 118-2025](decreto-118-2025.md)
+- [Decreto núm. 119-2025](decreto-119-2025.md)
+- [Decreto núm. 120-2025](decreto-120-2025.md)
+- [Decreto núm. 121-2025](decreto-121-2025.md)
+- [Decreto núm. 122-2025](decreto-122-2025.md)
+- [Decreto núm. 123-2025](decreto-123-2025.md)
+- [Decreto núm. 124-2025](decreto-124-2025.md)
+- [Decreto núm. 125-2025](decreto-125-2025.md)
 
 ## Documentos detectados
 
@@ -209,37 +234,37 @@ Documentos detectados: **727**.
 | 92-25 | 24/02/2025 | 11189 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR RD$150,000.00 MENSUALES AL SEÑOR JULIO GUILLERMO ORT... | [Ver documento](decreto-092-2025.md) | normalizado · pendiente_revision |
 | 93-25 | 25/02/2025 | 11189 | QUE DESIGNA A REYNA GLORIA CHALJUB THEN, SUBDIRECTORA GENERAL DE LA DIRECCIÓN GENERAL DE PROYECTOS E... | [Ver documento](decreto-093-2025.md) | normalizado · pendiente_revision |
 | 100-25 | 26/02/2025 | 11189 | QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN 3 SERVIDOR... | [Ver documento](decreto-100-2025.md) | normalizado · pendiente_revision |
-| 101-25 | 26/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA AMPLIACIÓN DEL ACUEDUCTO D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403089&managementType=1) | pendiente_verificacion_pdf |
-| 102-25 | 26/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DEL POLITÉCNI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403074&managementType=1) | pendiente_verificacion_pdf |
-| 103-25 | 26/02/2025 | 11189 | QUE DESIGNA NIEVE (9) VICEMINISTROS EN LOS MINISTERIOS DE SALUD PÚBLICA, ADMINISTRATIVO DE LA PRESID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403090&managementType=1) | pendiente_verificacion_pdf |
-| 104-25 | 26/02/2025 | 11189 | QUE ORDENA LA ACTIVACIÓN DEL CONSEJO NACIONAL ANTITERRORISTA Y LA DIRECCIÓN NACIONAL ANTITERRORISTA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403091&managementType=1) | pendiente_verificacion_pdf |
+| 101-25 | 26/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA AMPLIACIÓN DEL ACUEDUCTO D... | [Ver documento](decreto-101-2025.md) | normalizado · pendiente_revision |
+| 102-25 | 26/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DEL POLITÉCNI... | [Ver documento](decreto-102-2025.md) | normalizado · pendiente_revision |
+| 103-25 | 26/02/2025 | 11189 | QUE DESIGNA NIEVE (9) VICEMINISTROS EN LOS MINISTERIOS DE SALUD PÚBLICA, ADMINISTRATIVO DE LA PRESID... | [Ver documento](decreto-103-2025.md) | normalizado · pendiente_revision |
+| 104-25 | 26/02/2025 | 11189 | QUE ORDENA LA ACTIVACIÓN DEL CONSEJO NACIONAL ANTITERRORISTA Y LA DIRECCIÓN NACIONAL ANTITERRORISTA ... | [Ver documento](decreto-104-2025.md) | normalizado · pendiente_revision |
 | 94-25 | 26/02/2025 | 11189 | QUE DESIGNA A VÍCTOR ROGELIO BENAVIDES VALERIO, DIRECTOR EJECUTIVO DE LA COMISIÓN NACIONAL DE DEFENS... | [Ver documento](decreto-094-2025.md) | normalizado · pendiente_revision |
 | 95-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES | [Ver documento](decreto-095-2025.md) | normalizado · pendiente_revision |
 | 96-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-096-2025.md) | normalizado · pendiente_revision |
 | 97-25 | 26/02/2025 | 11189 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. MODIFICA... | [Ver documento](decreto-097-2025.md) | normalizado · pendiente_revision |
 | 98-25 | 26/02/2025 | 11189 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD EN EL SERVI... | [Ver documento](decreto-098-2025.md) | normalizado · pendiente_revision |
 | 99-25 | 26/02/2025 | 11189 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-099-2025.md) | normalizado · pendiente_revision |
-| 105-25 | 28/02/2025 | 11189 | QUE ORDENA LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO POR MEDIO DE LA APLICACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403092&managementType=1) | pendiente_verificacion_pdf |
-| 106-25 | 28/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADAS A LA CONSTRUCCIÓN DE PLANTELES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403093&managementType=1) | pendiente_verificacion_pdf |
-| 107-25 | 03/03/2025 | 11190 | QUE DEROGA EL DECRETO NÚM. 30-25, QUE APRUEBA EL REGLAMENTO QUE REGULA LA PERCEPCIÓN Y APLICACIÓN DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403135&managementType=1) | pendiente_verificacion_pdf |
-| 108-25 | 04/03/2025 | 11190 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE COMEND... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403136&managementType=1) | pendiente_verificacion_pdf |
-| 109-25 | 04/03/2025 | 11190 | QUE COLOCA EN HONROSA SITUACIÓN DE RETIRO POR ANTIGÜEDAD O POR HABER ALCANZADO EL TIEMPO MÁXIMO DE P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403151&managementType=1) | pendiente_verificacion_pdf |
-| 110-25 | 04/03/2025 | 11190 | QUE ASCIENDE AL RANGO DE GENERAL A NUEVE (9) CORONELES DE LA POLICÍA NACIONAL. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403152&managementType=1) | pendiente_verificacion_pdf |
-| 111-25 | 08/03/2025 | 11190 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER DOMINICANA 2025, A 17 DESTACADAS DAMAS DOMINICANAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403153&managementType=1) | pendiente_verificacion_pdf |
-| 112-25 | 08/03/2025 | 11190 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE SESENTA MIL PESOS DOMINI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403154&managementType=1) | pendiente_verificacion_pdf |
-| 113-25 | 10/03/2025 | 11190 | QUE DISPONE LA FUSIÓN DEL PROGRAMA SUPÉRATE Y LA ADMINISTRADORA DE SUBSIDIOS SOCIALES, DE CONFORMIDA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403137&managementType=1) | pendiente_verificacion_pdf |
-| 114-25 | 10/03/2025 | 11190 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 191-21, QUE CREA E INTEGRA EL FONDO NACIONAL DE LA VIVIE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403155&managementType=1) | pendiente_verificacion_pdf |
-| 115-25 | 10/03/2025 | 11190 | QUE DECLARA DE INTERÉS PÚBLICO Y DE PRIORIDAD NACIONAL EL RELANZAMIENTO Y FORTALECIMIENTO DE LA POLÍ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403138&managementType=1) | pendiente_verificacion_pdf |
-| 116-25 | 10/03/2025 | 11190 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 76-25. DISPONE QUE LA COMISIÓN PRESIDENCIAL DE TRANSPARE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403156&managementType=1) | pendiente_verificacion_pdf |
-| 117-25 | 10/03/2025 | 11190 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 196-16. CREA EL PATRONATO DEL PARQUE DE LA PUNTILLA, ANF... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403139&managementType=1) | pendiente_verificacion_pdf |
-| 118-25 | 10/03/2025 | 11190 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403157&managementType=1) | pendiente_verificacion_pdf |
-| 119-25 | 10/03/2025 | 11190 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN Y OTORGA RECONOCIMIENTO OFICIAL Y PERSONALIDAD JURÍDICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403158&managementType=1) | pendiente_verificacion_pdf |
-| 120-25 | 10/03/2025 | 11190 | QUE DESIGNA AL SEÑOR ALEJANDRO ARIAS ZARZUELA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403159&managementType=1) | pendiente_verificacion_pdf |
-| 121-25 | 10/03/2025 | 11190 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO DE DIEZ MIL PES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403160&managementType=1) | pendiente_verificacion_pdf |
-| 122-25 | 10/03/2025 | 11190 | QUE AUMENTA EL MONTO DE LAS PENSIONES DEL ESTADO ASIGNADAS A LOS SEÑORES CESAR CASTRO TORIBIO Y ELPI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403161&managementType=1) | pendiente_verificacion_pdf |
-| 123-25 | 10/03/2025 | 11190 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TREINTA (30) COLABORADORES DE LA DIRECCIÓN GENERAL DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403162&managementType=1) | pendiente_verificacion_pdf |
-| 124-25 | 10/03/2025 | 11190 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A CINCUENTA (50) PERSONAS Y OTORGA PENSIONES ESPECIALES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403163&managementType=1) | pendiente_verificacion_pdf |
-| 125-25 | 10/03/2025 | 11190 | QUE DISPONE LA CONSTRUCCIÓN Y HABILITACIÓN DE UNA TERMINAL MULTIPROPÓSITO, QUE INCLUYE ENTRADA, SALI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403140&managementType=1) | pendiente_verificacion_pdf |
+| 105-25 | 28/02/2025 | 11189 | QUE ORDENA LA RACIONALIZACIÓN DE COMPONENTES IMPORTANTES DEL GASTO PÚBLICO POR MEDIO DE LA APLICACIÓ... | [Ver documento](decreto-105-2025.md) | normalizado · pendiente_revision |
+| 106-25 | 28/02/2025 | 11189 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADAS A LA CONSTRUCCIÓN DE PLANTELES... | [Ver documento](decreto-106-2025.md) | normalizado · pendiente_revision |
+| 107-25 | 03/03/2025 | 11190 | QUE DEROGA EL DECRETO NÚM. 30-25, QUE APRUEBA EL REGLAMENTO QUE REGULA LA PERCEPCIÓN Y APLICACIÓN DE... | [Ver documento](decreto-107-2025.md) | normalizado · pendiente_revision |
+| 108-25 | 04/03/2025 | 11190 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE COMEND... | [Ver documento](decreto-108-2025.md) | normalizado · pendiente_revision |
+| 109-25 | 04/03/2025 | 11190 | QUE COLOCA EN HONROSA SITUACIÓN DE RETIRO POR ANTIGÜEDAD O POR HABER ALCANZADO EL TIEMPO MÁXIMO DE P... | [Ver documento](decreto-109-2025.md) | normalizado · pendiente_revision |
+| 110-25 | 04/03/2025 | 11190 | QUE ASCIENDE AL RANGO DE GENERAL A NUEVE (9) CORONELES DE LA POLICÍA NACIONAL. | [Ver documento](decreto-110-2025.md) | normalizado · pendiente_revision |
+| 111-25 | 08/03/2025 | 11190 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER DOMINICANA 2025, A 17 DESTACADAS DAMAS DOMINICANAS. | [Ver documento](decreto-111-2025.md) | normalizado · pendiente_revision |
+| 112-25 | 08/03/2025 | 11190 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE SESENTA MIL PESOS DOMINI... | [Ver documento](decreto-112-2025.md) | normalizado · pendiente_revision |
+| 113-25 | 10/03/2025 | 11190 | QUE DISPONE LA FUSIÓN DEL PROGRAMA SUPÉRATE Y LA ADMINISTRADORA DE SUBSIDIOS SOCIALES, DE CONFORMIDA... | [Ver documento](decreto-113-2025.md) | normalizado · pendiente_revision |
+| 114-25 | 10/03/2025 | 11190 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 191-21, QUE CREA E INTEGRA EL FONDO NACIONAL DE LA VIVIE... | [Ver documento](decreto-114-2025.md) | normalizado · pendiente_revision |
+| 115-25 | 10/03/2025 | 11190 | QUE DECLARA DE INTERÉS PÚBLICO Y DE PRIORIDAD NACIONAL EL RELANZAMIENTO Y FORTALECIMIENTO DE LA POLÍ... | [Ver documento](decreto-115-2025.md) | normalizado · pendiente_revision |
+| 116-25 | 10/03/2025 | 11190 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 76-25. DISPONE QUE LA COMISIÓN PRESIDENCIAL DE TRANSPARE... | [Ver documento](decreto-116-2025.md) | normalizado · pendiente_revision |
+| 117-25 | 10/03/2025 | 11190 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 196-16. CREA EL PATRONATO DEL PARQUE DE LA PUNTILLA, ANF... | [Ver documento](decreto-117-2025.md) | normalizado · pendiente_revision |
+| 118-25 | 10/03/2025 | 11190 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-118-2025.md) | normalizado · pendiente_revision |
+| 119-25 | 10/03/2025 | 11190 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN Y OTORGA RECONOCIMIENTO OFICIAL Y PERSONALIDAD JURÍDICA... | [Ver documento](decreto-119-2025.md) | normalizado · pendiente_revision |
+| 120-25 | 10/03/2025 | 11190 | QUE DESIGNA AL SEÑOR ALEJANDRO ARIAS ZARZUELA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRE... | [Ver documento](decreto-120-2025.md) | normalizado · pendiente_revision |
+| 121-25 | 10/03/2025 | 11190 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO DE DIEZ MIL PES... | [Ver documento](decreto-121-2025.md) | normalizado · pendiente_revision |
+| 122-25 | 10/03/2025 | 11190 | QUE AUMENTA EL MONTO DE LAS PENSIONES DEL ESTADO ASIGNADAS A LOS SEÑORES CESAR CASTRO TORIBIO Y ELPI... | [Ver documento](decreto-122-2025.md) | normalizado · pendiente_revision |
+| 123-25 | 10/03/2025 | 11190 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A TREINTA (30) COLABORADORES DE LA DIRECCIÓN GENERAL DE ... | [Ver documento](decreto-123-2025.md) | normalizado · pendiente_revision |
+| 124-25 | 10/03/2025 | 11190 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A CINCUENTA (50) PERSONAS Y OTORGA PENSIONES ESPECIALES ... | [Ver documento](decreto-124-2025.md) | normalizado · pendiente_revision |
+| 125-25 | 10/03/2025 | 11190 | QUE DISPONE LA CONSTRUCCIÓN Y HABILITACIÓN DE UNA TERMINAL MULTIPROPÓSITO, QUE INCLUYE ENTRADA, SALI... | [Ver documento](decreto-125-2025.md) | normalizado · pendiente_revision |
 | 126-25 | 10/03/2025 | 11190 | QUE AUTORIZA A LOS AYUNTAMIENTOS DEL DISTRITO NACIONAL Y DEL MUNICIPIO SANTA CRUZ DE BARAHONA, A VEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403164&managementType=1) | pendiente_verificacion_pdf |
 | 127-25 | 10/03/2025 | 11190 | QUE DEROGA EL DECRETO NÚMERO 1036-01, QUE AUTORIZABA AL SEÑOR TÁCITO ENRIQUE CORDERO PEREYRA, PARA Q... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403141&managementType=1) | pendiente_verificacion_pdf |
 | 128-25 | 10/03/2025 | 11190 | QUE APRUEBA EL REGLAMENTO DE APLICACIÓN DE LA LEY NÚM. 57-23, QUE CREA UN RÉGIMEN DE INCENTIVOS FISC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403165&managementType=1) | pendiente_verificacion_pdf |
