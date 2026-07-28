@@ -15,11 +15,31 @@
   "ruta_markdown": "docs/decretos/2025/decreto-307-2025.md",
   "ruta_json": "datos/decretos/2025/decreto-307-2025.json",
   "sha256_pdf_original": "bbe4889906c3931094e9961eab9b1261713859680d039e9e5133c178f01b026c",
-  "sha256_markdown": "284d4327b74bebb81b66ca83cefe9461e18f2eb248b3a9bcb6d51430b8d1e281",
+  "sha256_markdown": "2620fd23330b51034d2243e6cd90bee548f774c14d322e485a01d1478cd41297",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos. El registro principal se identifica en la fuente oficial como fe de errata; se conserva también el registro oficial anterior. LEY.DO no interpreta los efectos jurídicos de la corrección.",
+  "registros_oficiales_relacionados": [
+    {
+      "rol": "paquete_principal",
+      "document_id_consultoria": "3403499",
+      "titulo_registro_fuente": "FE DE ERRATA: EL DEC. NÚM. 307-25 DEL 6 JUNIO DE 2025, SE PUBLICA NUEVAMENTE EN ESTA GACETA OFICIAL,...",
+      "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403499&managementType=2",
+      "ruta_pdf_local": "archivos/decretos/2025/decreto-307-2025.pdf",
+      "ruta_markdown": "docs/decretos/2025/decreto-307-2025.md",
+      "sha256_pdf_original": "bbe4889906c3931094e9961eab9b1261713859680d039e9e5133c178f01b026c"
+    },
+    {
+      "rol": "registro_oficial_adicional",
+      "document_id_consultoria": "3403447",
+      "titulo_registro_fuente": "QUE DESIGNA AL SEÑOR CARLOS ANTONIO MICHELÉN NANNUN, MINISTRO CONSEJERO EN LA MISIÓN PERMANENTE DE L...",
+      "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403447&managementType=2",
+      "ruta_pdf_local": "archivos/decretos/2025/registros-oficiales/decreto-307-2025-registro-3403447.pdf",
+      "ruta_markdown": "docs/decretos/2025/registros-oficiales/decreto-307-2025-registro-3403447.md",
+      "sha256_pdf_original": "d7914765c0babc67649bab05579f62292c8f399451784602571483eb2be34a67"
+    }
+  ]
 }

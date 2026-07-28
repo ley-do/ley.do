@@ -15,11 +15,19 @@
   "ruta_markdown": "docs/decretos/2025/decreto-497-2025.md",
   "ruta_json": "datos/decretos/2025/decreto-497-2025.json",
   "sha256_pdf_original": "c9e3f53be36602f6bc7497069e8705e558f012b7a60282b0d7e12807ca5e82e4",
-  "sha256_markdown": "1408a3d7708838e2f3224fd5b1ae36e9307bd00b1c908c18e408c183a4699a88",
+  "sha256_markdown": "d985aef2226ac5008fd9e851850e3630e75c98d9444a17478a29ea8e225f2c40",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos. La fuente oficial registra 01/01/1900; el PDF indica 2 de septiembre de 2025. Se conserva el valor de la fuente y se marca para revisión humana.",
+  "alertas_revision": [
+    {
+      "campo": "fecha",
+      "valor_fuente_oficial": "01/01/1900",
+      "evidencia_texto_pdf": "DADO ... a los dos (2) días del mes de septiembre del año dos mil veinticinco (2025)",
+      "accion": "Conservar el valor de la fuente y someter a revisión humana."
+    }
+  ]
 }

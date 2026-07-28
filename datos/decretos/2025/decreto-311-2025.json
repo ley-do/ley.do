@@ -15,11 +15,31 @@
   "ruta_markdown": "docs/decretos/2025/decreto-311-2025.md",
   "ruta_json": "datos/decretos/2025/decreto-311-2025.json",
   "sha256_pdf_original": "5bb4239b6d629862f0da08f260ecb093a518052dfa67794b1719f203965b10c2",
-  "sha256_markdown": "a271d4b375e667eb087c4ccd1d4b2de05311471d16593624f557279b6e442759",
+  "sha256_markdown": "8f64cebf1621a33bd92c4d64f1ce446c7a0b035c4e2533d90e82226a1814316e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos. La fuente contiene dos PDFs oficiales con hashes binarios distintos y texto extraído idéntico; ambos se conservan sin inferir diferencias jurídicas.",
+  "registros_oficiales_relacionados": [
+    {
+      "rol": "paquete_principal",
+      "document_id_consultoria": "3403452",
+      "titulo_registro_fuente": "QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DE QUE DISFRUTAN 284 MIEMBROS DE LA AS...",
+      "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403452&managementType=2",
+      "ruta_pdf_local": "archivos/decretos/2025/decreto-311-2025.pdf",
+      "ruta_markdown": "docs/decretos/2025/decreto-311-2025.md",
+      "sha256_pdf_original": "5bb4239b6d629862f0da08f260ecb093a518052dfa67794b1719f203965b10c2"
+    },
+    {
+      "rol": "registro_oficial_adicional",
+      "document_id_consultoria": "3403451",
+      "titulo_registro_fuente": "QUE AUMENTA A LA SUMA DE RD$50,000.00 MENSUALES LAS PENSIONES DE QUE DISFRUTAN 284 MIEMBROS DE LA AS...",
+      "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403451&managementType=2",
+      "ruta_pdf_local": "archivos/decretos/2025/registros-oficiales/decreto-311-2025-registro-3403451.pdf",
+      "ruta_markdown": "docs/decretos/2025/registros-oficiales/decreto-311-2025-registro-3403451.md",
+      "sha256_pdf_original": "9241cea599d18886bc28d3f05f2f16850762eb7304872b5fd27bd48486d77dad"
+    }
+  ]
 }

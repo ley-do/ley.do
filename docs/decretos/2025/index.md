@@ -7,6 +7,12 @@ Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecu
 
 Documentos detectados: **727**.
 
+## Registros oficiales múltiples y alertas
+
+- Los decretos [291](decreto-291-2025.md), [303](decreto-303-2025.md) y [307](decreto-307-2025.md) tienen una publicación anterior y una fe de errata en la fuente oficial; ambos registros se conservan.
+- El decreto [311](decreto-311-2025.md) tiene dos PDFs oficiales con hashes distintos y texto extraído idéntico; ambos se conservan.
+- El decreto [497](decreto-497-2025.md) tiene fecha `01/01/1900` en la metadata oficial, mientras el PDF indica 2 de septiembre de 2025. La fecha oficial no fue reemplazada y queda pendiente de revisión humana.
+
 ## Documentos normalizados inicialmente
 
 - [Decreto núm. 001-2025](decreto-001-2025.md)

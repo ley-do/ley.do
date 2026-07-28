@@ -14,9 +14,9 @@
 - Gaceta oficial: 11198
 - Institución fuente: Consultoría Jurídica del Poder Ejecutivo
 - Fuente oficial: [https://www.consultoria.gov.do/consulta/](https://www.consultoria.gov.do/consulta/)
-- Documento oficial: [https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403452&managementType=1](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403452&managementType=1)
-- Descarga oficial: [https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403452&managementType=2](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403452&managementType=2)
-- Hash SHA256 del PDF: `5bb4239b6d629862f0da08f260ecb093a518052dfa67794b1719f203965b10c2`
+- Documento oficial: [https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403451&managementType=1](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403451&managementType=1)
+- Descarga oficial: [https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403451&managementType=2](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403451&managementType=2)
+- Hash SHA256 del PDF: `9241cea599d18886bc28d3f05f2f16850762eb7304872b5fd27bd48486d77dad`
 - Estado de revisión: pendiente_revision
 
 ## Texto
@@ -91,12 +91,12 @@ DADO en Santo Domingo de Guzmán, Distrito Nacional, capital de la República Do
 
 LUIS ABINADER
 
-## Registros oficiales relacionados
+## Relación con el paquete principal
 
-- La fuente oficial contiene dos registros para este número.
-- Paquete principal: registro `3403452`.
-- [Registro oficial adicional](registros-oficiales/decreto-311-2025-registro-3403451.md): `3403451`; SHA256 del PDF `9241cea599d18886bc28d3f05f2f16850762eb7304872b5fd27bd48486d77dad`.
-- La fuente contiene dos PDFs oficiales con hashes binarios distintos y texto extraído idéntico; ambos se conservan sin inferir diferencias jurídicas.
+- Este archivo conserva un registro oficial adicional para el Decreto núm. 311-2025.
+- ID del registro en Consultoría Jurídica: `3403451`.
+- [Paquete principal de LEY.DO](../decreto-311-2025.md)
+- LEY.DO conserva ambos registros sin interpretar sus efectos jurídicos.
 
 ## Notas de revisión
 
