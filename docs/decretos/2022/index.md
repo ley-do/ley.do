@@ -1,13 +1,26 @@
 # Decretos 2022
 
 !!! warning "Aviso"
-    LEY.DO no es una fuente oficial. Los documentos de esta página están detectados en fuente oficial y pendientes de verificación de PDF, normalización y revisión humana.
+    LEY.DO no es una fuente oficial. Los documentos fueron normalizados automáticamente desde una fuente oficial y permanecen pendientes de revisión humana.
 
 Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consulta/).
 
-Documentos detectados: **793**.
+## Cobertura frente al inventario recopilado
 
-## Documentos normalizados inicialmente
+- Registros detectados en la consulta agrupada bajo 2022: **793**.
+- Registros cuyo número oficial termina en `-22`: **772**.
+- Identidades documentales únicas normalizadas con PDF, Markdown y JSON: **771**.
+- Registros pertenecientes a otros años, conservados solo en la tabla de trazabilidad: **21**.
+- Estado de revisión de los paquetes: `pendiente_revision`.
+
+### Salvedades documentales
+
+- **Decreto 132-2022:** la metadata oficial registra `22/03/1900`, mientras el texto del PDF indica 22 de marzo de 2022.
+- **Decreto 660-2022:** el encabezado usa `660-22` y la línea formal usa la forma larga `660-2022`.
+- **Decreto 707-2022:** el encabezado sumario dice `707-29`, mientras la línea formal y la metadata oficial dicen `707-22`.
+- **Decreto 734-2022:** la consulta contiene dos registros oficiales (`3400632` y `3401027`); el primero devolvió HTTP 500 y el segundo proporcionó el PDF archivado.
+
+## Documentos normalizados
 
 - [Decreto núm. 001-2022](decreto-001-2022.md)
 - [Decreto núm. 002-2022](decreto-002-2022.md)
@@ -781,11 +794,11 @@ Documentos detectados: **793**.
 - [Decreto núm. 787-2022](decreto-787-2022.md)
 - [Decreto núm. 788-2022](decreto-788-2022.md)
 
-## Documentos detectados
+## Inventario de la consulta oficial
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
 |---:|---|---:|---|---|---|
-| 132-22 | 22/03/1900 | 11062 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 22, 23 Y 24 DE MARZO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Ver documento](decreto-132-2022.md) | normalizado · pendiente_revision |
+| 132-22 | 22/03/1900 | 11062 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 22, 23 Y 24 DE MARZO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Ver documento](decreto-132-2022.md) | normalizado con alerta · pendiente_revision |
 | 840-21 | 28/12/2021 | 11055 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO.270-15. ESTABLECE LAS PORCIONES DE TERRENOS DONDE ESTARÁ UBIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399046&managementType=1) | pendiente_verificacion_pdf |
 | 841-21 | 28/12/2021 | 11055 | DEL 28 DE DICIEMBRE DE 2021, QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO.328-10. DISPONE LAS PORCIONES DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399052&managementType=1) | pendiente_verificacion_pdf |
 | 842-21 | 28/12/2021 | 11055 | QUE NOMBRA A ERNESTO TORRES PEREYRA Y PABLO ARAMIS ALMIGAR VALENTÍN ROSARIO, EMBAJADORES EXTRAORDINA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399047&managementType=1) | pendiente_verificacion_pdf |
@@ -1450,7 +1463,7 @@ Documentos detectados: **793**.
 | 657-22 | 07/11/2022 | 11086 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-657-2022.md) | normalizado · pendiente_revision |
 | 658-22 | 07/11/2022 | 11086 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-658-2022.md) | normalizado · pendiente_revision |
 | 659-22 | 07/11/2022 | 11086 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-659-2022.md) | normalizado · pendiente_revision |
-| 660-22 | 07/11/2022 | 11086 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE CABALLERO, AL S... | [Ver documento](decreto-660-2022.md) | normalizado · pendiente_revision |
+| 660-22 | 07/11/2022 | 11086 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN HERÁLDICA DE CRISTÓBAL COLÓN EN EL GRADO DE CABALLERO, AL S... | [Ver documento](decreto-660-2022.md) | normalizado con alerta · pendiente_revision |
 | 661-22 | 07/11/2022 | 11086 | QUE CREA LA DIRECCIÓN DE INFRAESTRUCTURA ESCOLAR ADSCRITA AL MINISTERIO DE EDUCACIÓN. TRANSFIERE EL ... | [Ver documento](decreto-661-2022.md) | normalizado · pendiente_revision |
 | 662-22 | 11/11/2022 | 11086 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-662-2022.md) | normalizado · pendiente_revision |
 | 663-22 | 11/11/2022 | 11086 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-663-2022.md) | normalizado · pendiente_revision |
@@ -1523,8 +1536,8 @@ Documentos detectados: **793**.
 | 731-22 | 07/12/2022 | 11091 | QUE DESIGNA A FÉLIX ARACENA VARGAS, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA DOMI... | [Ver documento](decreto-731-2022.md) | normalizado · pendiente_revision |
 | 732-22 | 07/12/2022 | 11091 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-732-2022.md) | normalizado · pendiente_revision |
 | 733-22 | 08/12/2022 | 11091 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SEGURIDAD SOCIAL P... | [Ver documento](decreto-733-2022.md) | normalizado · pendiente_revision |
-| 734-22 | 12/12/2022 | 11091 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DEL SISTEMA DE TRANSFERENCIA DE COMPETENCIAS DESDE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400632&managementType=1) | pendiente_verificacion_pdf |
-| 734-22 | 12/12/2022 | 11091 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DEL SISTEMA DE TRANSFERENCIA DE COMPETENCIAS DESDE... | [Ver documento](decreto-734-2022.md) | normalizado · pendiente_revision |
+| 734-22 | 12/12/2022 | 11091 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DEL SISTEMA DE TRANSFERENCIA DE COMPETENCIAS DESDE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400632&managementType=1) | registro duplicado · PDF no recuperable (HTTP 500) |
+| 734-22 | 12/12/2022 | 11091 | QUE CREA E INTEGRA EL GABINETE PARA EL DESARROLLO DEL SISTEMA DE TRANSFERENCIA DE COMPETENCIAS DESDE... | [Ver documento](decreto-734-2022.md) | normalizado con alerta · pendiente_revision |
 | 735-22 | 15/12/2022 | 11091 | QUE NOMBRA SEIS (6) FUNCIONARIOS CONSULARES EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-735-2022.md) | normalizado · pendiente_revision |
 | 736-22 | 15/12/2022 | 11091 | QUE CONCEDE EL BENEFICIO DE PENSIONES DEL ESTADO A 501 EX-SERVIDORES DEL ANTIGUO INSTITUTO DOMINICAN... | [Ver documento](decreto-736-2022.md) | normalizado · pendiente_revision |
 | 737-22 | 15/12/2022 | 11091 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, LITERAL B), DEL DEC. NÚM. 413-14, UNA ... | [Ver documento](decreto-737-2022.md) | normalizado · pendiente_revision |

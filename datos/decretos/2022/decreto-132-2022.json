@@ -17,11 +17,16 @@
   "ruta_markdown": "docs/decretos/2022/decreto-132-2022.md",
   "ruta_json": "datos/decretos/2022/decreto-132-2022.json",
   "sha256_pdf_original": "e7c783a40fdc14402dfb3523c20c127cde3884db24e2d16d720f4774778e79fe",
-  "sha256_markdown": "3e40b40a9cf4a53998bf96e5d92fdc947a2ff886e9be48d9d1ec22d0300fa86b",
+  "sha256_markdown": "5b90bb7002bd615aebae3ac1335eef0f52fe7f36869dc86e56b2ad14be7c8268",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata de la consulta oficial registra la fecha `22/03/1900`, mientras el texto del PDF indica veintidós de marzo de 2022; ambos valores se conservan para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "fecha_texto_pdf_detectada": "22/03/2022",
+  "fecha_metadata_fuente": "22/03/1900",
+  "alertas_revision": [
+    "La metadata de la consulta oficial registra la fecha `22/03/1900`, mientras el texto del PDF indica veintidós de marzo de 2022; ambos valores se conservan para revisión humana."
+  ]
 }
