@@ -376,6 +376,31 @@ Documentos detectados: **406**.
 - [Decreto núm. 365-2026](decreto-365-2026.md)
 - [Decreto núm. 366-2026](decreto-366-2026.md)
 - [Decreto núm. 367-2026](decreto-367-2026.md)
+- [Decreto núm. 368-2026](decreto-368-2026.md)
+- [Decreto núm. 369-2026](decreto-369-2026.md)
+- [Decreto núm. 370-2026](decreto-370-2026.md)
+- [Decreto núm. 371-2026](decreto-371-2026.md)
+- [Decreto núm. 372-2026](decreto-372-2026.md)
+- [Decreto núm. 373-2026](decreto-373-2026.md)
+- [Decreto núm. 374-2026](decreto-374-2026.md)
+- [Decreto núm. 375-2026](decreto-375-2026.md)
+- [Decreto núm. 376-2026](decreto-376-2026.md)
+- [Decreto núm. 377-2026](decreto-377-2026.md)
+- [Decreto núm. 378-2026](decreto-378-2026.md)
+- [Decreto núm. 379-2026](decreto-379-2026.md)
+- [Decreto núm. 380-2026](decreto-380-2026.md)
+- [Decreto núm. 381-2026](decreto-381-2026.md)
+- [Decreto núm. 382-2026](decreto-382-2026.md)
+- [Decreto núm. 383-2026](decreto-383-2026.md)
+- [Decreto núm. 384-2026](decreto-384-2026.md)
+- [Decreto núm. 385-2026](decreto-385-2026.md)
+- [Decreto núm. 386-2026](decreto-386-2026.md)
+- [Decreto núm. 387-2026](decreto-387-2026.md)
+- [Decreto núm. 388-2026](decreto-388-2026.md)
+- [Decreto núm. 389-2026](decreto-389-2026.md)
+- [Decreto núm. 390-2026](decreto-390-2026.md)
+- [Decreto núm. 391-2026](decreto-391-2026.md)
+- [Decreto núm. 392-2026](decreto-392-2026.md)
 - [Decreto núm. 409-2026](decreto-409-2026.md)
 - [Decreto núm. 438-2026](decreto-438-2026.md)
 - [Decreto núm. 444-2026](decreto-444-2026.md)
@@ -751,31 +776,31 @@ Documentos detectados: **406**.
 | 365-26 | 02/06/2026 | 11244 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO CARLO... | [Ver documento](decreto-365-2026.md) | normalizado · pendiente_revision |
 | 366-26 | 02/06/2026 | 11244 | QUE DESIGNA A LA SEÑORA PATRICIA SELMA VILLEGAS DE JORGE, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIAR... | [Ver documento](decreto-366-2026.md) | normalizado · pendiente_revision |
 | 367-26 | 02/06/2026 | 11244 | QUE ACOGE LA RESOLUCIÓN NÚM. 6982 DEL 1 DE MAYO DE 2026, DICTADA POR LA COMISIÓN AEROPORTUARIA, EN V... | [Ver documento](decreto-367-2026.md) | normalizado · pendiente_revision |
-| 368-26 | 08/06/2026 | 11246 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 573-25, QUE DESIGNÓ AL SEÑOR JAIME MARTE MARTÍNEZ, CÓNSUL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405865&managementType=1) | pendiente_verificacion_pdf |
-| 369-26 | 08/06/2026 | 11246 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405869&managementType=1) | pendiente_verificacion_pdf |
-| 370-26 | 08/06/2026 | 11246 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405870&managementType=1) | pendiente_verificacion_pdf |
-| 371-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405871&managementType=1) | pendiente_verificacion_pdf |
-| 372-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405872&managementType=1) | pendiente_verificacion_pdf |
-| 373-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 151 SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405873&managementType=1) | pendiente_verificacion_pdf |
-| 374-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 42 SERVID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405874&managementType=1) | pendiente_verificacion_pdf |
-| 375-26 | 08/06/2026 | 11246 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 30 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405875&managementType=1) | pendiente_verificacion_pdf |
-| 376-26 | 08/06/2026 | 11246 | QUE DESIGNA A LA SEÑORA SANDRA DEYANIRA LARA DE LOS SANTOS, VICEMINISTRA DE PLANIFICACIÓN SECTORIAL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405876&managementType=1) | pendiente_verificacion_pdf |
-| 377-26 | 08/06/2026 | 11246 | QUE DESIGNA AL SEÑOR MANUEL RAMÓN TEJADA PINEDA, SUBDIRECTOR GENERAL DE LA DIRECCIÓN GENERAL DE PROY... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405877&managementType=1) | pendiente_verificacion_pdf |
-| 378-26 | 08/06/2026 | 11246 | QUE DESIGNA A LA SEÑORA NATALY ANN CUEVAS LÓPEZ, AUXILIAR CONSULAR EN EL CONSULADO GENERAL DE NUESTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405878&managementType=1) | pendiente_verificacion_pdf |
-| 379-26 | 08/06/2026 | 11246 | QUE DESIGNA AL SEÑOR FRANCISCO MANUEL COMPRÉS HERNÁNDEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405866&managementType=1) | pendiente_verificacion_pdf |
-| 380-26 | 08/06/2026 | 11246 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 82-26. ESTABLECE LAS INSTITUCIONES AUTORIZADAS PARA REAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405879&managementType=1) | pendiente_verificacion_pdf |
-| 381-26 | 08/06/2026 | 11246 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS UBICADAS EN EL MUNICIPIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405880&managementType=1) | pendiente_verificacion_pdf |
-| 382-26 | 08/06/2026 | 11246 | QUE RATIFICA LA COLOCACIÓN EN HONROSA SITUACIÓN DE RETIRO CON DISFRUTE DE PENSIÓN, POR CAUSALES DE R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405867&managementType=1) | pendiente_verificacion_pdf |
-| 383-26 | 08/06/2026 | 11246 | QUE DISPONE LA APERTURA DE LOS CONSULADOS GENERALES DE LA REPÚBLICA DOMINICANA EN ATLANTA, GEORGIA, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405881&managementType=1) | pendiente_verificacion_pdf |
-| 384-26 | 08/06/2026 | 11246 | QUE APRUEBA EL REGLAMENTO QUE ESTABLECE LA ESTRATEGIA NACIONAL DE SERVICIOS PROACTIVOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405882&managementType=1) | pendiente_verificacion_pdf |
-| 385-26 | 08/06/2026 | 11246 | QUE APRUEBA EL REGLAMENTO QUE ESTABLECE LAS NORMAS DE FACILITACIÓN DEL TRANSPORTE AÉREO APLICABLES E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405868&managementType=1) | pendiente_verificacion_pdf |
-| 386-26 | 08/06/2026 | 11246 | QUE DESIGNA A LOS SEÑORES ROSA YANINA TORRES TAMARES Y SAÚL ROBERTO FULCAR SOTO, CÓNSULES GENERALES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405883&managementType=1) | pendiente_verificacion_pdf |
-| 387-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$40,000.00 MENSUALES A 58 CONTADORES PÚBLICOS. AUME... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405888&managementType=1) | pendiente_verificacion_pdf |
-| 388-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 42 PERSONAS. AUMENTA LAS PENSIONES DEL ESTADO DE QUE D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405898&managementType=1) | pendiente_verificacion_pdf |
-| 389-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 32 PERSONAS. AUMENTA LAS PENSIONES DEL ESTADO DE QUE D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405889&managementType=1) | pendiente_verificacion_pdf |
-| 390-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 8 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405899&managementType=1) | pendiente_verificacion_pdf |
-| 391-26 | 11/06/2026 | 11247 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$20,000.00 MENSUALES AL SEÑOR JHONNY ANGIOLO CASADO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405890&managementType=1) | pendiente_verificacion_pdf |
-| 392-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 9 PERSONAS. AUMENTA A LA SUMA DE RD$80,000.00 MENSUALE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405900&managementType=1) | pendiente_verificacion_pdf |
+| 368-26 | 08/06/2026 | 11246 | QUE DEROGA EL ARTÍCULO 2 DEL DECRETO NÚM. 573-25, QUE DESIGNÓ AL SEÑOR JAIME MARTE MARTÍNEZ, CÓNSUL ... | [Ver documento](decreto-368-2026.md) | normalizado · pendiente_revision |
+| 369-26 | 08/06/2026 | 11246 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Ver documento](decreto-369-2026.md) | normalizado · pendiente_revision |
+| 370-26 | 08/06/2026 | 11246 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-370-2026.md) | normalizado · pendiente_revision |
+| 371-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-371-2026.md) | normalizado · pendiente_revision |
+| 372-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00... | [Ver documento](decreto-372-2026.md) | normalizado · pendiente_revision |
+| 373-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 151 SERVI... | [Ver documento](decreto-373-2026.md) | normalizado · pendiente_revision |
+| 374-26 | 08/06/2026 | 11246 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO POR ANTIGÜEDAD A 42 SERVID... | [Ver documento](decreto-374-2026.md) | normalizado · pendiente_revision |
+| 375-26 | 08/06/2026 | 11246 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 30 PERSONAS. | [Ver documento](decreto-375-2026.md) | normalizado · pendiente_revision |
+| 376-26 | 08/06/2026 | 11246 | QUE DESIGNA A LA SEÑORA SANDRA DEYANIRA LARA DE LOS SANTOS, VICEMINISTRA DE PLANIFICACIÓN SECTORIAL ... | [Ver documento](decreto-376-2026.md) | normalizado · pendiente_revision |
+| 377-26 | 08/06/2026 | 11246 | QUE DESIGNA AL SEÑOR MANUEL RAMÓN TEJADA PINEDA, SUBDIRECTOR GENERAL DE LA DIRECCIÓN GENERAL DE PROY... | [Ver documento](decreto-377-2026.md) | normalizado · pendiente_revision |
+| 378-26 | 08/06/2026 | 11246 | QUE DESIGNA A LA SEÑORA NATALY ANN CUEVAS LÓPEZ, AUXILIAR CONSULAR EN EL CONSULADO GENERAL DE NUESTR... | [Ver documento](decreto-378-2026.md) | normalizado · pendiente_revision |
+| 379-26 | 08/06/2026 | 11246 | QUE DESIGNA AL SEÑOR FRANCISCO MANUEL COMPRÉS HERNÁNDEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO... | [Ver documento](decreto-379-2026.md) | normalizado · pendiente_revision |
+| 380-26 | 08/06/2026 | 11246 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 82-26. ESTABLECE LAS INSTITUCIONES AUTORIZADAS PARA REAL... | [Ver documento](decreto-380-2026.md) | normalizado · pendiente_revision |
+| 381-26 | 08/06/2026 | 11246 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS UBICADAS EN EL MUNICIPIO ... | [Ver documento](decreto-381-2026.md) | normalizado · pendiente_revision |
+| 382-26 | 08/06/2026 | 11246 | QUE RATIFICA LA COLOCACIÓN EN HONROSA SITUACIÓN DE RETIRO CON DISFRUTE DE PENSIÓN, POR CAUSALES DE R... | [Ver documento](decreto-382-2026.md) | normalizado · pendiente_revision |
+| 383-26 | 08/06/2026 | 11246 | QUE DISPONE LA APERTURA DE LOS CONSULADOS GENERALES DE LA REPÚBLICA DOMINICANA EN ATLANTA, GEORGIA, ... | [Ver documento](decreto-383-2026.md) | normalizado · pendiente_revision |
+| 384-26 | 08/06/2026 | 11246 | QUE APRUEBA EL REGLAMENTO QUE ESTABLECE LA ESTRATEGIA NACIONAL DE SERVICIOS PROACTIVOS. | [Ver documento](decreto-384-2026.md) | normalizado · pendiente_revision |
+| 385-26 | 08/06/2026 | 11246 | QUE APRUEBA EL REGLAMENTO QUE ESTABLECE LAS NORMAS DE FACILITACIÓN DEL TRANSPORTE AÉREO APLICABLES E... | [Ver documento](decreto-385-2026.md) | normalizado · pendiente_revision |
+| 386-26 | 08/06/2026 | 11246 | QUE DESIGNA A LOS SEÑORES ROSA YANINA TORRES TAMARES Y SAÚL ROBERTO FULCAR SOTO, CÓNSULES GENERALES ... | [Ver documento](decreto-386-2026.md) | normalizado · pendiente_revision |
+| 387-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DE RD$40,000.00 MENSUALES A 58 CONTADORES PÚBLICOS. AUME... | [Ver documento](decreto-387-2026.md) | normalizado · pendiente_revision |
+| 388-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 42 PERSONAS. AUMENTA LAS PENSIONES DEL ESTADO DE QUE D... | [Ver documento](decreto-388-2026.md) | normalizado · pendiente_revision |
+| 389-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 32 PERSONAS. AUMENTA LAS PENSIONES DEL ESTADO DE QUE D... | [Ver documento](decreto-389-2026.md) | normalizado · pendiente_revision |
+| 390-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 8 PERSONAS. | [Ver documento](decreto-390-2026.md) | normalizado · pendiente_revision |
+| 391-26 | 11/06/2026 | 11247 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$20,000.00 MENSUALES AL SEÑOR JHONNY ANGIOLO CASADO... | [Ver documento](decreto-391-2026.md) | normalizado · pendiente_revision |
+| 392-26 | 11/06/2026 | 11247 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 9 PERSONAS. AUMENTA A LA SUMA DE RD$80,000.00 MENSUALE... | [Ver documento](decreto-392-2026.md) | normalizado · pendiente_revision |
 | 393-26 | 15/06/2026 | 11247 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS UBICADAS EN EL MUNICIPIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405891&managementType=1) | pendiente_verificacion_pdf |
 | 394-26 | 15/06/2026 | 11247 | QUE MODIFICA EL ARTÍCULO 3 DEL DECRETO NÚM. 352-26. DESIGNA A LA SEÑORA ROSA PASTORA MÉNDEZ MÉNDEZ, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405892&managementType=1) | pendiente_verificacion_pdf |
 | 395-26 | 15/06/2026 | 11247 | QUE DISPONE EL TRASPASO DE TODAS LAS ATRIBUCIONES, OBLIGACIONES, FACULTADES Y PRERROGATIVAS CONCERNI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405893&managementType=1) | pendiente_verificacion_pdf |
