@@ -409,6 +409,106 @@ Documentos detectados: **838**.
 - [Decreto núm. 399-2021](decreto-399-2021.md)
 - [Decreto núm. 400-2021](decreto-400-2021.md)
 - [Decreto núm. 401-2021](decreto-401-2021.md)
+- [Decreto núm. 402-2021](decreto-402-2021.md)
+- [Decreto núm. 403-2021](decreto-403-2021.md)
+- [Decreto núm. 404-2021](decreto-404-2021.md)
+- [Decreto núm. 405-2021](decreto-405-2021.md)
+- [Decreto núm. 406-2021](decreto-406-2021.md)
+- [Decreto núm. 407-2021](decreto-407-2021.md)
+- [Decreto núm. 408-2021](decreto-408-2021.md)
+- [Decreto núm. 409-2021](decreto-409-2021.md)
+- [Decreto núm. 410-2021](decreto-410-2021.md)
+- [Decreto núm. 411-2021](decreto-411-2021.md)
+- [Decreto núm. 412-2021](decreto-412-2021.md)
+- [Decreto núm. 413-2021](decreto-413-2021.md)
+- [Decreto núm. 414-2021](decreto-414-2021.md)
+- [Decreto núm. 415-2021](decreto-415-2021.md)
+- [Decreto núm. 416-2021](decreto-416-2021.md)
+- [Decreto núm. 417-2021](decreto-417-2021.md)
+- [Decreto núm. 418-2021](decreto-418-2021.md)
+- [Decreto núm. 419-2021](decreto-419-2021.md)
+- [Decreto núm. 420-2021](decreto-420-2021.md)
+- [Decreto núm. 421-2021](decreto-421-2021.md)
+- [Decreto núm. 422-2021](decreto-422-2021.md)
+- [Decreto núm. 423-2021](decreto-423-2021.md)
+- [Decreto núm. 424-2021](decreto-424-2021.md)
+- [Decreto núm. 425-2021](decreto-425-2021.md)
+- [Decreto núm. 426-2021](decreto-426-2021.md)
+- [Decreto núm. 427-2021](decreto-427-2021.md)
+- [Decreto núm. 428-2021](decreto-428-2021.md)
+- [Decreto núm. 429-2021](decreto-429-2021.md)
+- [Decreto núm. 430-2021](decreto-430-2021.md)
+- [Decreto núm. 431-2021](decreto-431-2021.md)
+- [Decreto núm. 432-2021](decreto-432-2021.md)
+- [Decreto núm. 433-2021](decreto-433-2021.md)
+- [Decreto núm. 434-2021](decreto-434-2021.md)
+- [Decreto núm. 435-2021](decreto-435-2021.md)
+- [Decreto núm. 436-2021](decreto-436-2021.md)
+- [Decreto núm. 437-2021](decreto-437-2021.md)
+- [Decreto núm. 438-2021](decreto-438-2021.md)
+- [Decreto núm. 439-2021](decreto-439-2021.md)
+- [Decreto núm. 440-2021](decreto-440-2021.md)
+- [Decreto núm. 441-2021](decreto-441-2021.md)
+- [Decreto núm. 442-2021](decreto-442-2021.md)
+- [Decreto núm. 443-2021](decreto-443-2021.md)
+- [Decreto núm. 444-2021](decreto-444-2021.md)
+- [Decreto núm. 445-2021](decreto-445-2021.md)
+- [Decreto núm. 446-2021](decreto-446-2021.md)
+- [Decreto núm. 447-2021](decreto-447-2021.md)
+- [Decreto núm. 448-2021](decreto-448-2021.md)
+- [Decreto núm. 449-2021](decreto-449-2021.md)
+- [Decreto núm. 450-2021](decreto-450-2021.md)
+- [Decreto núm. 451-2021](decreto-451-2021.md)
+- [Decreto núm. 452-2021](decreto-452-2021.md)
+- [Decreto núm. 453-2021](decreto-453-2021.md)
+- [Decreto núm. 454-2021](decreto-454-2021.md)
+- [Decreto núm. 455-2021](decreto-455-2021.md)
+- [Decreto núm. 456-2021](decreto-456-2021.md)
+- [Decreto núm. 457-2021](decreto-457-2021.md)
+- [Decreto núm. 458-2021](decreto-458-2021.md)
+- [Decreto núm. 459-2021](decreto-459-2021.md)
+- [Decreto núm. 460-2021](decreto-460-2021.md)
+- [Decreto núm. 461-2021](decreto-461-2021.md)
+- [Decreto núm. 462-2021](decreto-462-2021.md)
+- [Decreto núm. 463-2021](decreto-463-2021.md)
+- [Decreto núm. 464-2021](decreto-464-2021.md)
+- [Decreto núm. 465-2021](decreto-465-2021.md)
+- [Decreto núm. 466-2021](decreto-466-2021.md)
+- [Decreto núm. 467-2021](decreto-467-2021.md)
+- [Decreto núm. 468-2021](decreto-468-2021.md)
+- [Decreto núm. 469-2021](decreto-469-2021.md)
+- [Decreto núm. 470-2021](decreto-470-2021.md)
+- [Decreto núm. 471-2021](decreto-471-2021.md)
+- [Decreto núm. 472-2021](decreto-472-2021.md)
+- [Decreto núm. 473-2021](decreto-473-2021.md)
+- [Decreto núm. 474-2021](decreto-474-2021.md)
+- [Decreto núm. 475-2021](decreto-475-2021.md)
+- [Decreto núm. 476-2021](decreto-476-2021.md)
+- [Decreto núm. 477-2021](decreto-477-2021.md)
+- [Decreto núm. 478-2021](decreto-478-2021.md)
+- [Decreto núm. 479-2021](decreto-479-2021.md)
+- [Decreto núm. 480-2021](decreto-480-2021.md)
+- [Decreto núm. 481-2021](decreto-481-2021.md)
+- [Decreto núm. 482-2021](decreto-482-2021.md)
+- [Decreto núm. 483-2021](decreto-483-2021.md)
+- [Decreto núm. 484-2021](decreto-484-2021.md)
+- [Decreto núm. 485-2021](decreto-485-2021.md)
+- [Decreto núm. 486-2021](decreto-486-2021.md)
+- [Decreto núm. 487-2021](decreto-487-2021.md)
+- [Decreto núm. 488-2021](decreto-488-2021.md)
+- [Decreto núm. 489-2021](decreto-489-2021.md)
+- [Decreto núm. 490-2021](decreto-490-2021.md)
+- [Decreto núm. 491-2021](decreto-491-2021.md)
+- [Decreto núm. 492-2021](decreto-492-2021.md)
+- [Decreto núm. 493-2021](decreto-493-2021.md)
+- [Decreto núm. 494-2021](decreto-494-2021.md)
+- [Decreto núm. 495-2021](decreto-495-2021.md)
+- [Decreto núm. 496-2021](decreto-496-2021.md)
+- [Decreto núm. 497-2021](decreto-497-2021.md)
+- [Decreto núm. 498-2021](decreto-498-2021.md)
+- [Decreto núm. 499-2021](decreto-499-2021.md)
+- [Decreto núm. 500-2021](decreto-500-2021.md)
+- [Decreto núm. 501-2021](decreto-501-2021.md)
 
 ## Documentos detectados
 
@@ -816,106 +916,106 @@ Documentos detectados: **838**.
 | 399-21 | 25/06/2021 | 11024 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, A PATRICIA PHELPS D... | [Ver documento](decreto-399-2021.md) | normalizado · pendiente_revision |
 | 400-21 | 28/06/2021 | 11024 | QUE CREA E INTEGRA UNA COMISIÓN ENCARGADA DE EVALUAR LA ASIGNACIÓN DE MILITARES Y POLICÍAS QUE PREST... | [Ver documento](decreto-400-2021.md) | normalizado · pendiente_revision |
 | 401-21 | 29/06/2021 | 11024 | QUE EXTIENDE HASTA EL 9 DE JULIO DE 2021, EL TOQUE DE QUEDA DISPUESTO EN EL ARTÍCULO 5 DEL DEC. NO. ... | [Ver documento](decreto-401-2021.md) | normalizado · pendiente_revision |
-| 402-21 | 01/07/2021 | 11025 | QUE NOMBRA VARIOS FUNCIONARIOS DIPLOMÁTICOS ADSCRITOS AL MINISTERIO DE RELACIONES EXTERIORES. DESIGN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398255&managementType=1) | pendiente_verificacion_pdf |
-| 403-21 | 02/07/2021 | 11025 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE VARIOS FUNCIONARIOS DIPLOMÁTICOS EN EL EXTERIOR Y EN EL MINISTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398256&managementType=1) | pendiente_verificacion_pdf |
-| 404-21 | 02/07/2021 | 11025 | QUE DEROGA VARIOS ARTÍCULOS DE LOS DECRETOS NOS. 125-21, 261-21 Y 272-21. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398257&managementType=1) | pendiente_verificacion_pdf |
-| 405-21 | 02/07/2021 | 11025 | QUE DESIGNA A ADONAI AIRES DE ARRUDA, CÓNSUL HONORARIO DE LA REPÚBLICA DOMINICANA EN LA CIUDAD DE CU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398253&managementType=1) | pendiente_verificacion_pdf |
-| 406-21 | 02/07/2021 | 11025 | QUE NOMBRA A PEDRO NOLASCO SUÁREZ ESPINO, DIRECTOR GENERAL DEL JARDÍN BOTÁNICO NACIONAL “DR. RAFAEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398258&managementType=1) | pendiente_verificacion_pdf |
-| 407-21 | 02/07/2021 | 11025 | ESTABLECE QUE LA ADQUISICIÓN DE BOLETOS PARA VIAJES AL EXTRANJERO Y LA GESTIÓN Y ASIGNACIÓN DE VIÁTI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398259&managementType=1) | pendiente_verificacion_pdf |
-| 408-21 | 02/07/2021 | 11025 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 6-14, EN SU ARTÍCULO 1, NUMERAL, 18, L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398260&managementType=1) | pendiente_verificacion_pdf |
-| 409-21 | 02/07/2021 | 11025 | QUE DEROGA EL DEC. NO. 427-01 Y EL ARTÍCULO 1 DEL DEC. NO. 245-09. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398261&managementType=1) | pendiente_verificacion_pdf |
-| 410-21 | 02/07/2021 | 11025 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 426-20, QUE NOMBRÓ A REYNALDO FERREIRAS GENAO, DIRECTOR EJECUT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398254&managementType=1) | pendiente_verificacion_pdf |
-| 411-21 | 02/07/2021 | 11025 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398262&managementType=1) | pendiente_verificacion_pdf |
-| 412-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398351&managementType=1) | pendiente_verificacion_pdf |
-| 413-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398352&managementType=1) | pendiente_verificacion_pdf |
-| 414-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398353&managementType=1) | pendiente_verificacion_pdf |
-| 415-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398321&managementType=1) | pendiente_verificacion_pdf |
-| 416-21 | 02/07/2021 | 11026 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ÁNGEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398354&managementType=1) | pendiente_verificacion_pdf |
-| 417-21 | 02/07/2021 | 11026 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR CUARENTICINCO (45) DÍAS, A P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398355&managementType=1) | pendiente_verificacion_pdf |
-| 418-21 | 02/07/2021 | 11026 | QUE ESTABLECE UNA VEDA DE DOS (2) AÑOS A PARTIR DEL 1 DE JULIO DE 2021, EN TODO EL TERRITORIO NACION... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398356&managementType=1) | pendiente_verificacion_pdf |
-| 419-21 | 03/07/2021 | 11026 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL DE LUNES A VIERNES DESDE LAS 10:00 P.M. HA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398322&managementType=1) | pendiente_verificacion_pdf |
-| 420-21 | 03/07/2021 | 11026 | QUE DECLARA DE DUELO OFICIAL EL DÍA 5 DE JULIO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DE TIR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398357&managementType=1) | pendiente_verificacion_pdf |
-| 421-21 | 05/07/2021 | 11026 | QUE AUTORIZA A LA SOCIEDAD COMERCIAL PLAYA GRANDE HOLDINGS, INC., A HACER USO DE UNA PARTE DE LOS 60... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398358&managementType=1) | pendiente_verificacion_pdf |
-| 422-21 | 05/07/2021 | 11026 | QUE INSTITUYE EL TÉRMINO “OBSERVATORIO DE SEGURIDAD CIUDADANA”, POR “CENTRO DE ANÁLISIS DE DATOS DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398323&managementType=1) | pendiente_verificacion_pdf |
-| 423-21 | 06/07/2021 | 11026 | QUE DECLARA DUELO OFICIAL EL DÍA 7 DE JULIO DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO DE JOSÉ N... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398359&managementType=1) | pendiente_verificacion_pdf |
-| 424-21 | 07/07/2021 | 11026 | QUE DESIGNA A FRANK HANS DANNENBERG CASTELLANOS Y FRANCISCO A. CARABALLO, EMBAJADORES EXTRAORDINARIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398324&managementType=1) | pendiente_verificacion_pdf |
-| 425-21 | 07/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS. ELEVA EL MONTO DE LA PENSIÓN ASIGNADA P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398361&managementType=1) | pendiente_verificacion_pdf |
-| 426-21 | 07/07/2021 | 11027 | MEDIANTE EL CUAL SE INSTITUYEN LOS COMITÉS DE SEGUIMIENTO DE LAS CONTRATACIONES PÚBLICAS COMO MECANI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398373&managementType=1) | pendiente_verificacion_pdf |
-| 427-21 | 07/07/2021 | 11027 | QUE DESIGNA A ANTONIO JOSÉ GÓMEZ PEÑA, GESTOR COMERCIAL Y CULTURAL DEL CENTRO DE EXPORTACIÓN E INVER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398362&managementType=1) | pendiente_verificacion_pdf |
-| 428-21 | 07/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A RAMÓN DONATO BERNARD CAMACHO. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398374&managementType=1) | pendiente_verificacion_pdf |
-| 429-21 | 07/07/2021 | 11027 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398375&managementType=1) | pendiente_verificacion_pdf |
-| 430-21 | 07/07/2021 | 11027 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL LITERAL B) DEL ARTÍCULO 1 DEL DECRETO NO. 1864 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398363&managementType=1) | pendiente_verificacion_pdf |
-| 431-21 | 07/07/2021 | 11027 | QUE NOMBRA A JOAN MANUEL FERRER RODRÍGUEZ, DIRECTOR DE FERIAS DEL LIBRO, DEL MINISTERIO DE CULTURA. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398364&managementType=1) | pendiente_verificacion_pdf |
-| 432-21 | 12/07/2021 | 11027 | QUE IMPLEMENTA EL PLAN DE FLEXIBILIZACIÓN DE LAS MEDIDAS RESTRICTIVAS POR LA COVID-19, A PARTIR DEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398365&managementType=1) | pendiente_verificacion_pdf |
-| 433-21 | 14/07/2021 | 11027 | QUE CREA E INTEGRA LA COMISIÓN NEGOCIADORA PARA LA ADQUISICIÓN DE UN INMUEBLE EN LA CIUDAD DE NUEVA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398376&managementType=1) | pendiente_verificacion_pdf |
-| 434-21 | 14/07/2021 | 11027 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1 DEL DEC. NO. 452-18, UNA PORCIÓN DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398377&managementType=1) | pendiente_verificacion_pdf |
-| 435-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398378&managementType=1) | pendiente_verificacion_pdf |
-| 436-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398379&managementType=1) | pendiente_verificacion_pdf |
-| 437-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398366&managementType=1) | pendiente_verificacion_pdf |
-| 438-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398380&managementType=1) | pendiente_verificacion_pdf |
-| 439-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398381&managementType=1) | pendiente_verificacion_pdf |
-| 440-21 | 14/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO A CARMEN VICTORIA MIOLÁN PALACIOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398382&managementType=1) | pendiente_verificacion_pdf |
-| 441-21 | 14/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO A RAÚL HIGINIO CALVO VELOZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398383&managementType=1) | pendiente_verificacion_pdf |
-| 442-21 | 16/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398384&managementType=1) | pendiente_verificacion_pdf |
-| 443-21 | 16/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398367&managementType=1) | pendiente_verificacion_pdf |
-| 444-21 | 19/07/2021 | 11027 | QUE ASCIENDE AL RANGO DE MAYOR GENERAL, P.N. Y LOS COLOCA EN LA HONROSA SITUACIÓN DE RETIRO, CON DIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398385&managementType=1) | pendiente_verificacion_pdf |
-| 445-21 | 19/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN OTORGADA POR EL ESTADO DOMINICANO A JULIANA CASTILLO VÁSQUEZ DE JIM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398368&managementType=1) | pendiente_verificacion_pdf |
-| 446-21 | 19/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A GLORIA DANITZA PEÑA FÉLIZ | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398386&managementType=1) | pendiente_verificacion_pdf |
-| 447-21 | 19/07/2021 | 11027 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 449-19. DISPONE QUE LA ZONA FRANCA CUCAMA DE CAUCEDO, FUNCIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398369&managementType=1) | pendiente_verificacion_pdf |
-| 448-21 | 19/07/2021 | 11027 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 417-19, QUE DESIGNÓ A JOSÉ BENCOSME BARCÁCEL, SUBADMINISTRADOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398387&managementType=1) | pendiente_verificacion_pdf |
-| 449-21 | 19/07/2021 | 11027 | QUE COLOCA EN SITUACIÓN DE RETIRO A VARIOS OFICIALES GENERALES SUPERIORES Y SUBALTERNOS DE LA POLICÍ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398388&managementType=1) | pendiente_verificacion_pdf |
-| 450-21 | 19/07/2021 | 11027 | QUE MODIFICA EL ARTÍCULO 6 DEL DEC. NO. 725-20, PARA QUE LA AUTORIZACIÓN DADA EN DICHO DECRETO SE EX... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398389&managementType=1) | pendiente_verificacion_pdf |
-| 451-21 | 19/07/2021 | 11027 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398390&managementType=1) | pendiente_verificacion_pdf |
-| 452-21 | 19/07/2021 | 11027 | QUE DESIGNA A RAMÓN MEDINA, ASESOR DEL PODER EJECUTIVO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398370&managementType=1) | pendiente_verificacion_pdf |
-| 453-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398391&managementType=1) | pendiente_verificacion_pdf |
-| 454-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398392&managementType=1) | pendiente_verificacion_pdf |
-| 455-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398393&managementType=1) | pendiente_verificacion_pdf |
-| 456-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398394&managementType=1) | pendiente_verificacion_pdf |
-| 457-21 | 26/07/2021 | 11027 | QUE DEROGA EL DEC. NO. 24-06, QUE AUTORIZÓ LA EXTENSIÓN DE LA ZONA FRANCA INDUSTRIAL DE SAN CRISTÓBA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398395&managementType=1) | pendiente_verificacion_pdf |
-| 458-21 | 26/07/2021 | 11027 | QUE NOMBRA A LAURA VIRGINIA RAMONA FAXAS VARGAS DE JORGENSEN, EMBAJADORA EXTRAORDINARIA Y PLENIPOTEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398371&managementType=1) | pendiente_verificacion_pdf |
-| 459-21 | 26/07/2021 | 11027 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DE LA CIUDADANA DOMINICANA ROS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398396&managementType=1) | pendiente_verificacion_pdf |
-| 460-21 | 26/07/2021 | 11027 | QUE AUTORIZA AL GENERAL DE BRIGADA PILOTO MANUEL ABAD GARCIA LITHGOW, FARD, EXAGREGADO DE DEFENSA DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398397&managementType=1) | pendiente_verificacion_pdf |
-| 461-21 | 26/07/2021 | 11027 | QUE NOMBRA A ELSA SABRINA DE LOURDES DE LA CRUZ VARGAS, VICEMINISTRA DE RELACIONES SINDICALES Y EMPR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398398&managementType=1) | pendiente_verificacion_pdf |
-| 462-21 | 26/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398372&managementType=1) | pendiente_verificacion_pdf |
-| 463-21 | 26/07/2021 | 11027 | QUE DESIGNA A ALEJANDRO ARIAS ZARZUELA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398399&managementType=1) | pendiente_verificacion_pdf |
-| 464-21 | 27/07/2021 | 11027 | QUE CREA E INTEGRA EL GABINETE DE INNOVACIÓN, CON EL OBJETO DE FORMULAR LA POLÍTICA NACIONAL DE INNO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398400&managementType=1) | pendiente_verificacion_pdf |
-| 465-21 | 27/07/2021 | 11027 | QUE NOMBRA A BARTOLOMÉ YAQUE PUJALS SUÁREZ, DIRECTOR EJECUTIVO DEL GABINETE DE INNOVACIÓN. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398401&managementType=1) | pendiente_verificacion_pdf |
-| 466-21 | 28/07/2021 | 11027 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 29, 30 Y 31 DE JULIO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398402&managementType=1) | pendiente_verificacion_pdf |
-| 467-21 | 02/08/2021 | 11031 | QUE ASCIENDE AL CORONEL ÁNGEL DARÍO RAMÍREZ PÉREZ, C.B., AL RANGO DE GENERAL DEL CUERPO DE BOMBEROS.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398458&managementType=1) | pendiente_verificacion_pdf |
-| 468-21 | 02/08/2021 | 11031 | QUE DEROGA VARIOS DECRETOS QUE DESIGNARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398459&managementType=1) | pendiente_verificacion_pdf |
-| 469-21 | 02/08/2021 | 11031 | QUE DEROGA VARIOS DECRETOS QUE DESIGNARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN DISTINTOS PAÍSES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398438&managementType=1) | pendiente_verificacion_pdf |
-| 470-21 | 02/08/2021 | 11031 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JOAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398460&managementType=1) | pendiente_verificacion_pdf |
-| 471-21 | 02/08/2021 | 11031 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICO-HAITIAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398461&managementType=1) | pendiente_verificacion_pdf |
-| 472-21 | 02/08/2021 | 11031 | QUE DESIGNA A VÍCTOR MANUEL HIDALGO ZAPATA, DIRECTOR EJECUTIVO DE LA COMISIÓN NACIONAL DEL CACAO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398462&managementType=1) | pendiente_verificacion_pdf |
-| 473-21 | 02/08/2021 | 11031 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398463&managementType=1) | pendiente_verificacion_pdf |
-| 474-21 | 02/08/2021 | 11031 | QUE NOMBRA A DANIEL JÁQUEZ DELFÍN, GESTOR COMERCIAL Y CULTURAL DEL CENTRO DE EXPORTACIÓN E INVERSIÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398464&managementType=1) | pendiente_verificacion_pdf |
-| 475-21 | 02/08/2021 | 11031 | QUE AUTORIZA A LA SOCIEDAD COMERCIAL NC12, S.R.L., A HACER USO DE UNA PARTE DE LOS 60 METROS DE LA F... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398439&managementType=1) | pendiente_verificacion_pdf |
-| 476-21 | 02/08/2021 | 11031 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398465&managementType=1) | pendiente_verificacion_pdf |
-| 477-21 | 03/08/2021 | 11031 | QUE LEVANTA EL TOQUE DE QUEDA EN LA PROVINCIA LA ALTAGRACIA Y EL DISTRITO NACIONAL, A PARTIR DEL LUN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398466&managementType=1) | pendiente_verificacion_pdf |
-| 478-21 | 06/08/2021 | 11031 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398467&managementType=1) | pendiente_verificacion_pdf |
-| 479-21 | 06/08/2021 | 11031 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398468&managementType=1) | pendiente_verificacion_pdf |
-| 480-21 | 06/08/2021 | 11031 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398469&managementType=1) | pendiente_verificacion_pdf |
-| 481-21 | 06/08/2021 | 11032 | QUE AUTORIZA AL MAYOR GENERAL PILOTO LEONEL AMÍLCAR MUÑOZ NOBOA Y AL CORONEL PILOTO MARIO ALBERTO RI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398499&managementType=1) | pendiente_verificacion_pdf |
-| 482-21 | 06/08/2021 | 11032 | QUE INTEGRA EL CONSEJO DE DIRECCIÓN DE LA CIUDAD SANITARIA DR. LUIS E. AYBAR. MODIFICA EL ARTÍCULO 8... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398500&managementType=1) | pendiente_verificacion_pdf |
-| 483-21 | 06/08/2021 | 11032 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ERQUI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398478&managementType=1) | pendiente_verificacion_pdf |
-| 484-21 | 06/08/2021 | 11032 | QUE NOMBRA CUATRO (4) MIEMBROS INDEPENDIENTES DEL CONSEJO DE ADMINISTRACIÓN DEL BANCO DE DESARROLLO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398501&managementType=1) | pendiente_verificacion_pdf |
-| 485-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A JOSÉ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398502&managementType=1) | pendiente_verificacion_pdf |
-| 486-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ANDR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398503&managementType=1) | pendiente_verificacion_pdf |
-| 487-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ALIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398479&managementType=1) | pendiente_verificacion_pdf |
-| 488-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LUIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398504&managementType=1) | pendiente_verificacion_pdf |
-| 489-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A EDUA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398505&managementType=1) | pendiente_verificacion_pdf |
-| 490-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS Y ELEVA EL MONTO DE PENSIONES OTORGADAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398506&managementType=1) | pendiente_verificacion_pdf |
-| 491-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIOS PERSONAS Y ELEVA EL MONTO DE PENSIONES OTORGADAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398507&managementType=1) | pendiente_verificacion_pdf |
-| 492-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A PEDR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398508&managementType=1) | pendiente_verificacion_pdf |
-| 493-21 | 09/08/2021 | 11032 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A FRANCISCO ANTONIO RODRÍGUEZ QU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398509&managementType=1) | pendiente_verificacion_pdf |
-| 494-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A NATA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398510&managementType=1) | pendiente_verificacion_pdf |
-| 495-21 | 09/08/2021 | 11032 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398511&managementType=1) | pendiente_verificacion_pdf |
-| 496-21 | 09/08/2021 | 11032 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398512&managementType=1) | pendiente_verificacion_pdf |
-| 497-21 | 11/08/2021 | 11032 | QUE DESIGNA A CARLOS ALBERTO BONILLA SÁNCHEZ, MINISTRO DE LA VIVIENDA, HÁBITAT Y EDIFICACIONES. NOMB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398513&managementType=1) | pendiente_verificacion_pdf |
-| 498-21 | 11/08/2021 | 11032 | QUE NOMBRA A CARLOS ALBERTO BONILLA SÁNCHEZ, DIRECTOR DEL INSTITUTO PARA EL FOMENTO, ACCESO Y GARANT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398514&managementType=1) | pendiente_verificacion_pdf |
-| 499-21 | 11/08/2021 | 11032 | QUE DISPONE LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO, IRREVOCABLE, DE ADMINISTRACIÓN, INVERSIÓN, OP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398480&managementType=1) | pendiente_verificacion_pdf |
-| 500-21 | 11/08/2021 | 11032 | QUE CREA EL PARQUE DE ZONA FRANCA INDUSTRIAL SAN JUAN, UBICADO EN UNA PORCIÓN DE TERRENO DE 106,871.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398515&managementType=1) | pendiente_verificacion_pdf |
-| 501-21 | 11/08/2021 | 11033 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398522&managementType=1) | pendiente_verificacion_pdf |
+| 402-21 | 01/07/2021 | 11025 | QUE NOMBRA VARIOS FUNCIONARIOS DIPLOMÁTICOS ADSCRITOS AL MINISTERIO DE RELACIONES EXTERIORES. DESIGN... | [Ver documento](decreto-402-2021.md) | normalizado · pendiente_revision |
+| 403-21 | 02/07/2021 | 11025 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE VARIOS FUNCIONARIOS DIPLOMÁTICOS EN EL EXTERIOR Y EN EL MINISTE... | [Ver documento](decreto-403-2021.md) | normalizado · pendiente_revision |
+| 404-21 | 02/07/2021 | 11025 | QUE DEROGA VARIOS ARTÍCULOS DE LOS DECRETOS NOS. 125-21, 261-21 Y 272-21. | [Ver documento](decreto-404-2021.md) | normalizado · pendiente_revision |
+| 405-21 | 02/07/2021 | 11025 | QUE DESIGNA A ADONAI AIRES DE ARRUDA, CÓNSUL HONORARIO DE LA REPÚBLICA DOMINICANA EN LA CIUDAD DE CU... | [Ver documento](decreto-405-2021.md) | normalizado · pendiente_revision |
+| 406-21 | 02/07/2021 | 11025 | QUE NOMBRA A PEDRO NOLASCO SUÁREZ ESPINO, DIRECTOR GENERAL DEL JARDÍN BOTÁNICO NACIONAL “DR. RAFAEL ... | [Ver documento](decreto-406-2021.md) | normalizado · pendiente_revision |
+| 407-21 | 02/07/2021 | 11025 | ESTABLECE QUE LA ADQUISICIÓN DE BOLETOS PARA VIAJES AL EXTRANJERO Y LA GESTIÓN Y ASIGNACIÓN DE VIÁTI... | [Ver documento](decreto-407-2021.md) | normalizado · pendiente_revision |
+| 408-21 | 02/07/2021 | 11025 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 6-14, EN SU ARTÍCULO 1, NUMERAL, 18, L... | [Ver documento](decreto-408-2021.md) | normalizado · pendiente_revision |
+| 409-21 | 02/07/2021 | 11025 | QUE DEROGA EL DEC. NO. 427-01 Y EL ARTÍCULO 1 DEL DEC. NO. 245-09. | [Ver documento](decreto-409-2021.md) | normalizado · pendiente_revision |
+| 410-21 | 02/07/2021 | 11025 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 426-20, QUE NOMBRÓ A REYNALDO FERREIRAS GENAO, DIRECTOR EJECUT... | [Ver documento](decreto-410-2021.md) | normalizado · pendiente_revision |
+| 411-21 | 02/07/2021 | 11025 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-411-2021.md) | normalizado · pendiente_revision |
+| 412-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-412-2021.md) | normalizado · pendiente_revision |
+| 413-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-413-2021.md) | normalizado · pendiente_revision |
+| 414-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-414-2021.md) | normalizado · pendiente_revision |
+| 415-21 | 02/07/2021 | 11026 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-415-2021.md) | normalizado · pendiente_revision |
+| 416-21 | 02/07/2021 | 11026 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ÁNGEL... | [Ver documento](decreto-416-2021.md) | normalizado · pendiente_revision |
+| 417-21 | 02/07/2021 | 11026 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR CUARENTICINCO (45) DÍAS, A P... | [Ver documento](decreto-417-2021.md) | normalizado · pendiente_revision |
+| 418-21 | 02/07/2021 | 11026 | QUE ESTABLECE UNA VEDA DE DOS (2) AÑOS A PARTIR DEL 1 DE JULIO DE 2021, EN TODO EL TERRITORIO NACION... | [Ver documento](decreto-418-2021.md) | normalizado · pendiente_revision |
+| 419-21 | 03/07/2021 | 11026 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL DE LUNES A VIERNES DESDE LAS 10:00 P.M. HA... | [Ver documento](decreto-419-2021.md) | normalizado · pendiente_revision |
+| 420-21 | 03/07/2021 | 11026 | QUE DECLARA DE DUELO OFICIAL EL DÍA 5 DE JULIO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DE TIR... | [Ver documento](decreto-420-2021.md) | normalizado · pendiente_revision |
+| 421-21 | 05/07/2021 | 11026 | QUE AUTORIZA A LA SOCIEDAD COMERCIAL PLAYA GRANDE HOLDINGS, INC., A HACER USO DE UNA PARTE DE LOS 60... | [Ver documento](decreto-421-2021.md) | normalizado · pendiente_revision |
+| 422-21 | 05/07/2021 | 11026 | QUE INSTITUYE EL TÉRMINO “OBSERVATORIO DE SEGURIDAD CIUDADANA”, POR “CENTRO DE ANÁLISIS DE DATOS DE ... | [Ver documento](decreto-422-2021.md) | normalizado · pendiente_revision |
+| 423-21 | 06/07/2021 | 11026 | QUE DECLARA DUELO OFICIAL EL DÍA 7 DE JULIO DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO DE JOSÉ N... | [Ver documento](decreto-423-2021.md) | normalizado · pendiente_revision |
+| 424-21 | 07/07/2021 | 11026 | QUE DESIGNA A FRANK HANS DANNENBERG CASTELLANOS Y FRANCISCO A. CARABALLO, EMBAJADORES EXTRAORDINARIO... | [Ver documento](decreto-424-2021.md) | normalizado · pendiente_revision |
+| 425-21 | 07/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS. ELEVA EL MONTO DE LA PENSIÓN ASIGNADA P... | [Ver documento](decreto-425-2021.md) | normalizado · pendiente_revision |
+| 426-21 | 07/07/2021 | 11027 | MEDIANTE EL CUAL SE INSTITUYEN LOS COMITÉS DE SEGUIMIENTO DE LAS CONTRATACIONES PÚBLICAS COMO MECANI... | [Ver documento](decreto-426-2021.md) | normalizado · pendiente_revision |
+| 427-21 | 07/07/2021 | 11027 | QUE DESIGNA A ANTONIO JOSÉ GÓMEZ PEÑA, GESTOR COMERCIAL Y CULTURAL DEL CENTRO DE EXPORTACIÓN E INVER... | [Ver documento](decreto-427-2021.md) | normalizado · pendiente_revision |
+| 428-21 | 07/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A RAMÓN DONATO BERNARD CAMACHO. ... | [Ver documento](decreto-428-2021.md) | normalizado · pendiente_revision |
+| 429-21 | 07/07/2021 | 11027 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-429-2021.md) | normalizado · pendiente_revision |
+| 430-21 | 07/07/2021 | 11027 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL LITERAL B) DEL ARTÍCULO 1 DEL DECRETO NO. 1864 ... | [Ver documento](decreto-430-2021.md) | normalizado · pendiente_revision |
+| 431-21 | 07/07/2021 | 11027 | QUE NOMBRA A JOAN MANUEL FERRER RODRÍGUEZ, DIRECTOR DE FERIAS DEL LIBRO, DEL MINISTERIO DE CULTURA. ... | [Ver documento](decreto-431-2021.md) | normalizado · pendiente_revision |
+| 432-21 | 12/07/2021 | 11027 | QUE IMPLEMENTA EL PLAN DE FLEXIBILIZACIÓN DE LAS MEDIDAS RESTRICTIVAS POR LA COVID-19, A PARTIR DEL ... | [Ver documento](decreto-432-2021.md) | normalizado · pendiente_revision |
+| 433-21 | 14/07/2021 | 11027 | QUE CREA E INTEGRA LA COMISIÓN NEGOCIADORA PARA LA ADQUISICIÓN DE UN INMUEBLE EN LA CIUDAD DE NUEVA ... | [Ver documento](decreto-433-2021.md) | normalizado · pendiente_revision |
+| 434-21 | 14/07/2021 | 11027 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1 DEL DEC. NO. 452-18, UNA PORCIÓN DE ... | [Ver documento](decreto-434-2021.md) | normalizado · pendiente_revision |
+| 435-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-435-2021.md) | normalizado · pendiente_revision |
+| 436-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-436-2021.md) | normalizado · pendiente_revision |
+| 437-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-437-2021.md) | normalizado · pendiente_revision |
+| 438-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-438-2021.md) | normalizado · pendiente_revision |
+| 439-21 | 14/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-439-2021.md) | normalizado · pendiente_revision |
+| 440-21 | 14/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO A CARMEN VICTORIA MIOLÁN PALACIOS... | [Ver documento](decreto-440-2021.md) | normalizado · pendiente_revision |
+| 441-21 | 14/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN ASIGNADA POR EL ESTADO DOMINICANO A RAÚL HIGINIO CALVO VELOZ. | [Ver documento](decreto-441-2021.md) | normalizado · pendiente_revision |
+| 442-21 | 16/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS P... | [Ver documento](decreto-442-2021.md) | normalizado · pendiente_revision |
+| 443-21 | 16/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS. ELEVA EL MONTO DE PENSIONES OTORGADAS P... | [Ver documento](decreto-443-2021.md) | normalizado · pendiente_revision |
+| 444-21 | 19/07/2021 | 11027 | QUE ASCIENDE AL RANGO DE MAYOR GENERAL, P.N. Y LOS COLOCA EN LA HONROSA SITUACIÓN DE RETIRO, CON DIS... | [Ver documento](decreto-444-2021.md) | normalizado · pendiente_revision |
+| 445-21 | 19/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN OTORGADA POR EL ESTADO DOMINICANO A JULIANA CASTILLO VÁSQUEZ DE JIM... | [Ver documento](decreto-445-2021.md) | normalizado · pendiente_revision |
+| 446-21 | 19/07/2021 | 11027 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A GLORIA DANITZA PEÑA FÉLIZ | [Ver documento](decreto-446-2021.md) | normalizado · pendiente_revision |
+| 447-21 | 19/07/2021 | 11027 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 449-19. DISPONE QUE LA ZONA FRANCA CUCAMA DE CAUCEDO, FUNCIO... | [Ver documento](decreto-447-2021.md) | normalizado · pendiente_revision |
+| 448-21 | 19/07/2021 | 11027 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 417-19, QUE DESIGNÓ A JOSÉ BENCOSME BARCÁCEL, SUBADMINISTRADOR... | [Ver documento](decreto-448-2021.md) | normalizado · pendiente_revision |
+| 449-21 | 19/07/2021 | 11027 | QUE COLOCA EN SITUACIÓN DE RETIRO A VARIOS OFICIALES GENERALES SUPERIORES Y SUBALTERNOS DE LA POLICÍ... | [Ver documento](decreto-449-2021.md) | normalizado · pendiente_revision |
+| 450-21 | 19/07/2021 | 11027 | QUE MODIFICA EL ARTÍCULO 6 DEL DEC. NO. 725-20, PARA QUE LA AUTORIZACIÓN DADA EN DICHO DECRETO SE EX... | [Ver documento](decreto-450-2021.md) | normalizado · pendiente_revision |
+| 451-21 | 19/07/2021 | 11027 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-451-2021.md) | normalizado · pendiente_revision |
+| 452-21 | 19/07/2021 | 11027 | QUE DESIGNA A RAMÓN MEDINA, ASESOR DEL PODER EJECUTIVO. | [Ver documento](decreto-452-2021.md) | normalizado · pendiente_revision |
+| 453-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-453-2021.md) | normalizado · pendiente_revision |
+| 454-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-454-2021.md) | normalizado · pendiente_revision |
+| 455-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-455-2021.md) | normalizado · pendiente_revision |
+| 456-21 | 19/07/2021 | 11027 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-456-2021.md) | normalizado · pendiente_revision |
+| 457-21 | 26/07/2021 | 11027 | QUE DEROGA EL DEC. NO. 24-06, QUE AUTORIZÓ LA EXTENSIÓN DE LA ZONA FRANCA INDUSTRIAL DE SAN CRISTÓBA... | [Ver documento](decreto-457-2021.md) | normalizado · pendiente_revision |
+| 458-21 | 26/07/2021 | 11027 | QUE NOMBRA A LAURA VIRGINIA RAMONA FAXAS VARGAS DE JORGENSEN, EMBAJADORA EXTRAORDINARIA Y PLENIPOTEN... | [Ver documento](decreto-458-2021.md) | normalizado · pendiente_revision |
+| 459-21 | 26/07/2021 | 11027 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DE LA CIUDADANA DOMINICANA ROS... | [Ver documento](decreto-459-2021.md) | normalizado · pendiente_revision |
+| 460-21 | 26/07/2021 | 11027 | QUE AUTORIZA AL GENERAL DE BRIGADA PILOTO MANUEL ABAD GARCIA LITHGOW, FARD, EXAGREGADO DE DEFENSA DE... | [Ver documento](decreto-460-2021.md) | normalizado · pendiente_revision |
+| 461-21 | 26/07/2021 | 11027 | QUE NOMBRA A ELSA SABRINA DE LOURDES DE LA CRUZ VARGAS, VICEMINISTRA DE RELACIONES SINDICALES Y EMPR... | [Ver documento](decreto-461-2021.md) | normalizado · pendiente_revision |
+| 462-21 | 26/07/2021 | 11027 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-462-2021.md) | normalizado · pendiente_revision |
+| 463-21 | 26/07/2021 | 11027 | QUE DESIGNA A ALEJANDRO ARIAS ZARZUELA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA ... | [Ver documento](decreto-463-2021.md) | normalizado · pendiente_revision |
+| 464-21 | 27/07/2021 | 11027 | QUE CREA E INTEGRA EL GABINETE DE INNOVACIÓN, CON EL OBJETO DE FORMULAR LA POLÍTICA NACIONAL DE INNO... | [Ver documento](decreto-464-2021.md) | normalizado · pendiente_revision |
+| 465-21 | 27/07/2021 | 11027 | QUE NOMBRA A BARTOLOMÉ YAQUE PUJALS SUÁREZ, DIRECTOR EJECUTIVO DEL GABINETE DE INNOVACIÓN. | [Ver documento](decreto-465-2021.md) | normalizado · pendiente_revision |
+| 466-21 | 28/07/2021 | 11027 | QUE DECLARA DE DUELO OFICIAL LOS DÍAS 29, 30 Y 31 DE JULIO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIM... | [Ver documento](decreto-466-2021.md) | normalizado · pendiente_revision |
+| 467-21 | 02/08/2021 | 11031 | QUE ASCIENDE AL CORONEL ÁNGEL DARÍO RAMÍREZ PÉREZ, C.B., AL RANGO DE GENERAL DEL CUERPO DE BOMBEROS.... | [Ver documento](decreto-467-2021.md) | normalizado · pendiente_revision |
+| 468-21 | 02/08/2021 | 11031 | QUE DEROGA VARIOS DECRETOS QUE DESIGNARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTE... | [Ver documento](decreto-468-2021.md) | normalizado · pendiente_revision |
+| 469-21 | 02/08/2021 | 11031 | QUE DEROGA VARIOS DECRETOS QUE DESIGNARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN DISTINTOS PAÍSES... | [Ver documento](decreto-469-2021.md) | normalizado · pendiente_revision |
+| 470-21 | 02/08/2021 | 11031 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JOAN ... | [Ver documento](decreto-470-2021.md) | normalizado · pendiente_revision |
+| 471-21 | 02/08/2021 | 11031 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICO-HAITIAN... | [Ver documento](decreto-471-2021.md) | normalizado · pendiente_revision |
+| 472-21 | 02/08/2021 | 11031 | QUE DESIGNA A VÍCTOR MANUEL HIDALGO ZAPATA, DIRECTOR EJECUTIVO DE LA COMISIÓN NACIONAL DEL CACAO. | [Ver documento](decreto-472-2021.md) | normalizado · pendiente_revision |
+| 473-21 | 02/08/2021 | 11031 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-473-2021.md) | normalizado · pendiente_revision |
+| 474-21 | 02/08/2021 | 11031 | QUE NOMBRA A DANIEL JÁQUEZ DELFÍN, GESTOR COMERCIAL Y CULTURAL DEL CENTRO DE EXPORTACIÓN E INVERSIÓN... | [Ver documento](decreto-474-2021.md) | normalizado · pendiente_revision |
+| 475-21 | 02/08/2021 | 11031 | QUE AUTORIZA A LA SOCIEDAD COMERCIAL NC12, S.R.L., A HACER USO DE UNA PARTE DE LOS 60 METROS DE LA F... | [Ver documento](decreto-475-2021.md) | normalizado · pendiente_revision |
+| 476-21 | 02/08/2021 | 11031 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Ver documento](decreto-476-2021.md) | normalizado · pendiente_revision |
+| 477-21 | 03/08/2021 | 11031 | QUE LEVANTA EL TOQUE DE QUEDA EN LA PROVINCIA LA ALTAGRACIA Y EL DISTRITO NACIONAL, A PARTIR DEL LUN... | [Ver documento](decreto-477-2021.md) | normalizado · pendiente_revision |
+| 478-21 | 06/08/2021 | 11031 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS... | [Ver documento](decreto-478-2021.md) | normalizado · pendiente_revision |
+| 479-21 | 06/08/2021 | 11031 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-479-2021.md) | normalizado · pendiente_revision |
+| 480-21 | 06/08/2021 | 11031 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-480-2021.md) | normalizado · pendiente_revision |
+| 481-21 | 06/08/2021 | 11032 | QUE AUTORIZA AL MAYOR GENERAL PILOTO LEONEL AMÍLCAR MUÑOZ NOBOA Y AL CORONEL PILOTO MARIO ALBERTO RI... | [Ver documento](decreto-481-2021.md) | normalizado · pendiente_revision |
+| 482-21 | 06/08/2021 | 11032 | QUE INTEGRA EL CONSEJO DE DIRECCIÓN DE LA CIUDAD SANITARIA DR. LUIS E. AYBAR. MODIFICA EL ARTÍCULO 8... | [Ver documento](decreto-482-2021.md) | normalizado · pendiente_revision |
+| 483-21 | 06/08/2021 | 11032 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ERQUI... | [Ver documento](decreto-483-2021.md) | normalizado · pendiente_revision |
+| 484-21 | 06/08/2021 | 11032 | QUE NOMBRA CUATRO (4) MIEMBROS INDEPENDIENTES DEL CONSEJO DE ADMINISTRACIÓN DEL BANCO DE DESARROLLO ... | [Ver documento](decreto-484-2021.md) | normalizado · pendiente_revision |
+| 485-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A JOSÉ... | [Ver documento](decreto-485-2021.md) | normalizado · pendiente_revision |
+| 486-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ANDR... | [Ver documento](decreto-486-2021.md) | normalizado · pendiente_revision |
+| 487-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ALIC... | [Ver documento](decreto-487-2021.md) | normalizado · pendiente_revision |
+| 488-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LUIS... | [Ver documento](decreto-488-2021.md) | normalizado · pendiente_revision |
+| 489-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A EDUA... | [Ver documento](decreto-489-2021.md) | normalizado · pendiente_revision |
+| 490-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS Y ELEVA EL MONTO DE PENSIONES OTORGADAS ... | [Ver documento](decreto-490-2021.md) | normalizado · pendiente_revision |
+| 491-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIOS PERSONAS Y ELEVA EL MONTO DE PENSIONES OTORGADAS ... | [Ver documento](decreto-491-2021.md) | normalizado · pendiente_revision |
+| 492-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A PEDR... | [Ver documento](decreto-492-2021.md) | normalizado · pendiente_revision |
+| 493-21 | 09/08/2021 | 11032 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO A FRANCISCO ANTONIO RODRÍGUEZ QU... | [Ver documento](decreto-493-2021.md) | normalizado · pendiente_revision |
+| 494-21 | 09/08/2021 | 11032 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A NATA... | [Ver documento](decreto-494-2021.md) | normalizado · pendiente_revision |
+| 495-21 | 09/08/2021 | 11032 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-495-2021.md) | normalizado · pendiente_revision |
+| 496-21 | 09/08/2021 | 11032 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-496-2021.md) | normalizado · pendiente_revision |
+| 497-21 | 11/08/2021 | 11032 | QUE DESIGNA A CARLOS ALBERTO BONILLA SÁNCHEZ, MINISTRO DE LA VIVIENDA, HÁBITAT Y EDIFICACIONES. NOMB... | [Ver documento](decreto-497-2021.md) | normalizado · pendiente_revision |
+| 498-21 | 11/08/2021 | 11032 | QUE NOMBRA A CARLOS ALBERTO BONILLA SÁNCHEZ, DIRECTOR DEL INSTITUTO PARA EL FOMENTO, ACCESO Y GARANT... | [Ver documento](decreto-498-2021.md) | normalizado · pendiente_revision |
+| 499-21 | 11/08/2021 | 11032 | QUE DISPONE LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO, IRREVOCABLE, DE ADMINISTRACIÓN, INVERSIÓN, OP... | [Ver documento](decreto-499-2021.md) | normalizado · pendiente_revision |
+| 500-21 | 11/08/2021 | 11032 | QUE CREA EL PARQUE DE ZONA FRANCA INDUSTRIAL SAN JUAN, UBICADO EN UNA PORCIÓN DE TERRENO DE 106,871.... | [Ver documento](decreto-500-2021.md) | normalizado · pendiente_revision |
+| 501-21 | 11/08/2021 | 11033 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-501-2021.md) | normalizado · pendiente_revision |
 | 502-21 | 11/08/2021 | 11033 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398535&managementType=1) | pendiente_verificacion_pdf |
 | 503-21 | 12/08/2021 | 11033 | QUE DESIGNA A HENRY ROSARIO POLANCO, DIRECTOR NACIONAL DEL CENTRO DE ATENCIÓN INTEGRAL PARA LA DISCA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398536&managementType=1) | pendiente_verificacion_pdf |
 | 504-21 | 13/08/2021 | 11033 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO GINEID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398537&managementType=1) | pendiente_verificacion_pdf |
