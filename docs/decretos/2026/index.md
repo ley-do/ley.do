@@ -269,7 +269,32 @@ Documentos detectados: **406**.
 - [Decreto núm. 258-2026](decreto-258-2026.md)
 - [Decreto núm. 259-2026](decreto-259-2026.md)
 - [Decreto núm. 260-2026](decreto-260-2026.md)
+- [Decreto núm. 261-2026](decreto-261-2026.md)
+- [Decreto núm. 262-2026](decreto-262-2026.md)
+- [Decreto núm. 263-2026](decreto-263-2026.md)
+- [Decreto núm. 264-2026](decreto-264-2026.md)
+- [Decreto núm. 265-2026](decreto-265-2026.md)
+- [Decreto núm. 266-2026](decreto-266-2026.md)
+- [Decreto núm. 267-2026](decreto-267-2026.md)
+- [Decreto núm. 268-2026](decreto-268-2026.md)
+- [Decreto núm. 269-2026](decreto-269-2026.md)
+- [Decreto núm. 270-2026](decreto-270-2026.md)
+- [Decreto núm. 271-2026](decreto-271-2026.md)
+- [Decreto núm. 272-2026](decreto-272-2026.md)
+- [Decreto núm. 273-2026](decreto-273-2026.md)
+- [Decreto núm. 274-2026](decreto-274-2026.md)
+- [Decreto núm. 275-2026](decreto-275-2026.md)
+- [Decreto núm. 276-2026](decreto-276-2026.md)
+- [Decreto núm. 277-2026](decreto-277-2026.md)
+- [Decreto núm. 278-2026](decreto-278-2026.md)
+- [Decreto núm. 279-2026](decreto-279-2026.md)
+- [Decreto núm. 280-2026](decreto-280-2026.md)
+- [Decreto núm. 281-2026](decreto-281-2026.md)
+- [Decreto núm. 282-2026](decreto-282-2026.md)
+- [Decreto núm. 283-2026](decreto-283-2026.md)
+- [Decreto núm. 284-2026](decreto-284-2026.md)
 - [Decreto núm. 285-2026](decreto-285-2026.md)
+- [Decreto núm. 286-2026](decreto-286-2026.md)
 - [Decreto núm. 298-2026](decreto-298-2026.md)
 - [Decreto núm. 309-2026](decreto-309-2026.md)
 - [Decreto núm. 311-2026](decreto-311-2026.md)
@@ -544,32 +569,32 @@ Documentos detectados: **406**.
 | 258-26 | 17/04/2026 | 11238 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-258-2026.md) | normalizado · pendiente_revision |
 | 259-26 | 17/04/2026 | 11238 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 6,366.51 MT2, PARA SER DE... | [Ver documento](decreto-259-2026.md) | normalizado · pendiente_revision |
 | 260-26 | 17/04/2026 | 11238 | QUE INSTRUYE A LA INDUSTRIA MILITAR DOMINICANA, S.A., A TRAVÉS DE SU CONSEJO DE ADMINISTRACIÓN, A EL... | [Ver documento](decreto-260-2026.md) | normalizado · pendiente_revision |
-| 261-26 | 17/04/2026 | 11238 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 40 SERVIDORES PÚBLICOS DEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404694&managementType=1) | pendiente_verificacion_pdf |
-| 262-26 | 17/04/2026 | 11238 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD, A LOS SEÑORE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404695&managementType=1) | pendiente_verificacion_pdf |
-| 263-26 | 20/04/2026 | 11239 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 153-22, QUE DESIGNÓ AL SEÑOR LUIS ERNESTO CORNIELLE SEGURA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404751&managementType=1) | pendiente_verificacion_pdf |
-| 264-26 | 20/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 661-24. DISPONE QUE EL PARQUE DE ZONA FRANCA DENOMINADO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404752&managementType=1) | pendiente_verificacion_pdf |
-| 265-26 | 20/04/2026 | 11239 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404753&managementType=1) | pendiente_verificacion_pdf |
-| 266-26 | 20/04/2026 | 11239 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 49 SERVIDORES DEL INSTITUTO AGRARIO DOMINICANO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404763&managementType=1) | pendiente_verificacion_pdf |
-| 267-26 | 20/04/2026 | 11239 | QUE OTORGA EXEQUÁTUR A 176 PROFESIONALES, PARA QUE PUEDAN EJERCER LA PROFESIÓN DE LICENCIADOS EN DER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404754&managementType=1) | pendiente_verificacion_pdf |
-| 268-26 | 20/04/2026 | 11239 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404764&managementType=1) | pendiente_verificacion_pdf |
-| 269-26 | 22/04/2026 | 11239 | QUE ASCIENDE AL CORONEL EDGAR MANUEL TIBURCIO PERALTA, FARD, AL RANGO DE GENERAL DE BRIGADA DE LA FU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404765&managementType=1) | pendiente_verificacion_pdf |
-| 270-26 | 22/04/2026 | 11239 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE VARIAS P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404755&managementType=1) | pendiente_verificacion_pdf |
-| 271-26 | 22/04/2026 | 11239 | QUE AUTORIZA AL MAYOR PILOTO LUDWING BENOIT LIZARDO, FARD, PARA QUE PUEDA ACEPTAR Y USAR LA CONDECOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404766&managementType=1) | pendiente_verificacion_pdf |
-| 272-26 | 22/04/2026 | 11239 | QUE AUTORIZA AL CAPITÁN DE NAVÍO FÉLIX MORENO MORENO, ARD, PARA QUE PUEDA ACEPTAR Y USAR LA CONDECOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404756&managementType=1) | pendiente_verificacion_pdf |
-| 273-26 | 22/04/2026 | 11239 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD, A CUATRO (4)... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404767&managementType=1) | pendiente_verificacion_pdf |
-| 274-26 | 22/04/2026 | 11239 | QUE CONCEDE PENSIONES DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (RD$10,000.00... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404757&managementType=1) | pendiente_verificacion_pdf |
-| 275-26 | 22/04/2026 | 11239 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD, A 175 SERVID... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404758&managementType=1) | pendiente_verificacion_pdf |
-| 276-26 | 22/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 718-25, QUE A SU VEZ MODIFICÓ EL ARTÍCULO 2 DEL DECRETO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404768&managementType=1) | pendiente_verificacion_pdf |
-| 277-26 | 22/04/2026 | 11239 | QUE MODIFICA EL NUMERAL 4 DEL ARTÍCULO 1 DEL DECRETO NÚM. 209-18. DISPONE QUE EL INMUEBLE IDENTIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404769&managementType=1) | pendiente_verificacion_pdf |
-| 278-26 | 22/04/2026 | 11239 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE CHILE, DEL NACIONAL DOMINICANO JUAN CARLOS R... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404770&managementType=1) | pendiente_verificacion_pdf |
-| 279-26 | 27/04/2026 | 11239 | QUE CONCEDE LA CONDECORACIÓN PÓSTUMA DE LA ORDEN DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN CRUZ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404771&managementType=1) | pendiente_verificacion_pdf |
-| 280-26 | 27/04/2026 | 11239 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 681-20, QUE DESIGNÓ AL SEÑOR RAFAEL AUGUSTO CABRAL GARCÍA,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404759&managementType=1) | pendiente_verificacion_pdf |
-| 281-26 | 27/04/2026 | 11239 | QUE MODIFICA EL NUMERAL 4 DEL ARTÍCULO 1 DEL DECRETO NÚM. 319-13. DISPONE QUE EL INMUEBLE IDENTIFICA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404760&managementType=1) | pendiente_verificacion_pdf |
-| 282-26 | 27/04/2026 | 11239 | QUE DESIGNA AL SEÑOR CAMEL CURY LORA, DIRECTOR EJECUTIVO DE LA UNIDAD EJECUTORA DEL PROYECTO “RUTA D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404761&managementType=1) | pendiente_verificacion_pdf |
-| 283-26 | 27/04/2026 | 11239 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A VENDER A DIFERENTES PERSONAS 12 PORCION... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404762&managementType=1) | pendiente_verificacion_pdf |
-| 284-26 | 27/04/2026 | 11239 | QUE DESIGNA AL SEÑOR TONY RAFUL TEJADA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404772&managementType=1) | pendiente_verificacion_pdf |
+| 261-26 | 17/04/2026 | 11238 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A 40 SERVIDORES PÚBLICOS DEL... | [Ver documento](decreto-261-2026.md) | normalizado · pendiente_revision |
+| 262-26 | 17/04/2026 | 11238 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD, A LOS SEÑORE... | [Ver documento](decreto-262-2026.md) | normalizado · pendiente_revision |
+| 263-26 | 20/04/2026 | 11239 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 153-22, QUE DESIGNÓ AL SEÑOR LUIS ERNESTO CORNIELLE SEGURA... | [Ver documento](decreto-263-2026.md) | normalizado · pendiente_revision |
+| 264-26 | 20/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 2 DEL DECRETO NÚM. 661-24. DISPONE QUE EL PARQUE DE ZONA FRANCA DENOMINADO ... | [Ver documento](decreto-264-2026.md) | normalizado · pendiente_revision |
+| 265-26 | 20/04/2026 | 11239 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (R... | [Ver documento](decreto-265-2026.md) | normalizado · pendiente_revision |
+| 266-26 | 20/04/2026 | 11239 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 49 SERVIDORES DEL INSTITUTO AGRARIO DOMINICANO. | [Ver documento](decreto-266-2026.md) | normalizado · pendiente_revision |
+| 267-26 | 20/04/2026 | 11239 | QUE OTORGA EXEQUÁTUR A 176 PROFESIONALES, PARA QUE PUEDAN EJERCER LA PROFESIÓN DE LICENCIADOS EN DER... | [Ver documento](decreto-267-2026.md) | normalizado · pendiente_revision |
+| 268-26 | 20/04/2026 | 11239 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Ver documento](decreto-268-2026.md) | normalizado · pendiente_revision |
+| 269-26 | 22/04/2026 | 11239 | QUE ASCIENDE AL CORONEL EDGAR MANUEL TIBURCIO PERALTA, FARD, AL RANGO DE GENERAL DE BRIGADA DE LA FU... | [Ver documento](decreto-269-2026.md) | normalizado · pendiente_revision |
+| 270-26 | 22/04/2026 | 11239 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DE VARIAS P... | [Ver documento](decreto-270-2026.md) | normalizado · pendiente_revision |
+| 271-26 | 22/04/2026 | 11239 | QUE AUTORIZA AL MAYOR PILOTO LUDWING BENOIT LIZARDO, FARD, PARA QUE PUEDA ACEPTAR Y USAR LA CONDECOR... | [Ver documento](decreto-271-2026.md) | normalizado · pendiente_revision |
+| 272-26 | 22/04/2026 | 11239 | QUE AUTORIZA AL CAPITÁN DE NAVÍO FÉLIX MORENO MORENO, ARD, PARA QUE PUEDA ACEPTAR Y USAR LA CONDECOR... | [Ver documento](decreto-272-2026.md) | normalizado · pendiente_revision |
+| 273-26 | 22/04/2026 | 11239 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD, A CUATRO (4)... | [Ver documento](decreto-273-2026.md) | normalizado · pendiente_revision |
+| 274-26 | 22/04/2026 | 11239 | QUE CONCEDE PENSIONES DEL ESTADO POR EL MONTO DE DIEZ MIL PESOS DOMINICANOS CON 00/100 (RD$10,000.00... | [Ver documento](decreto-274-2026.md) | normalizado · pendiente_revision |
+| 275-26 | 22/04/2026 | 11239 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO POR ANTIGÜEDAD, A 175 SERVID... | [Ver documento](decreto-275-2026.md) | normalizado · pendiente_revision |
+| 276-26 | 22/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 718-25, QUE A SU VEZ MODIFICÓ EL ARTÍCULO 2 DEL DECRETO ... | [Ver documento](decreto-276-2026.md) | normalizado · pendiente_revision |
+| 277-26 | 22/04/2026 | 11239 | QUE MODIFICA EL NUMERAL 4 DEL ARTÍCULO 1 DEL DECRETO NÚM. 209-18. DISPONE QUE EL INMUEBLE IDENTIFICA... | [Ver documento](decreto-277-2026.md) | normalizado · pendiente_revision |
+| 278-26 | 22/04/2026 | 11239 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE CHILE, DEL NACIONAL DOMINICANO JUAN CARLOS R... | [Ver documento](decreto-278-2026.md) | normalizado · pendiente_revision |
+| 279-26 | 27/04/2026 | 11239 | QUE CONCEDE LA CONDECORACIÓN PÓSTUMA DE LA ORDEN DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN CRUZ... | [Ver documento](decreto-279-2026.md) | normalizado · pendiente_revision |
+| 280-26 | 27/04/2026 | 11239 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 681-20, QUE DESIGNÓ AL SEÑOR RAFAEL AUGUSTO CABRAL GARCÍA,... | [Ver documento](decreto-280-2026.md) | normalizado · pendiente_revision |
+| 281-26 | 27/04/2026 | 11239 | QUE MODIFICA EL NUMERAL 4 DEL ARTÍCULO 1 DEL DECRETO NÚM. 319-13. DISPONE QUE EL INMUEBLE IDENTIFICA... | [Ver documento](decreto-281-2026.md) | normalizado · pendiente_revision |
+| 282-26 | 27/04/2026 | 11239 | QUE DESIGNA AL SEÑOR CAMEL CURY LORA, DIRECTOR EJECUTIVO DE LA UNIDAD EJECUTORA DEL PROYECTO “RUTA D... | [Ver documento](decreto-282-2026.md) | normalizado · pendiente_revision |
+| 283-26 | 27/04/2026 | 11239 | QUE AUTORIZA AL AYUNTAMIENTO DE SANTIAGO DE LOS CABALLEROS A VENDER A DIFERENTES PERSONAS 12 PORCION... | [Ver documento](decreto-283-2026.md) | normalizado · pendiente_revision |
+| 284-26 | 27/04/2026 | 11239 | QUE DESIGNA AL SEÑOR TONY RAFUL TEJADA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, DE... | [Ver documento](decreto-284-2026.md) | normalizado · pendiente_revision |
 | 285-26 | 27/04/2026 | 11239 | QUE DESIGNA AL SEÑOR CARLOS ALESSANDRY ROA HOWLEY, DIRECTOR EJECUTIVO DEL PLAN PARA EL DESARROLLO DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404773&managementType=1) | pendiente_verificacion_pdf |
-| 286-26 | 27/04/2026 | 11239 | QUE MODIFICA EL NUMERAL 16, DEL ARTÍCULO 3 DEL DECRETO NÚM.665-12, DEL REGLAMENTO PARA LA PRESCRIPCI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404774&managementType=1) | pendiente_verificacion_pdf |
+| 286-26 | 27/04/2026 | 11239 | QUE MODIFICA EL NUMERAL 16, DEL ARTÍCULO 3 DEL DECRETO NÚM.665-12, DEL REGLAMENTO PARA LA PRESCRIPCI... | [Ver documento](decreto-286-2026.md) | normalizado · pendiente_revision |
 | 287-26 | 27/04/2026 | 11239 | QUE APRUEBA EL REGLAMENTO SOBRE EL SEGURO DE RIESGOS LABORALES. DEROGA EL DECRETO NÚM. 548-03. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404775&managementType=1) | pendiente_verificacion_pdf |
 | 288-26 | 28/04/2026 | 11239 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR EL ESTADO DOMINICANO DEL INMUEBL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404776&managementType=1) | pendiente_verificacion_pdf |
 | 289-26 | 28/04/2026 | 11239 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 149-18. DISPONE QUE EL INMUEBLE IDENTIFICADO COMO DESIGN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404777&managementType=1) | pendiente_verificacion_pdf |
