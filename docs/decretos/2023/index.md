@@ -9,6 +9,7 @@ Documentos detectados: **688**.
 
 ## Registros con numeración atípica
 
+- El registro `413-23` tiene sus endpoints oficiales de apertura y descarga temporalmente rotos (HTTP 500); su página conserva metadata y evidencia de recortes vecinos, pero queda `pendiente_encontrar_pdf`.
 - El registro `755-22` corresponde documentalmente a 2022 aunque aparece en la consulta agrupada bajo 2023; no se generará un falso paquete 755-2023.
 - El segundo registro identificado en metadata como `544-23` (ID `3401558`) contiene en el PDF el encabezado `Dec. núm. 554-23`; se normalizará como Decreto núm. 554-2023 conservando la discrepancia para revisión humana.
 
@@ -414,6 +415,7 @@ Documentos detectados: **688**.
 - [Decreto núm. 402-2023](decreto-402-2023.md)
 - [Decreto núm. 403-2023](decreto-403-2023.md)
 - [Decreto núm. 404-2023](decreto-404-2023.md)
+- [Decreto núm. 413-2023](decreto-413-2023.md)
 
 ## Documentos detectados
 
@@ -828,7 +830,7 @@ Documentos detectados: **688**.
 | 410-23 | 06/09/2023 | 11120 | QUE MODIFICA LOS DECRETOS NÚM. 135-22, 136-22, 166-22, 711-22, 749-22, 103-23, 105-23 Y 191-23, QUE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401208&managementType=1) | pendiente_verificacion_pdf |
 | 411-23 | 07/09/2023 | 11120 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA FRANCESA, DE LA NACIONAL DOMINICANA YERQUICIA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401223&managementType=1) | pendiente_verificacion_pdf |
 | 412-23 | 08/09/2023 | 11120 | QUE NOMBRA A MANUEL ERNESTO POLANCO SALVADOR, EMBAJADOR EN EL SERVICIO INTERNO DEL MINISTERIO DE REL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401209&managementType=1) | pendiente_verificacion_pdf |
-| 413-23 | 08/09/2023 | 11120 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.340-23. DESIGNA A RENÉ ALEJANDRO AYUSO MARTÍNEZ, AUXILIAR CO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401224&managementType=1) | pendiente_verificacion_pdf |
+| 413-23 | 08/09/2023 | 11120 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NÚM.340-23. DESIGNA A RENÉ ALEJANDRO AYUSO MARTÍNEZ, AUXILIAR CO... | [Ver documento](decreto-413-2023.md) | pendiente_encontrar_pdf · pendiente_revision |
 | 414-23 | 12/09/2023 | 11120 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401225&managementType=1) | pendiente_verificacion_pdf |
 | 415-23 | 14/09/2023 | 11120 | QUE NOMBRA A DUARTE MÉNDEZ PEÑA, DIRECTOR EJECUTIVO DE LA UNIDAD TÉCNICA EJECUTORA DE TITULACIÓN DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401210&managementType=1) | pendiente_verificacion_pdf |
 | 417-23 | 18/09/2023 | 11121 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ARGENTINA, DEL NACIONAL DOMINICANO JUAN CLEMENT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401399&managementType=1) | pendiente_verificacion_pdf |
