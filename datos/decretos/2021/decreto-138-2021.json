@@ -1,0 +1,49 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "138",
+  "anio": "2021",
+  "titulo": "que deroga el artículo 4 del Dec. No. 762-11 y el artículo 2 del Dec. No. 577-08, que nombraron dos (2) secretarias adscritas al ministerio de Relaciones Exteriores. Deroga además el artículo 3 del Dec. No. 258-11 que nombró un consejero de la División de Relaciones Exteriores con Haití. G. O. No. 11012 del 15 de marzo de 2021",
+  "fecha": "03/03/2021",
+  "gaceta_oficial": "11012",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397938&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397938&managementType=1",
+  "document_id_consultoria": "3397938",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "archivos/decretos/2021/decreto-138-2021.pdf",
+  "ruta_markdown": "docs/decretos/2021/decreto-138-2021.md",
+  "ruta_json": "datos/decretos/2021/decreto-138-2021.json",
+  "sha256_pdf_original": "65c57660909e26d9ad1373ff26297620e2f7f9d5e042f60027bd215232369fae",
+  "sha256_markdown": "f9547a5dbbd1767dc84f3fdcdab112ac10f9e7cf6a69e9a2ceacf9369fbccaf1",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": true,
+  "commit_publicacion": "",
+  "notas": "La consulta oficial contiene dos fuentes para `138-21`: el ID `3397938` corresponde a la versión de Gaceta usada para la extracción y el ID `3397888` a una copia oficial firmada preservada como fuente complementaria con hash propio. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "alertas_revision": [
+    "La consulta oficial contiene dos fuentes para `138-21`: el ID `3397938` corresponde a la versión de Gaceta usada para la extracción y el ID `3397888` a una copia oficial firmada preservada como fuente complementaria con hash propio."
+  ],
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3397938",
+      "rol_archivistico": "pdf_canonico_para_extraccion",
+      "ruta_pdf_local": "archivos/decretos/2021/decreto-138-2021.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397938&managementType=2",
+      "sha256_pdf": "65c57660909e26d9ad1373ff26297620e2f7f9d5e042f60027bd215232369fae",
+      "capa_texto": true
+    },
+    {
+      "document_id_consultoria": "3397888",
+      "rol_archivistico": "copia_firmada_complementaria",
+      "ruta_pdf_local": "archivos/decretos/2021/decreto-138-2021-fuente-3397888.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397888&managementType=2",
+      "sha256_pdf": "d379cacbc1b6a29c1302550f458c1ab3559f92fcc3d315e96b472795cb1d7a37",
+      "capa_texto": false,
+      "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397888&managementType=1"
+    }
+  ]
+}
