@@ -534,6 +534,56 @@ Documentos detectados: **727**.
 - [Decreto núm. 526-2025](decreto-526-2025.md)
 - [Decreto núm. 527-2025](decreto-527-2025.md)
 - [Decreto núm. 528-2025](decreto-528-2025.md)
+- [Decreto núm. 529-2025](decreto-529-2025.md)
+- [Decreto núm. 530-2025](decreto-530-2025.md)
+- [Decreto núm. 531-2025](decreto-531-2025.md)
+- [Decreto núm. 532-2025](decreto-532-2025.md)
+- [Decreto núm. 533-2025](decreto-533-2025.md)
+- [Decreto núm. 534-2025](decreto-534-2025.md)
+- [Decreto núm. 535-2025](decreto-535-2025.md)
+- [Decreto núm. 536-2025](decreto-536-2025.md)
+- [Decreto núm. 537-2025](decreto-537-2025.md)
+- [Decreto núm. 538-2025](decreto-538-2025.md)
+- [Decreto núm. 539-2025](decreto-539-2025.md)
+- [Decreto núm. 540-2025](decreto-540-2025.md)
+- [Decreto núm. 541-2025](decreto-541-2025.md)
+- [Decreto núm. 542-2025](decreto-542-2025.md)
+- [Decreto núm. 543-2025](decreto-543-2025.md)
+- [Decreto núm. 544-2025](decreto-544-2025.md)
+- [Decreto núm. 545-2025](decreto-545-2025.md)
+- [Decreto núm. 546-2025](decreto-546-2025.md)
+- [Decreto núm. 547-2025](decreto-547-2025.md)
+- [Decreto núm. 548-2025](decreto-548-2025.md)
+- [Decreto núm. 549-2025](decreto-549-2025.md)
+- [Decreto núm. 550-2025](decreto-550-2025.md)
+- [Decreto núm. 551-2025](decreto-551-2025.md)
+- [Decreto núm. 552-2025](decreto-552-2025.md)
+- [Decreto núm. 553-2025](decreto-553-2025.md)
+- [Decreto núm. 554-2025](decreto-554-2025.md)
+- [Decreto núm. 555-2025](decreto-555-2025.md)
+- [Decreto núm. 556-2025](decreto-556-2025.md)
+- [Decreto núm. 557-2025](decreto-557-2025.md)
+- [Decreto núm. 558-2025](decreto-558-2025.md)
+- [Decreto núm. 559-2025](decreto-559-2025.md)
+- [Decreto núm. 560-2025](decreto-560-2025.md)
+- [Decreto núm. 561-2025](decreto-561-2025.md)
+- [Decreto núm. 562-2025](decreto-562-2025.md)
+- [Decreto núm. 563-2025](decreto-563-2025.md)
+- [Decreto núm. 564-2025](decreto-564-2025.md)
+- [Decreto núm. 565-2025](decreto-565-2025.md)
+- [Decreto núm. 566-2025](decreto-566-2025.md)
+- [Decreto núm. 567-2025](decreto-567-2025.md)
+- [Decreto núm. 568-2025](decreto-568-2025.md)
+- [Decreto núm. 569-2025](decreto-569-2025.md)
+- [Decreto núm. 570-2025](decreto-570-2025.md)
+- [Decreto núm. 571-2025](decreto-571-2025.md)
+- [Decreto núm. 572-2025](decreto-572-2025.md)
+- [Decreto núm. 573-2025](decreto-573-2025.md)
+- [Decreto núm. 574-2025](decreto-574-2025.md)
+- [Decreto núm. 575-2025](decreto-575-2025.md)
+- [Decreto núm. 576-2025](decreto-576-2025.md)
+- [Decreto núm. 577-2025](decreto-577-2025.md)
+- [Decreto núm. 578-2025](decreto-578-2025.md)
 
 ## Documentos detectados
 
@@ -1068,56 +1118,56 @@ Documentos detectados: **727**.
 | 526-25 | 10/09/2025 | 11214 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO FRANC... | [Ver documento](decreto-526-2025.md) | normalizado · pendiente_revision |
 | 527-25 | 11/09/2025 | 11214 | QUE OTORGA EXEQUATUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. G.O... | [Ver documento](decreto-527-2025.md) | normalizado · pendiente_revision |
 | 528-25 | 11/09/2025 | 11214 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES | [Ver documento](decreto-528-2025.md) | normalizado · pendiente_revision |
-| 529-25 | 11/09/2025 | 11214 | QUE DEROGA LOS DECRETOS QUE NOMBRARON DOS EMBAJADORES Y UN MINISTRO CONSEJERO EN EL SERVICIO INTERNO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403848&managementType=1) | pendiente_verificacion_pdf |
-| 530-25 | 11/09/2025 | 11214 | DISPONE QUE LA COMISIÓN PRESIDENCIAL DE APOYO AL DESARROLLO PROVINCIAL, EN LO ADELANTE SE DENOMINARÁ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403858&managementType=1) | pendiente_verificacion_pdf |
-| 531-25 | 11/09/2025 | 11214 | QUE DECLARA DE ALTA PRIORIDAD PARA EL GOBIERNO LA INTERVENCIÓN Y RECUPERACIÓN DE LOS RÍOS OZAMA E IS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403849&managementType=1) | pendiente_verificacion_pdf |
-| 532-25 | 11/09/2025 | 11214 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403859&managementType=1) | pendiente_verificacion_pdf |
-| 533-25 | 15/09/2025 | 11214 | QUE DESIGNA AL SEÑOR PEDRO JOSÉ ALEGRÍA SOTO, ASESOR HONORÍFICO DEL PODER EJECUTIVO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403860&managementType=1) | pendiente_verificacion_pdf |
-| 534-25 | 15/09/2025 | 11214 | QUE NOMBRA AL SEÑOR JOSÉ ALFONSO FERREIRA AZCONA, SUBDIRECTOR DEL PARQUE ZOOLÓGICO NACIONAL “ARQ. MA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403850&managementType=1) | pendiente_verificacion_pdf |
-| 535-25 | 15/09/2025 | 11214 | QUE MODIFICA LOS ARTÍCULOS 3 Y 5 DEL DECRETO NÚM. 173-16. DISPONE QUE LA COMISIÓN NACIONAL PARA EL M... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403851&managementType=1) | pendiente_verificacion_pdf |
-| 536-25 | 15/09/2025 | 11214 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403852&managementType=1) | pendiente_verificacion_pdf |
-| 537-25 | 17/09/2025 | 11214 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 27 PERSONAS, Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403861&managementType=1) | pendiente_verificacion_pdf |
-| 538-25 | 17/09/2025 | 11214 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JUAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403853&managementType=1) | pendiente_verificacion_pdf |
-| 539-25 | 17/09/2025 | 11214 | QUE DEROGA EL DECRETO NÚM. 289-25, QUE DESIGNO A JOSÉ ANTONIO AYBAR FÉLIX, PRESIDENTE DE LA COMISIÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403854&managementType=1) | pendiente_verificacion_pdf |
-| 540-25 | 18/09/2025 | 11214 | QUE CONCEDE LA MEDALLA PRESIDENCIAL AL MÉRITO CIVIL AL DOCTOR MARIO JORGE GARCÍA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403855&managementType=1) | pendiente_verificacion_pdf |
-| 541-25 | 19/09/2025 | 11214 | QUE DESIGNA A LA SEÑORA AURA CELESTE FERNÁNDEZ RODRÍGUEZ, GERENTE GENERAL DEL CONSEJO NACIONAL DE SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403862&managementType=1) | pendiente_verificacion_pdf |
-| 542-25 | 22/09/2025 | 11215 | QUE MODIFICA EL LITERAL B) DEL ARTÍCULO 47 DEL DECRETO NÚM. 816-03, QUE APRUEBA EL REGLAMENTO DE CLA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403865&managementType=1) | pendiente_verificacion_pdf |
-| 543-25 | 22/09/2025 | 11215 | QUE AUTORIZA AL EMBAJADOR TONY RAFUL TEJADA, PARA QUE PUEDA ACEPTAR Y USAR LA CONDECORACIÓN “ORDINE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403872&managementType=1) | pendiente_verificacion_pdf |
-| 544-25 | 22/09/2025 | 11215 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE LA SEGURIDAD SOCIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403873&managementType=1) | pendiente_verificacion_pdf |
-| 545-25 | 22/09/2025 | 11215 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 10 MIEMBROS DEL CUERPO DE BOMBEROS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403874&managementType=1) | pendiente_verificacion_pdf |
-| 546-25 | 22/09/2025 | 11215 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO A 14 SERVIDORES PÚBLICOS DEL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403875&managementType=1) | pendiente_verificacion_pdf |
-| 547-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A 229 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403866&managementType=1) | pendiente_verificacion_pdf |
-| 548-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A 283 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403876&managementType=1) | pendiente_verificacion_pdf |
-| 549-25 | 22/09/2025 | 11215 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 29 SERVIDORES DEL MINISTERIO DE ENERGÍA Y MINAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403877&managementType=1) | pendiente_verificacion_pdf |
-| 550-25 | 22/09/2025 | 11215 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO, EN EL MARCO DEL CONVENIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403878&managementType=1) | pendiente_verificacion_pdf |
-| 551-25 | 22/09/2025 | 11215 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A CATORCE PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403867&managementType=1) | pendiente_verificacion_pdf |
-| 552-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403879&managementType=1) | pendiente_verificacion_pdf |
-| 553-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403880&managementType=1) | pendiente_verificacion_pdf |
-| 554-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A 358 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO Y A CRIST... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403881&managementType=1) | pendiente_verificacion_pdf |
-| 555-25 | 22/09/2025 | 11215 | QUE DESIGNA AL SEÑOR ROBERTO HERNÁNDEZ BASILIO, COORDINADOR DE LA UNIDAD DE MODERNIZACIÓN OPERATIVA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403868&managementType=1) | pendiente_verificacion_pdf |
-| 556-25 | 22/09/2025 | 11215 | QUE NOMBRA AL SEÑOR LUIS ERNESTO CAMILO GARCÍA, CÓNSUL GENERAL DE NUESTRO PAÍS EN HONG KONG, REPÚBLI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403869&managementType=1) | pendiente_verificacion_pdf |
-| 557-25 | 22/09/2025 | 11215 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$120,000.00 MENSUALES, AL SEÑOR FERNANDO JOSÉ UREÑA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403870&managementType=1) | pendiente_verificacion_pdf |
-| 558-25 | 25/09/2025 | 11215 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 458-20, QUE DESIGNÓ A LA SEÑORA YSABEL ALTAGRACIA PAULINO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403882&managementType=1) | pendiente_verificacion_pdf |
-| 559-25 | 25/09/2025 | 11215 | QUE DECLARA DE DUELO OFICIAL EL DÍA 26 DE SEPTIEMBRE DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403883&managementType=1) | pendiente_verificacion_pdf |
-| 560-25 | 26/09/2025 | 11215 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 658-08, QUE DESIGNÓ A LA SEÑORA RAMONA DEL CARMEN PLACENCI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403884&managementType=1) | pendiente_verificacion_pdf |
-| 561-25 | 26/09/2025 | 11215 | QUE DESIGNA AL EMBAJADOR MANUEL ANTONIO DURÁN PILARTE, COMO REPRESENTANTE PERMANENTE DE NUESTRO PAÍS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403885&managementType=1) | pendiente_verificacion_pdf |
-| 562-25 | 26/09/2025 | 11215 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 426-07. CREA EL SISTEMA ÚNICO DE BENEFICIARIOS (SIUBEN) ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403886&managementType=1) | pendiente_verificacion_pdf |
-| 563-25 | 26/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403887&managementType=1) | pendiente_verificacion_pdf |
-| 564-25 | 26/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403888&managementType=1) | pendiente_verificacion_pdf |
-| 565-25 | 26/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403889&managementType=1) | pendiente_verificacion_pdf |
-| 566-25 | 26/09/2025 | 11215 | QUE AUTORIZA AL AYUNTAMIENTO DEL MUNICIPIO SANTIAGO DE LOS CABALLEROS A VENDER A DIFERENTES PERSONAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403890&managementType=1) | pendiente_verificacion_pdf |
-| 567-25 | 26/09/2025 | 11215 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO MIGUE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403891&managementType=1) | pendiente_verificacion_pdf |
-| 568-25 | 26/09/2025 | 11215 | QUE DEROGA EL ARTÍCULO 5 DEL DECRETO NÚM. 390-20, QUE DESIGNÓ AL SEÑOR LUIS FRANCISCO LIZARDO GUZMÁN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403892&managementType=1) | pendiente_verificacion_pdf |
-| 569-25 | 29/09/2025 | 11215 | QUE DESIGNA AL SEÑOR JULIO RAMÓN CORDERO ESPAILLAT, COMO COMISIONADO PRESIDENCIAL PARA LA REVISIÓN Y... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403893&managementType=1) | pendiente_verificacion_pdf |
-| 570-25 | 29/09/2025 | 11215 | QUE DESIGNA A LA SEÑORA MARIE LAURE ARISTY PAUL, VICEMINISTRA DE GESTIÓN ADMINISTRATIVA DEL MINISTER... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403894&managementType=1) | pendiente_verificacion_pdf |
-| 571-25 | 29/09/2025 | 11215 | QUE DEROGA EL DECRETO NÚM. 55-22, QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL PARA FINES DE CON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403895&managementType=1) | pendiente_verificacion_pdf |
-| 572-25 | 30/09/2025 | 11215 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS. MODIFICA AL NUMERAL 84 DEL ARTÍCULO 1 DEL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403871&managementType=1) | pendiente_verificacion_pdf |
-| 573-25 | 01/10/2025 | 11216 | QUE NOMBRA A LOS SEÑORES JULIO CÉSAR MATEO BÁEZ, JAIME MARTE MARTÍNEZ Y OMARA JOSIEL CORPORÁN CASTIL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403905&managementType=1) | pendiente_verificacion_pdf |
-| 574-25 | 02/10/2025 | 11216 | QUE DESIGNA AL SEÑOR TOMÁS DARÍO CASTILLO LUGO, DIRECTOR GENERAL INTERINO DEL INSTITUTO AGRARIO DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403906&managementType=1) | pendiente_verificacion_pdf |
-| 575-25 | 03/10/2025 | 11216 | QUE DESIGNA AL SEÑOR FERNANDO JOSÉ BENOIT PEÑA, DIRECTOR NACIONAL DEL CENTRO DE ATENCIÓN INTEGRAL PA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403898&managementType=1) | pendiente_verificacion_pdf |
-| 576-25 | 03/10/2025 | 11216 | QUE CONCEDE PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICIO A 184 SERVIDORES PÚBLICOS Y AUMENTA L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403907&managementType=1) | pendiente_verificacion_pdf |
-| 577-25 | 03/10/2025 | 11216 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 58-25. DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403899&managementType=1) | pendiente_verificacion_pdf |
-| 578-25 | 03/10/2025 | 11216 | QUE REAJUSTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN 11 PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403900&managementType=1) | pendiente_verificacion_pdf |
+| 529-25 | 11/09/2025 | 11214 | QUE DEROGA LOS DECRETOS QUE NOMBRARON DOS EMBAJADORES Y UN MINISTRO CONSEJERO EN EL SERVICIO INTERNO... | [Ver documento](decreto-529-2025.md) | normalizado · pendiente_revision |
+| 530-25 | 11/09/2025 | 11214 | DISPONE QUE LA COMISIÓN PRESIDENCIAL DE APOYO AL DESARROLLO PROVINCIAL, EN LO ADELANTE SE DENOMINARÁ... | [Ver documento](decreto-530-2025.md) | normalizado · pendiente_revision |
+| 531-25 | 11/09/2025 | 11214 | QUE DECLARA DE ALTA PRIORIDAD PARA EL GOBIERNO LA INTERVENCIÓN Y RECUPERACIÓN DE LOS RÍOS OZAMA E IS... | [Ver documento](decreto-531-2025.md) | normalizado · pendiente_revision |
+| 532-25 | 11/09/2025 | 11214 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS DIFERENTES PROFESIONES. | [Ver documento](decreto-532-2025.md) | normalizado · pendiente_revision |
+| 533-25 | 15/09/2025 | 11214 | QUE DESIGNA AL SEÑOR PEDRO JOSÉ ALEGRÍA SOTO, ASESOR HONORÍFICO DEL PODER EJECUTIVO. | [Ver documento](decreto-533-2025.md) | normalizado · pendiente_revision |
+| 534-25 | 15/09/2025 | 11214 | QUE NOMBRA AL SEÑOR JOSÉ ALFONSO FERREIRA AZCONA, SUBDIRECTOR DEL PARQUE ZOOLÓGICO NACIONAL “ARQ. MA... | [Ver documento](decreto-534-2025.md) | normalizado · pendiente_revision |
+| 535-25 | 15/09/2025 | 11214 | QUE MODIFICA LOS ARTÍCULOS 3 Y 5 DEL DECRETO NÚM. 173-16. DISPONE QUE LA COMISIÓN NACIONAL PARA EL M... | [Ver documento](decreto-535-2025.md) | normalizado · pendiente_revision |
+| 536-25 | 15/09/2025 | 11214 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. MOD... | [Ver documento](decreto-536-2025.md) | normalizado · pendiente_revision |
+| 537-25 | 17/09/2025 | 11214 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 27 PERSONAS, Y AUMENTA LAS PENSIONES DE QUE DISFRUTAN ... | [Ver documento](decreto-537-2025.md) | normalizado · pendiente_revision |
+| 538-25 | 17/09/2025 | 11214 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO JUAN ... | [Ver documento](decreto-538-2025.md) | normalizado · pendiente_revision |
+| 539-25 | 17/09/2025 | 11214 | QUE DEROGA EL DECRETO NÚM. 289-25, QUE DESIGNO A JOSÉ ANTONIO AYBAR FÉLIX, PRESIDENTE DE LA COMISIÓN... | [Ver documento](decreto-539-2025.md) | normalizado · pendiente_revision |
+| 540-25 | 18/09/2025 | 11214 | QUE CONCEDE LA MEDALLA PRESIDENCIAL AL MÉRITO CIVIL AL DOCTOR MARIO JORGE GARCÍA. | [Ver documento](decreto-540-2025.md) | normalizado · pendiente_revision |
+| 541-25 | 19/09/2025 | 11214 | QUE DESIGNA A LA SEÑORA AURA CELESTE FERNÁNDEZ RODRÍGUEZ, GERENTE GENERAL DEL CONSEJO NACIONAL DE SE... | [Ver documento](decreto-541-2025.md) | normalizado · pendiente_revision |
+| 542-25 | 22/09/2025 | 11215 | QUE MODIFICA EL LITERAL B) DEL ARTÍCULO 47 DEL DECRETO NÚM. 816-03, QUE APRUEBA EL REGLAMENTO DE CLA... | [Ver documento](decreto-542-2025.md) | normalizado · pendiente_revision |
+| 543-25 | 22/09/2025 | 11215 | QUE AUTORIZA AL EMBAJADOR TONY RAFUL TEJADA, PARA QUE PUEDA ACEPTAR Y USAR LA CONDECORACIÓN “ORDINE ... | [Ver documento](decreto-543-2025.md) | normalizado · pendiente_revision |
+| 544-25 | 22/09/2025 | 11215 | QUE CONCEDE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE LA SEGURIDAD SOCIA... | [Ver documento](decreto-544-2025.md) | normalizado · pendiente_revision |
+| 545-25 | 22/09/2025 | 11215 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 10 MIEMBROS DEL CUERPO DE BOMBEROS. | [Ver documento](decreto-545-2025.md) | normalizado · pendiente_revision |
+| 546-25 | 22/09/2025 | 11215 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y OTORGA PENSIONES DEL ESTADO A 14 SERVIDORES PÚBLICOS DEL... | [Ver documento](decreto-546-2025.md) | normalizado · pendiente_revision |
+| 547-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A 229 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-547-2025.md) | normalizado · pendiente_revision |
+| 548-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A 283 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-548-2025.md) | normalizado · pendiente_revision |
+| 549-25 | 22/09/2025 | 11215 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 29 SERVIDORES DEL MINISTERIO DE ENERGÍA Y MINAS. | [Ver documento](decreto-549-2025.md) | normalizado · pendiente_revision |
+| 550-25 | 22/09/2025 | 11215 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO, EN EL MARCO DEL CONVENIO ... | [Ver documento](decreto-550-2025.md) | normalizado · pendiente_revision |
+| 551-25 | 22/09/2025 | 11215 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A CATORCE PERSONAS. | [Ver documento](decreto-551-2025.md) | normalizado · pendiente_revision |
+| 552-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-552-2025.md) | normalizado · pendiente_revision |
+| 553-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES | [Ver documento](decreto-553-2025.md) | normalizado · pendiente_revision |
+| 554-25 | 22/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A 358 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO Y A CRIST... | [Ver documento](decreto-554-2025.md) | normalizado · pendiente_revision |
+| 555-25 | 22/09/2025 | 11215 | QUE DESIGNA AL SEÑOR ROBERTO HERNÁNDEZ BASILIO, COORDINADOR DE LA UNIDAD DE MODERNIZACIÓN OPERATIVA ... | [Ver documento](decreto-555-2025.md) | normalizado · pendiente_revision |
+| 556-25 | 22/09/2025 | 11215 | QUE NOMBRA AL SEÑOR LUIS ERNESTO CAMILO GARCÍA, CÓNSUL GENERAL DE NUESTRO PAÍS EN HONG KONG, REPÚBLI... | [Ver documento](decreto-556-2025.md) | normalizado · pendiente_revision |
+| 557-25 | 22/09/2025 | 11215 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DE RD$120,000.00 MENSUALES, AL SEÑOR FERNANDO JOSÉ UREÑA... | [Ver documento](decreto-557-2025.md) | normalizado · pendiente_revision |
+| 558-25 | 25/09/2025 | 11215 | QUE DEROGA EL ARTÍCULO 3 DEL DECRETO NÚM. 458-20, QUE DESIGNÓ A LA SEÑORA YSABEL ALTAGRACIA PAULINO ... | [Ver documento](decreto-558-2025.md) | normalizado · pendiente_revision |
+| 559-25 | 25/09/2025 | 11215 | QUE DECLARA DE DUELO OFICIAL EL DÍA 26 DE SEPTIEMBRE DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO ... | [Ver documento](decreto-559-2025.md) | normalizado · pendiente_revision |
+| 560-25 | 26/09/2025 | 11215 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 658-08, QUE DESIGNÓ A LA SEÑORA RAMONA DEL CARMEN PLACENCI... | [Ver documento](decreto-560-2025.md) | normalizado · pendiente_revision |
+| 561-25 | 26/09/2025 | 11215 | QUE DESIGNA AL EMBAJADOR MANUEL ANTONIO DURÁN PILARTE, COMO REPRESENTANTE PERMANENTE DE NUESTRO PAÍS... | [Ver documento](decreto-561-2025.md) | normalizado · pendiente_revision |
+| 562-25 | 26/09/2025 | 11215 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 426-07. CREA EL SISTEMA ÚNICO DE BENEFICIARIOS (SIUBEN) ... | [Ver documento](decreto-562-2025.md) | normalizado · pendiente_revision |
+| 563-25 | 26/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DISTINTAS PROFESIONES. | [Ver documento](decreto-563-2025.md) | normalizado · pendiente_revision |
+| 564-25 | 26/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES. | [Ver documento](decreto-564-2025.md) | normalizado · pendiente_revision |
+| 565-25 | 26/09/2025 | 11215 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DIFERENTES PROFESIONES. | [Ver documento](decreto-565-2025.md) | normalizado · pendiente_revision |
+| 566-25 | 26/09/2025 | 11215 | QUE AUTORIZA AL AYUNTAMIENTO DEL MUNICIPIO SANTIAGO DE LOS CABALLEROS A VENDER A DIFERENTES PERSONAS... | [Ver documento](decreto-566-2025.md) | normalizado · pendiente_revision |
+| 567-25 | 26/09/2025 | 11215 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO MIGUE... | [Ver documento](decreto-567-2025.md) | normalizado · pendiente_revision |
+| 568-25 | 26/09/2025 | 11215 | QUE DEROGA EL ARTÍCULO 5 DEL DECRETO NÚM. 390-20, QUE DESIGNÓ AL SEÑOR LUIS FRANCISCO LIZARDO GUZMÁN... | [Ver documento](decreto-568-2025.md) | normalizado · pendiente_revision |
+| 569-25 | 29/09/2025 | 11215 | QUE DESIGNA AL SEÑOR JULIO RAMÓN CORDERO ESPAILLAT, COMO COMISIONADO PRESIDENCIAL PARA LA REVISIÓN Y... | [Ver documento](decreto-569-2025.md) | normalizado · pendiente_revision |
+| 570-25 | 29/09/2025 | 11215 | QUE DESIGNA A LA SEÑORA MARIE LAURE ARISTY PAUL, VICEMINISTRA DE GESTIÓN ADMINISTRATIVA DEL MINISTER... | [Ver documento](decreto-570-2025.md) | normalizado · pendiente_revision |
+| 571-25 | 29/09/2025 | 11215 | QUE DEROGA EL DECRETO NÚM. 55-22, QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL PARA FINES DE CON... | [Ver documento](decreto-571-2025.md) | normalizado · pendiente_revision |
+| 572-25 | 30/09/2025 | 11215 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO A 2 PERSONAS. MODIFICA AL NUMERAL 84 DEL ARTÍCULO 1 DEL ... | [Ver documento](decreto-572-2025.md) | normalizado · pendiente_revision |
+| 573-25 | 01/10/2025 | 11216 | QUE NOMBRA A LOS SEÑORES JULIO CÉSAR MATEO BÁEZ, JAIME MARTE MARTÍNEZ Y OMARA JOSIEL CORPORÁN CASTIL... | [Ver documento](decreto-573-2025.md) | normalizado · pendiente_revision |
+| 574-25 | 02/10/2025 | 11216 | QUE DESIGNA AL SEÑOR TOMÁS DARÍO CASTILLO LUGO, DIRECTOR GENERAL INTERINO DEL INSTITUTO AGRARIO DOMI... | [Ver documento](decreto-574-2025.md) | normalizado · pendiente_revision |
+| 575-25 | 03/10/2025 | 11216 | QUE DESIGNA AL SEÑOR FERNANDO JOSÉ BENOIT PEÑA, DIRECTOR NACIONAL DEL CENTRO DE ATENCIÓN INTEGRAL PA... | [Ver documento](decreto-575-2025.md) | normalizado · pendiente_revision |
+| 576-25 | 03/10/2025 | 11216 | QUE CONCEDE PENSIONES DEL ESTADO POR ANTIGÜEDAD EN EL SERVICIO A 184 SERVIDORES PÚBLICOS Y AUMENTA L... | [Ver documento](decreto-576-2025.md) | normalizado · pendiente_revision |
+| 577-25 | 03/10/2025 | 11216 | QUE MODIFICA EL ARTÍCULO 1 DEL DECRETO NÚM. 58-25. DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PAR... | [Ver documento](decreto-577-2025.md) | normalizado · pendiente_revision |
+| 578-25 | 03/10/2025 | 11216 | QUE REAJUSTA LAS PENSIONES DEL ESTADO DE QUE DISFRUTAN 11 PERSONAS. | [Ver documento](decreto-578-2025.md) | normalizado · pendiente_revision |
 | 579-25 | 03/10/2025 | 11216 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A VEINTE (20) PERSONAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403901&managementType=1) | pendiente_verificacion_pdf |
 | 580-25 | 03/10/2025 | 11216 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO CON DISTINTIVO BLANCO Y AZUL, EN DIFERENTE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403908&managementType=1) | pendiente_verificacion_pdf |
 | 581-25 | 03/10/2025 | 11216 | QUE AUTORIZA AL TENIENTE CORONEL DR. FRANCISCO DE LOS SANTOS MORA NÚÑEZ, P.N., PARA QUE PUEDA ACEPTA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403909&managementType=1) | pendiente_verificacion_pdf |
