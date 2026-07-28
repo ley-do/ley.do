@@ -7,36 +7,64 @@ Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecu
 
 Documentos detectados: **727**.
 
+## Documentos normalizados inicialmente
+
+- [Decreto núm. 001-2025](decreto-001-2025.md)
+- [Decreto núm. 002-2025](decreto-002-2025.md)
+- [Decreto núm. 003-2025](decreto-003-2025.md)
+- [Decreto núm. 004-2025](decreto-004-2025.md)
+- [Decreto núm. 005-2025](decreto-005-2025.md)
+- [Decreto núm. 006-2025](decreto-006-2025.md)
+- [Decreto núm. 007-2025](decreto-007-2025.md)
+- [Decreto núm. 008-2025](decreto-008-2025.md)
+- [Decreto núm. 009-2025](decreto-009-2025.md)
+- [Decreto núm. 010-2025](decreto-010-2025.md)
+- [Decreto núm. 011-2025](decreto-011-2025.md)
+- [Decreto núm. 012-2025](decreto-012-2025.md)
+- [Decreto núm. 013-2025](decreto-013-2025.md)
+- [Decreto núm. 014-2025](decreto-014-2025.md)
+- [Decreto núm. 015-2025](decreto-015-2025.md)
+- [Decreto núm. 016-2025](decreto-016-2025.md)
+- [Decreto núm. 017-2025](decreto-017-2025.md)
+- [Decreto núm. 018-2025](decreto-018-2025.md)
+- [Decreto núm. 019-2025](decreto-019-2025.md)
+- [Decreto núm. 020-2025](decreto-020-2025.md)
+- [Decreto núm. 021-2025](decreto-021-2025.md)
+- [Decreto núm. 022-2025](decreto-022-2025.md)
+- [Decreto núm. 023-2025](decreto-023-2025.md)
+- [Decreto núm. 024-2025](decreto-024-2025.md)
+- [Decreto núm. 025-2025](decreto-025-2025.md)
+
 ## Documentos detectados
 
 | Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
 |---:|---|---:|---|---|---|
 | 497-25 | 01/01/1900 | 11213 | QUE DEROGA LOS ARTÍCULOS 2 Y 3 DEL DECRETO NÚM. 413-20, QUE DESIGNARON A LOS SEÑORES POLIBIO ANTONIO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403828&managementType=1) | pendiente_verificacion_pdf |
-| 1-25 | 06/01/2025 | 11183 | QUE DECLARA DE DUELO OFICIAL EL DÍA 8 DE ENERO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DEL SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402955&managementType=1) | pendiente_verificacion_pdf |
-| 2-25 | 07/01/2025 | 11183 | QUE NOMBRA LOS EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE LA REPÚBLICA EN LA INDIA, TRINIDAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402962&managementType=1) | pendiente_verificacion_pdf |
-| 3-25 | 07/01/2025 | 11183 | QUE NOMBRA DOS (2) VICECÓNSULES DE LA REPÚBLICA EN SAN PEDRO DE SULA, REPÚBLICA DE HONDURAS Y EN ZÚR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402956&managementType=1) | pendiente_verificacion_pdf |
-| 4-25 | 09/01/2025 | 11183 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO CARLOS ARIEL DIAZ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402957&managementType=1) | pendiente_verificacion_pdf |
-| 5-25 | 09/01/2025 | 11183 | QUE AUTORIZA AL EMBAJADOR FRANCISCO ALBERTO CARABALLO NÚÑEZ, PARA QUE PUEDA ACEPTAR Y USAR UNA CONDE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402958&managementType=1) | pendiente_verificacion_pdf |
-| 6-25 | 09/01/2025 | 11183 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA DEL CIUDADANO DOMINICANO PASCACIO BUEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402959&managementType=1) | pendiente_verificacion_pdf |
-| 7-25 | 09/01/2025 | 11183 | QUE PONE A CARGO DEL MINISTERIO DE ECONOMÍA, PLANIFICACIÓN DE DESARROLLO, AL VICEMINISTRO DE ESA INS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402960&managementType=1) | pendiente_verificacion_pdf |
-| 8-25 | 09/01/2025 | 11183 | QUE DEROGA EL ARTÍCULO 26 DEL DECRETO NÚM. 246-16, QUE DESIGNÓ A MIGUEL MEJÍA COMO MINISTRO SIN CART... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402963&managementType=1) | pendiente_verificacion_pdf |
-| 10-25 | 15/01/2025 | 11186 | QUE DESIGNA CON EL NOMBRE RENÉ DEL RISCO BERMÚDEZ, EL EDIFICIO UBICADO EN LA CALLE ISABEL LA CATÓLIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403001&managementType=1) | pendiente_verificacion_pdf |
-| 11-25 | 15/01/2025 | 11186 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A TRECE PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402990&managementType=1) | pendiente_verificacion_pdf |
-| 12-25 | 15/01/2025 | 11186 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 58 DEL DECRETO NÚM. 369-13 ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402991&managementType=1) | pendiente_verificacion_pdf |
-| 13-25 | 15/01/2025 | 11186 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS UBICADAS EN LA PROVINC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403002&managementType=1) | pendiente_verificacion_pdf |
-| 14-25 | 15/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO RAMÓN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403003&managementType=1) | pendiente_verificacion_pdf |
-| 9-25 | 15/01/2025 | 11186 | QUE CONCEDE PENSIONES DEL ESTADO A CUARENTA Y TRES (43) SERVIDORES PÚBLICOS DEL SECTOR SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403000&managementType=1) | pendiente_verificacion_pdf |
-| 15-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO DIÓGE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402992&managementType=1) | pendiente_verificacion_pdf |
-| 16-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403004&managementType=1) | pendiente_verificacion_pdf |
-| 17-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO MARCO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402993&managementType=1) | pendiente_verificacion_pdf |
-| 18-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA DEL CIUDADANO DOMINICANO FERNANDO HIPÓLITO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402994&managementType=1) | pendiente_verificacion_pdf |
-| 19-25 | 16/01/2025 | 11186 | QUE NOMBRA A LAS SEÑORAS ANA IDALIA DEL ROSARIO CASTELLANOS DE KRANWINKEL Y ALEJANDRA HERNÁNDEZ GONZ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403005&managementType=1) | pendiente_verificacion_pdf |
-| 20-25 | 16/01/2025 | 11186 | QUE NOMBRA A CUATRO (4) EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE NUESTRO PAÍS EN ESTADOS U... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403006&managementType=1) | pendiente_verificacion_pdf |
-| 21-25 | 16/01/2025 | 11186 | QUE AUTORIZA AL CORONEL JOSÉ GUILLERMO GUERRERO PEÑA, ERD, (MA), PARA QUE PUEDA ACEPTAR Y USAR VARIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403007&managementType=1) | pendiente_verificacion_pdf |
-| 22-25 | 16/01/2025 | 11186 | QUE AUTORIZA AL TENIENTE DE CORBETA ANDRICKSON JEFFERSON REGALADO ROSARIO, ARD, PARA QUE PUEDA ACEPT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403008&managementType=1) | pendiente_verificacion_pdf |
-| 23-25 | 17/01/2025 | 11186 | QUE ASCIENDE AL CORONEL MILTON ALEXIS MOSCAT LÓPEZ (CB) AL RANGO DE GENERAL DEL CUERPO DE BOMBEROS. ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403009&managementType=1) | pendiente_verificacion_pdf |
-| 24-25 | 17/01/2025 | 11186 | QUE SUPRIME LA COMISIÓN PRESIDENCIAL PARA EL DESARROLLO DEL MERCADO HIPOTECARIO Y EL FIDEICOMISO, Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402995&managementType=1) | pendiente_verificacion_pdf |
-| 25-25 | 17/01/2025 | 11186 | QUE EXTIENDE HASTA EL 31 DE DICIEMBRE DE 2025, EL PLAZO ESTABLECIDO EN EL ARTÍCULO 5 DEL DECRETO NÚM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403010&managementType=1) | pendiente_verificacion_pdf |
+| 1-25 | 06/01/2025 | 11183 | QUE DECLARA DE DUELO OFICIAL EL DÍA 8 DE ENERO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DEL SE... | [Ver documento](decreto-001-2025.md) | normalizado · pendiente_revision |
+| 2-25 | 07/01/2025 | 11183 | QUE NOMBRA LOS EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE LA REPÚBLICA EN LA INDIA, TRINIDAD... | [Ver documento](decreto-002-2025.md) | normalizado · pendiente_revision |
+| 3-25 | 07/01/2025 | 11183 | QUE NOMBRA DOS (2) VICECÓNSULES DE LA REPÚBLICA EN SAN PEDRO DE SULA, REPÚBLICA DE HONDURAS Y EN ZÚR... | [Ver documento](decreto-003-2025.md) | normalizado · pendiente_revision |
+| 4-25 | 09/01/2025 | 11183 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA, DEL NACIONAL DOMINICANO CARLOS ARIEL DIAZ ... | [Ver documento](decreto-004-2025.md) | normalizado · pendiente_revision |
+| 5-25 | 09/01/2025 | 11183 | QUE AUTORIZA AL EMBAJADOR FRANCISCO ALBERTO CARABALLO NÚÑEZ, PARA QUE PUEDA ACEPTAR Y USAR UNA CONDE... | [Ver documento](decreto-005-2025.md) | normalizado · pendiente_revision |
+| 6-25 | 09/01/2025 | 11183 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ITALIANA DEL CIUDADANO DOMINICANO PASCACIO BUEN... | [Ver documento](decreto-006-2025.md) | normalizado · pendiente_revision |
+| 7-25 | 09/01/2025 | 11183 | QUE PONE A CARGO DEL MINISTERIO DE ECONOMÍA, PLANIFICACIÓN DE DESARROLLO, AL VICEMINISTRO DE ESA INS... | [Ver documento](decreto-007-2025.md) | normalizado · pendiente_revision |
+| 8-25 | 09/01/2025 | 11183 | QUE DEROGA EL ARTÍCULO 26 DEL DECRETO NÚM. 246-16, QUE DESIGNÓ A MIGUEL MEJÍA COMO MINISTRO SIN CART... | [Ver documento](decreto-008-2025.md) | normalizado · pendiente_revision |
+| 10-25 | 15/01/2025 | 11186 | QUE DESIGNA CON EL NOMBRE RENÉ DEL RISCO BERMÚDEZ, EL EDIFICIO UBICADO EN LA CALLE ISABEL LA CATÓLIC... | [Ver documento](decreto-010-2025.md) | normalizado · pendiente_revision |
+| 11-25 | 15/01/2025 | 11186 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN ORDINARIA, A TRECE PERSONAS. | [Ver documento](decreto-011-2025.md) | normalizado · pendiente_revision |
+| 12-25 | 15/01/2025 | 11186 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 58 DEL DECRETO NÚM. 369-13 ... | [Ver documento](decreto-012-2025.md) | normalizado · pendiente_revision |
+| 13-25 | 15/01/2025 | 11186 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL VARIAS PORCIONES DE TERRENOS UBICADAS EN LA PROVINC... | [Ver documento](decreto-013-2025.md) | normalizado · pendiente_revision |
+| 14-25 | 15/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL NACIONAL DOMINICANO RAMÓN... | [Ver documento](decreto-014-2025.md) | normalizado · pendiente_revision |
+| 9-25 | 15/01/2025 | 11186 | QUE CONCEDE PENSIONES DEL ESTADO A CUARENTA Y TRES (43) SERVIDORES PÚBLICOS DEL SECTOR SALUD. | [Ver documento](decreto-009-2025.md) | normalizado · pendiente_revision |
+| 15-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO DIÓGE... | [Ver documento](decreto-015-2025.md) | normalizado · pendiente_revision |
+| 16-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Ver documento](decreto-016-2025.md) | normalizado · pendiente_revision |
+| 17-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO MARCO... | [Ver documento](decreto-017-2025.md) | normalizado · pendiente_revision |
+| 18-25 | 16/01/2025 | 11186 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL REINO DE ESPAÑA DEL CIUDADANO DOMINICANO FERNANDO HIPÓLITO ... | [Ver documento](decreto-018-2025.md) | normalizado · pendiente_revision |
+| 19-25 | 16/01/2025 | 11186 | QUE NOMBRA A LAS SEÑORAS ANA IDALIA DEL ROSARIO CASTELLANOS DE KRANWINKEL Y ALEJANDRA HERNÁNDEZ GONZ... | [Ver documento](decreto-019-2025.md) | normalizado · pendiente_revision |
+| 20-25 | 16/01/2025 | 11186 | QUE NOMBRA A CUATRO (4) EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE NUESTRO PAÍS EN ESTADOS U... | [Ver documento](decreto-020-2025.md) | normalizado · pendiente_revision |
+| 21-25 | 16/01/2025 | 11186 | QUE AUTORIZA AL CORONEL JOSÉ GUILLERMO GUERRERO PEÑA, ERD, (MA), PARA QUE PUEDA ACEPTAR Y USAR VARIA... | [Ver documento](decreto-021-2025.md) | normalizado · pendiente_revision |
+| 22-25 | 16/01/2025 | 11186 | QUE AUTORIZA AL TENIENTE DE CORBETA ANDRICKSON JEFFERSON REGALADO ROSARIO, ARD, PARA QUE PUEDA ACEPT... | [Ver documento](decreto-022-2025.md) | normalizado · pendiente_revision |
+| 23-25 | 17/01/2025 | 11186 | QUE ASCIENDE AL CORONEL MILTON ALEXIS MOSCAT LÓPEZ (CB) AL RANGO DE GENERAL DEL CUERPO DE BOMBEROS. ... | [Ver documento](decreto-023-2025.md) | normalizado · pendiente_revision |
+| 24-25 | 17/01/2025 | 11186 | QUE SUPRIME LA COMISIÓN PRESIDENCIAL PARA EL DESARROLLO DEL MERCADO HIPOTECARIO Y EL FIDEICOMISO, Y ... | [Ver documento](decreto-024-2025.md) | normalizado · pendiente_revision |
+| 25-25 | 17/01/2025 | 11186 | QUE EXTIENDE HASTA EL 31 DE DICIEMBRE DE 2025, EL PLAZO ESTABLECIDO EN EL ARTÍCULO 5 DEL DECRETO NÚM... | [Ver documento](decreto-025-2025.md) | normalizado · pendiente_revision |
 | 26-25 | 17/01/2025 | 11186 | QUE DESIGNA AL SEÑOR JESÚS FERIS IGLESIAS, ASESOR DEL PODER EJECUTIVO EN MATERIA DE SALUD. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403011&managementType=1) | pendiente_verificacion_pdf |
 | 27-25 | 17/01/2025 | 11186 | QUE OTORGA EXEQUÁTUR A 122 PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403012&managementType=1) | pendiente_verificacion_pdf |
 | 28-25 | 17/01/2025 | 11186 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN EL MINISTERIO DE RELACIONES EXTERIORES, EN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403013&managementType=1) | pendiente_verificacion_pdf |
