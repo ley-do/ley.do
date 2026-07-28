@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "numero": "210",
+  "numero_registro_fuente": "210-20",
+  "anio": "2020",
+  "titulo": "QUE PONE A CARGO DEL MINISTERIO DE AGRICULTURA Y SUS DEPENDENCIAS, TODAS LAS MEDIDAS RELACIONADAS CO...",
+  "fecha": "08/06/2020",
+  "gaceta_oficial": "10977",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395900&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395900&managementType=1",
+  "document_id_consultoria": "3395900",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "",
+  "ruta_markdown": "docs/decretos/2020/decreto-210-2020.md",
+  "ruta_json": "datos/decretos/2020/decreto-210-2020.json",
+  "sha256_pdf_original": "",
+  "sha256_markdown": "5431c29221194eac8673ff310b71085c2ed6d12adf5cfac651795cd8ef1743e8",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "descubierto",
+  "estado_extraccion": "pendiente_encontrar_pdf",
+  "commit_publicacion": "",
+  "evidencia_pdf_no_disponible": {
+    "error_endpoint_abrir": "HTTP 500",
+    "error_endpoint_descargar": "HTTP 500",
+    "recorte_con_inicio_document_id": "3395901",
+    "recorte_con_final_document_id": "3395902",
+    "pdf_derivado_creado": false
+  },
+  "notas": "No se recuperó un PDF oficial completo. Los fragmentos vecinos no se fusionaron. Pendiente localizar PDF y revisar humanamente."
+}

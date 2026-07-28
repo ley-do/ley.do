@@ -209,6 +209,106 @@ Documentos detectados: **756**.
 - [Decreto núm. 198-2020](decreto-198-2020.md)
 - [Decreto núm. 199-2020](decreto-199-2020.md)
 - [Decreto núm. 200-2020](decreto-200-2020.md)
+- [Decreto núm. 201-2020](decreto-201-2020.md)
+- [Decreto núm. 202-2020](decreto-202-2020.md)
+- [Decreto núm. 203-2020](decreto-203-2020.md)
+- [Decreto núm. 204-2020](decreto-204-2020.md)
+- [Decreto núm. 205-2020](decreto-205-2020.md)
+- [Decreto núm. 206-2020](decreto-206-2020.md)
+- [Decreto núm. 207-2020](decreto-207-2020.md)
+- [Decreto núm. 208-2020](decreto-208-2020.md)
+- [Decreto núm. 209-2020](decreto-209-2020.md)
+- [Decreto núm. 210-2020](decreto-210-2020.md)
+- [Decreto núm. 211-2020](decreto-211-2020.md)
+- [Decreto núm. 212-2020](decreto-212-2020.md)
+- [Decreto núm. 213-2020](decreto-213-2020.md)
+- [Decreto núm. 214-2020](decreto-214-2020.md)
+- [Decreto núm. 215-2020](decreto-215-2020.md)
+- [Decreto núm. 216-2020](decreto-216-2020.md)
+- [Decreto núm. 217-2020](decreto-217-2020.md)
+- [Decreto núm. 218-2020](decreto-218-2020.md)
+- [Decreto núm. 219-2020](decreto-219-2020.md)
+- [Decreto núm. 220-2020](decreto-220-2020.md)
+- [Decreto núm. 221-2020](decreto-221-2020.md)
+- [Decreto núm. 222-2020](decreto-222-2020.md)
+- [Decreto núm. 223-2020](decreto-223-2020.md)
+- [Decreto núm. 224-2020](decreto-224-2020.md)
+- [Decreto núm. 225-2020](decreto-225-2020.md)
+- [Decreto núm. 226-2020](decreto-226-2020.md)
+- [Decreto núm. 227-2020](decreto-227-2020.md)
+- [Decreto núm. 228-2020](decreto-228-2020.md)
+- [Decreto núm. 229-2020](decreto-229-2020.md)
+- [Decreto núm. 230-2020](decreto-230-2020.md)
+- [Decreto núm. 231-2020](decreto-231-2020.md)
+- [Decreto núm. 232-2020](decreto-232-2020.md)
+- [Decreto núm. 233-2020](decreto-233-2020.md)
+- [Decreto núm. 234-2020](decreto-234-2020.md)
+- [Decreto núm. 235-2020](decreto-235-2020.md)
+- [Decreto núm. 236-2020](decreto-236-2020.md)
+- [Decreto núm. 237-2020](decreto-237-2020.md)
+- [Decreto núm. 238-2020](decreto-238-2020.md)
+- [Decreto núm. 239-2020](decreto-239-2020.md)
+- [Decreto núm. 240-2020](decreto-240-2020.md)
+- [Decreto núm. 241-2020](decreto-241-2020.md)
+- [Decreto núm. 242-2020](decreto-242-2020.md)
+- [Decreto núm. 243-2020](decreto-243-2020.md)
+- [Decreto núm. 244-2020](decreto-244-2020.md)
+- [Decreto núm. 245-2020](decreto-245-2020.md)
+- [Decreto núm. 246-2020](decreto-246-2020.md)
+- [Decreto núm. 247-2020](decreto-247-2020.md)
+- [Decreto núm. 248-2020](decreto-248-2020.md)
+- [Decreto núm. 249-2020](decreto-249-2020.md)
+- [Decreto núm. 250-2020](decreto-250-2020.md)
+- [Decreto núm. 251-2020](decreto-251-2020.md)
+- [Decreto núm. 252-2020](decreto-252-2020.md)
+- [Decreto núm. 253-2020](decreto-253-2020.md)
+- [Decreto núm. 254-2020](decreto-254-2020.md)
+- [Decreto núm. 255-2020](decreto-255-2020.md)
+- [Decreto núm. 256-2020](decreto-256-2020.md)
+- [Decreto núm. 257-2020](decreto-257-2020.md)
+- [Decreto núm. 258-2020](decreto-258-2020.md)
+- [Decreto núm. 259-2020](decreto-259-2020.md)
+- [Decreto núm. 260-2020](decreto-260-2020.md)
+- [Decreto núm. 261-2020](decreto-261-2020.md)
+- [Decreto núm. 262-2020](decreto-262-2020.md)
+- [Decreto núm. 263-2020](decreto-263-2020.md)
+- [Decreto núm. 264-2020](decreto-264-2020.md)
+- [Decreto núm. 265-2020](decreto-265-2020.md)
+- [Decreto núm. 266-2020](decreto-266-2020.md)
+- [Decreto núm. 267-2020](decreto-267-2020.md)
+- [Decreto núm. 268-2020](decreto-268-2020.md)
+- [Decreto núm. 269-2020](decreto-269-2020.md)
+- [Decreto núm. 270-2020](decreto-270-2020.md)
+- [Decreto núm. 271-2020](decreto-271-2020.md)
+- [Decreto núm. 272-2020](decreto-272-2020.md)
+- [Decreto núm. 273-2020](decreto-273-2020.md)
+- [Decreto núm. 274-2020](decreto-274-2020.md)
+- [Decreto núm. 275-2020](decreto-275-2020.md)
+- [Decreto núm. 276-2020](decreto-276-2020.md)
+- [Decreto núm. 277-2020](decreto-277-2020.md)
+- [Decreto núm. 278-2020](decreto-278-2020.md)
+- [Decreto núm. 279-2020](decreto-279-2020.md)
+- [Decreto núm. 280-2020](decreto-280-2020.md)
+- [Decreto núm. 281-2020](decreto-281-2020.md)
+- [Decreto núm. 282-2020](decreto-282-2020.md)
+- [Decreto núm. 283-2020](decreto-283-2020.md)
+- [Decreto núm. 284-2020](decreto-284-2020.md)
+- [Decreto núm. 285-2020](decreto-285-2020.md)
+- [Decreto núm. 286-2020](decreto-286-2020.md)
+- [Decreto núm. 287-2020](decreto-287-2020.md)
+- [Decreto núm. 288-2020](decreto-288-2020.md)
+- [Decreto núm. 289-2020](decreto-289-2020.md)
+- [Decreto núm. 290-2020](decreto-290-2020.md)
+- [Decreto núm. 291-2020](decreto-291-2020.md)
+- [Decreto núm. 292-2020](decreto-292-2020.md)
+- [Decreto núm. 294-2020](decreto-294-2020.md)
+- [Decreto núm. 295-2020](decreto-295-2020.md)
+- [Decreto núm. 296-2020](decreto-296-2020.md)
+- [Decreto núm. 297-2020](decreto-297-2020.md)
+- [Decreto núm. 298-2020](decreto-298-2020.md)
+- [Decreto núm. 299-2020](decreto-299-2020.md)
+- [Decreto núm. 300-2020](decreto-300-2020.md)
+- [Decreto núm. 301-2020](decreto-301-2020.md)
 
 ## Documentos detectados
 
@@ -436,107 +536,107 @@ Documentos detectados: **756**.
 | 198-20 | 04/06/2020 | 10977 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, NUMERAL 17 DEL DEC. NO. 230-13, VARIAS... | [Ver documento](decreto-198-2020.md) | normalizado · pendiente_revision |
 | 199-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES Y ELEVA PENSIONES DEL ESTADO ... | [Ver documento](decreto-199-2020.md) | normalizado · pendiente_revision |
 | 200-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-200-2020.md) | normalizado · pendiente_revision |
-| 201-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395891&managementType=1) | pendiente_verificacion_pdf |
-| 202-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395892&managementType=1) | pendiente_verificacion_pdf |
-| 203-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395893&managementType=1) | pendiente_verificacion_pdf |
-| 204-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395894&managementType=1) | pendiente_verificacion_pdf |
-| 205-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395895&managementType=1) | pendiente_verificacion_pdf |
-| 206-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395896&managementType=1) | pendiente_verificacion_pdf |
-| 207-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395898&managementType=1) | pendiente_verificacion_pdf |
-| 208-20 | 05/06/2020 | 10977 | QUE DESIGNA LOS GOBERNADORES CIVILES DE LAS PROVINCIAS: SAN PEDRO DE MACORÍS, SAN JOSÉ DE OCOA, MARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395899&managementType=1) | pendiente_verificacion_pdf |
-| 209-20 | 08/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395901&managementType=1) | pendiente_verificacion_pdf |
-| 210-20 | 08/06/2020 | 10977 | QUE PONE A CARGO DEL MINISTERIO DE AGRICULTURA Y SUS DEPENDENCIAS, TODAS LAS MEDIDAS RELACIONADAS CO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395900&managementType=1) | pendiente_verificacion_pdf |
-| 211-20 | 10/06/2020 | 10977 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395902&managementType=1) | pendiente_verificacion_pdf |
-| 212-20 | 10/06/2020 | 10977 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 637-10, QUE DESIGNÓ A LA SEÑORA SONIA ALTAGRACIA VARGAS, COMO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395903&managementType=1) | pendiente_verificacion_pdf |
-| 213-20 | 12/06/2020 | 10977 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DIECISIETE (17) DÍAS, CONTAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395904&managementType=1) | pendiente_verificacion_pdf |
-| 214-20 | 12/06/2020 | 10977 | QUE RATIFICA TODAS LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE EL 1... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395905&managementType=1) | pendiente_verificacion_pdf |
-| 215-20 | 15/06/2020 | 10978 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 104-12, QUE NOMBRÓ AL SEÑOR NELSON ROSARIO, COMO SUBADMINISTRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395906&managementType=1) | pendiente_verificacion_pdf |
-| 216-20 | 16/06/2020 | 10978 | QUE CREA LA RED NACIONAL DE SERVICIOS DE SANGRE, COMO EL CONJUNTO DE SERVICIOS DE BANCOS DE SANGRE Y... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395932&managementType=1) | pendiente_verificacion_pdf |
-| 217-20 | 16/06/2020 | 10978 | DISPONE QUE LA DIRECCIÓN GENERAL DE EMERGENCIAS MÉDICAS, ÓRGANO DESCONCENTRADO DEL MINISTERIO DE SAL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395907&managementType=1) | pendiente_verificacion_pdf |
-| 218-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395908&managementType=1) | pendiente_verificacion_pdf |
-| 219-20 | 16/06/2020 | 10978 | QUE NOMBRA A LA SEÑORA CRISEIDA DÍAZ PÉREZ, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN VALENCIA, ESPA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395909&managementType=1) | pendiente_verificacion_pdf |
-| 220-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395910&managementType=1) | pendiente_verificacion_pdf |
-| 221-20 | 16/06/2020 | 10978 | QUE DESIGNA A LA SEÑORA HEIDY VANESSA ALMONTE ACOSTA DE CORNELIO, VICECÓNSUL DE LA REPÚBLICA EN JUAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395911&managementType=1) | pendiente_verificacion_pdf |
-| 222-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR CONRAD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395912&managementType=1) | pendiente_verificacion_pdf |
-| 223-20 | 16/06/2020 | 10978 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395913&managementType=1) | pendiente_verificacion_pdf |
-| 224-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395914&managementType=1) | pendiente_verificacion_pdf |
-| 225-20 | 16/06/2020 | 10978 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO GRAN CRU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395915&managementType=1) | pendiente_verificacion_pdf |
-| 226-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR NEHEMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395916&managementType=1) | pendiente_verificacion_pdf |
-| 227-20 | 16/06/2020 | 10978 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 620.00 M2, DENTRO DE LA P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395917&managementType=1) | pendiente_verificacion_pdf |
-| 228--20 | 16/06/2020 | EN TRAMITE DE PUBLICACION EN GACETA OFICIAL | QUE ELEVA EL MONTO DE LA PENSION ASIGNADA POR EL ESTADO DOMINICANO AL DR. JOSE ARTURO SILIE RUIZ | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395918&managementType=1) | pendiente_verificacion_pdf |
-| 228-20 | 16/06/2020 | 10978 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO AL DR. JOSÉ ARTURO SILIÉ RUIZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395979&managementType=1) | pendiente_verificacion_pdf |
-| 229-20 | 16/06/2020 | 10978 | QUE AUTORIZA VARIAS EMISIONES DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395919&managementType=1) | pendiente_verificacion_pdf |
-| 230-20 | 22/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395927&managementType=1) | pendiente_verificacion_pdf |
-| 231-20 | 22/06/2020 | 10978 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395928&managementType=1) | pendiente_verificacion_pdf |
-| 232-20 | 25/06/2020 | 10978 | QUE DESIGNA A LA SEÑORA PERLA MAXIEL FORCHUE LIRIANO, AUXILIAR DEL CONSULADO DE LA REPÚBLICA DOMINIC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395933&managementType=1) | pendiente_verificacion_pdf |
-| 233-20 | 25/06/2020 | 10978 | QUE NOMBRA AL SEÑOR NADIN MIGUEL BEZI NICASIO, VICEMINISTRO DE ANÁLISIS ECONÓMICO Y SOCIAL DEL MINIS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395934&managementType=1) | pendiente_verificacion_pdf |
-| 234-20 | 25/06/2020 | 10978 | QUE DESIGNA AL SEÑOR LUIS ALBERTO PELÁEZ ANDINO, VICECÓNSUL DE LA REPÚBLICA DOMINICANA EN CABO HAITI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395935&managementType=1) | pendiente_verificacion_pdf |
-| 235-20 | 30/06/2020 | 10978 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES EN LOS PLANTELES DEL SISTEMA EDUCATIVO UNIVERSITARIO Y ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395936&managementType=1) | pendiente_verificacion_pdf |
-| 236-20 | 30/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395937&managementType=1) | pendiente_verificacion_pdf |
-| 237-20 | 01/07/2020 | 10979 | DISPONE QUE EN CUMPLIMIENTO DEL ARTÍCULO 31 DE LA LEY NO. 21-18, SOBRE REGULACIÓN DE LOS ESTADOS DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395939&managementType=1) | pendiente_verificacion_pdf |
-| 238-20 | 06/07/2020 | 10979 | QUE CREA E INTEGRA LA COMISIÓN DE TRANSICIÓN GUBERNAMENTAL. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395948&managementType=1) | pendiente_verificacion_pdf |
-| 239-20 | 06/07/2020 | 10979 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL NUMERAL 10, DEL ARTÍCU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395949&managementType=1) | pendiente_verificacion_pdf |
-| 240-20 | 06/07/2020 | 10979 | QUE DEROGA EL DEC. NO. 410-17, QUE NOMBRÓ AL SEÑOR AQUILES LEONEL LEDESMA ALCÁNTARA, EMBAJADOR EXTRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395950&managementType=1) | pendiente_verificacion_pdf |
-| 241-20 | 07/07/2020 | 10979 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395951&managementType=1) | pendiente_verificacion_pdf |
-| 242-20 | 08/07/2020 | 10979 | QUE AUTORIZA AL MINISTERIO DE HACIENDA A EFECTUAR LOS PAGOS CORRESPONDIENTES A LOS PROGRAMAS FASE I,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395952&managementType=1) | pendiente_verificacion_pdf |
-| 243-20 | 08/07/2020 | 10979 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395953&managementType=1) | pendiente_verificacion_pdf |
-| 244-20 | 08/07/2020 | 10979 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395954&managementType=1) | pendiente_verificacion_pdf |
-| 245-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395955&managementType=1) | pendiente_verificacion_pdf |
-| 246-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395956&managementType=1) | pendiente_verificacion_pdf |
-| 247-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395957&managementType=1) | pendiente_verificacion_pdf |
-| 248-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395958&managementType=1) | pendiente_verificacion_pdf |
-| 249-20 | 10/07/2020 | 10979 | QUE DESIGNA AL SEÑOR JUAN PABLO GARCÍA GARZA, CÓNSUL HONORARIO DE LA REPUBLICA EN MONTERREY, MÉXICO.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395959&managementType=1) | pendiente_verificacion_pdf |
-| 250-20 | 10/07/2020 | 10979 | QUE DEROGA VARIAS DISPOSICIONES QUE DEJAN SIN EFECTO LOS NOMBRAMIENTOS DEL DIRECTOR DE COMUNICACIONE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395960&managementType=1) | pendiente_verificacion_pdf |
-| 251-20 | 14/07/2020 | 10979 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 243-18 Y EL ARTÍCULO 14 DEL DEC. NO. 216-18, QUE DESIGNARON A ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395961&managementType=1) | pendiente_verificacion_pdf |
-| 252-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY NO. 42-08, GENERAL DE DEFENSA DE LA COMPETENCIA.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395962&managementType=1) | pendiente_verificacion_pdf |
-| 253-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE PRIVADO DE TRABAJADORES. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395963&managementType=1) | pendiente_verificacion_pdf |
-| 254-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE PLANES LABORALES DE SEGURIDAD VIAL Y MOVILIDAD A DESARROLLAR POR LAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395964&managementType=1) | pendiente_verificacion_pdf |
-| 255-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE TURÍSTICO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395965&managementType=1) | pendiente_verificacion_pdf |
-| 256-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE USO Y TRANSPORTE EN MOTOCICLETAS, BICICLETAS Y OTROS VEHÍCULOS DE MOV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395966&managementType=1) | pendiente_verificacion_pdf |
-| 257-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE ESCOLAR. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395967&managementType=1) | pendiente_verificacion_pdf |
-| 258-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DE TRANSPORTE DE CARGAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395968&managementType=1) | pendiente_verificacion_pdf |
-| 259-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE PLANES LOCALES DE SEGURIDAD VIAL Y MOVILIDAD A DESARROLLAR POR LOS MU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395969&managementType=1) | pendiente_verificacion_pdf |
-| 260-20 | 15/07/2020 | 10979 | QUE DEROGA DISPOSICIONES QUE NOMBRARON ASESORES DEL PODER EJECUTIVO, ASÍ COMO INTENDENTES-DELEGADOS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395970&managementType=1) | pendiente_verificacion_pdf |
-| 261-20 | 15/07/2020 | 10979 | QUE DESIGNA AL SEÑOR BASILIUS LLABALY DIVINI, CÓNSUL HONORARIO DE LA REPUBLICA DOMINICANA EN TEL AVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395971&managementType=1) | pendiente_verificacion_pdf |
-| 262-20 | 16/07/2020 | 10980 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIOS EXTRANJEROS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395972&managementType=1) | pendiente_verificacion_pdf |
-| 263-20 | 16/07/2020 | 10980 | QUE ASCIENDE A LOS CORONELES ERD (DEM) RAFAEL VÁSQUEZ ESPÍNOLA, JOSÉ MANUEL DURÁN INFANTE, RICARDO A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396013&managementType=1) | pendiente_verificacion_pdf |
-| 264-20 | 16/07/2020 | 10980 | QUE ASCIENDE A LOS CORONELES LICENCIADOS PABLO FRANCISCO ORTEGA BRITO, EDDY FRANCISCO PÉREZ PERALTA,... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396014&managementType=1) | pendiente_verificacion_pdf |
-| 265-20 | 20/07/2020 | 10980 | QUE DECLARA EL TERRITORIO NACIONAL EN ESTADO DE EMERGENCIA POR UN PERÍODO DE CUARENTICINCO (45) DÍAS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395980&managementType=1) | pendiente_verificacion_pdf |
-| 266-20 | 20/07/2020 | 10980 | QUE ESTABLECE EL TOQUE DE QUEDA DE LUNES A VIERNES DE 7:00 PM A 5:00 AM, Y LOS SÁBADOS Y DOMINGOS DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395981&managementType=1) | pendiente_verificacion_pdf |
-| 267-20 | 20/07/2020 | 10980 | QUE MODIFICA EL NUMERAL 10 DEL ARTÍCULO 1 DEL DEC. NO. 266-20, PARA QUE EN VEZ DE SAN JUAN DE LA MAG... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395982&managementType=1) | pendiente_verificacion_pdf |
-| 268-20 | 21/07/2020 | 10980 | QUE DEROGA LOS ARTÍCULOS 3 Y 4 DEL DEC. NO. 30-13, QUE NOMBRARON A LOS SEÑORES MILCÍADES ALCÁNTARA A... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395983&managementType=1) | pendiente_verificacion_pdf |
-| 269-20 | 21/07/2020 | 10980 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395984&managementType=1) | pendiente_verificacion_pdf |
-| 270-20 | 21/07/2020 | 10980 | QUE APRUEBA EL ESTABLECIMIENTO DEL AEROPUERTO INTERNACIONAL DE BÁVARO, EN EL PARAJE DE TRES PIEZAS, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395985&managementType=1) | pendiente_verificacion_pdf |
-| 271-20 | 21/07/2020 | 10980 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395986&managementType=1) | pendiente_verificacion_pdf |
-| 272-20 | 22/07/2020 | 10980 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE VARIOS ASESORES DEL PODER EJECUTIVO Y SECRETARIOS DE ESTADO SIN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396015&managementType=1) | pendiente_verificacion_pdf |
-| 273-20 | 22/07/2020 | 10980 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ASÍ COMO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396016&managementType=1) | pendiente_verificacion_pdf |
-| 274-20 | 27/07/2020 | 10980 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR VÍCTOR RAM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396034&managementType=1) | pendiente_verificacion_pdf |
-| 275-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396035&managementType=1) | pendiente_verificacion_pdf |
-| 276-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396036&managementType=1) | pendiente_verificacion_pdf |
-| 277-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396037&managementType=1) | pendiente_verificacion_pdf |
-| 278-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396038&managementType=1) | pendiente_verificacion_pdf |
-| 279-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396125&managementType=1) | pendiente_verificacion_pdf |
-| 280-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396039&managementType=1) | pendiente_verificacion_pdf |
-| 281-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396040&managementType=1) | pendiente_verificacion_pdf |
-| 282-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396041&managementType=1) | pendiente_verificacion_pdf |
-| 283-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA DRA. SANDR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396042&managementType=1) | pendiente_verificacion_pdf |
-| 284-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A LOS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396043&managementType=1) | pendiente_verificacion_pdf |
-| 285-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396044&managementType=1) | pendiente_verificacion_pdf |
-| 286-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A VARIOS EMPLEADO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396045&managementType=1) | pendiente_verificacion_pdf |
-| 287-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396046&managementType=1) | pendiente_verificacion_pdf |
-| 288-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A VARIOS ENVEJECI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396047&managementType=1) | pendiente_verificacion_pdf |
-| 289-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO POR ANTIGÜEDAD EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396048&managementType=1) | pendiente_verificacion_pdf |
-| 290-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396049&managementType=1) | pendiente_verificacion_pdf |
-| 291-20 | 31/07/2020 | 10982 | QUE ESTABLECE EL REGLAMENTO PARA LA ELECCIÓN DE LOS MIEMBROS DEL PLENO Y LA COMISIÓN EJECUTIVA DEL C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399514&managementType=1) | pendiente_verificacion_pdf |
-| 292-20 | 31/07/2020 | 10982 | QUE ESTABLECE EL REGLAMENTO DEL SERVICIO PÚBLICO DE TRANSPORTE TERRESTRE DE PASAJEROS URBANO | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399515&managementType=1) | pendiente_verificacion_pdf |
-| 294-20 | 03/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396054&managementType=1) | pendiente_verificacion_pdf |
-| 295-20 | 03/08/2020 | 10983 | QUE DEROGA LOS ARTÍCULOS 3 DEL DEC. NO. 648-08 Y 4 DEL DEC. NO. 426-09, QUE DESIGNARON A LOS SEÑORES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396055&managementType=1) | pendiente_verificacion_pdf |
-| 296-20 | 04/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396092&managementType=1) | pendiente_verificacion_pdf |
-| 297-20 | 07/08/2020 | 10983 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR FRANCISCO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396070&managementType=1) | pendiente_verificacion_pdf |
-| 298-20 | 08/08/2020 | 10983 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTICINCO (25) DÍAS A PARTIR DEL DOM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396093&managementType=1) | pendiente_verificacion_pdf |
-| 299-20 | 10/08/2020 | 10983 | QUE DESIGNA A SU EXCELENCIA REVERENDÍSIMA MONSEÑOR FRANCISCO OZORIA ACOSTA, MAYOR GENERAL CAPELLÁN C... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396094&managementType=1) | pendiente_verificacion_pdf |
-| 300-20 | 10/08/2020 | 10983 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR LUIS ROLAN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396071&managementType=1) | pendiente_verificacion_pdf |
-| 301-20 | 10/08/2020 | 10983 | QUE DEROGA EL DEC. NO. 283-17, QUE NOMBRÓ A LA SEÑORA MARIA DE LOS ÁNGELES GARCÍA, EMBAJADORA HONORI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396072&managementType=1) | pendiente_verificacion_pdf |
+| 201-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-201-2020.md) | normalizado · pendiente_revision |
+| 202-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-202-2020.md) | normalizado · pendiente_revision |
+| 203-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-203-2020.md) | normalizado · pendiente_revision |
+| 204-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-204-2020.md) | normalizado · pendiente_revision |
+| 205-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-205-2020.md) | normalizado · pendiente_revision |
+| 206-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-206-2020.md) | normalizado · pendiente_revision |
+| 207-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-207-2020.md) | normalizado · pendiente_revision |
+| 208-20 | 05/06/2020 | 10977 | QUE DESIGNA LOS GOBERNADORES CIVILES DE LAS PROVINCIAS: SAN PEDRO DE MACORÍS, SAN JOSÉ DE OCOA, MARI... | [Ver documento](decreto-208-2020.md) | normalizado · pendiente_revision |
+| 209-20 | 08/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-209-2020.md) | normalizado · pendiente_revision |
+| 210-20 | 08/06/2020 | 10977 | QUE PONE A CARGO DEL MINISTERIO DE AGRICULTURA Y SUS DEPENDENCIAS, TODAS LAS MEDIDAS RELACIONADAS CO... | [Ver registro](decreto-210-2020.md) · [Fuente 3395900](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395900&managementType=1) | pendiente_encontrar_pdf · pendiente_revision |
+| 211-20 | 10/06/2020 | 10977 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN... | [Ver documento](decreto-211-2020.md) | normalizado · pendiente_revision |
+| 212-20 | 10/06/2020 | 10977 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 637-10, QUE DESIGNÓ A LA SEÑORA SONIA ALTAGRACIA VARGAS, COMO ... | [Ver documento](decreto-212-2020.md) | normalizado · pendiente_revision |
+| 213-20 | 12/06/2020 | 10977 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DIECISIETE (17) DÍAS, CONTAD... | [Ver documento](decreto-213-2020.md) | normalizado · pendiente_revision |
+| 214-20 | 12/06/2020 | 10977 | QUE RATIFICA TODAS LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE EL 1... | [Ver documento](decreto-214-2020.md) | normalizado · pendiente_revision |
+| 215-20 | 15/06/2020 | 10978 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 104-12, QUE NOMBRÓ AL SEÑOR NELSON ROSARIO, COMO SUBADMINISTRA... | [Ver documento](decreto-215-2020.md) | normalizado · pendiente_revision |
+| 216-20 | 16/06/2020 | 10978 | QUE CREA LA RED NACIONAL DE SERVICIOS DE SANGRE, COMO EL CONJUNTO DE SERVICIOS DE BANCOS DE SANGRE Y... | [Ver documento](decreto-216-2020.md) | normalizado · pendiente_revision |
+| 217-20 | 16/06/2020 | 10978 | DISPONE QUE LA DIRECCIÓN GENERAL DE EMERGENCIAS MÉDICAS, ÓRGANO DESCONCENTRADO DEL MINISTERIO DE SAL... | [Ver documento](decreto-217-2020.md) | normalizado · pendiente_revision |
+| 218-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Ver documento](decreto-218-2020.md) | normalizado · pendiente_revision |
+| 219-20 | 16/06/2020 | 10978 | QUE NOMBRA A LA SEÑORA CRISEIDA DÍAZ PÉREZ, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN VALENCIA, ESPA... | [Ver documento](decreto-219-2020.md) | normalizado · pendiente_revision |
+| 220-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-220-2020.md) | normalizado · pendiente_revision |
+| 221-20 | 16/06/2020 | 10978 | QUE DESIGNA A LA SEÑORA HEIDY VANESSA ALMONTE ACOSTA DE CORNELIO, VICECÓNSUL DE LA REPÚBLICA EN JUAN... | [Ver documento](decreto-221-2020.md) | normalizado · pendiente_revision |
+| 222-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR CONRAD... | [Ver documento](decreto-222-2020.md) | normalizado · pendiente_revision |
+| 223-20 | 16/06/2020 | 10978 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-223-2020.md) | normalizado · pendiente_revision |
+| 224-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Ver documento](decreto-224-2020.md) | normalizado · pendiente_revision |
+| 225-20 | 16/06/2020 | 10978 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO GRAN CRU... | [Ver documento](decreto-225-2020.md) | normalizado · pendiente_revision |
+| 226-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR NEHEMI... | [Ver documento](decreto-226-2020.md) | normalizado · pendiente_revision |
+| 227-20 | 16/06/2020 | 10978 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 620.00 M2, DENTRO DE LA P... | [Ver documento](decreto-227-2020.md) | normalizado · pendiente_revision |
+| 228--20 | 16/06/2020 | EN TRAMITE DE PUBLICACION EN GACETA OFICIAL | QUE ELEVA EL MONTO DE LA PENSION ASIGNADA POR EL ESTADO DOMINICANO AL DR. JOSE ARTURO SILIE RUIZ | [Ver documento](decreto-228-2020.md) · [Fuente 3395918](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395918&managementType=1) | fuente oficial complementaria archivada · pendiente_revision |
+| 228-20 | 16/06/2020 | 10978 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO AL DR. JOSÉ ARTURO SILIÉ RUIZ. | [Ver documento](decreto-228-2020.md) · [Fuente 3395979](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395979&managementType=1) | normalizado con 2 rendiciones oficiales · pendiente_revision |
+| 229-20 | 16/06/2020 | 10978 | QUE AUTORIZA VARIAS EMISIONES DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Ver documento](decreto-229-2020.md) | normalizado · pendiente_revision |
+| 230-20 | 22/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-230-2020.md) | normalizado · pendiente_revision |
+| 231-20 | 22/06/2020 | 10978 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES ... | [Ver documento](decreto-231-2020.md) | normalizado · pendiente_revision |
+| 232-20 | 25/06/2020 | 10978 | QUE DESIGNA A LA SEÑORA PERLA MAXIEL FORCHUE LIRIANO, AUXILIAR DEL CONSULADO DE LA REPÚBLICA DOMINIC... | [Ver documento](decreto-232-2020.md) | normalizado · pendiente_revision |
+| 233-20 | 25/06/2020 | 10978 | QUE NOMBRA AL SEÑOR NADIN MIGUEL BEZI NICASIO, VICEMINISTRO DE ANÁLISIS ECONÓMICO Y SOCIAL DEL MINIS... | [Ver documento](decreto-233-2020.md) | normalizado · pendiente_revision |
+| 234-20 | 25/06/2020 | 10978 | QUE DESIGNA AL SEÑOR LUIS ALBERTO PELÁEZ ANDINO, VICECÓNSUL DE LA REPÚBLICA DOMINICANA EN CABO HAITI... | [Ver documento](decreto-234-2020.md) | normalizado · pendiente_revision |
+| 235-20 | 30/06/2020 | 10978 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES EN LOS PLANTELES DEL SISTEMA EDUCATIVO UNIVERSITARIO Y ... | [Ver documento](decreto-235-2020.md) | normalizado · pendiente_revision |
+| 236-20 | 30/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-236-2020.md) | normalizado · pendiente_revision |
+| 237-20 | 01/07/2020 | 10979 | DISPONE QUE EN CUMPLIMIENTO DEL ARTÍCULO 31 DE LA LEY NO. 21-18, SOBRE REGULACIÓN DE LOS ESTADOS DE ... | [Ver documento](decreto-237-2020.md) | normalizado · pendiente_revision |
+| 238-20 | 06/07/2020 | 10979 | QUE CREA E INTEGRA LA COMISIÓN DE TRANSICIÓN GUBERNAMENTAL. | [Ver documento](decreto-238-2020.md) | normalizado · pendiente_revision |
+| 239-20 | 06/07/2020 | 10979 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL NUMERAL 10, DEL ARTÍCU... | [Ver documento](decreto-239-2020.md) | normalizado · pendiente_revision |
+| 240-20 | 06/07/2020 | 10979 | QUE DEROGA EL DEC. NO. 410-17, QUE NOMBRÓ AL SEÑOR AQUILES LEONEL LEDESMA ALCÁNTARA, EMBAJADOR EXTRA... | [Ver documento](decreto-240-2020.md) | normalizado · pendiente_revision |
+| 241-20 | 07/07/2020 | 10979 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-241-2020.md) | normalizado · pendiente_revision |
+| 242-20 | 08/07/2020 | 10979 | QUE AUTORIZA AL MINISTERIO DE HACIENDA A EFECTUAR LOS PAGOS CORRESPONDIENTES A LOS PROGRAMAS FASE I,... | [Ver documento](decreto-242-2020.md) | normalizado · pendiente_revision |
+| 243-20 | 08/07/2020 | 10979 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-243-2020.md) | normalizado · pendiente_revision |
+| 244-20 | 08/07/2020 | 10979 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-244-2020.md) | normalizado · pendiente_revision |
+| 245-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-245-2020.md) | normalizado · pendiente_revision |
+| 246-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Ver documento](decreto-246-2020.md) | normalizado · pendiente_revision |
+| 247-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-247-2020.md) | normalizado · pendiente_revision |
+| 248-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-248-2020.md) | normalizado · pendiente_revision |
+| 249-20 | 10/07/2020 | 10979 | QUE DESIGNA AL SEÑOR JUAN PABLO GARCÍA GARZA, CÓNSUL HONORARIO DE LA REPUBLICA EN MONTERREY, MÉXICO.... | [Ver documento](decreto-249-2020.md) | normalizado · pendiente_revision |
+| 250-20 | 10/07/2020 | 10979 | QUE DEROGA VARIAS DISPOSICIONES QUE DEJAN SIN EFECTO LOS NOMBRAMIENTOS DEL DIRECTOR DE COMUNICACIONE... | [Ver documento](decreto-250-2020.md) | normalizado · pendiente_revision |
+| 251-20 | 14/07/2020 | 10979 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 243-18 Y EL ARTÍCULO 14 DEL DEC. NO. 216-18, QUE DESIGNARON A ... | [Ver documento](decreto-251-2020.md) | normalizado · pendiente_revision |
+| 252-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY NO. 42-08, GENERAL DE DEFENSA DE LA COMPETENCIA.... | [Ver documento](decreto-252-2020.md) | normalizado · pendiente_revision |
+| 253-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE PRIVADO DE TRABAJADORES. | [Ver documento](decreto-253-2020.md) | normalizado · pendiente_revision |
+| 254-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE PLANES LABORALES DE SEGURIDAD VIAL Y MOVILIDAD A DESARROLLAR POR LAS ... | [Ver documento](decreto-254-2020.md) | normalizado · pendiente_revision |
+| 255-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE TURÍSTICO. | [Ver documento](decreto-255-2020.md) | normalizado · pendiente_revision |
+| 256-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE USO Y TRANSPORTE EN MOTOCICLETAS, BICICLETAS Y OTROS VEHÍCULOS DE MOV... | [Ver documento](decreto-256-2020.md) | normalizado · pendiente_revision |
+| 257-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE ESCOLAR. | [Ver documento](decreto-257-2020.md) | normalizado · pendiente_revision |
+| 258-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DE TRANSPORTE DE CARGAS. | [Ver documento](decreto-258-2020.md) | normalizado · pendiente_revision |
+| 259-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE PLANES LOCALES DE SEGURIDAD VIAL Y MOVILIDAD A DESARROLLAR POR LOS MU... | [Ver documento](decreto-259-2020.md) | normalizado · pendiente_revision |
+| 260-20 | 15/07/2020 | 10979 | QUE DEROGA DISPOSICIONES QUE NOMBRARON ASESORES DEL PODER EJECUTIVO, ASÍ COMO INTENDENTES-DELEGADOS ... | [Ver documento](decreto-260-2020.md) | normalizado · pendiente_revision |
+| 261-20 | 15/07/2020 | 10979 | QUE DESIGNA AL SEÑOR BASILIUS LLABALY DIVINI, CÓNSUL HONORARIO DE LA REPUBLICA DOMINICANA EN TEL AVI... | [Ver documento](decreto-261-2020.md) | normalizado · pendiente_revision |
+| 262-20 | 16/07/2020 | 10980 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIOS EXTRANJEROS. | [Ver documento](decreto-262-2020.md) | normalizado · pendiente_revision |
+| 263-20 | 16/07/2020 | 10980 | QUE ASCIENDE A LOS CORONELES ERD (DEM) RAFAEL VÁSQUEZ ESPÍNOLA, JOSÉ MANUEL DURÁN INFANTE, RICARDO A... | [Ver documento](decreto-263-2020.md) | normalizado · pendiente_revision |
+| 264-20 | 16/07/2020 | 10980 | QUE ASCIENDE A LOS CORONELES LICENCIADOS PABLO FRANCISCO ORTEGA BRITO, EDDY FRANCISCO PÉREZ PERALTA,... | [Ver documento](decreto-264-2020.md) | normalizado · pendiente_revision |
+| 265-20 | 20/07/2020 | 10980 | QUE DECLARA EL TERRITORIO NACIONAL EN ESTADO DE EMERGENCIA POR UN PERÍODO DE CUARENTICINCO (45) DÍAS... | [Ver documento](decreto-265-2020.md) | normalizado · pendiente_revision |
+| 266-20 | 20/07/2020 | 10980 | QUE ESTABLECE EL TOQUE DE QUEDA DE LUNES A VIERNES DE 7:00 PM A 5:00 AM, Y LOS SÁBADOS Y DOMINGOS DE... | [Ver documento](decreto-266-2020.md) | normalizado · pendiente_revision |
+| 267-20 | 20/07/2020 | 10980 | QUE MODIFICA EL NUMERAL 10 DEL ARTÍCULO 1 DEL DEC. NO. 266-20, PARA QUE EN VEZ DE SAN JUAN DE LA MAG... | [Ver documento](decreto-267-2020.md) | normalizado · pendiente_revision |
+| 268-20 | 21/07/2020 | 10980 | QUE DEROGA LOS ARTÍCULOS 3 Y 4 DEL DEC. NO. 30-13, QUE NOMBRARON A LOS SEÑORES MILCÍADES ALCÁNTARA A... | [Ver documento](decreto-268-2020.md) | normalizado · pendiente_revision |
+| 269-20 | 21/07/2020 | 10980 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Ver documento](decreto-269-2020.md) | normalizado · pendiente_revision |
+| 270-20 | 21/07/2020 | 10980 | QUE APRUEBA EL ESTABLECIMIENTO DEL AEROPUERTO INTERNACIONAL DE BÁVARO, EN EL PARAJE DE TRES PIEZAS, ... | [Ver documento](decreto-270-2020.md) | normalizado · pendiente_revision |
+| 271-20 | 21/07/2020 | 10980 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Ver documento](decreto-271-2020.md) | normalizado · pendiente_revision |
+| 272-20 | 22/07/2020 | 10980 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE VARIOS ASESORES DEL PODER EJECUTIVO Y SECRETARIOS DE ESTADO SIN... | [Ver documento](decreto-272-2020.md) | normalizado · pendiente_revision |
+| 273-20 | 22/07/2020 | 10980 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ASÍ COMO DE ... | [Ver documento](decreto-273-2020.md) | normalizado · pendiente_revision |
+| 274-20 | 27/07/2020 | 10980 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR VÍCTOR RAM... | [Ver documento](decreto-274-2020.md) | normalizado · pendiente_revision |
+| 275-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-275-2020.md) | normalizado · pendiente_revision |
+| 276-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-276-2020.md) | normalizado · pendiente_revision |
+| 277-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-277-2020.md) | normalizado · pendiente_revision |
+| 278-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Ver documento](decreto-278-2020.md) | normalizado · pendiente_revision |
+| 279-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-279-2020.md) | normalizado · pendiente_revision |
+| 280-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Ver documento](decreto-280-2020.md) | normalizado · pendiente_revision |
+| 281-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-281-2020.md) | normalizado · pendiente_revision |
+| 282-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-282-2020.md) | normalizado · pendiente_revision |
+| 283-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA DRA. SANDR... | [Ver documento](decreto-283-2020.md) | normalizado · pendiente_revision |
+| 284-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A LOS ... | [Ver documento](decreto-284-2020.md) | normalizado · pendiente_revision |
+| 285-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-285-2020.md) | normalizado · pendiente_revision |
+| 286-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A VARIOS EMPLEADO... | [Ver documento](decreto-286-2020.md) | normalizado · pendiente_revision |
+| 287-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-287-2020.md) | normalizado · pendiente_revision |
+| 288-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A VARIOS ENVEJECI... | [Ver documento](decreto-288-2020.md) | normalizado · pendiente_revision |
+| 289-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO POR ANTIGÜEDAD EN... | [Ver documento](decreto-289-2020.md) | normalizado · pendiente_revision |
+| 290-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMI... | [Ver documento](decreto-290-2020.md) | normalizado · pendiente_revision |
+| 291-20 | 31/07/2020 | 10982 | QUE ESTABLECE EL REGLAMENTO PARA LA ELECCIÓN DE LOS MIEMBROS DEL PLENO Y LA COMISIÓN EJECUTIVA DEL C... | [Ver documento](decreto-291-2020.md) | normalizado · pendiente_revision |
+| 292-20 | 31/07/2020 | 10982 | QUE ESTABLECE EL REGLAMENTO DEL SERVICIO PÚBLICO DE TRANSPORTE TERRESTRE DE PASAJEROS URBANO | [Ver documento](decreto-292-2020.md) | normalizado · pendiente_revision |
+| 294-20 | 03/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-294-2020.md) | normalizado · pendiente_revision |
+| 295-20 | 03/08/2020 | 10983 | QUE DEROGA LOS ARTÍCULOS 3 DEL DEC. NO. 648-08 Y 4 DEL DEC. NO. 426-09, QUE DESIGNARON A LOS SEÑORES... | [Ver documento](decreto-295-2020.md) | normalizado · pendiente_revision |
+| 296-20 | 04/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-296-2020.md) | normalizado · pendiente_revision |
+| 297-20 | 07/08/2020 | 10983 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR FRANCISCO ... | [Ver documento](decreto-297-2020.md) | normalizado · pendiente_revision |
+| 298-20 | 08/08/2020 | 10983 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTICINCO (25) DÍAS A PARTIR DEL DOM... | [Ver documento](decreto-298-2020.md) | normalizado · pendiente_revision |
+| 299-20 | 10/08/2020 | 10983 | QUE DESIGNA A SU EXCELENCIA REVERENDÍSIMA MONSEÑOR FRANCISCO OZORIA ACOSTA, MAYOR GENERAL CAPELLÁN C... | [Ver documento](decreto-299-2020.md) | normalizado · pendiente_revision |
+| 300-20 | 10/08/2020 | 10983 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR LUIS ROLAN... | [Ver documento](decreto-300-2020.md) | normalizado · pendiente_revision |
+| 301-20 | 10/08/2020 | 10983 | QUE DEROGA EL DEC. NO. 283-17, QUE NOMBRÓ A LA SEÑORA MARIA DE LOS ÁNGELES GARCÍA, EMBAJADORA HONORI... | [Ver documento](decreto-301-2020.md) | normalizado · pendiente_revision |
 | 302-20 | 10/08/2020 | 10983 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 339-16, QUE DESIGNÓ A LA SEÑORA PASTORA LILLIE BERMÚDEZ IBARRA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396073&managementType=1) | pendiente_verificacion_pdf |
 | 303-20 | 10/08/2020 | EN TRAMITE DE PUBLICACION EN GACETA OFICIAL | QUE DISPONE LA ENTREGA EN EXTRADICION A LOS ESTADOS UNIDOS DE AMERICA DEL NACIONAL DOMINICANO JOSE F... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396074&managementType=1) | pendiente_verificacion_pdf |
 | 304-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO KELVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396075&managementType=1) | pendiente_verificacion_pdf |
