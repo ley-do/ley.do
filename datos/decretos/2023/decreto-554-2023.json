@@ -17,11 +17,15 @@
   "ruta_markdown": "docs/decretos/2023/decreto-554-2023.md",
   "ruta_json": "datos/decretos/2023/decreto-554-2023.json",
   "sha256_pdf_original": "0bc2bef4d20e74b0501e77774811c5dcdcf1a499106c8160fcf57fd373800d2a",
-  "sha256_markdown": "be24ef7732db2a80d744f899da773a73d1904a4a0339d4243fd07691053fce4f",
+  "sha256_markdown": "883fc905e2e2225dee72b38dbe6a48dd60a994ca17c44ab8adf130cc3c4fcb0b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial identifica el registro como 544-23; el PDF contiene el encabezado Dec. núm. 554-23. Texto extraído automáticamente; verificar contra el PDF.",
+  "numero_registro_fuente": "544-23",
+  "alertas_revision": [
+    "La metadata fuente dice 544-23; el encabezado del PDF confirma 554-23."
+  ]
 }
