@@ -609,6 +609,106 @@ Documentos detectados: **838**.
 - [Decreto núm. 599-2021](decreto-599-2021.md)
 - [Decreto núm. 600-2021](decreto-600-2021.md)
 - [Decreto núm. 601-2021](decreto-601-2021.md)
+- [Decreto núm. 602-2021](decreto-602-2021.md)
+- [Decreto núm. 603-2021](decreto-603-2021.md)
+- [Decreto núm. 604-2021](decreto-604-2021.md)
+- [Decreto núm. 605-2021](decreto-605-2021.md)
+- [Decreto núm. 606-2021](decreto-606-2021.md)
+- [Decreto núm. 607-2021](decreto-607-2021.md)
+- [Decreto núm. 608-2021](decreto-608-2021.md)
+- [Decreto núm. 609-2021](decreto-609-2021.md)
+- [Decreto núm. 610-2021](decreto-610-2021.md)
+- [Decreto núm. 611-2021](decreto-611-2021.md)
+- [Decreto núm. 612-2021](decreto-612-2021.md)
+- [Decreto núm. 613-2021](decreto-613-2021.md)
+- [Decreto núm. 614-2021](decreto-614-2021.md)
+- [Decreto núm. 615-2021](decreto-615-2021.md)
+- [Decreto núm. 616-2021](decreto-616-2021.md)
+- [Decreto núm. 617-2021](decreto-617-2021.md)
+- [Decreto núm. 618-2021](decreto-618-2021.md)
+- [Decreto núm. 619-2021](decreto-619-2021.md)
+- [Decreto núm. 620-2021](decreto-620-2021.md)
+- [Decreto núm. 621-2021](decreto-621-2021.md)
+- [Decreto núm. 622-2021](decreto-622-2021.md)
+- [Decreto núm. 623-2021](decreto-623-2021.md)
+- [Decreto núm. 624-2021](decreto-624-2021.md)
+- [Decreto núm. 625-2021](decreto-625-2021.md)
+- [Decreto núm. 626-2021](decreto-626-2021.md)
+- [Decreto núm. 627-2021](decreto-627-2021.md)
+- [Decreto núm. 628-2021](decreto-628-2021.md)
+- [Decreto núm. 629-2021](decreto-629-2021.md)
+- [Decreto núm. 630-2021](decreto-630-2021.md)
+- [Decreto núm. 631-2021](decreto-631-2021.md)
+- [Decreto núm. 632-2021](decreto-632-2021.md)
+- [Decreto núm. 633-2021](decreto-633-2021.md)
+- [Decreto núm. 634-2021](decreto-634-2021.md)
+- [Decreto núm. 635-2021](decreto-635-2021.md)
+- [Decreto núm. 636-2021](decreto-636-2021.md)
+- [Decreto núm. 637-2021](decreto-637-2021.md)
+- [Decreto núm. 638-2021](decreto-638-2021.md)
+- [Decreto núm. 639-2021](decreto-639-2021.md)
+- [Decreto núm. 640-2021](decreto-640-2021.md)
+- [Decreto núm. 641-2021](decreto-641-2021.md)
+- [Decreto núm. 642-2021](decreto-642-2021.md)
+- [Decreto núm. 643-2021](decreto-643-2021.md)
+- [Decreto núm. 644-2021](decreto-644-2021.md)
+- [Decreto núm. 645-2021](decreto-645-2021.md)
+- [Decreto núm. 646-2021](decreto-646-2021.md)
+- [Decreto núm. 647-2021](decreto-647-2021.md)
+- [Decreto núm. 648-2021](decreto-648-2021.md)
+- [Decreto núm. 649-2021](decreto-649-2021.md)
+- [Decreto núm. 650-2021](decreto-650-2021.md)
+- [Decreto núm. 651-2021](decreto-651-2021.md)
+- [Decreto núm. 652-2021](decreto-652-2021.md)
+- [Decreto núm. 653-2021](decreto-653-2021.md)
+- [Decreto núm. 654-2021](decreto-654-2021.md)
+- [Decreto núm. 655-2021](decreto-655-2021.md)
+- [Decreto núm. 656-2021](decreto-656-2021.md)
+- [Decreto núm. 657-2021](decreto-657-2021.md)
+- [Decreto núm. 658-2021](decreto-658-2021.md)
+- [Decreto núm. 659-2021](decreto-659-2021.md)
+- [Decreto núm. 660-2021](decreto-660-2021.md)
+- [Decreto núm. 661-2021](decreto-661-2021.md)
+- [Decreto núm. 662-2021](decreto-662-2021.md)
+- [Decreto núm. 663-2021](decreto-663-2021.md)
+- [Decreto núm. 664-2021](decreto-664-2021.md)
+- [Decreto núm. 665-2021](decreto-665-2021.md)
+- [Decreto núm. 666-2021](decreto-666-2021.md)
+- [Decreto núm. 667-2021](decreto-667-2021.md)
+- [Decreto núm. 668-2021](decreto-668-2021.md)
+- [Decreto núm. 669-2021](decreto-669-2021.md)
+- [Decreto núm. 670-2021](decreto-670-2021.md)
+- [Decreto núm. 671-2021](decreto-671-2021.md)
+- [Decreto núm. 672-2021](decreto-672-2021.md)
+- [Decreto núm. 673-2021](decreto-673-2021.md)
+- [Decreto núm. 674-2021](decreto-674-2021.md)
+- [Decreto núm. 675-2021](decreto-675-2021.md)
+- [Decreto núm. 676-2021](decreto-676-2021.md)
+- [Decreto núm. 677-2021](decreto-677-2021.md)
+- [Decreto núm. 678-2021](decreto-678-2021.md)
+- [Decreto núm. 679-2021](decreto-679-2021.md)
+- [Decreto núm. 680-2021](decreto-680-2021.md)
+- [Decreto núm. 681-2021](decreto-681-2021.md)
+- [Decreto núm. 683-2021](decreto-683-2021.md)
+- [Decreto núm. 684-2021](decreto-684-2021.md)
+- [Decreto núm. 685-2021](decreto-685-2021.md)
+- [Decreto núm. 686-2021](decreto-686-2021.md)
+- [Decreto núm. 687-2021](decreto-687-2021.md)
+- [Decreto núm. 688-2021](decreto-688-2021.md)
+- [Decreto núm. 689-2021](decreto-689-2021.md)
+- [Decreto núm. 690-2021](decreto-690-2021.md)
+- [Decreto núm. 691-2021](decreto-691-2021.md)
+- [Decreto núm. 692-2021](decreto-692-2021.md)
+- [Decreto núm. 693-2021](decreto-693-2021.md)
+- [Decreto núm. 694-2021](decreto-694-2021.md)
+- [Decreto núm. 695-2021](decreto-695-2021.md)
+- [Decreto núm. 696-2021](decreto-696-2021.md)
+- [Decreto núm. 697-2021](decreto-697-2021.md)
+- [Decreto núm. 698-2021](decreto-698-2021.md)
+- [Decreto núm. 699-2021](decreto-699-2021.md)
+- [Decreto núm. 700-2021](decreto-700-2021.md)
+- [Decreto núm. 701-2021](decreto-701-2021.md)
+- [Decreto núm. 702-2021](decreto-702-2021.md)
 
 ## Documentos detectados
 
@@ -1216,108 +1316,108 @@ Documentos detectados: **838**.
 | 599-21 | 27/09/2021 | 11038 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑOR JUAN PABLO DUARTE PÉREZ. | [Ver documento](decreto-599-2021.md) | normalizado · pendiente_revision |
 | 600-21 | 27/09/2021 | 11038 | QUE AUTORIZA AL CORONEL PARACAIDISTA KERVIS NICOLÁS DISLA GARCÍA FARD (DEM) (M.A), A ACEPTAR Y USAR ... | [Ver documento](decreto-600-2021.md) | normalizado · pendiente_revision |
 | 601-21 | 27/09/2021 | 11038 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 5-03, UNA PORCIÓN DE TERRENO DE 6,288.... | [Ver documento](decreto-601-2021.md) | normalizado · pendiente_revision |
-| 602-21 | 27/09/2021 | 11038 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, EN SEGUNDA CATEGORÍA, AL TENIENTE CORON... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398756&managementType=1) | pendiente_verificacion_pdf |
-| 603-21 | 27/09/2021 | 11038 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA POR EL DEC. NO. 5-03, UNA PORCIÓN DE TERRENO DE 600.00 METR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398735&managementType=1) | pendiente_verificacion_pdf |
-| 604-21 | 27/09/2021 | 11038 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398736&managementType=1) | pendiente_verificacion_pdf |
-| 605-21 | 27/09/2021 | 11038 | QUE DEROGA LOS DECRETOS NOS. 505-99 Y 569-12. CREA E INTEGRA LA COMISIÓN PARA LAS IMPORTACIONES AGRO... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398737&managementType=1) | pendiente_verificacion_pdf |
-| 606-21 | 27/09/2021 | 11038 | QUE CONSTITUYE EL FIDEICOMISO DE ADMINISTRACIÓN DEL FONDO DE COHESIÓN TERRITORIAL, EN VIRTUD DE LA L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398738&managementType=1) | pendiente_verificacion_pdf |
-| 607-21 | 27/09/2021 | 11038 | QUE DECLARA DE INTERÉS NACIONAL LA PREPARACIÓN, ORGANIZACIÓN, LEVANTAMIENTO, PROCEDIMIENTO Y DIFUSIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398700&managementType=1) | pendiente_verificacion_pdf |
-| 608-21 | 27/09/2021 | 11038 | QUE MODIFICA EL REGLAMENTO NO. 202-08 EN SUS ARTÍCULOS 39, 40, 41 42, 65 Y 66, PARA LA APLICACIÓN DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398739&managementType=1) | pendiente_verificacion_pdf |
-| 609-21 | 27/09/2021 | 11038 | QUE NOMBRA CINCO (5) VICEMINISTROS Y UN ASESOR EN EL MINISTERIO DE AGRICULTURA. DEROGA LOS ARTÍCULOS... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398701&managementType=1) | pendiente_verificacion_pdf |
-| 610-21 | 27/09/2021 | 11038 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 51-19. DECLARA DE UTILIDAD PÚBLICA UNA FRANJA DE TERRENO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398702&managementType=1) | pendiente_verificacion_pdf |
-| 611-21 | 27/09/2021 | 11038 | QUE DECLARA DE INTERÉS PÚBLICO LA CONSTRUCCIÓN Y PUESTA EN SERVICIO DEL SISTEMA DE CABLE AÉREO PARA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398740&managementType=1) | pendiente_verificacion_pdf |
-| 612-21 | 30/09/2021 | 11039 | QUE INSTRUYE A LOS MINISTERIOS DE INDUSTRIA Y COMERCIO Y DE RELACIONES EXTERIORES, ASÍ COMO AL CONSE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398746&managementType=1) | pendiente_verificacion_pdf |
-| 613-21 | 30/09/2021 | 11039 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS CON LA DENOMINA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398749&managementType=1) | pendiente_verificacion_pdf |
-| 614-21 | 30/09/2021 | 11039 | QUE DISPONE LA EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO NOEL REGALADO ARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398750&managementType=1) | pendiente_verificacion_pdf |
-| 615-21 | 30/09/2021 | 11039 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ARGENTINA DEL NACIONAL DOMINICANO JOEL RAMÍREZ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398751&managementType=1) | pendiente_verificacion_pdf |
-| 616-21 | 30/09/2021 | 11039 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ARCEN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398752&managementType=1) | pendiente_verificacion_pdf |
-| 617-21 | 30/09/2021 | 11039 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 368-15, ARTÍCULO 1, NUMERAL 13 Y DEL D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398753&managementType=1) | pendiente_verificacion_pdf |
-| 618-21 | 30/09/2021 | 11039 | QUE DESIGNA AL SEÑOR JULIO SIMÓN CASTAÑOS ZOUAIN, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO CONCUR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398747&managementType=1) | pendiente_verificacion_pdf |
-| 619-21 | 30/09/2021 | 11039 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398754&managementType=1) | pendiente_verificacion_pdf |
-| 620-21 | 30/09/2021 | 11039 | QUE MODIFICA EL NUMERAL 7 DEL ARTÍCULO 4 DEL DEC. NO. 514-21, QUE CONSTITUYÓ EL FIDEICOMISO PARA EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398748&managementType=1) | pendiente_verificacion_pdf |
-| 694-21 | 02/10/2021 | 11042 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A WILFREDO ALEMANY AVILA | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398817&managementType=1) | pendiente_verificacion_pdf |
-| 621-21 | 03/10/2021 | 11040 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES OTORGADAS POR EL ESTADO DOMINICANO A VARIOS PROFESI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398773&managementType=1) | pendiente_verificacion_pdf |
-| 622-21 | 08/10/2021 | 11040 | QUE LEVANTA EL ESTADO DE EMERGENCIA Y EL TOQUE DE QUEDA DECLARADO PARA COMBATIR LA COVID-19. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398775&managementType=1) | pendiente_verificacion_pdf |
-| 623-21 | 08/10/2021 | 11040 | QUE DESIGNA A ANA CECILIA MORUN SOLANO, PRESIDENTA EJECUTIVA DEL CONSEJO NACIONAL PARA LA NIÑEZ Y LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398776&managementType=1) | pendiente_verificacion_pdf |
-| 624-21 | 08/10/2021 | 11040 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A SANTIAGO DE JESÚS DE JESÚS.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398774&managementType=1) | pendiente_verificacion_pdf |
-| 625-21 | 08/10/2021 | 11040 | QUE ELEVA EL MONTO DE PENSIONES ASIGNADAS POR EL ESTADO DOMINICANO A VARIAS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398777&managementType=1) | pendiente_verificacion_pdf |
-| 626-21 | 08/10/2021 | 11040 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CUATRO PERSONAS. ELEVA EL MONTO DE LA PENSI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398778&managementType=1) | pendiente_verificacion_pdf |
-| 627-21 | 08/10/2021 | 11040 | QUE APRUEBA EL REGLAMENTO DE LA LEY SECTORIAL FORESTAL NO. 57-18, DEL 10 DE OCTUBRE DE 2018. CREA E ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398779&managementType=1) | pendiente_verificacion_pdf |
-| 628-21 | 08/10/2021 | 11041 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 452-18, VARIOS INMUEBLES EN EL MUNICIPIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398781&managementType=1) | pendiente_verificacion_pdf |
-| 629-21 | 08/10/2021 | 11041 | QUE CONCEDE EL BENEFICIO DE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398784&managementType=1) | pendiente_verificacion_pdf |
-| 630-21 | 08/10/2021 | 11041 | QUE NOMBRA CINCO (5) EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS, CONCURRENTES, DE LA REPÚBLICA ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398785&managementType=1) | pendiente_verificacion_pdf |
-| 631-21 | 08/10/2021 | 11041 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE LA ESTACIÓ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398786&managementType=1) | pendiente_verificacion_pdf |
-| 632-21 | 11/10/2021 | 11041 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑOR JOSÉ ANTONIO MONTERO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398787&managementType=1) | pendiente_verificacion_pdf |
-| 633-21 | 11/10/2021 | 11041 | QUE NOMBRA A ELEUTERIO MARTÍNEZ ALCÁNTARA, ASESOR DEL PODER EJECUTIVO PARA EL CINTURÓN VERDE DE SANT... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398788&managementType=1) | pendiente_verificacion_pdf |
-| 634-21 | 11/10/2021 | 11041 | QUE NOMBRA A PAULA MERCEDES DISLA ACOSTA, VICEMINISTRA DE RELACIONES INTERNACIONALES DEL MINISTERIO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398789&managementType=1) | pendiente_verificacion_pdf |
-| 635-21 | 11/10/2021 | 11041 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE CARBÓN MINERAL, PARA EL ABASTECIMIENTO DE ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398790&managementType=1) | pendiente_verificacion_pdf |
-| 636-21 | 12/10/2021 | 11041 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 375-20. INTEGRA NUEVAMENTE EL CONSEJO UNIFICADO DE LAS EMPRE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398791&managementType=1) | pendiente_verificacion_pdf |
-| 637-21 | 12/10/2021 | 11041 | QUE ESTABLECE EL REGLAMENTO SOBRE EL ESTABLECIMIENTO DEL EQUILIBRO ECONÓMICO FINANCIERO DE LOS CONTR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398792&managementType=1) | pendiente_verificacion_pdf |
-| 638-21 | 15/10/2021 | 11041 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 467-20, QUE DESIGNÓ A JUAN MALDONADO CASTRO, DIRECTOR EJECUTIV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398793&managementType=1) | pendiente_verificacion_pdf |
-| 639-21 | 15/10/2021 | 11041 | QUE INTRODUCE MODIFICACIONES AL DEC. NO. 3230 DEL AÑO 1973, QUE ESTABLECE EL REGLAMENTO DEL FONDO ES... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398794&managementType=1) | pendiente_verificacion_pdf |
-| 640-21 | 15/10/2021 | 11041 | QUE CONCEDE EL BENEFICIO PENSIONES ESPECIALES DEL ESTADO DOMINICANO A DOS PERSONAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398795&managementType=1) | pendiente_verificacion_pdf |
-| 641-21 | 15/10/2021 | 11041 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL 1983, ARTÍCULO 1, LITERAL 1, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398796&managementType=1) | pendiente_verificacion_pdf |
-| 642-21 | 15/10/2021 | 11041 | QUE RECONOCE EL COMPROMISO EXISTENTE ENTRE EL ESTADO DOMINICANO Y EL ESTADO JAPONÉS, EN RELACIÓN A L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398797&managementType=1) | pendiente_verificacion_pdf |
-| 643-21 | 15/10/2021 | 11041 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398798&managementType=1) | pendiente_verificacion_pdf |
-| 644-21 | 15/10/2021 | 11041 | QUE ELEVA A LA SUMA DE RD$50,000.00 LAS PENSIONES ASIGNADAS POR EL ESTADO DOMINICANAS A VARIOS SERVI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398799&managementType=1) | pendiente_verificacion_pdf |
-| 645-21 | 15/10/2021 | 11041 | QUE CREA EL SISTEMA NACIONAL DE SEGURIDAD CIUDADANA, BAJO LA RECTORÍA DEL MINISTERIO DE INTERIOR Y P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398800&managementType=1) | pendiente_verificacion_pdf |
-| 646-21 | 15/10/2021 | 11041 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL 1983, ARTÍCULO 1, LITERAL 1, ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398801&managementType=1) | pendiente_verificacion_pdf |
-| 647-21 | 15/10/2021 | 11041 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A MAGA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398802&managementType=1) | pendiente_verificacion_pdf |
-| 648-21 | 15/10/2021 | 11041 | QUE NOMBRA A ISIDORO DE LA ROSA OGANDO, ASESOR DEL PODER EJECUTIVO EN MATERIA DE CACAO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398803&managementType=1) | pendiente_verificacion_pdf |
-| 649-21 | 15/10/2021 | 11041 | QUE DESIGNA A HENRY ROSA POLANCO, DIRECTOR NACIONAL DEL CENTRO DE ATENCIÓN INTEGRAL PARA LA DISCAPAC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398804&managementType=1) | pendiente_verificacion_pdf |
-| 650-21 | 15/10/2021 | 11041 | QUE DESIGNA A EDGAR RAFAEL PICHARDO DEBOYRIE, ASESOR HONORÍFICO DEL PODER EJECUTIVO EN MATERIA DE EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398805&managementType=1) | pendiente_verificacion_pdf |
-| 651-21 | 15/10/2021 | 11041 | QUE DESIGNA SEIS (6) MIEMBROS DEL CONSEJO DIRECTIVO DEL INSTITUTO NACIONAL DE PROTECCIÓN DE LOS DERE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398782&managementType=1) | pendiente_verificacion_pdf |
-| 652-21 | 15/10/2021 | 11041 | QUE NOMBRA A EDUARDO F. MARTÍNEZ-LIMA G., MIEMBRO DEL INSTITUTO AZUCARERO DOMINICANO, EN REPRESENTAC... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398806&managementType=1) | pendiente_verificacion_pdf |
-| 653-21 | 15/10/2021 | 11041 | QUE NOMBRA FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398807&managementType=1) | pendiente_verificacion_pdf |
-| 654-21 | 15/10/2021 | 11041 | QUE DESIGNA A ALFREDO ARIAS COLLADO, ASESOR HONORÍFICO DEL PODER EJECUTIVO PARA EL FOMENTO DE LA EXP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398808&managementType=1) | pendiente_verificacion_pdf |
-| 655-21 | 15/10/2021 | 11041 | QUE ESTABLECE EL REGLAMENTO DEL PACTO NACIONAL PARA LA REFORMA DEL SECTOR ELÉCTRICO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398783&managementType=1) | pendiente_verificacion_pdf |
-| 656-21 | 17/10/2021 | 11042 | QUE ASCIENDE AL GENERAL EDUARDO ALBERTO THEN, PN, A MAYOR GENERAL Y LO DESIGNA DIRECTOR GENERAL DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398820&managementType=1) | pendiente_verificacion_pdf |
-| 657-21 | 18/10/2021 | 11042 | 657-21 QUE NOMBRA A JOSÉ TOMÁS PÉREZ GAUTREAU, CONSEJERO EN LA EMBAJADA DE LA REPÚBLICA DOMINICANA E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398821&managementType=1) | pendiente_verificacion_pdf |
-| 658-21 | 18/10/2021 | 11042 | 658-21 QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398822&managementType=1) | pendiente_verificacion_pdf |
-| 659-21 | 19/10/2021 | 11042 | QUE CREA EL PARQUE NACIONAL LOMA LOS SIETE PICOS, BAJO LA CATEGORÍA II DE LA UNIÓN INTERNACIONAL PAR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398823&managementType=1) | pendiente_verificacion_pdf |
-| 660-21 | 19/10/2021 | 11042 | 660-21 QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE LA PENSIÓN CORRESPONDIENTE, A VARIOS OFICIA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398824&managementType=1) | pendiente_verificacion_pdf |
-| 661-21 | 19/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398825&managementType=1) | pendiente_verificacion_pdf |
-| 662-21 | 19/10/2021 | 11042 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL NUMERAL 5 DEL DEC. NO.... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398826&managementType=1) | pendiente_verificacion_pdf |
-| 663-21 | 19/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A JOSÉ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398827&managementType=1) | pendiente_verificacion_pdf |
-| 664-21 | 19/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN OTORGADA POR EL ESTADO DOMINICANO AL SEÑOR PABLO MORILLO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398828&managementType=1) | pendiente_verificacion_pdf |
-| 665-21 | 19/10/2021 | 11042 | QUE NOMBRA AL MAYOR GENERAL (R) EDWARD RAMÓN SÁNCHEZ GONZÁLEZ, PN, ASESOR HONORIFICO DEL PODER EJECU... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398829&managementType=1) | pendiente_verificacion_pdf |
-| 666-21 | 25/10/2021 | 11042 | QUE DESIGNA A EMELIN PUJOLS MELO, VICEPRESIDENTE DE LA COMISIÓN PRESIDENCIAL DE APOYO AL DESARROLLO ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398830&managementType=1) | pendiente_verificacion_pdf |
-| 667-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398831&managementType=1) | pendiente_verificacion_pdf |
-| 668-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398832&managementType=1) | pendiente_verificacion_pdf |
-| 669-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398833&managementType=1) | pendiente_verificacion_pdf |
-| 670-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398834&managementType=1) | pendiente_verificacion_pdf |
-| 671-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398835&managementType=1) | pendiente_verificacion_pdf |
-| 672-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398813&managementType=1) | pendiente_verificacion_pdf |
-| 673-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398836&managementType=1) | pendiente_verificacion_pdf |
-| 674-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A NELL... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398837&managementType=1) | pendiente_verificacion_pdf |
-| 675-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398814&managementType=1) | pendiente_verificacion_pdf |
-| 676-21 | 25/10/2021 | 11042 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398838&managementType=1) | pendiente_verificacion_pdf |
-| 677-21 | 26/10/2021 | 11042 | QUE NOMBRA A EFRAÍN BERNARDO TORIBIO MONES Y HECMILIO ARÍSTIDES GALVÁN CRUZ, PRESIDENTE Y DIRECTOR E... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398839&managementType=1) | pendiente_verificacion_pdf |
-| 678-21 | 27/10/2021 | 11042 | QUE INTEGRA LA DELEGACIÓN QUE REPRESENTARÁ LA REPÚBLICA ANTE LA 41º REUNIÓN DE LA CONFERENCIA GENERA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398840&managementType=1) | pendiente_verificacion_pdf |
-| 679-21 | 28/10/2021 | 11042 | QUE DEROGA EL DEC. NO. 351-20, QUE DESIGNÓ A SERAFIN CANARIO DE LA ROSA, ADMINISTRADOR GENERAL DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398841&managementType=1) | pendiente_verificacion_pdf |
-| 680-21 | 29/10/2021 | 11042 | QUE DEROGA EL DEC. NO. 722-20, QUE DESIGNÓ A PEDRO PABLO ACEVEDO, PRESIDENTE DEL CONSEJO NACIONAL DE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398842&managementType=1) | pendiente_verificacion_pdf |
-| 681-21 | 29/10/2021 | 11042 | QUE CONCEDE PENSIONES DEL ESTADO Y AUMENTA EL MONTO DE LAS PENSIONES CONCEDIDAS A PUPO VALOY Y GEORG... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398843&managementType=1) | pendiente_verificacion_pdf |
-| 683-21 | 29/10/2021 | 11042 | QUE DECLARA DE DUELO OFICIAL EL 31 DE OCTUBRE DE 2021, CON MOTIVO DEL FALLECIMIENTO DE REINALDO DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398844&managementType=1) | pendiente_verificacion_pdf |
-| 684-21 | 30/10/2021 | 11042 | QUE NOMBRA LOS DIRECTORES DEL CONSEJO DE GESTIÓN PRESIDENCIAL Y DE LA OFICINA DE GESTIÓN SOCIAL DE L... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398845&managementType=1) | pendiente_verificacion_pdf |
-| 685-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398846&managementType=1) | pendiente_verificacion_pdf |
-| 686-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398847&managementType=1) | pendiente_verificacion_pdf |
-| 687-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398848&managementType=1) | pendiente_verificacion_pdf |
-| 688-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398849&managementType=1) | pendiente_verificacion_pdf |
-| 689-21 | 30/10/2021 | 11042 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO GABRI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398850&managementType=1) | pendiente_verificacion_pdf |
-| 690-21 | 30/10/2021 | 11042 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO BIENV... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398851&managementType=1) | pendiente_verificacion_pdf |
-| 691-21 | 30/10/2021 | 11042 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RAFAE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398852&managementType=1) | pendiente_verificacion_pdf |
-| 693-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398853&managementType=1) | pendiente_verificacion_pdf |
-| 695-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO A JOSÉ UBALDO AÑE... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398854&managementType=1) | pendiente_verificacion_pdf |
-| 696-21 | 30/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE EL SEÑOR RAFAEL HUMBERTO BELLO ANDINO. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398855&managementType=1) | pendiente_verificacion_pdf |
-| 697-21 | 30/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE EL SEÑOR HÉCTOR JACINTO VIDAL. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398856&managementType=1) | pendiente_verificacion_pdf |
-| 698-21 | 30/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE PERCIBE LA SEÑORA ADA NILDA EUSEBIO RODRÍGUEZ. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398857&managementType=1) | pendiente_verificacion_pdf |
-| 699-21 | 30/10/2021 | 11042 | QUE DESIGNA A ANGEL BIENVENIDO MIESES GONZÁLEZ, DIRECTOR GENERAL DEL COMITÉ NACIONAL DE SALARIOS. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398858&managementType=1) | pendiente_verificacion_pdf |
-| 700-21 | 30/10/2021 | 11042 | NOMBRA A ELVIS ANTONIO ALAM LORA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO CONCURRENTE, DE LA REP... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398859&managementType=1) | pendiente_verificacion_pdf |
-| 701-21 | 30/10/2021 | 11042 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398818&managementType=1) | pendiente_verificacion_pdf |
-| 702-21 | 30/10/2021 | 11042 | 702-21 QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398819&managementType=1) | pendiente_verificacion_pdf |
+| 602-21 | 27/09/2021 | 11038 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR, EN SEGUNDA CATEGORÍA, AL TENIENTE CORON... | [Ver documento](decreto-602-2021.md) | normalizado · pendiente_revision |
+| 603-21 | 27/09/2021 | 11038 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA POR EL DEC. NO. 5-03, UNA PORCIÓN DE TERRENO DE 600.00 METR... | [Ver documento](decreto-603-2021.md) | normalizado · pendiente_revision |
+| 604-21 | 27/09/2021 | 11038 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO. | [Ver documento](decreto-604-2021.md) | normalizado · pendiente_revision |
+| 605-21 | 27/09/2021 | 11038 | QUE DEROGA LOS DECRETOS NOS. 505-99 Y 569-12. CREA E INTEGRA LA COMISIÓN PARA LAS IMPORTACIONES AGRO... | [Ver documento](decreto-605-2021.md) | normalizado · pendiente_revision |
+| 606-21 | 27/09/2021 | 11038 | QUE CONSTITUYE EL FIDEICOMISO DE ADMINISTRACIÓN DEL FONDO DE COHESIÓN TERRITORIAL, EN VIRTUD DE LA L... | [Ver documento](decreto-606-2021.md) | normalizado · pendiente_revision |
+| 607-21 | 27/09/2021 | 11038 | QUE DECLARA DE INTERÉS NACIONAL LA PREPARACIÓN, ORGANIZACIÓN, LEVANTAMIENTO, PROCEDIMIENTO Y DIFUSIÓ... | [Ver documento](decreto-607-2021.md) | normalizado · pendiente_revision |
+| 608-21 | 27/09/2021 | 11038 | QUE MODIFICA EL REGLAMENTO NO. 202-08 EN SUS ARTÍCULOS 39, 40, 41 42, 65 Y 66, PARA LA APLICACIÓN DE... | [Ver documento](decreto-608-2021.md) | normalizado · pendiente_revision |
+| 609-21 | 27/09/2021 | 11038 | QUE NOMBRA CINCO (5) VICEMINISTROS Y UN ASESOR EN EL MINISTERIO DE AGRICULTURA. DEROGA LOS ARTÍCULOS... | [Ver documento](decreto-609-2021.md) | normalizado · pendiente_revision |
+| 610-21 | 27/09/2021 | 11038 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 51-19. DECLARA DE UTILIDAD PÚBLICA UNA FRANJA DE TERRENO DE ... | [Ver documento](decreto-610-2021.md) | normalizado · pendiente_revision |
+| 611-21 | 27/09/2021 | 11038 | QUE DECLARA DE INTERÉS PÚBLICO LA CONSTRUCCIÓN Y PUESTA EN SERVICIO DEL SISTEMA DE CABLE AÉREO PARA ... | [Ver documento](decreto-611-2021.md) | normalizado · pendiente_revision |
+| 612-21 | 30/09/2021 | 11039 | QUE INSTRUYE A LOS MINISTERIOS DE INDUSTRIA Y COMERCIO Y DE RELACIONES EXTERIORES, ASÍ COMO AL CONSE... | [Ver documento](decreto-612-2021.md) | normalizado · pendiente_revision |
+| 613-21 | 30/09/2021 | 11039 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS CON LA DENOMINA... | [Ver documento](decreto-613-2021.md) | normalizado · pendiente_revision |
+| 614-21 | 30/09/2021 | 11039 | QUE DISPONE LA EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL NACIONAL DOMINICANO NOEL REGALADO ARI... | [Ver documento](decreto-614-2021.md) | normalizado · pendiente_revision |
+| 615-21 | 30/09/2021 | 11039 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA ARGENTINA DEL NACIONAL DOMINICANO JOEL RAMÍREZ ... | [Ver documento](decreto-615-2021.md) | normalizado · pendiente_revision |
+| 616-21 | 30/09/2021 | 11039 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ARCEN... | [Ver documento](decreto-616-2021.md) | normalizado · pendiente_revision |
+| 617-21 | 30/09/2021 | 11039 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 368-15, ARTÍCULO 1, NUMERAL 13 Y DEL D... | [Ver documento](decreto-617-2021.md) | normalizado · pendiente_revision |
+| 618-21 | 30/09/2021 | 11039 | QUE DESIGNA AL SEÑOR JULIO SIMÓN CASTAÑOS ZOUAIN, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO CONCUR... | [Ver documento](decreto-618-2021.md) | normalizado · pendiente_revision |
+| 619-21 | 30/09/2021 | 11039 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-619-2021.md) | normalizado · pendiente_revision |
+| 620-21 | 30/09/2021 | 11039 | QUE MODIFICA EL NUMERAL 7 DEL ARTÍCULO 4 DEL DEC. NO. 514-21, QUE CONSTITUYÓ EL FIDEICOMISO PARA EL ... | [Ver documento](decreto-620-2021.md) | normalizado · pendiente_revision |
+| 694-21 | 02/10/2021 | 11042 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO A WILFREDO ALEMANY AVILA | [Ver documento](decreto-694-2021.md) | normalizado · pendiente_revision |
+| 621-21 | 03/10/2021 | 11040 | QUE CONCEDE EL BENEFICIO DE PENSIONES ESPECIALES OTORGADAS POR EL ESTADO DOMINICANO A VARIOS PROFESI... | [Ver documento](decreto-621-2021.md) | normalizado · pendiente_revision |
+| 622-21 | 08/10/2021 | 11040 | QUE LEVANTA EL ESTADO DE EMERGENCIA Y EL TOQUE DE QUEDA DECLARADO PARA COMBATIR LA COVID-19. | [Ver documento](decreto-622-2021.md) | normalizado · pendiente_revision |
+| 623-21 | 08/10/2021 | 11040 | QUE DESIGNA A ANA CECILIA MORUN SOLANO, PRESIDENTA EJECUTIVA DEL CONSEJO NACIONAL PARA LA NIÑEZ Y LA... | [Ver documento](decreto-623-2021.md) | normalizado · pendiente_revision |
+| 624-21 | 08/10/2021 | 11040 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A SANTIAGO DE JESÚS DE JESÚS.... | [Ver documento](decreto-624-2021.md) | normalizado · pendiente_revision |
+| 625-21 | 08/10/2021 | 11040 | QUE ELEVA EL MONTO DE PENSIONES ASIGNADAS POR EL ESTADO DOMINICANO A VARIAS PERSONAS. | [Ver documento](decreto-625-2021.md) | normalizado · pendiente_revision |
+| 626-21 | 08/10/2021 | 11040 | QUE CONCEDE PENSIONES ESPECIALES DEL ESTADO DOMINICANO A CUATRO PERSONAS. ELEVA EL MONTO DE LA PENSI... | [Ver documento](decreto-626-2021.md) | normalizado · pendiente_revision |
+| 627-21 | 08/10/2021 | 11040 | QUE APRUEBA EL REGLAMENTO DE LA LEY SECTORIAL FORESTAL NO. 57-18, DEL 10 DE OCTUBRE DE 2018. CREA E ... | [Ver documento](decreto-627-2021.md) | normalizado · pendiente_revision |
+| 628-21 | 08/10/2021 | 11041 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 452-18, VARIOS INMUEBLES EN EL MUNICIPIO ... | [Ver documento](decreto-628-2021.md) | normalizado · pendiente_revision |
+| 629-21 | 08/10/2021 | 11041 | QUE CONCEDE EL BENEFICIO DE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SE... | [Ver documento](decreto-629-2021.md) | normalizado · pendiente_revision |
+| 630-21 | 08/10/2021 | 11041 | QUE NOMBRA CINCO (5) EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS, CONCURRENTES, DE LA REPÚBLICA ... | [Ver documento](decreto-630-2021.md) | normalizado · pendiente_revision |
+| 631-21 | 08/10/2021 | 11041 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL, PARA SER DESTINADA A LA CONSTRUCCIÓN DE LA ESTACIÓ... | [Ver documento](decreto-631-2021.md) | normalizado · pendiente_revision |
+| 632-21 | 11/10/2021 | 11041 | QUE CONCEDE UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑOR JOSÉ ANTONIO MONTERO. | [Ver documento](decreto-632-2021.md) | normalizado · pendiente_revision |
+| 633-21 | 11/10/2021 | 11041 | QUE NOMBRA A ELEUTERIO MARTÍNEZ ALCÁNTARA, ASESOR DEL PODER EJECUTIVO PARA EL CINTURÓN VERDE DE SANT... | [Ver documento](decreto-633-2021.md) | normalizado · pendiente_revision |
+| 634-21 | 11/10/2021 | 11041 | QUE NOMBRA A PAULA MERCEDES DISLA ACOSTA, VICEMINISTRA DE RELACIONES INTERNACIONALES DEL MINISTERIO ... | [Ver documento](decreto-634-2021.md) | normalizado · pendiente_revision |
+| 635-21 | 11/10/2021 | 11041 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE CARBÓN MINERAL, PARA EL ABASTECIMIENTO DE ... | [Ver documento](decreto-635-2021.md) | normalizado · pendiente_revision |
+| 636-21 | 12/10/2021 | 11041 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 375-20. INTEGRA NUEVAMENTE EL CONSEJO UNIFICADO DE LAS EMPRE... | [Ver documento](decreto-636-2021.md) | normalizado · pendiente_revision |
+| 637-21 | 12/10/2021 | 11041 | QUE ESTABLECE EL REGLAMENTO SOBRE EL ESTABLECIMIENTO DEL EQUILIBRO ECONÓMICO FINANCIERO DE LOS CONTR... | [Ver documento](decreto-637-2021.md) | normalizado · pendiente_revision |
+| 638-21 | 15/10/2021 | 11041 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 467-20, QUE DESIGNÓ A JUAN MALDONADO CASTRO, DIRECTOR EJECUTIV... | [Ver documento](decreto-638-2021.md) | normalizado · pendiente_revision |
+| 639-21 | 15/10/2021 | 11041 | QUE INTRODUCE MODIFICACIONES AL DEC. NO. 3230 DEL AÑO 1973, QUE ESTABLECE EL REGLAMENTO DEL FONDO ES... | [Ver documento](decreto-639-2021.md) | normalizado · pendiente_revision |
+| 640-21 | 15/10/2021 | 11041 | QUE CONCEDE EL BENEFICIO PENSIONES ESPECIALES DEL ESTADO DOMINICANO A DOS PERSONAS. | [Ver documento](decreto-640-2021.md) | normalizado · pendiente_revision |
+| 641-21 | 15/10/2021 | 11041 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL 1983, ARTÍCULO 1, LITERAL 1, ... | [Ver documento](decreto-641-2021.md) | normalizado · pendiente_revision |
+| 642-21 | 15/10/2021 | 11041 | QUE RECONOCE EL COMPROMISO EXISTENTE ENTRE EL ESTADO DOMINICANO Y EL ESTADO JAPONÉS, EN RELACIÓN A L... | [Ver documento](decreto-642-2021.md) | normalizado · pendiente_revision |
+| 643-21 | 15/10/2021 | 11041 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN ... | [Ver documento](decreto-643-2021.md) | normalizado · pendiente_revision |
+| 644-21 | 15/10/2021 | 11041 | QUE ELEVA A LA SUMA DE RD$50,000.00 LAS PENSIONES ASIGNADAS POR EL ESTADO DOMINICANAS A VARIOS SERVI... | [Ver documento](decreto-644-2021.md) | normalizado · pendiente_revision |
+| 645-21 | 15/10/2021 | 11041 | QUE CREA EL SISTEMA NACIONAL DE SEGURIDAD CIUDADANA, BAJO LA RECTORÍA DEL MINISTERIO DE INTERIOR Y P... | [Ver documento](decreto-645-2021.md) | normalizado · pendiente_revision |
+| 646-21 | 15/10/2021 | 11041 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 1400 DEL 1983, ARTÍCULO 1, LITERAL 1, ... | [Ver documento](decreto-646-2021.md) | normalizado · pendiente_revision |
+| 647-21 | 15/10/2021 | 11041 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A MAGA... | [Ver documento](decreto-647-2021.md) | normalizado · pendiente_revision |
+| 648-21 | 15/10/2021 | 11041 | QUE NOMBRA A ISIDORO DE LA ROSA OGANDO, ASESOR DEL PODER EJECUTIVO EN MATERIA DE CACAO. | [Ver documento](decreto-648-2021.md) | normalizado · pendiente_revision |
+| 649-21 | 15/10/2021 | 11041 | QUE DESIGNA A HENRY ROSA POLANCO, DIRECTOR NACIONAL DEL CENTRO DE ATENCIÓN INTEGRAL PARA LA DISCAPAC... | [Ver documento](decreto-649-2021.md) | normalizado · pendiente_revision |
+| 650-21 | 15/10/2021 | 11041 | QUE DESIGNA A EDGAR RAFAEL PICHARDO DEBOYRIE, ASESOR HONORÍFICO DEL PODER EJECUTIVO EN MATERIA DE EN... | [Ver documento](decreto-650-2021.md) | normalizado · pendiente_revision |
+| 651-21 | 15/10/2021 | 11041 | QUE DESIGNA SEIS (6) MIEMBROS DEL CONSEJO DIRECTIVO DEL INSTITUTO NACIONAL DE PROTECCIÓN DE LOS DERE... | [Ver documento](decreto-651-2021.md) | normalizado · pendiente_revision |
+| 652-21 | 15/10/2021 | 11041 | QUE NOMBRA A EDUARDO F. MARTÍNEZ-LIMA G., MIEMBRO DEL INSTITUTO AZUCARERO DOMINICANO, EN REPRESENTAC... | [Ver documento](decreto-652-2021.md) | normalizado · pendiente_revision |
+| 653-21 | 15/10/2021 | 11041 | QUE NOMBRA FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-653-2021.md) | normalizado · pendiente_revision |
+| 654-21 | 15/10/2021 | 11041 | QUE DESIGNA A ALFREDO ARIAS COLLADO, ASESOR HONORÍFICO DEL PODER EJECUTIVO PARA EL FOMENTO DE LA EXP... | [Ver documento](decreto-654-2021.md) | normalizado · pendiente_revision |
+| 655-21 | 15/10/2021 | 11041 | QUE ESTABLECE EL REGLAMENTO DEL PACTO NACIONAL PARA LA REFORMA DEL SECTOR ELÉCTRICO. | [Ver documento](decreto-655-2021.md) | normalizado · pendiente_revision |
+| 656-21 | 17/10/2021 | 11042 | QUE ASCIENDE AL GENERAL EDUARDO ALBERTO THEN, PN, A MAYOR GENERAL Y LO DESIGNA DIRECTOR GENERAL DE L... | [Ver documento](decreto-656-2021.md) | normalizado · pendiente_revision |
+| 657-21 | 18/10/2021 | 11042 | 657-21 QUE NOMBRA A JOSÉ TOMÁS PÉREZ GAUTREAU, CONSEJERO EN LA EMBAJADA DE LA REPÚBLICA DOMINICANA E... | [Ver documento](decreto-657-2021.md) | normalizado · pendiente_revision |
+| 658-21 | 18/10/2021 | 11042 | 658-21 QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL S... | [Ver documento](decreto-658-2021.md) | normalizado · pendiente_revision |
+| 659-21 | 19/10/2021 | 11042 | QUE CREA EL PARQUE NACIONAL LOMA LOS SIETE PICOS, BAJO LA CATEGORÍA II DE LA UNIÓN INTERNACIONAL PAR... | [Ver documento](decreto-659-2021.md) | normalizado · pendiente_revision |
+| 660-21 | 19/10/2021 | 11042 | 660-21 QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE LA PENSIÓN CORRESPONDIENTE, A VARIOS OFICIA... | [Ver documento](decreto-660-2021.md) | normalizado · pendiente_revision |
+| 661-21 | 19/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-661-2021.md) | normalizado · pendiente_revision |
+| 662-21 | 19/10/2021 | 11042 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL NUMERAL 5 DEL DEC. NO.... | [Ver documento](decreto-662-2021.md) | normalizado · pendiente_revision |
+| 663-21 | 19/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A JOSÉ... | [Ver documento](decreto-663-2021.md) | normalizado · pendiente_revision |
+| 664-21 | 19/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN OTORGADA POR EL ESTADO DOMINICANO AL SEÑOR PABLO MORILLO. | [Ver documento](decreto-664-2021.md) | normalizado · pendiente_revision |
+| 665-21 | 19/10/2021 | 11042 | QUE NOMBRA AL MAYOR GENERAL (R) EDWARD RAMÓN SÁNCHEZ GONZÁLEZ, PN, ASESOR HONORIFICO DEL PODER EJECU... | [Ver documento](decreto-665-2021.md) | normalizado · pendiente_revision |
+| 666-21 | 25/10/2021 | 11042 | QUE DESIGNA A EMELIN PUJOLS MELO, VICEPRESIDENTE DE LA COMISIÓN PRESIDENCIAL DE APOYO AL DESARROLLO ... | [Ver documento](decreto-666-2021.md) | normalizado · pendiente_revision |
+| 667-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-667-2021.md) | normalizado · pendiente_revision |
+| 668-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-668-2021.md) | normalizado · pendiente_revision |
+| 669-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-669-2021.md) | normalizado · pendiente_revision |
+| 670-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-670-2021.md) | normalizado · pendiente_revision |
+| 671-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-671-2021.md) | normalizado · pendiente_revision |
+| 672-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-672-2021.md) | normalizado · pendiente_revision |
+| 673-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO A VARIAS PERSONAS. ELEVA EL ... | [Ver documento](decreto-673-2021.md) | normalizado · pendiente_revision |
+| 674-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A NELL... | [Ver documento](decreto-674-2021.md) | normalizado · pendiente_revision |
+| 675-21 | 25/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-675-2021.md) | normalizado · pendiente_revision |
+| 676-21 | 25/10/2021 | 11042 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-676-2021.md) | normalizado · pendiente_revision |
+| 677-21 | 26/10/2021 | 11042 | QUE NOMBRA A EFRAÍN BERNARDO TORIBIO MONES Y HECMILIO ARÍSTIDES GALVÁN CRUZ, PRESIDENTE Y DIRECTOR E... | [Ver documento](decreto-677-2021.md) | normalizado · pendiente_revision |
+| 678-21 | 27/10/2021 | 11042 | QUE INTEGRA LA DELEGACIÓN QUE REPRESENTARÁ LA REPÚBLICA ANTE LA 41º REUNIÓN DE LA CONFERENCIA GENERA... | [Ver documento](decreto-678-2021.md) | normalizado · pendiente_revision |
+| 679-21 | 28/10/2021 | 11042 | QUE DEROGA EL DEC. NO. 351-20, QUE DESIGNÓ A SERAFIN CANARIO DE LA ROSA, ADMINISTRADOR GENERAL DE LA... | [Ver documento](decreto-679-2021.md) | normalizado · pendiente_revision |
+| 680-21 | 29/10/2021 | 11042 | QUE DEROGA EL DEC. NO. 722-20, QUE DESIGNÓ A PEDRO PABLO ACEVEDO, PRESIDENTE DEL CONSEJO NACIONAL DE... | [Ver documento](decreto-680-2021.md) | normalizado · pendiente_revision |
+| 681-21 | 29/10/2021 | 11042 | QUE CONCEDE PENSIONES DEL ESTADO Y AUMENTA EL MONTO DE LAS PENSIONES CONCEDIDAS A PUPO VALOY Y GEORG... | [Ver documento](decreto-681-2021.md) | normalizado · pendiente_revision |
+| 683-21 | 29/10/2021 | 11042 | QUE DECLARA DE DUELO OFICIAL EL 31 DE OCTUBRE DE 2021, CON MOTIVO DEL FALLECIMIENTO DE REINALDO DE L... | [Ver documento](decreto-683-2021.md) | normalizado · pendiente_revision |
+| 684-21 | 30/10/2021 | 11042 | QUE NOMBRA LOS DIRECTORES DEL CONSEJO DE GESTIÓN PRESIDENCIAL Y DE LA OFICINA DE GESTIÓN SOCIAL DE L... | [Ver documento](decreto-684-2021.md) | normalizado · pendiente_revision |
+| 685-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-685-2021.md) | normalizado · pendiente_revision |
+| 686-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-686-2021.md) | normalizado · pendiente_revision |
+| 687-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-687-2021.md) | normalizado · pendiente_revision |
+| 688-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-688-2021.md) | normalizado · pendiente_revision |
+| 689-21 | 30/10/2021 | 11042 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO GABRI... | [Ver documento](decreto-689-2021.md) | normalizado · pendiente_revision |
+| 690-21 | 30/10/2021 | 11042 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO BIENV... | [Ver documento](decreto-690-2021.md) | normalizado · pendiente_revision |
+| 691-21 | 30/10/2021 | 11042 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RAFAE... | [Ver documento](decreto-691-2021.md) | normalizado · pendiente_revision |
+| 693-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE PENSIONES SOLIDARIAS DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE SE... | [Ver documento](decreto-693-2021.md) | normalizado · pendiente_revision |
+| 695-21 | 30/10/2021 | 11042 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO A JOSÉ UBALDO AÑE... | [Ver documento](decreto-695-2021.md) | normalizado · pendiente_revision |
+| 696-21 | 30/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE EL SEÑOR RAFAEL HUMBERTO BELLO ANDINO. | [Ver documento](decreto-696-2021.md) | normalizado · pendiente_revision |
+| 697-21 | 30/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE RECIBE EL SEÑOR HÉCTOR JACINTO VIDAL. | [Ver documento](decreto-697-2021.md) | normalizado · pendiente_revision |
+| 698-21 | 30/10/2021 | 11042 | QUE ELEVA EL MONTO DE LA PENSIÓN DEL ESTADO QUE PERCIBE LA SEÑORA ADA NILDA EUSEBIO RODRÍGUEZ. | [Ver documento](decreto-698-2021.md) | normalizado · pendiente_revision |
+| 699-21 | 30/10/2021 | 11042 | QUE DESIGNA A ANGEL BIENVENIDO MIESES GONZÁLEZ, DIRECTOR GENERAL DEL COMITÉ NACIONAL DE SALARIOS. | [Ver documento](decreto-699-2021.md) | normalizado · pendiente_revision |
+| 700-21 | 30/10/2021 | 11042 | NOMBRA A ELVIS ANTONIO ALAM LORA, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO CONCURRENTE, DE LA REP... | [Ver documento](decreto-700-2021.md) | normalizado · pendiente_revision |
+| 701-21 | 30/10/2021 | 11042 | QUE OTORGA EXECUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES | [Ver documento](decreto-701-2021.md) | normalizado · pendiente_revision |
+| 702-21 | 30/10/2021 | 11042 | 702-21 QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES | [Ver documento](decreto-702-2021.md) | normalizado · pendiente_revision |
 | 703-21 | 30/10/2021 | 11042 | QUE DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRENO DE 62.000.00 METROS CUADRADOS, DENTRO DE LA P... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398860&managementType=1) | pendiente_verificacion_pdf |
 | 704-21 | 01/11/2021 | 11043 | QUE DEROGA EL ARTÍCULO 18 DEL DEC. NO.340-20, QUE DESIGNÓ A ELSA ARGENTINA DE LEÓN ABREU, GOBERNADOR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398891&managementType=1) | pendiente_verificacion_pdf |
-| 692-21 | 02/11/2021 | 11042 | QUE EXTIENDE POR UN PERÍODO DE 10 AÑOS Y LA AMPLIACIÓN DEL PROYECTO DE MANEJO DE LAS CUENCAS ALTAS D... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398816&managementType=1) | pendiente_verificacion_pdf |
+| 692-21 | 02/11/2021 | 11042 | QUE EXTIENDE POR UN PERÍODO DE 10 AÑOS Y LA AMPLIACIÓN DEL PROYECTO DE MANEJO DE LAS CUENCAS ALTAS D... | [Ver documento](decreto-692-2021.md) | normalizado · pendiente_revision |
 | 705-21 | 03/11/2021 | 11043 | QUE CREA E INTEGRA UNA COMISIÓN TÉCNICOFORESTAL, PRESIDIDA POR EL MINISTRO DE MEDIO AMBIENTE Y RECUR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398885&managementType=1) | pendiente_verificacion_pdf |
 | 706-21 | 04/11/2021 | 11043 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO.1681 DEL 1983. DISPONE QUE LA ZONA FRANCA INDUSTRIAL DE LA PR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398892&managementType=1) | pendiente_verificacion_pdf |
 | 707-21 | 04/11/2021 | 11043 | QUE NOMBRA A HELEN DAHIANA MEDINA GARCÍA Y MARCOS JESÚS COLÓN ARACHE, SUBDIRECTORES FINANCIERA Y ADM... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398893&managementType=1) | pendiente_verificacion_pdf |
