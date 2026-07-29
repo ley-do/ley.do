@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "172",
+  "anio": "2019",
+  "titulo": "que designa a la señora Patricia Paola Santos Cruz, consejera de la Embajada de la República Dominicana en el Reino de España. G. O. No.10942 del 20 de mayo de 2019. DANILO MEDINA",
+  "fecha": "10/05/2019",
+  "gaceta_oficial": "10942",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393676&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393676&managementType=1",
+  "document_id_consultoria": "3393676",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-172-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-172-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-172-2019.json",
+  "sha256_pdf_original": "5eaa15a2e32d4944e109c51ac3e60e1c9716467a4862770e2b21b138101aa297",
+  "sha256_markdown": "b02f68d1fc925dd3314efa51ebafa03c870ea636a256282010d24a27fda0ea80",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    173
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "172-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

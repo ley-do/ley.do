@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "262",
+  "anio": "2019",
+  "titulo": "que amplía la vigencia de la Comisión Presidencial para la Reforma Municipal hasta el 24 de abril de 2020. Modifica los artículos 1, 2, 3 y 6 del Dec. No. 85-15 del 22 de abril de 2015, y establece que esta comisión tendrá una vigencia de cinco (5) años. Adiciona como miembros de la misma a la Cámara de Cuentas, a la Asociación Dominicana de Regidores y a un representante de la sociedad civil dominicana. G. O. No. 10948 del 25 de julio de 2019. DANILO MEDINA",
+  "fecha": "17/07/2019",
+  "gaceta_oficial": "10948",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395782&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395782&managementType=1",
+  "document_id_consultoria": "3395782",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-262-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-262-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-262-2019.json",
+  "sha256_pdf_original": "012cba9e36ebab6238c2ba32b030a507a7c5c8b68eec07c77af15cd845c6cebd",
+  "sha256_markdown": "26b310817aa3daf41994a97a8510253ed6ea59513a401668b5693438d50ac9af",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    263
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "262-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

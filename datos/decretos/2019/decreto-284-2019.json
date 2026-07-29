@@ -1,0 +1,53 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "284",
+  "anio": "2019",
+  "titulo": "que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10951 del 22 de agosto de 2019. DANILO MEDINA",
+  "fecha": "12/08/2019",
+  "gaceta_oficial": "10951",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393988&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393988&managementType=1",
+  "document_id_consultoria": "3393988",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-284-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-284-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-284-2019.json",
+  "sha256_pdf_original": "19fd85293d7d08bd2930125d95c53ca705e53194dbd12d90f854e2a330cac15a",
+  "sha256_markdown": "29c1882e5ead171434429987d7626c2c4ddc98175e4668def9efda76a9e657c6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "284-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3393988",
+      "rol_archivistico": "pdf_canonico",
+      "ruta_pdf_local": "archivos/decretos/2019/decreto-284-2019.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393988&managementType=2",
+      "sha256_pdf": "19fd85293d7d08bd2930125d95c53ca705e53194dbd12d90f854e2a330cac15a",
+      "capa_texto": true,
+      "paginas": 40
+    },
+    {
+      "document_id_consultoria": "3395753",
+      "rol_archivistico": "duplicado_visual_oficial_complementario",
+      "ruta_pdf_local": "archivos/decretos/2019/decreto-284-2019-fuente-3395753.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395753&managementType=2",
+      "sha256_pdf": "460457387ca5c77307fa4b7750badf3830a734b50da7f62dabb7fde116706b0f",
+      "capa_texto": true,
+      "paginas": 40,
+      "observacion": "Texto y renderizado coinciden con la rendición canónica; el binario y el ID oficial son distintos."
+    }
+  ]
+}

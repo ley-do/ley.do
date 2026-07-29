@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "311",
+  "anio": "2019",
+  "titulo": "que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10953 del 12 de septiembre de 2019. DANILO MEDINA",
+  "fecha": "03/09/2019",
+  "gaceta_oficial": "10953",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394061&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394061&managementType=1",
+  "document_id_consultoria": "3394061",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-311-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-311-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-311-2019.json",
+  "sha256_pdf_original": "53aebfa54c67d9f18a538a530f63c07fdc88593d103bd8cd38a97ccdd4d01092",
+  "sha256_markdown": "80aa7a1360290a3467e915b7a0635c72413c4b222b3c9022ba8a06fc9475d0c3",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "311-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

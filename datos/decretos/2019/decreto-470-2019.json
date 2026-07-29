@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "470",
+  "anio": "2019",
+  "titulo": "que modifica el párrafo del artículo 2 y el artículo 3 y sus párrafos I, II y III del Dec. No. 167-19, que dispuso transferir al Estado dominicano las 285,982 acciones propiedad de la Corporación Dominicana de Empresas Estatales (CORDE) en la Falconbridge Dominicana, S.A. G. O. No. 10964 del 20 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10964",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395403&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395403&managementType=1",
+  "document_id_consultoria": "3395403",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-470-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-470-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-470-2019.json",
+  "sha256_pdf_original": "61d487871bbc5065424ac140b3fd0ced4c1e64e30b18c3c39ab2177b1bc28729",
+  "sha256_markdown": "e87d0fcffa63b54fccc9c82eb668853a14917c8d11340351e3f4370fe5be88ef",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    471
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "470-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

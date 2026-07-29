@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "418",
+  "anio": "2019",
+  "titulo": "que modifica los artículos 5 y 7 del Dec. No. 373-17, que estableció el Premio Nacional de Artes Visuales. Establece una dotación económica de un millón de pesos dominicanos (RD$1,000,000.00) a favor de cada uno de los galardonados. G. O. No. 10961 del 2 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "22/11/2019",
+  "gaceta_oficial": "10961",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395298&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395298&managementType=1",
+  "document_id_consultoria": "3395298",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-418-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-418-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-418-2019.json",
+  "sha256_pdf_original": "1eb7f5e63df5e88bd2d806251aabfb372be0e9cebdf9d1526a86200743fb1356",
+  "sha256_markdown": "beb4c89034bd81ce17281c6feb1c3cfd24c8da3e0524fc1bfe30db0cda774941",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    419
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "418-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

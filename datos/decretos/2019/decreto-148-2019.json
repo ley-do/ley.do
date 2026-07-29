@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "148",
+  "anio": "2019",
+  "titulo": "que nombra al Dr. Manuel de Jesús Méndez, director ejecutivo de la Administradora de Riesgos de Salud para Maestros (ARS SEMMA). G. O. No. 10940 del 22 de abril de 2019. DANILO MEDINA",
+  "fecha": "17/04/2019",
+  "gaceta_oficial": "10940",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393616&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393616&managementType=1",
+  "document_id_consultoria": "3393616",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-148-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-148-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-148-2019.json",
+  "sha256_pdf_original": "faf0733ed3c6c52bd2b8d6387318a2589215d6dd3050e67fee87aa8cdeb28a0c",
+  "sha256_markdown": "b295098a029985151339f1dc34755eb63a5f7843e7bbde17bd9be9d62972b8ce",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    149
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "148-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

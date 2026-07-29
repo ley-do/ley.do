@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "308",
+  "anio": "2019",
+  "titulo": "que declara de utilidad pública e interés social la adquisición por parte del Estado dominicano, de varias porciones de terrenos en distintos municipios del país, para ser utilizadas en la construcción de edificaciones escolares. G. O. No. 10953 del 12 de septiembre de 2019. DANILO MEDINA",
+  "fecha": "03/09/2019",
+  "gaceta_oficial": "10953",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394058&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394058&managementType=1",
+  "document_id_consultoria": "3394058",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-308-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-308-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-308-2019.json",
+  "sha256_pdf_original": "34e48a784dc798ad2be6d0f8a6c401e43cb57e3bd4741c004ab92b6a6ed95c97",
+  "sha256_markdown": "22c61591396e39c20d17244f93d2e24e9ec743098e130d685247d92ae4a03c31",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "308-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

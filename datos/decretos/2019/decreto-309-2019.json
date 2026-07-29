@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "309",
+  "anio": "2019",
+  "titulo": "que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10953 del 12 de septiembre de 2019. DANILO MEDINA",
+  "fecha": "03/09/2019",
+  "gaceta_oficial": "10953",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394059&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394059&managementType=1",
+  "document_id_consultoria": "3394059",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-309-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-309-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-309-2019.json",
+  "sha256_pdf_original": "47fb5629b00b59e1395b193d0a0e23a6c6b76773d321fa911caee4b42eab9c24",
+  "sha256_markdown": "b5a2b2a671b512eabf56b59f7eb3b893b1b72a7a725c4085fb349058e2278c3c",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    310
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "309-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

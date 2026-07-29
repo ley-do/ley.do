@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "344",
+  "anio": "2019",
+  "titulo": "que nombra a los señores Manuel Alsina de Castro, Félix Manuel Medina Medina y Aura Estela Fernández Plata, ministro sin cartera para Políticas de Desarrollo, director ejecutivo de la Comisión Presidencial de Política Farmacéutica Nacional y directora general de Comunidad Digna, respectivamente. G. O. No. 10958 del 30 de octubre de 2019. DANILO MEDINA",
+  "fecha": "18/10/2019",
+  "gaceta_oficial": "10958",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394246&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394246&managementType=1",
+  "document_id_consultoria": "3394246",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-344-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-344-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-344-2019.json",
+  "sha256_pdf_original": "b2c6c4f92577ce55d9ff1b347489a308c8726a3dc94304d5bc0127080d8cf860",
+  "sha256_markdown": "092d4874e241c189dcfd58c07cd943738369b3a63708cd48d9f4194c16ce2b73",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    345
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "344-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

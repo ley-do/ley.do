@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "365",
+  "anio": "2019",
+  "titulo": "que designa al señor Rafael Antonio Núñez Pérez, subdirector del Parque Zoológico Nacional. G. O. No. 10958 del 30 de octubre de 2019. DANILO MEDINA",
+  "fecha": "24/10/2019",
+  "gaceta_oficial": "10958",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394267&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394267&managementType=1",
+  "document_id_consultoria": "3394267",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-365-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-365-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-365-2019.json",
+  "sha256_pdf_original": "53ad2d5cbe12f8b697609a2ed73037f01ff00060621063093c7d6ece1ba2fc79",
+  "sha256_markdown": "7c8bcb2bc0d24ef34c6e1c6ed5726ab092c5f837af6b0c2ff5cdd2dfe0b00dc9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "365-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "260",
+  "anio": "2019",
+  "titulo": "que eleva el monto de la pensión concedida por el Estado dominicano al Arq. Leopoldo Antonio Espaillat Nanita. G. O. No. 10948 del 25 de julio de 2019. DANILO MEDINA",
+  "fecha": "16/07/2019",
+  "gaceta_oficial": "10948",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395780&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395780&managementType=1",
+  "document_id_consultoria": "3395780",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-260-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-260-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-260-2019.json",
+  "sha256_pdf_original": "efcb6dda4a14d4cf6741aa8fd9965a36c76fec5ac6e8034403cc47df8efd67eb",
+  "sha256_markdown": "b4b1dab1b09bce4016e8a78dae8e1fd809860b27fdfe052bef96d5f307f59343",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    261
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "260-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "473",
+  "anio": "2019",
+  "titulo": "que modifica varios artículos de los decretos Nos. 193-93, 232-95, 384- 97, 518-97, 143-99, 277-00, 66-02, 587-03, 90-04, 126-04, 468-04, 513-04, 783-04, 176-05, 303-05, 546-05, 48-06, 515-06, 65-07, 66-07, 149-07, 279-07, 620-07, 621-07, 654-08, 53- 10, 159-10, 588-10, 200-11, 510-11, 582-11, 758-11, 53-15 y 111-16, que autorizaron a varios ayuntamientos a vender terrenos. G. O. No. 10964 del 20 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10964",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395406&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395406&managementType=1",
+  "document_id_consultoria": "3395406",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-473-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-473-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-473-2019.json",
+  "sha256_pdf_original": "e48dbd8ea2eaba70672c20e62633f75938cab63af4651fc050c24ca195a54458",
+  "sha256_markdown": "3ae1d9911562bcaeb161063dee5eb246ec8b5fdc521318d6a256907b3e78525c",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    474
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "473-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

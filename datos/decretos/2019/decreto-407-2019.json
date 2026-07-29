@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "407",
+  "anio": "2019",
+  "titulo": "que nombra al señor Carlos Alberto Brito Guzmán, primer secretario en la Misión Permanente de la República Dominicana ante la Organización de los Estados Americanos. G. O. No. 10961 del 2 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "21/11/2019",
+  "gaceta_oficial": "10961",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395287&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395287&managementType=1",
+  "document_id_consultoria": "3395287",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-407-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-407-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-407-2019.json",
+  "sha256_pdf_original": "425986d05ba4d628b34c57be63caf8656138720618f77a9ab1437440d9854cbb",
+  "sha256_markdown": "d513e83808feef1e276345a2797f3ca33545c0eb8020a2b36b9f9008dd9f407c",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    408
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "407-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

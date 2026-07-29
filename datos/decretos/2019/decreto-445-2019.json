@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "445",
+  "anio": "2019",
+  "titulo": "que deroga el artículo 1 del Dec. No. 500-12, que nombró a la señora Guacayarima Sosa Machado, embajadora adscrita al Ministerio de Relaciones Exteriores. G. O. No. 10963 del 16 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10963",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395378&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395378&managementType=1",
+  "document_id_consultoria": "3395378",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-445-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-445-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-445-2019.json",
+  "sha256_pdf_original": "4f5192feb99c3187c0684b6f19601b15ada37365c5ae8f2703572f988c2849d4",
+  "sha256_markdown": "b79ebae021d982c9798ed6fbd09917769612b60a986ca2f368b97e8a3fb3d9c3",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    446
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "445-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "383",
+  "anio": "2019",
+  "titulo": "que concede la condecoración de la Orden al Mérito Naval, con Medalla de Servicio Distinguido, en su primera categoría, al almirante Evelio Enrique Ramírez Gáfaro, de la Armada de la Republica de Colombia. G. O. No. 10959 del 12 de noviembre de 2019. DANILO MEDINA",
+  "fecha": "08/11/2019",
+  "gaceta_oficial": "10959",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395263&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395263&managementType=1",
+  "document_id_consultoria": "3395263",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-383-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-383-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-383-2019.json",
+  "sha256_pdf_original": "2cf35a05e23a9b8b090a2d6bf4931612f179efcb9fea5260c650af42e640bbd7",
+  "sha256_markdown": "4e71fb28b8b0a46ff5a5f0a23556b348dc6a9b984684b5481636522b104fddc1",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    384
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "383-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

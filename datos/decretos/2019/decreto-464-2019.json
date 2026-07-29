@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "464",
+  "anio": "2019",
+  "titulo": "que excluye de la expropiación efectuada mediante Dec. No. 112-16, en su artículo 1, numeral 9, la parcela No. 67-B-43, del D.C. No. 13, municipio Higüey, provincia La Altagracia. G. O. No. 10963 del 16 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10963",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395397&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395397&managementType=1",
+  "document_id_consultoria": "3395397",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-464-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-464-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-464-2019.json",
+  "sha256_pdf_original": "7011b3e81fcfe17d05aa446dfeb96c94fefc8e99480664960ff070e0842dac68",
+  "sha256_markdown": "76bdbdd397e77061ddc6b25be2cf707a35e31db032e50b17e8be6bae0e7877e7",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    465
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "464-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

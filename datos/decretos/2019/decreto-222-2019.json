@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "222",
+  "anio": "2019",
+  "titulo": "que deroga los artículos Nos. 2, 9, 10 y 8 de los decretos Nos. 260-11, 484-10, 394-10 y 269-07, respectivamente. G. O. No. 10946 del 5 de julio de 2019. DANILO MEDINA",
+  "fecha": "24/06/2019",
+  "gaceta_oficial": "10946",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393812&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393812&managementType=1",
+  "document_id_consultoria": "3393812",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-222-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-222-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-222-2019.json",
+  "sha256_pdf_original": "6a8ae7cd1f65ea28605ba6505fff8d9b1f9636f7e41ba07573351749942e1a67",
+  "sha256_markdown": "4ca755c00d11facbc734e3a9d1a2731c0d9ddbfa4b54c517de159c9350b2d576",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "222-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

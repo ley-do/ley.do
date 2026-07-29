@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "420",
+  "anio": "2019",
+  "titulo": "que concede la naturalización dominicana a título de naturalización privilegiada, al señor Héctor Eduardo Reglero Montaner, de nacionalidad argentina. G. O. No. 10961 del 2 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "22/11/2019",
+  "gaceta_oficial": "10961",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395300&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395300&managementType=1",
+  "document_id_consultoria": "3395300",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-420-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-420-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-420-2019.json",
+  "sha256_pdf_original": "e9a65e583e268afe1c696318933997f7cb52a8603b6b61c581d474b80b4084d8",
+  "sha256_markdown": "7c3dd38e7f6ae2f7757ddf5bf19a71bbe85ce76721144ba002936da4fce91ead",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    421
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "420-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

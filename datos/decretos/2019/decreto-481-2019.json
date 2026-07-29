@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "481",
+  "anio": "2019",
+  "titulo": "que concede el beneficio de la jubilación a varias personas y eleva el monto de pensiones otorgadas por el Estado dominicano. G. O. No. 10967 del 7 de enero de 2020. DANILO MEDINA",
+  "fecha": "23/12/2019",
+  "gaceta_oficial": "10967",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395437&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395437&managementType=1",
+  "document_id_consultoria": "3395437",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-481-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-481-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-481-2019.json",
+  "sha256_pdf_original": "49a45939fa161f796df1ee89309b1a9bb4d3a9af0b917b2968df10e99f7e832e",
+  "sha256_markdown": "a4cf00b0cdc23b2fcce9c1a2545507923c603e2a707fcb84991b31787cd8b7d8",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    482
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "481-19",
+  "anio_metadata_fuente": "2020",
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+}

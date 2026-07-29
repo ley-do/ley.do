@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "079",
+  "anio": "2019",
+  "titulo": "que otorga la Medalla al Mérito de la Mujer a varias damas dominicanas, con motivo del Día Internacional de la Mujer. G. O. No. 10935 del 18 de marzo de 2019. DANILO MEDINA",
+  "fecha": "08/03/2019",
+  "gaceta_oficial": "10935",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393466&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393466&managementType=1",
+  "document_id_consultoria": "3393466",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-079-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-079-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-079-2019.json",
+  "sha256_pdf_original": "f3fdda2f50b7b5ea486242d79da2e3ff7611cf4b130787347d48efe28ba2e414",
+  "sha256_markdown": "5006a338b201f93ca48eb77598d7f37d7d9049a3899327c9130b99abb4f3a801",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    80
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "79-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

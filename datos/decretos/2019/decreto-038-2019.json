@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "038",
+  "anio": "2019",
+  "titulo": "que declara de utilidad pública e interés social dos porciones de terrenos en la provincia Monseñor Nouel, propiedad de los señores Juan Manuel Haché Cabrera y Estervina Khoury de Haché, para ser destinadas a edificaciones escolares. G. O. No. 10930 del 30 de enero de 2019. DANILO MEDINA",
+  "fecha": "11/01/2019",
+  "gaceta_oficial": "10930",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393384&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393384&managementType=1",
+  "document_id_consultoria": "3393384",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-038-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-038-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-038-2019.json",
+  "sha256_pdf_original": "7467e1de7ca74a7344ebf346bf71b6408a186eee45757f77ba0fbc8f64144059",
+  "sha256_markdown": "fcbe1e01d6f07478c9d0b5c39a23c0c3ef6e829325df14e0e8c76745a81dc349",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    39
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "38-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

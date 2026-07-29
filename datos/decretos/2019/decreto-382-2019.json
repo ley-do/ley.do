@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "382",
+  "anio": "2019",
+  "titulo": "que autoriza al capitán de navío Juan Carlos Holguín Terrero, ARD, a aceptar y usar la condecoración Servicios Distinguidos a las Fuerzas Militares de Colombia, otorgada por el Consejo de la Medalla de las Fuerzas Miliares de la República de Colombia. G. O. No. 10959 del 12 de noviembre de 2019. DANILO MEDINA",
+  "fecha": "08/11/2019",
+  "gaceta_oficial": "10959",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395262&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395262&managementType=1",
+  "document_id_consultoria": "3395262",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-382-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-382-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-382-2019.json",
+  "sha256_pdf_original": "dcbb7e3b41ce71776807d444d147f5a0471d574c042853013f04bdb619aa2fe4",
+  "sha256_markdown": "3fd550d06400c9660a568ec19bcf62b19fb547152717303c1684cd60ebe83bd5",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    383
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "382-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

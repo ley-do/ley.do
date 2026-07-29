@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "441",
+  "anio": "2019",
+  "titulo": "que designa a la señora Lourdes Gisela Antonia Victoria-Kruse, embajadora extraordinaria y plenipotenciaria, concurrente, de la República Dominicana en Hungría, con sede en Viena, Austria. G. O. No. 10963 del 16 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10963",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395374&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395374&managementType=1",
+  "document_id_consultoria": "3395374",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-441-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-441-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-441-2019.json",
+  "sha256_pdf_original": "61ab8b0919fbefd7c18893dd6f01417d15b33a03e5c70cb9057c282c8a639bf2",
+  "sha256_markdown": "9fdba964b2a30c038f9243c4c78133b0f4bc1568c654bcedfbf6c99c1dbfbd16",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "441-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

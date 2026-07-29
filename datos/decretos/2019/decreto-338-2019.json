@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "338",
+  "anio": "2019",
+  "titulo": "que designa al señor Jaime Alexis Merán Ramos, asesor del Poder Ejecutivo en materia de deporte para la región sur. G. O. No. 10956 del 1 de octubre de 2019. DANILO MEDINA",
+  "fecha": "26/09/2019",
+  "gaceta_oficial": "10956",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394200&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394200&managementType=1",
+  "document_id_consultoria": "3394200",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-338-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-338-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-338-2019.json",
+  "sha256_pdf_original": "b4728009edea144607fac5894dc36daa415e53b7f541c98fc67ee8c067e59437",
+  "sha256_markdown": "4c51cf39785c48ee3ace256cde2003162929a59707eb24b91b2f5e17bed931af",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    339
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "338-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

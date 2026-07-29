@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "472",
+  "anio": "2019",
+  "titulo": "que autoriza a los ayuntamientos de Santiago de los Caballeros, Barahona, Sabana de la Mar, Bani y San Francisco de Macorís, a vender terrenos a particulares. G. O. No. 10964 del 20 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10964",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395405&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395405&managementType=1",
+  "document_id_consultoria": "3395405",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-472-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-472-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-472-2019.json",
+  "sha256_pdf_original": "bb15d35fb3feeafe16520b694a33ad7e6adc8897357148ea1ca4f099e206eaa3",
+  "sha256_markdown": "04d0e2c040859039e1d6a11110accf96be4549b442a0b14537259a3c173eeb42",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "472-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

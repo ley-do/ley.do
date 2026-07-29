@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "249",
+  "anio": "2019",
+  "titulo": "que crea el Fondo de Cohesión Territorial con el propósito de promover entre el Gobierno Central y los gobiernos locales el cofinanciamiento de proyectos de inversión pública de interés común, con énfasis en los municipios más deprimidos. G. O. No. 10947 del 15 de julio de 2019. DANILO MEDINA",
+  "fecha": "09/07/2019",
+  "gaceta_oficial": "10947",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393866&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393866&managementType=1",
+  "document_id_consultoria": "3393866",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-249-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-249-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-249-2019.json",
+  "sha256_pdf_original": "34fef3ccc01d0f160992dc767f61f824f6d29490c75d1b3409d4ff8505dfacdf",
+  "sha256_markdown": "d6bfa2e9931226676ac5c18b43ce30910d3e6bf69d1dc041fae532cf9d3ca5d4",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    250
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "249-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

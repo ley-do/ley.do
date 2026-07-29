@@ -1,0 +1,38 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "179",
+  "anio": "2019",
+  "titulo": "que eleva el monto de las pensiones concedidas por el Estado dominicano a los señores Carmen Semíramis Olivo Taveras y José Francisco Méndez Luzón. G. O. No.10942 del 20 de mayo de 2019. DANILO MEDINA",
+  "fecha": "10/05/2019",
+  "gaceta_oficial": "10942",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393683&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393683&managementType=1",
+  "document_id_consultoria": "3393683",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-179-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-179-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-179-2019.json",
+  "sha256_pdf_original": "ba7ba8eaaf47239f64bd8b4cd8a8adca0f0ed736cc2afb7c909d55a45f104785",
+  "sha256_markdown": "e2790f7c038161d05b5accb6c4d465060991fbe11f42987b706fcd63432201f7",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    180
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 10/05/2019, mientras el apartado DADO del PDF indica 14/05/2019. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "179-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "fecha_metadata_fuente": "10/05/2019",
+  "fecha_texto_pdf_detectada": "14/05/2019",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 10/05/2019, mientras el apartado DADO del PDF indica 14/05/2019. Se conservan ambos valores para revisión humana."
+  ]
+}

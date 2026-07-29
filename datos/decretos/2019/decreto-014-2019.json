@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "014",
+  "anio": "2019",
+  "titulo": "que concede aumentos y pensiones del Estado a varios empleados públicos. G. O. No. 10928 del 14 de enero de 2019. DANILO MEDINA",
+  "fecha": "07/01/2019",
+  "gaceta_oficial": "10928",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393358&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393358&managementType=1",
+  "document_id_consultoria": "3393358",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-014-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-014-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-014-2019.json",
+  "sha256_pdf_original": "14e605b5fbf6997c37cde8913c475e05718bb39243170717651f027efbc0994c",
+  "sha256_markdown": "b3a4029715b787ae38b89fb151bf6a5f81654ded7d86a05196be5ecf317ddb93",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    15
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "14-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

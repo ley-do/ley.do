@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "180",
+  "anio": "2019",
+  "titulo": "que crea el Plan Nacional de Parqueos de Uso Público de la República Dominicana a cargo del Ministerio de Obras Publicas y Comunicaciones, integrado por las dependencias de dicho ministerio, con el objeto de mejorar la movilidad y reducir el tráfico vehicular mediante el incremento de parqueos de uso público en las ciudades de mayor actividad económica y vehicular. G. O. No.10942 del 20 de mayo de 2019. DANILO MEDINA",
+  "fecha": "14/05/2019",
+  "gaceta_oficial": "10942",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393684&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393684&managementType=1",
+  "document_id_consultoria": "3393684",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-180-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-180-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-180-2019.json",
+  "sha256_pdf_original": "c927916dc3f1492ecaf773b30974552ca023a952a88d9d83d97c97b58088686c",
+  "sha256_markdown": "420930d7ac4f3e7b44b9ecbeb5ae07984129b30159cfb42ebe2f512f44cc3e83",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    181
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "180-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

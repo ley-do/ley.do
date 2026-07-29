@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "238",
+  "anio": "2019",
+  "titulo": "que nombra a la señora Fior Daliza Vega Suriel, subdirectora del Instituto Nacional de Estabilización de Precios (INESPRE), con asiento en Puerto Plata. G. O. No. 10946 del 5 de julio de 2019. DANILO MEDINA",
+  "fecha": "04/07/2019",
+  "gaceta_oficial": "10946",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393854&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393854&managementType=1",
+  "document_id_consultoria": "3393854",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-238-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-238-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-238-2019.json",
+  "sha256_pdf_original": "3c5a469a14eca9ed7341f25f50e0caf016a4357bf7ee8a0f383c32a53037e56a",
+  "sha256_markdown": "6cfeace746f72bbcf7374347dedae1277119dcce5176a85121e9bd2a33580337",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    239
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "238-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

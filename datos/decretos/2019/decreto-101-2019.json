@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "101",
+  "anio": "2019",
+  "titulo": "que concede la condecoración de la Orden de Merito Aéreo, en segunda, tercera y cuarta categorías, con distintivo blanco, a varios oficiales superiores, subalternos y alistados de la Fuerza Aérea de la República Dominicana. G. O. No. 10935 del 18 de marzo de 2019. DANILO MEDINA",
+  "fecha": "14/03/2019",
+  "gaceta_oficial": "10935",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393483&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393483&managementType=1",
+  "document_id_consultoria": "3393483",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-101-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-101-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-101-2019.json",
+  "sha256_pdf_original": "3e28db9b2ff99b73a0e43b90e264fbb6c8be324f071b01114e53c20a1f0867a1",
+  "sha256_markdown": "6a48d6bbf9c0cb37bda1d2e78ab0b4f3f1ad4becf93db3a126f749a501c8245b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    102
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "101-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

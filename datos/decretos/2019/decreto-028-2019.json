@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "028",
+  "anio": "2019",
+  "titulo": "que excluye de la expropiación efectuada mediante Dec. No. 365-13, numeral 14 del art. 1, debido a trabajos de deslinde y subdivisión que se realizaron en la parcela 1-B-3-A, del D. C. No. 08, en Pedro Brand, Distrito Nacional, actual parcela 308542261613, propiedad del señor Andrés Arias Ureña. G. O. No. 10930 del 30 de enero de 2019. DANILO MEDINA",
+  "fecha": "11/01/2019",
+  "gaceta_oficial": "10930",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393373&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393373&managementType=1",
+  "document_id_consultoria": "3393373",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-028-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-028-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-028-2019.json",
+  "sha256_pdf_original": "7206151dea86c2e14d4d75a0e37198ca3e50d350610ac0885ba6b4cc52096706",
+  "sha256_markdown": "17e379779c45f968f50fc035232c746d7b35467a888f799ba6d7fb1151f4a21a",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    29
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "28-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

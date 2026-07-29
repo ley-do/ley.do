@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "234",
+  "anio": "2019",
+  "titulo": "que modifica el art. 4 del decreto No. 258-16. Integra nuevamente la Comisión Presidencial del Programa República Digital, de la cual formarán parte el Consejo Nacional de Competitividad y el Ministerio de la Juventud. G. O. No. 10946 del 5 de julio de 2019. DANILO MEDINA",
+  "fecha": "04/07/2019",
+  "gaceta_oficial": "10946",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393850&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393850&managementType=1",
+  "document_id_consultoria": "3393850",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-234-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-234-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-234-2019.json",
+  "sha256_pdf_original": "b3512babd33f17fc65bd36225813a12cc682f9cebb550c27563da43db38e5f72",
+  "sha256_markdown": "10eab277f6d306c32aef4d163dc5ae3372991ac49e34e05e7cf644673b31a965",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    235
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "234-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

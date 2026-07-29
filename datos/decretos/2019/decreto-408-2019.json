@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "408",
+  "anio": "2019",
+  "titulo": "que deroga el artículo 4 del Dec. No. 181-09, que designó al señor Bernardino Martínez como vicecónsul de la República Dominicana en Bogotá, Colombia. G. O. No. 10961 del 2 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "21/11/2019",
+  "gaceta_oficial": "10961",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395288&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395288&managementType=1",
+  "document_id_consultoria": "3395288",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-408-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-408-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-408-2019.json",
+  "sha256_pdf_original": "b9cde1ec861248f4f9985ea005d5d6131aa7f05b3d1e3b097a673273412b3317",
+  "sha256_markdown": "d26ada2004bb9983a65c98b95279ac89f393c0a5a56b8df44ab5a8523f47c893",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    409
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "408-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

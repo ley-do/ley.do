@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "235",
+  "anio": "2019",
+  "titulo": "que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano José Álvarez, alias Ignacio Álvarez, alias José Ignacio Álvarez Durán. G. O. No. 10946 del 5 de julio de 2019. DANILO MEDINA",
+  "fecha": "04/07/2019",
+  "gaceta_oficial": "10946",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393851&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393851&managementType=1",
+  "document_id_consultoria": "3393851",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-235-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-235-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-235-2019.json",
+  "sha256_pdf_original": "92c061019db37b52cbdbadf4b88708a91216eaf34327af4a57f7d899d3bcb7a9",
+  "sha256_markdown": "d0e642489d5db837a34991e44df46c5a27237ccb61a60c0cb202bbb52b3bff8b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "235-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

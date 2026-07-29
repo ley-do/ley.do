@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "041",
+  "anio": "2019",
+  "titulo": "que autoriza al mayor general y a los generales de brigada pilotos FARD, Richard Vásquez Jiménez, Juan Darío Tejada Quintana y Alberto Carlos Lagrange Madera, respectivamente, a aceptar y usar la condecoración “Orden al Mérito Newberiano”, otorgada por el presidente del Instituto Nacional Newberiano del Ministerio de Educación, Cultura, Ciencia y Tecnología de Argentina. G. O. No. 10930 del 30 de enero de 2019. DANILO MEDINA",
+  "fecha": "24/01/2019",
+  "gaceta_oficial": "10930",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393395&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393395&managementType=1",
+  "document_id_consultoria": "3393395",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-041-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-041-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-041-2019.json",
+  "sha256_pdf_original": "0783dffd0ba1c8ff8ff11985e8afbc67340d4e05986c1e1770f4feae22a58f30",
+  "sha256_markdown": "62bdc76a1259184cce42e848b463a71e7549b187fedeeeee1499264072b0a16f",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    42
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "41-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

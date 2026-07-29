@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "319",
+  "anio": "2019",
+  "titulo": "que autoriza al consorcio Puerto Plata Port Investments/Promociones Turísticas Mahahual, desarrolladora del Proyecto Taino Bay Puerto Plata, a hacer uso de una parte de la franja marítima, ubicada en el litoral de la avenida Penetración Portuaria, municipio San Felipe, provincia Puerto Plata. G. O. No. 10956 del 1 de octubre de 2019. DANILO MEDINA",
+  "fecha": "17/09/2019",
+  "gaceta_oficial": "10956",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394180&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394180&managementType=1",
+  "document_id_consultoria": "3394180",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-319-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-319-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-319-2019.json",
+  "sha256_pdf_original": "0cc66e467140b5c775c2d5cde3884b1a39d35c070a6349d1f1dc259df4add020",
+  "sha256_markdown": "11aa9cbbf22276736ef8fe35b14d0342c26e0a7b01bfd52e4d639df2c515b473",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    320
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "319-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

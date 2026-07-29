@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "159",
+  "anio": "2019",
+  "titulo": "que excluye de la expropiación efectuada mediante Dec. No. 112-16, en su artículo 1, numeral 17, y del Dec. No. 133-18, articulo 1, numeral 13, una porción de terreno de 23,592.77M2, dentro de la parcela No. 312428917214, de la provincia Santiago, propiedad de Bernardo Rosa. G. O. No. 10941 del 10 de mayo de 2019. DANILO MEDINA",
+  "fecha": "26/04/2019",
+  "gaceta_oficial": "10941",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393639&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393639&managementType=1",
+  "document_id_consultoria": "3393639",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-159-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-159-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-159-2019.json",
+  "sha256_pdf_original": "2a6e6d8f40722e58b42f81058d4931ada104c4c3d1b6d0f615587dc08f604530",
+  "sha256_markdown": "a3d6b4970b3104a0f6ec1ab421dd4e2ecc3ef84a5c83f3d659c0a59e9749f312",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    160
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "159-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

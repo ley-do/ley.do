@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "424",
+  "anio": "2019",
+  "titulo": "que declara de utilidad pública e interés social una porción de terreno de 36.00Mts², dentro de la parcela No. 307368979823, en el municipio Cambita Garabitos, provincia San Cristóbal, la cual será utilizada para la terminación del acueducto del citado municipio. G. O. No. 10963 del 16 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "22/11/2019",
+  "gaceta_oficial": "10963",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395304&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395304&managementType=1",
+  "document_id_consultoria": "3395304",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-424-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-424-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-424-2019.json",
+  "sha256_pdf_original": "433845d16c46269257e5b4d84d3b160439c4f28e7d97ef0937711a65828ce869",
+  "sha256_markdown": "499b217d220006999dd7ba30c5e6e7f9c458618282427c780c943f79ccfe0eb3",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    425
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "424-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "327",
+  "anio": "2019",
+  "titulo": "que autoriza al contralmirante Luis Rafael Lee Ballester, ARD, comandante del Comando Conjunto Metropolitano de las Fuerzas Armadas, a aceptar y usar la condecoración Medalla de la Defensa Nacional, en su grado Bronce, otorgada por el director general adjunto de Relaciones Internacionales y Estrategia Militar del Ministerio de las Fuerzas Armadas de Francia. G. O. No. 10956 del 1 de octubre de 2019. DANILO MEDINA",
+  "fecha": "17/09/2019",
+  "gaceta_oficial": "10956",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394188&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394188&managementType=1",
+  "document_id_consultoria": "3394188",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-327-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-327-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-327-2019.json",
+  "sha256_pdf_original": "8d42435f53754d8cdf1dfae984eec866e3557c39a67f7d03d8af0164e99b3271",
+  "sha256_markdown": "c80e9a2d4dad74760c42504bad50d9c7c73d5119bba81b73b4ca2db7d98f1fda",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    328
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "327-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

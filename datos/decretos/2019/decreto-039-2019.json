@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "039",
+  "anio": "2019",
+  "titulo": "que nombra al vicealmirante Félix Alburquerque Comprés, ARD, Lic. Nicolás Restituyo y Wilson Vargas Vila Reyes Rodríguez, presidente de la Dirección Nacional de Control de Drogas, viceministro de Seguridad Social y Riesgos Laborales del Ministerio de Trabajo y gobernador civil de la provincia Dajabón, respectivamente. G. O. No. 10930 del 30 de enero de 2019. DANILO MEDINA",
+  "fecha": "18/01/2019",
+  "gaceta_oficial": "10930",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393391&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393391&managementType=1",
+  "document_id_consultoria": "3393391",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-039-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-039-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-039-2019.json",
+  "sha256_pdf_original": "c3a52bcb8c39041ee9635fa831da790029c7ca29faa323b1f589f7d02c8f251c",
+  "sha256_markdown": "92f502a127d921a2a0667f65dcf4ac9ab58c5447aad66c7336b53cd1e3622483",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    40
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "39-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

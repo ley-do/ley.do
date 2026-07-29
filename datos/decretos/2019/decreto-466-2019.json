@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "466",
+  "anio": "2019",
+  "titulo": "que concede la condecoración de la Orden del Mérito Militar, en su primera clase, con distintivo azul, al mayor general capellán castrense Nicolás de Jesús López Rodríguez, ERD., y en segunda y tercera clase, con distintivo azul, a varios oficiales superiores y subalternos del Ejército de República Dominicana. G. O. No. 10964 del 20 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10964",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395399&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395399&managementType=1",
+  "document_id_consultoria": "3395399",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-466-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-466-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-466-2019.json",
+  "sha256_pdf_original": "ec7bf63e00b4f113ba313b2262fc9cd05cee23651706043a210906bd43e41f39",
+  "sha256_markdown": "d19ebb53dfb9d0d373135a66abc5add4c4929eb25d7ff07808d99f82fe8e73e8",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    467
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "466-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

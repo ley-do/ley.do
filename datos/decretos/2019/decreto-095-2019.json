@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "095",
+  "anio": "2019",
+  "titulo": "que nombra al general de brigada Carlos M. Aguirre Reyes, ERD, jefe de la Policía Militar Electoral. G. O. No. 10935 del 18 de marzo de 2019. DANILO MEDINA",
+  "fecha": "14/03/2019",
+  "gaceta_oficial": "10935",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393493&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393493&managementType=1",
+  "document_id_consultoria": "3393493",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-095-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-095-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-095-2019.json",
+  "sha256_pdf_original": "b6a9caa6775e402a86ea5af6783424a185a3cfcc9ea07e9a99e25ec9edbb53d3",
+  "sha256_markdown": "261f552032587a6256bdb94669da2dee5f4a9ec2c2d2e698121b7e9b69078aaf",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    96
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "95-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

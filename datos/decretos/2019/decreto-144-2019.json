@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "144",
+  "anio": "2019",
+  "titulo": "que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10940 del 22 de abril de 2019. DANILO MEDINA",
+  "fecha": "15/04/2019",
+  "gaceta_oficial": "10940",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393612&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393612&managementType=1",
+  "document_id_consultoria": "3393612",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-144-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-144-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-144-2019.json",
+  "sha256_pdf_original": "8958283d7083cbb4516693cb045fcd15c4a45e9071bdd127facf767f1b495724",
+  "sha256_markdown": "d31fe4d82de7a17b7c99a2462ae1f73f2278e35458aff9aade273fe068027217",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    145
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "144-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

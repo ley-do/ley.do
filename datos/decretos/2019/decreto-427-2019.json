@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "427",
+  "anio": "2019",
+  "titulo": "que modifica el numeral 11 del artículo 1 del Dec. No. 45-18. Declara de utilidad pública dos porciones de terrenos en Puñal, Santiago, propiedad del Colegio Carrusel, S.A., para ser destinadas a edificaciones escolares. G. O. No. 10963 del 16 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "22/11/2019",
+  "gaceta_oficial": "10963",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395307&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395307&managementType=1",
+  "document_id_consultoria": "3395307",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-427-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-427-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-427-2019.json",
+  "sha256_pdf_original": "9ba362ea308d319945e659f9cd6cb74beb0a3bcb005d0a318bdb382fb8c9c754",
+  "sha256_markdown": "d12cb5e6013f7e4829f68ff0d0ba55f1c95d318ef0c011c05cf2b4417feabf6b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    428
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "427-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

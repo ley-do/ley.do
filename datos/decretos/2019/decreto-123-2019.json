@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "123",
+  "anio": "2019",
+  "titulo": "que concede el beneficio de la jubilación y le asigna una pensión especial del Estado dominicano al señor Rafael de Jesús Suárez Sabes. G. O. No. 10938 del 8 de abril de 2019. DANILO MEDINA",
+  "fecha": "03/04/2019",
+  "gaceta_oficial": "10938",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393591&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393591&managementType=1",
+  "document_id_consultoria": "3393591",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-123-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-123-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-123-2019.json",
+  "sha256_pdf_original": "73b0b35d5e7ba43d631beaafd5b36969c1022c65854f372670bb32c996a032b0",
+  "sha256_markdown": "e86681e9ca38004ce633fcc4ff66cba4884ac35466621c1b37fa3ec546b00284",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    124
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "123-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

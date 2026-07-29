@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "076",
+  "anio": "2019",
+  "titulo": "que designa al señor Antonio Ventura Ayala López, vicecónsul de la República en New York, Estados Unidos de América. G. O. No. 10934 del 28 de febrero de 2019. DANILO MEDINA",
+  "fecha": "28/02/2019",
+  "gaceta_oficial": "10934",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393463&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393463&managementType=1",
+  "document_id_consultoria": "3393463",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-076-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-076-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-076-2019.json",
+  "sha256_pdf_original": "d6739f17af5ca4ccf21839f006279e60cdaa832c63fbf97d4b2de17dce4695d1",
+  "sha256_markdown": "201e325f72719f7b1445b0442608cb7cefc51d63d82075b9b1266df0c6273602",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    77
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "76-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "437",
+  "anio": "2019",
+  "titulo": "que designa a la señora Alba Maria Antonia Cabral Cornero, viceministra de Política Exterior Bilateral del Ministerio de Relaciones Exteriores. G. O. No. 10963 del 16 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "13/12/2019",
+  "gaceta_oficial": "10963",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395370&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395370&managementType=1",
+  "document_id_consultoria": "3395370",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-437-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-437-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-437-2019.json",
+  "sha256_pdf_original": "86a381d1631b10dd38c5e32cfcfed4bc5acee6565139149d29fb25cf9e559dca",
+  "sha256_markdown": "0e777f4015e276e6a33672b35695e5f05bdf502bc685dcc0ca1e0812d2934e3d",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    438
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "437-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

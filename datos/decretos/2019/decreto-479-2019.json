@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "479",
+  "anio": "2019",
+  "titulo": "que nombra al señor Luis Alberto Camilo García, auxiliar del Consulado de la República Dominicana en Boston, Massachussets, Estados Unidos de América. G. O. No. 10967 del 7 de enero de 2020. DANILO MEDINA",
+  "fecha": "16/12/2019",
+  "gaceta_oficial": "10967",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395429&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395429&managementType=1",
+  "document_id_consultoria": "3395429",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-479-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-479-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-479-2019.json",
+  "sha256_pdf_original": "5e6f2361677c9b3efc5be50fa74565dc2e84a34e65707e712f67140704f16748",
+  "sha256_markdown": "232ed6581f02cba0ab2856d6c31844bd36cf1ae5159df7558face552b9f25632",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    480
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "479-19",
+  "anio_metadata_fuente": "2020",
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+}

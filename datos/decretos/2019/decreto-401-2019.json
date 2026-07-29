@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "401",
+  "anio": "2019",
+  "titulo": "que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10960 del 22 de noviembre de 2019. DANILO MEDINA",
+  "fecha": "19/11/2019",
+  "gaceta_oficial": "10960",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395281&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395281&managementType=1",
+  "document_id_consultoria": "3395281",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-401-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-401-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-401-2019.json",
+  "sha256_pdf_original": "a5f7068e6c205d1f15e541075a97536332afa421397b49663e62b781c9ca6413",
+  "sha256_markdown": "0f037c14481892ded79165f82cd427b776793ea698a3d938d6e82651e02155b0",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    402
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "401-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

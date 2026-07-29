@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "345",
+  "anio": "2019",
+  "titulo": "que declara de alta prioridad el fomento y desarrollo de la formación y capacitación técnico profesional, para potenciar la industria dominicana y las exportaciones de bienes de manufactura local. Deroga el Dec. No. 565-03, que creó e integró el Consejo Nacional Interinstitucional de Reforma y Modernización de la Educación y Formación Técnico-Profesional. Crea e integra el Comité de Acción Sectorial para la Estrategia Nacional de Formación y Capacitación Técnico-Profesional para la Industria de Manufactura y las Exportaciones. G. O. No. 10958 del 30 de octubre de 2019. DANILO MEDINA",
+  "fecha": "18/10/2019",
+  "gaceta_oficial": "10958",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394247&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394247&managementType=1",
+  "document_id_consultoria": "3394247",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-345-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-345-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-345-2019.json",
+  "sha256_pdf_original": "024d66ab5e60e2e310c7073e2be648577e5b5303b5bc1b291f1fa03ee996e40d",
+  "sha256_markdown": "8b4c207daf17741e9eb5f417c48e245bc655a0a14d1183c02b77a738a26946e5",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "345-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

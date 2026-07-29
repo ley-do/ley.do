@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "409",
+  "anio": "2019",
+  "titulo": "que designa a los señores Ángel de Jesús López y Dámaso Augusto Ramírez Vargas, subdirectores del Plan de Asistencia Social de la Presidencia con asiento en las provincias Maria Trinidad Sánchez y Puerto Plata, respectivamente. G. O. No. 10961 del 2 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "21/11/2019",
+  "gaceta_oficial": "10961",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395289&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395289&managementType=1",
+  "document_id_consultoria": "3395289",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-409-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-409-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-409-2019.json",
+  "sha256_pdf_original": "e26281db43d8e2f43d0d59e883688f378b3430bfe10838f3d8b1770762d6fd2f",
+  "sha256_markdown": "0250362e1873c47c0937225498f46f0284872c3263e7f892dbb52adfe691bbd5",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    410
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "409-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

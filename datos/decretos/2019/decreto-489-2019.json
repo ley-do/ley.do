@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "489",
+  "anio": "2019",
+  "titulo": "que concede el beneficio de la jubilación y asigna pensiones del Estado dominicano en favor de los señores Leonora Altagracia Inoa Peralta y Eleazar José Dominici Vidal. G. O. No. 10967 del 7 de enero de 2020. DANILO MEDINA",
+  "fecha": "23/12/2019",
+  "gaceta_oficial": "10967",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395445&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395445&managementType=1",
+  "document_id_consultoria": "3395445",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-489-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-489-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-489-2019.json",
+  "sha256_pdf_original": "25cd75d8b818830c1607bde44d57d5cab269151cadd9e58c29730497617dd5a5",
+  "sha256_markdown": "30cf7efc93aa6e35854e78f7d5a88cf6d3554f1f28ce6a43f3c60f603d030dc7",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    490
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "489-19",
+  "anio_metadata_fuente": "2020",
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+}

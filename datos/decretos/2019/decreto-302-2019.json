@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "302",
+  "anio": "2019",
+  "titulo": "que autoriza al mayor general piloto Richard Vásquez Jiménez, comandante general de la FARD, a aceptar y usar la condecoración Medalla de Legión al Mérito Confraternidad Aérea Interamericana, en su clase Gran Cruz, otorgada por el jefe del Estado Mayor General de la Fuerza Aérea Salvadoreña. G. O. No. 10953 del 12 de septiembre de 2019. DANILO MEDINA",
+  "fecha": "03/09/2019",
+  "gaceta_oficial": "10953",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394052&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394052&managementType=1",
+  "document_id_consultoria": "3394052",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-302-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-302-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-302-2019.json",
+  "sha256_pdf_original": "0a5222f6aa9f5640c4fac7269be7c4f884559852744d635b2d72f040eebd4fb2",
+  "sha256_markdown": "d09e4a60d3d5d6ab71c747c8bb4b9eb0655b086c09cd7e3e86088b0ba01c3a84",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    303
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "302-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

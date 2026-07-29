@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "250",
+  "anio": "2019",
+  "titulo": "que nombra a los licenciados Luis Rosado y Tomasina Núñez Martínez, presidente y miembro del Consejo de Directores de la Corporación del Acueducto y Alcantarillado de Monseñor Nouel, respectivamente; y al Ing. San Agustín Jiménez Castillo, director general de dicha corporación. G. O. No. 10947 del 15 de julio de 2019. DANILO MEDINA",
+  "fecha": "12/07/2019",
+  "gaceta_oficial": "10947",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393879&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393879&managementType=1",
+  "document_id_consultoria": "3393879",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-250-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-250-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-250-2019.json",
+  "sha256_pdf_original": "08b9399fab6cd385a4e58aff4909b86c883cdfa511e7becbed945efc64c67d8c",
+  "sha256_markdown": "7ec4b45319fe432e2b17b4d19637eb323d8de6bb5f66160e43df8f1606a57684",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    251
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "250-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

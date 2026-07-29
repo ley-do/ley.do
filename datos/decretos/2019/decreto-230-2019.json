@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "230",
+  "anio": "2019",
+  "titulo": "que excluye dos porciones de terrenos de la expropiación efectuada mediante el Dec. No. 8-14, en su artículo 1, numeral 4, producto de los trabajos de deslinde y subdivisión realizados en la parcela No. 309425608329, municipio Santo Domingo Oeste. G. O. No. 10946 del 5 de julio de 2019. DANILO MEDINA",
+  "fecha": "24/06/2019",
+  "gaceta_oficial": "10946",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393820&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393820&managementType=1",
+  "document_id_consultoria": "3393820",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-230-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-230-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-230-2019.json",
+  "sha256_pdf_original": "314b22ac5294f3612f80ce88ac42e7f41756cbaab21b27b01b0fcff1f0ad8aab",
+  "sha256_markdown": "2478f495c2bd5bcd980f95b3e417d653e46916515787a7a35c78b4e29213037d",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    231
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "230-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

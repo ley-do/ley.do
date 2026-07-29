@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "145",
+  "anio": "2019",
+  "titulo": "que dispone la entrega en extradición a la República Francesa del ciudadano francés Sebastián Fabrice Deriot Henrion. G. O. No. 10940 del 22 de abril de 2019. DANILO MEDINA",
+  "fecha": "15/04/2019",
+  "gaceta_oficial": "10940",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393613&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393613&managementType=1",
+  "document_id_consultoria": "3393613",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-145-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-145-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-145-2019.json",
+  "sha256_pdf_original": "37d87272f7483443ada1f45b5c4c41200e62ef7ca431be016c4954834a2da4f6",
+  "sha256_markdown": "9c41355342fb2bdb31428db91020de243f7a4cee3a089f3bf6b92c7a84593447",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    146
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "145-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "328",
+  "anio": "2019",
+  "titulo": "que autoriza a varios oficiales generales, superiores, subalternos y clases de las Fuerzas Armadas de la República Dominicana, a aceptar y usar las condecoraciones, Cruz de Oro, Cruz de Plata, Medalla de Plata, Medalla de Operación Humanitaria, así como el Distintivo de la CFAC, otorgadas por el Consejo Superior de la Conferencia de las Fuerzas Armadas Centroamericanas. G. O. No. 10956 del 1 de octubre de 2019. DANILO MEDINA",
+  "fecha": "17/09/2019",
+  "gaceta_oficial": "10956",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394189&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394189&managementType=1",
+  "document_id_consultoria": "3394189",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-328-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-328-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-328-2019.json",
+  "sha256_pdf_original": "b7d2572e5ecac43e31b4edbac3a3078e7ccd2ca02eb7cde65e084e3daa26d955",
+  "sha256_markdown": "eb90279efd492b81dd5d62c589ef692f27dadccc05786ed291889e042ea2c113",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    329
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "328-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

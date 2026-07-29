@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "241",
+  "anio": "2019",
+  "titulo": "Decreto núm. 241-2019",
+  "fecha": "04/07/2019",
+  "gaceta_oficial": "10946",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393857&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393857&managementType=1",
+  "document_id_consultoria": "3393857",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-241-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-241-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-241-2019.json",
+  "sha256_pdf_original": "5700a55937f22cb14faa418a8b1b630d98e7eb53b0a5ac74742750a47430d831",
+  "sha256_markdown": "90051adcbc5ccc9204e6a4f4b12ab80ebe3bbe650b645ea65cf67b4b153ce70d",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "241-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}

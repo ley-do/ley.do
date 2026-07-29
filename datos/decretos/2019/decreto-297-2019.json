@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "297",
+  "anio": "2019",
+  "titulo": "que nombra a las señoras Ornella López Carbonell y Eliana Pichardo Cuevas, primeras secretarias de la Embajada de la República en la República de Turquía. G. O. No. 10952 del 5 de septiembre de 2019. DANILO MEDINA",
+  "fecha": "03/09/2019",
+  "gaceta_oficial": "10952",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399597&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399597&managementType=1",
+  "document_id_consultoria": "3399597",
+  "fecha_consulta": "2026-07-29",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-297-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-297-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-297-2019.json",
+  "sha256_pdf_original": "4e164a378245e45efb85b28331b67296da8878c2a3787528f3cd8d20ef1a5e0c",
+  "sha256_markdown": "83813d3ba8b7808b08331db080e468efddd2f909de3396b3e2ebcad3fe6a78b8",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    298
+  ],
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "297-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+}
