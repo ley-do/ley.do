@@ -1,0 +1,33 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "numero": "303",
+  "numero_registro_fuente": "303-20",
+  "anio": "2020",
+  "titulo": "QUE DISPONE LA ENTREGA EN EXTRADICION A LOS ESTADOS UNIDOS DE AMERICA DEL NACIONAL DOMINICANO JOSE F...",
+  "fecha": "10/08/2020",
+  "gaceta_oficial": "EN TRAMITE DE PUBLICACION EN GACETA OFICIAL",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396074&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396074&managementType=1",
+  "document_id_consultoria": "3396074",
+  "fecha_consulta": "2026-07-28",
+  "ruta_pdf_local": "",
+  "ruta_markdown": "docs/decretos/2020/decreto-303-2020.md",
+  "ruta_json": "datos/decretos/2020/decreto-303-2020.json",
+  "sha256_pdf_original": "",
+  "sha256_markdown": "0014a169b66d95cf94dac5af7db7711ef49033e28c7cbbe894f756af31cf57bd",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "descubierto",
+  "estado_extraccion": "pendiente_encontrar_pdf",
+  "commit_publicacion": "",
+  "evidencia_pdf_no_disponible": {
+    "error_endpoint_abrir": "HTTP 500",
+    "error_endpoint_descargar": "HTTP 500",
+    "recorte_con_encabezado_document_id": "3396073",
+    "recorte_siguiente_document_id": "3396075",
+    "pdf_derivado_creado": false
+  },
+  "notas": "No se recuperó un PDF oficial completo. El encabezado aislado del recorte vecino no se presentó como texto completo. Pendiente localizar PDF y revisar humanamente."
+}
