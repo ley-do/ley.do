@@ -17,11 +17,16 @@
   "ruta_markdown": "docs/decretos/2020/decreto-026-2020.md",
   "ruta_json": "datos/decretos/2020/decreto-026-2020.json",
   "sha256_pdf_original": "0a7e7d70dd0e5f2ccdb32c19d522eb95f2b1d7ef37eb8f3f8ce2dd23e643a2ac",
-  "sha256_markdown": "1a1d9c6d34629bf02e90cba27bd3ba993ad351d76b3afcb16abf819da08fc7d6",
+  "sha256_markdown": "ace66f0be72351b6db1ddf7a2f340a5287cdeef335d11790abe1f7cf5ceedbaa",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica `17/01/2020`, mientras el apartado DADO del PDF indica `22/01/2020`. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "fecha_metadata_fuente": "17/01/2020",
+  "fecha_texto_pdf_detectada": "22/01/2020",
+  "alertas_revision": [
+    "La metadata oficial consultada indica `17/01/2020`, mientras el apartado DADO del PDF indica `22/01/2020`. Se conservan ambos valores para revisión humana."
+  ]
 }

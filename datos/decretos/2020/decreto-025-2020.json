@@ -17,11 +17,16 @@
   "ruta_markdown": "docs/decretos/2020/decreto-025-2020.md",
   "ruta_json": "datos/decretos/2020/decreto-025-2020.json",
   "sha256_pdf_original": "1b81db9510ce72a9af635f2a9e57cc32cb5126de240366f5a864a0e9ebc32772",
-  "sha256_markdown": "6d86aa1fffbef542858b055cd0887bbecbcc8bcc45de26b171f2814c22656823",
+  "sha256_markdown": "c0bdb9b3c74d5672f7bc3cb8acde54caa34f3a09b05d044a68a2db2dcc58f9a3",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica `17/01/2020`, mientras el apartado DADO del PDF indica `20/01/2020`. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "fecha_metadata_fuente": "17/01/2020",
+  "fecha_texto_pdf_detectada": "20/01/2020",
+  "alertas_revision": [
+    "La metadata oficial consultada indica `17/01/2020`, mientras el apartado DADO del PDF indica `20/01/2020`. Se conservan ambos valores para revisión humana."
+  ]
 }

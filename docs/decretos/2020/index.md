@@ -22,6 +22,7 @@ La cobertura expresa reconciliación frente al inventario oficial recopilado; no
 - **Decreto 210-20:** ambos endpoints del registro oficial responden HTTP 500. Los recortes vecinos contienen fragmentos separados; no se fusionaron ni se presentaron como PDF original.
 - **Decreto 228-20:** los registros `228--20` (ID `3395918`) y `228-20` (ID `3395979`) representan dos rendiciones oficiales de una sola identidad. Se preservan por separado con hashes propios.
 - **Decreto 303-20:** ambos endpoints del registro oficial responden HTTP 500. El recorte vecino solo conserva el encabezado y la línea formal; no se publicó como texto completo.
+- **Decretos 025-20, 026-20, 149-20 y 323-20:** la fecha de la metadata oficial consultada difiere de la fecha observable en el apartado `DADO` del PDF. Se conservaron ambos valores y se marcaron para revisión humana.
 - **Decreto 539-20:** el encabezado oficial aparece como `Dec. 539-20`, sin `No.` ni `núm.`; se conservó esa variante tipográfica.
 - **Decreto 630-20:** el encabezado oficial aparece como `Dec. No. 630 -20`, con espacio antes del guion; la línea formal indica `NÚMERO: 630-20`.
 
@@ -811,8 +812,8 @@ La cobertura expresa reconciliación frente al inventario oficial recopilado; no
 | 22-20 | 16/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA GIRE THESALIA CALDERÓN DÍAZ, VICECÓNSUL EN EL CONSULADO DE LA REPÚBLICA DOMI... | [Ver documento](decreto-022-2020.md) | normalizado · pendiente_revision |
 | 23-20 | 17/01/2020 | 10969 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-023-2020.md) | normalizado · pendiente_revision |
 | 24-20 | 17/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES DOMINGO DE JESÚS ALMONTE REINOSO Y RICARDO SAMUEL MOLINA ACOSTA, SUBDIRECT... | [Ver documento](decreto-024-2020.md) | normalizado · pendiente_revision |
-| 25-20 | 17/01/2020 | 10969 | QUE CONFIRMA A LA DRA. ANINA DEL CASTILLO CAZAÑO, COMO DIRECTORA EJECUTIVA DEL INSTITUTO NACIONAL DE... | [Ver documento](decreto-025-2020.md) | normalizado · pendiente_revision |
-| 26-20 | 17/01/2020 | 10969 | QUE DESIGNA AL LIC. MÁXIMO ARISMENDY ARISTY CARABALLO, MIEMBRO DEL CONSEJO DE ADMINISTRACIÓN DE LA E... | [Ver documento](decreto-026-2020.md) | normalizado · pendiente_revision |
+| 25-20 | 17/01/2020 | 10969 | QUE CONFIRMA A LA DRA. ANINA DEL CASTILLO CAZAÑO, COMO DIRECTORA EJECUTIVA DEL INSTITUTO NACIONAL DE... | [Ver documento](decreto-025-2020.md) | normalizado con alerta de fecha · pendiente_revision |
+| 26-20 | 17/01/2020 | 10969 | QUE DESIGNA AL LIC. MÁXIMO ARISMENDY ARISTY CARABALLO, MIEMBRO DEL CONSEJO DE ADMINISTRACIÓN DE LA E... | [Ver documento](decreto-026-2020.md) | normalizado con alerta de fecha · pendiente_revision |
 | 27-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES SANTIAGO RODRÍGUEZ FIGUEREO, FRANCISCO SANTANA Y MERCEDES ALTAGRACIA BRITO ... | [Ver documento](decreto-027-2020.md) | normalizado · pendiente_revision |
 | 28-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES BIENVENIDO TOLENTINO SANTANA Y JORGE NICOLÁS CORDERO PACHE, CÓNSULES GENER... | [Ver documento](decreto-028-2020.md) | normalizado · pendiente_revision |
 | 29-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES FRANCISCO FERNANDO CÁCERES LIRIANO Y RAMÓN CARREÑO, CÓNSULES GENERALES DE L... | [Ver documento](decreto-029-2020.md) | normalizado · pendiente_revision |
@@ -934,7 +935,7 @@ La cobertura expresa reconciliación frente al inventario oficial recopilado; no
 | 145-20 | 05/04/2020 | 10975 | QUE CREA E INTEGRA LA COMISIÓN DE VEEDURÍA CIUDADANA COVID-19 COMO MECANISMO PARA VIGILAR, DAR SEGUI... | [Ver documento](decreto-145-2020.md) | normalizado · pendiente_revision |
 | 146-20 | 08/04/2020 | 10975 | QUE NOMBRA A LAS SEÑORAS KENIA LORA ABREU Y GREYBBI MARIA CUELLO COSTE DE TORRES, DIRECTORA DEL INST... | [Ver documento](decreto-146-2020.md) | normalizado · pendiente_revision |
 | 147-20 | 09/04/2020 | 10975 | QUE DESIGNA AL LIC. MARCEL ALEXANDER MEJÍA TAVERAS, VICEMINISTRO DE COOPERACIÓN INTERNACIONAL DEL MI... | [Ver documento](decreto-147-2020.md) | normalizado · pendiente_revision |
-| 149-20 | 09/04/2020 | 10975 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-149-2020.md) | normalizado · pendiente_revision |
+| 149-20 | 09/04/2020 | 10975 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-149-2020.md) | normalizado con alerta de fecha · pendiente_revision |
 | 148-20 | 13/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR UN PLAZO DE DIECISIETE (17) ... | [Ver documento](decreto-148-2020.md) | normalizado · pendiente_revision |
 | 150-20 | 13/04/2020 | 10975 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FAUST... | [Ver documento](decreto-150-2020.md) | normalizado · pendiente_revision |
 | 151-20 | 17/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR 17 DÍAS CONTADOS A PARTIR DE... | [Ver documento](decreto-151-2020.md) | normalizado · pendiente_revision |
@@ -1109,7 +1110,7 @@ La cobertura expresa reconciliación frente al inventario oficial recopilado; no
 | 320-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL GENERAL DE BRIGADA ABOGADO JUAN MANUEL MÉNDEZ GARCÍA, ERD., DIRECTOR DEL CENTRO DE O... | [Ver documento](decreto-320-2020.md) | normalizado · pendiente_revision |
 | 321-20 | 14/08/2020 | 10983 | QUE ASCIENDE A LA CONTRALMIRANTE MAYRA ALICIA DIAZ MARTINEZ, AL RANGO DE VICEALMIRANTE, ARD; A LOS C... | [Ver documento](decreto-321-2020.md) | normalizado · pendiente_revision |
 | 322-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL CORONEL FIDEL AUGUSTO CALCAÑO PAULINO, ERD Y AL CORONEL RIGOBERTO DE LOS SANTOS GUER... | [Ver documento](decreto-322-2020.md) | normalizado · pendiente_revision |
-| 323-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL MAYOR G... | [Ver documento](decreto-323-2020.md) | normalizado · pendiente_revision |
+| 323-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL MAYOR G... | [Ver documento](decreto-323-2020.md) | normalizado con alerta de fecha · pendiente_revision |
 | 324-20 | 16/08/2020 | 10986 | QUE INTEGRA EL GABINETE DEL GOBIERNO CENTRAL Y NOMBRA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL EST... | [Ver documento](decreto-324-2020.md) | normalizado · pendiente_revision |
 | 325-20 | 16/08/2020 | 10986 | QUE NOMBRA A LA SEÑORA MILAGROS ORTIZ BOSCH, ASESORA DEL PODER EJECUTIVO EN MATERIA DE ÉTICA, TRANSP... | [Ver documento](decreto-325-2020.md) | normalizado · pendiente_revision |
 | 326-20 | 16/08/2020 | 10986 | QUE NOMBRA TRES (3) VICEMINISTROS DE DEFENSA, A LOS COMANDANTES Y SUBCOMANDANTES DEL EJÉRCITO Y DE L... | [Ver documento](decreto-326-2020.md) | normalizado · pendiente_revision |

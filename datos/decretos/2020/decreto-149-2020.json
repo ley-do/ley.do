@@ -17,11 +17,16 @@
   "ruta_markdown": "docs/decretos/2020/decreto-149-2020.md",
   "ruta_json": "datos/decretos/2020/decreto-149-2020.json",
   "sha256_pdf_original": "d4da99201755906f2695ba9e313e5785b2f911fd9820eb263813b1156a3f9bf3",
-  "sha256_markdown": "4ce346a86470a89c285bd30b7abc49a30ac90c4d8e68b51a54c85316c6e443c5",
+  "sha256_markdown": "afa68a47f41f342c416b278a3a96aaf78eb47510e55566870176fb3e6f681bc0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": true,
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica `09/04/2020`, mientras el apartado DADO del PDF indica `13/04/2020`. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "fecha_metadata_fuente": "09/04/2020",
+  "fecha_texto_pdf_detectada": "13/04/2020",
+  "alertas_revision": [
+    "La metadata oficial consultada indica `09/04/2020`, mientras el apartado DADO del PDF indica `13/04/2020`. Se conservan ambos valores para revisión humana."
+  ]
 }
