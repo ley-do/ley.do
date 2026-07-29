@@ -36,7 +36,10 @@ def extract(pdf,n,yy):
             m=start.search(text) or alternate.search(text) or truncated.search(text)
             if not m: continue
             trimmed|=bool(text[:m.start()].strip()); clase_encabezado=m.group("clase"); numero_encabezado=re.sub(r"\s+","",m.group("numero")); text=text[m.start():]; begun=True
-        end=next((m for m in neighbor.finditer(text) if int(m.group(1))!=n),None)
+        # Los decretos solo pueden citar números anteriores. Un encabezado
+        # posterior marca el siguiente documento del recorte oficial; una
+        # referencia a un número menor forma parte del texto objetivo.
+        end=next((m for m in neighbor.finditer(text) if int(m.group(1))>n),None)
         if end: text=text[:end.start()]; trimmed=True
         text=reflow(text)
         if text: pages.append(text)

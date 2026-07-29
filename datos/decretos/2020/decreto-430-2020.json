@@ -17,7 +17,7 @@
   "ruta_markdown": "docs/decretos/2020/decreto-430-2020.md",
   "ruta_json": "datos/decretos/2020/decreto-430-2020.json",
   "sha256_pdf_original": "33d7cdd51f05c9ea5b832d5a96a1429dd9ba580e6841fab1be905209e2508854",
-  "sha256_markdown": "27f0387b2fc69ccae5b9ccd790156968509600e88369e195dc59dc38f7465afd",
+  "sha256_markdown": "38745bbab7c9aa1ea7613fd5e308fbab321e9d155516075b3dfd5c8cb540713e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
