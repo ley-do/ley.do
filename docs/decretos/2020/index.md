@@ -1,13 +1,31 @@
 # Decretos 2020
 
 !!! warning "Aviso"
-    LEY.DO no es una fuente oficial. Los documentos de esta página están detectados en fuente oficial y pendientes de verificación de PDF, normalización y revisión humana.
+    LEY.DO no es una fuente oficial. Los documentos de esta página fueron normalizados automáticamente y permanecen pendientes de revisión humana. Verifique siempre contra la fuente oficial indicada.
 
 Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consulta/).
 
-Documentos detectados: **756**.
+## Cobertura reconciliada
 
-## Documentos normalizados inicialmente
+- Registros fuente inventariados: **756**.
+- Registros correspondientes a 2020: **734**.
+- Identidades documentales reconciliadas: **733**.
+- Paquetes completos PDF + Markdown + JSON: **731**.
+- Identidades pendientes de localizar PDF oficial completo: **2** (decretos 210 y 303).
+- Rendiciones oficiales complementarias archivadas: **1** (Decreto 228-20).
+- Registros de 2019 conservados para trazabilidad y separados de la cobertura anual: **22**.
+
+La cobertura expresa reconciliación frente al inventario oficial recopilado; no constituye una afirmación de exhaustividad jurídica absoluta.
+
+## Salvedades documentales
+
+- **Decreto 210-20:** ambos endpoints del registro oficial responden HTTP 500. Los recortes vecinos contienen fragmentos separados; no se fusionaron ni se presentaron como PDF original.
+- **Decreto 228-20:** los registros `228--20` (ID `3395918`) y `228-20` (ID `3395979`) representan dos rendiciones oficiales de una sola identidad. Se preservan por separado con hashes propios.
+- **Decreto 303-20:** ambos endpoints del registro oficial responden HTTP 500. El recorte vecino solo conserva el encabezado y la línea formal; no se publicó como texto completo.
+- **Decreto 539-20:** el encabezado oficial aparece como `Dec. 539-20`, sin `No.` ni `núm.`; se conservó esa variante tipográfica.
+- **Decreto 630-20:** el encabezado oficial aparece como `Dec. No. 630 -20`, con espacio antes del guion; la línea formal indica `NÚMERO: 630-20`.
+
+## Documentos normalizados
 
 - [Decreto núm. 001-2020](decreto-001-2020.md)
 - [Decreto núm. 002-2020](decreto-002-2020.md)
