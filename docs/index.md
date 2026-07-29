@@ -1,3 +1,6 @@
+!!! warning "Aviso importante"
+    **Estamos de vacaciones.**
+
 <section class="library-landing">
   <div class="library-lead">
     <div class="library-lead__copy">
