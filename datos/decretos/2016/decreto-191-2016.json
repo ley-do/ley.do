@@ -1,0 +1,38 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "191",
+  "anio": "2016",
+  "titulo": "que designa la Delegación que representará al Gobierno dominicano en la transmisión del mando presidencial de la República del Perú, a celebrarse el 28 de julio del año en curso. G. O. No. 10851 del 26 de julio de 2016",
+  "fecha": "14/07/2016",
+  "gaceta_oficial": "10851",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379383&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379383&managementType=1",
+  "document_id_consultoria": "3379383",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-191-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-191-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-191-2016.json",
+  "sha256_pdf_original": "26d3791e423f1c31ebe045812541007a7bd87456671d837d9b12ac4391eee62d",
+  "sha256_markdown": "e7c8105070e65ab1602badc44e500cc5c61b6df8a9805355f2bcca1bf62f4dac",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "191-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "191-16",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
+}

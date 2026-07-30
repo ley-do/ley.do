@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "190",
+  "anio": "2016",
+  "titulo": "que deroga los artículos 2 y 4 de los decretos Nos. 496-05 y 479-06, que designaron a los señores Ignacio Alejandro Bengoa Aranguiz y Juvenal Antonio Mena Acosta, como Auxiliar del Consulado de la República Dominicana en Madrid, España, y Secretario de Tercera Clase adscrito al Ministerio de Relaciones Exteriores, respectivamente. G. O. No. 10851 del 26 de julio de 2016",
+  "fecha": "07/07/2016",
+  "gaceta_oficial": "10851",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379388&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379388&managementType=1",
+  "document_id_consultoria": "3379388",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-190-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-190-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-190-2016.json",
+  "sha256_pdf_original": "ba2e593abbd752df8f46eabbb30d7e7d892894dd81e315e7bf6fbd2253680b23",
+  "sha256_markdown": "338b9e96452fea43143a927cfa484d220eb515795fc00aae8c8a69ac952a581b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    191
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 07/07/2016, mientras el apartado DADO del PDF indica 12/07/2016. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "190-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/07/2016",
+  "fecha_metadata_fuente": "07/07/2016",
+  "numero_formal_pdf": "190-16",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 07/07/2016, mientras el apartado DADO del PDF indica 12/07/2016. Se conservan ambos valores para revisión humana."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "140",
+  "anio": "2016",
+  "titulo": "que asciende a la señora Bethania Elena Fernández Pina, al rango de Ministra Consejera de la Embajada de la República Dominicana en Costa Rica. G. O. No. 10835 del 11 de abril de 2016",
+  "fecha": "31/03/2016",
+  "gaceta_oficial": "10835",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377039&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377039&managementType=1",
+  "document_id_consultoria": "3377039",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-140-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-140-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-140-2016.json",
+  "sha256_pdf_original": "f3604bf27fa29e1c9f4e9b7428b485d920b4fbb93a19cb62e283ab56f4038758",
+  "sha256_markdown": "31318b2f34c307892baaafb48a1dbb507b185a56e36afd97a5c79f4a0def38fc",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    141
+  ],
+  "commit_publicacion": "",
+  "notas": "La consulta oficial contiene dos registros 140-16 con PDFs oficiales binariamente distintos y fechas de metadata distintas (31/03/2016 y 30/04/2016); se preservan ambas rendiciones y la fecha del registro canónico. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "140-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3377039",
+      "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+      "ruta_pdf_local": "archivos/decretos/2016/decreto-140-2016.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377039&managementType=2",
+      "sha256_pdf": "f3604bf27fa29e1c9f4e9b7428b485d920b4fbb93a19cb62e283ab56f4038758",
+      "capa_texto": true,
+      "paginas": 1
+    },
+    {
+      "document_id_consultoria": "3399766",
+      "rol_archivistico": "pdf_oficial_complementario",
+      "ruta_pdf_local": "archivos/decretos/2016/decreto-140-2016-fuente-3399766.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399766&managementType=2",
+      "sha256_pdf": "bf08769b11d8470723c65742839f260d053bf416f78d3057a11d766f69c210db",
+      "capa_texto": true,
+      "paginas": 2
+    }
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "31/03/2016",
+  "numero_formal_pdf": "140-16",
+  "alertas_revision": [
+    "La consulta oficial contiene dos registros 140-16 con PDFs oficiales binariamente distintos y fechas de metadata distintas (31/03/2016 y 30/04/2016); se preservan ambas rendiciones y la fecha del registro canónico."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "136",
+  "anio": "2016",
+  "titulo": "que designa al señor Américo Reyes del Valle, Subadministrador Técnico de la Dirección General de Bienes Nacionales. G. O. No. 10835 del 11 de abril de 2016",
+  "fecha": "22/03/2016",
+  "gaceta_oficial": "10835",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377036&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377036&managementType=1",
+  "document_id_consultoria": "3377036",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-136-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-136-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-136-2016.json",
+  "sha256_pdf_original": "ab607ae1340caef5b0518a8c66d24ebe698f9a7fe6e1b9864ef7db2d365c74de",
+  "sha256_markdown": "7ea892a886802e6f2e0a337c89f60354b73fc7ab907082023367b336656e16a9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    137
+  ],
+  "commit_publicacion": "",
+  "notas": "La consulta oficial contiene dos registros 136-16 con PDFs oficiales binariamente distintos; se preservan ambas rendiciones con ID, ruta y SHA256 propios. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "136-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3377036",
+      "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+      "ruta_pdf_local": "archivos/decretos/2016/decreto-136-2016.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377036&managementType=2",
+      "sha256_pdf": "ab607ae1340caef5b0518a8c66d24ebe698f9a7fe6e1b9864ef7db2d365c74de",
+      "capa_texto": true,
+      "paginas": 1
+    },
+    {
+      "document_id_consultoria": "3399765",
+      "rol_archivistico": "pdf_oficial_complementario",
+      "ruta_pdf_local": "archivos/decretos/2016/decreto-136-2016-fuente-3399765.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399765&managementType=2",
+      "sha256_pdf": "acfde74da76a592dd558adac200ce6204e0bbf039f1ccf68cedcdc71b45358c5",
+      "capa_texto": true,
+      "paginas": 2
+    }
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/03/2016",
+  "numero_formal_pdf": "136-16",
+  "alertas_revision": [
+    "La consulta oficial contiene dos registros 136-16 con PDFs oficiales binariamente distintos; se preservan ambas rendiciones con ID, ruta y SHA256 propios."
+  ]
+}
