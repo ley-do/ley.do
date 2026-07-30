@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "fecha_auditoria": "2026-07-30T02:20:12.691081+00:00",
+  "fecha_auditoria": "2026-07-30T02:42:35.443585+00:00",
   "anio": 2019,
   "fuente_reconciliada": "fuentes/consultoria_decretos_2019_reconciliado.json",
   "sha256_fuente_reconciliada": "197f3007c4363f83ee0537c0766892f8b95594ed407355e3b0abb35963f99fc4",

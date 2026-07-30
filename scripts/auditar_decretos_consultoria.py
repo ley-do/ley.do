@@ -20,6 +20,7 @@ except ModuleNotFoundError:
 
 DATE_RE=re.compile(r"^(\d{2})/(\d{2})/(\d{4})$")
 FORMAL_RE=re.compile(r"(?im)^N[ÚU]MERO:\s*(\d+)\s*-\s*(\d{2}|\d{4})\b")
+MONTHS={"enero":1,"febrero":2,"marzo":3,"abril":4,"mayo":5,"junio":6,"julio":7,"agosto":8,"septiembre":9,"setiembre":9,"octubre":10,"noviembre":11,"diciembre":12}
 
 
 def _number(record):
@@ -38,11 +39,22 @@ def _year(record):
     except (TypeError,ValueError): return None
 
 
-def _read_pdf_formal(pdf_path,number,year):
-    pages,*_=extract(pdf_path,number,str(year)[-2:])
-    match=FORMAL_RE.search("\n".join(pages))
-    if not match: return "",None,None
-    return f"{int(match.group(1))}-{match.group(2)}",int(match.group(1)),match.group(2)
+def _read_pdf_evidence(pdf_path,number,year):
+    pages,*_=extract(pdf_path,number,str(year)[-2:]); text="\n".join(pages)
+    match=FORMAL_RE.search(text)
+    formal=("",None,None) if not match else (f"{int(match.group(1))}-{match.group(2)}",int(match.group(1)),match.group(2))
+    markers=list(re.finditer(r"\bDAD[OA]\b",text,re.I))
+    if not markers: return (*formal,"","clausula_dado_no_detectada")
+    snippet=text[markers[-1].start():markers[-1].start()+900]
+    month=re.search(r"\b("+"|".join(MONTHS)+r")\b",snippet,re.I)
+    if not month: return (*formal,"","clausula_dado_no_parseable")
+    days=[int(value) for value in re.findall(r"\(\s*(\d{1,2})(?:\s*\)|(?:er\.)?\s*\))",snippet[:month.start()],re.I)]
+    years=[int(value) for value in re.findall(r"(?:\(\s*)?(?<!\d)(1[89]\d{2}|20\d{2})(?!\d)(?:\s*\))?",snippet[month.end():])]
+    if not days or not years: return (*formal,"","clausula_dado_no_parseable")
+    day=days[-1]; month_number=MONTHS[month.group(1).lower()]; observed_year=years[0]
+    try: datetime(observed_year,month_number,day)
+    except ValueError: return (*formal,"","clausula_dado_no_parseable")
+    return (*formal,f"{day:02d}/{month_number:02d}/{observed_year}","detectada")
 
 
 def audit(repo,inventory_path,year):
@@ -89,7 +101,12 @@ def audit(repo,inventory_path,year):
         try: metadata=json.loads(metadata_path.read_text(encoding="utf-8"))
         except (OSError,json.JSONDecodeError): continue
         alerts=metadata.get("alertas_revision") if isinstance(metadata.get("alertas_revision"),list) else []; alert_text=" ".join(str(item) for item in alerts).lower()
+        pdf_path=pdf_root/f"decreto-{number:03d}-{year}.pdf"
+        try: formal_text,formal_number,formal_year,pdf_observed,pdf_state=_read_pdf_evidence(pdf_path,number,year)
+        except Exception as exc: errors.append(f"Decreto {number}: no se pudo verificar la evidencia del PDF: {exc}"); continue
         state=metadata.get("estado_fecha_texto_pdf"); observed=str(metadata.get("fecha_texto_pdf_detectada") or "")
+        if state!=pdf_state or observed!=pdf_observed:
+            errors.append(f"Decreto {number}: DADO del JSON no coincide con el PDF (JSON: {state} {observed}; PDF: {pdf_state} {pdf_observed})")
         if state=="detectada":
             match=DATE_RE.match(observed)
             try: datetime.strptime(observed,"%d/%m/%Y")
@@ -108,10 +125,7 @@ def audit(repo,inventory_path,year):
         fragments=metadata.get("fragmentos_decretos_vecinos_excluidos")
         if not isinstance(fragments,list): errors.append(f"Decreto {number}: fragmentos vecinos no documentados")
         else: neighbor_fragments.append({"numero":number,"fragmentos":fragments})
-        pdf_path=pdf_root/f"decreto-{number:03d}-{year}.pdf"
         if pdf_path.is_file(): hash_groups[_hash_file(pdf_path)].append(number)
-        try: formal_text,formal_number,formal_year=_read_pdf_formal(pdf_path,number,year)
-        except Exception as exc: errors.append(f"Decreto {number}: no se pudo verificar la línea formal: {exc}"); continue
         if not formal_text:
             no_formal.append(number); continue
         if formal_year not in {str(year),str(year)[-2:]}: errors.append(f"Decreto {number}: año formal {formal_year} no corresponde a {year}")

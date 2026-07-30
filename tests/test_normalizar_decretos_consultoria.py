@@ -359,7 +359,8 @@ class FechaDadoTests(unittest.TestCase):
         pdf = repo / f"archivos/decretos/2019/decreto-{number:03d}-2019.pdf"
         pdf.parent.mkdir(parents=True, exist_ok=True)
         document = pymupdf.open(); page = document.new_page()
-        page.insert_text((72, 72), f"Dec. No. {summary}\n{formal}\nARTICULO 1. Texto.\nDADO en Santo Domingo, a los uno (1) dias del mes de enero de 2019.", fontsize=10)
+        heading=f"Dec. No. {summary}\n" if summary else "MEMBRETE OFICIAL\n"
+        page.insert_text((72, 72), f"{heading}{formal}\nARTICULO 1. Texto.\nDADO en Santo Domingo, a los uno (1) dias del mes de enero de 2019.", fontsize=10)
         document.save(pdf); document.close()
         inventory = repo / "reconciliado.json"
         inventory.write_text(json.dumps({"documentos": {"decretos": [{"numero": f"{number}-19", "document_id_consultoria": f"id-{number}", "institucion_fuente": "Consultoria Juridica", "url_fuente_oficial": "https://www.consultoria.gov.do/", "url_documento_consultoria_abrir": f"https://www.consultoria.gov.do/{number}", "url_documento_consultoria_descargar": f"https://www.consultoria.gov.do/{number}.pdf"}]}}), encoding="utf-8")
@@ -374,6 +375,14 @@ class FechaDadoTests(unittest.TestCase):
     def test_documenta_numero_formal_discrepante_del_mismo_anio(self):
         with tempfile.TemporaryDirectory() as td:
             repo = Path(td); inventory = self._write_identity_fixture(repo, 434, "434-19", "NÚMERO: 334-19")
+            run(repo, 2019, [434], inventario_path=inventory)
+            metadata = json.loads((repo / "datos/decretos/2019/decreto-434-2019.json").read_text(encoding="utf-8"))
+            self.assertEqual(metadata["numero_formal_pdf"], "334-19")
+            self.assertTrue(any("334-19" in item and "434-19" in item for item in metadata["alertas_revision"]))
+
+    def test_documenta_formal_discordante_si_es_el_unico_marcador(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td); inventory = self._write_identity_fixture(repo, 434, None, "NÚMERO: 334-19")
             run(repo, 2019, [434], inventario_path=inventory)
             metadata = json.loads((repo / "datos/decretos/2019/decreto-434-2019.json").read_text(encoding="utf-8"))
             self.assertEqual(metadata["numero_formal_pdf"], "334-19")

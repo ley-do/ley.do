@@ -71,14 +71,19 @@ def extract(pdf,n,yy):
     start=re.compile(rf"(?im)^(?P<clase>Dec\.|Regl\.)\s*(?:(?:núm\.|No\.)\s*)?(?P<numero>0*{n}\s*-\s*{year_token})\b",re.I)
     truncated=re.compile(rf"(?im)^(?P<clase>ec\.)\s*(?:núm\.|No\.)\s*(?P<numero>0*{n}\s*-\s*{year_token})\b",re.I)
     formal=re.compile(rf"(?im)^N[ÚU]MERO:\s*(?P<numero>0*{n}\s*-\s*{year_token})\b",re.I)
+    formal_any=re.compile(r"(?im)^N[ÚU]MERO:\s*(?P<numero>\d+\s*-\s*(?P<anio>\d{2}|\d{4}))\b",re.I)
     summary_neighbor=re.compile(r"(?im)^(?:Dec\.|Regl\.|ec\.)\s*(?:(?:núm\.|No\.)\s*)?(?P<numero>\d+)\s*-\s*(?P<anio>\d{2}|\d{4})\b",re.I)
     formal_neighbor=re.compile(r"(?im)^N[ÚU]MERO:\s*(?P<numero>\d+)\s*-\s*(?P<anio>\d{2}|\d{4})\b",re.I)
+    all_formals=[(page_index,match) for page_index,text in enumerate(texts) for match in formal_any.finditer(text)]
+    sole_formal=all_formals[0] if len(all_formals)==1 else None
     begun=False; trimmed=[]; pages=[]; clase_encabezado=""; numero_encabezado=""; closure_seen=False
-    for text in texts:
+    for page_index,text in enumerate(texts):
         if not begun:
             m=start.search(text) or truncated.search(text); formal_only=False
             if not m:
                 m=formal.search(text); formal_only=bool(m)
+            if not m and sole_formal and sole_formal[0]==page_index:
+                m=sole_formal[1]; formal_only=True
             if not m: continue
             if text[:m.start()].strip(): trimmed.append("fragmento_anterior")
             clase_encabezado="Dec." if formal_only else m.group("clase"); numero_encabezado=re.sub(r"\s+","",m.group("numero")); text=text[m.start():]; begun=True
