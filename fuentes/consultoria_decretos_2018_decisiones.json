@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "anio": 2018,
+  "fecha_reconciliacion": "2026-07-29",
+  "identidades": {
+    "4": {
+      "canonico": "3386652",
+      "alertas_revision": [
+        "La consulta oficial contiene el registro adicional ID 3387895 con número 04-18, título “PROBANDO EL TEXTO” y endpoint PDF no disponible (HTTP 500 al consultar); se conserva como fuente contextual y no se sustituye ni se infiere su contenido."
+      ],
+      "observacion_reconciliacion": "Se usa como canónica la rendición publicada en Gaceta Oficial 10902, ID 3386652.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3386652",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2018/decreto-004-2018.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3386652&managementType=2",
+          "sha256_pdf": "c0cc477e1ce8738f2382310a30f026de7d9d5e60ce404ed5bcb4aa4c32e854f1",
+          "capa_texto": true,
+          "paginas": 4
+        }
+      ]
+    },
+    "446": {
+      "canonico": "3393309",
+      "alertas_revision": [
+        "Se preservan dos rendiciones oficiales de la identidad 446-18; la publicación en Gaceta Oficial 10925 se usa para la extracción y la versión prepublicación se conserva por separado."
+      ],
+      "observacion_reconciliacion": "La rendición publicada en Gaceta Oficial 10925 es canónica; la rendición ID 3393316 se conserva como prepublicación complementaria.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3393309",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2018/decreto-446-2018.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393309&managementType=2",
+          "sha256_pdf": "d467913651f6d80b1bfcabb63cb160e088b6035b5b24ca98f2a37fdad93aa163",
+          "capa_texto": true,
+          "paginas": 4
+        },
+        {
+          "document_id_consultoria": "3393316",
+          "rol_archivistico": "rendicion_prepublicacion_complementaria",
+          "ruta_pdf_local": "archivos/decretos/2018/decreto-446-2018-fuente-3393316.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393316&managementType=2",
+          "sha256_pdf": "fd1808705d8c6b3e0b7f47948649c9b511827c4412c29e09d0df64ded0c2cd0c",
+          "capa_texto": true,
+          "paginas": 3
+        }
+      ]
+    }
+  },
+  "fuentes_contextuales": {
+    "3387895": {
+      "rol_reconciliacion": "fuente_contextual_atipica",
+      "observacion_reconciliacion": "Registro oficial adicional con número 04-18, título “PROBANDO EL TEXTO”, Gaceta “EXITO” y endpoint de descarga que devolvió HTTP 500; no se trató como rendición legal ni se inventó un PDF."
+    },
+    "3344640": {
+      "rol_reconciliacion": "fuente_contextual_atipica",
+      "observacion_reconciliacion": "Registro histórico con número 169 y fecha de 1848 devuelto por la consulta anual 2018; no tiene identidad documental -18."
+    },
+    "3387906": {
+      "rol_reconciliacion": "fuente_contextual_fuera_de_anio",
+      "observacion_reconciliacion": "Registro 381-17 devuelto por la consulta anual 2018; conserva además la fecha fuente 11/10/1900 sin corrección inferida."
+    },
+    "3387905": {
+      "rol_reconciliacion": "fuente_contextual_fuera_de_anio",
+      "observacion_reconciliacion": "Registro 380-17 devuelto por la consulta anual 2018; pertenece documentalmente al sufijo -17."
+    },
+    "3387907": {
+      "rol_reconciliacion": "fuente_contextual_fuera_de_anio",
+      "observacion_reconciliacion": "Registro 420-17 devuelto por la consulta anual 2018; pertenece documentalmente al sufijo -17."
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "446",
+  "anio": "2018",
+  "titulo": "que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Chanel Jiménez o Chanel Jiménez Castro. G. O. No. 10925 del 14 de diciembre de 2018. DANILO MEDINA",
+  "fecha": "10/12/2018",
+  "gaceta_oficial": "10925",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393309&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393309&managementType=1",
+  "document_id_consultoria": "3393309",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2018/decreto-446-2018.pdf",
+  "ruta_markdown": "docs/decretos/2018/decreto-446-2018.md",
+  "ruta_json": "datos/decretos/2018/decreto-446-2018.json",
+  "sha256_pdf_original": "d467913651f6d80b1bfcabb63cb160e088b6035b5b24ca98f2a37fdad93aa163",
+  "sha256_markdown": "df598ac36e371a83adb79c9af9555f84e85be89fa34dcdf016f2573cc3c012da",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "Se preservan dos rendiciones oficiales de la identidad 446-18; la publicación en Gaceta Oficial 10925 se usa para la extracción y la versión prepublicación se conserva por separado. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "446-18",
+  "anio_metadata_fuente": "2018",
+  "inventario_origen": "consultoria_inventario_2018_leyes_decretos.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3393309",
+      "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+      "ruta_pdf_local": "archivos/decretos/2018/decreto-446-2018.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393309&managementType=2",
+      "sha256_pdf": "d467913651f6d80b1bfcabb63cb160e088b6035b5b24ca98f2a37fdad93aa163",
+      "capa_texto": true,
+      "paginas": 4
+    },
+    {
+      "document_id_consultoria": "3393316",
+      "rol_archivistico": "rendicion_prepublicacion_complementaria",
+      "ruta_pdf_local": "archivos/decretos/2018/decreto-446-2018-fuente-3393316.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393316&managementType=2",
+      "sha256_pdf": "fd1808705d8c6b3e0b7f47948649c9b511827c4412c29e09d0df64ded0c2cd0c",
+      "capa_texto": true,
+      "paginas": 3
+    }
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/12/2018",
+  "numero_formal_pdf": "446-18",
+  "alertas_revision": [
+    "Se preservan dos rendiciones oficiales de la identidad 446-18; la publicación en Gaceta Oficial 10925 se usa para la extracción y la versión prepublicación se conserva por separado."
+  ]
+}

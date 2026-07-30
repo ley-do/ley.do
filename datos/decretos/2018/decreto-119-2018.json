@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "119",
+  "anio": "2018",
+  "titulo": "que integra la delegación que representará al Gobierno de la República en los actos de toma de posesión del Excelentísimo Señor Sebastián Piñera, presidente electo de la República de Chile. G.O. No. 10907 del 15 de marzo de 2018. DANILO MEDINA",
+  "fecha": "08/03/2018",
+  "gaceta_oficial": "10907",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3387775&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3387775&managementType=1",
+  "document_id_consultoria": "3387775",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2018/decreto-119-2018.pdf",
+  "ruta_markdown": "docs/decretos/2018/decreto-119-2018.md",
+  "ruta_json": "datos/decretos/2018/decreto-119-2018.json",
+  "sha256_pdf_original": "9f72cd1f9de1360cd40626a22902ebfc222814c40f7865c10add570295c7f87e",
+  "sha256_markdown": "3501b2b37057def607fde58d24ab77e461fde636b587236f1de0bcf48f29234f",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 08/03/2018, mientras el apartado DADO del PDF indica 09/03/2018. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "119-18",
+  "anio_metadata_fuente": "2018",
+  "inventario_origen": "consultoria_inventario_2018_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/03/2018",
+  "fecha_metadata_fuente": "08/03/2018",
+  "numero_formal_pdf": "119-18",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 08/03/2018, mientras el apartado DADO del PDF indica 09/03/2018. Se conservan ambos valores para revisión humana."
+  ]
+}

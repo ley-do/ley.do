@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "212",
+  "anio": "2018",
+  "titulo": "que excluye de la expropiación efectuada mediante el Dec. No. 112-16, numeral 3, del Art. 1, una porción de terreno dentro de la Parcela No. 10-A, D.C. No. 5, municipio Luperón, provincia Puerto Plata. G. O. No. 10911 del 4 de junio de 2018. DANILO MEDINA",
+  "fecha": "30/06/2018",
+  "gaceta_oficial": "10911",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3389007&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3389007&managementType=1",
+  "document_id_consultoria": "3389007",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2018/decreto-212-2018.pdf",
+  "ruta_markdown": "docs/decretos/2018/decreto-212-2018.md",
+  "ruta_json": "datos/decretos/2018/decreto-212-2018.json",
+  "sha256_pdf_original": "31197126eb17436f729239b0cfdb70d6f6f8920f7e38929e3f9c97b72a70f52e",
+  "sha256_markdown": "2141eb891be96a57db64d3bcc634a860de8768629af2d471d1866bcfa29ac803",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    213
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 30/06/2018, mientras el apartado DADO del PDF indica 30/05/2018. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "212-18",
+  "anio_metadata_fuente": "2018",
+  "inventario_origen": "consultoria_inventario_2018_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/05/2018",
+  "fecha_metadata_fuente": "30/06/2018",
+  "numero_formal_pdf": "212-18",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 30/06/2018, mientras el apartado DADO del PDF indica 30/05/2018. Se conservan ambos valores para revisión humana."
+  ]
+}
