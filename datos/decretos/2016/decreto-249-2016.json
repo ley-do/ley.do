@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "249",
+  "anio": "2016",
+  "titulo": "que concede la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella, en el Grado de Caballero, al Dr. Luis Esteban Abréu García. Modifica el Art. 1 del Dec. No. 637-07. G. O. No. 10859 del 3 de octubre de 2016",
+  "fecha": "15/09/2016",
+  "gaceta_oficial": "10859",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379583&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379583&managementType=1",
+  "document_id_consultoria": "3379583",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-249-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-249-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-249-2016.json",
+  "sha256_pdf_original": "952fcffc6b6d3aa432ea9231411045f112390c287d4aab9adc20b560edb1bfe9",
+  "sha256_markdown": "e70ecac5e40b800d6f1d8014292b807b582c51004077a402d88ee91f2f69ba84",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    250
+  ],
+  "commit_publicacion": "",
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "249-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "249-16",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
+}

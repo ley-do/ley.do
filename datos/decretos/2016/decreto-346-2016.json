@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "346",
+  "anio": "2016",
+  "titulo": "que declara de emergencia nacional las compras y contrataciones de bienes, servicios y obras por parte del Ministerio de Obras Publicas y Comunicaciones, del Instituto Nacional de la Vivienda, del Instituto Nacional de Recursos Hidráulicos, del Plan de Asistencia Social de la Presidencia y de los Comedores Económicos, para ser utilizadas en las labores de reparación, construcción y reconstrucción de los daños que han afectado varios municipios del país. Agrega a esta emergencia las provincias Hermanas Mirabal, Hato Mayor, Valverde, El Seibo y Monseñor Nouel. G. O. No. 10863 del 25 de noviembre de 2016",
+  "fecha": "23/11/2016",
+  "gaceta_oficial": "10863",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379756&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379756&managementType=1",
+  "document_id_consultoria": "3379756",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-346-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-346-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-346-2016.json",
+  "sha256_pdf_original": "ba453010c797d388dcf7e4faa485dacbbb857872ac887fcd70503dd622c4b880",
+  "sha256_markdown": "488912eea695cde1b6962ffb9e1ba5289fdf31343ec9e13f62dc4bdf0657986e",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 23/11/2016, mientras el apartado DADO del PDF indica 24/11/2016. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "346-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "24/11/2016",
+  "fecha_metadata_fuente": "23/11/2016",
+  "numero_formal_pdf": "346-16",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 23/11/2016, mientras el apartado DADO del PDF indica 24/11/2016. Se conservan ambos valores para revisión humana."
+  ]
+}

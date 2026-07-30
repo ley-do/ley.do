@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "192",
+  "anio": "2016",
+  "titulo": "que crea e integra el Patronato La Nueva Barquita, órgano descentralizado del Ministerio de la Presidencia. Designa al sacerdote Gregorio Alegría Armendáriz y al Lic. José Miguel González Cuadra, como Presidente y Director Ejecutivo, respectivamente, de dicho patronato. G. O. No. 10852 del 29 de julio de 2016",
+  "fecha": "14/07/2016",
+  "gaceta_oficial": "10852",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379384&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379384&managementType=1",
+  "document_id_consultoria": "3379384",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-192-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-192-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-192-2016.json",
+  "sha256_pdf_original": "24a2006a97b1cac470efde6e67c79c909a9ce35d7a8ecee77830221672e9526a",
+  "sha256_markdown": "acdf02a65cdcfe6281dc59d70b99eaa61e1571987a0320671b5149c753f15149",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    193
+  ],
+  "commit_publicacion": "",
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "192-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "192-16",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
+}

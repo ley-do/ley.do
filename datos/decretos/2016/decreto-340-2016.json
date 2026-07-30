@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "340",
+  "anio": "2016",
+  "titulo": "que declara de emergencia nacional las compras y contrataciones de bienes, servicios y obras por parte del Ministerio de Obras Publicas y Comunicaciones y del Instituto Nacional de la Vivienda, para ser utilizadas en las labores de reparación, construcción y reconstrucción de los daños ocasionados por las lluvias torrenciales que han afectado las provincias Puerto Plata, La Vega, Espaillat y María Trinidad Sánchez. G. O. No. 10863 del 25 de noviembre de 2016",
+  "fecha": "08/11/2016",
+  "gaceta_oficial": "10863",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379705&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379705&managementType=1",
+  "document_id_consultoria": "3379705",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-340-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-340-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-340-2016.json",
+  "sha256_pdf_original": "09f6e1689a31747e81506173dcf3f6811964b8e22d20533297f73eb9e4bec89f",
+  "sha256_markdown": "265f4042c69d40537f166d759adc67bd4b98f32dcfe4bed47dd3d20d258d8df6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    341
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 08/11/2016, mientras el apartado DADO del PDF indica 11/11/2016. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "340-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/11/2016",
+  "fecha_metadata_fuente": "08/11/2016",
+  "numero_formal_pdf": "340-16",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 08/11/2016, mientras el apartado DADO del PDF indica 11/11/2016. Se conservan ambos valores para revisión humana."
+  ]
+}

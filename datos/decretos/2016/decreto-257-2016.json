@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "257",
+  "anio": "2016",
+  "titulo": "que designa a la Arq. Alma Fernández, Directora del Centro de Desarrollo y Competitividad Industrial y al Lic. Leonardo González Mejía, Administrador del Parque Mirador Norte. G. O. No. 10859 del 3 de octubre de 2016",
+  "fecha": "14/09/2016",
+  "gaceta_oficial": "10859",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379597&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379597&managementType=1",
+  "document_id_consultoria": "3379597",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-257-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-257-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-257-2016.json",
+  "sha256_pdf_original": "31274b6f9096661f16e24af793c66553b55f272d6f22c8645904066d080f088a",
+  "sha256_markdown": "c50f9f2122f39173f444786d67a66eb1951b8209c1f7065ef19fde9d8ad44d32",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 14/09/2016, mientras el apartado DADO del PDF indica 15/09/2016. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "257-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/09/2016",
+  "fecha_metadata_fuente": "14/09/2016",
+  "numero_formal_pdf": "257-16",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 14/09/2016, mientras el apartado DADO del PDF indica 15/09/2016. Se conservan ambos valores para revisión humana."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "296",
+  "anio": "2016",
+  "titulo": "que modifica el numeral 2 del Artículo 1 del Decreto No. 368-13, que declaró de utilidad pública varias porciones de terrenos para ser destinadas a la construcción de edificaciones escolares. G. O. No.10860 del 21 de octubre de 2016",
+  "fecha": "17/10/2016",
+  "gaceta_oficial": "10860",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399767&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399767&managementType=1",
+  "document_id_consultoria": "3399767",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2016/decreto-296-2016.pdf",
+  "ruta_markdown": "docs/decretos/2016/decreto-296-2016.md",
+  "ruta_json": "datos/decretos/2016/decreto-296-2016.json",
+  "sha256_pdf_original": "b72f27bc4b3464cf70dae572ac99d20c2638350c65530f2f17f7919a1ef748aa",
+  "sha256_markdown": "6b08a00812a08286871703f9777e77709e311adf151418d7257b0f79a3bff99d",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    297
+  ],
+  "commit_publicacion": "",
+  "notas": "La consulta oficial contiene dos registros 296-16 con PDFs oficiales binariamente distintos: uno con capa de texto de Gaceta y otro de mayor tamaño; se usa la Gaceta con texto para extracción y se conserva la otra como rendición complementaria. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "296-16",
+  "anio_metadata_fuente": "2016",
+  "inventario_origen": "consultoria_inventario_2016_leyes_decretos.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3399767",
+      "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+      "ruta_pdf_local": "archivos/decretos/2016/decreto-296-2016.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399767&managementType=2",
+      "sha256_pdf": "b72f27bc4b3464cf70dae572ac99d20c2638350c65530f2f17f7919a1ef748aa",
+      "capa_texto": true,
+      "paginas": 2
+    },
+    {
+      "document_id_consultoria": "3379642",
+      "rol_archivistico": "pdf_oficial_complementario",
+      "ruta_pdf_local": "archivos/decretos/2016/decreto-296-2016-fuente-3379642.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379642&managementType=2",
+      "sha256_pdf": "145193154d42c8f1e27291e3f469571f3f63e123be1240845b80b75383cdd18b",
+      "capa_texto": true,
+      "paginas": 1
+    }
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/10/2016",
+  "numero_formal_pdf": "296-16",
+  "alertas_revision": [
+    "La consulta oficial contiene dos registros 296-16 con PDFs oficiales binariamente distintos: uno con capa de texto de Gaceta y otro de mayor tamaño; se usa la Gaceta con texto para extracción y se conserva la otra como rendición complementaria."
+  ]
+}

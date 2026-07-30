@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "anio": 2016,
+  "fecha_reconciliacion": "2026-07-30",
+  "identidades": {
+    "136": {
+      "canonico": "3377036",
+      "alertas_revision": [
+        "La consulta oficial contiene dos registros 136-16 con PDFs oficiales binariamente distintos; se preservan ambas rendiciones con ID, ruta y SHA256 propios."
+      ],
+      "observacion_reconciliacion": "Se usa como canónica la rendición ID 3377036 y se archiva la ID 3399765 como rendición oficial complementaria.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3377036",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2016/decreto-136-2016.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377036&managementType=2",
+          "sha256_pdf": "ab607ae1340caef5b0518a8c66d24ebe698f9a7fe6e1b9864ef7db2d365c74de",
+          "capa_texto": true,
+          "paginas": 1
+        },
+        {
+          "document_id_consultoria": "3399765",
+          "rol_archivistico": "pdf_oficial_complementario",
+          "ruta_pdf_local": "archivos/decretos/2016/decreto-136-2016-fuente-3399765.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399765&managementType=2",
+          "sha256_pdf": "acfde74da76a592dd558adac200ce6204e0bbf039f1ccf68cedcdc71b45358c5",
+          "capa_texto": true,
+          "paginas": 2
+        }
+      ]
+    },
+    "140": {
+      "canonico": "3377039",
+      "alertas_revision": [
+        "La consulta oficial contiene dos registros 140-16 con PDFs oficiales binariamente distintos y fechas de metadata distintas (31/03/2016 y 30/04/2016); se preservan ambas rendiciones y la fecha del registro canónico."
+      ],
+      "observacion_reconciliacion": "Se usa como canónica la rendición ID 3377039 y se archiva la ID 3399766 como rendición oficial complementaria.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3377039",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2016/decreto-140-2016.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3377039&managementType=2",
+          "sha256_pdf": "f3604bf27fa29e1c9f4e9b7428b485d920b4fbb93a19cb62e283ab56f4038758",
+          "capa_texto": true,
+          "paginas": 1
+        },
+        {
+          "document_id_consultoria": "3399766",
+          "rol_archivistico": "pdf_oficial_complementario",
+          "ruta_pdf_local": "archivos/decretos/2016/decreto-140-2016-fuente-3399766.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399766&managementType=2",
+          "sha256_pdf": "bf08769b11d8470723c65742839f260d053bf416f78d3057a11d766f69c210db",
+          "capa_texto": true,
+          "paginas": 2
+        }
+      ]
+    },
+    "296": {
+      "canonico": "3399767",
+      "alertas_revision": [
+        "La consulta oficial contiene dos registros 296-16 con PDFs oficiales binariamente distintos: uno con capa de texto de Gaceta y otro de mayor tamaño; se usa la Gaceta con texto para extracción y se conserva la otra como rendición complementaria."
+      ],
+      "observacion_reconciliacion": "Se usa como canónica la rendición ID 3399767 (Gaceta con texto) y se archiva la ID 3379642 como rendición oficial complementaria.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3399767",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2016/decreto-296-2016.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399767&managementType=2",
+          "sha256_pdf": "b72f27bc4b3464cf70dae572ac99d20c2638350c65530f2f17f7919a1ef748aa",
+          "capa_texto": true,
+          "paginas": 2
+        },
+        {
+          "document_id_consultoria": "3379642",
+          "rol_archivistico": "pdf_oficial_complementario",
+          "ruta_pdf_local": "archivos/decretos/2016/decreto-296-2016-fuente-3379642.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379642&managementType=2",
+          "sha256_pdf": "145193154d42c8f1e27291e3f469571f3f63e123be1240845b80b75383cdd18b",
+          "capa_texto": true,
+          "paginas": 1
+        }
+      ]
+    }
+  },
+  "fuentes_contextuales": {}
+}
