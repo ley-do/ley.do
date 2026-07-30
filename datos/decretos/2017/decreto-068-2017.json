@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "068",
+  "anio": "2017",
+  "titulo": "que pone en situación de retiro por el cese de sus funciones y con disfrute de las pensiones correspondientes, a los mayores generales: Ramón Antonio Aquino Garcia y Joaquín Virgilio Pérez Féliz, ERD, y Pedro Rafael Peña Antonio, F.A.R. G. O. No. 10877 del 3 de abril de 2017",
+  "fecha": "17/03/2017",
+  "gaceta_oficial": "10877",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381045&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381045&managementType=1",
+  "document_id_consultoria": "3381045",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2017/decreto-068-2017.pdf",
+  "ruta_markdown": "docs/decretos/2017/decreto-068-2017.md",
+  "ruta_json": "datos/decretos/2017/decreto-068-2017.json",
+  "sha256_pdf_original": "6cfd770299517e25e3aab22969d6dcaf720cbb1c087811f4247c9623a8f4f872",
+  "sha256_markdown": "871ee930d7f8c11f20a6b5e0ca6ebbe8a7cfb13281ce246370d969633b4f6887",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "No se detectó una cláusula DADO en el segmento extraído del PDF. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. PDF oficial compartido 67/68 documentado; texto del 68 incompleto en fuente oficial.",
+  "numero_registro_fuente": "68-17",
+  "anio_metadata_fuente": "2017",
+  "inventario_origen": "consultoria_inventario_2017_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "68-17",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO en el segmento extraído del PDF.",
+    "El endpoint oficial del Decreto 68-17 devuelve el mismo PDF binario que el del Decreto 67-17 (recorte oficial compartido de Gaceta). Se conserva copia canónica propia con el mismo SHA256.",
+    "El PDF oficial queda truncado para el Decreto 68-17: después del encabezado y la línea NÚMERO: 68-17 no incluye cuerpo dispositivo ni cláusula DADO. No se inventó texto faltante."
+  ]
+}

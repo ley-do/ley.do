@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "anio": 2017,
+  "fecha_reconciliacion": "2026-07-30",
+  "identidades": {
+    "78": {
+      "canonico": "3381055",
+      "alertas_revision": [
+        "La consulta oficial contiene dos registros 78-17 con PDFs oficiales binariamente distintos e idéntico texto extraíble; se preservan ambas rendiciones con ID, ruta y SHA256 propios."
+      ],
+      "observacion_reconciliacion": "Se usa como canónica la rendición ID 3381055 y se archiva la ID 3399611 como rendición oficial complementaria.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3381055",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2017/decreto-078-2017.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381055&managementType=2",
+          "sha256_pdf": "8da25fd2bb0f8ffd5d83ef5b605be4d6c21f34acbbea89e0aee014a6d8ac50be",
+          "capa_texto": true,
+          "paginas": 3
+        },
+        {
+          "document_id_consultoria": "3399611",
+          "rol_archivistico": "pdf_oficial_complementario",
+          "ruta_pdf_local": "archivos/decretos/2017/decreto-078-2017-fuente-3399611.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399611&managementType=2",
+          "sha256_pdf": "39b6ac6f069ac91be1c44131f52d29ac30bd5821d376b45be1efb3ba3f77c657",
+          "capa_texto": true,
+          "paginas": 3
+        }
+      ]
+    },
+    "199": {
+      "canonico": "3399606",
+      "alertas_revision": [
+        "El registro adicional 199-17 ID 3383149 responde HTTP 500 en ambos endpoints oficiales; se conserva como fuente contextual y no se inventa PDF ni texto."
+      ],
+      "observacion_reconciliacion": "Se usa como canónica la rendición descargable ID 3399606. El registro ID 3383149 permanece contextual por PDF no disponible."
+    }
+  },
+  "fuentes_contextuales": {
+    "3383149": {
+      "rol_reconciliacion": "fuente_contextual_pdf_no_disponible",
+      "observacion_reconciliacion": "Registro oficial 199-17 cuyo FileManagement devolvió HTTP 500 en managementType 1 y 2; no se trató como rendición legal ni se inventó un PDF."
+    }
+  }
+}

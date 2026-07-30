@@ -125,6 +125,10 @@ def audit(repo,inventory_path,year):
             no_dado.append(number)
             if alerts: documented_unparseable.append(number)
             else: errors.append(f"Decreto {number}: DADO no parseable sin alerta")
+        elif state=="clausula_dado_no_detectada":
+            no_dado.append(number)
+            if not alerts:
+                errors.append(f"Decreto {number}: DADO no detectado sin alerta")
         else: errors.append(f"Decreto {number}: estado_fecha_texto_pdf inválido: {state}")
         if metadata.get("fecha_metadata_fuente"):
             date_discrepancies.append(number)
@@ -141,7 +145,21 @@ def audit(repo,inventory_path,year):
             formal_discrepancies.append({"numero":number,"numero_formal_pdf":formal_text})
             if "línea formal" not in alert_text: errors.append(f"Decreto {number}: discrepancia formal {formal_text} sin alerta")
     duplicate_hashes=[{"sha256":digest,"numeros":numbers} for digest,numbers in sorted(hash_groups.items()) if len(numbers)>1]
-    if duplicate_hashes: errors.append("Hay PDFs canónicos distintos con hash repetido")
+    for group in duplicate_hashes:
+        documented=True
+        for number in group["numeros"]:
+            metadata_path=data_root/f"decreto-{number:03d}-{year}.json"
+            try: metadata=json.loads(metadata_path.read_text(encoding="utf-8"))
+            except (OSError,json.JSONDecodeError):
+                documented=False; break
+            alerts=metadata.get("alertas_revision") if isinstance(metadata.get("alertas_revision"),list) else []
+            alert_text=" ".join(str(item) for item in alerts).lower()
+            if not any(token in alert_text for token in ("pdf idéntico","pdf identico","mismo pdf","hash repet","binariamente idént","binariamente ident","recorte oficial compart")):
+                documented=False; break
+        if not documented:
+            errors.append(f"Hay PDFs canónicos distintos con hash repetido sin documentación: {group['numeros']}")
+        else:
+            warnings.append(f"PDFs canónicos con hash repetido documentado como recorte oficial compartido: {group['numeros']}")
     index_path=_safe_repo_path(repo,f"docs/decretos/{year}/index.md",allowed_root=md_root)
     try: index_content=index_path.read_text(encoding="utf-8")
     except OSError: index_content=""; errors.append("Falta el índice anual")
