@@ -101,6 +101,13 @@ def audit(repo,inventory_path,year):
         try: metadata=json.loads(metadata_path.read_text(encoding="utf-8"))
         except (OSError,json.JSONDecodeError): continue
         alerts=metadata.get("alertas_revision") if isinstance(metadata.get("alertas_revision"),list) else []; alert_text=" ".join(str(item) for item in alerts).lower()
+        source_record=record_by_number[number]
+        source_date=str(source_record.get("fecha_documento") or "").strip(); metadata_date=str(metadata.get("fecha") or "").strip()
+        if metadata_date!=source_date:
+            errors.append(f"Decreto {number}: fecha del JSON no coincide con la fuente reconciliada (JSON: {metadata_date!r}; fuente: {source_date!r})")
+        source_gaceta=str(source_record.get("gaceta_oficial") or "").strip(); metadata_gaceta=str(metadata.get("gaceta_oficial") or "").strip()
+        if metadata_gaceta!=source_gaceta:
+            errors.append(f"Decreto {number}: Gaceta del JSON no coincide con la fuente reconciliada (JSON: {metadata_gaceta!r}; fuente: {source_gaceta!r})")
         pdf_path=pdf_root/f"decreto-{number:03d}-{year}.pdf"
         try: formal_text,formal_number,formal_year,pdf_observed,pdf_state=_read_pdf_evidence(pdf_path,number,year)
         except Exception as exc: errors.append(f"Decreto {number}: no se pudo verificar la evidencia del PDF: {exc}"); continue

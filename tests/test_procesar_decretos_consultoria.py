@@ -665,7 +665,7 @@ class ProcesarDecretosTests(unittest.TestCase):
                     "titulo": "Gaceta contextual",
                     "document_id_consultoria": "gaceta",
                     "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/gaceta",
-                    "rol_reconciliacion": "fuente_contextual_no_decreto",
+                    "rol_reconciliacion": "fuente_contextual_fuera_de_anio",
                 },
             ]
             inventory.write_text(

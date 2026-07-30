@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "131",
+  "anio": "2018",
+  "titulo": "que modifica el numeral 31 del Art.1 del Decreto num.366-13; el numeral 3 del Art.1 del Decreto num.295-16, y deroga el numeral 6 del Art.1 del Decreto num.290-16, que declararon terrenos de utilidad pública para fines de edificaciones escolares. G. O. No. 10908 del 5 de abril de 2018. DANILO MEDINA",
+  "fecha": "05/04/2018",
+  "gaceta_oficial": "10908",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3387788&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3387788&managementType=1",
+  "document_id_consultoria": "3387788",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2018/decreto-131-2018.pdf",
+  "ruta_markdown": "docs/decretos/2018/decreto-131-2018.md",
+  "ruta_json": "datos/decretos/2018/decreto-131-2018.json",
+  "sha256_pdf_original": "0c80d5f3895fa75a95e096f6eb7160197fae822127a898a0ad3f4ff25a5046c6",
+  "sha256_markdown": "fad590912bce710eac22e9b5564ab07fc86bef0ab5c9a537404d7c7e37fd0903",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 05/04/2018, mientras el apartado DADO del PDF indica 28/03/2018. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "131-18",
+  "anio_metadata_fuente": "2018",
+  "inventario_origen": "consultoria_inventario_2018_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "28/03/2018",
+  "fecha_metadata_fuente": "05/04/2018",
+  "numero_formal_pdf": "131-18",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 05/04/2018, mientras el apartado DADO del PDF indica 28/03/2018. Se conservan ambos valores para revisión humana."
+  ]
+}

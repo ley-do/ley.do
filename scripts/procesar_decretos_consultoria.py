@@ -341,7 +341,7 @@ def generate_index(repo,inventario_path,year):
         if metadata is not None: related=f"[Decreto {identity:03d}-{year}](decreto-{identity:03d}-{year}.md)"
         role=record.get("rol_reconciliacion","")
         if role=="rendicion_complementaria": state="rendición oficial relacionada · pendiente_revision"
-        elif role=="fuente_contextual_no_decreto": state="fuente contextual oficial · pendiente_revision"
+        elif role.startswith("fuente_contextual"): state="fuente contextual oficial · pendiente_revision"
         elif metadata is not None: state="normalizado con alerta · pendiente_revision" if metadata.get("alertas_revision") else "normalizado · pendiente_revision"
         else: state="descubierto · pendiente_revision"
         document_id=_cell(record.get("document_id_consultoria")); official=str(record.get("url_documento_consultoria_abrir") or "").strip()

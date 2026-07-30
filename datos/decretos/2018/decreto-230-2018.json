@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "230",
+  "anio": "2018",
+  "titulo": "que establece y regula la Estrategia Nacional de Ciberseguridad 2018- 2021. G. O. No. 10912 del 2 de julio de 2018. DANILO MEDINA",
+  "fecha": "15/06/2018",
+  "gaceta_oficial": "10912",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3388990&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3388990&managementType=1",
+  "document_id_consultoria": "3388990",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2018/decreto-230-2018.pdf",
+  "ruta_markdown": "docs/decretos/2018/decreto-230-2018.md",
+  "ruta_json": "datos/decretos/2018/decreto-230-2018.json",
+  "sha256_pdf_original": "3cff1cd11b08bb70a4c6c626720f6bfe9efbb31c8264af305212c52f674623e3",
+  "sha256_markdown": "1595d8d49de29c8df3f9cc48ef93bca47431226b7d71524d81f1b967c55301ae",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    231
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 15/06/2018, mientras el apartado DADO del PDF indica 19/06/2018. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "230-18",
+  "anio_metadata_fuente": "2018",
+  "inventario_origen": "consultoria_inventario_2018_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/06/2018",
+  "fecha_metadata_fuente": "15/06/2018",
+  "numero_formal_pdf": "230-18",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 15/06/2018, mientras el apartado DADO del PDF indica 19/06/2018. Se conservan ambos valores para revisión humana."
+  ]
+}
