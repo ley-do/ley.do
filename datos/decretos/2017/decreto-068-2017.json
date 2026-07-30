@@ -1,0 +1,37 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "numero": "068",
+  "numero_registro_fuente": "68-17",
+  "anio": "2017",
+  "titulo": "QUE PONE EN SITUACIÓN DE RETIRO POR EL CESE DE SUS FUNCIONES Y CON DISFRUTE DE LAS PENSIONES CORRESP...",
+  "fecha": "17/03/2017",
+  "gaceta_oficial": "10877",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381045&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381045&managementType=1",
+  "document_id_consultoria": "3381045",
+  "fecha_consulta": "2026-07-30",
+  "ruta_pdf_local": "",
+  "ruta_markdown": "docs/decretos/2017/decreto-068-2017.md",
+  "ruta_json": "datos/decretos/2017/decreto-068-2017.json",
+  "sha256_pdf_original": "",
+  "sha256_markdown": "7025c4aeb25810a706f30ba9cc9d0fdfb96e4592d25594b93c34f7d9bf90c3ee",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "descubierto",
+  "estado_extraccion": "pendiente_encontrar_pdf",
+  "commit_publicacion": "",
+  "evidencia_pdf_no_disponible": {
+    "motivo": "El endpoint oficial del ID 3381045 entrega la misma página 37 asignada al Decreto 67-17: contiene el Decreto 67 completo y solo el encabezado y la línea formal del 68-17. El ID vecino 3381046 comienza con la continuación y el DADO del 68-17 antes del Decreto 69-17. No se localizó todavía un PDF oficial completo.",
+    "document_ids_recortes": [
+      "3381045",
+      "3381046"
+    ],
+    "pdf_derivado_creado": false
+  },
+  "alertas_revision": [
+    "No se recuperó un PDF oficial completo del Decreto 68-17; los recortes oficiales no se fusionaron."
+  ],
+  "notas": "No se recuperó un PDF oficial completo. Los recortes oficiales no se fusionaron. Pendiente localizar PDF y revisar humanamente."
+}

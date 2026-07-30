@@ -133,6 +133,45 @@ def _anio(record):
     return int(explicit) if explicit.isdigit() else None
 
 
+def _pending_evidence(record):
+    if record.get("estado_extraccion") != "pendiente_encontrar_pdf":
+        return None
+    evidence = record.get("evidencia_pdf_no_disponible")
+    if not isinstance(evidence, dict) or not str(evidence.get("motivo") or "").strip():
+        raise ValueError("evidencia_pdf_no_disponible inválida")
+    fragment_ids = evidence.get("document_ids_recortes")
+    if not isinstance(fragment_ids, list) or not fragment_ids or any(not str(item).strip() for item in fragment_ids):
+        raise ValueError("evidencia_pdf_no_disponible sin document_ids_recortes válidos")
+    if evidence.get("pdf_derivado_creado") is not False:
+        raise ValueError("Un pendiente_encontrar_pdf debe confirmar pdf_derivado_creado=false")
+    if record.get("rendiciones_oficiales_relacionadas"):
+        raise ValueError("Un pendiente_encontrar_pdf no puede declarar rendiciones completas")
+    return evidence
+
+
+def _write_pending_package(repo,year,number,record):
+    repo=Path(repo).resolve(); evidence=_pending_evidence(record)
+    if evidence is None:
+        raise ValueError("El registro no está marcado pendiente_encontrar_pdf")
+    stem=f"decreto-{number:03d}-{year}"; pdf_root=repo/f"archivos/decretos/{year}"; md_root=repo/f"docs/decretos/{year}"; data_root=repo/f"datos/decretos/{year}"
+    expected_pdf=_safe_repo_path(repo,f"archivos/decretos/{year}/{stem}.pdf",allowed_root=pdf_root)
+    if expected_pdf.exists():
+        raise ValueError(f"Existe un PDF local para {stem}; debe revisarse y retirarse explícitamente antes de marcarlo pendiente")
+    md_path=_safe_repo_path(repo,f"docs/decretos/{year}/{stem}.md",allowed_root=md_root); json_path=_safe_repo_path(repo,f"datos/decretos/{year}/{stem}.json",allowed_root=data_root)
+    source_url=_markdown_url(record.get("url_fuente_oficial")); open_url=_markdown_url(record.get("url_documento_consultoria_abrir")); download_url=_markdown_url(record.get("url_documento_consultoria_descargar"))
+    alerts=record.get("alertas_revision")
+    if not isinstance(alerts,list) or not alerts or any(not str(item).strip() for item in alerts):
+        raise ValueError("Un pendiente_encontrar_pdf requiere alertas_revision")
+    fragment_ids=", ".join(_cell(item) for item in evidence["document_ids_recortes"])
+    markdown="\n".join([
+        f"# Decreto núm. {number:03d}-{year}","",'!!! warning "Aviso"',"    LEY.DO no es una fuente oficial. Verifique este documento contra la fuente oficial indicada.","    LEY.DO no ofrece asesoría legal.","","## Metadata","",f"- Tipo de documento: decreto",f"- Número: {number:03d}",f"- Año: {year}",f"- Título en la fuente: {_cell(record.get('titulo'))}",f"- Fecha: {_cell(record.get('fecha_documento'))}",f"- Gaceta Oficial: {_cell(record.get('gaceta_oficial'))}",f"- Institución fuente: {_cell(record.get('institucion_fuente'))}",f"- Fuente oficial: [{_cell(source_url)}]({source_url})",f"- Registro oficial: [Abrir en Consultoría Jurídica]({open_url})",f"- Endpoint de descarga registrado: [{_cell(download_url)}]({download_url})",f"- PDF original completo: pendiente de localizar",f"- Estado de extracción: `pendiente_encontrar_pdf`",f"- Estado de revisión: `pendiente_revision`","","## Texto","","El texto no se incorpora porque no se recuperó un PDF oficial completo y verificable desde el registro correspondiente.","","## Notas de revisión","",f"- {_cell(evidence.get('motivo'))}",f"- IDs oficiales de recortes observados: {fragment_ids}.","- Los recortes no se fusionaron ni se presentaron como PDF original.",*[f"- {_cell(alert)}" for alert in alerts],"- Pendiente localizar un PDF oficial completo.","- Pendiente de revisión humana.",""])
+    _atomic_write_text(md_path,markdown)
+    metadata={
+        "tipo_documento":"decreto","categoria_inventario_fuente":"decretos","numero":f"{number:03d}","numero_registro_fuente":str(record.get("numero") or ""),"anio":str(year),"titulo":str(record.get("titulo") or ""),"fecha":str(record.get("fecha_documento") or ""),"gaceta_oficial":str(record.get("gaceta_oficial") or ""),"institucion_fuente":str(record.get("institucion_fuente") or ""),"url_fuente_oficial":str(record.get("url_fuente_oficial") or ""),"url_pdf_original":str(record.get("url_documento_consultoria_descargar") or ""),"url_documento_oficial":str(record.get("url_documento_consultoria_abrir") or ""),"document_id_consultoria":str(record.get("document_id_consultoria") or ""),"fecha_consulta":datetime.now(timezone.utc).date().isoformat(),"ruta_pdf_local":"","ruta_markdown":md_path.relative_to(repo).as_posix(),"ruta_json":json_path.relative_to(repo).as_posix(),"sha256_pdf_original":"","sha256_markdown":_hash_file(md_path),"estado_revision":"pendiente_revision","estado_publicacion":"descubierto","estado_extraccion":"pendiente_encontrar_pdf","commit_publicacion":"","evidencia_pdf_no_disponible":evidence,"alertas_revision":alerts,"notas":"No se recuperó un PDF oficial completo. Los recortes oficiales no se fusionaron. Pendiente localizar PDF y revisar humanamente."
+    }
+    _atomic_write_text(json_path,json.dumps(metadata,ensure_ascii=False,indent=2)+"\n")
+
+
 def process_documents(repo,inventario_path,year,numbers,downloader=download_pdf,normalizer=None):
     repo=Path(repo).resolve(); inventory_resolved=Path(inventario_path).resolve()
     try: inventory_relative=inventory_resolved.relative_to(repo)
@@ -157,6 +196,10 @@ def process_documents(repo,inventario_path,year,numbers,downloader=download_pdf,
             if len(candidates)!=1:
                 raise ValueError(f"Se esperaban 1 registro para {number}; encontrados: {len(candidates)}")
             record=candidates[0]; stem=f"decreto-{number:03d}-{year}"
+            if record.get("estado_extraccion") == "pendiente_encontrar_pdf":
+                _write_pending_package(repo,year,number,record)
+                result["ok"].append(number)
+                continue
             canonical=_safe_repo_path(repo,f"archivos/decretos/{year}/{stem}.pdf",allowed_root=pdf_root)
             canonical_url=_validate_official_url(record["url_documento_consultoria_descargar"])
             rendition_pairs=[]
@@ -267,14 +310,24 @@ def _validated_packages(repo,inventory,year):
         if not expected_id or str(metadata.get("document_id_consultoria") or "").strip()!=expected_id: continue
         if _numero(metadata)!=identity or _anio(metadata)!=year: continue
         try:
-            pdf_path=_safe_repo_path(repo,metadata.get("ruta_pdf_local",""),allowed_root=pdf_root)
             md_path=_safe_repo_path(repo,metadata.get("ruta_markdown",""),allowed_root=md_root)
             json_path=_safe_repo_path(repo,metadata.get("ruta_json",""),allowed_root=data_root)
         except ValueError: continue
-        if pdf_path!=expected_pdf or md_path!=expected_md or json_path!=package or not _valid_pdf(pdf_path) or not md_path.is_file(): continue
-        if not metadata.get("sha256_pdf_original") or _hash_file(pdf_path)!=str(metadata.get("sha256_pdf_original")).lower(): continue
+        if md_path!=expected_md or json_path!=package or not md_path.is_file(): continue
         if not metadata.get("sha256_markdown") or _hash_file(md_path)!=str(metadata.get("sha256_markdown")).lower(): continue
-        if metadata.get("estado_revision")!="pendiente_revision" or metadata.get("estado_publicacion")!="normalizado" or metadata.get("estado_extraccion")!="extraido_desde_pdf_oficial": continue
+        pending=record.get("estado_extraccion")=="pendiente_encontrar_pdf"
+        if pending:
+            try: evidence=_pending_evidence(record)
+            except ValueError: continue
+            if metadata.get("estado_revision")!="pendiente_revision" or metadata.get("estado_publicacion")!="descubierto" or metadata.get("estado_extraccion")!="pendiente_encontrar_pdf": continue
+            if metadata.get("ruta_pdf_local")!="" or metadata.get("sha256_pdf_original")!="" or expected_pdf.exists(): continue
+            if metadata.get("evidencia_pdf_no_disponible")!=evidence or metadata.get("rendiciones_oficiales_relacionadas"): continue
+        else:
+            try: pdf_path=_safe_repo_path(repo,metadata.get("ruta_pdf_local",""),allowed_root=pdf_root)
+            except ValueError: continue
+            if pdf_path!=expected_pdf or not _valid_pdf(pdf_path): continue
+            if not metadata.get("sha256_pdf_original") or _hash_file(pdf_path)!=str(metadata.get("sha256_pdf_original")).lower(): continue
+            if metadata.get("estado_revision")!="pendiente_revision" or metadata.get("estado_publicacion")!="normalizado" or metadata.get("estado_extraccion")!="extraido_desde_pdf_oficial": continue
         expected_urls={"url_fuente_oficial":record.get("url_fuente_oficial"),"url_pdf_original":record.get("url_documento_consultoria_descargar"),"url_documento_oficial":record.get("url_documento_consultoria_abrir")}
         urls_valid=True
         for field,expected_url in expected_urls.items():
@@ -289,6 +342,9 @@ def _validated_packages(repo,inventory,year):
         except OSError: continue
         required=("LEY.DO no es una fuente oficial.","LEY.DO no ofrece asesoría legal.","## Metadata","## Texto","## Notas de revisión")
         if any(marker not in markdown_content for marker in required): continue
+        if pending:
+            validated[identity]=metadata
+            continue
         expected_hash=str(record.get("sha256_pdf") or "").strip().lower()
         if not expected_hash:
             for rendition in record.get("rendiciones_oficiales_relacionadas",[]):
@@ -342,6 +398,7 @@ def generate_index(repo,inventario_path,year):
         role=record.get("rol_reconciliacion","")
         if role=="rendicion_complementaria": state="rendición oficial relacionada · pendiente_revision"
         elif role.startswith("fuente_contextual"): state="fuente contextual oficial · pendiente_revision"
+        elif metadata is not None and metadata.get("estado_extraccion")=="pendiente_encontrar_pdf": state="pendiente_encontrar_pdf · pendiente_revision"
         elif metadata is not None: state="normalizado con alerta · pendiente_revision" if metadata.get("alertas_revision") else "normalizado · pendiente_revision"
         else: state="descubierto · pendiente_revision"
         document_id=_cell(record.get("document_id_consultoria")); official=str(record.get("url_documento_consultoria_abrir") or "").strip()

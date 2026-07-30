@@ -69,4 +69,19 @@ class AuditorDecretosTests(unittest.TestCase):
             self.assertTrue(any("dado" in error.lower() and "pdf" in error.lower() for error in report["errores"]))
 
 
+    def test_audita_pendiente_encontrar_pdf_documentado_sin_exigir_pdf(self):
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td); evidence={"motivo":"El endpoint solo contiene un recorte.","document_ids_recortes":["id-68","id-69"],"pdf_derivado_creado":False}
+            record={"numero":"68-19","anio":"2019","identidad_documental_numero":68,"document_id_consultoria":"id-68","institucion_fuente":"Consultoria Juridica","url_fuente_oficial":"https://www.consultoria.gov.do/consulta/","url_documento_consultoria_descargar":"https://www.consultoria.gov.do/68.pdf","url_documento_consultoria_abrir":"https://www.consultoria.gov.do/68","titulo":"Documento incompleto","fecha_documento":"17/03/2019","gaceta_oficial":"10900","estado_extraccion":"pendiente_encontrar_pdf","evidencia_pdf_no_disponible":evidence,"alertas_revision":["No se localizó un PDF oficial completo."]}
+            inventory=root/"fuentes/inventario.json"; inventory.parent.mkdir(parents=True); inventory.write_text(json.dumps({"resumen":{"total_registros_fuente":1,"total_identidades_documentales":1},"registros_fuente":[record],"documentos":{"decretos":[record]}}),encoding="utf-8")
+            md=root/"docs/decretos/2019/decreto-068-2019.md"; js=root/"datos/decretos/2019/decreto-068-2019.json"; md.parent.mkdir(parents=True); js.parent.mkdir(parents=True)
+            md.write_text("# Decreto 068-2019\n\nLEY.DO no es una fuente oficial.\nLEY.DO no ofrece asesoría legal.\n\n## Metadata\n\n## Texto\n\nEl texto no se incorpora porque no se recuperó un PDF oficial completo.\n\n## Notas de revisión\n",encoding="utf-8")
+            metadata={"numero":"068","anio":"2019","document_id_consultoria":"id-68","institucion_fuente":"Consultoria Juridica","url_fuente_oficial":"https://www.consultoria.gov.do/consulta/","url_pdf_original":"https://www.consultoria.gov.do/68.pdf","url_documento_oficial":"https://www.consultoria.gov.do/68","fecha":"17/03/2019","gaceta_oficial":"10900","ruta_pdf_local":"","ruta_markdown":"docs/decretos/2019/decreto-068-2019.md","ruta_json":"datos/decretos/2019/decreto-068-2019.json","sha256_pdf_original":"","sha256_markdown":hashlib.sha256(md.read_bytes()).hexdigest(),"estado_revision":"pendiente_revision","estado_publicacion":"descubierto","estado_extraccion":"pendiente_encontrar_pdf","evidencia_pdf_no_disponible":evidence,"alertas_revision":["No se localizó un PDF oficial completo."]}
+            js.write_text(json.dumps(metadata),encoding="utf-8"); generate_index(root,inventory,2019)
+            report=audit(root,inventory,2019)
+            self.assertEqual(report["errores"],[])
+            self.assertEqual(report["resumen"]["documentos_pendientes_encontrar_pdf"],1)
+            self.assertEqual(report["resumen"]["pdfs_locales"],0)
+
+
 if __name__=="__main__": unittest.main()

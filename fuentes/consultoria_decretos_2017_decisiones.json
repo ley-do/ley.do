@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "anio": 2017,
+  "fecha_reconciliacion": "2026-07-30",
+  "identidades": {
+    "68": {
+      "canonico": "3381045",
+      "estado_extraccion": "pendiente_encontrar_pdf",
+      "evidencia_pdf_no_disponible": {
+        "motivo": "El endpoint oficial del ID 3381045 entrega la misma página 37 asignada al Decreto 67-17: contiene el Decreto 67 completo y solo el encabezado y la línea formal del 68-17. El ID vecino 3381046 comienza con la continuación y el DADO del 68-17 antes del Decreto 69-17. No se localizó todavía un PDF oficial completo.",
+        "document_ids_recortes": [
+          "3381045",
+          "3381046"
+        ],
+        "pdf_derivado_creado": false
+      },
+      "alertas_revision": [
+        "No se recuperó un PDF oficial completo del Decreto 68-17; los recortes oficiales no se fusionaron."
+      ],
+      "observacion_reconciliacion": "El registro se conserva como identidad canónica descubierta, pendiente de localizar PDF oficial completo. El PDF fragmentario no se publica como original completo."
+    },
+    "78": {
+      "canonico": "3381055",
+      "alertas_revision": [
+        "La consulta oficial contiene dos PDFs para 78-17 con páginas, texto y renderizado idénticos, pero hashes binarios y metadatos de creación distintos; ambas rendiciones se preservan por separado."
+      ],
+      "observacion_reconciliacion": "Se usa como canónica la rendición ID 3381055, con metadatos de creación de 2017; la rendición ID 3399611, con metadatos de creación de 2022, se conserva como copia oficial complementaria sin inferir diferencias legales.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3381055",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2017/decreto-078-2017.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381055&managementType=2",
+          "sha256_pdf": "8da25fd2bb0f8ffd5d83ef5b605be4d6c21f34acbbea89e0aee014a6d8ac50be",
+          "capa_texto": true,
+          "paginas": 3
+        },
+        {
+          "document_id_consultoria": "3399611",
+          "rol_archivistico": "rendicion_oficial_complementaria_misma_composicion",
+          "ruta_pdf_local": "archivos/decretos/2017/decreto-078-2017-fuente-3399611.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399611&managementType=2",
+          "sha256_pdf": "39b6ac6f069ac91be1c44131f52d29ac30bd5821d376b45be1efb3ba3f77c657",
+          "capa_texto": true,
+          "paginas": 3
+        }
+      ]
+    },
+    "199": {
+      "canonico": "3399606",
+      "alertas_revision": [
+        "El registro adicional ID 3383149 para 199-17 devuelve HTTP 500 en el endpoint oficial; se conserva como fuente contextual y no se inventa ni sustituye su PDF."
+      ],
+      "observacion_reconciliacion": "Se usa como canónico el PDF oficial accesible ID 3399606, cuya línea formal es NUMERO: 199-17 y cuya metadata coincide con Gaceta Oficial 10885.",
+      "rendiciones": [
+        {
+          "document_id_consultoria": "3399606",
+          "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+          "ruta_pdf_local": "archivos/decretos/2017/decreto-199-2017.pdf",
+          "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399606&managementType=2",
+          "sha256_pdf": "2addad5479928011a781a73f48ffec947f11e2a35a55270ec0988854886d146e",
+          "capa_texto": true,
+          "paginas": 3
+        }
+      ]
+    }
+  },
+  "fuentes_contextuales": {
+    "3383149": {
+      "rol_reconciliacion": "fuente_contextual_atipica",
+      "observacion_reconciliacion": "Registro oficial adicional para 199-17 con Gaceta “GACETA DIGITAL” y endpoint de descarga que devolvió HTTP 500 el 2026-07-30; no se trató como rendición archivada ni se inventó un PDF."
+    }
+  }
+}

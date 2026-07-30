@@ -13,10 +13,10 @@ import fitz
 
 try:
     from scripts.normalizar_decretos_consultoria import extract
-    from scripts.procesar_decretos_consultoria import _atomic_write_text,_hash_file,_safe_repo_path,_validated_packages
+    from scripts.procesar_decretos_consultoria import _atomic_write_text,_hash_file,_pending_evidence,_safe_repo_path,_validated_packages
 except ModuleNotFoundError:
     from normalizar_decretos_consultoria import extract
-    from procesar_decretos_consultoria import _atomic_write_text,_hash_file,_safe_repo_path,_validated_packages
+    from procesar_decretos_consultoria import _atomic_write_text,_hash_file,_pending_evidence,_safe_repo_path,_validated_packages
 
 DATE_RE=re.compile(r"^(\d{2})/(\d{2})/(\d{4})$")
 FORMAL_RE=re.compile(r"(?im)^N[ÚU]MERO:\s*(\d+)\s*-\s*(\d{2}|\d{4})\b")
@@ -85,7 +85,9 @@ def audit(repo,inventory_path,year):
     expected_pdfs=set(); expected_md=set(); expected_json=set(); special_renditions={}
     record_by_number={_number(record):record for record in canonical}
     for number,record in record_by_number.items():
-        stem=f"decreto-{number:03d}-{year}"; expected_pdfs.add(f"archivos/decretos/{year}/{stem}.pdf"); expected_md.add(f"docs/decretos/{year}/{stem}.md"); expected_json.add(f"datos/decretos/{year}/{stem}.json")
+        stem=f"decreto-{number:03d}-{year}"
+        if record.get("estado_extraccion")!="pendiente_encontrar_pdf": expected_pdfs.add(f"archivos/decretos/{year}/{stem}.pdf")
+        expected_md.add(f"docs/decretos/{year}/{stem}.md"); expected_json.add(f"datos/decretos/{year}/{stem}.json")
         renditions=[]
         for item in record.get("rendiciones_oficiales_relacionadas",[]):
             path=_safe_repo_path(repo,item.get("ruta_pdf_local",""),allowed_root=pdf_root).relative_to(repo).as_posix(); expected_pdfs.add(path); renditions.append(path)
@@ -95,7 +97,7 @@ def audit(repo,inventory_path,year):
         missing=sorted(expected-actual); extra=sorted(actual-expected)
         if missing: errors.append(f"{label} faltantes: {missing}")
         if extra: errors.append(f"{label} huérfanos: {extra}")
-    date_discrepancies=[]; no_dado=[]; documented_unparseable=[]; no_formal=[]; formal_discrepancies=[]; neighbor_fragments=[]; hash_groups=defaultdict(list)
+    date_discrepancies=[]; no_dado=[]; documented_unparseable=[]; no_formal=[]; formal_discrepancies=[]; neighbor_fragments=[]; pending_documents=[]; hash_groups=defaultdict(list)
     for number in sorted(record_by_number):
         metadata_path=data_root/f"decreto-{number:03d}-{year}.json"
         try: metadata=json.loads(metadata_path.read_text(encoding="utf-8"))
@@ -109,6 +111,15 @@ def audit(repo,inventory_path,year):
         if metadata_gaceta!=source_gaceta:
             errors.append(f"Decreto {number}: Gaceta del JSON no coincide con la fuente reconciliada (JSON: {metadata_gaceta!r}; fuente: {source_gaceta!r})")
         pdf_path=pdf_root/f"decreto-{number:03d}-{year}.pdf"
+        if source_record.get("estado_extraccion")=="pendiente_encontrar_pdf":
+            try: evidence=_pending_evidence(source_record)
+            except ValueError as exc: errors.append(f"Decreto {number}: pendiente de PDF inválido: {exc}"); continue
+            if metadata.get("estado_extraccion")!="pendiente_encontrar_pdf" or metadata.get("estado_publicacion")!="descubierto": errors.append(f"Decreto {number}: estado pendiente no conservado en el paquete")
+            if metadata.get("evidencia_pdf_no_disponible")!=evidence: errors.append(f"Decreto {number}: evidencia de PDF no disponible no coincide con la fuente reconciliada")
+            if metadata.get("ruta_pdf_local") or metadata.get("sha256_pdf_original") or pdf_path.exists(): errors.append(f"Decreto {number}: un pendiente_encontrar_pdf no puede presentar PDF local ni hash")
+            if not alerts: errors.append(f"Decreto {number}: pendiente_encontrar_pdf sin alerta")
+            pending_documents.append(number)
+            continue
         try: formal_text,formal_number,formal_year,pdf_observed,pdf_state=_read_pdf_evidence(pdf_path,number,year)
         except Exception as exc: errors.append(f"Decreto {number}: no se pudo verificar la evidencia del PDF: {exc}"); continue
         state=metadata.get("estado_fecha_texto_pdf"); observed=str(metadata.get("fecha_texto_pdf_detectada") or "")
@@ -151,8 +162,8 @@ def audit(repo,inventory_path,year):
     report={
         "schema_version":"1.1","fecha_auditoria":datetime.now(timezone.utc).isoformat(),"anio":year,
         "fuente_reconciliada":inventory_path.relative_to(repo).as_posix(),"sha256_fuente_reconciliada":_hash_file(inventory_path),
-        "resumen":{"registros_fuente":len(source_records),"identidades_documentales":len(canonical),"pdfs_locales":len(actual_pdfs),"markdown":len(actual_md),"json":len(actual_json),"filas_indice":len(index_rows),"ids_indice_unicos":len(set(index_ids)),"paquetes_validados":len(validated),"documentos_con_fragmentos_vecinos_delimitados":len(neighbor_fragments),"discrepancias_fecha_documentadas":len(date_discrepancies),"documentos_sin_fecha_dado_detectable":len(no_dado),"documentos_fecha_no_parseable_con_alerta":len(documented_unparseable),"documentos_sin_linea_formal_numero_detectable":len(no_formal),"discrepancias_numero_formal_documentadas":len(formal_discrepancies),"grupos_pdf_canonicos_con_hash_repetido":len(duplicate_hashes),"errores":len(errors),"advertencias":len(warnings)},
-        "discrepancias_fecha":date_discrepancies,"documentos_sin_fecha_dado_detectable":no_dado,"fechas_no_parseables_documentadas":documented_unparseable,"documentos_sin_linea_formal_numero_detectable":no_formal,"discrepancias_numero_formal":formal_discrepancies,"fragmentos_vecinos_delimitados":neighbor_fragments,"grupos_pdf_canonicos_con_hash_repetido":duplicate_hashes,"rendiciones_especiales":special_renditions,"advertencias":warnings,"errores":errors,
+        "resumen":{"registros_fuente":len(source_records),"identidades_documentales":len(canonical),"pdfs_locales":len(actual_pdfs),"markdown":len(actual_md),"json":len(actual_json),"filas_indice":len(index_rows),"ids_indice_unicos":len(set(index_ids)),"paquetes_validados":len(validated),"documentos_con_fragmentos_vecinos_delimitados":len(neighbor_fragments),"discrepancias_fecha_documentadas":len(date_discrepancies),"documentos_sin_fecha_dado_detectable":len(no_dado),"documentos_fecha_no_parseable_con_alerta":len(documented_unparseable),"documentos_sin_linea_formal_numero_detectable":len(no_formal),"discrepancias_numero_formal_documentadas":len(formal_discrepancies),"documentos_pendientes_encontrar_pdf":len(pending_documents),"grupos_pdf_canonicos_con_hash_repetido":len(duplicate_hashes),"errores":len(errors),"advertencias":len(warnings)},
+        "discrepancias_fecha":date_discrepancies,"documentos_pendientes_encontrar_pdf":pending_documents,"documentos_sin_fecha_dado_detectable":no_dado,"fechas_no_parseables_documentadas":documented_unparseable,"documentos_sin_linea_formal_numero_detectable":no_formal,"discrepancias_numero_formal":formal_discrepancies,"fragmentos_vecinos_delimitados":neighbor_fragments,"grupos_pdf_canonicos_con_hash_repetido":duplicate_hashes,"rendiciones_especiales":special_renditions,"advertencias":warnings,"errores":errors,
     }
     return report
 

@@ -1,0 +1,50 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "199",
+  "anio": "2017",
+  "titulo": "que autoriza a los capitanes de navío A.R.D., Juan Bienvenido Crisóstomo Martínez, Héctor Juan Martínez Román y Augusto Alberto Lizardo Gonzalez, a aceptar y usar las condecoraciones que les fueron otorgadas por el Ministerio del Poder Popular para la Defensa de la República Bolivariana de Venezuela. G. O. No. 10885 del 3 de junio de 2017. DANILO MEDINA",
+  "fecha": "31/05/2017",
+  "gaceta_oficial": "10885",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399606&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399606&managementType=1",
+  "document_id_consultoria": "3399606",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2017/decreto-199-2017.pdf",
+  "ruta_markdown": "docs/decretos/2017/decreto-199-2017.md",
+  "ruta_json": "datos/decretos/2017/decreto-199-2017.json",
+  "sha256_pdf_original": "2addad5479928011a781a73f48ffec947f11e2a35a55270ec0988854886d146e",
+  "sha256_markdown": "d3462dd17415dd92293b6148a4a4aaf6c27e600fc5452c2faf0d2487d941e11a",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    200
+  ],
+  "commit_publicacion": "",
+  "notas": "El registro adicional ID 3383149 para 199-17 devuelve HTTP 500 en el endpoint oficial; se conserva como fuente contextual y no se inventa ni sustituye su PDF. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "199-17",
+  "anio_metadata_fuente": "2017",
+  "inventario_origen": "consultoria_inventario_2017_leyes_decretos.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3399606",
+      "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+      "ruta_pdf_local": "archivos/decretos/2017/decreto-199-2017.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399606&managementType=2",
+      "sha256_pdf": "2addad5479928011a781a73f48ffec947f11e2a35a55270ec0988854886d146e",
+      "capa_texto": true,
+      "paginas": 3
+    }
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "31/05/2017",
+  "numero_formal_pdf": "199-17",
+  "alertas_revision": [
+    "El registro adicional ID 3383149 para 199-17 devuelve HTTP 500 en el endpoint oficial; se conserva como fuente contextual y no se inventa ni sustituye su PDF."
+  ]
+}

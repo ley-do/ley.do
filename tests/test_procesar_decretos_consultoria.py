@@ -834,5 +834,22 @@ class ProcesarDecretosTests(unittest.TestCase):
         self.assertEqual(completed.returncode,0,completed.stderr)
 
 
+    def test_procesa_pendiente_encontrar_pdf_sin_descargar_ni_unir_recortes(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo=Path(td); inventory=repo/"reconciliado.json"
+            evidence={"motivo":"El endpoint solo contiene el inicio y el registro vecino contiene el final.","document_ids_recortes":["id-68","id-69"],"pdf_derivado_creado":False}
+            record={"numero":"68-19","anio":"2019","identidad_documental_numero":68,"document_id_consultoria":"id-68","titulo":"Documento incompleto","fecha_documento":"17/03/2019","gaceta_oficial":"10900","institucion_fuente":"Consultoria Juridica","url_fuente_oficial":"https://www.consultoria.gov.do/consulta/","url_documento_consultoria_descargar":"https://www.consultoria.gov.do/68.pdf","url_documento_consultoria_abrir":"https://www.consultoria.gov.do/68","estado_extraccion":"pendiente_encontrar_pdf","evidencia_pdf_no_disponible":evidence,"alertas_revision":["No se localizó un PDF oficial completo."]}
+            inventory.write_text(json.dumps({"documentos":{"decretos":[record]}}),encoding="utf-8")
+            result=process_documents(repo,inventory,2019,[68],downloader=lambda *a,**k:(_ for _ in ()).throw(AssertionError("no debe descargar")),normalizer=lambda *a,**k:(_ for _ in ()).throw(AssertionError("no debe normalizar recortes")))
+            self.assertEqual(result,{"ok":[68],"errors":[]})
+            package=json.loads((repo/"datos/decretos/2019/decreto-068-2019.json").read_text(encoding="utf-8"))
+            markdown=(repo/"docs/decretos/2019/decreto-068-2019.md").read_text(encoding="utf-8")
+            self.assertEqual(package["estado_extraccion"],"pendiente_encontrar_pdf")
+            self.assertEqual(package["ruta_pdf_local"],""); self.assertEqual(package["sha256_pdf_original"],"")
+            self.assertEqual(package["evidencia_pdf_no_disponible"],evidence)
+            self.assertFalse((repo/"archivos/decretos/2019/decreto-068-2019.pdf").exists())
+            self.assertIn("no se recuperó un PDF oficial completo",markdown)
+
+
 if __name__ == "__main__":
     unittest.main()

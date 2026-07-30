@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "144",
+  "anio": "2017",
+  "titulo": "dispone que la Dirección General de Ética e Integridad Gubernamental queda integrada a la Comisión Permanente para la celebración de las actividades en el Día Nacional de la Ética Ciudadana. Deroga el Dec. No. 252-05. G. O. No. 10882 del 4 de mayo de 2017",
+  "fecha": "21/04/2017",
+  "gaceta_oficial": "10882",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3382096&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3382096&managementType=1",
+  "document_id_consultoria": "3382096",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2017/decreto-144-2017.pdf",
+  "ruta_markdown": "docs/decretos/2017/decreto-144-2017.md",
+  "ruta_json": "datos/decretos/2017/decreto-144-2017.json",
+  "sha256_pdf_original": "e7eaf20eb7e697a7fa35193b88598bb857611d25146ac8b560b4e12a3a27b02c",
+  "sha256_markdown": "68cbbebea4c8bfadc304d777b9d531eff2002514aceb4cffca6c6589d4a0298b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 21/04/2017, mientras el apartado DADO del PDF indica 26/04/2017. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "144-17",
+  "anio_metadata_fuente": "2017",
+  "inventario_origen": "consultoria_inventario_2017_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/04/2017",
+  "fecha_metadata_fuente": "21/04/2017",
+  "numero_formal_pdf": "144-17",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 21/04/2017, mientras el apartado DADO del PDF indica 26/04/2017. Se conservan ambos valores para revisión humana."
+  ]
+}

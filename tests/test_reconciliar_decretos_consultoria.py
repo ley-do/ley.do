@@ -73,4 +73,20 @@ class ReconciliarDecretosTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,"URL.*a"): reconcile(inventory,2018,decisions)
 
 
+    def test_preserva_decision_pendiente_encontrar_pdf(self):
+        inventory={"documentos":{"decretos":[record("68-18","a"),record("69-18","b")]}}
+        evidence={"motivo":"El endpoint solo contiene un recorte.","document_ids_recortes":["a","b"],"pdf_derivado_creado":False}
+        decisions={"schema_version":"1.0","anio":2018,"fecha_reconciliacion":"2026-07-30","identidades":{"68":{"canonico":"a","estado_extraccion":"pendiente_encontrar_pdf","evidencia_pdf_no_disponible":evidence,"alertas_revision":["No se localizó un PDF oficial completo."]}}}
+        reconciled=reconcile(inventory,2018,decisions)
+        canonical=next(item for item in reconciled["documentos"]["decretos"] if item["identidad_documental_numero"]==68)
+        self.assertEqual(canonical["estado_extraccion"],"pendiente_encontrar_pdf")
+        self.assertEqual(canonical["evidencia_pdf_no_disponible"],evidence)
+
+    def test_rechaza_pendiente_encontrar_pdf_sin_evidencia_fail_closed(self):
+        inventory={"documentos":{"decretos":[record("68-18","a")]}}
+        decisions={"schema_version":"1.0","anio":2018,"fecha_reconciliacion":"2026-07-30","identidades":{"68":{"canonico":"a","estado_extraccion":"pendiente_encontrar_pdf"}}}
+        with self.assertRaisesRegex(ValueError,"evidencia_pdf_no_disponible"):
+            reconcile(inventory,2018,decisions)
+
+
 if __name__=="__main__": unittest.main()

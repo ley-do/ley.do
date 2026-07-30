@@ -16,7 +16,7 @@ Los conteos distinguen registros fuente de identidades documentales cuando el a�
 | Año | Cobertura documental | Página |
 |---:|---:|---|
 | 2016 | 397 | [Ver 2016](2016/index.md) |
-| 2017 | 438 | [Ver 2017](2017/index.md) |
+| 2017 | 436 identidades · 438 registros fuente · 1 PDF pendiente | [Ver 2017](2017/index.md) |
 | 2018 | 452 | [Ver 2018](2018/index.md) |
 | 2019 | 495 identidades · 498 registros fuente | [Ver 2019](2019/index.md) |
 | 2020 | 733 identidades · 756 registros fuente | [Ver 2020](2020/index.md) |
@@ -29,4 +29,4 @@ Los conteos distinguen registros fuente de identidades documentales cuando el a�
 
 ## Nota editorial
 
-Los años 2019 y 2020 cuentan con reconciliación anual y paquetes documentales en revisión humana. Los demás años permanecen en inventario de detección hasta completar PDF oficial, hash SHA256, Markdown, JSON y auditoría.
+Los años 2017, 2018, 2019 y 2020 cuentan con reconciliación anual y paquetes documentales en revisión humana. Los demás años permanecen en inventario de detección hasta completar PDF oficial, hash SHA256, Markdown, JSON y auditoría.

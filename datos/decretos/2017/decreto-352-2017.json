@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "352",
+  "anio": "2017",
+  "titulo": "que le concede el beneficio de la jubilación y se asigna una pensión especial del Estado dominicano al señor José Manuel Melo Tejeda. G. O. No. 10895 del 16 de octubre de 2017. DANILO MEDINA",
+  "fecha": "15/09/2017",
+  "gaceta_oficial": "10895",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3384487&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3384487&managementType=1",
+  "document_id_consultoria": "3384487",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2017/decreto-352-2017.pdf",
+  "ruta_markdown": "docs/decretos/2017/decreto-352-2017.md",
+  "ruta_json": "datos/decretos/2017/decreto-352-2017.json",
+  "sha256_pdf_original": "f4fa7510574c459ebfb03b3147d09d2d8cf43d056a9064d81b114f1a8ac12857",
+  "sha256_markdown": "f873a48fe5d5256f536959cabc59405017c01f5df26c965de9e97f1665353c95",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    353
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 15/09/2017, mientras el apartado DADO del PDF indica 15/09/2016. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "352-17",
+  "anio_metadata_fuente": "2017",
+  "inventario_origen": "consultoria_inventario_2017_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/09/2016",
+  "fecha_metadata_fuente": "15/09/2017",
+  "numero_formal_pdf": "352-17",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 15/09/2017, mientras el apartado DADO del PDF indica 15/09/2016. Se conservan ambos valores para revisión humana."
+  ]
+}

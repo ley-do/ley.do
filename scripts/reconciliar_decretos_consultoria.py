@@ -202,6 +202,27 @@ def reconcile(inventory, year, decisions, inventory_name=None):
         observation = str(decision.get("observacion_reconciliacion") or "").strip()
         if observation:
             canonical["observacion_reconciliacion"] = observation
+        extraction_state = str(decision.get("estado_extraccion") or "").strip()
+        evidence = decision.get("evidencia_pdf_no_disponible")
+        if extraction_state:
+            if extraction_state != "pendiente_encontrar_pdf":
+                raise ValueError(f"estado_extraccion inválido para identidad {number}: {extraction_state}")
+            if renditions:
+                raise ValueError(f"La identidad {number} pendiente de PDF no puede declarar rendiciones completas")
+            if not isinstance(evidence, dict):
+                raise ValueError(f"evidencia_pdf_no_disponible inválida para identidad {number}")
+            motive = str(evidence.get("motivo") or "").strip()
+            fragment_ids = evidence.get("document_ids_recortes")
+            if not motive or not isinstance(fragment_ids, list) or not fragment_ids or any(str(item).strip() not in set(ids) for item in fragment_ids):
+                raise ValueError(f"evidencia_pdf_no_disponible incompleta para identidad {number}")
+            if evidence.get("pdf_derivado_creado") is not False:
+                raise ValueError(f"evidencia_pdf_no_disponible debe confirmar pdf_derivado_creado=false para identidad {number}")
+            if not alerts:
+                raise ValueError(f"La identidad {number} pendiente de PDF requiere alertas_revision")
+            canonical["estado_extraccion"] = extraction_state
+            canonical["evidencia_pdf_no_disponible"] = copy.deepcopy(evidence)
+        elif evidence is not None:
+            raise ValueError(f"evidencia_pdf_no_disponible sin estado_extraccion para identidad {number}")
         canonicals.append(canonical)
 
         for document_id, original in group_by_id.items():
