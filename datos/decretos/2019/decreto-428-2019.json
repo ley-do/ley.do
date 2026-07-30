@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395308&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395308&managementType=1",
   "document_id_consultoria": "3395308",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-428-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-428-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-428-2019.json",
   "sha256_pdf_original": "3bf092c98dd08c849e84e075ce28e48c15edac295902a6c157f54f3fb9344879",
-  "sha256_markdown": "524a3bf4a62376dcf2df7c3a1db51ad3755901b30f3d8f60404b9993963d5818",
+  "sha256_markdown": "8d8b016af0d7df487a7367fadc3f23bcdb72be2acc395e1815b926970526b412",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "428-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/11/2019",
+  "numero_formal_pdf": "428-19"
 }

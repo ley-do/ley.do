@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393848&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393848&managementType=1",
   "document_id_consultoria": "3393848",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-232-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-232-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-232-2019.json",
   "sha256_pdf_original": "f9b534ae50e11ea5a3f746989219021727d52b422bd47e57d6f03a513576dfad",
-  "sha256_markdown": "7247b1cc73944b896b95808b857a652206c4a4027ba8ef139c028204bb0176ad",
+  "sha256_markdown": "238cc8ef08e13f9d05ef24d3480317a416bb0839cbf0eedcbd2d5d3e3f3e6b58",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "232-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "28/06/2019",
+  "numero_formal_pdf": "232-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394112&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394112&managementType=1",
   "document_id_consultoria": "3394112",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-298-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-298-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-298-2019.json",
   "sha256_pdf_original": "7587d1a347851768e01b0042ddbcb115d91636a61f79aebc0445c2e23002e5ee",
-  "sha256_markdown": "1c2a7c1be0eda3b188818e90980c6e2bf66dd08cd58bc9f7802108ce16ea88c8",
+  "sha256_markdown": "6d0979a20564eaa50d128e93e939ab37c729c466babc2a3c544230da51a1ad70",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "298-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/09/2019",
+  "numero_formal_pdf": "298-19"
 }

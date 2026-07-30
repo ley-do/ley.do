@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395451&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395451&managementType=1",
   "document_id_consultoria": "3395451",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-495-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-495-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-495-2019.json",
   "sha256_pdf_original": "596b3c280efab00208a89b76bb36be2d39711190ba899fedb5f4a7754094152f",
-  "sha256_markdown": "fe3c10f8af60f1a413cd07f737d13172029c80e83def7aa0681aeb438453141c",
+  "sha256_markdown": "538248e34938c8a085fcc755599174355b21746d381edd575c0519405e0f6028",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "495-19",
   "anio_metadata_fuente": "2020",
-  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/12/2019",
+  "numero_formal_pdf": "495-19"
 }

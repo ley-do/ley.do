@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395453&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395453&managementType=1",
   "document_id_consultoria": "3395453",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-497-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-497-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-497-2019.json",
   "sha256_pdf_original": "c30ccdd3663aa706169b6ab927f55688db97feb0ab76532699580779d5710547",
-  "sha256_markdown": "b3832095e8f6fc1677c6d0bb504325bac5adad7ed787abfae03d53b689fb2a57",
+  "sha256_markdown": "c31325bee6f816800038da0397f02a850c5d22d37890c201ef39b5020b27acc4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "497-19",
   "anio_metadata_fuente": "2020",
-  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/12/2019",
+  "numero_formal_pdf": "497-19"
 }

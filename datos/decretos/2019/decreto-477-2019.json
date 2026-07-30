@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395427&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395427&managementType=1",
   "document_id_consultoria": "3395427",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-477-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-477-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-477-2019.json",
   "sha256_pdf_original": "cb80053ad38a94a988e3ecdc9f5359b6159f7fd67e8a2bf5bf1f0d7d76e4f3d7",
-  "sha256_markdown": "bd4686e9b83f46a0d6ab454fb27408afcff7a7fe35641c84880bfcff3faa798a",
+  "sha256_markdown": "a9b6873fc21ed4061a7661c7c5301f6cbd2adf143ead14c7ba9981e91489b684",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "477-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/12/2019",
+  "numero_formal_pdf": "477-19"
 }

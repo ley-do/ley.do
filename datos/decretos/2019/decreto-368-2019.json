@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394270&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394270&managementType=1",
   "document_id_consultoria": "3394270",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-368-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-368-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-368-2019.json",
   "sha256_pdf_original": "ca6809c5474acedd311aa26b4cb1323cdc124d39deb1268a14cb34e028368381",
-  "sha256_markdown": "df0c0558516e850b622d20382063fd03b87841cbc6db88ab41c1739dedd49cd9",
+  "sha256_markdown": "d1d861ea8cb3aecca34b656917011ea1167bcc80e9501bc88ed53471a59915c9",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -31,6 +31,9 @@
   "anio_metadata_fuente": "2019",
   "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
   "observacion_fecha_pdf": "La cláusula DADO visible contiene «mes de veinticuatro», que no identifica un mes.",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "368-19",
   "alertas_revision": [
     "La cláusula DADO del PDF dice «a los veinticuatro (24) días del mes de veinticuatro del año dos mil diecinueve (2019)»; «veinticuatro» no identifica un mes. La metadata oficial consultada indica 24/10/2019. Se conservan ambos datos sin sustituir el texto del PDF."
   ]

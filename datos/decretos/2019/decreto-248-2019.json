@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393864&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393864&managementType=1",
   "document_id_consultoria": "3393864",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-248-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-248-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-248-2019.json",
   "sha256_pdf_original": "a50244119aff49a4db2289609ab736046fb1ef1d8cdf7dd90dd1ddbf70786662",
-  "sha256_markdown": "c91ed35f31a75c90db364219f51aaa664c52b3eb7c349ad92dc97974f4516630",
+  "sha256_markdown": "187b8fbd747a36d73bd0d8ecbb34e38778f7a1a304a7a0ca72f397c54c1babff",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "248-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "04/07/2019",
+  "numero_formal_pdf": "248-19"
 }

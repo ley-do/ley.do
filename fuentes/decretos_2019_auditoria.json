@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.0",
-  "fecha_auditoria": "2026-07-29T23:22:56.388277+00:00",
+  "schema_version": "1.1",
+  "fecha_auditoria": "2026-07-30T02:20:12.691081+00:00",
   "anio": 2019,
   "fuente_reconciliada": "fuentes/consultoria_decretos_2019_reconciliado.json",
   "sha256_fuente_reconciliada": "197f3007c4363f83ee0537c0766892f8b95594ed407355e3b0abb35963f99fc4",
@@ -12,62 +12,38 @@
     "json": 495,
     "filas_indice": 498,
     "ids_indice_unicos": 498,
+    "paquetes_validados": 495,
     "documentos_con_fragmentos_vecinos_delimitados": 495,
-    "discrepancias_fecha_documentadas": 4,
+    "discrepancias_fecha_documentadas": 5,
     "documentos_sin_fecha_dado_detectable": 2,
     "documentos_fecha_no_parseable_con_alerta": 2,
-    "documentos_sin_linea_formal_numero_detectable": 2,
+    "documentos_sin_linea_formal_numero_detectable": 0,
+    "discrepancias_numero_formal_documentadas": 1,
     "grupos_pdf_canonicos_con_hash_repetido": 0,
     "errores": 0,
     "advertencias": 0
   },
   "discrepancias_fecha": [
-    {
-      "numero": 66,
-      "fecha_metadata_fuente": "20/02/2016",
-      "fecha_texto_pdf_detectada": "20/02/2019"
-    },
-    {
-      "numero": 73,
-      "fecha_metadata_fuente": "26/02/2019",
-      "fecha_texto_pdf_detectada": "28/02/2019"
-    },
-    {
-      "numero": 179,
-      "fecha_metadata_fuente": "10/05/2019",
-      "fecha_texto_pdf_detectada": "14/05/2019"
-    },
-    {
-      "numero": 282,
-      "fecha_metadata_fuente": "09/08/2019",
-      "fecha_texto_pdf_detectada": "12/08/2019"
-    }
+    11,
+    66,
+    73,
+    179,
+    282
   ],
   "documentos_sin_fecha_dado_detectable": [
     60,
     368
   ],
   "fechas_no_parseables_documentadas": [
-    {
-      "numero": 60,
-      "fecha_metadata_fuente": "07/02/2019",
-      "observacion_fecha_pdf": "La cláusula DADO visible omite el nombre del mes: «a los siete (7) días del mes de del año dos mil diecinueve (2019)».",
-      "alertas_revision": [
-        "La cláusula DADO del PDF dice «a los siete (7) días del mes de del año dos mil diecinueve (2019)» y no identifica el mes. La metadata oficial consultada indica 07/02/2019. Se conservan ambos datos sin inferir el mes."
-      ]
-    },
-    {
-      "numero": 368,
-      "fecha_metadata_fuente": "24/10/2019",
-      "observacion_fecha_pdf": "La cláusula DADO visible contiene «mes de veinticuatro», que no identifica un mes.",
-      "alertas_revision": [
-        "La cláusula DADO del PDF dice «a los veinticuatro (24) días del mes de veinticuatro del año dos mil diecinueve (2019)»; «veinticuatro» no identifica un mes. La metadata oficial consultada indica 24/10/2019. Se conservan ambos datos sin sustituir el texto del PDF."
-      ]
-    }
+    60,
+    368
   ],
-  "documentos_sin_linea_formal_numero_detectable": [
-    402,
-    434
+  "documentos_sin_linea_formal_numero_detectable": [],
+  "discrepancias_numero_formal": [
+    {
+      "numero": 434,
+      "numero_formal_pdf": "334-19"
+    }
   ],
   "fragmentos_vecinos_delimitados": [
     {
@@ -2680,7 +2656,8 @@
     {
       "numero": 391,
       "fragmentos": [
-        "fragmento_anterior"
+        "fragmento_anterior",
+        392
       ]
     },
     {
@@ -3407,67 +3384,15 @@
     }
   ],
   "grupos_pdf_canonicos_con_hash_repetido": [],
-  "titulos_mas_extensos": [
-    {
-      "longitud": 589,
-      "numero": 345,
-      "muestra": "que declara de alta prioridad el fomento y desarrollo de la formación y capacitación técnico profesional, para potenciar la industria dominicana y las exportaci"
-    },
-    {
-      "longitud": 551,
-      "numero": 278,
-      "muestra": "que designa a los señores José Francisco Méndez Luzón, Julio Rodríguez Liberato y Jesús Daniel Martínez Tolentino, embajador adscrito al Ministerio de Relacione"
-    },
-    {
-      "longitud": 535,
-      "numero": 42,
-      "muestra": "que concede la condecoración de la Orden del Merito de Duarte, Sánchez y Mella, en el grado de Oficial, al señor Giuseppe Cucchiara, director central para los S"
-    },
-    {
-      "longitud": 522,
-      "numero": 340,
-      "muestra": "que dispone la suspensión de las actividades docentes en el sistema educativo universitario y preuniversitario durante los días 5 y 6 de octubre del presente añ"
-    },
-    {
-      "longitud": 503,
-      "numero": 333,
-      "muestra": "que concede la naturalización dominicana ordinaria a varios extranjeros. Modifica los numerales 5, 6, y 21, del artículo 1, del Dec. No. 44-19; el numeral 6, de"
-    },
-    {
-      "longitud": 490,
-      "numero": 433,
-      "muestra": "dispone que el inmueble propiedad del Estado dominicano No. 402405051402, matrícula No. 0100166540, con una extensión de 250,000.46 Mts², ubicado en Santo Domin"
-    },
-    {
-      "longitud": 473,
-      "numero": 87,
-      "muestra": "que declara de utilidad pública varias porciones de terrenos en distintos municipios del país, para ser destinadas a edificaciones escolares. Deroga el numeral "
-    },
-    {
-      "longitud": 471,
-      "numero": 478,
-      "muestra": "que asciende a la señora Jennifer Carolina Muñoz Peynado, al rango de consejera de la Embajada de la República Dominicana en la República de Panamá. Modifica el"
-    },
-    {
-      "longitud": 468,
-      "numero": 276,
-      "muestra": "que deroga el artículo 1 del Dec. No. 92-07 y el Dec. No. 160-06, que designaron a los señores Francisco García Valentín y José Marcos Iglesias Iñigo, como prim"
-    },
-    {
-      "longitud": 466,
-      "numero": 434,
-      "muestra": "que nombra a los señores Jhorlenny Rodríguez Rosario y Evérgito Peña Acosta, directora ejecutiva de la Comisión Nacional de Defensa de la Competencia y vicepres"
-    }
-  ],
   "rendiciones_especiales": {
-    "decreto_275": {
-      "binarios_distintos": true,
-      "contenido_renderizado_distinto": true
-    },
-    "decreto_284": {
-      "binarios_distintos": true,
-      "texto_y_renderizado_coincidentes": true
-    }
+    "275": [
+      "archivos/decretos/2019/decreto-275-2019.pdf",
+      "archivos/decretos/2019/decreto-275-2019-fuente-3393955.pdf"
+    ],
+    "284": [
+      "archivos/decretos/2019/decreto-284-2019.pdf",
+      "archivos/decretos/2019/decreto-284-2019-fuente-3395753.pdf"
+    ]
   },
   "advertencias": [],
   "errores": []

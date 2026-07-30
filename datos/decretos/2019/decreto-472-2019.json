@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395405&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395405&managementType=1",
   "document_id_consultoria": "3395405",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-472-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-472-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-472-2019.json",
   "sha256_pdf_original": "bb15d35fb3feeafe16520b694a33ad7e6adc8897357148ea1ca4f099e206eaa3",
-  "sha256_markdown": "04d0e2c040859039e1d6a11110accf96be4549b442a0b14537259a3c173eeb42",
+  "sha256_markdown": "c0f2a82d00bdcb256128eb3b867da946078c8ea217c38b741cbd0d8b0416e203",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "472-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "472-19"
 }

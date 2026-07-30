@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394199&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394199&managementType=1",
   "document_id_consultoria": "3394199",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-337-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-337-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-337-2019.json",
   "sha256_pdf_original": "a1c681b7ba2f2554631ec60a03d0a4e9c5818ff8ed0d79f841c1c41bf9bc23eb",
-  "sha256_markdown": "a427eb6f311c6cfec010616eaaf3996507f3e71c818c15c9e1f0a1ce19954aa9",
+  "sha256_markdown": "29210a2ef71286f4ecdd466f326fa352ad6413459e884b2784478ecf4b8f9c31",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "337-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/09/2019",
+  "numero_formal_pdf": "337-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393634&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393634&managementType=1",
   "document_id_consultoria": "3393634",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-154-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-154-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-154-2019.json",
   "sha256_pdf_original": "d1a6be6a80373fb4d269459ee371789de8db396bc4e2055ec73081af024ac135",
-  "sha256_markdown": "f5580ba934e46f6e258eb7bfa4c546dd751f40dce3522752fd0abbb70ceda900",
+  "sha256_markdown": "681bab423d5e0fcb68a15a9e0d7866f9e08193304e835f693727351c04cc21ff",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "154-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/04/2019",
+  "numero_formal_pdf": "154-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393354&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393354&managementType=1",
   "document_id_consultoria": "3393354",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-011-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-011-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-011-2019.json",
   "sha256_pdf_original": "598eedd5942f8c8d02c98b04396418f9255e17a0526b3ac1de847b403568e8af",
-  "sha256_markdown": "00d1cbc1a55ea724a66bd70b208460eaa5fefb7fbe77ac17c9ee1331e8f66b9d",
+  "sha256_markdown": "174c81114f544d80772e6ee0fb91fd29184dc3b34eb735ef31e517f4e05c2993",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -25,8 +25,15 @@
     "fragmento_anterior"
   ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "notas": "La metadata oficial consultada indica 07/01/2019, mientras el apartado DADO del PDF indica 07/01/2018. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
   "numero_registro_fuente": "11-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "07/01/2018",
+  "fecha_metadata_fuente": "07/01/2019",
+  "numero_formal_pdf": "11-19",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 07/01/2019, mientras el apartado DADO del PDF indica 07/01/2018. Se conservan ambos valores para revisión humana."
+  ]
 }

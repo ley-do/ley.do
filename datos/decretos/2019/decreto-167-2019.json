@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393647&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393647&managementType=1",
   "document_id_consultoria": "3393647",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-167-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-167-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-167-2019.json",
   "sha256_pdf_original": "10bf5cdfffd092739ca064996bdd842375ec1b1109ec9946956081df6c413fb7",
-  "sha256_markdown": "d079c155522aa0b0a86ff8ba308a59445e330647f1fab716188bf9d990490de4",
+  "sha256_markdown": "ee8f6a530247759a779c3b82f806515ba24912cbef0cb1a8999107a95f42249a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "167-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/04/2019",
+  "numero_formal_pdf": "167-19"
 }

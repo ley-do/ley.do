@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395744&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395744&managementType=1",
   "document_id_consultoria": "3395744",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-275-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-275-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-275-2019.json",
   "sha256_pdf_original": "e195c0a6f9b74df57c0ac272572127ea5efbcb4b2941c2a8acd9cb80847d0b2f",
-  "sha256_markdown": "8ee787414c35f955b284c0eb5f8851fa26c8ce3f61497594cc2da9c8974feee3",
+  "sha256_markdown": "a223b42ab644ce516989fc75e26d2a738264f093349da49e24c10054a46163fe",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -49,5 +49,8 @@
       "capa_texto": true,
       "paginas": 10
     }
-  ]
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "01/08/2019",
+  "numero_formal_pdf": "275-19"
 }

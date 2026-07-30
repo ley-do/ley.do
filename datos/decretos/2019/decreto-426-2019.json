@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395306&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395306&managementType=1",
   "document_id_consultoria": "3395306",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-426-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-426-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-426-2019.json",
   "sha256_pdf_original": "22ae67d603dc8639a4fdef43d0281a9157e3169a8d33acc1188f2b6830723476",
-  "sha256_markdown": "ee318af8eb0401da5798264cf1534e8acf4a2d72ccc31624f51d39f434a6f3d1",
+  "sha256_markdown": "d852ae4223935417f0edd0956e2d7daa8081f4c9233a3c75f1b8353144dfb7c9",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "426-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/11/2019",
+  "numero_formal_pdf": "426-19"
 }

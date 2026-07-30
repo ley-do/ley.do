@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395381&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395381&managementType=1",
   "document_id_consultoria": "3395381",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-448-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-448-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-448-2019.json",
   "sha256_pdf_original": "48a63f388e1e20768e1cdeb02906eeb78f24a5adde1e2af2b72cab4202c7f635",
-  "sha256_markdown": "fed30c933e167c3663da5bf95be19f0ad49ab18e6492f6457f6b595c4e11d767",
+  "sha256_markdown": "65c4edacc1f0b19678a1e04d8e8c32311c5037f2ccf5a573603e5474b318583e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "448-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "448-19"
 }

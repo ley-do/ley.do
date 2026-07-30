@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394053&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394053&managementType=1",
   "document_id_consultoria": "3394053",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-303-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-303-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-303-2019.json",
   "sha256_pdf_original": "b46ad8534b40ded527f4aa1d0f9ca37ee2d0f11b5b9499a8a9801ac031468b7d",
-  "sha256_markdown": "14669faea726a285fdc194a7a0f34590a1025af3e13158c335b6ba9d6a478ccd",
+  "sha256_markdown": "d7faf149bcd85571f7181193fd93be4e02c22d194a6d299f2bc7216e5ba481e7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "303-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/09/2019",
+  "numero_formal_pdf": "303-19"
 }

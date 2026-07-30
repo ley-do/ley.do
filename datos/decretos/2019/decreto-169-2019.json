@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393673&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393673&managementType=1",
   "document_id_consultoria": "3393673",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-169-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-169-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-169-2019.json",
   "sha256_pdf_original": "1ec1ad442414c3a82d4655a77f922609d744563a7b1f26fcd40bf24b1437e503",
-  "sha256_markdown": "a623dd7957c04c7bb57577750a5d7c751844da3a4896abcc7621a366c2201683",
+  "sha256_markdown": "a537ef15f1ff7ca2a90f042de4c222ecb42eb3b3dd79e37a541fa82f71e58e6d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "169-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/05/2019",
+  "numero_formal_pdf": "169-19"
 }

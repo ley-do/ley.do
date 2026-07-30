@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394179&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394179&managementType=1",
   "document_id_consultoria": "3394179",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-318-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-318-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-318-2019.json",
   "sha256_pdf_original": "aa52b3b03e8cfed7b3199f75a2dfebcef4a6fac18772b11ccf1c4d58f8cffdbf",
-  "sha256_markdown": "9e0bae328f1278ff4469f86153fb892ddf4783252175d0567da259adb8f3adc1",
+  "sha256_markdown": "7d512c12567d8a6c9a7569cf6318d418072373846f38719e923f792a3ebf0da1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "318-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/09/2019",
+  "numero_formal_pdf": "318-19"
 }

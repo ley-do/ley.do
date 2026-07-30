@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393603&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393603&managementType=1",
   "document_id_consultoria": "3393603",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-135-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-135-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-135-2019.json",
   "sha256_pdf_original": "77b272bf3af62a59e92e97530ecdfd4e182a9c5c36d287bd66f73829bfc4f0ec",
-  "sha256_markdown": "454bf99cbd28e8d73720d434b0b8eb3cc461a234414d71050aad4a78d7d9da53",
+  "sha256_markdown": "77ebf3e36bc98ab3905a1c5d6323b388c81518312671cfa3e035e0f327f5403f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "135-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/04/2019",
+  "numero_formal_pdf": "135-19"
 }

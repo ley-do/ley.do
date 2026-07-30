@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395398&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395398&managementType=1",
   "document_id_consultoria": "3395398",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-465-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-465-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-465-2019.json",
   "sha256_pdf_original": "11b7e1d3798ad74f8b37d7fcfd0d02b8dd1ffc9cbc7bb2a3cb085547bf672f3f",
-  "sha256_markdown": "7f231443160add9f59639d67287fd036a0676912cb500c91c0d8e9a33b8a5f6a",
+  "sha256_markdown": "0ea3f463cd63b28c73d2c3a458ebfef6bf8e11644d542b44268a669d3b66e6f6",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "465-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "465-19"
 }

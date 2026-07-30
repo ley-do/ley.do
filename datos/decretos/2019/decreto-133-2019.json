@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393601&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393601&managementType=1",
   "document_id_consultoria": "3393601",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-133-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-133-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-133-2019.json",
   "sha256_pdf_original": "4592bd646b08a99d6fbcea782cb81f75329d7f9a4c87625b324586ce70f6ad38",
-  "sha256_markdown": "ddb4f69935dcf8a06b7184283a460b7b5851a55bb1207e14794769ef944ec91d",
+  "sha256_markdown": "260814e8eb7193140016f8b2a8aeb7037b183fe8ea01688bcb45a6e6639d3738",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "133-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/04/2019",
+  "numero_formal_pdf": "133-19"
 }

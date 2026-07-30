@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394268&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394268&managementType=1",
   "document_id_consultoria": "3394268",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-366-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-366-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-366-2019.json",
   "sha256_pdf_original": "7ad73cd5037e5a9fdf7b2d558e5ef5d46e5d1ed883d9f2af19237b4aa62e6d8c",
-  "sha256_markdown": "c691671aec8aea7b002f0b1f14afb3ede6bcd6c6a6608bb4761f9b8fb567f26b",
+  "sha256_markdown": "e2d8d9c1f09516d1df15148caf2588778541e84a4e9f50a9645a775658201568",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "366-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "24/10/2019",
+  "numero_formal_pdf": "366-19"
 }

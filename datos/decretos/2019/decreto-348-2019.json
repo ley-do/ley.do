@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394250&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394250&managementType=1",
   "document_id_consultoria": "3394250",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-348-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-348-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-348-2019.json",
   "sha256_pdf_original": "aaf3cf3214bd1a542d60ac9f7503c053b4f57569796d529570e802930b2856ed",
-  "sha256_markdown": "dd747b9404217e53d58713f1d6532a466f3e63aeadfbf55486c5e7123c65fd05",
+  "sha256_markdown": "766bb29ec42fdc7d737bb6d16b112483a0bf033a6a4a6210bd459d82097ff047",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "348-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "18/10/2019",
+  "numero_formal_pdf": "348-19"
 }

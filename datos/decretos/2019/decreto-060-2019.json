@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393415&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393415&managementType=1",
   "document_id_consultoria": "3393415",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-060-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-060-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-060-2019.json",
   "sha256_pdf_original": "b2d33b4a621d470e51404fae1644b3e07ad6046599d3da5fdf3450624707ef05",
-  "sha256_markdown": "982a5d12bd5f5d98e47ee303acd6a6b18d02153987e48d19b9ff53253a2f5784",
+  "sha256_markdown": "1253a741544a9195c51ac16d5859865f64fa156cf03a4c6ea2551373584df5e4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -31,6 +31,9 @@
   "anio_metadata_fuente": "2019",
   "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
   "observacion_fecha_pdf": "La cláusula DADO visible omite el nombre del mes: «a los siete (7) días del mes de del año dos mil diecinueve (2019)».",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "60-19",
   "alertas_revision": [
     "La cláusula DADO del PDF dice «a los siete (7) días del mes de del año dos mil diecinueve (2019)» y no identifica el mes. La metadata oficial consultada indica 07/02/2019. Se conservan ambos datos sin inferir el mes."
   ]

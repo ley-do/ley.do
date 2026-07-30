@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393404&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393404&managementType=1",
   "document_id_consultoria": "3393404",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-049-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-049-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-049-2019.json",
   "sha256_pdf_original": "8627749109999abb8b90ae5a79772fb21c35b7fbb04ba0033e921d5573c58ff4",
-  "sha256_markdown": "1613c1821f40570ff93dc78586c88d95b31164eb2a6659fd7b7a47793c601491",
+  "sha256_markdown": "99dd305071cb50ebdf7fca732e46bbea9b43861dd1e3fbb0fc8653e2044a4a30",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "49-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/01/2019",
+  "numero_formal_pdf": "49-19"
 }

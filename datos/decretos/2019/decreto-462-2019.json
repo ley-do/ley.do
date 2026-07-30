@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395395&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395395&managementType=1",
   "document_id_consultoria": "3395395",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-462-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-462-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-462-2019.json",
   "sha256_pdf_original": "eb85b73a1abbd8a12fc352bdb9cd5afadc5f5fd718055caa2ac801c26c67a94c",
-  "sha256_markdown": "b66df4d884b38a6bfa220f446f932d03fc76dcd054132cbc2786da37aa52f55b",
+  "sha256_markdown": "a36044b696c2a415c524e518fe89e9ff6dfd33164ff66900768bc0dfa14bd599",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "462-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "462-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393608&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393608&managementType=1",
   "document_id_consultoria": "3393608",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-140-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-140-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-140-2019.json",
   "sha256_pdf_original": "dd22ed194fe87c821316abe9a4e6bba6abe97ab20967065c61ab9b9290e2f997",
-  "sha256_markdown": "5c6c9a264259102d101e4dbd6c45de867215efe6ad51a4df1981db9a037d633f",
+  "sha256_markdown": "b1ae316a718c6d780c20a9e0e09d43b859a92dc056c090fc0e791e5c4a8bc410",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "140-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/04/2019",
+  "numero_formal_pdf": "140-19"
 }

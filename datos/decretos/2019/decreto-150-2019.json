@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393630&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393630&managementType=1",
   "document_id_consultoria": "3393630",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-150-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-150-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-150-2019.json",
   "sha256_pdf_original": "dc8c5095c6b38c298bb255806227c3bb46d2f1500075f9391c76695b70ad429c",
-  "sha256_markdown": "c02fd89c8a928fceb6f079e880c02876a8e8902a12ad1ff951e3a17a4b56ad9d",
+  "sha256_markdown": "cc71f56770d4a8d90abd82443aa83cc40f6ee1fa4b58b227128a243142585d2c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "150-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/04/2019",
+  "numero_formal_pdf": "150-19"
 }

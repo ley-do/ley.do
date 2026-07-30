@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395267&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395267&managementType=1",
   "document_id_consultoria": "3395267",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-387-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-387-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-387-2019.json",
   "sha256_pdf_original": "76be750994755bd0e043a0c0c1e37cf99ffb7feb90c6e47a6b310a0a4ecbd64c",
-  "sha256_markdown": "ec200e2a1dfc9e4d3d6333a94159093989a31c2f67e8bb0dca04aa7b4b4ca91b",
+  "sha256_markdown": "53bfc76fe8f99264314566ffe10d83bec759c07a368eef4c4cd4cb43bb9be2f2",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "387-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/11/2019",
+  "numero_formal_pdf": "387-19"
 }

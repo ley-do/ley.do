@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395282&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395282&managementType=1",
   "document_id_consultoria": "3395282",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-402-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-402-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-402-2019.json",
   "sha256_pdf_original": "57ea841e00c2319c843b0393d555ef6e324913dd29d5b1d24ebd2691c1e51271",
-  "sha256_markdown": "b2f180a9779714014350e145802d813abef8ec53e1109de4ecf3140c4501f82f",
+  "sha256_markdown": "d0d0d8547523efef80e720a9770369ad760e3c030f6d7b9cb994d3360effabbf",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "402-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "20/11/2019",
+  "numero_formal_pdf": "402-19"
 }

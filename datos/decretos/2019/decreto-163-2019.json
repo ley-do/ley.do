@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393643&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393643&managementType=1",
   "document_id_consultoria": "3393643",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-163-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-163-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-163-2019.json",
   "sha256_pdf_original": "8ab00c0b45fd9e33ae81393e72539326a2745196ee6c3e808dc2352dd9347219",
-  "sha256_markdown": "2068cf624e452fd2f53fa8db569e67f1e615e982eb44626c15efdd556472d642",
+  "sha256_markdown": "27cf6edadce7f3ec22ea4960bc6b81d7a5e414985059a5213e9e873e30c701d0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "163-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/04/2019",
+  "numero_formal_pdf": "163-19"
 }

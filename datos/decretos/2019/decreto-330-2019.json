@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394190&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394190&managementType=1",
   "document_id_consultoria": "3394190",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-330-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-330-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-330-2019.json",
   "sha256_pdf_original": "39b0bcaf9e03a1191b91736031f2ce6ecc859326b5c4d823660a5bf7f898e969",
-  "sha256_markdown": "d5d2255258aaa3775d1320e11be7e312447b427b4c472e6253dfd2953cd45984",
+  "sha256_markdown": "0ff3889436a57c7ec61d198035df2a8b149f2b7572c2d27c65bdc6fe3b3b1b6b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "330-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/09/2019",
+  "numero_formal_pdf": "330-19"
 }

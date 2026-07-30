@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394055&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394055&managementType=1",
   "document_id_consultoria": "3394055",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-305-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-305-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-305-2019.json",
   "sha256_pdf_original": "21f27042ad8ab495452c3bf9ce9681eb150b3ce5fe8037c0caa86f339e4b13f4",
-  "sha256_markdown": "457abde4a033f07e1e1db2235766dd7b450fd3930e77b55b11b1f3e5771bcfa0",
+  "sha256_markdown": "629f99af37600a9e646d513b8fe8c539df61e27ad0b132eabdea78eb3af3baea",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "305-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/09/2019",
+  "numero_formal_pdf": "305-19"
 }

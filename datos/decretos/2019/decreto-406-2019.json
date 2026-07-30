@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395286&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395286&managementType=1",
   "document_id_consultoria": "3395286",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-406-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-406-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-406-2019.json",
   "sha256_pdf_original": "17d35dbc282bff0f5c129200cd0cbdda8353d0d0457c1c2aab0b0433842616db",
-  "sha256_markdown": "72c47b668b4742a6f9816b134d51a24119adbe934193ce3ff8db66c3e7a41373",
+  "sha256_markdown": "ddfa4ad16742a583c76a1c94a38ad51c6249a35ef823a206ca78564ca874e234",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "406-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "20/11/2019",
+  "numero_formal_pdf": "406-19"
 }

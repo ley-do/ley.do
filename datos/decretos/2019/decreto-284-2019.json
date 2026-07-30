@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393988&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393988&managementType=1",
   "document_id_consultoria": "3393988",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-284-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-284-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-284-2019.json",
   "sha256_pdf_original": "19fd85293d7d08bd2930125d95c53ca705e53194dbd12d90f854e2a330cac15a",
-  "sha256_markdown": "29c1882e5ead171434429987d7626c2c4ddc98175e4668def9efda76a9e657c6",
+  "sha256_markdown": "9543a12e4e0fa0a3d166030a7aedc5b38e3e9608ec2cced7639d793d7759e057",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -49,5 +49,8 @@
       "paginas": 40,
       "observacion": "Texto y renderizado coinciden con la rendición canónica; el binario y el ID oficial son distintos."
     }
-  ]
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/08/2019",
+  "numero_formal_pdf": "284-19"
 }

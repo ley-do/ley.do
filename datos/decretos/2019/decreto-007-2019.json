@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393388&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393388&managementType=1",
   "document_id_consultoria": "3393388",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-007-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-007-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-007-2019.json",
   "sha256_pdf_original": "e7677f5c676eba02608324743adae3a5bbae451bad4f9bb9c53844635832e753",
-  "sha256_markdown": "eb021d71fe06b1ab24035de14b1a8c10104c836eb8943860f651e1c0f8b3a2f1",
+  "sha256_markdown": "e065dbe17ea050169a7b82e0a65663404a6b0507c32f7fc3f3f97cd44c53f0a4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "7-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "04/01/2019",
+  "numero_formal_pdf": "7-19"
 }

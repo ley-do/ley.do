@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394186&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394186&managementType=1",
   "document_id_consultoria": "3394186",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-325-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-325-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-325-2019.json",
   "sha256_pdf_original": "9bf0b60073aee89aaa1130b11c7259a913b07139e0535f1fa855727f1f5e9dae",
-  "sha256_markdown": "fe99f87da8d353a9cca010293e9e3f1b44b3d1b900e2d36bda272a57552ce3bf",
+  "sha256_markdown": "644511927b4e956707bd13424e22afce13913c385b241961998296d02aec7e7d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "325-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/09/2019",
+  "numero_formal_pdf": "325-19"
 }

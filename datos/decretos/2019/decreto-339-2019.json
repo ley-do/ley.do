@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394201&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394201&managementType=1",
   "document_id_consultoria": "3394201",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-339-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-339-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-339-2019.json",
   "sha256_pdf_original": "1b1a93d16c9b5220bd9622512fc869afb154d9498dc8fe3b702eb02c42426512",
-  "sha256_markdown": "570d6fe3aaff6bfabd1ff159fdacf09811bd91ac1ae95d5bae4a1e7766dd0290",
+  "sha256_markdown": "093fd249535492ed2f34208358f8a11c0989c996d424d8bdb37d0895066643e1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "339-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "27/09/2019",
+  "numero_formal_pdf": "339-19"
 }

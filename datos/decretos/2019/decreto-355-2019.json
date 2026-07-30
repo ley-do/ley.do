@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394257&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394257&managementType=1",
   "document_id_consultoria": "3394257",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-355-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-355-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-355-2019.json",
   "sha256_pdf_original": "2bcbad42e68d6f54a6d2603f7f11a0bfed19e8c74e6a47db38049a5b874478a8",
-  "sha256_markdown": "f51250716cb17dcf23810a659faaa2733afc130970e4bd84eb76bb83cf3ae277",
+  "sha256_markdown": "f4c5083edcbc7defa39e9964b9a383eb3e6a403d15c2aa729ef051338e5a1c4f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "355-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/10/2019",
+  "numero_formal_pdf": "355-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393617&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393617&managementType=1",
   "document_id_consultoria": "3393617",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-149-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-149-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-149-2019.json",
   "sha256_pdf_original": "ccf22b984c984239d11f98d76e7a773e59a1ba19f06f72c12d5313d14608978f",
-  "sha256_markdown": "15c73e4b1d2a9a12d95a851ed2d76a13d280cabdb55fd1ab4dbeda7a06c9f3bc",
+  "sha256_markdown": "33e29c515d7faed2cc211c87a88e1e512381e8ae41fdd0a23e26426ec9a8c3d4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "149-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/04/2019",
+  "numero_formal_pdf": "149-19"
 }

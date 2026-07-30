@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393458&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393458&managementType=1",
   "document_id_consultoria": "3393458",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-071-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-071-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-071-2019.json",
   "sha256_pdf_original": "f28173c4a5a44e3beb5f8b8be75ac5b198149dba109eba8403205efa3e77d273",
-  "sha256_markdown": "fa4e75ae32549c152a7e1db3b2d60efacba882288dc91d703a66a6d4dfa3b1e7",
+  "sha256_markdown": "5e4e0c373c6cb876eab25af759fa98aedb40e9a63ad424adbfdda4f65429ca6b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "71-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "24/02/2019",
+  "numero_formal_pdf": "71-19"
 }

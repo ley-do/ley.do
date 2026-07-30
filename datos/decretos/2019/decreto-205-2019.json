@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393759&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393759&managementType=1",
   "document_id_consultoria": "3393759",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-205-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-205-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-205-2019.json",
   "sha256_pdf_original": "9cbcef12cd7f22299d8ffa14941a76d9f4e1d4b6cf1f1363d6ea5fa839e1b9ba",
-  "sha256_markdown": "5bcbc76661dff670c80016ae446dc4a75772ad36be6ad25effa7cd5dedf8c4e8",
+  "sha256_markdown": "55b601f164990fe8a2542c87aeb24b0eea247ad4d4d48eef7ee0b2954e89c2d7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "205-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "07/06/2019",
+  "numero_formal_pdf": "205-19"
 }

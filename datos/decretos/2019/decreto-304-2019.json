@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394054&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394054&managementType=1",
   "document_id_consultoria": "3394054",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-304-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-304-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-304-2019.json",
   "sha256_pdf_original": "19fe0d4226767d6ab9ee5068b0cc7de6e2d3ef65cfd24f46b058125d34b46939",
-  "sha256_markdown": "44503e619209375b9bb52edbaecb149f4792e580385704413b7196ee1f5dfabe",
+  "sha256_markdown": "f6caf81e24e08614408a7b8450645ad03982a1c021792f264e89d16518c26407",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "304-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/09/2019",
+  "numero_formal_pdf": "304-19"
 }

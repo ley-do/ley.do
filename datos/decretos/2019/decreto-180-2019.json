@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393684&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393684&managementType=1",
   "document_id_consultoria": "3393684",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-180-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-180-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-180-2019.json",
   "sha256_pdf_original": "c927916dc3f1492ecaf773b30974552ca023a952a88d9d83d97c97b58088686c",
-  "sha256_markdown": "420930d7ac4f3e7b44b9ecbeb5ae07984129b30159cfb42ebe2f512f44cc3e83",
+  "sha256_markdown": "fa4a46fd72b0d2c4ac66c2169c25061e7395ab640ad0a38ba6bdc65d2dce677f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "180-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "14/05/2019",
+  "numero_formal_pdf": "180-19"
 }

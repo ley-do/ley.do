@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393638&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393638&managementType=1",
   "document_id_consultoria": "3393638",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-158-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-158-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-158-2019.json",
   "sha256_pdf_original": "f0b6e19c1834854ca6f0dac4edfee9e6d71c492cd650711f61ac8a90dcfeae5c",
-  "sha256_markdown": "6060fdc8a227c2856a11d8f6ad8a01a21d3fabe58cf68fe6e11697509c61dff7",
+  "sha256_markdown": "af09a2b6b92361e6fe1158ce9525718c6a16bfbab8273a3b80b6fb34fca8a567",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "158-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/04/2019",
+  "numero_formal_pdf": "158-19"
 }

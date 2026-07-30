@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393883&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393883&managementType=1",
   "document_id_consultoria": "3393883",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-254-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-254-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-254-2019.json",
   "sha256_pdf_original": "1aadb7d69526c278350bd79b11481c3a7668790cb0eb0713cc61176a7ec6c966",
-  "sha256_markdown": "e09f0e80360f8f702c05c8ea75733fd9038e8f8b67799f5ca4c1ed4794d4e06b",
+  "sha256_markdown": "b8c92a7b6ec7aca53b60506b22e5319159dfb8a3be5028f4dac0be116dd78883",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "254-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/07/2019",
+  "numero_formal_pdf": "254-19"
 }

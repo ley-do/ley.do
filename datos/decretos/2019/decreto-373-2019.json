@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395253&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395253&managementType=1",
   "document_id_consultoria": "3395253",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-373-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-373-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-373-2019.json",
   "sha256_pdf_original": "83ced17b82d7455e84a8b387c3145d54894c3e5dfcf203434b048f3ceb9c0857",
-  "sha256_markdown": "b66d75596ab60880e6ab1a314fadb315ce7ebfe4b4fcbda7d99ab4650140a2cc",
+  "sha256_markdown": "d7b623fd6188ed8cfb78227af4153e4f19a0efb2f1db84c939d657cd4bc8bdc5",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "373-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "28/10/2019",
+  "numero_formal_pdf": "373-19"
 }

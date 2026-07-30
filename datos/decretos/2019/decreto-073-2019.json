@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393460&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393460&managementType=1",
   "document_id_consultoria": "3393460",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-073-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-073-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-073-2019.json",
   "sha256_pdf_original": "ebaefd30ba4b89ca557d84b74c4ec748ed49edb7d5aecdf84f0c4c5712b4eb3a",
-  "sha256_markdown": "79429b7a605243c76fb8684abd5969d32a69c9736a21c3f13f2e08ef55844e6d",
+  "sha256_markdown": "dd7dfa21aef0fbc7874bb23b72a1f20d9d340887929dedbc33c36e63671339c9",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -30,8 +30,10 @@
   "numero_registro_fuente": "73-19",
   "anio_metadata_fuente": "2019",
   "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
-  "fecha_metadata_fuente": "26/02/2019",
+  "estado_fecha_texto_pdf": "detectada",
   "fecha_texto_pdf_detectada": "28/02/2019",
+  "fecha_metadata_fuente": "26/02/2019",
+  "numero_formal_pdf": "73-19",
   "alertas_revision": [
     "La metadata oficial consultada indica 26/02/2019, mientras el apartado DADO del PDF indica 28/02/2019. Se conservan ambos valores para revisión humana."
   ]

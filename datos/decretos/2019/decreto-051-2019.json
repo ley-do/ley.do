@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393406&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393406&managementType=1",
   "document_id_consultoria": "3393406",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-051-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-051-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-051-2019.json",
   "sha256_pdf_original": "34e6f67a06e46a6b43d6186ca34ae2cc7a943d783242c650430629e2b86dd6ae",
-  "sha256_markdown": "fe1cd551865e090cdfdcebcebd87f5cd224b17eb2b2453c15141dc333071083f",
+  "sha256_markdown": "df96e920cb0a86ad9f5698f3442006a766454b465fe6ab3c486931697e823b96",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "51-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "07/02/2019",
+  "numero_formal_pdf": "51-19"
 }

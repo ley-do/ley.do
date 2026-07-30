@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393644&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393644&managementType=1",
   "document_id_consultoria": "3393644",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-164-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-164-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-164-2019.json",
   "sha256_pdf_original": "6db08a3b527ca5bb3452d824fb72531f359954080dec566187dc1a226667ab19",
-  "sha256_markdown": "8cc7896b50de8725c9f70e1ce67fd6c1aefee783193de953e01f8b1bf8af0d94",
+  "sha256_markdown": "1e144ca5424539091ab9dd4c6ce158db353b3daf5026010c9b7746ad43a3a4b0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "164-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/04/2019",
+  "numero_formal_pdf": "164-19"
 }

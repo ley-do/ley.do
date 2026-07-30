@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393599&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393599&managementType=1",
   "document_id_consultoria": "3393599",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-131-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-131-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-131-2019.json",
   "sha256_pdf_original": "828520093562313de899a1e99386649011306a6380e4b9669c9d0b4e33869b08",
-  "sha256_markdown": "25eb73f9a5cb6a36dccca45792f4c3be1c8c1b0cc1e33811dd7d3c66ba942103",
+  "sha256_markdown": "fa688dfe2ca41fa5006e150509f0df6202487908386e924ebcee8271d1ec8876",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "131-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/04/2019",
+  "numero_formal_pdf": "131-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399593&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399593&managementType=1",
   "document_id_consultoria": "3399593",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-289-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-289-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-289-2019.json",
   "sha256_pdf_original": "b194d8a7517f537306b3ecdfcd8ddda4d0ba186b52f3115cc02c8e27acc9c460",
-  "sha256_markdown": "81e0ad4bbeeae51b6fd98aab0d8ef9c205f63b658468849c7443089360b386f9",
+  "sha256_markdown": "3d9c40edc4fcbcbc7410590366ca6ad223bcbd82b8c247998aa78a5ddb8662df",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "289-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/09/2019",
+  "numero_formal_pdf": "289-19"
 }

@@ -26,6 +26,14 @@ class FechaDadoTests(unittest.TestCase):
 
         self.assertEqual(fecha_dado(pages, 2019), "04/07/2019")
 
+    def test_extrae_el_anio_observado_en_dado_sin_inyectar_el_anio_consultado(self):
+        pages = [
+            "DADO en Santo Domingo, a los veinte (20) días del mes de febrero "
+            "del año dos mil dieciocho (2018)."
+        ]
+
+        self.assertEqual(fecha_dado(pages, 2019), "20/02/2018")
+
     def test_rechaza_identidad_duplicada_sin_id_explicito(self):
         with tempfile.TemporaryDirectory() as td:
             repo = Path(td)
@@ -46,6 +54,59 @@ class FechaDadoTests(unittest.TestCase):
 
             with self.assertRaisesRegex(ValueError, "múltiples registros"):
                 run(repo, 2019, [284], inventario_path=inventory_path)
+
+    def test_rechaza_ids_de_consultoria_duplicados(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td)
+            inventory_path = repo / "reconciliado.json"
+            inventory_path.write_text(
+                json.dumps(
+                    {
+                        "documentos": {
+                            "decretos": [
+                                {"numero": "1-19", "anio": "2019", "document_id_consultoria": "duplicado"},
+                                {"numero": "2-19", "anio": "2019", "document_id_consultoria": "duplicado"},
+                            ]
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            with self.assertRaisesRegex(ValueError, "ID de documento duplicado"):
+                run(
+                    repo,
+                    2019,
+                    [1],
+                    documentos_explicitos={1: "duplicado"},
+                    inventario_path=inventory_path,
+                )
+
+    def test_rechaza_id_explicito_de_otro_numero(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td)
+            inventory_path = repo / "reconciliado.json"
+            inventory_path.write_text(
+                json.dumps(
+                    {
+                        "documentos": {
+                            "decretos": [
+                                {"numero": "2-19", "anio": "2019", "document_id_consultoria": "id-2"}
+                            ]
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            with self.assertRaisesRegex(ValueError, "no corresponde al decreto 1-2019"):
+                run(
+                    repo,
+                    2019,
+                    [1],
+                    documentos_explicitos={1: "id-2"},
+                    inventario_path=inventory_path,
+                )
 
     def test_documenta_discrepancia_entre_metadata_y_dado(self):
         with tempfile.TemporaryDirectory() as td:
@@ -77,9 +138,9 @@ class FechaDadoTests(unittest.TestCase):
                                     "fecha_documento": "20/02/2016",
                                     "gaceta_oficial": "10934",
                                     "institucion_fuente": "Fuente oficial",
-                                    "url_fuente_oficial": "https://oficial.example/",
-                                    "url_documento_consultoria_abrir": "https://oficial.example/66",
-                                    "url_documento_consultoria_descargar": "https://oficial.example/66.pdf",
+                                    "url_fuente_oficial": "https://www.consultoria.gov.do/",
+                                    "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/66",
+                                    "url_documento_consultoria_descargar": "https://www.consultoria.gov.do/66.pdf",
                                 }
                             ]
                         }
@@ -98,6 +159,52 @@ class FechaDadoTests(unittest.TestCase):
             self.assertEqual(metadata["fecha_texto_pdf_detectada"], "20/02/2019")
             self.assertTrue(metadata["alertas_revision"])
             self.assertIn("Fecha observada en texto PDF: 20/02/2019", markdown)
+
+    def test_escapa_html_del_pdf_y_de_las_alertas_en_markdown(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td)
+            pdf = repo / "archivos/decretos/2019/decreto-003-2019.pdf"
+            pdf.parent.mkdir(parents=True)
+            document = pymupdf.open(); page = document.new_page()
+            page.insert_text(
+                (72, 72),
+                "Dec. No. 3-19 <script>alerta</script>.\n"
+                "NUMERO: 3-19\nARTICULO 1. <img src=x>.\n"
+                "DADO en Santo Domingo, a los tres (3) dias del mes de enero de 2019.",
+                fontsize=10,
+            )
+            document.save(pdf); document.close()
+            inventory_path = repo / "reconciliado.json"
+            inventory_path.write_text(
+                json.dumps(
+                    {
+                        "documentos": {
+                            "decretos": [
+                                {
+                                    "numero": "3-19",
+                                    "anio": "2019",
+                                    "document_id_consultoria": "id-3",
+                                    "fecha_documento": "03/01/2019",
+                                    "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+                                    "url_fuente_oficial": "https://www.consultoria.gov.do/",
+                                    "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/3",
+                                    "url_documento_consultoria_descargar": "https://www.consultoria.gov.do/3.pdf",
+                                    "alertas_revision": ["Revisar <script>alerta</script>."],
+                                }
+                            ]
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            run(repo, 2019, [3], inventario_path=inventory_path)
+
+            markdown = (repo / "docs/decretos/2019/decreto-003-2019.md").read_text(encoding="utf-8")
+            self.assertNotIn("<script>", markdown)
+            self.assertNotIn("<img", markdown)
+            self.assertIn("&lt;script&gt;", markdown)
+            self.assertIn("&lt;img", markdown)
 
     def test_preserva_procedencia_y_rendiciones_oficiales(self):
         with tempfile.TemporaryDirectory() as td:
@@ -136,15 +243,15 @@ class FechaDadoTests(unittest.TestCase):
                                     "document_id_consultoria": "id-275",
                                     "fecha_documento": "01/08/2019",
                                     "institucion_fuente": "Fuente oficial",
-                                    "url_fuente_oficial": "https://oficial.example/",
-                                    "url_documento_consultoria_abrir": "https://oficial.example/275",
-                                    "url_documento_consultoria_descargar": "https://oficial.example/275.pdf",
+                                    "url_fuente_oficial": "https://www.consultoria.gov.do/",
+                                    "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/275",
+                                    "url_documento_consultoria_descargar": "https://www.consultoria.gov.do/275.pdf",
                                     "rendiciones_oficiales_relacionadas": [
                                         {
                                             "document_id_consultoria": "id-extra",
                                             "rol_archivistico": "rendicion_complementaria",
                                             "ruta_pdf_local": "archivos/decretos/2019/decreto-275-2019-fuente-extra.pdf",
-                                            "url_pdf_oficial": "https://oficial.example/extra.pdf",
+                                            "url_pdf_oficial": "https://www.consultoria.gov.do/extra.pdf",
                                             "sha256_pdf": related_hash,
                                             "capa_texto": True,
                                         }
@@ -198,6 +305,29 @@ class FechaDadoTests(unittest.TestCase):
             self.assertNotIn("Dec. No. 6-19", extracted)
             self.assertEqual(trimmed, ["fragmento_anterior", 6])
 
+    def test_recorta_vecino_de_numero_menor_despues_de_dado(self):
+        with tempfile.TemporaryDirectory() as td:
+            pdf = Path(td) / "recorte-invertido.pdf"
+            document = pymupdf.open()
+            page = document.new_page()
+            page.insert_text(
+                (72, 72),
+                "Dec. No. 5-19 que dispone una medida.\n"
+                "NUMERO: 5-19\nARTICULO 1. Texto objetivo.\n"
+                "DADO en Santo Domingo, a los cinco (5) dias del mes de enero de 2019.\n"
+                "NUMERO: 4-19\nARTICULO 1. Texto de otro documento.",
+                fontsize=10,
+            )
+            document.save(pdf)
+            document.close()
+
+            pages, trimmed, *_ = extract(pdf, 5, "19")
+            extracted = "\n".join(pages)
+
+            self.assertIn("Texto objetivo", extracted)
+            self.assertNotIn("Texto de otro documento", extracted)
+            self.assertIn(4, trimmed)
+
     def test_usa_numero_formal_si_falta_encabezado_sumario(self):
         with tempfile.TemporaryDirectory() as td:
             pdf = Path(td) / "formal.pdf"
@@ -223,6 +353,38 @@ class FechaDadoTests(unittest.TestCase):
             self.assertEqual(document_class, "Dec.")
             self.assertEqual(header_number, "241-19")
             self.assertEqual(title(pages, 241, "19", 2019), "Decreto núm. 241-2019")
+
+
+    def _write_identity_fixture(self, repo, number, summary, formal):
+        pdf = repo / f"archivos/decretos/2019/decreto-{number:03d}-2019.pdf"
+        pdf.parent.mkdir(parents=True, exist_ok=True)
+        document = pymupdf.open(); page = document.new_page()
+        page.insert_text((72, 72), f"Dec. No. {summary}\n{formal}\nARTICULO 1. Texto.\nDADO en Santo Domingo, a los uno (1) dias del mes de enero de 2019.", fontsize=10)
+        document.save(pdf); document.close()
+        inventory = repo / "reconciliado.json"
+        inventory.write_text(json.dumps({"documentos": {"decretos": [{"numero": f"{number}-19", "document_id_consultoria": f"id-{number}", "institucion_fuente": "Consultoria Juridica", "url_fuente_oficial": "https://www.consultoria.gov.do/", "url_documento_consultoria_abrir": f"https://www.consultoria.gov.do/{number}", "url_documento_consultoria_descargar": f"https://www.consultoria.gov.do/{number}.pdf"}]}}), encoding="utf-8")
+        return inventory
+
+    def test_rechaza_linea_formal_del_mismo_numero_pero_otro_anio(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td); inventory = self._write_identity_fixture(repo, 1, "1-19", "NUMERO: 1-20")
+            with self.assertRaisesRegex(ValueError, "año formal"):
+                run(repo, 2019, [1], inventario_path=inventory)
+
+    def test_documenta_numero_formal_discrepante_del_mismo_anio(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td); inventory = self._write_identity_fixture(repo, 434, "434-19", "NÚMERO: 334-19")
+            run(repo, 2019, [434], inventario_path=inventory)
+            metadata = json.loads((repo / "datos/decretos/2019/decreto-434-2019.json").read_text(encoding="utf-8"))
+            self.assertEqual(metadata["numero_formal_pdf"], "334-19")
+            self.assertTrue(any("334-19" in item and "434-19" in item for item in metadata["alertas_revision"]))
+
+    def test_conserva_numero_formal_sin_acento_aunque_no_haya_discrepancia(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td); inventory = self._write_identity_fixture(repo, 402, "402-19", "NUMERO: 402-19")
+            run(repo, 2019, [402], inventario_path=inventory)
+            metadata = json.loads((repo / "datos/decretos/2019/decreto-402-2019.json").read_text(encoding="utf-8"))
+            self.assertEqual(metadata["numero_formal_pdf"], "402-19")
 
 
 if __name__ == "__main__":

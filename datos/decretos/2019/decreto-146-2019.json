@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393614&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393614&managementType=1",
   "document_id_consultoria": "3393614",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-146-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-146-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-146-2019.json",
   "sha256_pdf_original": "41785d90484cc11828ffe9bd4ba662e4dee96afda075735e7b7d22717b73d80b",
-  "sha256_markdown": "00ee090a037c0074b19d7355c4ebdc195853c6feb774b12f5f7aa121b5ae272d",
+  "sha256_markdown": "205cd3559f01594a2d5e5be938acc0c02d4d0d6009b276eb795f7a13a3f72384",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "146-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/04/2019",
+  "numero_formal_pdf": "146-19"
 }

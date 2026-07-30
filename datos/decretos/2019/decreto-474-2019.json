@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395407&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395407&managementType=1",
   "document_id_consultoria": "3395407",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-474-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-474-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-474-2019.json",
   "sha256_pdf_original": "56a81f6f61738e8b8615bad0234ef9b77f0d6a92bde98d9b6a3270d831783f67",
-  "sha256_markdown": "5d80be04b69e4fedf5c35c62147be0579b1ad08e1726a41f3de00220a94bdb43",
+  "sha256_markdown": "58e1a50186612fa874b02e9cc05db84baf1482056316d53bfafb04963a173916",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "474-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "474-19"
 }

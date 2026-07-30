@@ -12,21 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395271&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395271&managementType=1",
   "document_id_consultoria": "3395271",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-391-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-391-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-391-2019.json",
   "sha256_pdf_original": "9faefd0a35aa163c7b2c6599c41a3221aee213c7e6f59ba9ca3ab019912eecfa",
-  "sha256_markdown": "ac8d6c91d5bed6d89991ce3de6f250b99da2a261daa1a89ea5738b6daf6f95bb",
+  "sha256_markdown": "78452adfe33daaba1f394e423b34ec2cf65d09db2430be1057cb0f2b626e0269",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "fragmentos_decretos_vecinos_excluidos": [
-    "fragmento_anterior"
+    "fragmento_anterior",
+    392
   ],
   "commit_publicacion": "",
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "391-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/11/2019",
+  "numero_formal_pdf": "391-19"
 }

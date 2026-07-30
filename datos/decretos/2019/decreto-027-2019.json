@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393372&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393372&managementType=1",
   "document_id_consultoria": "3393372",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-027-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-027-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-027-2019.json",
   "sha256_pdf_original": "545131e90bb5e498ef5cd3315e72c554e59e6a201545f58c8232a9409f1c13fd",
-  "sha256_markdown": "fb1850424a9f485d01349714ad3de52ddae15dc6a2930f03f141b93afe717167",
+  "sha256_markdown": "d00295065568b102d5331d1c99e0806368f9720e87eb2a31174efe0423a1332d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "27-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/01/2019",
+  "numero_formal_pdf": "27-19"
 }

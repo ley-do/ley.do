@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395447&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395447&managementType=1",
   "document_id_consultoria": "3395447",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-491-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-491-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-491-2019.json",
   "sha256_pdf_original": "8083f80e2a05f07d841373ec186de349f82716b00c62a6f927210f3f4ff6cebd",
-  "sha256_markdown": "18182bf56c53740a0a9a8c7124f0353f3f0e5eca0f8b48e8be2a9a35117665b1",
+  "sha256_markdown": "ab11b1cebefec4efad98a24938d96f9a0d1e002f3632c5c9a51ee6dafa9bc035",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "491-19",
   "anio_metadata_fuente": "2020",
-  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/12/2019",
+  "numero_formal_pdf": "491-19"
 }

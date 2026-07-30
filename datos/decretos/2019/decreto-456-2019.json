@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395389&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395389&managementType=1",
   "document_id_consultoria": "3395389",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-456-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-456-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-456-2019.json",
   "sha256_pdf_original": "5f2b81c67b028ca9c7e470773ff94213233bbe0b572d236564deb29eae486745",
-  "sha256_markdown": "2c8e9aa21bfe0132ff65a601e73d514a88e500b731884e841406ad3e1fc8ba59",
+  "sha256_markdown": "0ca2cb8f01618ba5f425e2a8fe7858049601f24a0d3fd1a800660345b0066a94",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "456-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "456-19"
 }

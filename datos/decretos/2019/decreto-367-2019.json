@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394269&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394269&managementType=1",
   "document_id_consultoria": "3394269",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-367-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-367-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-367-2019.json",
   "sha256_pdf_original": "938fbd60fec5be84f7796e46fb2d58d1f31a039e1f0e1242e20c83a034a12d9a",
-  "sha256_markdown": "ce162f1a2c32a4b3130a38bf0492118b54575336ae5df4cf5feae4cef9a1cc7e",
+  "sha256_markdown": "58a37b9a81ba8821dbce6a957d84f3c1f338ebc57e0e742cfad98c07ae612464",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "367-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "24/10/2019",
+  "numero_formal_pdf": "367-19"
 }

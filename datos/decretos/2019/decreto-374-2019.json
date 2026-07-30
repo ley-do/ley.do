@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395254&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395254&managementType=1",
   "document_id_consultoria": "3395254",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-374-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-374-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-374-2019.json",
   "sha256_pdf_original": "fa273ecd8a9028a54537e51ba01ab4a18c71b72d1ca171a50210ebb4b6d900aa",
-  "sha256_markdown": "db9b4e54bf82641da6595c0a581e36e76b213b313a89b35bb8ff46a65c84eb9e",
+  "sha256_markdown": "228dfa1d1b567e6ca7e1cdd47c5642d7447ad6820f18091bbf9fb340139559bd",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "374-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "28/10/2019",
+  "numero_formal_pdf": "374-19"
 }

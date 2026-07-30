@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394184&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394184&managementType=1",
   "document_id_consultoria": "3394184",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-323-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-323-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-323-2019.json",
   "sha256_pdf_original": "5a577e17503e1a9c735e1c4a769a930a1ccadf10748c57adf677f3d6cb7470f2",
-  "sha256_markdown": "91be6a386c67989128eeac9d509688ed0d6ca040418f2297f2a33369f3b9ecca",
+  "sha256_markdown": "9cd4dac55395f07365b421533be62a6b98a22a8be16d179d6973d6ab4f569485",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "323-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/09/2019",
+  "numero_formal_pdf": "323-19"
 }

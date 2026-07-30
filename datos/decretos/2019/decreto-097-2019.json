@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393495&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393495&managementType=1",
   "document_id_consultoria": "3393495",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-097-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-097-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-097-2019.json",
   "sha256_pdf_original": "a3ea243931c44811acac82e8c79eda3f11e690e187ba58065ddec81efbc25238",
-  "sha256_markdown": "188de1797bda6269a396ad068a1b2afaff70357fadd69c5e43b6b52a818f18d9",
+  "sha256_markdown": "fb1a648125421465adfa6bc4185933f152f8aba1708259a973eca67988197431",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "97-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "14/03/2019",
+  "numero_formal_pdf": "97-19"
 }

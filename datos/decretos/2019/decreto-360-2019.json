@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394262&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394262&managementType=1",
   "document_id_consultoria": "3394262",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-360-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-360-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-360-2019.json",
   "sha256_pdf_original": "f3608a23c5971926c01ba3560e2a95ac1aff21fa7abfc09957f375f371e7b922",
-  "sha256_markdown": "b37385892dcb108e4b2b8546e1e5fc17c54bb8b423e65ee52869c3cc115e7097",
+  "sha256_markdown": "cf88fca8d086b71397e6fe4c9d32c8b269387741210eb50b97c8d8411266945d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "360-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/10/2019",
+  "numero_formal_pdf": "360-19"
 }

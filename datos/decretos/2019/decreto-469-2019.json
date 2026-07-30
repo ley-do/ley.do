@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395402&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395402&managementType=1",
   "document_id_consultoria": "3395402",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-469-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-469-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-469-2019.json",
   "sha256_pdf_original": "276ce113dfe1c13a79f05012c674c5ef43e5ae04edc7bcb6411986d8d91e8200",
-  "sha256_markdown": "e665993d741e261070caff5dc7260b401b7d61312d4698c7a7dc5aac6e2b1351",
+  "sha256_markdown": "9fbda04baaaa0bacd17a866a8c9ad033ae28d4dfdc6adc82fb897a4f2eab2cec",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "469-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "469-19"
 }

@@ -1,8 +1,9 @@
 {
-  "schema_version": "1.0",
-  "fecha_ejecucion": "2026-07-29T11:43:16.029803+00:00",
+  "schema_version": "1.1",
+  "fecha_ejecucion": "2026-07-30T02:19:43.650932+00:00",
   "anio": 2019,
-  "inventario": "C:\\Users\\Juvenal\\Desktop\\LAB\\ley-do-inicio-es\\fuentes\\consultoria_decretos_2019_reconciliado.json",
+  "inventario": "fuentes/consultoria_decretos_2019_reconciliado.json",
+  "sha256_inventario": "197f3007c4363f83ee0537c0766892f8b95594ed407355e3b0abb35963f99fc4",
   "numeros": [
     1,
     2,

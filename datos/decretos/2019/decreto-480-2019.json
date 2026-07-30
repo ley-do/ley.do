@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395436&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395436&managementType=1",
   "document_id_consultoria": "3395436",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-480-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-480-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-480-2019.json",
   "sha256_pdf_original": "c0dfdba90af8313a4bc844514d6c018742e794544bd462c3727d0a3fa6728b74",
-  "sha256_markdown": "2141e122e74c86648294e587d358bf1c429c5c1aa0e1370e10117e6b4f014aea",
+  "sha256_markdown": "4783b927bf637006160e500612915dc23ae55b91449ce6e1a4bb3910e4fbcf91",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "480-19",
   "anio_metadata_fuente": "2020",
-  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/12/2019",
+  "numero_formal_pdf": "480-19"
 }

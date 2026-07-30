@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393489&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393489&managementType=1",
   "document_id_consultoria": "3393489",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-107-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-107-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-107-2019.json",
   "sha256_pdf_original": "daef3ffeb5d5528365c3905403c8cadb5d6fd643b0a3bbf73c6899025c1a3ac7",
-  "sha256_markdown": "07ee092272d3e9f4606b22dc6817dadbe9edd7c43adea403788279871992d5d1",
+  "sha256_markdown": "bcf80c0e51d5dbf018790b6095551edd2e1e6a467d0c28b49c2ce7a58d570476",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "107-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "14/03/2019",
+  "numero_formal_pdf": "107-19"
 }

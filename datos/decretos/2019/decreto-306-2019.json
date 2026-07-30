@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394056&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394056&managementType=1",
   "document_id_consultoria": "3394056",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-306-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-306-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-306-2019.json",
   "sha256_pdf_original": "eb270eb34b26c430b5908e118f99979df9a5d70618432173c96f10fc0588b034",
-  "sha256_markdown": "97bb6af1abdac3a6e26f393177293d8502a663bb20045be01bcac33f9a164ed2",
+  "sha256_markdown": "8502161a225b3d3c3b2346b49447c7a78d5ddf3a61c7c24fdd87e2eb0bb6b550",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "306-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/09/2019",
+  "numero_formal_pdf": "306-19"
 }

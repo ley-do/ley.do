@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393760&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393760&managementType=1",
   "document_id_consultoria": "3393760",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-206-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-206-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-206-2019.json",
   "sha256_pdf_original": "cb9324f35a9c098303e0d3e17520343833f0261635b1cd6253808c0dd38aec14",
-  "sha256_markdown": "6be977937d2cc8825b1ca3ce6142c2f761c99ac8674401d3cb5cdf874fde87d1",
+  "sha256_markdown": "dc836c9ad1a2948e1ca395538761c3f7342ee002a63fc87a051acaa7994c730e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "206-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "07/06/2019",
+  "numero_formal_pdf": "206-19"
 }

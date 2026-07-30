@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395437&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395437&managementType=1",
   "document_id_consultoria": "3395437",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-481-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-481-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-481-2019.json",
   "sha256_pdf_original": "49a45939fa161f796df1ee89309b1a9bb4d3a9af0b917b2968df10e99f7e832e",
-  "sha256_markdown": "a4cf00b0cdc23b2fcce9c1a2545507923c603e2a707fcb84991b31787cd8b7d8",
+  "sha256_markdown": "fe050687366f58cc68e63813544c2080379a23e583f45a88ab0c4b90c500d9ce",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "481-19",
   "anio_metadata_fuente": "2020",
-  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/12/2019",
+  "numero_formal_pdf": "481-19"
 }

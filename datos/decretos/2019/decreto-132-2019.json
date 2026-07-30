@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393600&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393600&managementType=1",
   "document_id_consultoria": "3393600",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-132-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-132-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-132-2019.json",
   "sha256_pdf_original": "30f2b38cc98f273d898dc5ba38eac043bbe2d93585f3536e67ae31c001985b62",
-  "sha256_markdown": "362b3e2029bcd0b185dda977122733371b068ce308d30620a79b546bc03722b2",
+  "sha256_markdown": "3600f5d67e49022014aad793f8b7c400bddd65392f2c2ce13e673c0049769e58",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "132-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/04/2019",
+  "numero_formal_pdf": "132-19"
 }

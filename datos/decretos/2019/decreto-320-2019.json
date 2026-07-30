@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394181&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394181&managementType=1",
   "document_id_consultoria": "3394181",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-320-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-320-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-320-2019.json",
   "sha256_pdf_original": "71ff28e5da3028379dc5a2ede3f0b76e40c6a77a9a2267c0058042c8de0bffaf",
-  "sha256_markdown": "e4a5ee0027f70952b16804d558843d5c08678dbb42e51f5b0ca2d4596284bb41",
+  "sha256_markdown": "6369c8cd140118e3f26ff8d6d9b78267e35e7a04e809c94faa57b8008d5c65e5",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "320-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/09/2019",
+  "numero_formal_pdf": "320-19"
 }

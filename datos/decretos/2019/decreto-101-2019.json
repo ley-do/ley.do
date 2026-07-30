@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393483&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393483&managementType=1",
   "document_id_consultoria": "3393483",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-101-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-101-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-101-2019.json",
   "sha256_pdf_original": "3e28db9b2ff99b73a0e43b90e264fbb6c8be324f071b01114e53c20a1f0867a1",
-  "sha256_markdown": "6a48d6bbf9c0cb37bda1d2e78ab0b4f3f1ad4becf93db3a126f749a501c8245b",
+  "sha256_markdown": "dc19c52f17403142b8020a73e86efcc2e4d49d427f9e3b81a859b37bd12f0389",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "101-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "14/03/2019",
+  "numero_formal_pdf": "101-19"
 }

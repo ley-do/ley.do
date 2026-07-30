@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395751&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395751&managementType=1",
   "document_id_consultoria": "3395751",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-282-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-282-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-282-2019.json",
   "sha256_pdf_original": "b5bbc6c411f9c6f9fd56d88379083612a20da746fbd7b13821e25c2f0a6b9992",
-  "sha256_markdown": "aa3b4f28924cbdac52c485277a53c2607c87c9c98ba5a3301a4ef7fb52c1ae5e",
+  "sha256_markdown": "ffb3a23698e28904e1ef60938cc3f5f942d22be97da6068d39266a07dc8550f9",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -30,8 +30,10 @@
   "numero_registro_fuente": "282-19",
   "anio_metadata_fuente": "2019",
   "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
-  "fecha_metadata_fuente": "09/08/2019",
+  "estado_fecha_texto_pdf": "detectada",
   "fecha_texto_pdf_detectada": "12/08/2019",
+  "fecha_metadata_fuente": "09/08/2019",
+  "numero_formal_pdf": "282-19",
   "alertas_revision": [
     "La metadata oficial consultada indica 09/08/2019, mientras el apartado DADO del PDF indica 12/08/2019. Se conservan ambos valores para revisión humana."
   ]

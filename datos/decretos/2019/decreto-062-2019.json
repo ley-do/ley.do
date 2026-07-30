@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393417&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393417&managementType=1",
   "document_id_consultoria": "3393417",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-062-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-062-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-062-2019.json",
   "sha256_pdf_original": "1ad3fca30f965ae905e5aa80a90a5598d118d0e90ffe4d1f040f10d6d5e64c31",
-  "sha256_markdown": "9979c63c565eedc662b9aeffe37c6116033ba8fb6d65159fecd72c7908ede16a",
+  "sha256_markdown": "f813e971b4bb6a0b5d09cc850071c2e457f5e273c45a85de3345f3cba7778f4c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "62-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/02/2019",
+  "numero_formal_pdf": "62-19"
 }

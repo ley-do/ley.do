@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395446&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395446&managementType=1",
   "document_id_consultoria": "3395446",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-490-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-490-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-490-2019.json",
   "sha256_pdf_original": "6ca8e84b904e9fcd5c5cddf8b0e996ac901c73e6acd53e67cf83228103984371",
-  "sha256_markdown": "3139541bafc1a4dda9e65de9a20f1deb08a9f4d1e577f68e934bd090c0dc1167",
+  "sha256_markdown": "58314832b7803c08155206493def4ca2721064d2e0cd437dacdf2a91b3eb510e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "490-19",
   "anio_metadata_fuente": "2020",
-  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/12/2019",
+  "numero_formal_pdf": "490-19"
 }

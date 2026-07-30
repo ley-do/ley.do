@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394258&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394258&managementType=1",
   "document_id_consultoria": "3394258",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-356-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-356-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-356-2019.json",
   "sha256_pdf_original": "46aa823979c9286db61dc6f4637526ffba056134256137d175d513a34dafb9cc",
-  "sha256_markdown": "b1f1c9c6af6163c4895d17bc5285a9e749c1d5ef838fd7ae4bd4d0a4e86a3a58",
+  "sha256_markdown": "b6a097112018a71e9e65db41086b0ec5ea76bb3cc59fd16c6fd62001a1ce6d56",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "356-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/10/2019",
+  "numero_formal_pdf": "356-19"
 }

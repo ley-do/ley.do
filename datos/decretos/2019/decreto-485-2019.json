@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395441&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395441&managementType=1",
   "document_id_consultoria": "3395441",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-485-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-485-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-485-2019.json",
   "sha256_pdf_original": "3a2126d7761107fc264f2132e6fce7fecfcbe0fbef8e8810ded5b6f54b970b60",
-  "sha256_markdown": "cbbce75d8299666ac647f512202917990984e4019d9b3f8a94d367fa7f084a49",
+  "sha256_markdown": "2c2c20ebbc9a2842da0734ff704745c95fa7335eac8011d0bfa5d4338d30949d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "485-19",
   "anio_metadata_fuente": "2020",
-  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2020_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/12/2019",
+  "numero_formal_pdf": "485-19"
 }

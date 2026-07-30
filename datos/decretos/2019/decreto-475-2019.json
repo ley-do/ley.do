@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395425&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395425&managementType=1",
   "document_id_consultoria": "3395425",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-475-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-475-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-475-2019.json",
   "sha256_pdf_original": "ba83d5418b2e11ddc8e0501d953a979ce9a84785dce90ac45cde269d51eb4f99",
-  "sha256_markdown": "c7c139a18de4bed52fadbfa4ba95edbc9ec6b3259942c2452c28b4775c035243",
+  "sha256_markdown": "4b3bc89a13774b57b931263797e4a620133dd1a81f7b02f6cf28ec25a86bdb40",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "475-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "475-19"
 }

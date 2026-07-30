@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393410&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393410&managementType=1",
   "document_id_consultoria": "3393410",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-055-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-055-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-055-2019.json",
   "sha256_pdf_original": "d2e8014fa605b323f8f2a24c399671ee729c7f33e9eade1575c0020a1f8158e8",
-  "sha256_markdown": "7f15ded12245f008b1fc28a45be62578c5e93d8f077d983bc399c595ffaf4e06",
+  "sha256_markdown": "54e2ef6a2cc0bb14e4433340df4f7c59202cf7e81d49ac6e83d20bb73a679e67",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "55-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "07/02/2019",
+  "numero_formal_pdf": "55-19"
 }

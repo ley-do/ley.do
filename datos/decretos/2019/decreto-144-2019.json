@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393612&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393612&managementType=1",
   "document_id_consultoria": "3393612",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-144-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-144-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-144-2019.json",
   "sha256_pdf_original": "8958283d7083cbb4516693cb045fcd15c4a45e9071bdd127facf767f1b495724",
-  "sha256_markdown": "d31fe4d82de7a17b7c99a2462ae1f73f2278e35458aff9aade273fe068027217",
+  "sha256_markdown": "4a524a10bd7e4ab670b6107597e15a9b0a0f62ea9065eee494d30525904bcce7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "144-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/04/2019",
+  "numero_formal_pdf": "144-19"
 }

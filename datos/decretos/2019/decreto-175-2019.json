@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393679&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393679&managementType=1",
   "document_id_consultoria": "3393679",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-175-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-175-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-175-2019.json",
   "sha256_pdf_original": "b0cb08fbcff993ab1c99e4a2d4020fb310f7146f051db60f7123c71c18e699a9",
-  "sha256_markdown": "fbe70356f5c311b56bf50e2941eea3ae94b10efc63cefb34f22dbac09ec31ef0",
+  "sha256_markdown": "e674e3864f3121d85a77520d94909b5d04ac2773fc989351f42e36876c77c93d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "175-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/05/2019",
+  "numero_formal_pdf": "175-19"
 }

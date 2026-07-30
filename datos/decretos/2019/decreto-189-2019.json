@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393724&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393724&managementType=1",
   "document_id_consultoria": "3393724",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-189-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-189-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-189-2019.json",
   "sha256_pdf_original": "9e85bbee7040534d145f76312114c0121bb9989986450d33e168a98d7e121052",
-  "sha256_markdown": "622d417dfd4254574f5d3fafdb4d6013750634e3054f2abaef20c75b6f3f28e3",
+  "sha256_markdown": "d424265e83d23c7793a58ff186f9700873e4626741174a1c8cd3f5a8c00c133c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "189-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/05/2019",
+  "numero_formal_pdf": "189-19"
 }

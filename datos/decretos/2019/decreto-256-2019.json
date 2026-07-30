@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393885&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393885&managementType=1",
   "document_id_consultoria": "3393885",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-256-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-256-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-256-2019.json",
   "sha256_pdf_original": "258a0a64373a05ea9b2e4e32a0ef795b385b9d6b67e61228c678d02dda541437",
-  "sha256_markdown": "60d89f1ca1ed0798d607312dfd93d6a38007ac3b9d1e3d84710a6e811104a727",
+  "sha256_markdown": "e3deb3526a4466a1940d037eb5a84efb03b61ed68efb6b0c7544f1c128f22b12",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "256-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/07/2019",
+  "numero_formal_pdf": "256-19"
 }

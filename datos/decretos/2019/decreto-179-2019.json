@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393683&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393683&managementType=1",
   "document_id_consultoria": "3393683",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-179-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-179-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-179-2019.json",
   "sha256_pdf_original": "ba7ba8eaaf47239f64bd8b4cd8a8adca0f0ed736cc2afb7c909d55a45f104785",
-  "sha256_markdown": "e2790f7c038161d05b5accb6c4d465060991fbe11f42987b706fcd63432201f7",
+  "sha256_markdown": "1fbe3e2f1c53b868caec83ab94d8650355efd866df164cc3a10903ce48ed63e1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -30,8 +30,10 @@
   "numero_registro_fuente": "179-19",
   "anio_metadata_fuente": "2019",
   "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
-  "fecha_metadata_fuente": "10/05/2019",
+  "estado_fecha_texto_pdf": "detectada",
   "fecha_texto_pdf_detectada": "14/05/2019",
+  "fecha_metadata_fuente": "10/05/2019",
+  "numero_formal_pdf": "179-19",
   "alertas_revision": [
     "La metadata oficial consultada indica 10/05/2019, mientras el apartado DADO del PDF indica 14/05/2019. Se conservan ambos valores para revisión humana."
   ]

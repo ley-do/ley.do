@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393527&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393527&managementType=1",
   "document_id_consultoria": "3393527",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-117-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-117-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-117-2019.json",
   "sha256_pdf_original": "9344384422db723474151271eba0c5640c4bdd97f60563f7c40bdc5f84009720",
-  "sha256_markdown": "bcd8d073cb2a339158a6059144665448f28f75bde4464608ddd841f12fcbb26b",
+  "sha256_markdown": "310cd123cc07acb2c9283f7df7629e68e3e0e665a3c6c6988bb9a82340ac1d3f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "117-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "25/03/2019",
+  "numero_formal_pdf": "117-19"
 }

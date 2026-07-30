@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393466&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393466&managementType=1",
   "document_id_consultoria": "3393466",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-079-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-079-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-079-2019.json",
   "sha256_pdf_original": "f3fdda2f50b7b5ea486242d79da2e3ff7611cf4b130787347d48efe28ba2e414",
-  "sha256_markdown": "5006a338b201f93ca48eb77598d7f37d7d9049a3899327c9130b99abb4f3a801",
+  "sha256_markdown": "057dac85ffa4c7e80093e48bceac9ad7814c68e15549407bc1a80d74f80416f6",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "79-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/03/2019",
+  "numero_formal_pdf": "79-19"
 }

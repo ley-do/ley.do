@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393590&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393590&managementType=1",
   "document_id_consultoria": "3393590",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-122-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-122-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-122-2019.json",
   "sha256_pdf_original": "f24393343e2bbe9bf0356a2f9b77f6ef0cbb25bbaab73769bd7bc7aeed19f279",
-  "sha256_markdown": "37f6397039ee24be44c9ac9971969e3bdd7d1f5d1685aef469f0e2da73ff6fe9",
+  "sha256_markdown": "e1549324acb408b2c8729e8550e589ba77f5de9aa9adf5748a657413c9377f85",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "122-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/04/2019",
+  "numero_formal_pdf": "122-19"
 }

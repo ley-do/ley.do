@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393365&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393365&managementType=1",
   "document_id_consultoria": "3393365",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-021-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-021-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-021-2019.json",
   "sha256_pdf_original": "e3e626e661849f9bf618b0caeae88418d3fa9f2a18a0eda14fa47eca78461ed1",
-  "sha256_markdown": "be762e73dd5bb4c261653d1f6b4cafd47e2455448b66beb9477185d5a84e685d",
+  "sha256_markdown": "253ea3193e3203f62a7905104d88088134916187eacd8066923c468a43630acb",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "21-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/01/2019",
+  "numero_formal_pdf": "21-19"
 }

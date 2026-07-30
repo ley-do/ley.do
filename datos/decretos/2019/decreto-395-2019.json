@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395275&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395275&managementType=1",
   "document_id_consultoria": "3395275",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-395-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-395-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-395-2019.json",
   "sha256_pdf_original": "86256d657b764b27b84b684930fbebee49dec5013bb089fef4b0c5b5e28d83a4",
-  "sha256_markdown": "74eaa082874e661638d89ec4aebed9257436736a1305c81c74655acb1a4c5cd5",
+  "sha256_markdown": "59109010e76e09d5797877bb098806aa410c8d55bb3fe57be2c91cf0fab14b61",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "395-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/11/2019",
+  "numero_formal_pdf": "395-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393758&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393758&managementType=1",
   "document_id_consultoria": "3393758",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-204-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-204-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-204-2019.json",
   "sha256_pdf_original": "5227e8d4748af9bff602d4540667c27d49294e8a863e65757d58f28a6116c5cf",
-  "sha256_markdown": "52fabc8e3949bb3a0d667a1266609778840242611de1a58fc2b057d38da0e4c2",
+  "sha256_markdown": "6a29b501e38bdb21cc692ddc9bb776fd8ed6c7cc07fa6b964926831dd615c13d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "204-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/06/2019",
+  "numero_formal_pdf": "204-19"
 }

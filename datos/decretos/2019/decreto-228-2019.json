@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393818&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393818&managementType=1",
   "document_id_consultoria": "3393818",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-228-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-228-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-228-2019.json",
   "sha256_pdf_original": "8e3154f0a6b31a4eb5b554985c0feecefeff492eedea73647602763b7d40f9f5",
-  "sha256_markdown": "5be558e0f5864a38d86c039c13c0a33965337365cadaf52b41b863278b263a16",
+  "sha256_markdown": "ae781b682b67c3126b3bd93d57551890d87ae19107867f2b2b8822fbcf8a7d09",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "228-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "24/06/2019",
+  "numero_formal_pdf": "228-19"
 }

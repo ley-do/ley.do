@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395294&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395294&managementType=1",
   "document_id_consultoria": "3395294",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-414-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-414-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-414-2019.json",
   "sha256_pdf_original": "028afc52ab8ebf283c4b07e48f6af4a96d3c343a06e019baa3055d3d82cbcc06",
-  "sha256_markdown": "849e1d212c417f991cf363a67d60ade7cbccf6e6817aaa4cb0a0de951bb5b860",
+  "sha256_markdown": "b1b28ad322f91da686a6428527a8de040a9694ef3fd0f6714e4bf3f2566f3c64",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "414-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/11/2019",
+  "numero_formal_pdf": "414-19"
 }

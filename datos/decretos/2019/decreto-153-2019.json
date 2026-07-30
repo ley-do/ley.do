@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393633&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393633&managementType=1",
   "document_id_consultoria": "3393633",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-153-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-153-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-153-2019.json",
   "sha256_pdf_original": "e599a976b1d7fe0c80889c9ddd3488c3896d0bf9c7034a54e8e3c76185b5c2cd",
-  "sha256_markdown": "e10f1e0d68d2851868a1fe6dcb61258692c132f9cbf149a0001542539074af99",
+  "sha256_markdown": "daea708e91f0bfc073f03b07e294a88a65b8adc22f659b65ce3c155e3778a311",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "153-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/04/2019",
+  "numero_formal_pdf": "153-19"
 }

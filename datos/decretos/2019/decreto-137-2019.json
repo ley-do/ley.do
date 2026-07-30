@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393605&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393605&managementType=1",
   "document_id_consultoria": "3393605",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-137-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-137-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-137-2019.json",
   "sha256_pdf_original": "4ea2a5c3631e836148026568357d9bf37efbebdeb528e2b6109a588e5ba3cf07",
-  "sha256_markdown": "1eb5fe4e7f2e8dc1d5aecd10360242d99222b61d077ebca22196593a30c20628",
+  "sha256_markdown": "44bd670edc2050a3964144b74b725adea9b55fe06b56e89d546993831bb21f33",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "137-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/04/2019",
+  "numero_formal_pdf": "137-19"
 }

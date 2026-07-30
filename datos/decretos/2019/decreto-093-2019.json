@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393480&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393480&managementType=1",
   "document_id_consultoria": "3393480",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-093-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-093-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-093-2019.json",
   "sha256_pdf_original": "c5e82ce6d78acfb951a70b860d596c78312429373cbbda62fc86069b14532a81",
-  "sha256_markdown": "8d31eeb0dca14c189cdedccd64f5f131e4495d29de71bc2c248dd94e94a1e906",
+  "sha256_markdown": "bb114fe1abab631f72071d55c48da6dd3e7b4a6f63a9fe07d24622ed020a8366",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "93-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/03/2019",
+  "numero_formal_pdf": "93-19"
 }

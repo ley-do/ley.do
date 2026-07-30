@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393477&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393477&managementType=1",
   "document_id_consultoria": "3393477",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-090-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-090-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-090-2019.json",
   "sha256_pdf_original": "8c3daf8bbe621622a6ae841d5136b0b1c84cc1f6ca8b527d2d29dd14a6e8deb0",
-  "sha256_markdown": "02ed1f2329c412aed89e232245a1b47c3f821144d462d47e4abd0d0e65d04fa5",
+  "sha256_markdown": "8e21dabc62fb6e25fd977b6b82b90483f6c6f743f145964062e90ac9f903e4ec",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "90-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/03/2019",
+  "numero_formal_pdf": "90-19"
 }

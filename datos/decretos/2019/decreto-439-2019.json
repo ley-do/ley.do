@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395372&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395372&managementType=1",
   "document_id_consultoria": "3395372",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-439-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-439-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-439-2019.json",
   "sha256_pdf_original": "6cb3f17547e02bc7cec37fe2ef4453c093e37d510ee19da543537ac2684d3180",
-  "sha256_markdown": "9a3e33a367a9b2c3df75ad627cf207952c71c4620f59a9dc93396cb892c537d7",
+  "sha256_markdown": "32a7f797d47ba8e7e3fdc168d006fa2442f6095b486a7294480f4458e19c626c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "439-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/12/2019",
+  "numero_formal_pdf": "439-19"
 }

@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395268&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395268&managementType=1",
   "document_id_consultoria": "3395268",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-388-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-388-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-388-2019.json",
   "sha256_pdf_original": "bf76359190f1cd49365e5eb50948160ac9ae2523a877ef98e1e833720c018ec8",
-  "sha256_markdown": "edfd651c25de13f5976f20aa34a4f9dd4752a4758becbcdb62653ef3a75a16d0",
+  "sha256_markdown": "535e26bbbbd67000107f6af6e5c9f983fee340896b2c5b59ba12699cfaa6f0d4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -29,5 +29,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "388-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/11/2019",
+  "numero_formal_pdf": "388-19"
 }

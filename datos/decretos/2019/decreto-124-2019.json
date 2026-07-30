@@ -12,12 +12,12 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393592&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393592&managementType=1",
   "document_id_consultoria": "3393592",
-  "fecha_consulta": "2026-07-29",
+  "fecha_consulta": "2026-07-11",
   "ruta_pdf_local": "archivos/decretos/2019/decreto-124-2019.pdf",
   "ruta_markdown": "docs/decretos/2019/decreto-124-2019.md",
   "ruta_json": "datos/decretos/2019/decreto-124-2019.json",
   "sha256_pdf_original": "bfbe0b53d3fa0d845defdc64b96ee9c125196f9fff2c7c699e7268037f50ae8b",
-  "sha256_markdown": "7aa24ff57759fa0d3ce7e1da8eacaef044751555633ca47c66d09dfbaa651e48",
+  "sha256_markdown": "647fdff3181174d36262f7cf74dfbdddd89b67b6b0d20ae4020a8c8f7ce1db64",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
@@ -28,5 +28,8 @@
   "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
   "numero_registro_fuente": "124-19",
   "anio_metadata_fuente": "2019",
-  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json"
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/04/2019",
+  "numero_formal_pdf": "124-19"
 }
