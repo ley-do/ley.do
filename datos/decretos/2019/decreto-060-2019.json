@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "060",
+  "anio": "2019",
+  "titulo": "que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho. G. O. No. 10932 del 11 de febrero de 2019. DANILO MEDINA",
+  "fecha": "07/02/2019",
+  "gaceta_oficial": "10932",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393415&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393415&managementType=1",
+  "document_id_consultoria": "3393415",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-060-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-060-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-060-2019.json",
+  "sha256_pdf_original": "b2d33b4a621d470e51404fae1644b3e07ad6046599d3da5fdf3450624707ef05",
+  "sha256_markdown": "1253a741544a9195c51ac16d5859865f64fa156cf03a4c6ea2551373584df5e4",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    61
+  ],
+  "commit_publicacion": "",
+  "notas": "La cláusula DADO del PDF dice «a los siete (7) días del mes de del año dos mil diecinueve (2019)» y no identifica el mes. La metadata oficial consultada indica 07/02/2019. Se conservan ambos datos sin inferir el mes. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "60-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "observacion_fecha_pdf": "La cláusula DADO visible omite el nombre del mes: «a los siete (7) días del mes de del año dos mil diecinueve (2019)».",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "60-19",
+  "alertas_revision": [
+    "La cláusula DADO del PDF dice «a los siete (7) días del mes de del año dos mil diecinueve (2019)» y no identifica el mes. La metadata oficial consultada indica 07/02/2019. Se conservan ambos datos sin inferir el mes."
+  ]
+}

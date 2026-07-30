@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "434",
+  "anio": "2019",
+  "titulo": "que nombra a los señores Jhorlenny Rodríguez Rosario y Evérgito Peña Acosta, directora ejecutiva de la Comisión Nacional de Defensa de la Competencia y vicepresidente ejecutivo del Consejo Nacional para el Cambio Climático y Mecanismo de Desarrollo Limpio, respectivamente, así como miembros de los Consejos de Administración del Banco del Reseras y de la Empresa de Transmisión Eléctrica Dominicana (ETED). G. O. No. 10963 del 16 de diciembre de 2019. DANILO MEDINA",
+  "fecha": "29/11/2019",
+  "gaceta_oficial": "10963",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395367&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395367&managementType=1",
+  "document_id_consultoria": "3395367",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-434-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-434-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-434-2019.json",
+  "sha256_pdf_original": "8d1860c90b9a338aaa65e7a789bf94f1be156122a6599f23c965f73452f755ee",
+  "sha256_markdown": "19d8bd6967933c852e3b8740bda95e77fb216b2c28927cb8c379e231acd21fd9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    435
+  ],
+  "commit_publicacion": "",
+  "notas": "El encabezado sumario del PDF indica `434-19`, mientras la línea formal indica `334-19` y la metadata oficial corresponde a `434-19`. Se conserva la discrepancia para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "434-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "29/11/2019",
+  "numero_formal_pdf": "334-19",
+  "numero_encabezado_pdf": "434-19",
+  "alertas_revision": [
+    "El encabezado sumario del PDF indica `434-19`, mientras la línea formal indica `334-19` y la metadata oficial corresponde a `434-19`. Se conserva la discrepancia para revisión humana."
+  ]
+}

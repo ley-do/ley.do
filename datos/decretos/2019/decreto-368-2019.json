@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "368",
+  "anio": "2019",
+  "titulo": "que excluye de la expropiación efectuada mediante el Dec. No. 348-17, art. 1, numeral 4, varias parcelas en Pedro Brand, provincia Santo Domingo, debido a los trabajos de deslinde y subdivisión. G. O. No. 10958 del 30 de octubre de 2019. DANILO MEDINA",
+  "fecha": "24/10/2019",
+  "gaceta_oficial": "10958",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394270&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394270&managementType=1",
+  "document_id_consultoria": "3394270",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-368-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-368-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-368-2019.json",
+  "sha256_pdf_original": "ca6809c5474acedd311aa26b4cb1323cdc124d39deb1268a14cb34e028368381",
+  "sha256_markdown": "d1d861ea8cb3aecca34b656917011ea1167bcc80e9501bc88ed53471a59915c9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    369
+  ],
+  "commit_publicacion": "",
+  "notas": "La cláusula DADO del PDF dice «a los veinticuatro (24) días del mes de veinticuatro del año dos mil diecinueve (2019)»; «veinticuatro» no identifica un mes. La metadata oficial consultada indica 24/10/2019. Se conservan ambos datos sin sustituir el texto del PDF. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "368-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "observacion_fecha_pdf": "La cláusula DADO visible contiene «mes de veinticuatro», que no identifica un mes.",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "368-19",
+  "alertas_revision": [
+    "La cláusula DADO del PDF dice «a los veinticuatro (24) días del mes de veinticuatro del año dos mil diecinueve (2019)»; «veinticuatro» no identifica un mes. La metadata oficial consultada indica 24/10/2019. Se conservan ambos datos sin sustituir el texto del PDF."
+  ]
+}

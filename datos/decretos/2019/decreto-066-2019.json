@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "066",
+  "anio": "2019",
+  "titulo": "que dispone la entrega en extradición a la República de Chile del ciudadano colombiano Juan Carlos Briceño Luque. G. O. No. 10934 del 28 de febrero de 2019. DANILO MEDINA",
+  "fecha": "20/02/2016",
+  "gaceta_oficial": "10934",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395759&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395759&managementType=1",
+  "document_id_consultoria": "3395759",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-066-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-066-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-066-2019.json",
+  "sha256_pdf_original": "86e4d452d9854aad0b77371e2db8793e88f7cf781a1a303219c4547915fc0279",
+  "sha256_markdown": "7795371cc67052c8664b59009b91f7080278f5459a67eb63f749465b74603aed",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    67
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 20/02/2016, mientras el apartado DADO del PDF indica 20/02/2019. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "66-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "20/02/2019",
+  "fecha_metadata_fuente": "20/02/2016",
+  "numero_formal_pdf": "66-19",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 20/02/2016, mientras el apartado DADO del PDF indica 20/02/2019. Se conservan ambos valores para revisión humana."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "282",
+  "anio": "2019",
+  "titulo": "que eleva el monto de la pensión concedida por el Estado dominicano que disfruta el señor Luis Almanzor González Canahuate. G. O. No. 10951 del 22 de agosto de 2019. DANILO MEDINA",
+  "fecha": "09/08/2019",
+  "gaceta_oficial": "10951",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395751&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395751&managementType=1",
+  "document_id_consultoria": "3395751",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2019/decreto-282-2019.pdf",
+  "ruta_markdown": "docs/decretos/2019/decreto-282-2019.md",
+  "ruta_json": "datos/decretos/2019/decreto-282-2019.json",
+  "sha256_pdf_original": "b5bbc6c411f9c6f9fd56d88379083612a20da746fbd7b13821e25c2f0a6b9992",
+  "sha256_markdown": "ffb3a23698e28904e1ef60938cc3f5f942d22be97da6068d39266a07dc8550f9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    283
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 09/08/2019, mientras el apartado DADO del PDF indica 12/08/2019. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "282-19",
+  "anio_metadata_fuente": "2019",
+  "inventario_origen": "consultoria_inventario_2019_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/08/2019",
+  "fecha_metadata_fuente": "09/08/2019",
+  "numero_formal_pdf": "282-19",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 09/08/2019, mientras el apartado DADO del PDF indica 12/08/2019. Se conservan ambos valores para revisión humana."
+  ]
+}
