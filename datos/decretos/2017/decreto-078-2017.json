@@ -1,0 +1,59 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "078",
+  "anio": "2017",
+  "titulo": "que concede el beneficio de la naturalización dominicana ordinaria a varios extranjeros. Modifica los decretos Nos. 93-16, 253-16, 254-16 y 318-16. G. O. No. 10877 del 3 de abril de 2017",
+  "fecha": "24/03/2017",
+  "gaceta_oficial": "10877",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381055&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381055&managementType=1",
+  "document_id_consultoria": "3381055",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2017/decreto-078-2017.pdf",
+  "ruta_markdown": "docs/decretos/2017/decreto-078-2017.md",
+  "ruta_json": "datos/decretos/2017/decreto-078-2017.json",
+  "sha256_pdf_original": "8da25fd2bb0f8ffd5d83ef5b605be4d6c21f34acbbea89e0aee014a6d8ac50be",
+  "sha256_markdown": "535b56557a1bd98871d6ec16cf8dd79f8d6568572b2b20d15e86e3078b3070fb",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    79
+  ],
+  "commit_publicacion": "",
+  "notas": "La consulta oficial contiene dos registros 78-17 con PDFs oficiales binariamente distintos e idéntico texto extraíble; se preservan ambas rendiciones con ID, ruta y SHA256 propios. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "78-17",
+  "anio_metadata_fuente": "2017",
+  "inventario_origen": "consultoria_inventario_2017_leyes_decretos.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3381055",
+      "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+      "ruta_pdf_local": "archivos/decretos/2017/decreto-078-2017.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3381055&managementType=2",
+      "sha256_pdf": "8da25fd2bb0f8ffd5d83ef5b605be4d6c21f34acbbea89e0aee014a6d8ac50be",
+      "capa_texto": true,
+      "paginas": 3
+    },
+    {
+      "document_id_consultoria": "3399611",
+      "rol_archivistico": "pdf_oficial_complementario",
+      "ruta_pdf_local": "archivos/decretos/2017/decreto-078-2017-fuente-3399611.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399611&managementType=2",
+      "sha256_pdf": "39b6ac6f069ac91be1c44131f52d29ac30bd5821d376b45be1efb3ba3f77c657",
+      "capa_texto": true,
+      "paginas": 3
+    }
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "24/03/2017",
+  "numero_formal_pdf": "78-17",
+  "alertas_revision": [
+    "La consulta oficial contiene dos registros 78-17 con PDFs oficiales binariamente distintos e idéntico texto extraíble; se preservan ambas rendiciones con ID, ruta y SHA256 propios."
+  ]
+}

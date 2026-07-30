@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "020",
+  "anio": "2017",
+  "titulo": "Decreto núm. 020-2017",
+  "fecha": "13/02/2017",
+  "gaceta_oficial": "10878",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3380983&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3380983&managementType=1",
+  "document_id_consultoria": "3380983",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/decretos/2017/decreto-020-2017.pdf",
+  "ruta_markdown": "docs/decretos/2017/decreto-020-2017.md",
+  "ruta_json": "datos/decretos/2017/decreto-020-2017.json",
+  "sha256_pdf_original": "7f0ce32e202ffce7d164a0e6d6159baf62e71f27c754bf7240486fec5eefeb83",
+  "sha256_markdown": "ef7665dfe3acf38b616db3ef64aa45dd99be5687a6ad1f65317eacfb8abae2e9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
+  "commit_publicacion": "",
+  "notas": "La metadata oficial consultada indica 13/02/2017, mientras el apartado DADO del PDF indica 14/02/2017. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "20-17",
+  "anio_metadata_fuente": "2017",
+  "inventario_origen": "consultoria_inventario_2017_leyes_decretos.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "14/02/2017",
+  "fecha_metadata_fuente": "13/02/2017",
+  "numero_formal_pdf": "20-17",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 13/02/2017, mientras el apartado DADO del PDF indica 14/02/2017. Se conservan ambos valores para revisión humana."
+  ]
+}
