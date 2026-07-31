@@ -1,21 +1,32 @@
 # Decretos 2020
 
+<div class="leydo-year-hero" markdown>
+<p class="leydo-year-kicker">Archivo documental · 2020</p>
+
+Esta página reúne los decretos de **2020** preservados en LEY.DO desde fuentes oficiales dominicanas. Es una portada de navegación: no interpreta la ley ni certifica vigencia.
+
+En este año hay **733** documentos con página en LEY.DO y **731** paquetes con PDF oficial disponible.
+</div>
+
 !!! warning "Aviso"
-    LEY.DO no es una fuente oficial. Los documentos de esta página fueron normalizados automáticamente y permanecen pendientes de revisión humana. Verifique siempre contra la fuente oficial indicada.
+    LEY.DO no es una fuente oficial. Verifique cada documento contra la fuente oficial indicada.
+    LEY.DO no ofrece asesoría legal.
 
-Fuente principal: [Consulta oficial de la Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consulta/).
+<div class="leydo-year-stats" markdown>
+<div class="leydo-year-stat"><span class="leydo-stat">733</span><span class="leydo-muted">Documentos en LEY.DO</span></div>
+<div class="leydo-year-stat"><span class="leydo-stat">731</span><span class="leydo-muted">Con PDF oficial</span></div>
+<div class="leydo-year-stat"><span class="leydo-stat">2</span><span class="leydo-muted">Pendientes de PDF</span></div>
+<div class="leydo-year-stat"><span class="leydo-stat">2020</span><span class="leydo-muted">Año documental</span></div>
+</div>
 
-## Cobertura reconciliada
+## Lectura rápida
 
-- Registros fuente inventariados: **756**.
-- Registros correspondientes a 2020: **734**.
-- Identidades documentales reconciliadas: **733**.
-- Paquetes completos PDF + Markdown + JSON: **731**.
-- Identidades pendientes de localizar PDF oficial completo: **2** (decretos 210 y 303).
-- Rendiciones oficiales complementarias archivadas: **1** (Decreto 228-20).
-- Registros de 2019 conservados para trazabilidad y separados de la cobertura anual: **22**.
+- Año documental: **2020**.
+- Documentos publicados en esta sección: **733**.
+- Paquetes con PDF oficial: **731**.
+- Estado editorial general: **pendiente de revisión humana**.
 
-La cobertura expresa reconciliación frente al inventario oficial recopilado; no constituye una afirmación de exhaustividad jurídica absoluta.
+Fuente principal de consulta: [Consultoría Jurídica del Poder Ejecutivo](https://www.consultoria.gov.do/consulta/).
 
 ## Salvedades documentales
 
@@ -26,1506 +37,5873 @@ La cobertura expresa reconciliación frente al inventario oficial recopilado; no
 - **Decreto 539-20:** el encabezado oficial aparece como `Dec. 539-20`, sin `No.` ni `núm.`; se conservó esa variante tipográfica.
 - **Decreto 630-20:** el encabezado oficial aparece como `Dec. No. 630 -20`, con espacio antes del guion; la línea formal indica `NÚMERO: 630-20`.
 
-## Documentos normalizados
+## Documentos del año
 
-- [Decreto núm. 001-2020](decreto-001-2020.md)
-- [Decreto núm. 002-2020](decreto-002-2020.md)
-- [Decreto núm. 003-2020](decreto-003-2020.md)
-- [Decreto núm. 004-2020](decreto-004-2020.md)
-- [Decreto núm. 005-2020](decreto-005-2020.md)
-- [Decreto núm. 006-2020](decreto-006-2020.md)
-- [Decreto núm. 007-2020](decreto-007-2020.md)
-- [Decreto núm. 008-2020](decreto-008-2020.md)
-- [Decreto núm. 009-2020](decreto-009-2020.md)
-- [Decreto núm. 010-2020](decreto-010-2020.md)
-- [Decreto núm. 011-2020](decreto-011-2020.md)
-- [Decreto núm. 012-2020](decreto-012-2020.md)
-- [Decreto núm. 013-2020](decreto-013-2020.md)
-- [Decreto núm. 014-2020](decreto-014-2020.md)
-- [Decreto núm. 015-2020](decreto-015-2020.md)
-- [Decreto núm. 016-2020](decreto-016-2020.md)
-- [Decreto núm. 017-2020](decreto-017-2020.md)
-- [Decreto núm. 018-2020](decreto-018-2020.md)
-- [Decreto núm. 019-2020](decreto-019-2020.md)
-- [Decreto núm. 020-2020](decreto-020-2020.md)
-- [Decreto núm. 021-2020](decreto-021-2020.md)
-- [Decreto núm. 022-2020](decreto-022-2020.md)
-- [Decreto núm. 023-2020](decreto-023-2020.md)
-- [Decreto núm. 024-2020](decreto-024-2020.md)
-- [Decreto núm. 025-2020](decreto-025-2020.md)
-- [Decreto núm. 026-2020](decreto-026-2020.md)
-- [Decreto núm. 027-2020](decreto-027-2020.md)
-- [Decreto núm. 028-2020](decreto-028-2020.md)
-- [Decreto núm. 029-2020](decreto-029-2020.md)
-- [Decreto núm. 030-2020](decreto-030-2020.md)
-- [Decreto núm. 031-2020](decreto-031-2020.md)
-- [Decreto núm. 032-2020](decreto-032-2020.md)
-- [Decreto núm. 033-2020](decreto-033-2020.md)
-- [Decreto núm. 034-2020](decreto-034-2020.md)
-- [Decreto núm. 035-2020](decreto-035-2020.md)
-- [Decreto núm. 036-2020](decreto-036-2020.md)
-- [Decreto núm. 037-2020](decreto-037-2020.md)
-- [Decreto núm. 038-2020](decreto-038-2020.md)
-- [Decreto núm. 039-2020](decreto-039-2020.md)
-- [Decreto núm. 040-2020](decreto-040-2020.md)
-- [Decreto núm. 041-2020](decreto-041-2020.md)
-- [Decreto núm. 042-2020](decreto-042-2020.md)
-- [Decreto núm. 043-2020](decreto-043-2020.md)
-- [Decreto núm. 044-2020](decreto-044-2020.md)
-- [Decreto núm. 045-2020](decreto-045-2020.md)
-- [Decreto núm. 046-2020](decreto-046-2020.md)
-- [Decreto núm. 047-2020](decreto-047-2020.md)
-- [Decreto núm. 048-2020](decreto-048-2020.md)
-- [Decreto núm. 049-2020](decreto-049-2020.md)
-- [Decreto núm. 050-2020](decreto-050-2020.md)
-- [Decreto núm. 051-2020](decreto-051-2020.md)
-- [Decreto núm. 052-2020](decreto-052-2020.md)
-- [Decreto núm. 053-2020](decreto-053-2020.md)
-- [Decreto núm. 054-2020](decreto-054-2020.md)
-- [Decreto núm. 055-2020](decreto-055-2020.md)
-- [Decreto núm. 056-2020](decreto-056-2020.md)
-- [Decreto núm. 057-2020](decreto-057-2020.md)
-- [Decreto núm. 058-2020](decreto-058-2020.md)
-- [Decreto núm. 059-2020](decreto-059-2020.md)
-- [Decreto núm. 060-2020](decreto-060-2020.md)
-- [Decreto núm. 061-2020](decreto-061-2020.md)
-- [Decreto núm. 062-2020](decreto-062-2020.md)
-- [Decreto núm. 063-2020](decreto-063-2020.md)
-- [Decreto núm. 064-2020](decreto-064-2020.md)
-- [Decreto núm. 065-2020](decreto-065-2020.md)
-- [Decreto núm. 066-2020](decreto-066-2020.md)
-- [Decreto núm. 067-2020](decreto-067-2020.md)
-- [Decreto núm. 068-2020](decreto-068-2020.md)
-- [Decreto núm. 069-2020](decreto-069-2020.md)
-- [Decreto núm. 070-2020](decreto-070-2020.md)
-- [Decreto núm. 071-2020](decreto-071-2020.md)
-- [Decreto núm. 072-2020](decreto-072-2020.md)
-- [Decreto núm. 073-2020](decreto-073-2020.md)
-- [Decreto núm. 074-2020](decreto-074-2020.md)
-- [Decreto núm. 075-2020](decreto-075-2020.md)
-- [Decreto núm. 076-2020](decreto-076-2020.md)
-- [Decreto núm. 077-2020](decreto-077-2020.md)
-- [Decreto núm. 078-2020](decreto-078-2020.md)
-- [Decreto núm. 079-2020](decreto-079-2020.md)
-- [Decreto núm. 080-2020](decreto-080-2020.md)
-- [Decreto núm. 081-2020](decreto-081-2020.md)
-- [Decreto núm. 082-2020](decreto-082-2020.md)
-- [Decreto núm. 083-2020](decreto-083-2020.md)
-- [Decreto núm. 084-2020](decreto-084-2020.md)
-- [Decreto núm. 085-2020](decreto-085-2020.md)
-- [Decreto núm. 086-2020](decreto-086-2020.md)
-- [Decreto núm. 087-2020](decreto-087-2020.md)
-- [Decreto núm. 088-2020](decreto-088-2020.md)
-- [Decreto núm. 089-2020](decreto-089-2020.md)
-- [Decreto núm. 090-2020](decreto-090-2020.md)
-- [Decreto núm. 091-2020](decreto-091-2020.md)
-- [Decreto núm. 092-2020](decreto-092-2020.md)
-- [Decreto núm. 093-2020](decreto-093-2020.md)
-- [Decreto núm. 094-2020](decreto-094-2020.md)
-- [Decreto núm. 095-2020](decreto-095-2020.md)
-- [Decreto núm. 096-2020](decreto-096-2020.md)
-- [Decreto núm. 097-2020](decreto-097-2020.md)
-- [Decreto núm. 098-2020](decreto-098-2020.md)
-- [Decreto núm. 099-2020](decreto-099-2020.md)
-- [Decreto núm. 100-2020](decreto-100-2020.md)
-- [Decreto núm. 101-2020](decreto-101-2020.md)
-- [Decreto núm. 102-2020](decreto-102-2020.md)
-- [Decreto núm. 103-2020](decreto-103-2020.md)
-- [Decreto núm. 104-2020](decreto-104-2020.md)
-- [Decreto núm. 105-2020](decreto-105-2020.md)
-- [Decreto núm. 106-2020](decreto-106-2020.md)
-- [Decreto núm. 107-2020](decreto-107-2020.md)
-- [Decreto núm. 108-2020](decreto-108-2020.md)
-- [Decreto núm. 109-2020](decreto-109-2020.md)
-- [Decreto núm. 110-2020](decreto-110-2020.md)
-- [Decreto núm. 111-2020](decreto-111-2020.md)
-- [Decreto núm. 112-2020](decreto-112-2020.md)
-- [Decreto núm. 113-2020](decreto-113-2020.md)
-- [Decreto núm. 114-2020](decreto-114-2020.md)
-- [Decreto núm. 115-2020](decreto-115-2020.md)
-- [Decreto núm. 116-2020](decreto-116-2020.md)
-- [Decreto núm. 117-2020](decreto-117-2020.md)
-- [Decreto núm. 118-2020](decreto-118-2020.md)
-- [Decreto núm. 119-2020](decreto-119-2020.md)
-- [Decreto núm. 120-2020](decreto-120-2020.md)
-- [Decreto núm. 121-2020](decreto-121-2020.md)
-- [Decreto núm. 122-2020](decreto-122-2020.md)
-- [Decreto núm. 123-2020](decreto-123-2020.md)
-- [Decreto núm. 124-2020](decreto-124-2020.md)
-- [Decreto núm. 125-2020](decreto-125-2020.md)
-- [Decreto núm. 126-2020](decreto-126-2020.md)
-- [Decreto núm. 127-2020](decreto-127-2020.md)
-- [Decreto núm. 128-2020](decreto-128-2020.md)
-- [Decreto núm. 129-2020](decreto-129-2020.md)
-- [Decreto núm. 130-2020](decreto-130-2020.md)
-- [Decreto núm. 131-2020](decreto-131-2020.md)
-- [Decreto núm. 132-2020](decreto-132-2020.md)
-- [Decreto núm. 133-2020](decreto-133-2020.md)
-- [Decreto núm. 134-2020](decreto-134-2020.md)
-- [Decreto núm. 135-2020](decreto-135-2020.md)
-- [Decreto núm. 136-2020](decreto-136-2020.md)
-- [Decreto núm. 137-2020](decreto-137-2020.md)
-- [Decreto núm. 138-2020](decreto-138-2020.md)
-- [Decreto núm. 139-2020](decreto-139-2020.md)
-- [Decreto núm. 140-2020](decreto-140-2020.md)
-- [Decreto núm. 141-2020](decreto-141-2020.md)
-- [Decreto núm. 142-2020](decreto-142-2020.md)
-- [Decreto núm. 143-2020](decreto-143-2020.md)
-- [Decreto núm. 144-2020](decreto-144-2020.md)
-- [Decreto núm. 145-2020](decreto-145-2020.md)
-- [Decreto núm. 146-2020](decreto-146-2020.md)
-- [Decreto núm. 147-2020](decreto-147-2020.md)
-- [Decreto núm. 148-2020](decreto-148-2020.md)
-- [Decreto núm. 149-2020](decreto-149-2020.md)
-- [Decreto núm. 150-2020](decreto-150-2020.md)
-- [Decreto núm. 151-2020](decreto-151-2020.md)
-- [Decreto núm. 152-2020](decreto-152-2020.md)
-- [Decreto núm. 153-2020](decreto-153-2020.md)
-- [Decreto núm. 154-2020](decreto-154-2020.md)
-- [Decreto núm. 155-2020](decreto-155-2020.md)
-- [Decreto núm. 156-2020](decreto-156-2020.md)
-- [Decreto núm. 157-2020](decreto-157-2020.md)
-- [Decreto núm. 158-2020](decreto-158-2020.md)
-- [Decreto núm. 159-2020](decreto-159-2020.md)
-- [Decreto núm. 160-2020](decreto-160-2020.md)
-- [Decreto núm. 161-2020](decreto-161-2020.md)
-- [Decreto núm. 162-2020](decreto-162-2020.md)
-- [Decreto núm. 163-2020](decreto-163-2020.md)
-- [Decreto núm. 164-2020](decreto-164-2020.md)
-- [Decreto núm. 165-2020](decreto-165-2020.md)
-- [Decreto núm. 166-2020](decreto-166-2020.md)
-- [Decreto núm. 167-2020](decreto-167-2020.md)
-- [Decreto núm. 168-2020](decreto-168-2020.md)
-- [Decreto núm. 169-2020](decreto-169-2020.md)
-- [Decreto núm. 170-2020](decreto-170-2020.md)
-- [Decreto núm. 171-2020](decreto-171-2020.md)
-- [Decreto núm. 172-2020](decreto-172-2020.md)
-- [Decreto núm. 173-2020](decreto-173-2020.md)
-- [Decreto núm. 174-2020](decreto-174-2020.md)
-- [Decreto núm. 175-2020](decreto-175-2020.md)
-- [Decreto núm. 176-2020](decreto-176-2020.md)
-- [Decreto núm. 177-2020](decreto-177-2020.md)
-- [Decreto núm. 178-2020](decreto-178-2020.md)
-- [Decreto núm. 179-2020](decreto-179-2020.md)
-- [Decreto núm. 180-2020](decreto-180-2020.md)
-- [Decreto núm. 181-2020](decreto-181-2020.md)
-- [Decreto núm. 182-2020](decreto-182-2020.md)
-- [Decreto núm. 183-2020](decreto-183-2020.md)
-- [Decreto núm. 184-2020](decreto-184-2020.md)
-- [Decreto núm. 185-2020](decreto-185-2020.md)
-- [Decreto núm. 186-2020](decreto-186-2020.md)
-- [Decreto núm. 187-2020](decreto-187-2020.md)
-- [Decreto núm. 188-2020](decreto-188-2020.md)
-- [Decreto núm. 189-2020](decreto-189-2020.md)
-- [Decreto núm. 190-2020](decreto-190-2020.md)
-- [Decreto núm. 191-2020](decreto-191-2020.md)
-- [Decreto núm. 192-2020](decreto-192-2020.md)
-- [Decreto núm. 193-2020](decreto-193-2020.md)
-- [Decreto núm. 194-2020](decreto-194-2020.md)
-- [Decreto núm. 195-2020](decreto-195-2020.md)
-- [Decreto núm. 196-2020](decreto-196-2020.md)
-- [Decreto núm. 197-2020](decreto-197-2020.md)
-- [Decreto núm. 198-2020](decreto-198-2020.md)
-- [Decreto núm. 199-2020](decreto-199-2020.md)
-- [Decreto núm. 200-2020](decreto-200-2020.md)
-- [Decreto núm. 201-2020](decreto-201-2020.md)
-- [Decreto núm. 202-2020](decreto-202-2020.md)
-- [Decreto núm. 203-2020](decreto-203-2020.md)
-- [Decreto núm. 204-2020](decreto-204-2020.md)
-- [Decreto núm. 205-2020](decreto-205-2020.md)
-- [Decreto núm. 206-2020](decreto-206-2020.md)
-- [Decreto núm. 207-2020](decreto-207-2020.md)
-- [Decreto núm. 208-2020](decreto-208-2020.md)
-- [Decreto núm. 209-2020](decreto-209-2020.md)
-- [Decreto núm. 210-2020](decreto-210-2020.md)
-- [Decreto núm. 211-2020](decreto-211-2020.md)
-- [Decreto núm. 212-2020](decreto-212-2020.md)
-- [Decreto núm. 213-2020](decreto-213-2020.md)
-- [Decreto núm. 214-2020](decreto-214-2020.md)
-- [Decreto núm. 215-2020](decreto-215-2020.md)
-- [Decreto núm. 216-2020](decreto-216-2020.md)
-- [Decreto núm. 217-2020](decreto-217-2020.md)
-- [Decreto núm. 218-2020](decreto-218-2020.md)
-- [Decreto núm. 219-2020](decreto-219-2020.md)
-- [Decreto núm. 220-2020](decreto-220-2020.md)
-- [Decreto núm. 221-2020](decreto-221-2020.md)
-- [Decreto núm. 222-2020](decreto-222-2020.md)
-- [Decreto núm. 223-2020](decreto-223-2020.md)
-- [Decreto núm. 224-2020](decreto-224-2020.md)
-- [Decreto núm. 225-2020](decreto-225-2020.md)
-- [Decreto núm. 226-2020](decreto-226-2020.md)
-- [Decreto núm. 227-2020](decreto-227-2020.md)
-- [Decreto núm. 228-2020](decreto-228-2020.md)
-- [Decreto núm. 229-2020](decreto-229-2020.md)
-- [Decreto núm. 230-2020](decreto-230-2020.md)
-- [Decreto núm. 231-2020](decreto-231-2020.md)
-- [Decreto núm. 232-2020](decreto-232-2020.md)
-- [Decreto núm. 233-2020](decreto-233-2020.md)
-- [Decreto núm. 234-2020](decreto-234-2020.md)
-- [Decreto núm. 235-2020](decreto-235-2020.md)
-- [Decreto núm. 236-2020](decreto-236-2020.md)
-- [Decreto núm. 237-2020](decreto-237-2020.md)
-- [Decreto núm. 238-2020](decreto-238-2020.md)
-- [Decreto núm. 239-2020](decreto-239-2020.md)
-- [Decreto núm. 240-2020](decreto-240-2020.md)
-- [Decreto núm. 241-2020](decreto-241-2020.md)
-- [Decreto núm. 242-2020](decreto-242-2020.md)
-- [Decreto núm. 243-2020](decreto-243-2020.md)
-- [Decreto núm. 244-2020](decreto-244-2020.md)
-- [Decreto núm. 245-2020](decreto-245-2020.md)
-- [Decreto núm. 246-2020](decreto-246-2020.md)
-- [Decreto núm. 247-2020](decreto-247-2020.md)
-- [Decreto núm. 248-2020](decreto-248-2020.md)
-- [Decreto núm. 249-2020](decreto-249-2020.md)
-- [Decreto núm. 250-2020](decreto-250-2020.md)
-- [Decreto núm. 251-2020](decreto-251-2020.md)
-- [Decreto núm. 252-2020](decreto-252-2020.md)
-- [Decreto núm. 253-2020](decreto-253-2020.md)
-- [Decreto núm. 254-2020](decreto-254-2020.md)
-- [Decreto núm. 255-2020](decreto-255-2020.md)
-- [Decreto núm. 256-2020](decreto-256-2020.md)
-- [Decreto núm. 257-2020](decreto-257-2020.md)
-- [Decreto núm. 258-2020](decreto-258-2020.md)
-- [Decreto núm. 259-2020](decreto-259-2020.md)
-- [Decreto núm. 260-2020](decreto-260-2020.md)
-- [Decreto núm. 261-2020](decreto-261-2020.md)
-- [Decreto núm. 262-2020](decreto-262-2020.md)
-- [Decreto núm. 263-2020](decreto-263-2020.md)
-- [Decreto núm. 264-2020](decreto-264-2020.md)
-- [Decreto núm. 265-2020](decreto-265-2020.md)
-- [Decreto núm. 266-2020](decreto-266-2020.md)
-- [Decreto núm. 267-2020](decreto-267-2020.md)
-- [Decreto núm. 268-2020](decreto-268-2020.md)
-- [Decreto núm. 269-2020](decreto-269-2020.md)
-- [Decreto núm. 270-2020](decreto-270-2020.md)
-- [Decreto núm. 271-2020](decreto-271-2020.md)
-- [Decreto núm. 272-2020](decreto-272-2020.md)
-- [Decreto núm. 273-2020](decreto-273-2020.md)
-- [Decreto núm. 274-2020](decreto-274-2020.md)
-- [Decreto núm. 275-2020](decreto-275-2020.md)
-- [Decreto núm. 276-2020](decreto-276-2020.md)
-- [Decreto núm. 277-2020](decreto-277-2020.md)
-- [Decreto núm. 278-2020](decreto-278-2020.md)
-- [Decreto núm. 279-2020](decreto-279-2020.md)
-- [Decreto núm. 280-2020](decreto-280-2020.md)
-- [Decreto núm. 281-2020](decreto-281-2020.md)
-- [Decreto núm. 282-2020](decreto-282-2020.md)
-- [Decreto núm. 283-2020](decreto-283-2020.md)
-- [Decreto núm. 284-2020](decreto-284-2020.md)
-- [Decreto núm. 285-2020](decreto-285-2020.md)
-- [Decreto núm. 286-2020](decreto-286-2020.md)
-- [Decreto núm. 287-2020](decreto-287-2020.md)
-- [Decreto núm. 288-2020](decreto-288-2020.md)
-- [Decreto núm. 289-2020](decreto-289-2020.md)
-- [Decreto núm. 290-2020](decreto-290-2020.md)
-- [Decreto núm. 291-2020](decreto-291-2020.md)
-- [Decreto núm. 292-2020](decreto-292-2020.md)
-- [Decreto núm. 294-2020](decreto-294-2020.md)
-- [Decreto núm. 295-2020](decreto-295-2020.md)
-- [Decreto núm. 296-2020](decreto-296-2020.md)
-- [Decreto núm. 297-2020](decreto-297-2020.md)
-- [Decreto núm. 298-2020](decreto-298-2020.md)
-- [Decreto núm. 299-2020](decreto-299-2020.md)
-- [Decreto núm. 300-2020](decreto-300-2020.md)
-- [Decreto núm. 301-2020](decreto-301-2020.md)
-- [Decreto núm. 302-2020](decreto-302-2020.md)
-- [Decreto núm. 303-2020](decreto-303-2020.md)
-- [Decreto núm. 304-2020](decreto-304-2020.md)
-- [Decreto núm. 305-2020](decreto-305-2020.md)
-- [Decreto núm. 306-2020](decreto-306-2020.md)
-- [Decreto núm. 307-2020](decreto-307-2020.md)
-- [Decreto núm. 308-2020](decreto-308-2020.md)
-- [Decreto núm. 309-2020](decreto-309-2020.md)
-- [Decreto núm. 310-2020](decreto-310-2020.md)
-- [Decreto núm. 311-2020](decreto-311-2020.md)
-- [Decreto núm. 312-2020](decreto-312-2020.md)
-- [Decreto núm. 313-2020](decreto-313-2020.md)
-- [Decreto núm. 314-2020](decreto-314-2020.md)
-- [Decreto núm. 315-2020](decreto-315-2020.md)
-- [Decreto núm. 316-2020](decreto-316-2020.md)
-- [Decreto núm. 317-2020](decreto-317-2020.md)
-- [Decreto núm. 318-2020](decreto-318-2020.md)
-- [Decreto núm. 319-2020](decreto-319-2020.md)
-- [Decreto núm. 320-2020](decreto-320-2020.md)
-- [Decreto núm. 321-2020](decreto-321-2020.md)
-- [Decreto núm. 322-2020](decreto-322-2020.md)
-- [Decreto núm. 323-2020](decreto-323-2020.md)
-- [Decreto núm. 324-2020](decreto-324-2020.md)
-- [Decreto núm. 325-2020](decreto-325-2020.md)
-- [Decreto núm. 326-2020](decreto-326-2020.md)
-- [Decreto núm. 327-2020](decreto-327-2020.md)
-- [Decreto núm. 328-2020](decreto-328-2020.md)
-- [Decreto núm. 329-2020](decreto-329-2020.md)
-- [Decreto núm. 330-2020](decreto-330-2020.md)
-- [Decreto núm. 331-2020](decreto-331-2020.md)
-- [Decreto núm. 332-2020](decreto-332-2020.md)
-- [Decreto núm. 333-2020](decreto-333-2020.md)
-- [Decreto núm. 334-2020](decreto-334-2020.md)
-- [Decreto núm. 335-2020](decreto-335-2020.md)
-- [Decreto núm. 336-2020](decreto-336-2020.md)
-- [Decreto núm. 337-2020](decreto-337-2020.md)
-- [Decreto núm. 338-2020](decreto-338-2020.md)
-- [Decreto núm. 339-2020](decreto-339-2020.md)
-- [Decreto núm. 340-2020](decreto-340-2020.md)
-- [Decreto núm. 341-2020](decreto-341-2020.md)
-- [Decreto núm. 342-2020](decreto-342-2020.md)
-- [Decreto núm. 343-2020](decreto-343-2020.md)
-- [Decreto núm. 344-2020](decreto-344-2020.md)
-- [Decreto núm. 345-2020](decreto-345-2020.md)
-- [Decreto núm. 346-2020](decreto-346-2020.md)
-- [Decreto núm. 347-2020](decreto-347-2020.md)
-- [Decreto núm. 348-2020](decreto-348-2020.md)
-- [Decreto núm. 349-2020](decreto-349-2020.md)
-- [Decreto núm. 350-2020](decreto-350-2020.md)
-- [Decreto núm. 351-2020](decreto-351-2020.md)
-- [Decreto núm. 352-2020](decreto-352-2020.md)
-- [Decreto núm. 353-2020](decreto-353-2020.md)
-- [Decreto núm. 354-2020](decreto-354-2020.md)
-- [Decreto núm. 355-2020](decreto-355-2020.md)
-- [Decreto núm. 356-2020](decreto-356-2020.md)
-- [Decreto núm. 357-2020](decreto-357-2020.md)
-- [Decreto núm. 358-2020](decreto-358-2020.md)
-- [Decreto núm. 359-2020](decreto-359-2020.md)
-- [Decreto núm. 360-2020](decreto-360-2020.md)
-- [Decreto núm. 361-2020](decreto-361-2020.md)
-- [Decreto núm. 362-2020](decreto-362-2020.md)
-- [Decreto núm. 363-2020](decreto-363-2020.md)
-- [Decreto núm. 364-2020](decreto-364-2020.md)
-- [Decreto núm. 365-2020](decreto-365-2020.md)
-- [Decreto núm. 366-2020](decreto-366-2020.md)
-- [Decreto núm. 367-2020](decreto-367-2020.md)
-- [Decreto núm. 368-2020](decreto-368-2020.md)
-- [Decreto núm. 369-2020](decreto-369-2020.md)
-- [Decreto núm. 370-2020](decreto-370-2020.md)
-- [Decreto núm. 371-2020](decreto-371-2020.md)
-- [Decreto núm. 372-2020](decreto-372-2020.md)
-- [Decreto núm. 373-2020](decreto-373-2020.md)
-- [Decreto núm. 374-2020](decreto-374-2020.md)
-- [Decreto núm. 375-2020](decreto-375-2020.md)
-- [Decreto núm. 376-2020](decreto-376-2020.md)
-- [Decreto núm. 377-2020](decreto-377-2020.md)
-- [Decreto núm. 378-2020](decreto-378-2020.md)
-- [Decreto núm. 379-2020](decreto-379-2020.md)
-- [Decreto núm. 380-2020](decreto-380-2020.md)
-- [Decreto núm. 381-2020](decreto-381-2020.md)
-- [Decreto núm. 382-2020](decreto-382-2020.md)
-- [Decreto núm. 383-2020](decreto-383-2020.md)
-- [Decreto núm. 384-2020](decreto-384-2020.md)
-- [Decreto núm. 385-2020](decreto-385-2020.md)
-- [Decreto núm. 386-2020](decreto-386-2020.md)
-- [Decreto núm. 387-2020](decreto-387-2020.md)
-- [Decreto núm. 388-2020](decreto-388-2020.md)
-- [Decreto núm. 389-2020](decreto-389-2020.md)
-- [Decreto núm. 390-2020](decreto-390-2020.md)
-- [Decreto núm. 391-2020](decreto-391-2020.md)
-- [Decreto núm. 392-2020](decreto-392-2020.md)
-- [Decreto núm. 393-2020](decreto-393-2020.md)
-- [Decreto núm. 394-2020](decreto-394-2020.md)
-- [Decreto núm. 395-2020](decreto-395-2020.md)
-- [Decreto núm. 396-2020](decreto-396-2020.md)
-- [Decreto núm. 397-2020](decreto-397-2020.md)
-- [Decreto núm. 398-2020](decreto-398-2020.md)
-- [Decreto núm. 399-2020](decreto-399-2020.md)
-- [Decreto núm. 400-2020](decreto-400-2020.md)
-- [Decreto núm. 401-2020](decreto-401-2020.md)
-- [Decreto núm. 402-2020](decreto-402-2020.md)
-- [Decreto núm. 403-2020](decreto-403-2020.md)
-- [Decreto núm. 404-2020](decreto-404-2020.md)
-- [Decreto núm. 405-2020](decreto-405-2020.md)
-- [Decreto núm. 406-2020](decreto-406-2020.md)
-- [Decreto núm. 407-2020](decreto-407-2020.md)
-- [Decreto núm. 408-2020](decreto-408-2020.md)
-- [Decreto núm. 409-2020](decreto-409-2020.md)
-- [Decreto núm. 410-2020](decreto-410-2020.md)
-- [Decreto núm. 411-2020](decreto-411-2020.md)
-- [Decreto núm. 412-2020](decreto-412-2020.md)
-- [Decreto núm. 413-2020](decreto-413-2020.md)
-- [Decreto núm. 414-2020](decreto-414-2020.md)
-- [Decreto núm. 415-2020](decreto-415-2020.md)
-- [Decreto núm. 416-2020](decreto-416-2020.md)
-- [Decreto núm. 417-2020](decreto-417-2020.md)
-- [Decreto núm. 418-2020](decreto-418-2020.md)
-- [Decreto núm. 419-2020](decreto-419-2020.md)
-- [Decreto núm. 420-2020](decreto-420-2020.md)
-- [Decreto núm. 421-2020](decreto-421-2020.md)
-- [Decreto núm. 422-2020](decreto-422-2020.md)
-- [Decreto núm. 423-2020](decreto-423-2020.md)
-- [Decreto núm. 424-2020](decreto-424-2020.md)
-- [Decreto núm. 425-2020](decreto-425-2020.md)
-- [Decreto núm. 426-2020](decreto-426-2020.md)
-- [Decreto núm. 427-2020](decreto-427-2020.md)
-- [Decreto núm. 428-2020](decreto-428-2020.md)
-- [Decreto núm. 429-2020](decreto-429-2020.md)
-- [Decreto núm. 430-2020](decreto-430-2020.md)
-- [Decreto núm. 431-2020](decreto-431-2020.md)
-- [Decreto núm. 432-2020](decreto-432-2020.md)
-- [Decreto núm. 433-2020](decreto-433-2020.md)
-- [Decreto núm. 434-2020](decreto-434-2020.md)
-- [Decreto núm. 435-2020](decreto-435-2020.md)
-- [Decreto núm. 436-2020](decreto-436-2020.md)
-- [Decreto núm. 437-2020](decreto-437-2020.md)
-- [Decreto núm. 438-2020](decreto-438-2020.md)
-- [Decreto núm. 439-2020](decreto-439-2020.md)
-- [Decreto núm. 440-2020](decreto-440-2020.md)
-- [Decreto núm. 441-2020](decreto-441-2020.md)
-- [Decreto núm. 442-2020](decreto-442-2020.md)
-- [Decreto núm. 443-2020](decreto-443-2020.md)
-- [Decreto núm. 444-2020](decreto-444-2020.md)
-- [Decreto núm. 445-2020](decreto-445-2020.md)
-- [Decreto núm. 446-2020](decreto-446-2020.md)
-- [Decreto núm. 447-2020](decreto-447-2020.md)
-- [Decreto núm. 448-2020](decreto-448-2020.md)
-- [Decreto núm. 449-2020](decreto-449-2020.md)
-- [Decreto núm. 450-2020](decreto-450-2020.md)
-- [Decreto núm. 451-2020](decreto-451-2020.md)
-- [Decreto núm. 452-2020](decreto-452-2020.md)
-- [Decreto núm. 453-2020](decreto-453-2020.md)
-- [Decreto núm. 454-2020](decreto-454-2020.md)
-- [Decreto núm. 455-2020](decreto-455-2020.md)
-- [Decreto núm. 456-2020](decreto-456-2020.md)
-- [Decreto núm. 457-2020](decreto-457-2020.md)
-- [Decreto núm. 458-2020](decreto-458-2020.md)
-- [Decreto núm. 459-2020](decreto-459-2020.md)
-- [Decreto núm. 460-2020](decreto-460-2020.md)
-- [Decreto núm. 461-2020](decreto-461-2020.md)
-- [Decreto núm. 462-2020](decreto-462-2020.md)
-- [Decreto núm. 463-2020](decreto-463-2020.md)
-- [Decreto núm. 464-2020](decreto-464-2020.md)
-- [Decreto núm. 465-2020](decreto-465-2020.md)
-- [Decreto núm. 466-2020](decreto-466-2020.md)
-- [Decreto núm. 467-2020](decreto-467-2020.md)
-- [Decreto núm. 468-2020](decreto-468-2020.md)
-- [Decreto núm. 469-2020](decreto-469-2020.md)
-- [Decreto núm. 470-2020](decreto-470-2020.md)
-- [Decreto núm. 471-2020](decreto-471-2020.md)
-- [Decreto núm. 472-2020](decreto-472-2020.md)
-- [Decreto núm. 473-2020](decreto-473-2020.md)
-- [Decreto núm. 474-2020](decreto-474-2020.md)
-- [Decreto núm. 475-2020](decreto-475-2020.md)
-- [Decreto núm. 476-2020](decreto-476-2020.md)
-- [Decreto núm. 477-2020](decreto-477-2020.md)
-- [Decreto núm. 478-2020](decreto-478-2020.md)
-- [Decreto núm. 479-2020](decreto-479-2020.md)
-- [Decreto núm. 480-2020](decreto-480-2020.md)
-- [Decreto núm. 481-2020](decreto-481-2020.md)
-- [Decreto núm. 482-2020](decreto-482-2020.md)
-- [Decreto núm. 483-2020](decreto-483-2020.md)
-- [Decreto núm. 484-2020](decreto-484-2020.md)
-- [Decreto núm. 485-2020](decreto-485-2020.md)
-- [Decreto núm. 486-2020](decreto-486-2020.md)
-- [Decreto núm. 487-2020](decreto-487-2020.md)
-- [Decreto núm. 488-2020](decreto-488-2020.md)
-- [Decreto núm. 489-2020](decreto-489-2020.md)
-- [Decreto núm. 490-2020](decreto-490-2020.md)
-- [Decreto núm. 491-2020](decreto-491-2020.md)
-- [Decreto núm. 492-2020](decreto-492-2020.md)
-- [Decreto núm. 493-2020](decreto-493-2020.md)
-- [Decreto núm. 494-2020](decreto-494-2020.md)
-- [Decreto núm. 495-2020](decreto-495-2020.md)
-- [Decreto núm. 496-2020](decreto-496-2020.md)
-- [Decreto núm. 497-2020](decreto-497-2020.md)
-- [Decreto núm. 498-2020](decreto-498-2020.md)
-- [Decreto núm. 499-2020](decreto-499-2020.md)
-- [Decreto núm. 500-2020](decreto-500-2020.md)
-- [Decreto núm. 501-2020](decreto-501-2020.md)
-- [Decreto núm. 502-2020](decreto-502-2020.md)
-- [Decreto núm. 503-2020](decreto-503-2020.md)
-- [Decreto núm. 504-2020](decreto-504-2020.md)
-- [Decreto núm. 505-2020](decreto-505-2020.md)
-- [Decreto núm. 506-2020](decreto-506-2020.md)
-- [Decreto núm. 507-2020](decreto-507-2020.md)
-- [Decreto núm. 508-2020](decreto-508-2020.md)
-- [Decreto núm. 509-2020](decreto-509-2020.md)
-- [Decreto núm. 511-2020](decreto-511-2020.md)
-- [Decreto núm. 512-2020](decreto-512-2020.md)
-- [Decreto núm. 513-2020](decreto-513-2020.md)
-- [Decreto núm. 514-2020](decreto-514-2020.md)
-- [Decreto núm. 515-2020](decreto-515-2020.md)
-- [Decreto núm. 516-2020](decreto-516-2020.md)
-- [Decreto núm. 517-2020](decreto-517-2020.md)
-- [Decreto núm. 518-2020](decreto-518-2020.md)
-- [Decreto núm. 519-2020](decreto-519-2020.md)
-- [Decreto núm. 520-2020](decreto-520-2020.md)
-- [Decreto núm. 521-2020](decreto-521-2020.md)
-- [Decreto núm. 522-2020](decreto-522-2020.md)
-- [Decreto núm. 523-2020](decreto-523-2020.md)
-- [Decreto núm. 524-2020](decreto-524-2020.md)
-- [Decreto núm. 525-2020](decreto-525-2020.md)
-- [Decreto núm. 527-2020](decreto-527-2020.md)
-- [Decreto núm. 528-2020](decreto-528-2020.md)
-- [Decreto núm. 529-2020](decreto-529-2020.md)
-- [Decreto núm. 530-2020](decreto-530-2020.md)
-- [Decreto núm. 531-2020](decreto-531-2020.md)
-- [Decreto núm. 532-2020](decreto-532-2020.md)
-- [Decreto núm. 533-2020](decreto-533-2020.md)
-- [Decreto núm. 534-2020](decreto-534-2020.md)
-- [Decreto núm. 536-2020](decreto-536-2020.md)
-- [Decreto núm. 538-2020](decreto-538-2020.md)
-- [Decreto núm. 539-2020](decreto-539-2020.md)
-- [Decreto núm. 540-2020](decreto-540-2020.md)
-- [Decreto núm. 541-2020](decreto-541-2020.md)
-- [Decreto núm. 542-2020](decreto-542-2020.md)
-- [Decreto núm. 543-2020](decreto-543-2020.md)
-- [Decreto núm. 544-2020](decreto-544-2020.md)
-- [Decreto núm. 545-2020](decreto-545-2020.md)
-- [Decreto núm. 546-2020](decreto-546-2020.md)
-- [Decreto núm. 547-2020](decreto-547-2020.md)
-- [Decreto núm. 548-2020](decreto-548-2020.md)
-- [Decreto núm. 549-2020](decreto-549-2020.md)
-- [Decreto núm. 550-2020](decreto-550-2020.md)
-- [Decreto núm. 551-2020](decreto-551-2020.md)
-- [Decreto núm. 553-2020](decreto-553-2020.md)
-- [Decreto núm. 554-2020](decreto-554-2020.md)
-- [Decreto núm. 555-2020](decreto-555-2020.md)
-- [Decreto núm. 556-2020](decreto-556-2020.md)
-- [Decreto núm. 559-2020](decreto-559-2020.md)
-- [Decreto núm. 560-2020](decreto-560-2020.md)
-- [Decreto núm. 561-2020](decreto-561-2020.md)
-- [Decreto núm. 562-2020](decreto-562-2020.md)
-- [Decreto núm. 563-2020](decreto-563-2020.md)
-- [Decreto núm. 564-2020](decreto-564-2020.md)
-- [Decreto núm. 565-2020](decreto-565-2020.md)
-- [Decreto núm. 566-2020](decreto-566-2020.md)
-- [Decreto núm. 567-2020](decreto-567-2020.md)
-- [Decreto núm. 568-2020](decreto-568-2020.md)
-- [Decreto núm. 569-2020](decreto-569-2020.md)
-- [Decreto núm. 570-2020](decreto-570-2020.md)
-- [Decreto núm. 571-2020](decreto-571-2020.md)
-- [Decreto núm. 572-2020](decreto-572-2020.md)
-- [Decreto núm. 573-2020](decreto-573-2020.md)
-- [Decreto núm. 574-2020](decreto-574-2020.md)
-- [Decreto núm. 575-2020](decreto-575-2020.md)
-- [Decreto núm. 576-2020](decreto-576-2020.md)
-- [Decreto núm. 577-2020](decreto-577-2020.md)
-- [Decreto núm. 579-2020](decreto-579-2020.md)
-- [Decreto núm. 580-2020](decreto-580-2020.md)
-- [Decreto núm. 581-2020](decreto-581-2020.md)
-- [Decreto núm. 582-2020](decreto-582-2020.md)
-- [Decreto núm. 583-2020](decreto-583-2020.md)
-- [Decreto núm. 584-2020](decreto-584-2020.md)
-- [Decreto núm. 585-2020](decreto-585-2020.md)
-- [Decreto núm. 586-2020](decreto-586-2020.md)
-- [Decreto núm. 587-2020](decreto-587-2020.md)
-- [Decreto núm. 588-2020](decreto-588-2020.md)
-- [Decreto núm. 589-2020](decreto-589-2020.md)
-- [Decreto núm. 590-2020](decreto-590-2020.md)
-- [Decreto núm. 591-2020](decreto-591-2020.md)
-- [Decreto núm. 592-2020](decreto-592-2020.md)
-- [Decreto núm. 593-2020](decreto-593-2020.md)
-- [Decreto núm. 594-2020](decreto-594-2020.md)
-- [Decreto núm. 595-2020](decreto-595-2020.md)
-- [Decreto núm. 596-2020](decreto-596-2020.md)
-- [Decreto núm. 597-2020](decreto-597-2020.md)
-- [Decreto núm. 598-2020](decreto-598-2020.md)
-- [Decreto núm. 599-2020](decreto-599-2020.md)
-- [Decreto núm. 600-2020](decreto-600-2020.md)
-- [Decreto núm. 601-2020](decreto-601-2020.md)
-- [Decreto núm. 602-2020](decreto-602-2020.md)
-- [Decreto núm. 603-2020](decreto-603-2020.md)
-- [Decreto núm. 604-2020](decreto-604-2020.md)
-- [Decreto núm. 605-2020](decreto-605-2020.md)
-- [Decreto núm. 606-2020](decreto-606-2020.md)
-- [Decreto núm. 607-2020](decreto-607-2020.md)
-- [Decreto núm. 608-2020](decreto-608-2020.md)
-- [Decreto núm. 609-2020](decreto-609-2020.md)
-- [Decreto núm. 610-2020](decreto-610-2020.md)
-- [Decreto núm. 611-2020](decreto-611-2020.md)
-- [Decreto núm. 612-2020](decreto-612-2020.md)
-- [Decreto núm. 613-2020](decreto-613-2020.md)
-- [Decreto núm. 614-2020](decreto-614-2020.md)
-- [Decreto núm. 615-2020](decreto-615-2020.md)
-- [Decreto núm. 616-2020](decreto-616-2020.md)
-- [Decreto núm. 617-2020](decreto-617-2020.md)
-- [Decreto núm. 618-2020](decreto-618-2020.md)
-- [Decreto núm. 619-2020](decreto-619-2020.md)
-- [Decreto núm. 620-2020](decreto-620-2020.md)
-- [Decreto núm. 621-2020](decreto-621-2020.md)
-- [Decreto núm. 622-2020](decreto-622-2020.md)
-- [Decreto núm. 623-2020](decreto-623-2020.md)
-- [Decreto núm. 624-2020](decreto-624-2020.md)
-- [Decreto núm. 625-2020](decreto-625-2020.md)
-- [Decreto núm. 626-2020](decreto-626-2020.md)
-- [Decreto núm. 627-2020](decreto-627-2020.md)
-- [Decreto núm. 628-2020](decreto-628-2020.md)
-- [Decreto núm. 629-2020](decreto-629-2020.md)
-- [Decreto núm. 630-2020](decreto-630-2020.md)
-- [Decreto núm. 631-2020](decreto-631-2020.md)
-- [Decreto núm. 632-2020](decreto-632-2020.md)
-- [Decreto núm. 633-2020](decreto-633-2020.md)
-- [Decreto núm. 634-2020](decreto-634-2020.md)
-- [Decreto núm. 635-2020](decreto-635-2020.md)
-- [Decreto núm. 636-2020](decreto-636-2020.md)
-- [Decreto núm. 637-2020](decreto-637-2020.md)
-- [Decreto núm. 638-2020](decreto-638-2020.md)
-- [Decreto núm. 639-2020](decreto-639-2020.md)
-- [Decreto núm. 640-2020](decreto-640-2020.md)
-- [Decreto núm. 641-2020](decreto-641-2020.md)
-- [Decreto núm. 642-2020](decreto-642-2020.md)
-- [Decreto núm. 643-2020](decreto-643-2020.md)
-- [Decreto núm. 644-2020](decreto-644-2020.md)
-- [Decreto núm. 645-2020](decreto-645-2020.md)
-- [Decreto núm. 646-2020](decreto-646-2020.md)
-- [Decreto núm. 647-2020](decreto-647-2020.md)
-- [Decreto núm. 648-2020](decreto-648-2020.md)
-- [Decreto núm. 649-2020](decreto-649-2020.md)
-- [Decreto núm. 650-2020](decreto-650-2020.md)
-- [Decreto núm. 651-2020](decreto-651-2020.md)
-- [Decreto núm. 652-2020](decreto-652-2020.md)
-- [Decreto núm. 653-2020](decreto-653-2020.md)
-- [Decreto núm. 654-2020](decreto-654-2020.md)
-- [Decreto núm. 655-2020](decreto-655-2020.md)
-- [Decreto núm. 656-2020](decreto-656-2020.md)
-- [Decreto núm. 657-2020](decreto-657-2020.md)
-- [Decreto núm. 658-2020](decreto-658-2020.md)
-- [Decreto núm. 659-2020](decreto-659-2020.md)
-- [Decreto núm. 660-2020](decreto-660-2020.md)
-- [Decreto núm. 661-2020](decreto-661-2020.md)
-- [Decreto núm. 662-2020](decreto-662-2020.md)
-- [Decreto núm. 663-2020](decreto-663-2020.md)
-- [Decreto núm. 664-2020](decreto-664-2020.md)
-- [Decreto núm. 665-2020](decreto-665-2020.md)
-- [Decreto núm. 666-2020](decreto-666-2020.md)
-- [Decreto núm. 667-2020](decreto-667-2020.md)
-- [Decreto núm. 668-2020](decreto-668-2020.md)
-- [Decreto núm. 669-2020](decreto-669-2020.md)
-- [Decreto núm. 670-2020](decreto-670-2020.md)
-- [Decreto núm. 671-2020](decreto-671-2020.md)
-- [Decreto núm. 672-2020](decreto-672-2020.md)
-- [Decreto núm. 673-2020](decreto-673-2020.md)
-- [Decreto núm. 674-2020](decreto-674-2020.md)
-- [Decreto núm. 675-2020](decreto-675-2020.md)
-- [Decreto núm. 676-2020](decreto-676-2020.md)
-- [Decreto núm. 677-2020](decreto-677-2020.md)
-- [Decreto núm. 678-2020](decreto-678-2020.md)
-- [Decreto núm. 679-2020](decreto-679-2020.md)
-- [Decreto núm. 680-2020](decreto-680-2020.md)
-- [Decreto núm. 681-2020](decreto-681-2020.md)
-- [Decreto núm. 682-2020](decreto-682-2020.md)
-- [Decreto núm. 683-2020](decreto-683-2020.md)
-- [Decreto núm. 684-2020](decreto-684-2020.md)
-- [Decreto núm. 685-2020](decreto-685-2020.md)
-- [Decreto núm. 686-2020](decreto-686-2020.md)
-- [Decreto núm. 687-2020](decreto-687-2020.md)
-- [Decreto núm. 688-2020](decreto-688-2020.md)
-- [Decreto núm. 689-2020](decreto-689-2020.md)
-- [Decreto núm. 690-2020](decreto-690-2020.md)
-- [Decreto núm. 691-2020](decreto-691-2020.md)
-- [Decreto núm. 692-2020](decreto-692-2020.md)
-- [Decreto núm. 693-2020](decreto-693-2020.md)
-- [Decreto núm. 694-2020](decreto-694-2020.md)
-- [Decreto núm. 695-2020](decreto-695-2020.md)
-- [Decreto núm. 696-2020](decreto-696-2020.md)
-- [Decreto núm. 697-2020](decreto-697-2020.md)
-- [Decreto núm. 698-2020](decreto-698-2020.md)
-- [Decreto núm. 699-2020](decreto-699-2020.md)
-- [Decreto núm. 700-2020](decreto-700-2020.md)
-- [Decreto núm. 701-2020](decreto-701-2020.md)
-- [Decreto núm. 702-2020](decreto-702-2020.md)
-- [Decreto núm. 703-2020](decreto-703-2020.md)
-- [Decreto núm. 704-2020](decreto-704-2020.md)
-- [Decreto núm. 705-2020](decreto-705-2020.md)
-- [Decreto núm. 706-2020](decreto-706-2020.md)
-- [Decreto núm. 707-2020](decreto-707-2020.md)
-- [Decreto núm. 708-2020](decreto-708-2020.md)
-- [Decreto núm. 709-2020](decreto-709-2020.md)
-- [Decreto núm. 710-2020](decreto-710-2020.md)
-- [Decreto núm. 711-2020](decreto-711-2020.md)
-- [Decreto núm. 712-2020](decreto-712-2020.md)
-- [Decreto núm. 713-2020](decreto-713-2020.md)
-- [Decreto núm. 714-2020](decreto-714-2020.md)
-- [Decreto núm. 715-2020](decreto-715-2020.md)
-- [Decreto núm. 716-2020](decreto-716-2020.md)
-- [Decreto núm. 717-2020](decreto-717-2020.md)
-- [Decreto núm. 718-2020](decreto-718-2020.md)
-- [Decreto núm. 719-2020](decreto-719-2020.md)
-- [Decreto núm. 720-2020](decreto-720-2020.md)
-- [Decreto núm. 721-2020](decreto-721-2020.md)
-- [Decreto núm. 722-2020](decreto-722-2020.md)
-- [Decreto núm. 723-2020](decreto-723-2020.md)
-- [Decreto núm. 724-2020](decreto-724-2020.md)
-- [Decreto núm. 725-2020](decreto-725-2020.md)
-- [Decreto núm. 726-2020](decreto-726-2020.md)
-- [Decreto núm. 727-2020](decreto-727-2020.md)
-- [Decreto núm. 728-2020](decreto-728-2020.md)
-- [Decreto núm. 729-2020](decreto-729-2020.md)
-- [Decreto núm. 730-2020](decreto-730-2020.md)
-- [Decreto núm. 731-2020](decreto-731-2020.md)
-- [Decreto núm. 732-2020](decreto-732-2020.md)
-- [Decreto núm. 733-2020](decreto-733-2020.md)
-- [Decreto núm. 734-2020](decreto-734-2020.md)
-- [Decreto núm. 735-2020](decreto-735-2020.md)
-- [Decreto núm. 736-2020](decreto-736-2020.md)
-- [Decreto núm. 737-2020](decreto-737-2020.md)
-- [Decreto núm. 738-2020](decreto-738-2020.md)
-- [Decreto núm. 739-2020](decreto-739-2020.md)
-- [Decreto núm. 740-2020](decreto-740-2020.md)
-- [Decreto núm. 741-2020](decreto-741-2020.md)
-- [Decreto núm. 742-2020](decreto-742-2020.md)
+Listado principal para consulta en móvil y escritorio.
 
-## Documentos detectados
+<div class="leydo-year-list" markdown>
+<div class="leydo-year-entry" markdown>
+**[Decreto 001-2020](decreto-001-2020.md)**
 
-| Número | Fecha | Gaceta | Título | Fuente oficial | Estado |
-|---:|---|---:|---|---|---|
-| 478-19 | 16/12/2019 | 10967 | QUE ASCIENDE A LA SEÑORA JENNIFER CAROLINA MUÑOZ PEYNADO, AL RANGO DE CONSEJERA DE LA EMBAJADA DE LA... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395428&managementType=1) | pendiente_verificacion_pdf |
-| 479-19 | 16/12/2019 | 10967 | QUE NOMBRA AL SEÑOR LUIS ALBERTO CAMILO GARCÍA, AUXILIAR DEL CONSULADO DE LA REPÚBLICA DOMINICANA EN... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395429&managementType=1) | pendiente_verificacion_pdf |
-| 480-19 | 23/12/2019 | 10967 | QUE MODIFICA Y AGREGA VARIOS ARTÍCULOS DEL DECRETO NO. 352-99, DEL 12 DE AGOSTO DE 1999, QUE APROBÓ ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395436&managementType=1) | pendiente_verificacion_pdf |
-| 481-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN A VARIAS PERSONAS Y ELEVA EL MONTO DE PENSIONES OTORGADAS ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395437&managementType=1) | pendiente_verificacion_pdf |
-| 482-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395438&managementType=1) | pendiente_verificacion_pdf |
-| 483-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395439&managementType=1) | pendiente_verificacion_pdf |
-| 484-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395440&managementType=1) | pendiente_verificacion_pdf |
-| 485-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395441&managementType=1) | pendiente_verificacion_pdf |
-| 486-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395442&managementType=1) | pendiente_verificacion_pdf |
-| 487-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395443&managementType=1) | pendiente_verificacion_pdf |
-| 488-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES OTORGADAS POR EL ESTADO DOMI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395444&managementType=1) | pendiente_verificacion_pdf |
-| 489-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO EN FAVOR DE LOS S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395445&managementType=1) | pendiente_verificacion_pdf |
-| 490-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395446&managementType=1) | pendiente_verificacion_pdf |
-| 491-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL DR. LUIS ENR... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395447&managementType=1) | pendiente_verificacion_pdf |
-| 492-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395448&managementType=1) | pendiente_verificacion_pdf |
-| 493-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395449&managementType=1) | pendiente_verificacion_pdf |
-| 494-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395450&managementType=1) | pendiente_verificacion_pdf |
-| 495-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395451&managementType=1) | pendiente_verificacion_pdf |
-| 496-19 | 23/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395452&managementType=1) | pendiente_verificacion_pdf |
-| 497-19 | 30/12/2019 | 10967 | QUE DECLARA EL AÑO 2020 COMO EL AÑO DE LA CONSOLIDACIÓN DE LA SEGURIDAD ALIMENTARIA. | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395453&managementType=1) | pendiente_verificacion_pdf |
-| 498-19 | 30/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395454&managementType=1) | pendiente_verificacion_pdf |
-| 499-19 | 30/12/2019 | 10967 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Abrir](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395455&managementType=1) | pendiente_verificacion_pdf |
-| 1-20 | 10/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA EUNISIS VÁSQUEZ ACOSTA, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA DE LA R... | [Ver documento](decreto-001-2020.md) | normalizado · pendiente_revision |
-| 10-20 | 10/01/2020 | 10968 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE U... | [Ver documento](decreto-010-2020.md) | normalizado · pendiente_revision |
-| 11-20 | 10/01/2020 | 10968 | QUE MODIFICA VARIOS NUMERALES DEL ARTÍCULO 1 DE LOS DECRETOS NOS. 334-13, 198-14 Y 297-16, QUE DECLA... | [Ver documento](decreto-011-2020.md) | normalizado · pendiente_revision |
-| 12-20 | 10/01/2020 | 10968 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-012-2020.md) | normalizado · pendiente_revision |
-| 13-20 | 10/01/2020 | 10968 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-013-2020.md) | normalizado · pendiente_revision |
-| 14-20 | 10/01/2020 | 10968 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL ARTÍCULO 1, NUMERAL 6 ... | [Ver documento](decreto-014-2020.md) | normalizado · pendiente_revision |
-| 15-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO EDUAR... | [Ver documento](decreto-015-2020.md) | normalizado · pendiente_revision |
-| 16-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO JEIFR... | [Ver documento](decreto-016-2020.md) | normalizado · pendiente_revision |
-| 17-20 | 10/01/2020 | 10968 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ARMAN... | [Ver documento](decreto-017-2020.md) | normalizado · pendiente_revision |
-| 18-20 | 10/01/2020 | 10968 | QUE NOMBRA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-018-2020.md) | normalizado · pendiente_revision |
-| 2-20 | 10/01/2020 | 10968 | QUE NOMBRA AL SEÑOR BOLÍVAR ISRAEL MARTE NÚÑEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA RE... | [Ver documento](decreto-002-2020.md) | normalizado · pendiente_revision |
-| 3-20 | 10/01/2020 | 10968 | QUE DESIGNA AL ING. EZEQUIEL MANUEL VÓLQUEZ MEDINA, DIRECTOR GENERAL DE LA ADMINISTRADORA DE SUBSIDI... | [Ver documento](decreto-003-2020.md) | normalizado · pendiente_revision |
-| 4-20 | 10/01/2020 | 10968 | QUE NOMBRA A LA SEÑORA GISELA ANTONIA VICTORIA-KRUSE, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA, ... | [Ver documento](decreto-004-2020.md) | normalizado · pendiente_revision |
-| 5-20 | 10/01/2020 | 10968 | QUE DESIGNA AL SEÑOR HUGO GUILLIANI CURY, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CONCURRENTE, ... | [Ver documento](decreto-005-2020.md) | normalizado · pendiente_revision |
-| 6-20 | 10/01/2020 | 10968 | QUE NOMBRA AL SEÑOR FEDERICO ALBERTO CUELLO CAMILO, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO, CON... | [Ver documento](decreto-006-2020.md) | normalizado · pendiente_revision |
-| 7-20 | 10/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA YEIMI MILEIBY LORA PERALTA, AUXILIAR DEL CONSULADO DE LA REPÚBLICA DOMINICAN... | [Ver documento](decreto-007-2020.md) | normalizado · pendiente_revision |
-| 8-20 | 10/01/2020 | 10968 | QUE DEROGA EL ARTÍCULO 1 DEL DECRETO NÚM. 471-09 Y EL ARTÍCULO 1 DEL DEC. NÚM. 261-12. | [Ver documento](decreto-008-2020.md) | normalizado · pendiente_revision |
-| 9-20 | 10/01/2020 | 10968 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 348-17, EN SU ARTÍCULO 1, NUMERAL 4, VARI... | [Ver documento](decreto-009-2020.md) | normalizado · pendiente_revision |
-| 19-20 | 13/01/2020 | 10968 | QUE CONVOCA DE FORMA EXTRAORDINARIA AL SENADO Y A LA CÁMARA DE DIPUTADOS PARA QUE SE REÚNAN POR UN P... | [Ver documento](decreto-019-2020.md) | normalizado · pendiente_revision |
-| 20-20 | 14/01/2020 | 10968 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-020-2020.md) | normalizado · pendiente_revision |
-| 21-20 | 16/01/2020 | 10968 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL PARA LA REESTRUCTURACIÓN DEL VERTEDERO A CIELO ABIERTO D... | [Ver documento](decreto-021-2020.md) | normalizado · pendiente_revision |
-| 22-20 | 16/01/2020 | 10968 | QUE DESIGNA A LA SEÑORA GIRE THESALIA CALDERÓN DÍAZ, VICECÓNSUL EN EL CONSULADO DE LA REPÚBLICA DOMI... | [Ver documento](decreto-022-2020.md) | normalizado · pendiente_revision |
-| 23-20 | 17/01/2020 | 10969 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO, DE ... | [Ver documento](decreto-023-2020.md) | normalizado · pendiente_revision |
-| 24-20 | 17/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES DOMINGO DE JESÚS ALMONTE REINOSO Y RICARDO SAMUEL MOLINA ACOSTA, SUBDIRECT... | [Ver documento](decreto-024-2020.md) | normalizado · pendiente_revision |
-| 25-20 | 17/01/2020 | 10969 | QUE CONFIRMA A LA DRA. ANINA DEL CASTILLO CAZAÑO, COMO DIRECTORA EJECUTIVA DEL INSTITUTO NACIONAL DE... | [Ver documento](decreto-025-2020.md) | normalizado con alerta de fecha · pendiente_revision |
-| 26-20 | 17/01/2020 | 10969 | QUE DESIGNA AL LIC. MÁXIMO ARISMENDY ARISTY CARABALLO, MIEMBRO DEL CONSEJO DE ADMINISTRACIÓN DE LA E... | [Ver documento](decreto-026-2020.md) | normalizado con alerta de fecha · pendiente_revision |
-| 27-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES SANTIAGO RODRÍGUEZ FIGUEREO, FRANCISCO SANTANA Y MERCEDES ALTAGRACIA BRITO ... | [Ver documento](decreto-027-2020.md) | normalizado · pendiente_revision |
-| 28-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES BIENVENIDO TOLENTINO SANTANA Y JORGE NICOLÁS CORDERO PACHE, CÓNSULES GENER... | [Ver documento](decreto-028-2020.md) | normalizado · pendiente_revision |
-| 29-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES FRANCISCO FERNANDO CÁCERES LIRIANO Y RAMÓN CARREÑO, CÓNSULES GENERALES DE L... | [Ver documento](decreto-029-2020.md) | normalizado · pendiente_revision |
-| 30-20 | 24/01/2020 | 10969 | QUE DESIGNA A LAS SEÑORAS FELICITA AQUINO DE LEÓN Y ANA YRIS BELTRÉ FERNÁNDEZ, MINISTRA CONSEJERA Y ... | [Ver documento](decreto-030-2020.md) | normalizado · pendiente_revision |
-| 31-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES RAFAEL ACOSTA JAVIER Y MILTÓN ANDRÉS JIMÉNEZ, MINISTROS CONSEJEROS DE LAS ... | [Ver documento](decreto-031-2020.md) | normalizado · pendiente_revision |
-| 32-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES RUDY ALEXIS MEJÍA MANBRÚ Y MARÍA YVELISSE ALONZO LA PAZ, VICECÓNSULES DE LA... | [Ver documento](decreto-032-2020.md) | normalizado · pendiente_revision |
-| 33-20 | 24/01/2020 | 10969 | QUE DESIGNA AL SEÑOR LEO SERRANO BELTRÉ, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN MADRID, ESPAÑA. N... | [Ver documento](decreto-033-2020.md) | normalizado · pendiente_revision |
-| 34-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES DOMINGO NOVA, FLEURYS MAYOBANEX RIVERA CABRAL Y DEYDANIA RODRÍGUEZ PÉREZ, V... | [Ver documento](decreto-034-2020.md) | normalizado · pendiente_revision |
-| 35-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES FABIÁN PERALTA Y CELESTE ENCARNACIÓN MERÁN, VICECÓNSUL DE LA REPÚBLICA EN ... | [Ver documento](decreto-035-2020.md) | normalizado · pendiente_revision |
-| 36-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES ANEDICE TEJADA Y SIRVIO DOTEL FIGUEREO, AUXILIAR DEL CONSULADO EN MILÁN, IT... | [Ver documento](decreto-036-2020.md) | normalizado · pendiente_revision |
-| 37-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES WILLIAM POLANCO Y SANTIAGO FELIZ PÉREZ, AUXILIARES DE LOS CONSULADOS DE LA... | [Ver documento](decreto-037-2020.md) | normalizado · pendiente_revision |
-| 38-20 | 24/01/2020 | 10969 | QUE DEROGA LOS ARTÍCULOS 5 Y 2 DE LOS DECRETOS NOS. 584-08 Y 808-08, QUE DESIGNARON UN VICECÓNSUL Y ... | [Ver documento](decreto-038-2020.md) | normalizado · pendiente_revision |
-| 39-20 | 24/01/2020 | 10969 | QUE DEROGA LOS ARTÍCULOS 1 DEL DEC. NO. 617-10, 10 DEL DEC. NO. 115-11, Y 15 DEL DEC. NO. 223-11, QU... | [Ver documento](decreto-039-2020.md) | normalizado · pendiente_revision |
-| 40-20 | 24/01/2020 | 10969 | QUE DEROGA EL ARTÍCULO 2, DEL DEC. NO. 632-07, QUE NOMBRÓ UN AUXILIAR DEL CONSULADO DE LA REPÚBLICA ... | [Ver documento](decreto-040-2020.md) | normalizado · pendiente_revision |
-| 41-20 | 24/01/2020 | 10969 | QUE DEROGA EL DECRETO NO. 99-06 Y LOS ARTÍCULOS 2 Y 13 DE LOS DECRETOS NOS. 282-10 Y 223-11, QUE DES... | [Ver documento](decreto-041-2020.md) | normalizado · pendiente_revision |
-| 42-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 162-07, QUE DESIGNÓ UN VICECÓNSUL DE LA REPÚBLICA EN MILANO, ITALIA, Y LOS AR... | [Ver documento](decreto-042-2020.md) | normalizado · pendiente_revision |
-| 43-20 | 24/01/2020 | 10969 | QUE DEROGA EL ART. 4 DEL DEC. NO. 1390-04, EL DEC. NO. 163-06 Y EL ARTÍCULO 12 DEL DEC. NO. 115-11, ... | [Ver documento](decreto-043-2020.md) | normalizado · pendiente_revision |
-| 44-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 401-06, QUE DESIGNÓ UN VICECÓNSUL DE LA REPÚBLICA EN ZURICH, SUIZA, EL ARTÍCU... | [Ver documento](decreto-044-2020.md) | normalizado · pendiente_revision |
-| 45-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 602-08, EL ART. 28 DEL DEC. NO. 06-09 Y EL ART. 3 DEL DEC. NO. 261-12, QUE NO... | [Ver documento](decreto-045-2020.md) | normalizado · pendiente_revision |
-| 46-20 | 24/01/2020 | 10969 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 1443-04, QUE DESIGNÓ UN AUXILIAR DEL CONSULADO EN MARSELLA, FR... | [Ver documento](decreto-046-2020.md) | normalizado · pendiente_revision |
-| 47-20 | 24/01/2020 | 10969 | QUE DEROGA EL DEC. NO. 216-07, QUE DESIGNÓ AL SEÑOR PORFIRIO SUERO PÉREZ, CONSEJERO DE LA EMBAJADA D... | [Ver documento](decreto-047-2020.md) | normalizado · pendiente_revision |
-| 48-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES OSCAR GÓMEZ Y ROLANDO SANTANA MANZUETA, VICECÓNSUL EN BARCELONA, ESPAÑA Y ... | [Ver documento](decreto-048-2020.md) | normalizado · pendiente_revision |
-| 49-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES RUBÉN DARÍO JAVIER SÁNCHEZ Y JUAN DE JESÚS CUEVAS FÉLIZ, TERCER SECRETARIO ... | [Ver documento](decreto-049-2020.md) | normalizado · pendiente_revision |
-| 50-20 | 24/01/2020 | 10969 | QUE DESIGNA AL SEÑOR ADRIANO RAFAEL DE LOS SANTOS GALVÁ, MINISTRO CONSEJERO DE LA EMBAJADA DE LA REP... | [Ver documento](decreto-050-2020.md) | normalizado · pendiente_revision |
-| 51-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES JUAN RAMÓN HERNÁNDEZ REYNOSO Y SACHENKA SANTOS GONZÁLEZ, AGREGADOS CULTURAL... | [Ver documento](decreto-051-2020.md) | normalizado · pendiente_revision |
-| 52-20 | 24/01/2020 | 10969 | QUE DESIGNA A LOS SEÑORES JULIO ANTONIO RAMÍREZ FRANCO, EFRAÍN CUEVAS LÓPEZ Y SATURNINO TUCENT CIPRI... | [Ver documento](decreto-052-2020.md) | normalizado · pendiente_revision |
-| 53-20 | 24/01/2020 | 10969 | QUE NOMBRA A LOS SEÑORES APOLINAR MONTERO BATISTA Y LUIS ALBERTO PELÁEZ ANDINO, VICECÓNSULES DE LA R... | [Ver documento](decreto-053-2020.md) | normalizado · pendiente_revision |
-| 54-20 | 28/01/2020 | 10969 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-054-2020.md) | normalizado · pendiente_revision |
-| 55-20 | 28/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES RAMÓN NICOLÁS DE LOS SANTOS Y JUNIOR CONTRERAS, GOBERNADOR CIVIL DE LA PRO... | [Ver documento](decreto-055-2020.md) | normalizado · pendiente_revision |
-| 56-20 | 29/01/2020 | 10970 | QUE NOMBRA A LA SEÑORA EVELIA PÉREZ ESTÉVEZ, SUBDIRECTORA DEL PLAN DE ASISTENCIA SOCIAL DE LA PRESID... | [Ver documento](decreto-056-2020.md) | normalizado · pendiente_revision |
-| 57-20 | 29/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES YILTON RAFAEL SANTANA Y LUIS ALBERTO NÚÑEZ CASTRO, MIEMBRO DEL DIRECTORIO ... | [Ver documento](decreto-057-2020.md) | normalizado · pendiente_revision |
-| 58-20 | 29/01/2020 | 10970 | QUE DEROGA EL ART. 4 DEL DEC. NO. 173-11, QUE NOMBRÓ AL SEÑOR RICHARD PÉREZ, SUBDIRECTOR DEL INSTITU... | [Ver documento](decreto-058-2020.md) | normalizado · pendiente_revision |
-| 59-20 | 29/01/2020 | 10970 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-059-2020.md) | normalizado · pendiente_revision |
-| 60-20 | 29/01/2020 | 10970 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-060-2020.md) | normalizado · pendiente_revision |
-| 61-20 | 29/01/2020 | 10970 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FRANC... | [Ver documento](decreto-061-2020.md) | normalizado · pendiente_revision |
-| 62-20 | 29/01/2020 | 10970 | QUE AUTORIZA LA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. MODIFICA EL LIT... | [Ver documento](decreto-062-2020.md) | normalizado · pendiente_revision |
-| 63-20 | 29/01/2020 | 10970 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-063-2020.md) | normalizado · pendiente_revision |
-| 64-20 | 29/01/2020 | 10970 | QUE CREA EL PARQUE DE ZONA FRANCA INDUSTRIAL LIMESTONE PARK, UBICADO EN LUPERÓN, PUERTO PLATA, BAJO ... | [Ver documento](decreto-064-2020.md) | normalizado · pendiente_revision |
-| 65-20 | 29/01/2020 | 10970 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES ALTERNOS, MINISTROS CONSEJEROS, CONSEJEROS, VICECÓN... | [Ver documento](decreto-065-2020.md) | normalizado · pendiente_revision |
-| 66-20 | 29/01/2020 | 10970 | QUE DEROGA VARIAS DISPOSICIONES QUE DEJAN SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES, MINISTROS CONSEJE... | [Ver documento](decreto-066-2020.md) | normalizado · pendiente_revision |
-| 67-20 | 29/01/2020 | 10970 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE EMBAJADORES ADSCRITOS AL MINISTERIO DE RELACIONES EXTERIORES, M... | [Ver documento](decreto-067-2020.md) | normalizado · pendiente_revision |
-| 68-20 | 29/01/2020 | 10970 | QUE DEROGA EL DEC. NO. 29-09 QUE DESIGNÓ AL SEÑOR RAMÓN ANTONIO NINA TRINIDAD, COMO MINISTRO CONSEJE... | [Ver documento](decreto-068-2020.md) | normalizado · pendiente_revision |
-| 69-20 | 29/01/2020 | 10970 | QUE DESIGNA A LOS SEÑORES JOHNNY RAFAEL MATHEW ESTRELLA Y GLAUDY ONDINA GÓMEZ FAJARDO, AUXILIAR DEL ... | [Ver documento](decreto-069-2020.md) | normalizado · pendiente_revision |
-| 70-20 | 29/01/2020 | 10970 | QUE ASCIENDE AL SEÑOR PEDRO FELIX RAMÓN GÓMEZ POLANCO, A PRIMER SECRETARIO DE LA EMBAJADA DE LA REPÚ... | [Ver documento](decreto-070-2020.md) | normalizado · pendiente_revision |
-| 71-20 | 29/01/2020 | 10970 | QUE ASCIENDE A LA CONSEJERA MARÍA GABRIELA SANTONI BISONÓ, A MINISTRA CONSEJERA Y LA TRASLADA A LA E... | [Ver documento](decreto-071-2020.md) | normalizado · pendiente_revision |
-| 72-20 | 29/01/2020 | 10970 | QUE NOMBRA A LOS SEÑORES RAFAEL ANTONIO LANTIGUA CIRIACO Y CARLOS DANTE HEREDIA GARCÍA, EMBAJADORES ... | [Ver documento](decreto-072-2020.md) | normalizado · pendiente_revision |
-| 73-20 | 29/01/2020 | 10970 | QUE DESIGNA AL SEÑOR FRANCISCO JOSÉ HERNÁNDEZ MICHELI, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN CHI... | [Ver documento](decreto-073-2020.md) | normalizado · pendiente_revision |
-| 74-20 | 31/01/2020 | 10970 | QUE NOMBRA A LOS SEÑORES CHANELL D. ESTRELLA ABREU Y JUAN MANUEL OSORIA SUÁREZ, SUBDIRECTORA ADMINIS... | [Ver documento](decreto-074-2020.md) | normalizado · pendiente_revision |
-| 75-20 | 31/01/2020 | 10970 | QUE DESIGNA AL SEÑOR JUSTINO EDISON TAVÁREZ CABRERA, SUBDIRECTOR DEL CONSEJO ESTATAL DEL AZÚCAR (CEA... | [Ver documento](decreto-075-2020.md) | normalizado · pendiente_revision |
-| 76-20 | 06/02/2020 | 10971 | QUE DESIGNA AL SEÑOR JESÚS RAFAEL CABRERA, ASESOR EMPRESARIAL DEL PODER EJECUTIVO EN LA PROVINCIA PU... | [Ver documento](decreto-076-2020.md) | normalizado · pendiente_revision |
-| 77-20 | 06/02/2020 | 10971 | QUE DESIGNA A LAS SEÑORAS YOVALINA ISABEL PICHARDO GARCÍA Y NAYELIN DENISSE AQUINO SERRANO, CONSEJER... | [Ver documento](decreto-077-2020.md) | normalizado · pendiente_revision |
-| 78-20 | 06/02/2020 | 10971 | QUE NOMBRA AL SEÑOR JHONNY ANTONIO LEONARDO HENRÍQUEZ, ASESOR COMERCIAL DEL PODER EJECUTIVO PARA LA ... | [Ver documento](decreto-078-2020.md) | normalizado · pendiente_revision |
-| 79-20 | 06/02/2020 | 10971 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE CONSEJEROS, AGREGADOS, MINISTROS CONSEJEROS, SECRETARIOS Y AUXI... | [Ver documento](decreto-079-2020.md) | normalizado · pendiente_revision |
-| 80-20 | 10/02/2020 | 10971 | QUE DESIGNA AL ARQ. ENRIQUE JOSÉ FELIZ GONZÁLEZ, DIRECTOR EJECUTIVO DE LA CORPORACIÓN DE ACUEDUCTOS ... | [Ver documento](decreto-080-2020.md) | normalizado · pendiente_revision |
-| 81-20 | 13/02/2020 | 10971 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES DOCENTES EN EL SISTEMA EDUCATIVO UNIVERSITARIO Y PREUNI... | [Ver documento](decreto-081-2020.md) | normalizado · pendiente_revision |
-| 82-20 | 13/02/2020 | 10971 | QUE DESIGNA A LA SEÑORA LOREMI GONZÁLEZ FERNÁNDEZ, CONSEJERA DE LA EMBAJADA DE LA REPÚBLICA EN ITALI... | [Ver documento](decreto-082-2020.md) | normalizado · pendiente_revision |
-| 83-20 | 14/02/2020 | 10971 | QUE DESIGNA A LOS SEÑORES JUAN MERCEDES MATEO GUERRERO Y ELFRIDA PETRONILA DÍAZ CARTASIO, CONSEJEROS... | [Ver documento](decreto-083-2020.md) | normalizado · pendiente_revision |
-| 84-20 | 19/02/2020 | 10973 | QUE ASCIENDE A LOS SEÑORES JULIO BIENVENIDO PUJOLS, NANCY PATRICIA FRANJUL PÉREZ Y VENUS GUILLERMINA... | [Ver documento](decreto-084-2020.md) | normalizado · pendiente_revision |
-| 85-20 | 19/02/2020 | 10973 | QUE DEROGA EL DEC. NO. 543-06, QUE DESIGNÓ AL SEÑOR THOMAS AUGUSTO AMARAL NEVES, COMO CÓNSUL HONORAR... | [Ver documento](decreto-085-2020.md) | normalizado · pendiente_revision |
-| 86-20 | 21/02/2020 | 10973 | QUE INSTRUYE A LAS INSTITUCIONES A CARGO DE LA EJECUCIÓN DE PROGRAMAS DESTINADOS AL ALIVIO DE LA POB... | [Ver documento](decreto-086-2020.md) | normalizado · pendiente_revision |
-| 87-20 | 26/02/2020 | 10973 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE BIENES Y SERVICIOS INDISPENSABLES PARA LA ... | [Ver documento](decreto-087-2020.md) | normalizado · pendiente_revision |
-| 88-20 | 03/03/2020 | 10973 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-088-2020.md) | normalizado · pendiente_revision |
-| 89-20 | 04/03/2020 | 10974 | QUE DESIGNA AL SEÑOR VÍCTOR MANUEL GRIMALDI CÉSPEDES, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE... | [Ver documento](decreto-089-2020.md) | normalizado · pendiente_revision |
-| 90-20 | 04/03/2020 | 10974 | QUE NOMBRA AL SEÑOR FAUSTO MARINO MENDOZA RODRÍGUEZ, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE ... | [Ver documento](decreto-090-2020.md) | normalizado · pendiente_revision |
-| 91-20 | 04/03/2020 | 10974 | QUE APRUEBA EL PLAN NACIONAL DE ATRIBUCIÓN DE FRECUENCIAS (PNAF) EN LOS TÉRMINOS SOMETIDOS AL PODER ... | [Ver documento](decreto-091-2020.md) | normalizado · pendiente_revision |
-| 92-20 | 04/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-092-2020.md) | normalizado · pendiente_revision |
-| 93-20 | 04/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 549-12, QUE NOMBRÓ AL LIC. JOSÉ FRANCISCO MARTINEZ RODRÍGUEZ, ... | [Ver documento](decreto-093-2020.md) | normalizado · pendiente_revision |
-| 94-20 | 04/03/2020 | 10974 | QUE MODIFICA EL ARTÍCULO 3 DEL DEC. NO.36-20. DESIGNA AL SEÑOR FABIO HILARIO CEPEDA, COMO VICECÓNSUL... | [Ver documento](decreto-094-2020.md) | normalizado · pendiente_revision |
-| 95-20 | 04/03/2020 | 10974 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-095-2020.md) | normalizado · pendiente_revision |
-| 96-20 | 04/03/2020 | 10974 | QUE DEROGA EL ARTICULO 4 DEL DECRETO 599-08 DEL 20 DE SEPTIEMBRE DE 2008 | [Ver documento](decreto-096-2020.md) | normalizado · pendiente_revision |
-| 97-20 | 04/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FLAVIO ANTONIO CABREJA GÓMEZ, VICECÓNSUL DE LA REPÚBLICA EN LA HABANA, CUBA. | [Ver documento](decreto-097-2020.md) | normalizado · pendiente_revision |
-| 100-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-100-2020.md) | normalizado · pendiente_revision |
-| 101-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-101-2020.md) | normalizado · pendiente_revision |
-| 102-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-102-2020.md) | normalizado · pendiente_revision |
-| 103-20 | 06/03/2020 | 10974 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-103-2020.md) | normalizado · pendiente_revision |
-| 104-20 | 06/03/2020 | 10974 | QUE DESIGNA A LA SEÑORA GISSELLE MARIA FIALLO PELLERANO, CONSEJERA DE LA EMBAJADA DE LA REPÚBLICA DO... | [Ver documento](decreto-104-2020.md) | normalizado · pendiente_revision |
-| 105-20 | 06/03/2020 | 10974 | NOMBRA A LOS SEÑORES RAFAEL RODRÍGUEZ MOLINA Y RAMÓN MORILLO OGANDO, SUBDIRECTORES GENERALES DE BIEN... | [Ver documento](decreto-105-2020.md) | normalizado · pendiente_revision |
-| 106-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR FAUSTINO ROSARIO FERMÍN, SUBDIRECTOR DEL CONSEJO ESTATAL DEL AZÚCAR (CEA). | [Ver documento](decreto-106-2020.md) | normalizado · pendiente_revision |
-| 107-20 | 06/03/2020 | 10974 | QUE NOMBRA AL SEÑOR FREDDY ANTONIO HERNÁNDEZ DE LA ROSA, SUBDIRECTOR GENERAL DE GANADERÍA. | [Ver documento](decreto-107-2020.md) | normalizado · pendiente_revision |
-| 108-20 | 06/03/2020 | 10974 | QUE DESIGNA AL SEÑOR RUBÉN DARÍO GRULLÓN GÓMEZ, SUBDIRECTOR DEL INSTITUTO NACIONAL DE RECURSOS HIDRÁ... | [Ver documento](decreto-108-2020.md) | normalizado · pendiente_revision |
-| 98-20 | 06/03/2020 | 10974 | QUE OTORGA LA MEDALLA AL MÉRITO DE LA MUJER A VARIAS DAMAS DOMINICANAS, CON MOTIVO DEL DÍA INTERNACI... | [Ver documento](decreto-098-2020.md) | normalizado · pendiente_revision |
-| 99-20 | 06/03/2020 | 10974 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-099-2020.md) | normalizado · pendiente_revision |
-| 109-20 | 11/03/2020 | 10974 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES DOCENTES EN EL SISTEMA EDUCATIVO UNIVERSITARIO Y PREUNI... | [Ver documento](decreto-109-2020.md) | normalizado · pendiente_revision |
-| 110-20 | 11/03/2020 | 10974 | QUE NOMBRA A LA SEÑORA MIGUELINA DE CASTRO, ADMINISTRADORA DEL HIPÓDROMO V CENTENARIO. | [Ver documento](decreto-110-2020.md) | normalizado · pendiente_revision |
-| 111-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO ROBE... | [Ver documento](decreto-111-2020.md) | normalizado · pendiente_revision |
-| 112-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO DOMI... | [Ver documento](decreto-112-2020.md) | normalizado · pendiente_revision |
-| 113-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN AL GOBIERNO DE LA REPÚBLICA FRANCESA, DEL CIUDADANO DOMINICANO... | [Ver documento](decreto-113-2020.md) | normalizado · pendiente_revision |
-| 114-20 | 11/03/2020 | 10974 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO MELV... | [Ver documento](decreto-114-2020.md) | normalizado · pendiente_revision |
-| 115-20 | 11/03/2020 | 10974 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL DEC. NO. 333-13, ARTÍCULO 1, NUMERALES 1 Y 2, L... | [Ver documento](decreto-115-2020.md) | normalizado · pendiente_revision |
-| 116-20 | 11/03/2020 | 10974 | QUE MODIFICA EL NUMERAL 3 DEL ARTÍCULO 1 DEL DEC. NO. 41-15. DECLARA DE UTILIDAD PÚBLICA LA PARCELA ... | [Ver documento](decreto-116-2020.md) | normalizado · pendiente_revision |
-| 117-20 | 11/03/2020 | 10974 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL ARTÍCULO 1, NUMERAL 18 DEL DEC. NO. 118-16, LA ... | [Ver documento](decreto-117-2020.md) | normalizado · pendiente_revision |
-| 118-20 | 11/03/2020 | 10974 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 463-19, QUE A SU VEZ MODIFICÓ EL NUMERAL 4 DEL ARTÍCULO 1 DE... | [Ver documento](decreto-118-2020.md) | normalizado · pendiente_revision |
-| 119-20 | 11/03/2020 | 10974 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL POR PARTE DEL ESTADO DOMINICANO, VARIAS PORCIONES D... | [Ver documento](decreto-119-2020.md) | normalizado · pendiente_revision |
-| 120-20 | 11/03/2020 | 10974 | QUE CREA EL PARQUE ZONA FRANCA INDUSTRIAL QUE SE DENOMINARÁ ZONA FRANCA INDUSTRIAL HATILLO, BAJO LA ... | [Ver documento](decreto-120-2020.md) | normalizado · pendiente_revision |
-| 121-20 | 11/03/2020 | 10974 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 312-18, QUE MODIFICARON LOS DECRETOS NOS. 143-10 Y 371... | [Ver documento](decreto-121-2020.md) | normalizado · pendiente_revision |
-| 122-20 | 11/03/2020 | 10974 | QUE DEROGA EL DEC. NO. 65-20, DEL 29 DE ENERO DE 2020. | [Ver documento](decreto-122-2020.md) | normalizado · pendiente_revision |
-| 123-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 134-11, QUE NOMBRÓ AL SEÑOR IVÁN IGNACIO TAPIA LINARES, MINIST... | [Ver documento](decreto-123-2020.md) | normalizado · pendiente_revision |
-| 124-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 220-06, QUE DESIGNÓ AL SEÑOR LUDOVINO HERRERA CABRAL, COMO VIC... | [Ver documento](decreto-124-2020.md) | normalizado · pendiente_revision |
-| 125-20 | 11/03/2020 | 10974 | QUE NOMBRA AL SEÑOR PAVLOS PHOTIADES, CÓNSUL HONORARIO DE LA REPUBLICA DOMINICANA EN NICOSIA, CHIPRE... | [Ver documento](decreto-125-2020.md) | normalizado · pendiente_revision |
-| 126-20 | 11/03/2020 | 10974 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 425-14, QUE OTORGÓ EXEQUATUR AL SEÑOR JOSÉ MARIA SANGUINO BLAN... | [Ver documento](decreto-126-2020.md) | normalizado · pendiente_revision |
-| 127-20 | 11/03/2020 | 10974 | QUE AUTORIZA A TURPIAL AIRLINES, C.A., SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMIDAD CON LAS LEYES DE... | [Ver documento](decreto-127-2020.md) | normalizado · pendiente_revision |
-| 128-20 | 11/03/2020 | 10974 | QUE AUTORIZA A LA COMPAÑÍA CHURCHES ESTATE AGENTS, LTD, SOCIEDAD COMERCIAL ORGANIZADA DE CONFORMIDAD... | [Ver documento](decreto-128-2020.md) | normalizado · pendiente_revision |
-| 129-20 | 11/03/2020 | 10974 | QUE AUTORIZA AL TENIENTE CORONEL PILOTO DANIEL YAPOR GENAO, FARD, A ACEPTAR Y USAR LA CONDECORACIÓN ... | [Ver documento](decreto-129-2020.md) | normalizado · pendiente_revision |
-| 130-20 | 16/03/2020 | 10975 | QUE DECLARA DUELO OFICIAL EL DÍA 17 DE MARZO DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DEL DOCT... | [Ver documento](decreto-130-2020.md) | normalizado · pendiente_revision |
-| 131-20 | 19/03/2020 | 10975 | QUE NOMBRA AL DR. JORGE MARTE BÁEZ, ASESOR MÉDICO DEL PODER EJECUTIVO, QUIEN FORMARÁ PARTE DE LA COM... | [Ver documento](decreto-131-2020.md) | normalizado · pendiente_revision |
-| 132-20 | 19/03/2020 | 10975 | QUE CONFIRMA LA COMISIÓN DE ALTO NIVEL PARA LA PREVENCIÓN Y CONTROL DEL CORONAVIRUS Y CREA E INTEGRA... | [Ver documento](decreto-132-2020.md) | normalizado · pendiente_revision |
-| 133-20 | 19/03/2020 | 10975 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES DE BIENES Y SERVICIOS INDISPENSABLES PARA LA ... | [Ver documento](decreto-133-2020.md) | normalizado · pendiente_revision |
-| 134-20 | 19/03/2020 | 10975 | QUE DECLARA DE ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL EN VIRTUD DE LA AUTORIZACIÓN OTOR... | [Ver documento](decreto-134-2020.md) | normalizado · pendiente_revision |
-| 135-20 | 20/03/2020 | 10975 | QUE ESTABLECE UN TOQUE DE QUEDA EN TODO EL TERRITORIO NACIONAL Y PROHÍBE EL TRÁNSITO Y CIRCULACIÓN D... | [Ver documento](decreto-135-2020.md) | normalizado · pendiente_revision |
-| 136-20 | 23/03/2020 | 10975 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 135-20. DISPONE LA CIRCULACIÓN DE VEHÍCULOS DEDICADOS AL TRA... | [Ver documento](decreto-136-2020.md) | normalizado · pendiente_revision |
-| 137-20 | 23/03/2020 | 10975 | QUE SUSPENDE, MIENTRAS DURE EL ESTADO DE EMERGENCIA, EL COMPUTO DE LOS PLAZOS Y TÉRMINOS DE LOS PROC... | [Ver documento](decreto-137-2020.md) | normalizado · pendiente_revision |
-| 138-20 | 26/03/2020 | 10975 | QUE DISPONE LA EXTENSIÓN DEL HORARIO DEL TOQUE DE QUEDA DE 5:00 P.M. A 6:00 A.M. ESTABLECIDO PARA TO... | [Ver documento](decreto-138-2020.md) | normalizado · pendiente_revision |
-| 139-20 | 26/03/2020 | 10975 | QUE DESIGNA A LOS SEÑORES HÉCTOR BIENVENIDO MEDINA DISLA Y MATILDE CHÁVEZ DE ÁLVAREZ, DIRECTOR GENER... | [Ver documento](decreto-139-2020.md) | normalizado · pendiente_revision |
-| 140-20 | 31/03/2020 | 10975 | QUE NOMBRA AL DR. AMADO ALEJANDRO BÁEZ, ASESOR DEL PODER EJECUTIVO EN SALUD PÚBLICA Y SISTEMAS DE DE... | [Ver documento](decreto-140-2020.md) | normalizado · pendiente_revision |
-| 141-20 | 01/04/2020 | 10975 | QUE CREA E INTEGRA EL COMITÉ DE EMERGENCIA Y GESTIÓN SANITARIA PARA EL COMBATE DEL COVID-19. | [Ver documento](decreto-141-2020.md) | normalizado · pendiente_revision |
-| 142-20 | 02/04/2020 | 10975 | DISPONE QUE SE MANTENDRÁN VIGENTES POR UN PLAZO ADICIONAL DE QUINCE (15) DÍAS, A PARTIR DEL VIERNES ... | [Ver documento](decreto-142-2020.md) | normalizado · pendiente_revision |
-| 143-20 | 02/04/2020 | 10975 | QUE CREA EL FONDO DE ASISTENCIA SOLIDARIA AL EMPLEADO (FASE) PARA APOYAR DE MANERA TRANSITORIA A LOS... | [Ver documento](decreto-143-2020.md) | normalizado · pendiente_revision |
-| 144-20 | 02/04/2020 | 10975 | QUE MODIFICA EL ART. 2 DEL DEC. NO. 133-20, PARA QUE TAMBIÉN APLIQUE A LAS SIGUIENTES INSTITUCIONES:... | [Ver documento](decreto-144-2020.md) | normalizado · pendiente_revision |
-| 145-20 | 05/04/2020 | 10975 | QUE CREA E INTEGRA LA COMISIÓN DE VEEDURÍA CIUDADANA COVID-19 COMO MECANISMO PARA VIGILAR, DAR SEGUI... | [Ver documento](decreto-145-2020.md) | normalizado · pendiente_revision |
-| 146-20 | 08/04/2020 | 10975 | QUE NOMBRA A LAS SEÑORAS KENIA LORA ABREU Y GREYBBI MARIA CUELLO COSTE DE TORRES, DIRECTORA DEL INST... | [Ver documento](decreto-146-2020.md) | normalizado · pendiente_revision |
-| 147-20 | 09/04/2020 | 10975 | QUE DESIGNA AL LIC. MARCEL ALEXANDER MEJÍA TAVERAS, VICEMINISTRO DE COOPERACIÓN INTERNACIONAL DEL MI... | [Ver documento](decreto-147-2020.md) | normalizado · pendiente_revision |
-| 149-20 | 09/04/2020 | 10975 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-149-2020.md) | normalizado con alerta de fecha · pendiente_revision |
-| 148-20 | 13/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR UN PLAZO DE DIECISIETE (17) ... | [Ver documento](decreto-148-2020.md) | normalizado · pendiente_revision |
-| 150-20 | 13/04/2020 | 10975 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FAUST... | [Ver documento](decreto-150-2020.md) | normalizado · pendiente_revision |
-| 151-20 | 17/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR 17 DÍAS CONTADOS A PARTIR DE... | [Ver documento](decreto-151-2020.md) | normalizado · pendiente_revision |
-| 152-20 | 17/04/2020 | 10975 | QUE DESIGNA A LOS SEÑORES BIENVENIDO PEÑA Y ADRIÁN PUELLO GUERRERO, VICEMINISTROS DE SALUD PÚBLICA. ... | [Ver documento](decreto-152-2020.md) | normalizado · pendiente_revision |
-| 153-20 | 30/04/2020 | 10975 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DIECISIETE (17) DÍAS MÁS, A ... | [Ver documento](decreto-153-2020.md) | normalizado · pendiente_revision |
-| 154-20 | 30/04/2020 | 10975 | QUE MANTIENE VIGENTES HASTA EL DOMINGO 17 DE MAYO DEL AÑO EN CURSO LAS MEDIDAS DE DISTANCIAMIENTO SO... | [Ver documento](decreto-154-2020.md) | normalizado · pendiente_revision |
-| 155-20 | 01/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES GUSTAVO LEMBERT CANÓ Y JULIO CÉSAR NÚÑEZ, CÓNSULES GENERALES DE LA REPÚBLIC... | [Ver documento](decreto-155-2020.md) | normalizado · pendiente_revision |
-| 156-20 | 11/05/2020 | 10976 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 51-19. DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUI... | [Ver documento](decreto-156-2020.md) | normalizado · pendiente_revision |
-| 157-20 | 13/05/2020 | 10976 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-157-2020.md) | normalizado · pendiente_revision |
-| 158-20 | 13/05/2020 | 10976 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 141-14, QUE DESIGNÓ AL ING. ANTONIO HERRERA, VICEMINISTRO DE E... | [Ver documento](decreto-158-2020.md) | normalizado · pendiente_revision |
-| 159-20 | 15/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES DANILO RAFAEL SANTOS Y PEDRO RENÉ ALMONTE MEJÍA, VICEMINISTROS PARA LAS COM... | [Ver documento](decreto-159-2020.md) | normalizado · pendiente_revision |
-| 160-20 | 17/05/2020 | 10976 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR UN PLAZO DE QUINCE (15) DÍAS... | [Ver documento](decreto-160-2020.md) | normalizado · pendiente_revision |
-| 161-20 | 17/05/2020 | 10976 | QUE MANTIENE VIGENTES LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE E... | [Ver documento](decreto-161-2020.md) | normalizado · pendiente_revision |
-| 162-20 | 18/05/2020 | 10976 | QUE INTEGRA AL MINISTERIO DE ENERGÍA Y MINAS COMO MIEMBRO DE LA COMISIÓN PRESIDENCIAL PARA LA REESTR... | [Ver documento](decreto-162-2020.md) | normalizado · pendiente_revision |
-| 163-20 | 19/05/2020 | 10976 | QUE NOMBRA A LA LIC. ZORAIMA CUELLO, DIRECTORA EJECUTIVA DEL CONSEJO NACIONAL DE COMPETITIVIDAD. | [Ver documento](decreto-163-2020.md) | normalizado · pendiente_revision |
-| 164-20 | 20/05/2020 | 10976 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 276-18. | [Ver documento](decreto-164-2020.md) | normalizado · pendiente_revision |
-| 165-20 | 20/05/2020 | 10976 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-165-2020.md) | normalizado · pendiente_revision |
-| 166-20 | 20/05/2020 | 10976 | QUE LE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A LA CÁMARA DE COMERCIO, INDUSTRIA, TURISMO Y PRODUC... | [Ver documento](decreto-166-2020.md) | normalizado · pendiente_revision |
-| 167-20 | 20/05/2020 | 10976 | QUE DEROGA EL DEC. NO. 73-19, MEDIANTE EL CUAL SE DESIGNÓ AL LIC. ROBERT WANDER DE LA CRUZ CARPIO, S... | [Ver documento](decreto-167-2020.md) | normalizado · pendiente_revision |
-| 168-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO WILL... | [Ver documento](decreto-168-2020.md) | normalizado · pendiente_revision |
-| 169-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA, DEL CIUDADANO DOMINICANO JOEL... | [Ver documento](decreto-169-2020.md) | normalizado · pendiente_revision |
-| 170-20 | 21/05/2020 | 10976 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LA REPÚBLICA DE FRANCIA, DEL CIUDADANO FRANCÉS FERNAND SIMON... | [Ver documento](decreto-170-2020.md) | normalizado · pendiente_revision |
-| 171-20 | 21/05/2020 | 10976 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIOS EXTRANJEROS. MODIFICA EL NUMERAL 4 DEL ARTÍCULO 1 DEL... | [Ver documento](decreto-171-2020.md) | normalizado · pendiente_revision |
-| 172-20 | 22/05/2020 | 10976 | QUE NOMBRA A LOS SEÑORES JULIO ALBERTO AVILA AVILA Y JULISSA ESPERANZA MARTÍNEZ SANTOS VICEMINISTROS... | [Ver documento](decreto-172-2020.md) | normalizado · pendiente_revision |
-| 173-20 | 27/05/2020 | 10976 | QUE DESIGNA AL ING. JOSÉ CASIMIRO RAMOS CALDERÓN, ASESOR AGRÍCOLA DEL PODER EJECUTIVO Y COORDINADOR ... | [Ver documento](decreto-173-2020.md) | normalizado · pendiente_revision |
-| 174-20 | 28/05/2020 | 10976 | QUE ESTABLECE UN PROCEDIMIENTO ESPECIALIZADO PARA LOGRAR LA TITULACIÓN DE LOS PARQUES INDUSTRIALES Y... | [Ver documento](decreto-174-2020.md) | normalizado · pendiente_revision |
-| 175-20 | 28/05/2020 | 10976 | QUE CREA E INTEGRA LA COMISIÓN PRESIDENCIAL DE FOMENTO A LA INNOVACIÓN PARA LA ELABORACIÓN DE LA EST... | [Ver documento](decreto-175-2020.md) | normalizado · pendiente_revision |
-| 176-20 | 28/05/2020 | 10976 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DECRETO NO. 305-18, ARTÍCULO 1, NUMERAL 8, LA PARC... | [Ver documento](decreto-176-2020.md) | normalizado · pendiente_revision |
-| 177-20 | 28/05/2020 | 10976 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE EL NUMERAL 6, DEL ARTÍCULO 1 DEL DECRETO NO. 209-1... | [Ver documento](decreto-177-2020.md) | normalizado · pendiente_revision |
-| 178-20 | 28/05/2020 | 10976 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL DOS PORCIONES DE TERRENOS EN ESPERANZA, PROVINCIA V... | [Ver documento](decreto-178-2020.md) | normalizado · pendiente_revision |
-| 179-20 | 28/05/2020 | 10976 | QUE DESIGNA A LA SEÑORA ALEJANDRA BERNAL VERAS, VICECÓNSUL DE LA REPÚBLICA EN MADRID, ESPAÑA. | [Ver documento](decreto-179-2020.md) | normalizado · pendiente_revision |
-| 180-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR SERGIO ANTONIO GA... | [Ver documento](decreto-180-2020.md) | normalizado · pendiente_revision |
-| 181-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR RAHONEL GRULLÓN G... | [Ver documento](decreto-181-2020.md) | normalizado · pendiente_revision |
-| 182-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO AL SEÑOR VÍCTOR JOSÉ DEL P... | [Ver documento](decreto-182-2020.md) | normalizado · pendiente_revision |
-| 183-20 | 28/05/2020 | 10976 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO A LA SEÑORA JUANA ERANIA R... | [Ver documento](decreto-183-2020.md) | normalizado · pendiente_revision |
-| 184-20 | 29/05/2020 | 10976 | QUE MODIFICA LOS ARTÍCULOS 5, 6, 7, 8 Y 9 DEL DECRETO NO. 143-20, QUE CREÓ EL FONDO DE ASISTENCIA SO... | [Ver documento](decreto-184-2020.md) | normalizado · pendiente_revision |
-| 185-20 | 29/05/2020 | 10976 | QUE CREA EL PROGRAMA DE ASISTENCIA AL TRABAJADOR INDEPENDIENTE (PA’TI). | [Ver documento](decreto-185-2020.md) | normalizado · pendiente_revision |
-| 186-20 | 29/05/2020 | 10976 | QUE CONFIRMA AL SEÑOR PEDRO LUIS CASTELLANOS COMO SUPERINTENDENTE DE SALUD Y RIESGOS LABORALES, DESI... | [Ver documento](decreto-186-2020.md) | normalizado · pendiente_revision |
-| 187-20 | 01/06/2020 | 10976 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DOCE (12) DÍAS, CONTADOS A P... | [Ver documento](decreto-187-2020.md) | normalizado · pendiente_revision |
-| 188-20 | 01/06/2020 | 10976 | QUE RATIFICA TODAS LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE EL 1... | [Ver documento](decreto-188-2020.md) | normalizado · pendiente_revision |
-| 189-20 | 02/06/2020 | 10977 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES ... | [Ver documento](decreto-189-2020.md) | normalizado · pendiente_revision |
-| 190-20 | 02/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-190-2020.md) | normalizado · pendiente_revision |
-| 191-20 | 02/06/2020 | 10977 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-191-2020.md) | normalizado · pendiente_revision |
-| 192-20 | 02/06/2020 | 10977 | QUE DESIGNA A LA SEÑORA CHERYBELL ESTHER GÓMEZ POLANCO, CONSEJERA EN LA MISIÓN PERMANENTE DE LA REPÚ... | [Ver documento](decreto-192-2020.md) | normalizado · pendiente_revision |
-| 193-20 | 02/06/2020 | 10977 | QUE NOMBRA A LOS SEÑORES HERNÁN GUAROA SÁNCHEZ DE LOS SANTOS, NELCY KARINA ALMONTE CHECO Y EVELYN VÁ... | [Ver documento](decreto-193-2020.md) | normalizado · pendiente_revision |
-| 194-20 | 03/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-194-2020.md) | normalizado · pendiente_revision |
-| 195-20 | 03/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR CARLOS... | [Ver documento](decreto-195-2020.md) | normalizado · pendiente_revision |
-| 196-20 | 04/06/2020 | 10977 | QUE DESIGNA A LOS SEÑORES GEOVANNY GONZÁLEZ CAPELLÁN Y WILLIAM AQUINO, MIEMBRO DEL CONSEJO DE ADMINI... | [Ver documento](decreto-196-2020.md) | normalizado · pendiente_revision |
-| 197-20 | 04/06/2020 | 10977 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 1408-04, QUE DESIGNÓ AL SEÑOR RAMÓN REVI MATOS, COMO PRIMER SE... | [Ver documento](decreto-197-2020.md) | normalizado · pendiente_revision |
-| 198-20 | 04/06/2020 | 10977 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE ARTÍCULO 1, NUMERAL 17 DEL DEC. NO. 230-13, VARIAS... | [Ver documento](decreto-198-2020.md) | normalizado · pendiente_revision |
-| 199-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN, ASIGNA PENSIONES ESPECIALES Y ELEVA PENSIONES DEL ESTADO ... | [Ver documento](decreto-199-2020.md) | normalizado · pendiente_revision |
-| 200-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-200-2020.md) | normalizado · pendiente_revision |
-| 201-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-201-2020.md) | normalizado · pendiente_revision |
-| 202-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-202-2020.md) | normalizado · pendiente_revision |
-| 203-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-203-2020.md) | normalizado · pendiente_revision |
-| 204-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-204-2020.md) | normalizado · pendiente_revision |
-| 205-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-205-2020.md) | normalizado · pendiente_revision |
-| 206-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO POR AN... | [Ver documento](decreto-206-2020.md) | normalizado · pendiente_revision |
-| 207-20 | 04/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-207-2020.md) | normalizado · pendiente_revision |
-| 208-20 | 05/06/2020 | 10977 | QUE DESIGNA LOS GOBERNADORES CIVILES DE LAS PROVINCIAS: SAN PEDRO DE MACORÍS, SAN JOSÉ DE OCOA, MARI... | [Ver documento](decreto-208-2020.md) | normalizado · pendiente_revision |
-| 209-20 | 08/06/2020 | 10977 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-209-2020.md) | normalizado · pendiente_revision |
-| 210-20 | 08/06/2020 | 10977 | QUE PONE A CARGO DEL MINISTERIO DE AGRICULTURA Y SUS DEPENDENCIAS, TODAS LAS MEDIDAS RELACIONADAS CO... | [Ver registro](decreto-210-2020.md) · [Fuente 3395900](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395900&managementType=1) | pendiente_encontrar_pdf · pendiente_revision |
-| 211-20 | 10/06/2020 | 10977 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN... | [Ver documento](decreto-211-2020.md) | normalizado · pendiente_revision |
-| 212-20 | 10/06/2020 | 10977 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 637-10, QUE DESIGNÓ A LA SEÑORA SONIA ALTAGRACIA VARGAS, COMO ... | [Ver documento](decreto-212-2020.md) | normalizado · pendiente_revision |
-| 213-20 | 12/06/2020 | 10977 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR DIECISIETE (17) DÍAS, CONTAD... | [Ver documento](decreto-213-2020.md) | normalizado · pendiente_revision |
-| 214-20 | 12/06/2020 | 10977 | QUE RATIFICA TODAS LAS MEDIDAS DE DISTANCIAMIENTO SOCIAL ADOPTADAS POR EL PODER EJECUTIVO DESDE EL 1... | [Ver documento](decreto-214-2020.md) | normalizado · pendiente_revision |
-| 215-20 | 15/06/2020 | 10978 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 104-12, QUE NOMBRÓ AL SEÑOR NELSON ROSARIO, COMO SUBADMINISTRA... | [Ver documento](decreto-215-2020.md) | normalizado · pendiente_revision |
-| 216-20 | 16/06/2020 | 10978 | QUE CREA LA RED NACIONAL DE SERVICIOS DE SANGRE, COMO EL CONJUNTO DE SERVICIOS DE BANCOS DE SANGRE Y... | [Ver documento](decreto-216-2020.md) | normalizado · pendiente_revision |
-| 217-20 | 16/06/2020 | 10978 | DISPONE QUE LA DIRECCIÓN GENERAL DE EMERGENCIAS MÉDICAS, ÓRGANO DESCONCENTRADO DEL MINISTERIO DE SAL... | [Ver documento](decreto-217-2020.md) | normalizado · pendiente_revision |
-| 218-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Ver documento](decreto-218-2020.md) | normalizado · pendiente_revision |
-| 219-20 | 16/06/2020 | 10978 | QUE NOMBRA A LA SEÑORA CRISEIDA DÍAZ PÉREZ, AUXILIAR DEL CONSULADO DE LA REPÚBLICA EN VALENCIA, ESPA... | [Ver documento](decreto-219-2020.md) | normalizado · pendiente_revision |
-| 220-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-220-2020.md) | normalizado · pendiente_revision |
-| 221-20 | 16/06/2020 | 10978 | QUE DESIGNA A LA SEÑORA HEIDY VANESSA ALMONTE ACOSTA DE CORNELIO, VICECÓNSUL DE LA REPÚBLICA EN JUAN... | [Ver documento](decreto-221-2020.md) | normalizado · pendiente_revision |
-| 222-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR CONRAD... | [Ver documento](decreto-222-2020.md) | normalizado · pendiente_revision |
-| 223-20 | 16/06/2020 | 10978 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-223-2020.md) | normalizado · pendiente_revision |
-| 224-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Ver documento](decreto-224-2020.md) | normalizado · pendiente_revision |
-| 225-20 | 16/06/2020 | 10978 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO GRAN CRU... | [Ver documento](decreto-225-2020.md) | normalizado · pendiente_revision |
-| 226-20 | 16/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SEÑOR NEHEMI... | [Ver documento](decreto-226-2020.md) | normalizado · pendiente_revision |
-| 227-20 | 16/06/2020 | 10978 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL UNA PORCIÓN DE TERRENO DE 620.00 M2, DENTRO DE LA P... | [Ver documento](decreto-227-2020.md) | normalizado · pendiente_revision |
-| 228--20 | 16/06/2020 | EN TRAMITE DE PUBLICACION EN GACETA OFICIAL | QUE ELEVA EL MONTO DE LA PENSION ASIGNADA POR EL ESTADO DOMINICANO AL DR. JOSE ARTURO SILIE RUIZ | [Ver documento](decreto-228-2020.md) · [Fuente 3395918](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395918&managementType=1) | fuente oficial complementaria archivada · pendiente_revision |
-| 228-20 | 16/06/2020 | 10978 | QUE ELEVA EL MONTO DE LA PENSIÓN CONCEDIDA POR EL ESTADO DOMINICANO AL DR. JOSÉ ARTURO SILIÉ RUIZ. | [Ver documento](decreto-228-2020.md) · [Fuente 3395979](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395979&managementType=1) | normalizado con 2 rendiciones oficiales · pendiente_revision |
-| 229-20 | 16/06/2020 | 10978 | QUE AUTORIZA VARIAS EMISIONES DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Ver documento](decreto-229-2020.md) | normalizado · pendiente_revision |
-| 230-20 | 22/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-230-2020.md) | normalizado · pendiente_revision |
-| 231-20 | 22/06/2020 | 10978 | QUE QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES ... | [Ver documento](decreto-231-2020.md) | normalizado · pendiente_revision |
-| 232-20 | 25/06/2020 | 10978 | QUE DESIGNA A LA SEÑORA PERLA MAXIEL FORCHUE LIRIANO, AUXILIAR DEL CONSULADO DE LA REPÚBLICA DOMINIC... | [Ver documento](decreto-232-2020.md) | normalizado · pendiente_revision |
-| 233-20 | 25/06/2020 | 10978 | QUE NOMBRA AL SEÑOR NADIN MIGUEL BEZI NICASIO, VICEMINISTRO DE ANÁLISIS ECONÓMICO Y SOCIAL DEL MINIS... | [Ver documento](decreto-233-2020.md) | normalizado · pendiente_revision |
-| 234-20 | 25/06/2020 | 10978 | QUE DESIGNA AL SEÑOR LUIS ALBERTO PELÁEZ ANDINO, VICECÓNSUL DE LA REPÚBLICA DOMINICANA EN CABO HAITI... | [Ver documento](decreto-234-2020.md) | normalizado · pendiente_revision |
-| 235-20 | 30/06/2020 | 10978 | QUE DISPONE LA SUSPENSIÓN DE LAS ACTIVIDADES EN LOS PLANTELES DEL SISTEMA EDUCATIVO UNIVERSITARIO Y ... | [Ver documento](decreto-235-2020.md) | normalizado · pendiente_revision |
-| 236-20 | 30/06/2020 | 10978 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-236-2020.md) | normalizado · pendiente_revision |
-| 237-20 | 01/07/2020 | 10979 | DISPONE QUE EN CUMPLIMIENTO DEL ARTÍCULO 31 DE LA LEY NO. 21-18, SOBRE REGULACIÓN DE LOS ESTADOS DE ... | [Ver documento](decreto-237-2020.md) | normalizado · pendiente_revision |
-| 238-20 | 06/07/2020 | 10979 | QUE CREA E INTEGRA LA COMISIÓN DE TRANSICIÓN GUBERNAMENTAL. | [Ver documento](decreto-238-2020.md) | normalizado · pendiente_revision |
-| 239-20 | 06/07/2020 | 10979 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. MODIFICA EL NUMERAL 10, DEL ARTÍCU... | [Ver documento](decreto-239-2020.md) | normalizado · pendiente_revision |
-| 240-20 | 06/07/2020 | 10979 | QUE DEROGA EL DEC. NO. 410-17, QUE NOMBRÓ AL SEÑOR AQUILES LEONEL LEDESMA ALCÁNTARA, EMBAJADOR EXTRA... | [Ver documento](decreto-240-2020.md) | normalizado · pendiente_revision |
-| 241-20 | 07/07/2020 | 10979 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-241-2020.md) | normalizado · pendiente_revision |
-| 242-20 | 08/07/2020 | 10979 | QUE AUTORIZA AL MINISTERIO DE HACIENDA A EFECTUAR LOS PAGOS CORRESPONDIENTES A LOS PROGRAMAS FASE I,... | [Ver documento](decreto-242-2020.md) | normalizado · pendiente_revision |
-| 243-20 | 08/07/2020 | 10979 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-243-2020.md) | normalizado · pendiente_revision |
-| 244-20 | 08/07/2020 | 10979 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-244-2020.md) | normalizado · pendiente_revision |
-| 245-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-245-2020.md) | normalizado · pendiente_revision |
-| 246-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Ver documento](decreto-246-2020.md) | normalizado · pendiente_revision |
-| 247-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-247-2020.md) | normalizado · pendiente_revision |
-| 248-20 | 09/07/2020 | 10979 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-248-2020.md) | normalizado · pendiente_revision |
-| 249-20 | 10/07/2020 | 10979 | QUE DESIGNA AL SEÑOR JUAN PABLO GARCÍA GARZA, CÓNSUL HONORARIO DE LA REPUBLICA EN MONTERREY, MÉXICO.... | [Ver documento](decreto-249-2020.md) | normalizado · pendiente_revision |
-| 250-20 | 10/07/2020 | 10979 | QUE DEROGA VARIAS DISPOSICIONES QUE DEJAN SIN EFECTO LOS NOMBRAMIENTOS DEL DIRECTOR DE COMUNICACIONE... | [Ver documento](decreto-250-2020.md) | normalizado · pendiente_revision |
-| 251-20 | 14/07/2020 | 10979 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 243-18 Y EL ARTÍCULO 14 DEL DEC. NO. 216-18, QUE DESIGNARON A ... | [Ver documento](decreto-251-2020.md) | normalizado · pendiente_revision |
-| 252-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE APLICACIÓN DE LA LEY NO. 42-08, GENERAL DE DEFENSA DE LA COMPETENCIA.... | [Ver documento](decreto-252-2020.md) | normalizado · pendiente_revision |
-| 253-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE PRIVADO DE TRABAJADORES. | [Ver documento](decreto-253-2020.md) | normalizado · pendiente_revision |
-| 254-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE PLANES LABORALES DE SEGURIDAD VIAL Y MOVILIDAD A DESARROLLAR POR LAS ... | [Ver documento](decreto-254-2020.md) | normalizado · pendiente_revision |
-| 255-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE TURÍSTICO. | [Ver documento](decreto-255-2020.md) | normalizado · pendiente_revision |
-| 256-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE USO Y TRANSPORTE EN MOTOCICLETAS, BICICLETAS Y OTROS VEHÍCULOS DE MOV... | [Ver documento](decreto-256-2020.md) | normalizado · pendiente_revision |
-| 257-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DEL TRANSPORTE ESCOLAR. | [Ver documento](decreto-257-2020.md) | normalizado · pendiente_revision |
-| 258-20 | 15/07/2020 | 10979 | QUE APRUEBA EL REGLAMENTO DE TRANSPORTE DE CARGAS. | [Ver documento](decreto-258-2020.md) | normalizado · pendiente_revision |
-| 259-20 | 15/07/2020 | 10979 | QUE ESTABLECE EL REGLAMENTO DE PLANES LOCALES DE SEGURIDAD VIAL Y MOVILIDAD A DESARROLLAR POR LOS MU... | [Ver documento](decreto-259-2020.md) | normalizado · pendiente_revision |
-| 260-20 | 15/07/2020 | 10979 | QUE DEROGA DISPOSICIONES QUE NOMBRARON ASESORES DEL PODER EJECUTIVO, ASÍ COMO INTENDENTES-DELEGADOS ... | [Ver documento](decreto-260-2020.md) | normalizado · pendiente_revision |
-| 261-20 | 15/07/2020 | 10979 | QUE DESIGNA AL SEÑOR BASILIUS LLABALY DIVINI, CÓNSUL HONORARIO DE LA REPUBLICA DOMINICANA EN TEL AVI... | [Ver documento](decreto-261-2020.md) | normalizado · pendiente_revision |
-| 262-20 | 16/07/2020 | 10980 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A VARIOS EXTRANJEROS. | [Ver documento](decreto-262-2020.md) | normalizado · pendiente_revision |
-| 263-20 | 16/07/2020 | 10980 | QUE ASCIENDE A LOS CORONELES ERD (DEM) RAFAEL VÁSQUEZ ESPÍNOLA, JOSÉ MANUEL DURÁN INFANTE, RICARDO A... | [Ver documento](decreto-263-2020.md) | normalizado · pendiente_revision |
-| 264-20 | 16/07/2020 | 10980 | QUE ASCIENDE A LOS CORONELES LICENCIADOS PABLO FRANCISCO ORTEGA BRITO, EDDY FRANCISCO PÉREZ PERALTA,... | [Ver documento](decreto-264-2020.md) | normalizado · pendiente_revision |
-| 265-20 | 20/07/2020 | 10980 | QUE DECLARA EL TERRITORIO NACIONAL EN ESTADO DE EMERGENCIA POR UN PERÍODO DE CUARENTICINCO (45) DÍAS... | [Ver documento](decreto-265-2020.md) | normalizado · pendiente_revision |
-| 266-20 | 20/07/2020 | 10980 | QUE ESTABLECE EL TOQUE DE QUEDA DE LUNES A VIERNES DE 7:00 PM A 5:00 AM, Y LOS SÁBADOS Y DOMINGOS DE... | [Ver documento](decreto-266-2020.md) | normalizado · pendiente_revision |
-| 267-20 | 20/07/2020 | 10980 | QUE MODIFICA EL NUMERAL 10 DEL ARTÍCULO 1 DEL DEC. NO. 266-20, PARA QUE EN VEZ DE SAN JUAN DE LA MAG... | [Ver documento](decreto-267-2020.md) | normalizado · pendiente_revision |
-| 268-20 | 21/07/2020 | 10980 | QUE DEROGA LOS ARTÍCULOS 3 Y 4 DEL DEC. NO. 30-13, QUE NOMBRARON A LOS SEÑORES MILCÍADES ALCÁNTARA A... | [Ver documento](decreto-268-2020.md) | normalizado · pendiente_revision |
-| 269-20 | 21/07/2020 | 10980 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A LA S... | [Ver documento](decreto-269-2020.md) | normalizado · pendiente_revision |
-| 270-20 | 21/07/2020 | 10980 | QUE APRUEBA EL ESTABLECIMIENTO DEL AEROPUERTO INTERNACIONAL DE BÁVARO, EN EL PARAJE DE TRES PIEZAS, ... | [Ver documento](decreto-270-2020.md) | normalizado · pendiente_revision |
-| 271-20 | 21/07/2020 | 10980 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Ver documento](decreto-271-2020.md) | normalizado · pendiente_revision |
-| 272-20 | 22/07/2020 | 10980 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE VARIOS ASESORES DEL PODER EJECUTIVO Y SECRETARIOS DE ESTADO SIN... | [Ver documento](decreto-272-2020.md) | normalizado · pendiente_revision |
-| 273-20 | 22/07/2020 | 10980 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ASÍ COMO DE ... | [Ver documento](decreto-273-2020.md) | normalizado · pendiente_revision |
-| 274-20 | 27/07/2020 | 10980 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR VÍCTOR RAM... | [Ver documento](decreto-274-2020.md) | normalizado · pendiente_revision |
-| 275-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-275-2020.md) | normalizado · pendiente_revision |
-| 276-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-276-2020.md) | normalizado · pendiente_revision |
-| 277-20 | 28/07/2020 | 10981 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-277-2020.md) | normalizado · pendiente_revision |
-| 278-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. MODIFICA EL ARTÍCUL... | [Ver documento](decreto-278-2020.md) | normalizado · pendiente_revision |
-| 279-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-279-2020.md) | normalizado · pendiente_revision |
-| 280-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO AL SERVIDOR PÚB... | [Ver documento](decreto-280-2020.md) | normalizado · pendiente_revision |
-| 281-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-281-2020.md) | normalizado · pendiente_revision |
-| 282-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA SERVIDORA ... | [Ver documento](decreto-282-2020.md) | normalizado · pendiente_revision |
-| 283-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN DEL ESTADO DOMINICANO A LA DRA. SANDR... | [Ver documento](decreto-283-2020.md) | normalizado · pendiente_revision |
-| 284-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A LOS ... | [Ver documento](decreto-284-2020.md) | normalizado · pendiente_revision |
-| 285-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-285-2020.md) | normalizado · pendiente_revision |
-| 286-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A VARIOS EMPLEADO... | [Ver documento](decreto-286-2020.md) | normalizado · pendiente_revision |
-| 287-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES ESPECIALES DEL ESTADO DOMINICANO A VARI... | [Ver documento](decreto-287-2020.md) | normalizado · pendiente_revision |
-| 288-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO A VARIOS ENVEJECI... | [Ver documento](decreto-288-2020.md) | normalizado · pendiente_revision |
-| 289-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO POR ANTIGÜEDAD EN... | [Ver documento](decreto-289-2020.md) | normalizado · pendiente_revision |
-| 290-20 | 28/07/2020 | 10981 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ELEVA EL MONTO DE PENSIONES OTORGADAS POR EL ESTADO DOMI... | [Ver documento](decreto-290-2020.md) | normalizado · pendiente_revision |
-| 291-20 | 31/07/2020 | 10982 | QUE ESTABLECE EL REGLAMENTO PARA LA ELECCIÓN DE LOS MIEMBROS DEL PLENO Y LA COMISIÓN EJECUTIVA DEL C... | [Ver documento](decreto-291-2020.md) | normalizado · pendiente_revision |
-| 292-20 | 31/07/2020 | 10982 | QUE ESTABLECE EL REGLAMENTO DEL SERVICIO PÚBLICO DE TRANSPORTE TERRESTRE DE PASAJEROS URBANO | [Ver documento](decreto-292-2020.md) | normalizado · pendiente_revision |
-| 294-20 | 03/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-294-2020.md) | normalizado · pendiente_revision |
-| 295-20 | 03/08/2020 | 10983 | QUE DEROGA LOS ARTÍCULOS 3 DEL DEC. NO. 648-08 Y 4 DEL DEC. NO. 426-09, QUE DESIGNARON A LOS SEÑORES... | [Ver documento](decreto-295-2020.md) | normalizado · pendiente_revision |
-| 296-20 | 04/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-296-2020.md) | normalizado · pendiente_revision |
-| 297-20 | 07/08/2020 | 10983 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR FRANCISCO ... | [Ver documento](decreto-297-2020.md) | normalizado · pendiente_revision |
-| 298-20 | 08/08/2020 | 10983 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTICINCO (25) DÍAS A PARTIR DEL DOM... | [Ver documento](decreto-298-2020.md) | normalizado · pendiente_revision |
-| 299-20 | 10/08/2020 | 10983 | QUE DESIGNA A SU EXCELENCIA REVERENDÍSIMA MONSEÑOR FRANCISCO OZORIA ACOSTA, MAYOR GENERAL CAPELLÁN C... | [Ver documento](decreto-299-2020.md) | normalizado · pendiente_revision |
-| 300-20 | 10/08/2020 | 10983 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, AL SEÑOR LUIS ROLAN... | [Ver documento](decreto-300-2020.md) | normalizado · pendiente_revision |
-| 301-20 | 10/08/2020 | 10983 | QUE DEROGA EL DEC. NO. 283-17, QUE NOMBRÓ A LA SEÑORA MARIA DE LOS ÁNGELES GARCÍA, EMBAJADORA HONORI... | [Ver documento](decreto-301-2020.md) | normalizado · pendiente_revision |
-| 302-20 | 10/08/2020 | 10983 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 339-16, QUE DESIGNÓ A LA SEÑORA PASTORA LILLIE BERMÚDEZ IBARRA... | [Ver documento](decreto-302-2020.md) | normalizado · pendiente_revision |
-| 303-20 | 10/08/2020 | EN TRAMITE DE PUBLICACION EN GACETA OFICIAL | QUE DISPONE LA ENTREGA EN EXTRADICION A LOS ESTADOS UNIDOS DE AMERICA DEL NACIONAL DOMINICANO JOSE F... | [Ver registro](decreto-303-2020.md) · [Fuente 3396074](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3396074&managementType=1) | pendiente_encontrar_pdf · pendiente_revision |
-| 304-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO KELVI... | [Ver documento](decreto-304-2020.md) | normalizado · pendiente_revision |
-| 305-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO CÉSAR... | [Ver documento](decreto-305-2020.md) | normalizado · pendiente_revision |
-| 306-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Ver documento](decreto-306-2020.md) | normalizado · pendiente_revision |
-| 307-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO RAMÓN... | [Ver documento](decreto-307-2020.md) | normalizado · pendiente_revision |
-| 308-20 | 10/08/2020 | 10983 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO OSCAR... | [Ver documento](decreto-308-2020.md) | normalizado · pendiente_revision |
-| 309-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-309-2020.md) | normalizado · pendiente_revision |
-| 310-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-310-2020.md) | normalizado · pendiente_revision |
-| 311-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-311-2020.md) | normalizado · pendiente_revision |
-| 312-20 | 12/08/2020 | 10983 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-312-2020.md) | normalizado · pendiente_revision |
-| 313-20 | 12/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS | [Ver documento](decreto-313-2020.md) | normalizado · pendiente_revision |
-| 314-20 | 12/08/2020 | 10983 | QUE CONCEDE EL BENEFICIO DE LA INCORPORACIÓN A VARIAS ASOCIACIONES COOPERATIVAS. | [Ver documento](decreto-314-2020.md) | normalizado · pendiente_revision |
-| 315-20 | 12/08/2020 | 10983 | QUE INSTRUYE AL MINISTERIO DE MEDIO AMBIENTE Y RECURSOS NATURALES, REVOCAR Y DEJAR SIN EFECTO EL PER... | [Ver documento](decreto-315-2020.md) | normalizado · pendiente_revision |
-| 316-20 | 13/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO MILITAR CON DISTINTIVO BLANCO, EN PRIMERA CLASE ... | [Ver documento](decreto-316-2020.md) | normalizado · pendiente_revision |
-| 317-20 | 13/08/2020 | 10983 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO AÉREO, CON DISTINTIVO BLANCO, EN PRIMERA Y SEGUN... | [Ver documento](decreto-317-2020.md) | normalizado · pendiente_revision |
-| 318-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL TENIENTE... | [Ver documento](decreto-318-2020.md) | normalizado · pendiente_revision |
-| 319-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE LAS PENSIONES CORRESPONDIENTES, POR ANTIGÜEDAD EN... | [Ver documento](decreto-319-2020.md) | normalizado · pendiente_revision |
-| 320-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL GENERAL DE BRIGADA ABOGADO JUAN MANUEL MÉNDEZ GARCÍA, ERD., DIRECTOR DEL CENTRO DE O... | [Ver documento](decreto-320-2020.md) | normalizado · pendiente_revision |
-| 321-20 | 14/08/2020 | 10983 | QUE ASCIENDE A LA CONTRALMIRANTE MAYRA ALICIA DIAZ MARTINEZ, AL RANGO DE VICEALMIRANTE, ARD; A LOS C... | [Ver documento](decreto-321-2020.md) | normalizado · pendiente_revision |
-| 322-20 | 14/08/2020 | 10983 | QUE ASCIENDE AL CORONEL FIDEL AUGUSTO CALCAÑO PAULINO, ERD Y AL CORONEL RIGOBERTO DE LOS SANTOS GUER... | [Ver documento](decreto-322-2020.md) | normalizado · pendiente_revision |
-| 323-20 | 14/08/2020 | 10983 | QUE COLOCA EN SITUACIÓN DE RETIRO, CON DISFRUTE DE PENSIÓN POR ANTIGÜEDAD EN EL SERVICIO, AL MAYOR G... | [Ver documento](decreto-323-2020.md) | normalizado con alerta de fecha · pendiente_revision |
-| 324-20 | 16/08/2020 | 10986 | QUE INTEGRA EL GABINETE DEL GOBIERNO CENTRAL Y NOMBRA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL EST... | [Ver documento](decreto-324-2020.md) | normalizado · pendiente_revision |
-| 325-20 | 16/08/2020 | 10986 | QUE NOMBRA A LA SEÑORA MILAGROS ORTIZ BOSCH, ASESORA DEL PODER EJECUTIVO EN MATERIA DE ÉTICA, TRANSP... | [Ver documento](decreto-325-2020.md) | normalizado · pendiente_revision |
-| 326-20 | 16/08/2020 | 10986 | QUE NOMBRA TRES (3) VICEMINISTROS DE DEFENSA, A LOS COMANDANTES Y SUBCOMANDANTES DEL EJÉRCITO Y DE L... | [Ver documento](decreto-326-2020.md) | normalizado · pendiente_revision |
-| 327-20 | 16/08/2020 | 10986 | QUE NOMBRA A LUIS SOTO, DIRECTOR DEL DEPARTAMENTO NACIONAL DE INVESTIGACIONES. | [Ver documento](decreto-327-2020.md) | normalizado · pendiente_revision |
-| 328-20 | 16/08/2020 | 10986 | QUE CREA LA SECRETARIA GENERAL DEL GABINETE DEL PRESIDENTE DE LA REPÚBLICA. DESIGNA A EILYN BELTRÁN ... | [Ver documento](decreto-328-2020.md) | normalizado · pendiente_revision |
-| 329-20 | 16/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-329-2020.md) | normalizado · pendiente_revision |
-| 330-20 | 16/08/2020 | 10986 | QUE NOMBRA CINCUENTA Y SIETE (57) VICEMINISTROS EN DISTINTOS MINISTERIOS. | [Ver documento](decreto-330-2020.md) | normalizado · pendiente_revision |
-| 331-20 | 16/08/2020 | 10986 | NOMBRA A FRANCISCO ANTONIO PEÑA GUABA, COORDINADOR DEL GABINETE DE POLÍTICAS SOCIALES, Y A GLORIA R.... | [Ver documento](decreto-331-2020.md) | normalizado · pendiente_revision |
-| 332-20 | 16/08/2020 | 10986 | QUE DESIGNA A PEDRO SILVERIO ÁLVAREZ, JOEL SANTOS ECHAVARRÍA, LUIS AMAURY SÁNCHEZ LEMBERT, JOSÉ DANI... | [Ver documento](decreto-332-2020.md) | normalizado · pendiente_revision |
-| 333-20 | 16/08/2020 | 10986 | QUE NOMBRA A RAFAEL SUÁREZ, EDWIN ACOSTA, EMILIO RODRÍGUEZ, YENI BERENICE REYNOSO, MÁRTIREZ CIRILO Q... | [Ver documento](decreto-333-2020.md) | normalizado · pendiente_revision |
-| 334-20 | 16/08/2020 | 10986 | QUE DESIGNA A SAMUEL PEREYRA ROJAS, ADMINISTRADOR GENERAL DEL BANCO DE RESERVAS DE LA REPÚBLICA DOMI... | [Ver documento](decreto-334-2020.md) | normalizado · pendiente_revision |
-| 335-20 | 16/08/2020 | 10986 | QUE DEROGA EL DEC. NO. 236-15, QUE DESIGNÓ A HORACIO EMILIO MAZARA LUGO, DIRECTOR EJECUTIVO DEL INST... | [Ver documento](decreto-335-2020.md) | normalizado · pendiente_revision |
-| 336-20 | 16/08/2020 | 10986 | QUE NOMBRA A HOMERO ARGEL FIGUEROA GÜÍLAMO, DIRECTOR DE INFORMACIÓN, ANÁLISIS Y PROGRAMACIÓN ESTRATÉ... | [Ver documento](decreto-336-2020.md) | normalizado · pendiente_revision |
-| 337-20 | 16/08/2020 | 10986 | QUE NOMBRA A MONSEÑOR AGRIPINO NÚÑEZ COLLADO, ASESOR HONORÍFICO DEL PODER EJECUTIVO. | [Ver documento](decreto-337-2020.md) | normalizado · pendiente_revision |
-| 338-20 | 16/08/2020 | 10986 | QUE MODIFICA LOS ARTÍCULOS 2, 3 Y 4 DEL DEC. NO. 201-14, QUE DECLARA DE ALTA PRIORIDAD DEL GOBIERNO ... | [Ver documento](decreto-338-2020.md) | normalizado · pendiente_revision |
-| 339-20 | 16/08/2020 | 10986 | QUE DESIGNA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-339-2020.md) | normalizado · pendiente_revision |
-| 340-20 | 16/08/2020 | 10986 | QUE NOMBRA VEINTISIETE (27) GOBERNADORAS CIVILES EN VARIAS PROVINCIAS DEL PAÍS. | [Ver documento](decreto-340-2020.md) | normalizado · pendiente_revision |
-| 341-20 | 16/08/2020 | 10986 | QUE MODIFICA EL DEC. NO. 287-08, QUE ESTABLECIÓ EL REGLAMENTO DE LA CONSULTORÍA JURÍDICA DEL PODER E... | [Ver documento](decreto-341-2020.md) | normalizado · pendiente_revision |
-| 342-20 | 16/08/2020 | 10986 | QUE DECLARA DE ALTO INTERÉS NACIONAL LA LIQUIDACIÓN DE LA CORPORACIÓN DOMINICANA DE EMPRESAS ELÉCTRI... | [Ver documento](decreto-342-2020.md) | normalizado · pendiente_revision |
-| 343-20 | 16/08/2020 | 10986 | QUE DESIGNA A TOMÁS OZUNA TAPIA, ANDRÉS CUETO ROSARIO Y MILTON TEÓFILO MORRISON RAMÍREZ, GERENTES GE... | [Ver documento](decreto-343-2020.md) | normalizado · pendiente_revision |
-| 344-20 | 16/08/2020 | 10986 | QUE NOMBRA A MERCEDES PICHARDO PÉREZ, ASISTENTE PERSONAL DEL PRESIDENTE DE LA REPÚBLICA. | [Ver documento](decreto-344-2020.md) | normalizado · pendiente_revision |
-| 345-20 | 16/08/2020 | 10986 | QUE NOMBRA A CÉSAR CEDEÑO, DIRECTOR GENERAL DE BIENES NACIONALES, Y DIRECTOR HONORIFICO DEL CONSEJO ... | [Ver documento](decreto-345-2020.md) | normalizado · pendiente_revision |
-| 346-20 | 16/08/2020 | 10986 | QUE DESIGNA A JUAN FORTUNATO MUBARAK PÉREZ, DIRECTOR NACIONAL DE PATRIMONIO MONUMENTAL. | [Ver documento](decreto-346-2020.md) | normalizado · pendiente_revision |
-| 347-20 | 16/08/2020 | 10986 | QUE NOMBRA AL GENERAL DE BRIGADA VICENTE MOTA MEDINA, ERD, DIRECTOR EJECUTIVO DEL SISTEMA NACIONAL D... | [Ver documento](decreto-347-2020.md) | normalizado · pendiente_revision |
-| 348-20 | 17/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. DEROGA EL ARTÍCULO 18 DEL DEC. NO. 33... | [Ver documento](decreto-348-2020.md) | normalizado · pendiente_revision |
-| 349-20 | 17/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-349-2020.md) | normalizado · pendiente_revision |
-| 350-20 | 17/08/2020 | 10986 | QUE NOMBRA A FELIPE ANTONIO SUBERVÍ HERNÁNDEZ, DIRECTOR GENERAL DE LA CORPORACIÓN DEL ACUEDUCTO Y AL... | [Ver documento](decreto-350-2020.md) | normalizado · pendiente_revision |
-| 351-20 | 17/08/2020 | 10986 | QUE DESIGNA A SERAFIN CANARIO DE LA ROSA, ADMINISTRADOR GENERAL DE LA CENTRAL TERMOELÉCTRICA PUNTA C... | [Ver documento](decreto-351-2020.md) | normalizado · pendiente_revision |
-| 352-20 | 17/08/2020 | 10986 | QUE DESIGNA TRES (3) VICEMINISTROS Y TRES (3) ASESORES EN EL MINISTERIO DE TURISMO. DEROGA LOS ARTÍC... | [Ver documento](decreto-352-2020.md) | normalizado · pendiente_revision |
-| 353-20 | 17/08/2020 | 10986 | QUE NOMBRA A NOELIA EULALIA DEL CORAZÓN DE JESÚS SHEPHARD DE BENCOSME, SUBDIRECTORA DEL DESPACHO PRE... | [Ver documento](decreto-353-2020.md) | normalizado · pendiente_revision |
-| 354-20 | 17/08/2020 | 10986 | QUE DESIGNA VARIOS VICEMINISTROS Y FUNCIONARIOS EN DISTINTOS MINISTERIOS Y LOS CÓNSULES GENERALES DE... | [Ver documento](decreto-354-2020.md) | normalizado · pendiente_revision |
-| 355-20 | 17/08/2020 | 10986 | QUE DESIGNA A EDWARD RAFAEL GUZMÁN PADILLA, IVELISSE V. ACOSTA REYES, JOSÉ ANTONIO MATOS PÉREZ, FERN... | [Ver documento](decreto-355-2020.md) | normalizado · pendiente_revision |
-| 356-20 | 19/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-356-2020.md) | normalizado · pendiente_revision |
-| 357-20 | 19/08/2020 | 10986 | QUE CONFIRMA A CLARISSA DE LA ROCHA, COMO VICEGOBERNADORA DEL BANCO CENTRAL DE LA REPÚBLICA DOMINICA... | [Ver documento](decreto-357-2020.md) | normalizado · pendiente_revision |
-| 358-20 | 19/08/2020 | 10986 | QUE EXTIENDE LA VIGENCIA DE LOS PROGRAMAS FASE I, FASE II, QUÉDATE EN CASA Y PA’TI, HASTA EL 31 DE D... | [Ver documento](decreto-358-2020.md) | normalizado · pendiente_revision |
-| 359-20 | 19/08/2020 | 10986 | QUE ASCIENDE AL CAPITÁN DE NAVÍO JUAN CÁNDIDO PEÑA OGANDO AL RANGO DE CONTRALMIRANTE ARD., Y AL CORO... | [Ver documento](decreto-359-2020.md) | normalizado · pendiente_revision |
-| 360-20 | 19/08/2020 | 10986 | QUE ASCIENDE AL CAPITÁN DE NAVÍO JOSÉ MANUEL CABRERA ULLOA AL RANGO CONTRALMIRANTE ARD., Y LO DESIGN... | [Ver documento](decreto-360-2020.md) | normalizado · pendiente_revision |
-| 361-20 | 19/08/2020 | 10986 | QUE DESIGNA A HÉCTOR RADHAMÉS GONZÁLEZ MEDINA, PERSIO CÁNDIDO CRUZ PICHARDO, ARISMENDY DE JESÚS ALMO... | [Ver documento](decreto-361-2020.md) | normalizado · pendiente_revision |
-| 362-20 | 19/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON UNA CONSEJERA Y EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIA... | [Ver documento](decreto-362-2020.md) | normalizado · pendiente_revision |
-| 363-20 | 19/08/2020 | 10986 | QUE DESIGNA EMBAJADORES REPRESENTANTES PERMANENTES Y ALTERNOS DE LA REPÚBLICA DOMINICANA ANTE LA ORG... | [Ver documento](decreto-363-2020.md) | normalizado · pendiente_revision |
-| 364-20 | 19/08/2020 | 10986 | QUE NOMBRA A VARIOS VICEMINISTROS EN EL MINISTERIO DE EDUCACIÓN SUPERIOR, CIENCIA Y TECNOLOGÍA. DERO... | [Ver documento](decreto-364-2020.md) | normalizado · pendiente_revision |
-| 365-20 | 19/08/2020 | 10986 | QUE DESIGNA A FERNANDO ANTONIO CRUZ, JOSÉ MODESTO YOVANI CRUZ DURÁN Y YAMAL NASSER MICHELÉN STEFAN, ... | [Ver documento](decreto-365-2020.md) | normalizado · pendiente_revision |
-| 366-20 | 20/08/2020 | 10986 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO Y DEROGA LOS ... | [Ver documento](decreto-366-2020.md) | normalizado · pendiente_revision |
-| 367-20 | 20/08/2020 | 10986 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 302-14, QUE DESIGNÓ AL GENERAL DE BRIGADA ARACENIS CASTILLO DE... | [Ver documento](decreto-367-2020.md) | normalizado · pendiente_revision |
-| 368-20 | 20/08/2020 | 10986 | QUE DISUELVE EL DESPACHO DE LA PRIMERA DAMA. TRANSFIERE AL MINISTERIO DE SALUD PÚBLICA Y ASISTENCIA ... | [Ver documento](decreto-368-2020.md) | normalizado · pendiente_revision |
-| 369-20 | 20/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE SEIS (6) SUBADMINISTRADORES DEL BANCO AGRÍCOLA DE LA REPÚBL... | [Ver documento](decreto-369-2020.md) | normalizado · pendiente_revision |
-| 370-20 | 20/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO Y DEJA SIN EFECTO LOS DECRETOS QUE NOM... | [Ver documento](decreto-370-2020.md) | normalizado · pendiente_revision |
-| 371-20 | 20/08/2020 | 10986 | NOMBRA A RAFAEL ANTONIO SANTOS PÉREZ, DIRECTOR EJECUTIVO DE LA OFICINA PARA EL REORDENAMIENTO DEL TR... | [Ver documento](decreto-371-2020.md) | normalizado · pendiente_revision |
-| 372-20 | 20/08/2020 | 10986 | QUE ASCIENDE A LOS CORONELES CÉSAR AUGUSTO MIRANDA MAÑÓN Y JORGE LUIS MOREL DE DIOS, E.R.D., AL RANG... | [Ver documento](decreto-372-2020.md) | normalizado · pendiente_revision |
-| 373-20 | 21/08/2020 | 10986 | QUE DESIGNA VOCALES MIEMBROS Y VOCALES SUPLENTES DEL CONSEJO DE DIRECTORES DEL BANCO DE RESERVAS DE ... | [Ver documento](decreto-373-2020.md) | normalizado · pendiente_revision |
-| 374-20 | 21/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. MODIFICA LOS ARTÍCULOS 1 Y 14 DEL DEC... | [Ver documento](decreto-374-2020.md) | normalizado · pendiente_revision |
-| 375-20 | 21/08/2020 | 10986 | QUE INTEGRA EL CONSEJO UNIFICADO DE LAS EMPRESAS DISTRIBUIDORAS DE ELECTRICIDAD, CREADO MEDIANTE DEC... | [Ver documento](decreto-375-2020.md) | normalizado · pendiente_revision |
-| 376-20 | 21/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO, ASÍ COMO EN... | [Ver documento](decreto-376-2020.md) | normalizado · pendiente_revision |
-| 377-20 | 21/08/2020 | 10986 | QUE NOMBRA A SANTIAGO HAZIM, DIRECTOR EJECUTIVO DEL SEGURO NACIONAL DE SALUD. | [Ver documento](decreto-377-2020.md) | normalizado · pendiente_revision |
-| 378-20 | 21/08/2020 | 10986 | QUE DESIGNA A MARIO LAMA OLIVERO, DIRECTOR EJECUTIVO DEL SERVICIO NACIONAL DE SALUD. | [Ver documento](decreto-378-2020.md) | normalizado · pendiente_revision |
-| 379-20 | 21/08/2020 | 10986 | QUE NOMBRA A RAFAEL EVARISTO SANTOS BADIA, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE FORMACIÓN TÉCN... | [Ver documento](decreto-379-2020.md) | normalizado · pendiente_revision |
-| 380-20 | 21/08/2020 | 10986 | QUE AGREGA UN NUMERAL 11 AL ARTÍCULO 4 DEL DEC. NO. 266-20. DISPONE LA CIRCULACIÓN HASTA LAS 11:00 P... | [Ver documento](decreto-380-2020.md) | normalizado · pendiente_revision |
-| 381-20 | 22/08/2020 | 10986 | QUE DEROGA LOS ARTÍCULOS 4, 5 Y 6 DEL DEC. NO. 538-12, QUE DESIGNARON A ELSO MARTÍNEZ, JULIO CANELO ... | [Ver documento](decreto-381-2020.md) | normalizado · pendiente_revision |
-| 382-20 | 22/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON PROCURADORES GENERALES ADJUNTOS EN LA PROCURADURÍA GENERAL DE ... | [Ver documento](decreto-382-2020.md) | normalizado · pendiente_revision |
-| 383-20 | 22/08/2020 | 10986 | QUE DESIGNA VICEMINISTROS EN LOS MINISTERIOS DE LA MUJER, DE DEPORTES Y RECREACIÓN, Y DE INDUSTRIA, ... | [Ver documento](decreto-383-2020.md) | normalizado · pendiente_revision |
-| 384-20 | 22/08/2020 | 10986 | QUE NOMBRA A LUIS JOSÉ CHÁVEZ CASTELLANOS, ASESOR DEL INSTITUTO DOMINICANO DE AVIACIÓN CIVIL. | [Ver documento](decreto-384-2020.md) | normalizado · pendiente_revision |
-| 385-20 | 22/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE VARIOS FUNCIONARIOS EN EL INSTITUTO DOMINICANO DE AVIACIÓN ... | [Ver documento](decreto-385-2020.md) | normalizado · pendiente_revision |
-| 386-20 | 23/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS SUBDIRECTORES Y OTROS FUNCIONARIOS EN LA AUTORIDAD PORT... | [Ver documento](decreto-386-2020.md) | normalizado · pendiente_revision |
-| 387-20 | 23/08/2020 | 10986 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS SUBADMINISTRADORES Y SUBDIRECTORES EN LOS COMEDORES ECO... | [Ver documento](decreto-387-2020.md) | normalizado · pendiente_revision |
-| 388-20 | 23/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-388-2020.md) | normalizado · pendiente_revision |
-| 389-20 | 24/08/2020 | 10986 | QUE MODIFICA EL DEC. NO. 491-12, QUE CREA LA DIRECCIÓN GENERAL DE PROGRAMAS ESPECIALES DE LA PRESIDE... | [Ver documento](decreto-389-2020.md) | normalizado · pendiente_revision |
-| 390-20 | 24/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-390-2020.md) | normalizado · pendiente_revision |
-| 391-20 | 24/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN LA CORPORACIÓN DE FOMENTO DE LA INDUSTRIA H... | [Ver documento](decreto-391-2020.md) | normalizado · pendiente_revision |
-| 392-20 | 24/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-392-2020.md) | normalizado · pendiente_revision |
-| 393-20 | 25/08/2020 | 10986 | QUE DESIGNA A RAFAEL DAMARES TORIBIO DOMÍNGUEZ, PRESIDENTE DEL PLENO DEL CONSEJO ECONÓMICO Y SOCIAL.... | [Ver documento](decreto-393-2020.md) | normalizado · pendiente_revision |
-| 394-20 | 25/08/2020 | 10986 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 519-12, QUE NOMBRÓ A JESÚS FÉLIZ, VICEMINISTRO DE MONITOREO DE... | [Ver documento](decreto-394-2020.md) | normalizado · pendiente_revision |
-| 395-20 | 25/08/2020 | 10986 | QUE DESIGNA A GEORGE ROBLES RODRÍGUEZ, ASESOR DEL MINISTERIO DE RELACIONES EXTERIORES, PARA TEMAS DE... | [Ver documento](decreto-395-2020.md) | normalizado · pendiente_revision |
-| 396-20 | 25/08/2020 | 10986 | QUE NOMBRA A ERIC ANTONIO RIVERO MARTIN, ASESOR EN ASUNTOS AGROPECUARIOS DEL PODER EJECUTIVO. | [Ver documento](decreto-396-2020.md) | normalizado · pendiente_revision |
-| 397-20 | 26/08/2020 | 10986 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN LA LOTERÍA NACIONAL, DIRECCIÓN GENERA... | [Ver documento](decreto-397-2020.md) | normalizado · pendiente_revision |
-| 398-20 | 26/08/2020 | 10986 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO A ERAS... | [Ver documento](decreto-398-2020.md) | normalizado · pendiente_revision |
-| 399-20 | 26/08/2020 | 10986 | QUE DESIGNA A CECILIO ANTONIO RODRÍGUEZ MONTÁS, DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE BIENEST... | [Ver documento](decreto-399-2020.md) | normalizado · pendiente_revision |
-| 400-20 | 26/08/2020 | 10986 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON SUBDIRECTORES Y DIRECTORES EN EL INSTITUTO AGRARIO DOMINICA... | [Ver documento](decreto-400-2020.md) | normalizado · pendiente_revision |
-| 401-20 | 27/08/2020 | 10986 | QUE DECLARA DE EMERGENCIA LAS COMPRAS Y CONTRATACIONES PARA LA ADQUISICIÓN DE INSUMOS Y MEDICAMENTOS... | [Ver documento](decreto-401-2020.md) | normalizado · pendiente_revision |
-| 402-20 | 27/08/2020 | 10986 | QUE DESIGNA A RUBÉN ARTURO SILIÉ VALDEZ, VICEMINISTRO DE RELACIONES EXTERIORES PARA ASUNTOS MULTILAT... | [Ver documento](decreto-402-2020.md) | normalizado · pendiente_revision |
-| 403-20 | 27/08/2020 | 10986 | QUE MODIFICA EL NUMERAL 113 DEL ARTÍCULO 1 DEL DEC. NO. 290-12, QUE MODIFICÓ A SU VEZ EL ARTÍCULO 1 ... | [Ver documento](decreto-403-2020.md) | normalizado · pendiente_revision |
-| 404-20 | 27/08/2020 | 10986 | QUE NOMBRA A HUGO ALBERTO TAVERAS BAUTISTA, PRESIDENTE DE LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARILL... | [Ver documento](decreto-404-2020.md) | normalizado · pendiente_revision |
-| 405-20 | 27/08/2020 | 10986 | QUE NOMBRA A CARLOS ALFREDO FONDEUR VICTORIA, PRESIDENTE DE LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARI... | [Ver documento](decreto-405-2020.md) | normalizado · pendiente_revision |
-| 406-20 | 27/08/2020 | 10986 | QUE CONFIRMA A NASIM ANTONIO YAPOR ALBA, COMO MIEMBRO DE LA JUNTA DE AVIACIÓN CIVIL, EN REPRESENTACI... | [Ver documento](decreto-406-2020.md) | normalizado · pendiente_revision |
-| 407-20 | 27/08/2020 | 10986 | QUE DESIGNA A HÉCTOR ELIE PORCELLA DUMAS, SUBDIRECTOR GENERAL DEL INSTITUTO DOMINICANO DE AVIACIÓN C... | [Ver documento](decreto-407-2020.md) | normalizado · pendiente_revision |
-| 408-20 | 27/08/2020 | 10986 | QUE DESIGNA A FRANCISCO JOSÉ ABREU PEÑA, WILKIN ANTONIO MORENO ABREU, DAVID NELSON BRITO LOZANO, CAR... | [Ver documento](decreto-408-2020.md) | normalizado · pendiente_revision |
-| 409-20 | 27/08/2020 | 10986 | QUE NOMBRA A EFRAÍN BERNARDO TORIBIO MONES, DIRECTOR DEL FONDO ESPECIAL PARA EL DESARROLLO AGROPECUA... | [Ver documento](decreto-409-2020.md) | normalizado · pendiente_revision |
-| 410-20 | 27/08/2020 | 10986 | QUE NOMBRA A PAULA MERCEDES DISLA ACOSTA, PRESIDENTA EJECUTIVA DEL CONSEJO NACIONAL PARA LA NIÑEZ Y ... | [Ver documento](decreto-410-2020.md) | normalizado · pendiente_revision |
-| 411-20 | 27/08/2020 | 10986 | QUE MODIFICA EL ARTÍCULO 4 DEL DEC. NO. 176-13. INTEGRA LA COMISIÓN HÍPICA NACIONAL. NOMBRA A MARIA ... | [Ver documento](decreto-411-2020.md) | normalizado · pendiente_revision |
-| 412-20 | 27/08/2020 | 10986 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 90-15. DESIGNA AL TENIENTE CORONEL JUNIOR AMAURY PEÑA MILANO, ... | [Ver documento](decreto-412-2020.md) | normalizado · pendiente_revision |
-| 413-20 | 27/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-413-2020.md) | normalizado · pendiente_revision |
-| 414-20 | 28/08/2020 | 10986 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO YAMIL... | [Ver documento](decreto-414-2020.md) | normalizado · pendiente_revision |
-| 415-20 | 28/08/2020 | 10986 | QUE MODIFICA EL PÁRRAFO DEL ARTÍCULO 1 Y EL ARTÍCULO 5 DEL DEC. NO. 490-12, QUE CREA LA DIRECCIÓN GE... | [Ver documento](decreto-415-2020.md) | normalizado · pendiente_revision |
-| 416-20 | 28/08/2020 | 10986 | QUE DESIGNA FUNCIONARIOS EN LA CAJA DE AHORROS PARA OBREROS Y MONTE PIEDAD, EN LA COMISIÓN AEROPORTU... | [Ver documento](decreto-416-2020.md) | normalizado · pendiente_revision |
-| 417-20 | 28/08/2020 | 10986 | QUE NOMBRA A DOMINGO ANTONIO DE LOS SANTOS MATEO Y FRANCISCO GUILLERMO GARCÍA GARCÍA, SUBDIRECTOR DE... | [Ver documento](decreto-417-2020.md) | normalizado · pendiente_revision |
-| 418-20 | 28/08/2020 | 10986 | QUE INTEGRA EL CONSEJO DE ADMINISTRACIÓN DE LA EMPRESA DE TRANSMISIÓN ELÉCTRICA DOMINICANA. DEROGA L... | [Ver documento](decreto-418-2020.md) | normalizado · pendiente_revision |
-| 419-20 | 28/08/2020 | 10986 | QUE DESIGNA A MÁXIMO ANTONIO GÓMEZ PEÑA, PEDRO ANTONIO DEL ORBE DEL ORBE, HENRY OSVALDO SARRAFF URBÁ... | [Ver documento](decreto-419-2020.md) | normalizado · pendiente_revision |
-| 420-20 | 28/08/2020 | 10986 | QUE DESIGNA ASESORES, VICEMINISTROS, DIRECTORES Y SUBDIRECTORES EN DISTINTAS DEPENDENCIAS DEL ESTADO... | [Ver documento](decreto-420-2020.md) | normalizado · pendiente_revision |
-| 421-20 | 31/08/2020 | 10986 | QUE NOMBRA A MARTIN AMADO MERCEDES TEJADA Y LUIS EDUARDO VILLAR RODRÍGUEZ, MIEMBROS DEL CONSEJO DE A... | [Ver documento](decreto-421-2020.md) | normalizado · pendiente_revision |
-| 422-20 | 31/08/2020 | 10986 | QUE CREA LA COMISIÓN DE LIQUIDACIÓN DE VARIOS ÓRGANOS DEL ESTADO Y ESTABLECE LAS GENERALIDADES DEL P... | [Ver documento](decreto-422-2020.md) | normalizado · pendiente_revision |
-| 423-20 | 31/08/2020 | 10986 | QUE DESIGNA A DANIEL ANTONIO LIRANZO, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE ZONAS FRANCAS DE EX... | [Ver documento](decreto-423-2020.md) | normalizado · pendiente_revision |
-| 424-20 | 31/08/2020 | 10986 | QUE NOMBRA A PORFIRIO PERALTA, DIRECTOR GENERAL DEL CONSEJO NACIONAL DE PROMOCIÓN Y APOYO A LAS MICR... | [Ver documento](decreto-424-2020.md) | normalizado · pendiente_revision |
-| 425-20 | 31/08/2020 | 10986 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-425-2020.md) | normalizado · pendiente_revision |
-| 426-20 | 31/08/2020 | 10986 | QUE DESIGNA DIRECTORES, SUBDIRECTORES, Y ASESORES EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-426-2020.md) | normalizado · pendiente_revision |
-| 427-20 | 31/08/2020 | 10986 | QUE ASCIENDE AL MAYOR GENERAL CARLOS LUCIANO DÍAZ MORFA, MINISTRO DE DEFENSA, AL RANGO DE TENIENTE G... | [Ver documento](decreto-427-2020.md) | normalizado · pendiente_revision |
-| 428-20 | 31/08/2020 | 10986 | QUE NOMBRA A ANDRÉS RAFAEL MARRANZINI GRULLÓN Y FERNANDO HIRÁM TAVERAS RODRÍGUEZ, MIEMBROS DE LA JUN... | [Ver documento](decreto-428-2020.md) | normalizado · pendiente_revision |
-| 429-20 | 31/08/2020 | 10986 | QUE DESIGNA A ENDRY ANDRÉS GONZÁLEZ Y CARLOS JOSÉ VALDEZ MATOS, ASESORES DE POLÍTICAS PÚBLICAS Y DE ... | [Ver documento](decreto-429-2020.md) | normalizado · pendiente_revision |
-| 430-20 | 01/09/2020 | 10989 | QUE PRORROGA A PARTIR DEL 3 DE SEPTIEMBRE DEL AÑO EN CURSO, POR UN PERIODO DE 45 DÍAS, EL ESTADO DE ... | [Ver documento](decreto-430-2020.md) | normalizado · pendiente_revision |
-| 431-20 | 01/09/2020 | 10989 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL, POR VEINTICINCO (25) DÍAS A PARTIR DEL 3 ... | [Ver documento](decreto-431-2020.md) | normalizado · pendiente_revision |
-| 432-20 | 01/09/2020 | 10989 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-432-2020.md) | normalizado · pendiente_revision |
-| 433-20 | 01/09/2020 | 10989 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN EL DEPARTAMENTO AEROPORTUARIO, INSTIT... | [Ver documento](decreto-433-2020.md) | normalizado · pendiente_revision |
-| 434-20 | 01/09/2020 | 10989 | QUE APRUEBA EL REGLAMENTO DE APLICACIÓN DE LA LEY NO. 47-20 DE ALIANZAS PÚBLICO-PRIVADAS. | [Ver documento](decreto-434-2020.md) | normalizado · pendiente_revision |
-| 435-20 | 01/09/2020 | 10989 | QUE DESIGNA A LOS SEÑORES MANUEL SOMÓN AGRAMONTE, DOLORES NÚÑEZ, AUGUSTO PÉREZ SÁNCHEZ, MARCIA MARGA... | [Ver documento](decreto-435-2020.md) | normalizado · pendiente_revision |
-| 436-20 | 01/09/2020 | 10989 | QUE NOMBRA A ROSALBA MILAGROS PEÑA DE RODRÍGUEZ, GOBERNADORA DE LA PROVINCIA DE DAJABÓN. | [Ver documento](decreto-436-2020.md) | normalizado · pendiente_revision |
-| 437-20 | 02/09/2020 | 10989 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL EST... | [Ver documento](decreto-437-2020.md) | normalizado · pendiente_revision |
-| 438-20 | 02/09/2020 | 10989 | QUE DESIGNA A JOSÉ ULISES RODRÍGUEZ, DIRECTOR GENERAL DEL CENTRO DE DESARROLLO Y COMPETITIVIDAD INDU... | [Ver documento](decreto-438-2020.md) | normalizado · pendiente_revision |
-| 439-20 | 03/09/2020 | 10989 | QUE DESIGNA LOS CÓNSULES GENERALES DE LA REPÚBLICA EN MADRID, ESPAÑA; BOSTON, MASSACHUSSETS; SAN JUA... | [Ver documento](decreto-439-2020.md) | normalizado · pendiente_revision |
-| 440-20 | 03/09/2020 | 10989 | QUE NOMBRA A ROSENDO ARSENIO BORGES RODRÍGUEZ, GERENTE GENERAL DE LA CORPORACIÓN DE FOMENTO DE LA IN... | [Ver documento](decreto-440-2020.md) | normalizado · pendiente_revision |
-| 441-20 | 07/09/2020 | 10989 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 535-08. DESIGNA A JIMMY CONSTANTINO GARCÍA SAVIÑÓN, PRESIDENTE... | [Ver documento](decreto-441-2020.md) | normalizado · pendiente_revision |
-| 442-20 | 07/09/2020 | 10989 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTER... | [Ver documento](decreto-442-2020.md) | normalizado · pendiente_revision |
-| 443-20 | 07/09/2020 | 10989 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 393-10 QUE DESIGNÓ A JUAN ANTONIO MATÍAS, SUBDIRECTOR DEL PROG... | [Ver documento](decreto-443-2020.md) | normalizado · pendiente_revision |
-| 444-20 | 07/09/2020 | 10989 | QUE DESIGNA A FÉLIX JAVIER FÉLIZ, ADOLFO PORTES ALCÁNTARA, YONI ROMÁN MATEO LANTIGUA, DAVID MARTE BA... | [Ver documento](decreto-444-2020.md) | normalizado · pendiente_revision |
-| 445-20 | 07/09/2020 | 10989 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL EST... | [Ver documento](decreto-445-2020.md) | normalizado · pendiente_revision |
-| 446-20 | 07/09/2020 | 10989 | QUE NOMBRA OCHO (8) SUBDIRECTORES EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-446-2020.md) | normalizado · pendiente_revision |
-| 447-20 | 08/09/2020 | 10989 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS SUBADMINISTRADORES Y SUBDIRECTORES EN LA DIREC... | [Ver documento](decreto-447-2020.md) | normalizado · pendiente_revision |
-| 448-20 | 08/09/2020 | 10989 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-448-2020.md) | normalizado · pendiente_revision |
-| 449-20 | 08/09/2020 | 10989 | QUE DESIGNA A FAUSTO DE JESÚS LÓPEZ SOLÍS, DIRECTOR EJECUTIVO DEL INSTITUTO DOMINICANO DE PREVENCIÓN... | [Ver documento](decreto-449-2020.md) | normalizado · pendiente_revision |
-| 450-20 | 08/09/2020 | 10989 | QUE NOMBRA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-450-2020.md) | normalizado · pendiente_revision |
-| 451-20 | 08/09/2020 | 10989 | QUE DESIGNA VARIOS CÓNSULES Y CÓNSULES GENERALES DE LA REPÚBLICA EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-451-2020.md) | normalizado · pendiente_revision |
-| 452-20 | 08/09/2020 | 10989 | QUE INTEGRA EL DIRECTORIO DEL INSTITUTO PARA EL DESARROLLO DEL SUROESTE. NOMBRA A ANTONIO TRINIDAD F... | [Ver documento](decreto-452-2020.md) | normalizado · pendiente_revision |
-| 453-20 | 08/09/2020 | 10989 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 175-05, QUE DESIGNÓ MIEMBROS DEL DIRECTORIO DEL INSTITUTO PARA... | [Ver documento](decreto-453-2020.md) | normalizado · pendiente_revision |
-| 454-20 | 09/09/2020 | 10989 | QUE DESIGNA A JOSÉ GARCÍA RAMÍREZ, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE LA PERSONA ENVEJECIENT... | [Ver documento](decreto-454-2020.md) | normalizado · pendiente_revision |
-| 455-20 | 09/09/2020 | 10989 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-455-2020.md) | normalizado · pendiente_revision |
-| 456-20 | 09/09/2020 | 10989 | QUE DECLARA DE INTERÉS NACIONAL EL APOYO A LA REFORMA PENITENCIARIA ORIENTADA POR EL MODELO DE GESTI... | [Ver documento](decreto-456-2020.md) | normalizado · pendiente_revision |
-| 457-20 | 09/09/2020 | 10989 | QUE NOMBRA A PAUL ALMÁNZAR HUED Y CRISTIANO LORENZO CEBALLOS, DIRECTOR EJECUTIVO DE LA INDUSTRIA NAC... | [Ver documento](decreto-457-2020.md) | normalizado · pendiente_revision |
-| 458-20 | 09/09/2020 | 10989 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 355-17. MODIFICA EL ARTÍCULO 4 DEL DEC. NO. 439-20. DESIGNA A ... | [Ver documento](decreto-458-2020.md) | normalizado · pendiente_revision |
-| 459-20 | 09/09/2020 | 10989 | QUE DEROGA LOS ARTÍCULOS 2, 4, 5, 6 Y 15 DEL DEC. NO. 572-11. DEJA SIN EFECTO EL DEC. NO. 366-05; EL... | [Ver documento](decreto-459-2020.md) | normalizado · pendiente_revision |
-| 460-20 | 09/09/2020 | 10989 | QUE DESIGNA A OTTO MANUEL GÓMEZ SÁNCHEZ, JUAN ALBERTO DURÁN ÁLVAREZ Y OLIVER JOSÉ NAZARIO BRUGAL, CO... | [Ver documento](decreto-460-2020.md) | normalizado · pendiente_revision |
-| 461-20 | 09/09/2020 | 10989 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-461-2020.md) | normalizado · pendiente_revision |
-| 462-20 | 09/09/2020 | 10989 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO ESTADOUNIDENSE M... | [Ver documento](decreto-462-2020.md) | normalizado · pendiente_revision |
-| 463-20 | 11/09/2020 | 10989 | QUE NOMBRA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-463-2020.md) | normalizado · pendiente_revision |
-| 464-20 | 11/09/2020 | 10989 | QUE NOMBRA A ROBERTO JOSÉ SANTANA SÁNCHEZ, ASESOR HONORIFICO DEL PODER EJECUTIVO EN POLÍTICAS DE SEG... | [Ver documento](decreto-464-2020.md) | normalizado · pendiente_revision |
-| 465-20 | 11/09/2020 | 10989 | QUE NOMBRA A EMILIO ALCEDO REYES VARGAS Y JOSÉ AGUSTÍN TAVERAS TAVERAS, ASESORES HONORÍFICOS DEL PRE... | [Ver documento](decreto-465-2020.md) | normalizado · pendiente_revision |
-| 466-20 | 11/09/2020 | 10989 | QUE CREA E INTEGRA LA COMISIÓN MULTISECTORIAL COMO MÁXIMO ÓRGANO DEL ESTADO DOMINICANO RESPONSABLE D... | [Ver documento](decreto-466-2020.md) | normalizado · pendiente_revision |
-| 467-20 | 11/09/2020 | 10989 | QUE DESIGNA A JUAN MALDONADO CASTRO, DIRECTOR EJECUTIVO NACIONAL DE LA DIRECCIÓN GENERAL DE COMUNIDA... | [Ver documento](decreto-467-2020.md) | normalizado · pendiente_revision |
-| 468-20 | 11/09/2020 | 10989 | QUE DISPONE EL INICIO DEL PROCESO DE LIQUIDACIÓN Y CIERRE DEL FONDO DE PROMOCIÓN A LAS INICIATIVAS C... | [Ver documento](decreto-468-2020.md) | normalizado · pendiente_revision |
-| 469-20 | 11/09/2020 | 10989 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 10-17. CREA LA UNIDAD COORDINADORA DE PROYECTOS DE DES... | [Ver documento](decreto-469-2020.md) | normalizado · pendiente_revision |
-| 470-20 | 11/09/2020 | 10989 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE OCHO (8) SUBDIRECTORES DE LA DIRECCIÓN GENERAL DE CATASTRO ... | [Ver documento](decreto-470-2020.md) | normalizado · pendiente_revision |
-| 471-20 | 15/09/2020 | 10989 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 16-17. DISPONE QUE EL PROCESO DE DISOLUCIÓN Y TRANSFERENCIA ... | [Ver documento](decreto-471-2020.md) | normalizado · pendiente_revision |
-| 472-20 | 16/09/2020 | 10990 | QUE DESIGNA A ROBERTO ENRIQUE RUBIO CUNILLERA, VICEMINISTRO DE RELACIONES EXTERIORES, CON RANGO DE E... | [Ver documento](decreto-472-2020.md) | normalizado · pendiente_revision |
-| 473-20 | 16/09/2020 | 10990 | QUE MODIFICA LOS PÁRRAFOS I, II Y V DEL ARTÍCULO 1 DEL DEC. NO. 422-20 Y AGREGA EL PÁRRAFO VI AL CIT... | [Ver documento](decreto-473-2020.md) | normalizado · pendiente_revision |
-| 474-20 | 16/09/2020 | 10990 | QUE INTEGRA LA COMISIÓN PRESIDENCIAL DE APOYO AL DESARROLLO BARRIAL. NOMBRA A ROLFI DOMINGO ROJAS GU... | [Ver documento](decreto-474-2020.md) | normalizado · pendiente_revision |
-| 475-20 | 16/09/2020 | 10990 | QUE DESIGNA A JUAN ALBERTO MUSTAFA MICHEL, GERENTE GENERAL DEL BANCO NACIONAL DE LAS EXPORTACIONES. ... | [Ver documento](decreto-475-2020.md) | normalizado · pendiente_revision |
-| 476-20 | 16/09/2020 | 10990 | QUE DEROGA LOS ARTÍCULOS 15 Y 16 DEL DEC. NO. 71-19, QUE NOMBRARON REPRESENTANTES DEL FONDO PATRIMON... | [Ver documento](decreto-476-2020.md) | normalizado · pendiente_revision |
-| 477-20 | 18/09/2020 | 10990 | QUE DESIGNA A FÉLIX ARACENA VARGAS Y MARILYN LISSETTE RODRÍGUEZ CASTILLO, GERENTE Y SUBGERENTE GENER... | [Ver documento](decreto-477-2020.md) | normalizado · pendiente_revision |
-| 478-20 | 18/09/2020 | 10990 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN EL INSTITUTO POSTAL DOMINICANO, EN LA OFICINA M... | [Ver documento](decreto-478-2020.md) | normalizado · pendiente_revision |
-| 479-20 | 18/09/2020 | 10990 | QUE DEROGA EL DECRETO NO. 635-09 Y EL ARTÍCULO 5 DEL DEC. NO. 602-12, QUE NOMBRARON FUNCIONARIOS EN ... | [Ver documento](decreto-479-2020.md) | normalizado · pendiente_revision |
-| 480-20 | 18/09/2020 | 10990 | QUE DEROGA EL ARTÍCULO 3 DEL DEC. NO. 477-07, QUE DESIGNÓ AL CORONEL RUBÉN BOLÍVAR PACHECO SANTANA, ... | [Ver documento](decreto-480-2020.md) | normalizado · pendiente_revision |
-| 481-20 | 18/09/2020 | 10990 | QUE NOMBRA A ANDRÉS ESCARRAMÁN HERNÁNDEZ, ASESOR AGROFORESTAL DEL PODER EJECUTIVO. | [Ver documento](decreto-481-2020.md) | normalizado · pendiente_revision |
-| 482-20 | 21/09/2020 | 10990 | QUE DESIGNA MIEMBROS Y SUPLENTES DEL CONSEJO DE LA CORPORACIÓN DE FOMENTO DE LA INDUSTRIA HOTELERA Y... | [Ver documento](decreto-482-2020.md) | normalizado · pendiente_revision |
-| 483-20 | 21/09/2020 | 10990 | QUE DEJA SIN EFECTOS LOS NOMBRAMIENTOS DE VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA REPÚBL... | [Ver documento](decreto-483-2020.md) | normalizado · pendiente_revision |
-| 484-20 | 21/09/2020 | 10990 | QUE NOMBRA LOS CÓNSULES GENERALES Y CÓNSUL DE LA REPUBLICA EN SHANGHÁI, REPÚBLICA POPULAR CHINA, EN ... | [Ver documento](decreto-484-2020.md) | normalizado · pendiente_revision |
-| 485-20 | 21/09/2020 | 10990 | QUE DEROGA LOS DECRETOS QUE DESIGNARON FUNCIONARIOS EN LA DIRECCIÓN GENERAL DE GANADERÍA. | [Ver documento](decreto-485-2020.md) | normalizado · pendiente_revision |
-| 486-20 | 21/09/2020 | 10990 | QUE NOMBRA VARIOS FUNCIONARIOS EN EL PLAN DE ASISTENCIA SOCIAL DE LA PRESIDENCIA, Y A ROLANDO DE JES... | [Ver documento](decreto-486-2020.md) | normalizado · pendiente_revision |
-| 487-20 | 21/09/2020 | 10990 | QUE DESIGNA A RIVERA AMADOR AMADOR Y JOSÉ ANTONIO CEDEÑO DE PEÑA, SUBDIRECTOR GENERAL, Y ADMINISTRAT... | [Ver documento](decreto-487-2020.md) | normalizado · pendiente_revision |
-| 488-20 | 21/09/2020 | 10990 | QUE DEJA SIN EFECTO NOMBRAMIENTOS DE FUNCIONARIOS EN EL MINISTERIO DE EDUCACIÓN Y EN EL FONDO DE PRO... | [Ver documento](decreto-488-2020.md) | normalizado · pendiente_revision |
-| 489-20 | 21/09/2020 | 10990 | QUE DESIGNA CÓNSULES GENERALES DE LA REPUBLICA EN TORONTO, CANADÁ; EN FRANKFURT, ALEMANIA Y EN MARSE... | [Ver documento](decreto-489-2020.md) | normalizado · pendiente_revision |
-| 490-20 | 21/09/2020 | 10990 | QUE ASCIENDE A SEIS (6) CORONELES DE LA POLICÍA NACIONAL, AL RANGO DE GENERAL DE BRIGADA, P.N. ASCIE... | [Ver documento](decreto-490-2020.md) | normalizado · pendiente_revision |
-| 491-20 | 21/09/2020 | 10990 | QUE DEROGA LOS DECRETOS QUE DESIGNARON VARIOS FUNCIONARIOS EN EL INSTITUTO DEL TABACO Y EN LA DIRECC... | [Ver documento](decreto-491-2020.md) | normalizado · pendiente_revision |
-| 492-20 | 21/09/2020 | 10990 | QUE DEROGA LOS DECRETOS QUE DESIGNARON FUNCIONARIOS EN LA OFICINA DE DESARROLLO DE LA COMUNIDAD. | [Ver documento](decreto-492-2020.md) | normalizado · pendiente_revision |
-| 493-20 | 21/09/2020 | 10990 | QUE DEJA SIN EFECTO LOS DECRETOS QUE DESIGNARON FUNCIONARIOS EN EL FONDO ESPECIAL PARA EL DESARROLLO... | [Ver documento](decreto-493-2020.md) | normalizado · pendiente_revision |
-| 494-20 | 21/09/2020 | 10990 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN EL MINISTERIO DE ECONOMÍA, PLANIFICACIÓN Y ... | [Ver documento](decreto-494-2020.md) | normalizado · pendiente_revision |
-| 495-20 | 21/09/2020 | 10990 | QUE NOMBRA A JESÚS DE LOS SANTOS PINEDA Y JUAN HERNÁNDEZ FABIÁN, ASESOR HONORIFICO DE PLANIFICACIÓN ... | [Ver documento](decreto-495-2020.md) | normalizado · pendiente_revision |
-| 496-20 | 23/09/2020 | 10990 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON SUBDIRECTORES EN LA CORPORACIÓN DEL ACUEDUCTO Y ALCANTARILL... | [Ver documento](decreto-496-2020.md) | normalizado · pendiente_revision |
-| 497-20 | 23/09/2020 | 10990 | QUE DEJA SIN EFECTO LOS DECRETOS QUE DESIGNARON VARIOS SUBDIRECTORES EN LA DIRECCIÓN GENERAL DE DESA... | [Ver documento](decreto-497-2020.md) | normalizado · pendiente_revision |
-| 498-20 | 23/09/2020 | 10990 | QUE INSTITUYE DIEZ (10) CONSEJOS CONSULTIVOS BAJO LA DENOMINACIÓN DE GABINETES, DENTRO DE LAS DIRECT... | [Ver documento](decreto-498-2020.md) | normalizado · pendiente_revision |
-| 499-20 | 23/09/2020 | 10990 | QUE DEJA SIN EFECTO LOS ARTÍCULOS 8, 9, 10 Y 11 DEL DEC. NO. 437-20. DEROGA LOS DECRETOS QUE NOMBRAR... | [Ver documento](decreto-499-2020.md) | normalizado · pendiente_revision |
-| 500-20 | 23/09/2020 | 10990 | QUE DESIGNA A LORENZO DAVID RAMÍREZ URIBE Y ÁNGEL DAVID ANTONIO TAVERAS DIFÓ, DIRECTOR GENERAL DEL I... | [Ver documento](decreto-500-2020.md) | normalizado · pendiente_revision |
-| 501-20 | 23/09/2020 | 10990 | QUE NOMBRA A YSIDORO TORRES BELTRÉ Y LÁZARO JOSÉ RICARDO GUZMÁN SUERO, DIRECTOR GENERAL DE LOS CENTR... | [Ver documento](decreto-501-2020.md) | normalizado · pendiente_revision |
-| 502-20 | 23/09/2020 | 10990 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EM ENFERMERÍA Y D... | [Ver documento](decreto-502-2020.md) | normalizado · pendiente_revision |
-| 503-20 | 23/09/2020 | 10990 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-503-2020.md) | normalizado · pendiente_revision |
-| 504-20 | 28/09/2020 | 10990 | QUE ESTABLECE EL TOQUE DE QUEDA EN TODO EL TERRITORIO NACIONAL DE LUNES A VIERNES DE 9:00 P.M. A 5:0... | [Ver documento](decreto-504-2020.md) | normalizado · pendiente_revision |
-| 505-20 | 28/09/2020 | 10990 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS CÓNSULES GENERALES, VICECÓNSULES, AUXILIARES DE CONSULA... | [Ver documento](decreto-505-2020.md) | normalizado · pendiente_revision |
-| 506-20 | 28/09/2020 | 10990 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE VARIOS MINISTROS CONSEJEROS, CONSEJEROS, SECRETARIOS DE EMB... | [Ver documento](decreto-506-2020.md) | normalizado · pendiente_revision |
-| 507-20 | 28/09/2020 | 10990 | QUE MODIFICA EL ARTÍCULO 5 DEL DEC. NO. 2091 DEL 14 DE FEBRERO DE 1968, QUE CREA EL CONSEJO NACIONAL... | [Ver documento](decreto-507-2020.md) | normalizado · pendiente_revision |
-| 508-20 | 28/09/2020 | 10990 | QUE DESIGNA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. DEROGA EL DEC. NO. 605-07. DES... | [Ver documento](decreto-508-2020.md) | normalizado · pendiente_revision |
-| 509-20 | 29/09/2020 | 10990 | QUE DEROGA EL DEC. NO. 128-18 Y EL ARTÍCULO 4 DEL DEC. NO. 485-20. | [Ver documento](decreto-509-2020.md) | normalizado · pendiente_revision |
-| 511-20 | 29/09/2020 | 10990 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS MINISTROS CONSEJEROS, CONSEJEROS, SECRETARIOS ... | [Ver documento](decreto-511-2020.md) | normalizado · pendiente_revision |
-| 512-20 | 29/09/2020 | 10990 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA R... | [Ver documento](decreto-512-2020.md) | normalizado · pendiente_revision |
-| 513-20 | 29/09/2020 | 10990 | QUE MODIFICA EL DEC. NO. 490-12, QUE CREA LA DIRECCIÓN GENERAL DE COMUNICACIONES; EL DEC. 1507 DEL 1... | [Ver documento](decreto-513-2020.md) | normalizado · pendiente_revision |
-| 514-20 | 29/09/2020 | 10990 | QUE DEROGA EL DEC. NO. 250-12. DESIGNA AL DIRECTOR GENERAL, AL PRESIDENTE Y UN MIEMBRO DEL CONSEJO D... | [Ver documento](decreto-514-2020.md) | normalizado · pendiente_revision |
-| 515-20 | 29/09/2020 | 10990 | QUE CREA E INTEGRA EL CONSEJO NACIONAL DE GESTIÓN PRESIDENCIAL DEPENDIENTE DEL DESPACHO DEL PRESIDEN... | [Ver documento](decreto-515-2020.md) | normalizado · pendiente_revision |
-| 516-20 | 29/09/2020 | 10990 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN EL INSTITUTO DE ESTABILIZACIÓN DE PRECIOS. ... | [Ver documento](decreto-516-2020.md) | normalizado · pendiente_revision |
-| 517-20 | 29/09/2020 | 10990 | QUE CONCEDE LA NACIONALIDAD DOMINICANA, A TÍTULO DE NATURALIZACIÓN PRIVILEGIADA, A JOSÉ BONO MARTÍNE... | [Ver documento](decreto-517-2020.md) | normalizado · pendiente_revision |
-| 518-20 | 29/09/2020 | 10990 | QUE NOMBRA A AMBRIORIS BOLÍVAR ROSSIS TEJEDA Y PABLO FRANCISCO DE LA MOTA SANTANA, ASESOR DEL PODER ... | [Ver documento](decreto-518-2020.md) | normalizado · pendiente_revision |
-| 519-20 | 29/09/2020 | 10990 | QUE DEROGA EL DEC. NO. 95-13 Y EL ARTÍCULO 1 DEL DEC. NO. 172-20. | [Ver documento](decreto-519-2020.md) | normalizado · pendiente_revision |
-| 520-20 | 29/09/2020 | 10990 | QUE NOMBRA A MICHEL YOUD EI-HAGE Y GILBERTO REYNOSO SÁNCHEZ, DIRECTOR EJECUTIVO HONORÍFICO DEL GABIN... | [Ver documento](decreto-520-2020.md) | normalizado · pendiente_revision |
-| 521-20 | 29/09/2020 | 10990 | QUE DEROGA LOS DECRETOS NO. 465-11 Y 265-12, QUE CREA E INTEGRA EL CONSEJO DIRECTIVO PARA LA REFORMA... | [Ver documento](decreto-521-2020.md) | normalizado · pendiente_revision |
-| 522-20 | 29/09/2020 | 10990 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO ANGEL... | [Ver documento](decreto-522-2020.md) | normalizado · pendiente_revision |
-| 523-20 | 29/09/2020 | 10990 | QUE AUTORIZA AL SEÑOR HÉCTOR DOMÍNGUEZ, EMBAJADOR DE LA REPÚBLICA EN JAPÓN, A ACEPTAR Y USAR UNA CON... | [Ver documento](decreto-523-2020.md) | normalizado · pendiente_revision |
-| 524-20 | 29/09/2020 | 10990 | QUE ASCIENDE AL CORONEL JOSÉ LUIS FRÓMETA HERASME, A GENERAL DEL CUERPO DE BOMBEROS. DEROGA EL ARTÍC... | [Ver documento](decreto-524-2020.md) | normalizado · pendiente_revision |
-| 525-20 | 30/09/2020 | 10990 | QUE DISPONE LA SUSPENSIÓN PROVISIONAL SIN DISFRUTE DE SUELDO, HASTA TANTO PRESENTEN SU DECLARACIÓN J... | [Ver documento](decreto-525-2020.md) | normalizado · pendiente_revision |
-| 527-20 | 30/09/2020 | 10990 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA EN EL GRADO DE GRAN C... | [Ver documento](decreto-527-2020.md) | normalizado · pendiente_revision |
-| 528-20 | 30/09/2020 | 10990 | QUE NOMBRA LOS EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE LA REPÚBLICA EN ALEMANIA, ISRAEL, ... | [Ver documento](decreto-528-2020.md) | normalizado · pendiente_revision |
-| 529-20 | 30/09/2020 | 10990 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-529-2020.md) | normalizado · pendiente_revision |
-| 530-20 | 01/10/2020 | 10993 | QUE DESIGNA A LISANDRO JOSÉ MACARRULLA TAVÁREZ Y CELSO JOSÉ MARRANZINI PÉREZ, PRESIDENTE Y DIRECTOR ... | [Ver documento](decreto-530-2020.md) | normalizado · pendiente_revision |
-| 531-20 | 01/10/2020 | 10993 | QUE NOMBRA A PETER PRAZMOWSKI, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL DE COMPETITIVIDAD. | [Ver documento](decreto-531-2020.md) | normalizado · pendiente_revision |
-| 532-20 | 01/10/2020 | 10993 | QUE DESIGNA A ARTURO MARTINEZ MOYA Y EDUARDO DE JESÚS TEJERA CURBELO, MIEMBROS DE LA JUNTA MONETARIA... | [Ver documento](decreto-532-2020.md) | normalizado · pendiente_revision |
-| 533-20 | 02/10/2020 | 10993 | QUE NOMBRA FUNCIONARIOS EN EL CONSEJO DEL BANCO NACIONAL DE LAS EXPORTACIONES, EN INSTITUTO NACIONAL... | [Ver documento](decreto-533-2020.md) | normalizado · pendiente_revision |
-| 534-20 | 02/10/2020 | 10993 | QUE DISPONE LA SUSPENSIÓN PROVISIONAL SIN DISFRUTE DE SUELDO HASTA TANTO PRESENTEN SU DECLARACIÓN JU... | [Ver documento](decreto-534-2020.md) | normalizado · pendiente_revision |
-| 536-20 | 06/10/2020 | 10993 | QUE DESIGNA VARIOS FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. | [Ver documento](decreto-536-2020.md) | normalizado · pendiente_revision |
-| 538-20 | 06/10/2020 | 10993 | QUE DESIGNA A JOSÉ EURÍPIDES FLORENTINO RODRÍGUEZ Y JOSEFINA VEGA, PRESIDENTE Y VICEPRESIDENTA DEL C... | [Ver documento](decreto-538-2020.md) | normalizado · pendiente_revision |
-| 539-20 | 07/10/2020 | 10993 | QUE DECLARA DE ALTO INTERÉS NACIONAL EL DERECHO ESENCIAL DE ACCESO UNIVERSAL AL INTERNET DE BANDA AN... | [Ver documento](decreto-539-2020.md) | normalizado · pendiente_revision |
-| 540-20 | 07/10/2020 | 10993 | QUE NOMBRA A BENIGNO ENCARNACIÓN MESA, SUBDIRECTOR EJECUTIVO DEL INSTITUTO DE ESTABILIZACIÓN DE PREC... | [Ver documento](decreto-540-2020.md) | normalizado · pendiente_revision |
-| 541-20 | 09/10/2020 | 10993 | QUE CREA EL SISTEMA NACIONAL DE MEDICIÓN, REPORTE Y VERIFICACIÓN DE LOS GASES DE EFECTO INVERNADERO,... | [Ver documento](decreto-541-2020.md) | normalizado · pendiente_revision |
-| 542-20 | 12/10/2020 | 10993 | QUE DESIGNA A IVÁN TARQUINO VLADIMIR VILORIA PEÑA, PRESIDENTE DEL CONSEJO DE LA CORPORACIÓN DEL ACUE... | [Ver documento](decreto-542-2020.md) | normalizado · pendiente_revision |
-| 543-20 | 12/10/2020 | 10993 | QUE DECLARA DE DUELO OFICIAL EL DÍA 13 DE OCTUBRE DEL PRESENTE AÑO, CON MOTIVO DEL FALLECIMIENTO DE ... | [Ver documento](decreto-543-2020.md) | normalizado · pendiente_revision |
-| 544-20 | 13/10/2020 | 10993 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-544-2020.md) | normalizado · pendiente_revision |
-| 545-20 | 13/10/2020 | 10993 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-545-2020.md) | normalizado · pendiente_revision |
-| 546-20 | 13/10/2020 | 10993 | QUE NOMBRA FUNCIONARIOS EN EL INSTITUTO NACIONAL DE FORMACIÓN Y CAPACITACIÓN DEL MAGISTERIO Y EN OTR... | [Ver documento](decreto-546-2020.md) | normalizado · pendiente_revision |
-| 547-20 | 13/10/2020 | 10993 | QUE DESIGNA NUEVOS MIEMBROS DEL PATRONATO NACIONAL DE GANADEROS. MODIFICA LOS DECS. NOS. 67-88, 534-... | [Ver documento](decreto-547-2020.md) | normalizado · pendiente_revision |
-| 548-20 | 13/10/2020 | 10993 | QUE DESIGNA A LEONARDO DE JESÚS REYES MADERA Y JOSÉ SALVADOR VELÁZQUEZ FERNÁNDEZ, DIRECTOR Y SUBDIRE... | [Ver documento](decreto-548-2020.md) | normalizado · pendiente_revision |
-| 549-20 | 13/10/2020 | 10993 | QUE DEROGA EL NUMERAL 7 DEL ARTÍCULO 1 DEL DEC. NO. 169-14, EL NUMERAL 3 DEL ARTÍCULO 1 DEL DEC. NO.... | [Ver documento](decreto-549-2020.md) | normalizado · pendiente_revision |
-| 550-20 | 13/10/2020 | 10993 | QUE NOMBRA A MAYERLIN R. CORDERO DIAZ Y GUSTAVO ENRIQUE HERNANDO CASTILLO, EMBAJADORES EXTRAORDINARI... | [Ver documento](decreto-550-2020.md) | normalizado · pendiente_revision |
-| 551-20 | 13/10/2020 | 10993 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON VARIOS FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES DE LA R... | [Ver documento](decreto-551-2020.md) | normalizado · pendiente_revision |
-| 553-20 | 15/10/2020 | 10993 | QUE PRORROGA EL ESTADO DE EMERGENCIA EN TODO EL TERRITORIO NACIONAL POR CUARENTICINCO (45) DÍAS MÁS,... | [Ver documento](decreto-553-2020.md) | normalizado · pendiente_revision |
-| 554-20 | 15/10/2020 | 10993 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTICINCO (25) DÍAS A PARTIR DEL 18 ... | [Ver documento](decreto-554-2020.md) | normalizado · pendiente_revision |
-| 555-20 | 15/10/2020 | 10993 | QUE DESIGNA FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO. DEROGA EL ARTÍCULO 17 DEL DEC. NO. 59... | [Ver documento](decreto-555-2020.md) | normalizado · pendiente_revision |
-| 556-20 | 15/10/2020 | 10993 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON UN EMBAJADOR ALTERNO, MINISTROS CONSEJEROS, CONSEJERO... | [Ver documento](decreto-556-2020.md) | normalizado · pendiente_revision |
-| 559-20 | 15/10/2020 | 10993 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VICECÓNSULES, AUXILIARES, CÓNSULES GENERALES, SECRETARIOS, MIN... | [Ver documento](decreto-559-2020.md) | normalizado · pendiente_revision |
-| 560-20 | 15/10/2020 | 10993 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VARIOS CONSEJEROS, SECRETARIOS, MINISTROS CONSEJEROS Y UN AUXI... | [Ver documento](decreto-560-2020.md) | normalizado · pendiente_revision |
-| 561-20 | 15/10/2020 | 10993 | QUE DEROGA LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR... | [Ver documento](decreto-561-2020.md) | normalizado · pendiente_revision |
-| 562-20 | 15/10/2020 | 10993 | QUE DECLARA EL 13 DE ENERO DE CADA AÑO COMO DÍA NACIONAL DEL HISTORIADOR. | [Ver documento](decreto-562-2020.md) | normalizado · pendiente_revision |
-| 563-20 | 15/10/2020 | 10993 | QUE DESIGNA A SATURNINO SILVA JORGE, DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE FORMACIÓN Y CAPACI... | [Ver documento](decreto-563-2020.md) | normalizado · pendiente_revision |
-| 564-20 | 15/10/2020 | 10993 | QUE NOMBRA A LISETTE LIDANIA JIMÉNEZ DE CAMPUSANO, SUBDIRECTORA DEL INSTITUTO DE DESARROLLO Y CRÉDIT... | [Ver documento](decreto-564-2020.md) | normalizado · pendiente_revision |
-| 565-20 | 15/10/2020 | 10993 | QUE DESIGNA A ENGELBERT LANDOLFI HURTS, ASESOR HONORIFICO DEL PRESIDENTE DE LA REPÚBLICA EN MATERIA ... | [Ver documento](decreto-565-2020.md) | normalizado · pendiente_revision |
-| 566-20 | 15/10/2020 | 10993 | QUE DISPONE EL TRASLADO AL PANTEÓN DE LA PATRIA LOS RESTOS MORTALES DE ROSA PROTOMÁRTIR DIEZ. CREA E... | [Ver documento](decreto-566-2020.md) | normalizado · pendiente_revision |
-| 567-20 | 15/10/2020 | 10993 | QUE ESTABLECE LA ZAFRA AZUCARERA DEL PERÍODO 2020-2021 DE LOS INGENIOS DEL PAÍS, LA CUAL COMPRENDERÁ... | [Ver documento](decreto-567-2020.md) | normalizado · pendiente_revision |
-| 568-20 | 15/10/2020 | 10993 | QUE DESIGNA A LOS SEÑORES JULIO CÉSAR GEORGE ENCARNACIÓN, MANUEL MORALES LAMA Y ELVIS ANTONIO ALAM L... | [Ver documento](decreto-568-2020.md) | normalizado · pendiente_revision |
-| 569-20 | 15/10/2020 | 10993 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 104-14, ARTÍCULO 1 NUMERAL 11, LA PARCELA... | [Ver documento](decreto-569-2020.md) | normalizado · pendiente_revision |
-| 570-20 | 15/10/2020 | 10993 | QUE DEROGA LOS DECRETOS QUE NOMBRARON CINCO (5) SUBDIRECTORES EN LA DEFENSA CIVIL. | [Ver documento](decreto-570-2020.md) | normalizado · pendiente_revision |
-| 571-20 | 16/10/2020 | 10994 | QUE DESIGNA A GEORGES BAHSA HAZIM, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA EN EL... | [Ver documento](decreto-571-2020.md) | normalizado · pendiente_revision |
-| 572-20 | 16/10/2020 | 10994 | QUE AMPLÍA LOS INTEGRANTES DE LA COMISIÓN MULTISECTORIAL RESPONSABLE DE LA MARCA PAÍS. | [Ver documento](decreto-572-2020.md) | normalizado · pendiente_revision |
-| 573-20 | 16/10/2020 | 10994 | DESIGNA A SONIA FÉLIZ MEDRANO, DIRECTORA EJECUTIVA DE LA ARS SEMMA. | [Ver documento](decreto-573-2020.md) | normalizado · pendiente_revision |
-| 574-20 | 19/10/2020 | 10994 | QUE NOMBRA A TOMÁS EMILIO DURÁN GARDEN Y EDUARDO PELAGIO ÁLVAREZ HERNÁNDEZ, CÓNSULES GENERALES DE LA... | [Ver documento](decreto-574-2020.md) | normalizado · pendiente_revision |
-| 575-20 | 19/10/2020 | 10994 | QUE DESIGNA A ANTONIO DE JESÚS RODRÍGUEZ TEJADA Y ESCARLYN YAKAIRA BENZÁN, DIRECTOR EJECUTIVO Y SECR... | [Ver documento](decreto-575-2020.md) | normalizado · pendiente_revision |
-| 576-20 | 19/10/2020 | 10994 | QUE DEROGA EL ARTÍCULO 15 DEL DEC. NO. 246-16, QUE DESIGNÓ A RAFAEL GUERRERO PERALTA, PRESIDENTE DEL... | [Ver documento](decreto-576-2020.md) | normalizado · pendiente_revision |
-| 577-20 | 20/10/2020 | 10994 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 572-20, QUE AGREGA NUEVOS INTEGRANTES DEL SECTOR PRIVADO A L... | [Ver documento](decreto-577-2020.md) | normalizado · pendiente_revision |
-| 579-20 | 22/10/2020 | 10994 | QUE NOMBRA VARIOS DIRECTORES Y SUBDIRECTORES EN EL INSTITUTO NACIONAL DE ATENCIÓN INTEGRAL A LA PRIM... | [Ver documento](decreto-579-2020.md) | normalizado · pendiente_revision |
-| 580-20 | 22/10/2020 | 10994 | QUE DESIGNA CÓNSULES GENERALES Y VICECÓNSULES EN SAN MARTIN, GUADALUPE Y EN NEW YORK, ESTADOS UNIDOS... | [Ver documento](decreto-580-2020.md) | normalizado · pendiente_revision |
-| 581-20 | 22/10/2020 | 10994 | QUE DESIGNA A MARIA ISABEL CASTILLO BÁEZ, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA DE LA REPÚBLI... | [Ver documento](decreto-581-2020.md) | normalizado · pendiente_revision |
-| 582-20 | 23/10/2020 | 10994 | QUE DESIGNA A ALBERTO BERA SEVERINO, PRESIDENTE DEL CONSEJO DE DIRECTORES DE LA CORPORACIÓN DEL ACUE... | [Ver documento](decreto-582-2020.md) | normalizado · pendiente_revision |
-| 583-20 | 23/10/2020 | 10994 | QUE DESIGNA AL REV. P. JOSÉ JOAQUÍN DOMÍNGUEZ UREÑA, ENLACE DEL PODER EJECUTIVO CON LA IGLESIA CATÓL... | [Ver documento](decreto-583-2020.md) | normalizado · pendiente_revision |
-| 584-20 | 23/10/2020 | 10994 | QUE DEJA SIN EFECTO VARIOS ARTÍCULOS DE LOS DECRETOS NOS. 483-20, 558-20, 559-20 Y 561-20. DEROGA EL... | [Ver documento](decreto-584-2020.md) | normalizado · pendiente_revision |
-| 585-20 | 23/10/2020 | 10994 | QUE DEROGA LOS DECRETOS QUE NOMBRARON VICECÓNSULES Y AUXILIARES DE CONSULADOS DE LA REPUBLICA EN EL ... | [Ver documento](decreto-585-2020.md) | normalizado · pendiente_revision |
-| 586-20 | 23/10/2020 | 10994 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-586-2020.md) | normalizado · pendiente_revision |
-| 587-20 | 26/10/2020 | 10994 | QUE DEROGA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 1189-04, Y EL DEC. NO. 578-09, QUE DESIGNARON FUNCIONARI... | [Ver documento](decreto-587-2020.md) | normalizado · pendiente_revision |
-| 588-20 | 28/10/2020 | 10994 | QUE DECLARA DE PRIORIDAD NACIONAL LA INDUSTRIALIZACIÓN, CON EL PROPÓSITO DE POTENCIAR LA COMPETITIVI... | [Ver documento](decreto-588-2020.md) | normalizado · pendiente_revision |
-| 589-20 | 02/11/2020 | 10996 | QUE DEROGA VARIOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTER... | [Ver documento](decreto-589-2020.md) | normalizado · pendiente_revision |
-| 590-20 | 02/11/2020 | 10996 | QUE DESIGNA FUNCIONARIOS EN LA JUNTA DIRECTIVA DE LA CAJA DE AHORROS PARA OBREROS Y MONTE PIEDAD. DE... | [Ver documento](decreto-590-2020.md) | normalizado · pendiente_revision |
-| 591-20 | 02/11/2020 | 10996 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE FUNCIONARIOS EN DISTINTAS DEPENDENCIAS DEL ESTADO Y ASESORE... | [Ver documento](decreto-591-2020.md) | normalizado · pendiente_revision |
-| 592-20 | 02/11/2020 | 10996 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-592-2020.md) | normalizado · pendiente_revision |
-| 593-20 | 02/11/2020 | 10996 | QUE NOMBRA A RAFAEL ENRIQUE GONZÁLEZ CRUZ, DIRECTOR EJECUTIVO DEL CONSEJO NACIONAL PARA EL VIH Y EL ... | [Ver documento](decreto-593-2020.md) | normalizado · pendiente_revision |
-| 594-20 | 02/11/2020 | 10996 | QUE DESIGNA A HENRY ERNESTO VERAS PÉREZ, ASESOR ECLESIÁSTICO DEL PODER EJECUTIVO. | [Ver documento](decreto-594-2020.md) | normalizado · pendiente_revision |
-| 595-20 | 02/11/2020 | 10996 | QUE NOMBRA A PRIAMO RAFAEL RAMÍREZ UBIERA E HILDA PATRICIA SAN MARTIN POLANCO MORALES, MIEMBROS DEL ... | [Ver documento](decreto-595-2020.md) | normalizado · pendiente_revision |
-| 596-20 | 02/11/2020 | 10996 | QUE DESIGNA A NURYS GONZÁLEZ SÁNCHEZ, SUBDIRECTORA DEL JARDÍN BOTÁNICO NACIONAL “DR. RAFAEL MARIA TR... | [Ver documento](decreto-596-2020.md) | normalizado · pendiente_revision |
-| 597-20 | 02/11/2020 | 10996 | QUE NOMBRA A HÉCTOR VIRGILIO ALCÁNTARA, ROBERTO MARCALLÉ ABREU, IVÁN EMILIO DE JESÚS OGANDO LORA Y P... | [Ver documento](decreto-597-2020.md) | normalizado · pendiente_revision |
-| 598-20 | 02/11/2020 | 10996 | QUE DESIGNA FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. DEROGA LOS ARTÍCULOS 4 D... | [Ver documento](decreto-598-2020.md) | normalizado · pendiente_revision |
-| 599-20 | 02/11/2020 | 10996 | QUE DESIGNA FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-599-2020.md) | normalizado · pendiente_revision |
-| 600-20 | 02/11/2020 | 10996 | QUE CREA EL PARQUE INDUSTRIAL PANAMERICANO, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE LA COMPAÑÍ... | [Ver documento](decreto-600-2020.md) | normalizado · pendiente_revision |
-| 601-20 | 02/11/2020 | 10996 | QUE CREA EL PARQUE DE ZONA FRANCA SAN VÍCTOR, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE LA COMPA... | [Ver documento](decreto-601-2020.md) | normalizado · pendiente_revision |
-| 602-20 | 02/11/2020 | 10996 | QUE CREA EL AMBROSIA FREE ZONE INDUSTRIAL PARK, BAJO LA ADMINISTRACIÓN TÉCNICA Y OPERATIVA DE LA EMP... | [Ver documento](decreto-602-2020.md) | normalizado · pendiente_revision |
-| 603-20 | 02/11/2020 | 10996 | QUE DEROGA EL ARTÍCULO 9 DEL DEC. NO. 208-20 Y EL DEC. NO. 148-14, QUE DESIGNÓ UN SUBDIRECTOR EN EL ... | [Ver documento](decreto-603-2020.md) | normalizado · pendiente_revision |
-| 604-20 | 02/11/2020 | 10996 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO MOISÉ... | [Ver documento](decreto-604-2020.md) | normalizado · pendiente_revision |
-| 605-20 | 02/11/2020 | 10996 | QUE INTEGRA LOS CINCO (5) MIEMBROS DEL CONSEJO DE ASESORES ECONÓMICOS DEL PODER EJECUTIVO, CREADO ME... | [Ver documento](decreto-605-2020.md) | normalizado · pendiente_revision |
-| 606-20 | 02/11/2020 | 10996 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-606-2020.md) | normalizado · pendiente_revision |
-| 607-20 | 02/11/2020 | 10996 | QUE CONCEDE EL BENEFICIO DE LA NATURALIZACIÓN DOMINICANA ORDINARIA A VARIOS EXTRANJEROS. | [Ver documento](decreto-607-2020.md) | normalizado · pendiente_revision |
-| 608-20 | 02/11/2020 | 10996 | QUE MODIFICA EL ARTÍCULO 10 DEL DEC. NO. 268-16. CREA E INTEGRA LA COMISIÓN EVALUADORA DE LOS TERREN... | [Ver documento](decreto-608-2020.md) | normalizado · pendiente_revision |
-| 609-20 | 02/11/2020 | 10996 | QUE NOMBRA A RAFAEL PERALTA ROMERO, DIRECTOR GENERAL DE LA BIBLIOTECA NACIONAL “PEDRO HENRÍQUEZ UREÑ... | [Ver documento](decreto-609-2020.md) | normalizado · pendiente_revision |
-| 610-20 | 02/11/2020 | 10996 | QUE DESIGNA A ANTONIO M. TAVERAS GUZMÁN, SENADOR DE LA PROVINCIA SANTO DOMINGO, REPRESENTANTE DEL GO... | [Ver documento](decreto-610-2020.md) | normalizado · pendiente_revision |
-| 611-20 | 02/11/2020 | 10996 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA UNA PENSIÓN ESPECIAL DEL ESTADO DOMINICANO AL SEÑ... | [Ver documento](decreto-611-2020.md) | normalizado · pendiente_revision |
-| 612-20 | 03/11/2020 | 10996 | QUE INSTRUYE AL MINISTERIO DE LA PRESIDENCIA, GARANTIZAR LA HABILITACIÓN, VALIDACIÓN Y SEGUIMIENTO A... | [Ver documento](decreto-612-2020.md) | normalizado · pendiente_revision |
-| 613-20 | 03/11/2020 | 10996 | QUE INTEGRA EL PATRONATO PRO-DESARROLLO DE LA PROVINCIA SÁNCHEZ RAMÍREZ. DEROGA LOS DECRETOS NOS. 56... | [Ver documento](decreto-613-2020.md) | normalizado · pendiente_revision |
-| 614-20 | 04/11/2020 | 10996 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A VENUS GUILLERMINA CARBONELL PICHARDO Y KATIA MARÍA ROSARIO P... | [Ver documento](decreto-614-2020.md) | normalizado · pendiente_revision |
-| 615-20 | 05/11/2020 | 10996 | QUE DEROGA EL ARTÍCULO 4 DEL DEC. NO. 571-07 Y EL DEC. NO. 124-08, QUE NOMBRARON A JULISSA PATRICIA ... | [Ver documento](decreto-615-2020.md) | normalizado · pendiente_revision |
-| 616-20 | 05/11/2020 | 10996 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE V... | [Ver documento](decreto-616-2020.md) | normalizado · pendiente_revision |
-| 617-20 | 05/11/2020 | 10997 | QUE DESIGNA VICECÓNSULES Y AUXILIARES EN EL SERVICIO EXTERIOR. MODIFICA LOS ARTÍCULOS 26 Y 28 DEL DE... | [Ver documento](decreto-617-2020.md) | normalizado · pendiente_revision |
-| 618-20 | 05/11/2020 | 10997 | QUE INTEGRA EL CONSEJO DE LA MEDALLA PRESIDENCIAL AL MÉRITO CIVIL. MODIFICA EL ARTÍCULO 4 DEL DEC. N... | [Ver documento](decreto-618-2020.md) | normalizado · pendiente_revision |
-| 619-20 | 10/11/2020 | 10997 | QUE ESTABLECE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTE (20) DÍAS A PARTIR DEL 12 DE NO... | [Ver documento](decreto-619-2020.md) | normalizado · pendiente_revision |
-| 620-20 | 10/11/2020 | 10997 | QUE NOMBRA A MARIA ELISA HOLGUÍN LÓPEZ, DIRECTORA DE LA UNIDAD DE ANÁLISIS FINANCIERO (UAF), POR UN ... | [Ver documento](decreto-620-2020.md) | normalizado · pendiente_revision |
-| 621-20 | 10/11/2020 | 10997 | QUE NOMBRA A PRÍAMO RAFAEL RAMÍREZ UBIERA E HILDA PATRICIA DE SAN MARTÍN POLANCO MORALES, MIEMBROS D... | [Ver documento](decreto-621-2020.md) | normalizado · pendiente_revision |
-| 622-20 | 10/11/2020 | 10997 | QUE DECLARA DE ALTA PRIORIDAD NACIONAL LA REHABILITACIÓN, SANEAMIENTO, PRESERVACIÓN Y USO SOSTENIBLE... | [Ver documento](decreto-622-2020.md) | normalizado · pendiente_revision |
-| 623-20 | 10/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-623-2020.md) | normalizado · pendiente_revision |
-| 624-20 | 10/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-624-2020.md) | normalizado · pendiente_revision |
-| 625-20 | 10/11/2020 | 10997 | QUE NOMBRA VARIOS SUBDIRECTORES EN LA DIRECCIÓN GENERAL DE GANADERÍA. | [Ver documento](decreto-625-2020.md) | normalizado · pendiente_revision |
-| 626-20 | 10/11/2020 | 10997 | QUE NOMBRA EMBAJADORES EXTRAORDINARIOS Y PLENIPOTENCIARIOS DE LA REPÚBLICA EN ITALIA, CONFEDERACIÓN ... | [Ver documento](decreto-626-2020.md) | normalizado · pendiente_revision |
-| 627-20 | 10/11/2020 | 10997 | QUE NOMBRA A ROLANDO MUÑOZ MEJÍA, DIRECTOR GENERAL DE MINERÍA. MODIFICA EL ARTÍCULO 3 DEL DEC. NO. 5... | [Ver documento](decreto-627-2020.md) | normalizado · pendiente_revision |
-| 628-20 | 10/11/2020 | 10997 | QUE AUTORIZA UNA EMISIÓN DE SELLOS POSTALES PARA EL FRANQUEO DE LAS CORRESPONDENCIAS. | [Ver documento](decreto-628-2020.md) | normalizado · pendiente_revision |
-| 629-20 | 10/11/2020 | 10997 | QUE DESIGNA A CONRADO ARÍSTIDES SANTANA REYES, SUBDIRECTOR DE LA UNIDAD TÉCNICA EJECUTORA DE PROYECT... | [Ver documento](decreto-629-2020.md) | normalizado · pendiente_revision |
-| 630-20 | 10/11/2020 | 10997 | QUE AUTORIZA AL CORONEL PARACAIDISTA JOSÉ ALBERTO HERNÁNDEZ RIVERA, FARD, A ACEPTAR Y USAR LA MEDALL... | [Ver documento](decreto-630-2020.md) | normalizado · pendiente_revision |
-| 631-20 | 10/11/2020 | 10997 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN, POR PARTE DEL ESTADO DOMINICANO DE ... | [Ver documento](decreto-631-2020.md) | normalizado · pendiente_revision |
-| 632-20 | 10/11/2020 | 10997 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO FRANC... | [Ver documento](decreto-632-2020.md) | normalizado · pendiente_revision |
-| 633-20 | 10/11/2020 | 10997 | QUE MODIFICA EL NUMERAL 16, ARTÍCULO 1, DEL DEC. NO. 335-13. DECLARA DE UTILIDAD PÚBLICA UNA PORCIÓN... | [Ver documento](decreto-633-2020.md) | normalizado · pendiente_revision |
-| 634-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 166-13, ARTÍCULO 1, NUMERAL 9, VARIAS PAR... | [Ver documento](decreto-634-2020.md) | normalizado · pendiente_revision |
-| 635-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 112-16, ARTÍCULO 1, NUMERAL 12, DOS PORCI... | [Ver documento](decreto-635-2020.md) | normalizado · pendiente_revision |
-| 636-20 | 10/11/2020 | 10997 | QUE DEROGA VARIOS NUMERALES DE LOS ARTÍCULOS 1 DE LOS DECRETOS NOS. 387-15, 301-16, 423-17, 112-18 Y... | [Ver documento](decreto-636-2020.md) | normalizado · pendiente_revision |
-| 637-20 | 10/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADO MEDIANTE DEC. NO. 7-14, ARTÍCULO 1, NUMERALES 12, 13 Y 14, ... | [Ver documento](decreto-637-2020.md) | normalizado · pendiente_revision |
-| 638-20 | 11/11/2020 | 10997 | QUE NOMBRA A EUSEBIA MARÍA NÚÑEZ GARCÍA, CÓNSUL GENERAL DE LA REPÚBLICA EN MONTREAL, CANADÁ, Y VARIO... | [Ver documento](decreto-638-2020.md) | normalizado · pendiente_revision |
-| 639-20 | 11/11/2020 | 10997 | QUE DESIGNA A RAMÓN ANTONIO SANTOS PÉREZ, ASESOR DE COMERCIALIZACIÓN DE PRODUCTOS AGROPECUARIOS DEL ... | [Ver documento](decreto-639-2020.md) | normalizado · pendiente_revision |
-| 640-20 | 11/11/2020 | 10997 | QUE INSTRUYE AL CONSEJO NACIONAL DE COMPETITIVIDAD A ELABORAR, ARTICULAR Y COORDINAR LA ESTRATEGIA N... | [Ver documento](decreto-640-2020.md) | normalizado · pendiente_revision |
-| 641-20 | 12/11/2020 | 10997 | QUE DECLARA DE ALTO INTERÉS NACIONAL EL CULTIVO Y EXPORTACIÓN DEL CACAO. | [Ver documento](decreto-641-2020.md) | normalizado · pendiente_revision |
-| 642-20 | 16/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 398-09, QUE DESIGNÓ A JOSÉ DANTÉS DÍAZ, MINISTRO CONSEJERO DE ... | [Ver documento](decreto-642-2020.md) | normalizado · pendiente_revision |
-| 643-20 | 16/11/2020 | 10997 | QUE DESIGNA A SERGIA ELENA MEJÍA DE PEÑA Y JULIO CÉSAR LLIBRE SALCEDO, MIEMBROS DE LA JUNTA MONETARI... | [Ver documento](decreto-643-2020.md) | normalizado · pendiente_revision |
-| 644-20 | 18/11/2020 | 10997 | QUE DESIGNA DOCE (12) VICECÓNSULES DE LA REPÚBLICA EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-644-2020.md) | normalizado · pendiente_revision |
-| 645-20 | 18/11/2020 | 10997 | QUE NOMBRA A KATIA JULIANA CASTILLO MARTE, CÓNSUL GENERAL DE LA REPÚBLICA EN SANTA CRUZ DE TENERIFE,... | [Ver documento](decreto-645-2020.md) | normalizado · pendiente_revision |
-| 646-20 | 18/11/2020 | 10997 | QUE DESIGNA AL PRESIDENTE Y TRES (3) MIEMBROS DEL CONSEJO DE DIRECTIVO DEL INSTITUTO NACIONAL DE AUX... | [Ver documento](decreto-646-2020.md) | normalizado · pendiente_revision |
-| 647-20 | 18/11/2020 | 10997 | QUE NOMBRA A PERIANDRO GERTRUDIS DELGADO VARGAS, ASESOR EN MATERIA DE TELECOMUNICACIONES DEL PODER E... | [Ver documento](decreto-647-2020.md) | normalizado · pendiente_revision |
-| 648-20 | 18/11/2020 | 10997 | QUE INTEGRA EL CONSEJO DE DESARROLLO ECOTURÍSTICO DE LA PROVINCIA SAN JOSÉ DE OCOA. DEROGA EL DEC. N... | [Ver documento](decreto-648-2020.md) | normalizado · pendiente_revision |
-| 649-20 | 18/11/2020 | 10997 | QUE DESIGNA A FRANKLIN ANÍBAL PERALTA UCETA, SUBDIRECTOR DE LA CORPORACIÓN DE ACUEDUCTOS Y ALCANTARI... | [Ver documento](decreto-649-2020.md) | normalizado · pendiente_revision |
-| 650-20 | 18/11/2020 | 10997 | QUE CONCEDE NATURALIZACIÓN DOMINICANA A PERSONAS EXTRANJERAS. MODIFICA VARIOS NUMERALES DE LOS ARTÍC... | [Ver documento](decreto-650-2020.md) | normalizado · pendiente_revision |
-| 651-20 | 18/11/2020 | 10997 | QUE DESIGNA A FIDIAS FEDERICO ARISTY PAYANO, ASESOR DEL PODER EJECUTIVO EN POLÍTICAS ANTINARCÓTICAS.... | [Ver documento](decreto-651-2020.md) | normalizado · pendiente_revision |
-| 652-20 | 18/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS NOMBRAMIENTOS DE VARIOS SUBDIRECTORES EN LA COMISIÓN PRESIDENCIAL DE DESARRO... | [Ver documento](decreto-652-2020.md) | normalizado · pendiente_revision |
-| 653-20 | 18/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS ARTÍCULOS 2 Y 4 DEL DEC. NO. 556-20 Y LOS ARTÍCULOS 38 Y 43 DEL DEC. NO. 557... | [Ver documento](decreto-653-2020.md) | normalizado · pendiente_revision |
-| 654-20 | 18/11/2020 | 10997 | QUE DESIGNA A RAMÓN ANTONIO VALDEZ Y FERNANDO JESÚS DAUHAJRE MORALES, COMISIONADOS NACIONALES DE BOX... | [Ver documento](decreto-654-2020.md) | normalizado · pendiente_revision |
-| 655-20 | 18/11/2020 | 10997 | QUE NOMBRA A JUAN BOLÍVAR DIAZ SANTANA, ROBERT MIKY TAKATA PIMENTEL Y FEDERICO ALBERTO CUELLO CAMILO... | [Ver documento](decreto-655-2020.md) | normalizado · pendiente_revision |
-| 656-20 | 18/11/2020 | 10997 | QUE DESIGNA A CARLOS PAULINO CÁRDENAS, SUBDIRECTOR DEL CENTRO DE OPERACIONES DE EMERGENCIAS. MODIFIC... | [Ver documento](decreto-656-2020.md) | normalizado · pendiente_revision |
-| 657-20 | 18/11/2020 | 10997 | QUE DESIGNA VARIOS FUNCIONARIOS DIPLOMÁTICOS DE LA REPÚBLICA EN LA REPÚBLICA DE HAITÍ. | [Ver documento](decreto-657-2020.md) | normalizado · pendiente_revision |
-| 658-20 | 23/11/2020 | 10997 | QUE CONFIRMA A JOSÉ RICARDO ROJAS LEÓN, COMO MIEMBRO DE LA JUNTA MONETARIA, POR UN PERÍODO DE DOS (2... | [Ver documento](decreto-658-2020.md) | normalizado · pendiente_revision |
-| 659-20 | 23/11/2020 | 10997 | QUE MODIFICA LOS ARTÍCULOS 1 Y 2 DEL DEC. NO. 10-17. CREA LA UNIDAD COORDINADORA DE PROYECTOS DE DES... | [Ver documento](decreto-659-2020.md) | normalizado · pendiente_revision |
-| 660-20 | 23/11/2020 | 10997 | QUE DESIGNA A ANASTACIO BRAZOBÁN GONZÁLEZ, ASESOR DEL MINISTERIO DE INDUSTRIA, COMERCIO Y MIPYMES. | [Ver documento](decreto-660-2020.md) | normalizado · pendiente_revision |
-| 661-20 | 23/11/2020 | 10997 | QUE DESIGNA A CARLOS ENRIQUE ARIAS FLORIÁN, SUBDIRECTOR DE LA OFICINA METROPOLITANA DE SERVICIOS DE ... | [Ver documento](decreto-661-2020.md) | normalizado · pendiente_revision |
-| 662-20 | 23/11/2020 | 10997 | QUE DESIGNA VARIOS VICECÓNSULES DE LA REPÚBLICA EN EL SERVICIO EXTERIOR. | [Ver documento](decreto-662-2020.md) | normalizado · pendiente_revision |
-| 663-20 | 23/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 5 DEL DEC. NO. 5-09, MODIFICADO POR EL ARTÍCULO 2 DEL DEC. NO. 269-09, QUE NO... | [Ver documento](decreto-663-2020.md) | normalizado · pendiente_revision |
-| 664-20 | 23/11/2020 | 10997 | QUE CREA LA UNIDAD DE EVALUACIÓN Y SEGUIMIENTO DE PROYECTOS, ADSCRITA AL MINISTERIO ADMINISTRATIVO D... | [Ver documento](decreto-664-2020.md) | normalizado · pendiente_revision |
-| 665-20 | 23/11/2020 | 10997 | QUE NOMBRA A HECMILIO ARÍSTIDES GALVÁN CRUZ, DIRECTOR EJECUTIVO DE LA UNIDAD DE EVALUACIÓN Y SEGUIMI... | [Ver documento](decreto-665-2020.md) | normalizado · pendiente_revision |
-| 666-20 | 24/11/2020 | 10997 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 768-08, QUE DESIGNÓ A IVELISSE GARCÍA, SUBDIRECTORA DEL JARDÍN... | [Ver documento](decreto-666-2020.md) | normalizado · pendiente_revision |
-| 667-20 | 24/11/2020 | 10997 | QUE PERMITE DURANTE EL HORARIO DE TOQUE DE QUEDA LA CIRCULACIÓN DE LOS VEHÍCULOS DE TRANSPORTE Y DIS... | [Ver documento](decreto-667-2020.md) | normalizado · pendiente_revision |
-| 668-20 | 24/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-668-2020.md) | normalizado · pendiente_revision |
-| 669-20 | 24/11/2020 | 10997 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 424-19, QUE DECLARÓ DE UTILIDAD PÚBLICA UNA PORCIÓN DE TERRE... | [Ver documento](decreto-669-2020.md) | normalizado · pendiente_revision |
-| 670-20 | 25/11/2020 | 10997 | QUE CONCEDE DE MANERA PÓSTUMA LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN... | [Ver documento](decreto-670-2020.md) | normalizado · pendiente_revision |
-| 671-20 | 25/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR POST MORTEN POR PARTE DEL PODER EJECUTIVO A MARÍA ARGENTINA MINERVA MIRABAL REY... | [Ver documento](decreto-671-2020.md) | normalizado · pendiente_revision |
-| 672-20 | 27/11/2020 | 10997 | QUE ASCIENDE AL RANGO DE MAYOR GENERAL A VARIOS OFICIALES GENERALES DE LA POLICÍA NACIONAL Y A SU VE... | [Ver documento](decreto-672-2020.md) | normalizado · pendiente_revision |
-| 673-20 | 27/11/2020 | 10997 | QUE NOMBRA A SONIA GUZMÁN K. DE HERNÁNDEZ, EMBAJADORA EXTRAORDINARIA Y PLENIPOTENCIARIA DE LA REPÚBL... | [Ver documento](decreto-673-2020.md) | normalizado · pendiente_revision |
-| 674-20 | 27/11/2020 | 10997 | QUE DISPONE LA SUSPENSIÓN PROVISIONAL SIN DISFRUTE DE SUELDO, HASTA TANTO PRESENTEN SU DECLARACIÓN J... | [Ver documento](decreto-674-2020.md) | normalizado · pendiente_revision |
-| 675-20 | 27/11/2020 | 10997 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-675-2020.md) | normalizado · pendiente_revision |
-| 676-20 | 27/11/2020 | 10997 | QUE AUTORIZA UNA IMPRESIÓN DE ESTAMPILLAS PARA FÓSFOROS. | [Ver documento](decreto-676-2020.md) | normalizado · pendiente_revision |
-| 677-20 | 27/11/2020 | 10997 | QUE AUTORIZA A LOS AYUNTAMIENTOS DE BANI, SANTIAGO DE LOS CABALLEROS, BARAHONA, BAYAGUANA, SAN FRANC... | [Ver documento](decreto-677-2020.md) | normalizado · pendiente_revision |
-| 678-20 | 27/11/2020 | 10997 | QUE MODIFICA VARIOS ARTÍCULOS DE LOS DECRETOS NOS. 454-05, 149-07, 263-09, 369-07, 518-97, 707-10, 5... | [Ver documento](decreto-678-2020.md) | normalizado · pendiente_revision |
-| 679-20 | 27/11/2020 | 10997 | QUE DESIGNA A RAFAEL EMILIO YUNÉN ZOUAIN, ODALIS GUILLERMO PÉREZ NINA Y ÁNGEL BIENVENIDO MORETA AGUA... | [Ver documento](decreto-679-2020.md) | normalizado · pendiente_revision |
-| 680-20 | 27/11/2020 | 10997 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL MINISTER... | [Ver documento](decreto-680-2020.md) | normalizado · pendiente_revision |
-| 681-20 | 27/11/2020 | 10997 | QUE DESIGNA SEIS (6) VICECÓNSULES DE LA REPÚBLICA EN ALEMANIA, ESPAÑA, FRANCIA Y PUERTO RICO. DEJA S... | [Ver documento](decreto-681-2020.md) | normalizado · pendiente_revision |
-| 682-20 | 27/11/2020 | 10997 | QUE EXCLUYE DE LA EXPROPIACIÓN EFECTUADA MEDIANTE DEC. NO. 444-11, ARTÍCULO 1, UNA PORCIÓN DE TERREN... | [Ver documento](decreto-682-2020.md) | normalizado · pendiente_revision |
-| 683-20 | 30/11/2020 | 10998 | QUE DECLARA EL TERRITORIO NACIONAL EN ESTADO DE EMERGENCIA POR UN PERIODO DE CUARENTICINCO (45) DÍAS... | [Ver documento](decreto-683-2020.md) | normalizado · pendiente_revision |
-| 684-20 | 30/11/2020 | 10998 | QUE EXTIENDE EL TOQUE DE QUEDA EN EL TERRITORIO NACIONAL POR VEINTE (20) DÍAS A PARTIR DEL 2 DE DICI... | [Ver documento](decreto-684-2020.md) | normalizado · pendiente_revision |
-| 685-20 | 30/11/2020 | 10998 | QUE CREA EL FONDO DE ASISTENCIA SOCIAL “NAVIDAD PARA LOS TRABAJADORES”, HABILITADO PARA EL MES DE DI... | [Ver documento](decreto-685-2020.md) | normalizado · pendiente_revision |
-| 686-20 | 30/11/2020 | 10998 | QUE DESIGNA A PABLO FRANCISCO DE LA MOTA SANTANA, JULIO GONELL MOREL Y ALBERTO MARTE ALMÁNZAR, COMO ... | [Ver documento](decreto-686-2020.md) | normalizado · pendiente_revision |
-| 687-20 | 30/11/2020 | 10998 | QUE CREA E INTEGRA LA COMISIÓN DE REVISIÓN Y REESTRUCTURACIÓN DE POLÍTICAS Y PROGRAMAS DESTINADOS A ... | [Ver documento](decreto-687-2020.md) | normalizado · pendiente_revision |
-| 688-20 | 30/11/2020 | 10998 | QUE DESIGNA A JOSÉ DEL CARMEN MARCANO DE LOS SANTOS, ASESOR DE COMERCIO INTERIOR DEL PODER EJECUTIVO... | [Ver documento](decreto-688-2020.md) | normalizado · pendiente_revision |
-| 689-20 | 30/11/2020 | 10998 | QUE DESIGNA FUNCIONARIOS EN LA COMISIÓN MIXTA BILATERAL DOMINICANO-HAITIANA, TODOS CON RANGO DE EMBA... | [Ver documento](decreto-689-2020.md) | normalizado · pendiente_revision |
-| 690-20 | 30/11/2020 | 10998 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 243-18, QUE NOMBRÓ A JOSÉ FRANCISCO RAMOS FRÍAS, CONSEJERO DE ... | [Ver documento](decreto-690-2020.md) | normalizado · pendiente_revision |
-| 691-20 | 30/11/2020 | 10998 | QUE DEROGA EL ARTÍCULO 6 DEL DEC. NO. 354-20, QUE DESIGNÓ A VÍCTOR MIGUEL POLANCO SEVERINO, VICEMINI... | [Ver documento](decreto-691-2020.md) | normalizado · pendiente_revision |
-| 692-20 | 30/11/2020 | 10998 | QUE CONCEDE EL BENEFICIO DE LA JUBILACIÓN Y ASIGNA PENSIONES DEL ESTADO DOMINICANO DE RD$10,000.00 M... | [Ver documento](decreto-692-2020.md) | normalizado · pendiente_revision |
-| 693-20 | 04/12/2020 | 11000 | QUE COLOCA EN SITUACIÓN DE RETIRO CON DISFRUTE DE LA PENSIÓN CORRESPONDIENTE A VARIOS OFICIALES GENE... | [Ver documento](decreto-693-2020.md) | normalizado · pendiente_revision |
-| 694-20 | 09/12/2020 | 11000 | QUE NOMBRA A LUZ DEL ALBA JIMÉNEZ RAMÍREZ Y VICENTE LUIS DE PEÑA PERALTA, MINISTRA Y VICEMINISTRO DE... | [Ver documento](decreto-694-2020.md) | normalizado · pendiente_revision |
-| 695-20 | 09/12/2020 | 11000 | QUE CREA E INTEGRA EL GABINETE DE TRANSPARENCIA, PREVENCIÓN Y CONTROL DEL GASTO PÚBLICO. | [Ver documento](decreto-695-2020.md) | normalizado · pendiente_revision |
-| 696-20 | 10/12/2020 | 11000 | QUE CONCEDE LA CONDECORACIÓN DEL GRAN CORDÓN MILITAR JUAN PABLO DUARTE A VARIOS OFICIALES SUPERIORES... | [Ver documento](decreto-696-2020.md) | normalizado · pendiente_revision |
-| 697-20 | 14/12/2020 | 11002 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN AL MÉRITO AÉREO EN SUS DIFERENTES CATEGORÍAS, CON DISTINTIV... | [Ver documento](decreto-697-2020.md) | normalizado · pendiente_revision |
-| 698-20 | 15/12/2020 | 11002 | QUE DEROGA LOS DECRETOS NOS. 504-20, 554-20 Y 684-20. ESTABLECE NUEVO HORARIO PARA EL TOQUE DE QUEDA... | [Ver documento](decreto-698-2020.md) | normalizado · pendiente_revision |
-| 699-20 | 16/12/2020 | 11002 | QUE DECLARA DE DUELO OFICIAL EL DÍA 17 DE DICIEMBRE DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO D... | [Ver documento](decreto-699-2020.md) | normalizado · pendiente_revision |
-| 700-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-700-2020.md) | normalizado · pendiente_revision |
-| 701-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-701-2020.md) | normalizado · pendiente_revision |
-| 702-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-702-2020.md) | normalizado · pendiente_revision |
-| 703-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER DE LICENCIADOS EN DERECHO EN TOD... | [Ver documento](decreto-703-2020.md) | normalizado · pendiente_revision |
-| 704-20 | 17/12/2020 | 11002 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-704-2020.md) | normalizado · pendiente_revision |
-| 705-20 | 17/12/2020 | 11002 | QUE DESIGNA A SONIA PAULINA CABRERA WAGNER, MIEMBRO DE LA COMISIÓN AEROPORTUARIA. DEJA SIN EFECTO LO... | [Ver documento](decreto-705-2020.md) | normalizado · pendiente_revision |
-| 706-20 | 17/12/2020 | 11002 | QUE DESIGNA VARIOS CÓNSULES Y VICECÓNSULES EN EL SERVICIO EXTERIOR. DEJA SIN EFECTO VARIOS ARTÍCULOS... | [Ver documento](decreto-706-2020.md) | normalizado · pendiente_revision |
-| 707-20 | 17/12/2020 | 11002 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON FUNCIONARIOS DIPLOMÁTICOS Y CONSULARES EN EL SERVICIO... | [Ver documento](decreto-707-2020.md) | normalizado · pendiente_revision |
-| 708-20 | 17/12/2020 | 11002 | QUE DESIGNA A LOURDES GISELA ANTONIA VICTORIA-KRUSE, LAURA VIRGINIA RAMONA FAXAS VARGAS DE JORGESEN,... | [Ver documento](decreto-708-2020.md) | normalizado · pendiente_revision |
-| 709-20 | 17/12/2020 | 11002 | QUE OTORGA EXEQUÁTUR A VARIOS PROFESIONALES PARA QUE PUEDAN EJERCER SUS RESPECTIVAS PROFESIONES EN T... | [Ver documento](decreto-709-2020.md) | normalizado · pendiente_revision |
-| 710-20 | 17/12/2020 | 11002 | QUE MODIFICA EL ARTÍCULO 1 DEL DEC. NO. 271-19. DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNID... | [Ver documento](decreto-710-2020.md) | normalizado · pendiente_revision |
-| 711-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO J. D.... | [Ver documento](decreto-711-2020.md) | normalizado · pendiente_revision |
-| 712-20 | 17/12/2020 | 11002 | QUE DISPONE LA ENTREGA EN EXTRADICIÓN A LOS ESTADOS UNIDOS DE AMÉRICA DEL CIUDADANO DOMINICANO LUIS ... | [Ver documento](decreto-712-2020.md) | normalizado · pendiente_revision |
-| 713-20 | 17/12/2020 | 11002 | QUE DISPONE LA APERTURA DEL CONSULADO HONORARIO DE LA REPÚBLICA EN BRATISLAVA, REPÚBLICA ESLOVACA. D... | [Ver documento](decreto-713-2020.md) | normalizado · pendiente_revision |
-| 714-20 | 17/12/2020 | 11002 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-714-2020.md) | normalizado · pendiente_revision |
-| 715-20 | 17/12/2020 | 11002 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-715-2020.md) | normalizado · pendiente_revision |
-| 716-20 | 17/12/2020 | 11002 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A JOSÉ OSVALDO RAMÍREZ Y ANA MARÍA GARCÍA, SUBDIRECTORES DEL C... | [Ver documento](decreto-716-2020.md) | normalizado · pendiente_revision |
-| 717-20 | 17/12/2020 | 11002 | QUE NOMBRA A ELNIO MANUEL DURÁN, EMBAJADOR EXTRAORDINARIO Y PLENIPOTENCIARIO DE LA REPÚBLICA DOMINIC... | [Ver documento](decreto-717-2020.md) | normalizado · pendiente_revision |
-| 718-20 | 17/12/2020 | 11002 | QUE MODIFICA EL NUMERAL 11 DEL ARTÍCULO 4 DEL DEC. NO. 698-20. AUTORIZA A LOS EMPLEADOS O CONTRATIST... | [Ver documento](decreto-718-2020.md) | normalizado · pendiente_revision |
-| 719-20 | 18/12/2020 | 11002 | QUE DEROGA EL DEC. NO. 75-20, QUE DESIGNÓ A JUSTINO ERICSON TAVERAS CABRERA, SUBDIRECTOR DEL CONSEJO... | [Ver documento](decreto-719-2020.md) | normalizado · pendiente_revision |
-| 720-20 | 18/12/2020 | 11002 | QUE DEJA SIN EFECTO LOS DECRETOS QUE NOMBRARON A YOCASTA LARA HERNÁNDEZ, OMAR JOSÉ GARCÍA CASTILLO Y... | [Ver documento](decreto-720-2020.md) | normalizado · pendiente_revision |
-| 721-20 | 19/12/2020 | 11002 | QUE DECLARA DE DUELO OFICIAL EL 21 DE DICIEMBRE DEL AÑO EN CURSO, CON MOTIVO DEL FALLECIMIENTO DE CA... | [Ver documento](decreto-721-2020.md) | normalizado · pendiente_revision |
-| 722-20 | 21/12/2020 | 11002 | QUE DESIGNA A PEDRO PABLO ACEVEDO, PRESIDENTE DEL CONSEJO NACIONAL DE DISCAPACIDAD. | [Ver documento](decreto-722-2020.md) | normalizado · pendiente_revision |
-| 723-20 | 22/12/2020 | 11002 | QUE DECLARA DE UTILIDAD PÚBLICA E INTERÉS SOCIAL LA ADQUISICIÓN POR PARTE DEL ESTADO DOMINICANO DE V... | [Ver documento](decreto-723-2020.md) | normalizado · pendiente_revision |
-| 724-20 | 22/12/2020 | 11002 | QUE DISPONE LA CONSTITUCIÓN DE UN FIDEICOMISO PÚBLICO E IRREVOCABLE DE DESARROLLO E INVERSIÓN INMOBI... | [Ver documento](decreto-724-2020.md) | normalizado · pendiente_revision |
-| 725-20 | 23/12/2020 | 11002 | QUE AUTORIZA EL USO DE LOS PROCEDIMIENTOS DE EXCEPCIÓN POR SITUACIONES DE SEGURIDAD NACIONAL ESTABLE... | [Ver documento](decreto-725-2020.md) | normalizado · pendiente_revision |
-| 726-20 | 23/12/2020 | 11003 | QUE MODIFICA EL ARTÍCULO 2 DEL DEC. NO. 695-20. INTEGRA EL GABINETE DE TRANSPARENCIA, PREVENCIÓN Y C... | [Ver documento](decreto-726-2020.md) | normalizado · pendiente_revision |
-| 727-20 | 23/12/2020 | 11003 | QUE DEROGA EL ARTÍCULO 2 DEL DEC. NO. 546-99, QUE NOMBRÓ A HERVÉ CASTELLE, CÓNSUL HONORARIO DE LA RE... | [Ver documento](decreto-727-2020.md) | normalizado · pendiente_revision |
-| 728-20 | 23/12/2020 | 11003 | QUE DESIGNA A SANTIAGO RAFAEL CABA ABREU, SUBDIRECTOR PARA LA REGIÓN NORTE DE LA COMISIÓN PERMANENTE... | [Ver documento](decreto-728-2020.md) | normalizado · pendiente_revision |
-| 729-20 | 28/12/2020 | 11003 | QUE CONCEDE EL BENEFICIO DE UNA PENSIÓN SOLIDARIA DEL RÉGIMEN SUBSIDIADO DEL SISTEMA DOMINICANO DE S... | [Ver documento](decreto-729-2020.md) | normalizado · pendiente_revision |
-| 730-20 | 28/12/2020 | 11003 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A ARLES PATRICIA DE LAS MERCEDES OVALLES Y JUAN RAMÓN DURÁN, C... | [Ver documento](decreto-730-2020.md) | normalizado · pendiente_revision |
-| 731-20 | 28/12/2020 | 11003 | QUE NOMBRA A CARMELO ANTONIO RODRÍGUEZ GUTIÉRREZ, ASESOR DEL PODER EJECUTIVO EN MATERIA DE MICRO, PE... | [Ver documento](decreto-731-2020.md) | normalizado · pendiente_revision |
-| 732-20 | 28/12/2020 | 11003 | QUE DEROGA EL ARTÍCULO 1 DEL DEC. NO. 567-12, QUE NOMBRÓ A CARLOS LEROUX DE MOYA, MIEMBRO DE LA COMI... | [Ver documento](decreto-732-2020.md) | normalizado · pendiente_revision |
-| 733-20 | 28/12/2020 | 11003 | QUE DESIGNA A MIGUEL ANTONIO VALENZUELA, ASESOR DEL CONSEJO NACIONAL DE GESTIÓN PRESIDENCIAL. | [Ver documento](decreto-733-2020.md) | normalizado · pendiente_revision |
-| 734-20 | 28/12/2020 | 11003 | QUE AUTORIZA A VARIAS PERSONAS A REALIZAR CAMBIOS EN SUS NOMBRES. | [Ver documento](decreto-734-2020.md) | normalizado · pendiente_revision |
-| 735-20 | 29/12/2020 | 11003 | QUE DESIGNA A MANUEL ERNESTO POLANCO SALVADOR, LOURDES GISELA ANTONIA VICTORIA-KRUSE, ANGIE SHAKIRA ... | [Ver documento](decreto-735-2020.md) | normalizado · pendiente_revision |
-| 736-20 | 29/12/2020 | 11003 | QUE DESIGNA AL CÓNSUL GENERAL DE LA REPÚBLICA EN RÍO DE JANEIRO, BRASIL Y VARIOS VICECÓNSULES Y AUXI... | [Ver documento](decreto-736-2020.md) | normalizado · pendiente_revision |
-| 737-20 | 29/12/2020 | 11003 | DEROGA EL ARTÍCULO 5 DEL DEC. NO. 413-20, QUE DESIGNÓ A FRANCISCO JAVIER MATOS PUJOLS, ASESOR EN MAT... | [Ver documento](decreto-737-2020.md) | normalizado · pendiente_revision |
-| 738-20 | 29/12/2020 | 11003 | QUE DEROGA LOS DECRETOS QUE NOMBRARON A FELIX FRANCISCO PEÑA REYES, IVEN ESTEBAN SEGURA FELIZ, SOBIE... | [Ver documento](decreto-738-2020.md) | normalizado · pendiente_revision |
-| 739-20 | 29/12/2020 | 11003 | QUE DESIGNA A JAIME MARTE MARTÍNEZ, PRESIDENTE DEL CONSEJO NACIONAL DE DROGAS. | [Ver documento](decreto-739-2020.md) | normalizado · pendiente_revision |
-| 740-20 | 30/12/2020 | 11003 | QUE ESTABLECE EL TOQUE DE QUEDA DE 5:00 PM HASTA LAS 5:00 AM, DESDE EL 1RO. DE ENERO HASTA EL 10 DEL... | [Ver documento](decreto-740-2020.md) | normalizado · pendiente_revision |
-| 741-20 | 30/12/2020 | 11003 | QUE CONCEDE LA CONDECORACIÓN DE LA ORDEN DEL MÉRITO DE DUARTE, SÁNCHEZ Y MELLA, EN EL GRADO DE GRAN ... | [Ver documento](decreto-741-2020.md) | normalizado · pendiente_revision |
-| 742-20 | 30/12/2020 | 11003 | QUE CREA EL FONDO DE ASISTENCIA SOCIAL FASE I EXTENDIDO, DESDE ENERO HASTA ABRIL DEL 2021. DEROGA LO... | [Ver documento](decreto-742-2020.md) | normalizado · pendiente_revision |
+que designa a la señora Eunisis Vásquez Acosta, embajadora extraordinaria y plenipotenciaria de la República Dominicana ante la Santa Sede. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
 
-## Próxima fase
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
 
-- Verificar enlace de descarga como PDF oficial.
-- Calcular SHA256.
-- Preparar Markdown y JSON del corpus.
-- Mantener estado `pendiente_revision` hasta revisión humana.
+<div class="leydo-year-entry" markdown>
+**[Decreto 002-2020](decreto-002-2020.md)**
+
+que nombra al señor Bolívar Israel Marte Núñez, embajador extraordinario y plenipotenciario de la República Dominicana en la República de Cuba. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 003-2020](decreto-003-2020.md)**
+
+que designa al Ing. Ezequiel Manuel Vólquez Medina, director general de la Administradora de Subsidios Sociales (ADESS). G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 004-2020](decreto-004-2020.md)**
+
+que nombra a la señora Gisela Antonia Victoria-Kruse, embajadora extraordinaria y plenipotenciaria, concurrente, de la República Dominicana en la República de Eslovenia, con sede en Viena, Austria. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 005-2020](decreto-005-2020.md)**
+
+que designa al señor Hugo Guilliani Cury, embajador extraordinario y plenipotenciario, concurrente, de la República Dominicana en la República de Irlanda, con sede en el Reino Unido de Gran Bretaña e Irlanda del Norte. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 006-2020](decreto-006-2020.md)**
+
+que nombra al señor Federico Alberto Cuello Camilo, embajador extraordinario y plenipotenciario, concurrente, de la República Dominicana en la República Libanesa, con sede en el Estado de Qatar. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 007-2020](decreto-007-2020.md)**
+
+que designa a la señora Yeimi Mileiby Lora Peralta, auxiliar del Consulado de la República Dominicana en Nueva York, Estados Unidos de América. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 008-2020](decreto-008-2020.md)**
+
+que deroga el artículo 1 del Decreto núm. 471-09 y el artículo 1 del Dec. núm. 261-12. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 009-2020](decreto-009-2020.md)**
+
+que excluye de la expropiación efectuada mediante Dec. No. 348-17, en su
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 010-2020](decreto-010-2020.md)**
+
+que declara de utilidad pública e interés social la adquisición por parte del Estado dominicano de una porción de terreno en el municipio de Esperanza, provincia Valverde, para ser utilizada en la construcción de edificaciones escolares. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 011-2020](decreto-011-2020.md)**
+
+que modifica varios numerales del artículo 1 de los decretos Nos. 334- 13, 198-14 y 297-16, que declararon terrenos de utilidad pública para fines de construir edificaciones escolares. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 012-2020](decreto-012-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 013-2020](decreto-013-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 014-2020](decreto-014-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. Modifica el artículo 1, numeral 6 del Dec. No. 311-19. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 015-2020](decreto-015-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Eduardo Montero, alias Richard Montero, alias Richard DJ Fría (Montero). G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 016-2020](decreto-016-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Jeifry del Rosario Gautier. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 017-2020](decreto-017-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Armanda Betances, alias José Armando Betances, alias José Almando Betances Ureña, alias José Armando Betances Ureña. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 018-2020](decreto-018-2020.md)**
+
+que nombra varios funcionarios en distintas dependencias del Estado. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 019-2020](decreto-019-2020.md)**
+
+que convoca de forma extraordinaria al Senado y a la Cámara de Diputados para que se reúnan por un plazo de treinta (30) días contados a partir del 15 de enero de 2020, a fin de conocer varios proyectos de leyes en trámite. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 020-2020](decreto-020-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varias personas, y aumenta el monto de la pensión del Estado de que disfruta el señor Mario de Jesús Franco Barrera. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 021-2020](decreto-021-2020.md)**
+
+que crea e integra la Comisión Presidencial para la Reestructuración del Vertedero a Cielo Abierto de Duquesa, con el propósito de coordinar la rehabilitación, el cierre técnico y la planificación para la construcción de un relleno sanitario para la disposición final de los residuos del Gran Santo Domingo. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 022-2020](decreto-022-2020.md)**
+
+que designa a la señora Gire Thesalia Calderón Díaz, vicecónsul en el Consulado de la República Dominicana en Chicago, Illinois, Estados Unidos de América. G. O. No. 10968 del 17 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 023-2020](decreto-023-2020.md)**
+
+que declara de utilidad pública e interés social la adquisición por parte del Estado dominicano, de varias porciones de terrenos en distintos municipios del país, para ser utilizadas en la construcción de edificaciones escolares. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 024-2020](decreto-024-2020.md)**
+
+que designa a los señores Domingo de Jesús Almonte Reinoso y Ricardo Samuel Molina Acosta, subdirector del Instituto del Tabaco y miembro del Directorio de la Unidad de Electrificación Rural y Suburbana (UERS), respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 025-2020](decreto-025-2020.md)**
+
+que confirma a la Dra. Anina del Castillo Cazaño, como directora ejecutiva del Instituto Nacional de Protección de los Derechos del Consumidor. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/01/2020 · normalizado con alerta · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 026-2020](decreto-026-2020.md)**
+
+que designa al Lic. Máximo Arismendy Aristy Caraballo, miembro del Consejo de Administración de la Empresa Distribuidora de Electricidad del Sur. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/01/2020 · normalizado con alerta · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 027-2020](decreto-027-2020.md)**
+
+que nombra a los señores Santiago Rodríguez Figuereo, Francisco Santana y Mercedes Altagracia Brito Veras, cónsules generales de la República en Madrid, España, Praga, República Checa y Génova, Italia, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 028-2020](decreto-028-2020.md)**
+
+que designa a los señores Bienvenido Tolentino Santana y Jorge Nicolás Cordero Pache, cónsules generales de la República en las Islas Canarias y Sevilla, España, respectivamente, y al señor Juan Feliz Borg Gil, Cónsul en Valencia, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 029-2020](decreto-029-2020.md)**
+
+que nombra a los señores Francisco Fernando Cáceres Liriano y Ramón Carreño, cónsules generales de la República en Barcelona, España y en Milán, Italia, respectivamente; y a los señores Braulis Matos Bautista y Teodoro Reyes, cónsules generales en Hamburgo y Frankfurt, Alemania. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 030-2020](decreto-030-2020.md)**
+
+que designa a las señoras Felicita Aquino de León y Ana Yris Beltré Fernández, ministra consejera y primera secretaria ante la Misión Permanente de la República en la Organización de las Naciones Unidas, en Ginebra, Suiza, y al señor Cándido Medina Medina, auxiliar del Consulado en Barcelona, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 031-2020](decreto-031-2020.md)**
+
+que designa a los señores Rafael Acosta Javier y Miltón Andrés Jiménez, ministros consejeros de las embajadas de la República en Alemania y Suiza, respectivamente; y al señor Agripino Antonio García Brito, auxiliar del Consulado en Madrid, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 032-2020](decreto-032-2020.md)**
+
+que nombra a los señores Rudy Alexis Mejía Manbrú y María Yvelisse Alonzo La Paz, vicecónsules de la República en Madrid e Islas Canarias, España, respectivamente; y a la señora Maria Dolores Araujo Agüero, auxiliar del Consulado en Madrid, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 033-2020](decreto-033-2020.md)**
+
+que designa al señor Leo Serrano Beltré, auxiliar del Consulado de la República en Madrid, España. Nombra a los señores Jorge Ernesto Féliz y Leonor Tivisay de la Cruz, vicecónsules en Madrid y en Valencia, España, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 034-2020](decreto-034-2020.md)**
+
+que nombra a los señores Domingo Nova, Fleurys Mayobanex Rivera Cabral y Deydania Rodríguez Pérez, vicecónsules los dos primeros, y auxiliar del Consulado de la República Dominicana en Madrid, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 035-2020](decreto-035-2020.md)**
+
+que designa a los señores Fabián Peralta y Celeste Encarnación Merán, vicecónsul de la República en Marsella, Francia y auxiliar del Consulado en Milán, Italia, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 036-2020](decreto-036-2020.md)**
+
+que nombra a los señores Anedice Tejada y Sirvio Dotel Figuereo, auxiliar del Consulado en Milán, Italia y consejero de la Embajada de la República en España. Designa al señor Fabio Hilario Cepeda, vicecónsul en Sevilla, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 037-2020](decreto-037-2020.md)**
+
+que designa a los señores William Polanco y Santiago Feliz Pérez, auxiliares de los consulados de la República en Barcelona y Madrid, España, respectivamente, y al señor Yenis Leonel Sena Dávila, vicecónsul en Barcelona, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 038-2020](decreto-038-2020.md)**
+
+que deroga los artículos 5 y 2 de los decretos Nos. 584-08 y 808-08, que designaron un vicecónsul y un auxiliar del Consulado de la República en Barcelona, España, así como el Dec. No. 838-09, que designó un vicecónsul en Barcelona, Encargado de Promoción Turística. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 039-2020](decreto-039-2020.md)**
+
+que deroga los artículos 1 del Dec. No. 617-10, 10 del Dec. No. 115-11, y 15 del Dec. No. 223-11, que nombraron vicecónsules de la República en Islas Canarias y Barcelona, España, y un auxiliar del Consulado en Islas Canarias. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 040-2020](decreto-040-2020.md)**
+
+que deroga el artículo 2, del Dec. No. 632-07, que nombró un auxiliar del Consulado de la República en Amberes, Bélgica y los artículos 4 y 13 de los decretos Nos. 604-08 y 662-08, que designaron un auxiliar del Consulado en Barcelona, y un vicecónsul en Sevilla, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 041-2020](decreto-041-2020.md)**
+
+que deroga el Decreto No. 99-06 y los artículos 2 y 13 de los decretos Nos. 282-10 y 223-11, que designaron auxiliares del Consulado de la República en Madrid, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 042-2020](decreto-042-2020.md)**
+
+que deroga el Dec. No. 162-07, que designó un vicecónsul de la República en Milano, Italia, y los artículos Nos. 7 y 2 de los decretos Nos. 334-09 y 692-11, que nombraron auxiliares de los consulados en Madrid y Sevilla, España, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 043-2020](decreto-043-2020.md)**
+
+que deroga el art. 4 del Dec. No. 1390-04, el Dec. No. 163-06 y el artículo 12 del Dec. No. 115-11, que designaron auxiliares de los consulado de la República en Valencia y Sevilla, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 044-2020](decreto-044-2020.md)**
+
+que deroga el Dec. No. 401-06, que designó un vicecónsul de la República en Zurich, Suiza, el artículo 2 del Dec. No. 789-08 y el artículo 1 del Dec. No.08-09, que nombraron vicecónsules en Frankfurt, Alemania. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 045-2020](decreto-045-2020.md)**
+
+que deroga el Dec. No. 602-08, el art. 28 del Dec. No. 06-09 y el art. 3 del
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 046-2020](decreto-046-2020.md)**
+
+que deroga el artículo 3 del Dec. No. 1443-04, que designó un auxiliar del Consulado en Marsella, Francia; y los artículos 1 y 8 de los decretos. Nos. 1463-04 y 604-08, que nombraron un vicecónsul en Paris, y una consejera de la Embajada de la República en Paris, Francia, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 047-2020](decreto-047-2020.md)**
+
+que deroga el Dec. No. 216-07, que designó al señor Porfirio Suero Pérez, consejero de la Embajada de la República en Suiza; el art. 1 del decreto No. 434-09, que designó un auxiliar del Consulado en Milán, Italia y el art. 4 del Dec. No. 386-14, que designó un vicecónsul en Valencia, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 048-2020](decreto-048-2020.md)**
+
+que designa a los señores Oscar Gómez y Rolando Santana Manzueta, vicecónsul en Barcelona, España y primer secretario de la Embajada de la República en la Santa Sede, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 049-2020](decreto-049-2020.md)**
+
+que nombra a los señores Rubén Darío Javier Sánchez y Juan de Jesús Cuevas Féliz, tercer secretario de la Embajada de la República en Italia y ministro consejero en Portugal, respectivamente; y a la señora Maria Altagracia de la Cruz Muñoz, vicecónsul en Madrid, España. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 050-2020](decreto-050-2020.md)**
+
+que designa al señor Adriano Rafael de los Santos Galvá, ministro consejero de la Embajada de la República en España. Nombra a los señores Santiago Apóstol Manzueta y Virginia del Carmen Mota, vicecónsules en Madrid. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 051-2020](decreto-051-2020.md)**
+
+que nombra a los señores Juan Ramón Hernández Reynoso y Sachenka Santos González, agregados culturales de la Embajada de la República en la Confederación Suiza y del Consulado en Madrid, España, respectivamente. Designa al señor Wilfrido Reyes Holguín, vicecónsul en Frankfurt, Alemania. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 052-2020](decreto-052-2020.md)**
+
+que designa a los señores Julio Antonio Ramírez Franco, Efraín Cuevas López y Saturnino Tucent Cipriano, auxiliares de los consulados de la República en Islas Canarias, Madrid y Valencia, España, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 053-2020](decreto-053-2020.md)**
+
+que nombra a los señores Apolinar Montero Batista y Luis Alberto Peláez Andino, vicecónsules de la República en Puerto Príncipe y Anse-á-Pitre, Haití, respectivamente. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">24/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 054-2020](decreto-054-2020.md)**
+
+que concede el beneficio de una pensión solidaria del Régimen Subsidiado del Sistema Dominicano de Seguridad Social por vejez y discapacidad a 4,845 personas, por un monto de RD$6,000.00 cada una. G. O. No. 10969 del 29 de enero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 055-2020](decreto-055-2020.md)**
+
+que designa a los señores Ramón Nicolás de los Santos y Junior Contreras, gobernador civil de la provincia Hato Mayor y miembro del Consejo de Administración de la Empresa Distribuidora de Electricidad del Este, respectivamente; y a los señores Juan David Moneró y Lucas Familia, subdirectores del Instituto de Estabilización de Precios y del Instituto Agrario Dominicano, respectivamente. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 056-2020](decreto-056-2020.md)**
+
+que nombra a la señora Evelia Pérez Estévez, subdirectora del Plan de Asistencia Social de la Presidencia, con asiento en la provincia Maria Trinidad Sánchez. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 057-2020](decreto-057-2020.md)**
+
+que designa a los señores Yilton Rafael Santana y Luis Alberto Núñez Castro, miembro del Directorio de la Unidad de Electrificación Rural y Suburbana, y subadministrador de la Lotería Nacional, respectivamente. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 058-2020](decreto-058-2020.md)**
+
+que deroga el art. 4 del Dec. No. 173-11, que nombró al señor Richard Pérez, subdirector del Instituto Dominicano de Aviación Civil (IDAC). G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 059-2020](decreto-059-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 060-2020](decreto-060-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 061-2020](decreto-061-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Francisco Antonio Pérez Fernández, alias Apache. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 062-2020](decreto-062-2020.md)**
+
+que autoriza la emisión de sellos postales para el franqueo de las correspondencias. Modifica el literal g), del art. 1 del Dec. No. 103-18. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 063-2020](decreto-063-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión especial del Estado dominicano al señor Nicolás Concepción García. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 064-2020](decreto-064-2020.md)**
+
+que crea el Parque de Zona Franca Industrial Limestone Park, ubicado en Luperón, Puerto Plata, bajo la administración técnica y operativa de la empresa Limestone Park Corporation. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 065-2020](decreto-065-2020.md)**
+
+que deja sin efecto nombramientos de embajadores alternos, ministros consejeros, consejeros, vicecónsules, secretarios de embajadas y auxiliares de consulados de la República en el exterior. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 066-2020](decreto-066-2020.md)**
+
+que deroga varias disposiciones que dejan sin efecto nombramientos de embajadores, ministros consejeros, consejeros, auxiliares, secretarios adscritos al Ministerio de Relaciones Exteriores y en el exterior, así como varios vicecónsules. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 067-2020](decreto-067-2020.md)**
+
+que deja sin efecto nombramientos de embajadores adscritos al Ministerio de Relaciones Exteriores, ministros consejeros, secretarios, vicecónsules, auxiliares de consulados, así como el cargo de Vicerepresentante de la Oficina Comercial de la República en Beijing, China. Deroga el art. 9 del Dec. No. 135-12 que designó al señor Samuel Nina Doñé, como agregado cultural de la Embajada de la República en Canadá. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 068-2020](decreto-068-2020.md)**
+
+que deroga el Dec. No. 29-09 que designó al señor Ramón Antonio Nina Trinidad, como ministro consejero de la Embajada en la República en El Salvador, y el
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 069-2020](decreto-069-2020.md)**
+
+que designa a los señores Johnny Rafael Mathew Estrella y Glaudy Ondina Gómez Fajardo, auxiliar del Consulado de la República en Miami, Estados Unidos de América y vicecónsul en San Juan, Puerto Rico, respectivamente. Nombra al señor Ludwig Albert Hernández Santos, auxiliar del Consulado en Sevilla, España. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 070-2020](decreto-070-2020.md)**
+
+que asciende al señor Pedro Felix Ramón Gómez Polanco, a primer secretario de la Embajada de la República en Italia. Nombra a los señores Jonathan Rafael Díaz Ureña y Felix Miguel Ortiz Reynoso, ministro consejero de la Embajada en Panamá, y auxiliar del Consulado en Paris, Francia, respectivamente. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 071-2020](decreto-071-2020.md)**
+
+que asciende a la consejera María Gabriela Santoni Bisonó, a ministra consejera y la traslada a la Embajada de la República en Argentina. Deroga el Dec. No. 418-10. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 072-2020](decreto-072-2020.md)**
+
+que nombra a los señores Rafael Antonio Lantigua Ciriaco y Carlos Dante Heredia García, embajadores de buena voluntad adscritos al Ministerio de Relaciones Exteriores (honoríficos). G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 073-2020](decreto-073-2020.md)**
+
+que designa al señor Francisco José Hernández Micheli, auxiliar del Consulado de la República en Chicago, Illinois, Estados Unidos de América. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 074-2020](decreto-074-2020.md)**
+
+que nombra a los señores Chanell D. Estrella Abreu y Juan Manuel Osoria Suárez, subdirectora administrativa y subdirector técnico de la Dirección General de Comunidad Digna, respectivamente. G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">31/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 075-2020](decreto-075-2020.md)**
+
+que designa al señor Justino Edison Tavárez Cabrera, subdirector del Consejo Estatal del Azúcar (CEA). G. O. No. 10970 del 7 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">31/01/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 076-2020](decreto-076-2020.md)**
+
+que designa al señor Jesús Rafael Cabrera, asesor empresarial del Poder Ejecutivo en la provincia Puerto Plata. G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 077-2020](decreto-077-2020.md)**
+
+que designa a las señoras Yovalina Isabel Pichardo García y Nayelin Denisse Aquino Serrano, consejera de la Embajada en la Republica Árabe de Egipto y auxiliar del Consulado en Boston. Nombra a los señores Isaac Rudman Majnsztejn y Ángel Antonio González García, embajador en el servicio interno del Ministerio de Relaciones Exteriores y consejero de la Embajada en Canadá, respectivamente. G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 078-2020](decreto-078-2020.md)**
+
+que nombra al señor Jhonny Antonio Leonardo Henríquez, asesor comercial del Poder Ejecutivo para la región norte. G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 079-2020](decreto-079-2020.md)**
+
+que deja sin efecto nombramientos de consejeros, agregados, ministros consejeros, secretarios y auxiliares de embajadas, y adscritos al Ministerio de Relaciones Exteriores, así como varios vicecónsules y un embajador alterno en la Misión Permanente de la República Dominicana ante la Organización Estados Americanos. G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 080-2020](decreto-080-2020.md)**
+
+que designa al Arq. Enrique José Feliz González, director ejecutivo de la Corporación de Acueductos y Alcantarillados de Boca Chica (CORAABO). G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 081-2020](decreto-081-2020.md)**
+
+que dispone la suspensión de las actividades docentes en el sistema educativo universitario y preuniversitario los días sábado 15 y domingo 16 del mes de febrero del año en curso, con motivo de la celebración de las elecciones municipales. G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 082-2020](decreto-082-2020.md)**
+
+que designa a la señora Loremi González Fernández, consejera de la Embajada de la República en Italia, y a los señores José Rosario Ventura y Dilia Josefina Pacheco, auxiliares de los consulados de la República en New York, Estados Unidos de América y Montreal, Canadá, respectivamente. G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 083-2020](decreto-083-2020.md)**
+
+que designa a los señores Juan Mercedes Mateo Guerrero y Elfrida Petronila Díaz Cartasio, consejeros de las embajadas de la República en El Salvador y Ecuador, respectivamente. Nombra al señor José Miguel Ángel Soto Thormann, primer secretario de la Embajada en Jamaica. G. O. No. 10971 del 14 de febrero de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 084-2020](decreto-084-2020.md)**
+
+que asciende a los señores Julio Bienvenido Pujols, Nancy Patricia Franjul Pérez y Venus Guillermina Carbonell Pichardo, a ministros consejeros en la Misión Permanente de la República ante las Naciones Unidas, y en la Embajada en el Reino de España, y a embajadora en el servicio interno del Ministerio de Relaciones Exteriores, respectivamente. Nombra a la señora Saghie Elena Balcácer Kury, vicecónsul de la República en Chicago, Illinois, Estados Unidos de América. G. O. No. 10973 del 4 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">19/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 085-2020](decreto-085-2020.md)**
+
+que deroga el Dec. No. 543-06, que designó al señor Thomas Augusto Amaral Neves, como cónsul honorario de la República en la ciudad de Curitiba, República Federativa de Brasil. G. O. No. 10973 del 4 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">19/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 086-2020](decreto-086-2020.md)**
+
+que instruye a las instituciones a cargo de la ejecución de programas destinados al alivio de la pobreza, alimentación, nutrición escolar, protección de mujeres, discapacitados, niños y adolescentes, que al convocar procesos de compra para adquirir los insumos necesarios para el correcto funcionamiento de estos programas, realicen convocatorias dirigidas exclusivamente a la agroindustria e industria nacional, siempre que en el mercado existan productores, industrias o fabricantes que demuestren tener capacidad para suministrarlos. G. O. No. 10973 del 4 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 087-2020](decreto-087-2020.md)**
+
+que declara de emergencia las compras y contrataciones de bienes y servicios indispensables para la ejecución de las iniciativas de preparación, prevención y respuesta ante el potencial ingreso al territorio nacional de personas afectadas por el Coronavirus 2019 (COVID-19) de acuerdo al art. 6 de la Ley No. 340-06, sobre Compras y Contrataciones de Bienes, Servicios, Obras y Concesiones, modificado por la Ley No. 449-06. Integra una comisión presidida por el Ministro de Salud Pública y Asistencia Social, la cual se encargará de llevar a cabo la ejecución del presente decreto. G. O. No. 10973 del 4 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">26/02/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 088-2020](decreto-088-2020.md)**
+
+que concede el beneficio de una pensión solidaria del Régimen Subsidiado del Sistema Dominicano de Seguridad Social por vejez y discapacidad a 932 personas, por un monto de RD$6,000.00 cada una. G. O. No. 10973 del 4 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">03/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 089-2020](decreto-089-2020.md)**
+
+que designa al señor Víctor Manuel Grimaldi Céspedes, embajador extraordinario y plenipotenciario de la República Dominicana ante el Reino de Suecia. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 090-2020](decreto-090-2020.md)**
+
+que nombra al señor Fausto Marino Mendoza Rodríguez, embajador extraordinario y plenipotenciario de la República Dominicana en Panamá. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 091-2020](decreto-091-2020.md)**
+
+que aprueba el Plan Nacional de Atribución de Frecuencias (PNAF) en los términos sometidos al Poder Ejecutivo por el Instituto Dominicana de las Telecomunicaciones (INDOTEL) mediante la Resolución de su Consejo Directivo No. 011-20. Deroga el Dec. No. 520-11. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 092-2020](decreto-092-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 093-2020](decreto-093-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 549-12, que nombró al Lic. José Francisco Martinez Rodríguez, miembro del Consejo de Administración de la Empresa Distribuidora de Electricidad del Sur (EDESUR). G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 094-2020](decreto-094-2020.md)**
+
+que modifica el artículo 3 del Dec. No.36-20. Designa al señor Fabio Hilario Cepeda, como vicecónsul de la República en Sevilla, España. Confirma al señor Genaro Rodríguez Morel, como vicecónsul en Sevilla, España. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 095-2020](decreto-095-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 096-2020](decreto-096-2020.md)**
+
+que deroga el artículo 4 del Dec. No. 599-08, que nombró a la señora Vicenta Santana Garrido, subdirectora del Plan de Asistencia Social de la Presidencia con asiento en San Pedro de Macorís. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 097-2020](decreto-097-2020.md)**
+
+que designa al señor Flavio Antonio Cabreja Gómez, vicecónsul de la República en La Habana, Cuba. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 098-2020](decreto-098-2020.md)**
+
+que otorga la Medalla al Mérito de la Mujer a varias damas dominicanas, con motivo del Día Internacional de la Mujer. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 099-2020](decreto-099-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 100-2020](decreto-100-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 101-2020](decreto-101-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 102-2020](decreto-102-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 103-2020](decreto-103-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 104-2020](decreto-104-2020.md)**
+
+que designa a la señora Gisselle Maria Fiallo Pellerano, consejera de la Embajada de la República Dominicana en Perú. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 105-2020](decreto-105-2020.md)**
+
+nombra a los señores Rafael Rodríguez Molina y Ramón Morillo Ogando, subdirectores generales de Bienes Nacionales y de los Comedores Económicos del Estado, respectivamente. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 106-2020](decreto-106-2020.md)**
+
+que designa al señor Faustino Rosario Fermín, subdirector del Consejo Estatal del Azúcar (CEA). G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 107-2020](decreto-107-2020.md)**
+
+que nombra al señor Freddy Antonio Hernández de la Rosa, subdirector general de Ganadería. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 108-2020](decreto-108-2020.md)**
+
+que designa al señor Rubén Darío Grullón Gómez, subdirector del Instituto Nacional de Recursos Hidráulicos (INDHRI). G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 109-2020](decreto-109-2020.md)**
+
+que dispone la suspensión de las actividades docentes en el sistema educativo universitario y preuniversitario los días viernes 13, sábado 14 y domingo 15 del mes de marzo del año en curso, con motivo de la celebración de las elecciones extraordinarias municipales. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 110-2020](decreto-110-2020.md)**
+
+que nombra a la señora Miguelina de Castro, administradora del Hipódromo V Centenario. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 111-2020](decreto-111-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América, del ciudadano dominicano Roberto Rosario, alias Melo. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 112-2020](decreto-112-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América, del ciudadano dominicano Domingo St. Hilaire, alias Domingo Saint Hilaire Rosario, alias Domingo Saint-Hilaire Rosario (St. Hilaire Rosario). G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 113-2020](decreto-113-2020.md)**
+
+que dispone la entrega en extradición al Gobierno de la República Francesa, del ciudadano dominicano Joni López López, alias Cacón. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 114-2020](decreto-114-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América, del ciudadano dominicano Melvin Martinez, alias La Fuerza, alias Yo Mismo. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 115-2020](decreto-115-2020.md)**
+
+que excluye de la expropiación efectuada mediante el Dec. No. 333-13,
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 116-2020](decreto-116-2020.md)**
+
+que modifica el numeral 3 del artículo 1 del Dec. No. 41-15. Declara de utilidad pública la parcela No. 208880271616, ubicada en Bohechio, provincia San Juan, para ser destinada a la construcción de edificaciones escolares. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 117-2020](decreto-117-2020.md)**
+
+que excluye de la expropiación efectuada mediante el artículo 1, numeral 18 del Dec. No. 118-16, la parcela No. 400439436521, del municipio Santo Domingo Norte. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 118-2020](decreto-118-2020.md)**
+
+que modifica el artículo 1 del Dec. No. 463-19, que a su vez modificó el numeral 4 del artículo 1 del Dec. No. 117-16. Declara de utilidad pública e interés social por parte del Estado dominicano, una porción de terreno de 3,409.30 Mts², dentro de la parcela No. 325, del D.C. No. 12, del municipio Moca, provincia Espaillat. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 119-2020](decreto-119-2020.md)**
+
+que declara de utilidad pública e interés social por parte del Estado dominicano, varias porciones de terrenos en distintos municipios del país, para ser utilizadas en la construcción de edificaciones escolares. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 120-2020](decreto-120-2020.md)**
+
+que crea el parque zona franca industrial que se denominará Zona Franca Industrial Hatillo, bajo la administración técnica y operativa de la compañía Friendship Development Group, S.R.L., ubicada en San Cristóbal. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 121-2020](decreto-121-2020.md)**
+
+que modifica los artículos 1 y 2 del Dec. No. 312-18, que modificaron los decretos Nos. 143-10 y 371-14, en lo relativo al área superficial donde realiza sus operaciones productivas la Zona Franca Industrial Perlav. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 122-2020](decreto-122-2020.md)**
+
+que deroga el Dec. No. 65-20, del 29 de enero de 2020. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 123-2020](decreto-123-2020.md)**
+
+que deroga el artículo 5 del Dec. No. 134-11, que nombró al señor Iván Ignacio Tapia Linares, ministro consejero de la Embajada de la República en Abu Dabi, Emiratos Árabes Unidos. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 124-2020](decreto-124-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 220-06, que designó al señor Ludovino Herrera Cabral, como vicecónsul de la República en Boston, Massachussets, Estados Unidos de América. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 125-2020](decreto-125-2020.md)**
+
+que nombra al señor Pavlos Photiades, cónsul honorario de la Republica Dominicana en Nicosia, Chipre. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 126-2020](decreto-126-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 425-14, que otorgó exequatur al señor José Maria Sanguino Blanquiño, para ejercer de cónsul honorario del Reino de España en Las Terrenas, Samaná. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 127-2020](decreto-127-2020.md)**
+
+que autoriza a Turpial Airlines, C.A., sociedad comercial organizada de conformidad con las leyes de la República Bolivariana de Venezuela, a fijar domicilio en la República Dominicana. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 128-2020](decreto-128-2020.md)**
+
+que autoriza a la compañía Churches Estate Agents, LTD, sociedad comercial organizada de conformidad con las leyes de la República de Irlanda, a fijar domicilio en la Republica Dominicana. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 129-2020](decreto-129-2020.md)**
+
+que autoriza al teniente coronel piloto Daniel Yapor Genao, FARD, a aceptar y usar la condecoración “Medalla Minerva”, otorgada por el comandante en jefe de la Fuerza Aérea de Chile. G. O. No. 10974 del 16 de marzo de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 130-2020](decreto-130-2020.md)**
+
+que declara duelo oficial el día 17 de marzo del presente año, con motivo del fallecimiento del doctor Manuel Bergés Chupani. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 131-2020](decreto-131-2020.md)**
+
+que nombra al Dr. Jorge Marte Báez, asesor médico del Poder Ejecutivo, quien formará parte de la Comisión de Alto Nivel para la Prevención y Control del Coronavirus. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">19/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 132-2020](decreto-132-2020.md)**
+
+que confirma la Comisión de Alto Nivel para la Prevención y Control del Coronavirus y crea e integra la Comisión para Atender los Asuntos Económicos y de Empleo, así como también crea e integra la Comisión para Atender los Asuntos Sociales. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">19/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 133-2020](decreto-133-2020.md)**
+
+que declara de emergencia las compras y contrataciones de bienes y servicios indispensables para la ejecución de iniciativas de prevención, asistencia médica y construcción de infraestructuras de salud pública ante el Coronavirus (COVID-19), de acuerdo con el artículo 6 de la Ley No. 340-06. Deroga el Dec. No. 87- 20 del 26 de febrero de 2020. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">19/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 134-2020](decreto-134-2020.md)**
+
+que declara de estado de emergencia en todo el territorio nacional en virtud de la autorización otorgada por el Congreso Nacional mediante Resolución No. 62-20, el cual se mantendrá por veinticinco (25) días. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">19/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 135-2020](decreto-135-2020.md)**
+
+que establece un toque de queda en todo el territorio nacional y prohíbe el tránsito y circulación de personas desde las 8:00 p.m. hasta las 6:00 a.m. a partir del viernes 20 de marzo del año en curso hasta el viernes 3 de abril del año en curso, por un plazo de 15 días. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 136-2020](decreto-136-2020.md)**
+
+que modifica el artículo 2 del Dec. No. 135-20. Dispone la circulación de vehículos dedicados al transporte y distribución de mercancías y empresas prestadoras de servicio de energía, agua y recogida de desechos sólidos y personas que laboren en puertos y aeropuertos, comercios de alimentos, así como personas y vehículos destinados a servicios funerarios. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">23/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 137-2020](decreto-137-2020.md)**
+
+que suspende, mientras dure el estado de emergencia, el computo de los plazos y términos de los procedimientos administrativos instrumentados ante los órganos que integran la Administración Pública Central y desconcentrada, así como ante los organismos autónomos y descentralizados del Estado instituidos por leyes y adscritos a los ministerios. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">23/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 138-2020](decreto-138-2020.md)**
+
+que dispone la extensión del horario del toque de queda de 5:00 p.m. a 6:00 a.m. establecido para todo el territorio nacional en virtud del Dec. No. 135-20, a partir del viernes 27 de marzo 2020 hasta viernes 3 abril del año en curso. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">26/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 139-2020](decreto-139-2020.md)**
+
+que designa a los señores Héctor Bienvenido Medina Disla y Matilde Chávez de Álvarez, director general del Programa Progresando con Solidaridad del Gabinete de Políticas Sociales y directora general del Sistema Único de Beneficiarios, respectivamente. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">26/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 140-2020](decreto-140-2020.md)**
+
+que nombra al Dr. Amado Alejandro Báez, asesor del Poder Ejecutivo en salud pública y sistemas de desastres, emergencias masivas y cuidados críticos. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">31/03/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 141-2020](decreto-141-2020.md)**
+
+que crea e integra el Comité de Emergencia y Gestión Sanitaria para el Combate del COVID-19. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">01/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 142-2020](decreto-142-2020.md)**
+
+dispone que se mantendrán vigentes por un plazo adicional de quince (15) días, a partir del viernes 3 de abril del año en curso, todas las medidas de distanciamiento social y las medidas adicionales que ha implementado la Comisión de Alto Nivel para la Prevención y Control de Coronavirus. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 143-2020](decreto-143-2020.md)**
+
+que crea el Fondo de Asistencia Solidaria al Empleado (FASE) para apoyar de manera transitoria a los trabajadores formales del sector privado con una transferencia monetaria, con el objetivo de contrarrestar los efectos económicos de las medidas adoptadas para frenar la propagación del Coronavirus (COVID-19). G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 144-2020](decreto-144-2020.md)**
+
+que modifica el art. 2 del Dec. No. 133-20, para que también aplique a las siguientes instituciones: Plan de Asistencia Social de la Presidencia, Comedores Económicos del Estado Dominicano y al Instituto Nacional de Atención Integral a la Primera Infancia. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 145-2020](decreto-145-2020.md)**
+
+que crea e integra la Comisión de Veeduría Ciudadana COVID-19 como mecanismo para vigilar, dar seguimiento y monitorear los procesos de compras y contrataciones que se lleven a cabo bajo el esquema de compras de emergencia según disposición del Poder Ejecutivo, para dar estricto cumplimiento a la Ley No. 340-06. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">05/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 146-2020](decreto-146-2020.md)**
+
+que nombra a las señoras Kenia Lora Abreu y Greybbi Maria Cuello Coste de Torres, directora del Instituto Nacional del Atención Integral a la Primera Infancia y directora general del Consejo Nacional para la Niñez y la Adolescencia respectivamente. Destituye de sus cargos a varios funcionarios del Instituto Nacional de Atención Integral a la Primera Infancia. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">08/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 147-2020](decreto-147-2020.md)**
+
+que designa al Lic. Marcel Alexander Mejía Taveras, viceministro de Cooperación Internacional del Ministerio de Economía, Planificación y Desarrollo, quien además desempeñara las funciones de Ordenador Nacional de los Fondos Europeos para el Desarrollo. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">09/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 148-2020](decreto-148-2020.md)**
+
+que prorroga el estado de emergencia en todo el territorio nacional por un plazo de diecisiete (17) días, a partir del 14 de abril del año en curso, en virtud de la Resolución del Congreso Nacional No. 63-20 del 11 de abril del año en curso. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 149-2020](decreto-149-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">09/04/2020 · normalizado con alerta · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 150-2020](decreto-150-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Fausto J. Clase, alias John Doe. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 151-2020](decreto-151-2020.md)**
+
+que prorroga el estado de emergencia en todo el territorio nacional por 17 días contados a partir del 1 de mayo de 2020, en virtud de la autorización otorgada por el Congreso Nacional mediante la Resolución No. 64-20. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 152-2020](decreto-152-2020.md)**
+
+que designa a los señores Bienvenido Peña y Adrián Puello Guerrero, viceministros de Salud Pública. Nombra a la capitán de navío Dra. Valery Sánchez Díaz, ARD, directora provincial de salud de la provincia Duarte. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 153-2020](decreto-153-2020.md)**
+
+que prorroga el estado de emergencia en todo el territorio nacional por diecisiete (17) días más, a partir del 1 de mayo del año en curso, en virtud de la Resolución del Congreso Nacional No. 64-20. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">30/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 154-2020](decreto-154-2020.md)**
+
+que mantiene vigentes hasta el domingo 17 de mayo del año en curso las medidas de distanciamiento social adoptadas por el Poder Ejecutivo, así como las medidas adicionales que ha implementado la Comisión de Alto Nivel para la Prevención y Control del Coronavirus. Extiende el toque de queda en todo el territorio nacional hasta el domingo 17 de mayo de 2020, desde la 5:00 p.m. hasta la 6:00 a.m. G. O. No. 10975 del 30 de abril de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">30/04/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 155-2020](decreto-155-2020.md)**
+
+que nombra a los señores Gustavo Lembert Canó y Julio César Núñez, cónsules generales de la República en Puerto Príncipe, Republica de Haití y en Montreal, Canadá, respectivamente. Designa al señor Edixon Mateo Quezada, cónsul de la República en Cabo Haitiano, República de Haití. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">01/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 156-2020](decreto-156-2020.md)**
+
+que modifica el artículo 1 del Dec. No. 51-19. Declara de utilidad pública e interés social la adquisición por parte del Estado dominicano de una franja de terreno de catorce punto tres kilómetros (14.3Km) de largo en la provincia Santo Domingo, para la construcción y puesta en servicio de la Línea 2 del Teleférico de Santo Domingo. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">11/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 157-2020](decreto-157-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 158-2020](decreto-158-2020.md)**
+
+que deroga el artículo 3 del Dec. No. 141-14, que designó al Ing. Antonio Herrera, viceministro de Energía e Infraestructura del Ministerio de Energía y Minas. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 159-2020](decreto-159-2020.md)**
+
+que nombra a los señores Danilo Rafael Santos y Pedro René Almonte Mejía, viceministros para las Comunidades del Dominicano en el Exterior del Ministerio de Relaciones Exteriores, y de Coordinación Regional del Ministerio de Obras Públicas y Comunicaciones, respectivamente. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 160-2020](decreto-160-2020.md)**
+
+que prorroga el estado de emergencia en todo el territorio nacional por un plazo de quince (15) días, a partir del 18 de mayo del año en curso, en virtud de la Resolución del Congreso Nacional No. 65-20. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 161-2020](decreto-161-2020.md)**
+
+que mantiene vigentes las medidas de distanciamiento social adoptadas por el Poder Ejecutivo desde el 17 de marzo del presente año, incluyendo las que ha implementado la Comisión de Alto Nivel para la Prevención y Control del Coronavirus. Extiende el toque de queda de 7:00 p.m. a 5:00 a.m., de lunes a sábado y de 5:00 p.m. a 5:00 a.m. los domingos. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">17/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 162-2020](decreto-162-2020.md)**
+
+que integra al Ministerio de Energía y Minas como miembro de la Comisión Presidencial para la Reestructuración del Vertedero a Cielo Abierto de Duquesa. Designa a la viceministra de Hábitat y Desarrollo Local del Ministerio de la Presidnecia, señora Sina del Rosario, como directora ejecutiva de la citada Comisión. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">18/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 163-2020](decreto-163-2020.md)**
+
+que nombra a la Lic. Zoraima Cuello, directora ejecutiva del Consejo Nacional de Competitividad. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">19/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 164-2020](decreto-164-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 276-18. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 165-2020](decreto-165-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 166-2020](decreto-166-2020.md)**
+
+que le concede el beneficio de la incorporación a la Cámara de Comercio, Industria, Turismo y Producción Dominico-Ecuatoriana. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 167-2020](decreto-167-2020.md)**
+
+que deroga el Dec. No. 73-19, mediante el cual se designó al Lic. Robert Wander de la Cruz Carpio, subdirector del Departamento Nacional de Investigaciones. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 168-2020](decreto-168-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América, del ciudadano dominicano Willis González, alias Jorge Cruz Canela. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 169-2020](decreto-169-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América, del ciudadano dominicano Joel Almonte, alias Joel Núñez, alias Joel A. Núñez. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 170-2020](decreto-170-2020.md)**
+
+que dispone la entrega en extradición a la República de Francia, del ciudadano francés Fernand Simon Albert Vallee. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 171-2020](decreto-171-2020.md)**
+
+que concede naturalización dominicana a varios extranjeros. Modifica el numeral 4 del artículo 1 del Decreto No. 1001-01; el numeral 14 del artículo 1 del Decreto No. 301-07, y el numeral 17 del artículo 1 del Decreto No. 335-19. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 172-2020](decreto-172-2020.md)**
+
+que nombra a los señores Julio Alberto Avila Avila y Julissa Esperanza Martínez Santos viceministros de Energía y Minas y Técnica y de Políticas Públicas de Género del Ministerio de la Mujer, respectivamente. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">22/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 173-2020](decreto-173-2020.md)**
+
+que designa al Ing. José Casimiro Ramos Calderón, asesor agrícola del Poder Ejecutivo y coordinador del Programa Nacional de Siembra de Cultivos de Ciclo Corto. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">27/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 174-2020](decreto-174-2020.md)**
+
+que establece un procedimiento especializado para lograr la titulación de los parques industriales y de zonas francas, así como de sus naves comerciales e industriales construidas por el Estado dominicano o con su participación. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 175-2020](decreto-175-2020.md)**
+
+que crea e integra la Comisión Presidencial de Fomento a la Innovación para la Elaboración de la Estrategia Nacional de Innovación de la República Dominicana 2020-2030. Crea el Centro Nacional de Innovación, dependiente del Ministerio de la Presidencia, así como también crea el Fondo Nacional de Apoyo a la Innovación Empresarial. Deroga el Decreto No. 190-07 que creó el Sistema Nacional de Innovación. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 176-2020](decreto-176-2020.md)**
+
+que excluye de la expropiación efectuada mediante Decreto No. 305-18,
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 177-2020](decreto-177-2020.md)**
+
+que excluye de la expropiación efectuada mediante el numeral 6, del
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 178-2020](decreto-178-2020.md)**
+
+que declara de utilidad pública e interés social dos porciones de terrenos en Esperanza, provincia Valverde, para ser destinadas a edificaciones escolares. Modifica el numeral 1 del artículo 1 del Decreto No. 411-14. Declara de utilidad pública una porción de terreno en Samaná, propiedad del señor Felipe de Jesús de la Cruz. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 179-2020](decreto-179-2020.md)**
+
+que designa a la señora Alejandra Bernal Veras, vicecónsul de la República en Madrid, España. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 180-2020](decreto-180-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado al señor Sergio Antonio García Hernández. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 181-2020](decreto-181-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado al señor Rahonel Grullón Gómez. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 182-2020](decreto-182-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado al señor Víctor José del Prado Villalón. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 183-2020](decreto-183-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado a la señora Juana Erania Ramírez Cabral de Abreu. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 184-2020](decreto-184-2020.md)**
+
+que modifica los artículos 5, 6, 7, 8 y 9 del Decreto No. 143-20, que creó el Fondo de Asistencia Solidaria al Empleado (Fase). G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 185-2020](decreto-185-2020.md)**
+
+que crea el Programa de Asistencia al Trabajador Independiente (PA’TI). G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 186-2020](decreto-186-2020.md)**
+
+que confirma al señor Pedro Luis Castellanos como Superintendente de Salud y Riesgos Laborales, designado mediante el Decreto No. 78-15 del 25 de marzo de 2015. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">29/05/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 187-2020](decreto-187-2020.md)**
+
+que prorroga el estado de emergencia en todo el territorio nacional por doce (12) días, contados a partir del 2 de junio en curso, en virtud de la Resolución del Congreso Nacional No. 66-20. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">01/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 188-2020](decreto-188-2020.md)**
+
+que ratifica todas las medidas de distanciamiento social adoptadas por el Poder Ejecutivo desde el 17 de marzo del presente año, incluyendo las que ha implementado la Comisión de Alto Nivel para la Prevención y Control del Coronavirus con sus respectivas modificaciones, así como el proceso de reapertura gradual de las actividades económicas iniciado el 20 de mayo del año en curso. Extiende el toque de queda hasta el 13 de junio en curso de 7:00 p.m. a 5:00 a.m., de lunes a sábado, y los domingos de 5:00 p.m. a 5:00 a.m. G. O. No. 10976 del 2 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">01/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 189-2020](decreto-189-2020.md)**
+
+que que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 190-2020](decreto-190-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 191-2020](decreto-191-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 192-2020](decreto-192-2020.md)**
+
+que designa a la señora Cherybell Esther Gómez Polanco, consejera en la Misión Permanente de la República Dominicana ante la Organización de las Naciones Unidas, Nueva York, Estados Unidos de América, ascenso. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 193-2020](decreto-193-2020.md)**
+
+que nombra a los señores Hernán Guaroa Sánchez de los Santos, Nelcy Karina Almonte Checo y Evelyn Vásquez Batista, como primer, segunda y tercera secretaria en el servicio interno del Ministerio de Relaciones Exteriores, respectivamente. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">02/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 194-2020](decreto-194-2020.md)**
+
+que concede el beneficio de una pensión solidaria del Régimen Subsidiado del Sistema Dominicano de Seguridad Social por vejez y discapacidad a 2,476 personas, por un monto de RD$6,000.00 cada una. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">03/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 195-2020](decreto-195-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano al señor Carlos Huberto Bogaert Portela. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">03/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 196-2020](decreto-196-2020.md)**
+
+que designa a los señores Geovanny González Capellán y William Aquino, miembro del Consejo de Administración de la Empresa de Generación Hidroeléctrica Dominicana y subdirector de la Oficina Metropolitana de Servicios de Autobuses, respectivamente. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 197-2020](decreto-197-2020.md)**
+
+que deroga el artículo 5 del Dec. No. 1408-04, que designó al señor Ramón Revi Matos, como primer secretario en la Misión Permanente de la República ante la Organización de Estados Americanos; y el artículo 5 del Dec. No. 3-09, que nombró al señor Ramón Ramírez, consejero de la Embajada de la República en Perú. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 198-2020](decreto-198-2020.md)**
+
+que excluye de la expropiación efectuada mediante artículo 1, numeral 17 del Dec. No. 230-13, varias parcelas en La Vega, las cuales fueron destinadas a edificaciones escolares. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 199-2020](decreto-199-2020.md)**
+
+que concede el beneficio de la jubilación, asigna pensiones especiales y eleva pensiones del Estado dominicano a varias personas. Modifica el numeral 17 del
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 200-2020](decreto-200-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varias personas. Modifica el numeral 12 del artículo 1 del Dec. No. 265-17. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 201-2020](decreto-201-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varias personas. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 202-2020](decreto-202-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varios envejecientes y ex servidores públicos y eleva el monto de pensiones otorgadas a varias personas. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 203-2020](decreto-203-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano por antigüedad en el servicio a varios servidores públicos, así como eleva el monto de pensiones otorgadas. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 204-2020](decreto-204-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano por antigüedad en el servicio a varios servidores públicos, así como eleva el monto de pensiones concedidas. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 205-2020](decreto-205-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano por antigüedad en el servicio a varios servidores públicos. Modifica el numeral 70 del artículo 1 del Dec. No. 13-19, así como eleva el monto de pensiones concedidas. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 206-2020](decreto-206-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano por antigüedad en el servicio a varios servidores públicos. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 207-2020](decreto-207-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varias personas y eleva el monto de pensiones concedidas. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 208-2020](decreto-208-2020.md)**
+
+que designa los gobernadores civiles de las provincias: San Pedro de Macorís, San José de Ocoa, Maria Trinidad Sánchez, Bahoruco, Elías Piña, Santiago Rodríguez y El Seibo. Nombra a los señores Miguel Ángel Núñez y Blas Henríquez, cónsul de la República en Juana Méndez, República de Haití y subdirector del Instituto Agrario Dominicano, respectivamente. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">05/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 209-2020](decreto-209-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano a la servidora pública Mercedes Angélica Camarena Abreu. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">08/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 210-2020](decreto-210-2020.md)**
+
+QUE PONE A CARGO DEL MINISTERIO DE AGRICULTURA Y SUS DEPENDENCIAS, TODAS LAS MEDIDAS RELACIONADAS CO...
+
+<p class="leydo-year-meta">08/06/2020 · pendiente de PDF · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 211-2020](decreto-211-2020.md)**
+
+que que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 212-2020](decreto-212-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 637-10, que designó a la señora Sonia Altagracia Vargas, como ministra consejera en la Misión Permanente de la República Dominicana ante la Organización de las Naciones Unidas y otro organismos internacionales, en Ginebra, Suiza, trasladada a la Misión Permanente de la República Dominicana ante la Organización de los Estados Americanos. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 213-2020](decreto-213-2020.md)**
+
+que prorroga el estado de emergencia en todo el territorio nacional por diecisiete (17) días, contados a partir del 14 de junio en curso, en virtud de la Resolución del Congreso Nacional No. 67-20. Dispone que el Poder Ejecutivo continuará rindiendo informes periódicos a la comisión bicameral del Congreso Nacional, integrada para dar seguimiento al estado de excepción mediante la Resolución No. 67-20. G. O. No. 10977 del 15 de junio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 214-2020](decreto-214-2020.md)**
+
+que ratifica todas las medidas de distanciamiento social adoptadas por el Poder Ejecutivo desde el 17 de marzo del presente año, incluyendo las que ha implementado la Comisión de Alto Nivel para la Prevención y Control del Coronavirus con sus modificaciones, así como el proceso de reapertura gradual de las actividades económicas iniciado el 20 de mayo del año en curso. Extiende el toque de queda hasta el 27 de junio en curso de 8:00 p.m. a 5:00 a.m., todos los días. Modifica el artículo 2 del
+
+<p class="leydo-year-meta">12/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 215-2020](decreto-215-2020.md)**
+
+que deroga el artículo 5 del Dec. No. 104-12, que nombró al señor Nelson Rosario, como subadministrador de la Lotería Nacional. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 216-2020](decreto-216-2020.md)**
+
+que crea la Red Nacional de Servicios de Sangre, como el conjunto de servicios de bancos de sangre y transfusión sanguínea del Sistema Nacional de Salud, para garantizar la calidad y seguridad de la sangre, sus componentes y derivados de manera eficiente, oportuna y accesible. Crea el Hemocentro Nacional como órgano desconcentrado del Ministerio de Salud Pública y Asistencia Social. Deroga el Decreto No. 349-04 y modifica los artículos 7, 8, 9, 10, 11, 15 y 60 del Decreto No. 250-06. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 217-2020](decreto-217-2020.md)**
+
+dispone que la Dirección General de Emergencias Médicas, órgano desconcentrado del Ministerio de Salud Pública y Asistencia Social, queda transformada en la Dirección de Emergencias Médicas, dirección de área dependiente de la Dirección Central del Servicio Nacional de Salud. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 218-2020](decreto-218-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano al servidor público señor Radhamés Martínez Aponte. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 219-2020](decreto-219-2020.md)**
+
+que nombra a la señora Criseida Díaz Pérez, auxiliar del Consulado de la República en Valencia, España. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 220-2020](decreto-220-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano a la servidora pública Lucía Fernández. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 221-2020](decreto-221-2020.md)**
+
+que designa a la señora Heidy Vanessa Almonte Acosta de Cornelio, vicecónsul de la República en Juana Méndez, Haití. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 222-2020](decreto-222-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano al señor Conrado Pericles Peguero Martínez. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 223-2020](decreto-223-2020.md)**
+
+que concede la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella, en el Grado de Gran Cruz Placa de Plata, al excelentísimo señor Christopher John Campbell, embajador extraordinario y plenipotenciario del Reino Unido de Gran Bretaña e Irlanda del Norte en la República Dominicana. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 224-2020](decreto-224-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano al servidor público Bolívar Radhamés Sánchez Veloz. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 225-2020](decreto-225-2020.md)**
+
+que concede la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella, en el Grado Gran Cruz Placa de Plata, al excelentísimo señor Byung- Yun Kim, embajador extraordinario y plenipotenciario de la República de Corea en la República Dominicana. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 226-2020](decreto-226-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano al señor Nehemia Canio Rodríguez Quezada. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 227-2020](decreto-227-2020.md)**
+
+que declara de utilidad pública e interés social una porción de terreno de 620.00 M2, dentro de la parcela No. 217 del D. C. No. 3, del municipio de Cabrera, provincia María Trinidad Sánchez, para ser destinada a la terminación del acueducto múltiple de dicho municipio. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 228-2020](decreto-228-2020.md)**
+
+que eleva el monto de la pensión concedida por el Estado dominicano al Dr. José Arturo Silié Ruiz. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado con alerta · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 229-2020](decreto-229-2020.md)**
+
+que autoriza varias emisiones de sellos postales para el franqueo de las correspondencias. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 230-2020](decreto-230-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">22/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 231-2020](decreto-231-2020.md)**
+
+que que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">22/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 232-2020](decreto-232-2020.md)**
+
+que designa a la señora Perla Maxiel Forchue Liriano, auxiliar del Consulado de la República Dominicana en Boston, Massachusetts, Estados Unidos de América. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">25/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 233-2020](decreto-233-2020.md)**
+
+que nombra al señor Nadin Miguel Bezi Nicasio, viceministro de Análisis Económico y Social del Ministerio de Economía, Planificación y Desarrollo. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">25/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 234-2020](decreto-234-2020.md)**
+
+que designa al señor Luis Alberto Peláez Andino, vicecónsul de la República Dominicana en Cabo Haitiano, Haití. Deroga el artículo 2 del Dec. No. 53- 20. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">25/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 235-2020](decreto-235-2020.md)**
+
+que dispone la suspensión de las actividades en los planteles del sistema educativo universitario y preuniversitario los días viernes 3, sábado 4 y domingo 5 de julio del año en curso. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">30/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 236-2020](decreto-236-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varios servidores públicos. G. O. No. 10978 del 2 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">30/06/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 237-2020](decreto-237-2020.md)**
+
+dispone que en cumplimiento del artículo 31 de la Ley No. 21-18, sobre Regulación de los Estados de Excepción contemplados por la Constitución de la República, queda levantado el Estado de Emergencia declarado mediante el Dec. No. 134-20, en virtud de la Resolución del Congreso Nacional No. 62-20. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">01/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 238-2020](decreto-238-2020.md)**
+
+que crea e integra la Comisión de Transición Gubernamental. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 239-2020](decreto-239-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. Modifica el numeral 10, del artículo 1 del Dec. No. 459-19. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 240-2020](decreto-240-2020.md)**
+
+que deroga el Dec. No. 410-17, que nombró al señor Aquiles Leonel Ledesma Alcántara, embajador extraordinario y plenipotenciario de la República Dominicana en la República Árabe de Egipto. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">06/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 241-2020](decreto-241-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">07/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 242-2020](decreto-242-2020.md)**
+
+que autoriza al Ministerio de Hacienda a efectuar los pagos correspondientes a los programas Fase I, Fase II, Quédate en Casa y Pa’ti hasta el 15 de agosto del año en curso. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">08/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 243-2020](decreto-243-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">08/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 244-2020](decreto-244-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">08/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 245-2020](decreto-245-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">09/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 246-2020](decreto-246-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. Modifica el artículo 11 del Dec. No. 217-16. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">09/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 247-2020](decreto-247-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">09/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 248-2020](decreto-248-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">09/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 249-2020](decreto-249-2020.md)**
+
+que designa al señor Juan Pablo García Garza, cónsul honorario de la Republica en Monterrey, México. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 250-2020](decreto-250-2020.md)**
+
+que deroga varias disposiciones que dejan sin efecto los nombramientos del director de Comunicaciones y Relaciones Públicas del Ministerio de Relaciones Exteriores, secretaria de la Oficina de Desarrollo Comercial de la Republica en Hong Kong, vicecónsul de la República en Cabo Haitiano, Haití y ministros consejeros adscrito al Ministerio de Relaciones Exteriores y de nuestras embajadas en Alemania y en Trinidad y Tobago. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 251-2020](decreto-251-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 243-18 y el artículo 14 del Dec. No. 216-18, que designaron a los señores Daniela Garabito Silva y Luis Bienvenido García Mercado, como auxiliar del Consulado de la República en Montreal, Canadá y consejero de la Embajada de la República en Costa Rica, respectivamente. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 252-2020](decreto-252-2020.md)**
+
+que establece el Reglamento de Aplicación de la Ley No. 42-08, General de Defensa de la Competencia. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 253-2020](decreto-253-2020.md)**
+
+que aprueba el Reglamento del Transporte Privado de Trabajadores. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 254-2020](decreto-254-2020.md)**
+
+que establece el Reglamento de Planes Laborales de Seguridad Vial y Movilidad a Desarrollar por las Empresas. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 255-2020](decreto-255-2020.md)**
+
+que aprueba el Reglamento del Transporte Turístico. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 256-2020](decreto-256-2020.md)**
+
+que establece el Reglamento de Uso y Transporte en Motocicletas, Bicicletas y otros Vehículos de Movilidad Personal. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 257-2020](decreto-257-2020.md)**
+
+que aprueba el Reglamento del Transporte Escolar. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 258-2020](decreto-258-2020.md)**
+
+que aprueba el Reglamento de Transporte de Cargas. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 259-2020](decreto-259-2020.md)**
+
+que establece el Reglamento de Planes Locales de Seguridad Vial y Movilidad a Desarrollar por los Municipios. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 260-2020](decreto-260-2020.md)**
+
+que deroga disposiciones que nombraron asesores del Poder Ejecutivo, así como intendentes-delegados del Poder Ejecutivo para la Descentralización en varias regiones del país. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 261-2020](decreto-261-2020.md)**
+
+que designa al señor Basilius Llabaly Divini, cónsul honorario de la Republica Dominicana en Tel Aviv, Israel. G. O. No. 10979 del 16 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">15/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 262-2020](decreto-262-2020.md)**
+
+que concede naturalización dominicana a varios extranjeros. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 263-2020](decreto-263-2020.md)**
+
+que asciende a los coroneles ERD (DEM) Rafael Vásquez Espínola, José Manuel Durán Infante, Ricardo A. Castillo Terrero y al coronel piloto Huascal Darío González Payano, FARD (DEM), al rango de General de Brigada ERD, y a General de Brigada Piloto, el último, FARD. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 264-2020](decreto-264-2020.md)**
+
+que asciende a los coroneles licenciados Pablo Francisco Ortega Brito, Eddy Francisco Pérez Peralta, Frank Félix Durán Mejía y José Antonio Ceballo, P.N., al rango de General de Brigada, P.N. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">16/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 265-2020](decreto-265-2020.md)**
+
+que declara el territorio nacional en estado de emergencia por un período de cuarenticinco (45) días debido a la reciente evolución del COVID-19. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 266-2020](decreto-266-2020.md)**
+
+que establece el toque de queda de lunes a viernes de 7:00 pm a 5:00 am, y los sábados y domingos de 5:00 pm a 5:00 am en el Distrito Nacional y 14 provincias del país. Asímismo establece el toque de queda todos los días de 8:00 pm a 5:00 am en 17 provincias del país. Estas disposiciones estarán vigentes por veinte (20) días, a partir del 21 de julio del año en curso. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 267-2020](decreto-267-2020.md)**
+
+que modifica el numeral 10 del artículo 1 del Dec. No. 266-20, para que en vez de San Juan de la Maguana debe decir San Juan. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">20/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 268-2020](decreto-268-2020.md)**
+
+que deroga los artículos 3 y 4 del Dec. No. 30-13, que nombraron a los señores Milcíades Alcántara Alcántara y Vicente Antigua Javier, subdirectores de la Comisión Permanente de Titulación de Terrenos del Estado para las regiones sur y norte del país, respectivamente. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 269-2020](decreto-269-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión especial del Estado dominicano a la señora Zobeida Ferreras de Víctor. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 270-2020](decreto-270-2020.md)**
+
+que aprueba el establecimiento del Aeropuerto Internacional de Bávaro, en el paraje de Tres Piezas, sector El Salado, del municipio Salvaleón de Higüey, provincia La Altagracia. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 271-2020](decreto-271-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. Modifica el artículo 3 del Dec. No. 320-19 y el artículo único del Dec. No. 1190-01. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">21/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 272-2020](decreto-272-2020.md)**
+
+que deja sin efecto nombramientos de varios asesores del Poder Ejecutivo y secretarios de Estado sin Cartera, así como del señor Adriano de Jesús Abreu Pérez, como subsecretario de Estado de la Juventud, con asiento en Santiago. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">22/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 273-2020](decreto-273-2020.md)**
+
+que deja sin efecto nombramientos de funcionarios en distintas dependencias del Estado, así como de un secretario de Estado sin Cartera y de asesores del Poder Ejecutivo. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">22/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 274-2020](decreto-274-2020.md)**
+
+que concede la nacionalidad dominicana, a título de naturalización privilegiada, al señor Víctor Ramón Giordani Campollo, de nacionalidad guatemalteca. G. O. No. 10980 del 28 de julio de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">27/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 275-2020](decreto-275-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 276-2020](decreto-276-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 277-2020](decreto-277-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 278-2020](decreto-278-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. Modifica el artículo 1, del Dec. No. 577-11. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 279-2020](decreto-279-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión especial del Estado dominicano al señor Gustavo Adolfo Montalvo Franco. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 280-2020](decreto-280-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano al servidor público Pedro Andrés Taveras Alba. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 281-2020](decreto-281-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano a la servidora pública Sarah Aurora Fior Daliza Guemez Naut. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 282-2020](decreto-282-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano a la servidora pública Mayra Teresa Portes Duvergé. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 283-2020](decreto-283-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión del Estado dominicano a la Dra. Sandra Begoña Acosta Rojas de Collante. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 284-2020](decreto-284-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a los servidores públicos Yara Libertad Feliz de los Santos y Julio de la Rosa Casilla. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 285-2020](decreto-285-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varios servidores públicos. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 286-2020](decreto-286-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones del Estado dominicano a varios empleados del Ministerio de Educación. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 287-2020](decreto-287-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones especiales del Estado dominicano a varias personas. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 288-2020](decreto-288-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones del Estado dominicano a varios envejecientes y ex servidores públicos. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 289-2020](decreto-289-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones del Estado dominicano por antigüedad en el servicio y discapacidad a varios servidores públicos. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 290-2020](decreto-290-2020.md)**
+
+que concede el beneficio de la jubilación y eleva el monto de pensiones otorgadas por el Estado dominicano a varios envejecientes y ex servidores públicos. G. O. No. 10981 del 4 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">28/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 291-2020](decreto-291-2020.md)**
+
+que establece el Reglamento para la Elección de los Miembros del Pleno y la Comisión Ejecutiva del Consejo Económico y Social. G. O. No. 10982 del 10 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">31/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 292-2020](decreto-292-2020.md)**
+
+que establece el Reglamento del Servicio Público de Transporte Terrestre de Pasajeros Urbano. G. O. No. 10982 del 10 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">31/07/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 294-2020](decreto-294-2020.md)**
+
+que concede la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella, en el Grado de Gran Cruz Placa de Plata, a la Excelentísima Señora Shauna Heminguway, embajadora extraordinaria y plenipotenciaria de Canadá en la República Dominicana. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">03/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 295-2020](decreto-295-2020.md)**
+
+que deroga los artículos 3 del Dec. No. 648-08 y 4 del Dec. No. 426-09, que designaron a los señores Tomás Pérez Cruz y Jocelyn Milagros Pou García, embajador adscrito al ministerio de Relaciones Exteriores y embajadora encargada del Departamento de Relaciones Multilaterales de dicho ministerio, respectivamente. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">03/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 296-2020](decreto-296-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión especial del Estado dominicano al señor Claudio Antonio de los Santos Estévez. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">04/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 297-2020](decreto-297-2020.md)**
+
+que concede la nacionalidad dominicana, a título de naturalización privilegiada, al señor Francisco Caracciolo García Bethencourt, de nacionalidad española. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">07/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 298-2020](decreto-298-2020.md)**
+
+que establece el toque de queda en el territorio nacional por veinticinco (25) días a partir del domingo 9 de agosto en curso, de acuerdo con las disposiciones del
+
+<p class="leydo-year-meta">08/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 299-2020](decreto-299-2020.md)**
+
+que designa a Su Excelencia Reverendísima Monseñor Francisco Ozoria Acosta, mayor general capellán castrense, ERD. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 300-2020](decreto-300-2020.md)**
+
+que concede la nacionalidad dominicana, a título de naturalización privilegiada, al señor Luis Rolando González Bunster, de nacionalidad argentina. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 301-2020](decreto-301-2020.md)**
+
+que deroga el Dec. No. 283-17, que nombró a la señora Maria de los Ángeles García, embajadora honorifica adscrita al Ministerio de Relaciones Exteriores. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 302-2020](decreto-302-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 339-16, que designó a la señora Pastora Lillie Bermúdez Ibarra, ministra consejera en la Misión Permanente de la Republica Dominicana ante la Organización de las Naciones Unidas (ONU). G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 303-2020](decreto-303-2020.md)**
+
+QUE DISPONE LA ENTREGA EN EXTRADICION A LOS ESTADOS UNIDOS DE AMERICA DEL NACIONAL DOMINICANO JOSE F...
+
+<p class="leydo-year-meta">10/08/2020 · pendiente de PDF · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 304-2020](decreto-304-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Kelvin Enrique Fernández Flaquer, alias Cotto. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 305-2020](decreto-305-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano César Campos, alias César Campus, alias Caesar. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 306-2020](decreto-306-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Luis Eduardo Velázquez Cordero, alias El Pequeño. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 307-2020](decreto-307-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Ramón Daniel Félix Leonardo, alias Ramón Daniel Leonardo Féliz, alias Eddie, alias Eddy, alias Eric (Félix Leonardo). G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 308-2020](decreto-308-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Oscar Palmer, alias Oscar Vladimir Palmer Méndez, alias Tito. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">10/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 309-2020](decreto-309-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 310-2020](decreto-310-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 311-2020](decreto-311-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 312-2020](decreto-312-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 313-2020](decreto-313-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 314-2020](decreto-314-2020.md)**
+
+que concede el beneficio de la incorporación a varias asociaciones cooperativas. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 315-2020](decreto-315-2020.md)**
+
+que instruye al Ministerio de Medio Ambiente y Recursos Naturales, revocar y dejar sin efecto el permiso ambiental No. 3771-19 del 14 de enero de 2020, otorgado por el ministerio. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">12/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 316-2020](decreto-316-2020.md)**
+
+que concede la condecoración de la Orden del Mérito Militar con distintivo blanco, en primera clase a varios oficiales generales del Ejército, de la Armada y de la Fuerza Aérea de la República Dominicana. Concede dicha condecoración al mayor general Ney Aldrin Bautista Almonte, P.N., director general de la Policía Nacional, así como concede la misma condecoración con distintivo azul, en segunda clase, a varios oficiales superiores de las Fuerzas Armadas. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 317-2020](decreto-317-2020.md)**
+
+que concede la condecoración de la Orden del Mérito Aéreo, con distintivo blanco, en primera y segunda categoría, a varios oficiales generales y superiores de la Fuerza Aérea de República Dominicana. Concede dicha condecoración en segunda categoría al capitán de navío, Rafael García Aybar, ARD, y al coronel Franklin T. Grullón Collado, P.N., y en su tercera categoría al capitán contador Jorge Roa Cabrera, FARD. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">13/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 318-2020](decreto-318-2020.md)**
+
+que coloca en situación de retiro con disfrute de pensión por antigüedad en el servicio, al teniente general Rubén Darío Paulino Sem, ERD, Ministro de Defensa, y al mayor general ingeniero Ney Aldrin Bautista Almonte, PN, director de la Policía Nacional. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 319-2020](decreto-319-2020.md)**
+
+que coloca en situación de retiro, con disfrute de las pensiones correspondientes, por antigüedad en el servicio, a los mayores generales Braulio Alcántara López y Estanislao Gonell Regalado, ERD.; a los vicealmirantes Miguel E. Peña Acosta, Edmundo N. M. Félix Pimentel y Emilio Recio Segura, A.R.D., y a los mayores generales pilotos Luis N. Payán Diaz y Richard Vásquez Jiménez, FARD. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 320-2020](decreto-320-2020.md)**
+
+que asciende al general de brigada abogado Juan Manuel Méndez García, ERD., director del Centro de Operaciones de Emergencias, al rango de mayor general y lo coloca en situación de retiro, con disfrute de pensión por antigüedad en el servicio. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 321-2020](decreto-321-2020.md)**
+
+que asciende a la contralmirante Mayra Alicia Diaz Martinez, al rango de vicealmirante, ARD; a los coroneles José Manuel Espinal Benzánt y Epifanio Peña Lebrón, al rango de general de brigada, ERD.; al general de brigada Franklin B. Vitttini Durán, al rango de mayor general, P.N., y a los coroneles Voltaire Batista Matos y Andrés Félix Fernández, a general de brigada, P.N., y los coloca todos en situación de retiro y con disfrute de pensión. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 322-2020](decreto-322-2020.md)**
+
+que asciende al coronel Fidel Augusto Calcaño Paulino, ERD y al coronel Rigoberto de los Santos Guerrero, P.N., a generales de brigada ERD y P.N., respectivamente. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 323-2020](decreto-323-2020.md)**
+
+que coloca en situación de retiro, con disfrute de pensión por antigüedad en el servicio, al mayor general Ramón M. Hernández Hernández, FARD. G. O. No. 10983 del 15 de agosto de 2020. DANILO MEDINA
+
+<p class="leydo-year-meta">14/08/2020 · normalizado con alerta · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 324-2020](decreto-324-2020.md)**
+
+que integra el Gabinete del Gobierno Central y nombra funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 325-2020](decreto-325-2020.md)**
+
+que nombra a la señora Milagros Ortiz Bosch, asesora del Poder Ejecutivo en materia de ética, transparencia y anticorrupción, encargada de la Dirección General de Ética e Integridad Gubernamental. Suprime el viceministerio de la Presidencia para Políticas de Transparencia Institucional y dispone que sus atribuciones pasen a dicha dirección. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 326-2020](decreto-326-2020.md)**
+
+que nombra tres (3) viceministros de Defensa, a los comandantes y subcomandantes del Ejército y de la Armada, así como al comandante general de la Fuerza Aérea. Nombra al director y subdirector general de la Policía Nacional, así como a oficiales generales en distintas dependencias de esas instituciones castrenses. Asciende a varios coroneles y capitanes de navío al rango de general de brigada y contralmirante de la Fuerza Aérea, del Ejército y de la Armada, respectivamente. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 327-2020](decreto-327-2020.md)**
+
+que nombra a Luis Soto, director del Departamento Nacional de Investigaciones. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 328-2020](decreto-328-2020.md)**
+
+que crea la Secretaria General del Gabinete del Presidente de la República. Designa a Eilyn Beltrán Soto, asistente del Presidente de la República y encargada de dicha secretaría general. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 329-2020](decreto-329-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 330-2020](decreto-330-2020.md)**
+
+que nombra cincuenta y siete (57) viceministros en distintos ministerios. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 331-2020](decreto-331-2020.md)**
+
+nombra a Francisco Antonio Peña Guaba, coordinador del Gabinete de Políticas Sociales, y a Gloria R. Reyes Gómez y Yadira Altagracia Henríquez Núñez, directoras del Programa Progresando con Solidaridad y del Plan de Asistencia Social de la Presidencia, respectivamente. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 332-2020](decreto-332-2020.md)**
+
+que designa a Pedro Silverio Álvarez, Joel Santos Echavarría, Luis Amaury Sánchez Lembert, José Daniel del Rosario Valdez y Pablo Portes, asesores del Poder Ejecutivo en diversas áreas. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 333-2020](decreto-333-2020.md)**
+
+que nombra a Rafael Suárez, Edwin Acosta, Emilio Rodríguez, Yeni Berenice Reynoso, Mártirez Cirilo Quiñones, Army Esperanza Ferreira Reyes, María Ramos y Víctor Rodríguez, procuradores adjuntos de la República. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 334-2020](decreto-334-2020.md)**
+
+que designa a Samuel Pereyra Rojas, administrador general del Banco de Reservas de la República Dominicana. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 335-2020](decreto-335-2020.md)**
+
+que deroga el Dec. No. 236-15, que designó a Horacio Emilio Mazara Lugo, director ejecutivo del Instituto Nacional de Aguas Potables y Alcantarillado. Nombra a Wellington Arnaud Bisonó, director ejecutivo interino del mencionado instituto. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 336-2020](decreto-336-2020.md)**
+
+que nombra a Homero Argel Figueroa Güílamo, director de Información, Análisis y Programación Estratégica de la Presidencia (DIAPE). G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 337-2020](decreto-337-2020.md)**
+
+que nombra a Monseñor Agripino Núñez Collado, asesor honorífico del Poder Ejecutivo. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 338-2020](decreto-338-2020.md)**
+
+que modifica los artículos 2, 3 y 4 del Dec. No. 201-14, que declara de alta prioridad del Gobierno la readecuación de los asentamientos humanos en la barriada La Barquita, en los sectores de Sabana Perdida y Los Mina, de la provincia Santo Domingo. Designa a José Miguel González Cuadra, director ejecutivo del Proyecto de Readecuación de La Barquita. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 339-2020](decreto-339-2020.md)**
+
+que designa varios funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 340-2020](decreto-340-2020.md)**
+
+que nombra veintisiete (27) gobernadoras civiles en varias provincias del país. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 341-2020](decreto-341-2020.md)**
+
+que modifica el Dec. No. 287-08, que estableció el Reglamento de la Consultoría Jurídica del Poder Ejecutivo, modificado por el Dec. No. 307-16. Dispone que esta oficina estará compuesta por el consultor jurídico y tres (3) subconsultores. Nombra a Noelia Rivera Guevara y Pedro Luis Montilla Castillo, subconsultores jurídicos. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 342-2020](decreto-342-2020.md)**
+
+que declara de alto interés nacional la liquidación de la Corporación Dominicana de Empresas Eléctricas Estatales. Transfiere al Ministerio de Energía y Minas, las funciones, atribuciones y facultades que en la actualidad desempeña dicha corporación. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 343-2020](decreto-343-2020.md)**
+
+que designa a Tomás Ozuna Tapia, Andrés Cueto Rosario y Milton Teófilo Morrison Ramírez, gerentes generales de la Empresa Distribuidora de Electricidad del Este, S.A., de la Empresa Distribuidora de Electricidad del Norte, S.A. y de la Empresa Distribuidora de Electricidad del Sur, respectivamente. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 344-2020](decreto-344-2020.md)**
+
+que nombra a Mercedes Pichardo Pérez, asistente personal del
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 345-2020](decreto-345-2020.md)**
+
+que nombra a César Cedeño, director general de Bienes Nacionales, y director honorifico del Consejo Estatal del Azúcar hasta su liquidación. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 346-2020](decreto-346-2020.md)**
+
+que designa a Juan Fortunato Mubarak Pérez, director nacional de Patrimonio Monumental. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 347-2020](decreto-347-2020.md)**
+
+que nombra al general de brigada Vicente Mota Medina, ERD, director ejecutivo del Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">16/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 348-2020](decreto-348-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. Deroga el artículo 18 del Dec. No. 339-20. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 349-2020](decreto-349-2020.md)**
+
+que deroga varios decretos que nombraron funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 350-2020](decreto-350-2020.md)**
+
+que nombra a Felipe Antonio Suberví Hernández, director general de la Corporación del Acueducto y Alcantarillado de Santo Domingo. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 351-2020](decreto-351-2020.md)**
+
+que designa a Serafin Canario de la Rosa, administrador general de la Central Termoeléctrica Punta Catalina. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 352-2020](decreto-352-2020.md)**
+
+que designa tres (3) viceministros y tres (3) asesores en el Ministerio de Turismo. Deroga los artículos 1, 2, 3 y 6 del Dec. No. 532-12 y los artículos 9 y 10 del
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 353-2020](decreto-353-2020.md)**
+
+que nombra a Noelia Eulalia del Corazón De Jesús Shephard de Bencosme, subdirectora del Despacho Presidencia. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 354-2020](decreto-354-2020.md)**
+
+que designa varios viceministros y funcionarios en distintos ministerios y los cónsules generales de la Republica en New York, Miami, Florida y Puerto Príncipe, Haití. Confirma a Hugo Francisco Rivera Fernández, como viceministro de Asuntos Económicos y Cooperación Internacional del Ministerio de Relaciones Exteriores y se le otorga el rango de embajador mientras permanezca en sus funciones. Deroga los
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 355-2020](decreto-355-2020.md)**
+
+que designa a Edward Rafael Guzmán Padilla, Ivelisse V. Acosta Reyes, José Antonio Matos Pérez, Fernando José Ureña, Raysa Bello Arias de Peña y Claudio Alberto Brito Gómez, viceministros de Salud Pública y Asistencia Social. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">17/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 356-2020](decreto-356-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 357-2020](decreto-357-2020.md)**
+
+que confirma a Clarissa de la Rocha, como vicegobernadora del Banco Central de la República Dominicana. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 358-2020](decreto-358-2020.md)**
+
+que extiende la vigencia de los programas FASE I, FASE II, Quédate en Casa y Pa’Ti, hasta el 31 de diciembre del año en curso. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 359-2020](decreto-359-2020.md)**
+
+que asciende al capitán de navío Juan Cándido Peña Ogando al rango de contralmirante ARD., y al coronel Mauricio Ludovino Fernández García al rango de general de brigada FARD y lo designa Inspector General de la Fuerza Aérea de República Dominicana. Confirma al coronel piloto Enmanuel Marcelino Souffront Tamayo, como director de la Comisión Investigadora de Accidentes de Aviación y lo asciende al rango de general de brigada FARD. Asciende al coronel Juan José Otaño Jiménez al rango de general de brigada ERD. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 360-2020](decreto-360-2020.md)**
+
+que asciende al capitán de navío José Manuel Cabrera Ulloa al rango contralmirante ARD., y lo designa presidente de la Dirección Nacional de Control de Drogas. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 361-2020](decreto-361-2020.md)**
+
+que designa a Héctor Radhamés González Medina, Persio Cándido Cruz Pichardo, Arismendy de Jesús Almonte Bueno, Bernardo Sánchez Rosario y Francisco Leonis Fernández Onofre, miembros del directorio ejecutivo del Banco Agrícola de la República Dominicana. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 362-2020](decreto-362-2020.md)**
+
+que deroga varios decretos que nombraron una consejera y embajadores extraordinarios y plenipotenciarios y embajadores alternos de la República en el exterior. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 363-2020](decreto-363-2020.md)**
+
+que designa embajadores representantes permanentes y alternos de la República Dominicana ante la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, ante la Organización de las Naciones Unidas y ante la Organización de los Estados Americanos. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 364-2020](decreto-364-2020.md)**
+
+que nombra a varios viceministros en el Ministerio de Educación Superior, Ciencia y Tecnología. Deroga el artículo 6 del Dec. No. 168-18, los artículos 1, 2 y 4 del Dec. No. 528-12, 30 del Dec. No. 215-16 y 3 del Dec. No. 157-18, que nombraron viceministros y asesores de dicho ministerio. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 365-2020](decreto-365-2020.md)**
+
+que designa a Fernando Antonio Cruz, José Modesto Yovani Cruz Durán y Yamal Nasser Michelén Stefan, viceministros de Cultura. Deroga el Dec. No. 277-16 y los artículos 1, 3, 4, y 5 del Dec. No. 140-14. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">19/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 366-2020](decreto-366-2020.md)**
+
+que deja sin efecto nombramientos de funcionarios en distintas dependencias del Estado y deroga los diversos decretos que los nombraron. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">20/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 367-2020](decreto-367-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 302-14, que designó al general de brigada Aracenis Castillo de la Cruz, FARD., director general del Cuerpo Especializado en Seguridad Aeroportuaria y de la Aviación Civil. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">20/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 368-2020](decreto-368-2020.md)**
+
+que disuelve el Despacho de la Primera Dama. Transfiere al Ministerio de Salud Pública y Asistencia Social, el Centro de Atención Integral para la Discapacidad. Crea e integra la Comisión Evaluadora de los diferentes programas del Despacho de la Primera Dama. Deroga el Dec. No. 741-00. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">20/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 369-2020](decreto-369-2020.md)**
+
+que deja sin efecto los nombramientos de seis (6) subadministradores del Banco Agrícola de la República Dominicana y deroga los decretos que nombraron anteriores incumbentes. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">20/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 370-2020](decreto-370-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado y deja sin efecto los decretos que nombraron los anteriores incumbentes. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">20/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 371-2020](decreto-371-2020.md)**
+
+nombra a Rafael Antonio Santos Pérez, director ejecutivo de la Oficina para el Reordenamiento del Transporte. Modifica el artículo 37 del Dec. No. 339-20. Designa a José Altagracia González Sánchez, director general de la Oficina Metropolitana de Servicios de Autobuses. Deroga el artículo 1 de los decretos Nos. 168- 17 y 385-17. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">20/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 372-2020](decreto-372-2020.md)**
+
+que asciende a los coroneles César Augusto Miranda Mañón y Jorge Luis Morel de Dios, E.R.D., al rango de general de brigada. Deroga el artículo 11 del
+
+<p class="leydo-year-meta">20/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 373-2020](decreto-373-2020.md)**
+
+que designa vocales miembros y vocales suplentes del Consejo de Directores del Banco de Reservas de República Dominicana. Nombra a Víctor J. Rojas de Jesús, vicepresidente ejecutivo de Seguros Banreservas. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 374-2020](decreto-374-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. Modifica los artículos 1 y 14 del Dec. No. 1090-04. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 375-2020](decreto-375-2020.md)**
+
+que integra el Consejo Unificado de las Empresas Distribuidoras de Electricidad, creado mediante Dec. No. 342-20. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 376-2020](decreto-376-2020.md)**
+
+que deroga los decretos que nombraron funcionarios en distintas dependencias del Estado, así como en el Consejo Estatal de Azúcar, Instituto Azucarero Dominicano y en la Dirección del Consejo Estatal del Azúcar para Asuntos de Ganadería. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 377-2020](decreto-377-2020.md)**
+
+que nombra a Santiago Hazim, director ejecutivo del Seguro Nacional de Salud. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 378-2020](decreto-378-2020.md)**
+
+que designa a Mario Lama Olivero, director ejecutivo del Servicio Nacional de Salud. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 379-2020](decreto-379-2020.md)**
+
+que nombra a Rafael Evaristo Santos Badia, director general del Instituto Nacional de Formación Técnico Profesional. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 380-2020](decreto-380-2020.md)**
+
+que agrega un numeral 11 al artículo 4 del Dec. No. 266-20. Dispone la circulación hasta las 11:00 p.m., a los empleados o contratistas de restaurantes que brinden a domicilio servicios de alimentos cocidos. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">21/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 381-2020](decreto-381-2020.md)**
+
+que deroga los artículos 4, 5 y 6 del Dec. No. 538-12, que designaron a Elso Martínez, Julio Canelo e Hilda Cabrera, viceministros de Administración Pública. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">22/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 382-2020](decreto-382-2020.md)**
+
+que deroga los decretos que nombraron procuradores generales adjuntos en la Procuraduría General de la República, de Medio Ambiente y Contencioso Tributario. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">22/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 383-2020](decreto-383-2020.md)**
+
+que designa viceministros en los ministerios de la Mujer, de Deportes y Recreación, y de Industria, Comercio y Mipymes. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">22/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 384-2020](decreto-384-2020.md)**
+
+que nombra a Luis José Chávez Castellanos, asesor del Instituto Dominicano de Aviación Civil. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">22/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 385-2020](decreto-385-2020.md)**
+
+que deja sin efecto los nombramientos de varios funcionarios en el Instituto Dominicano de Aviación Civil. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">22/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 386-2020](decreto-386-2020.md)**
+
+que deroga los decretos que nombraron varios subdirectores y otros funcionarios en la Autoridad Portuaria Dominicana. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">23/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 387-2020](decreto-387-2020.md)**
+
+que deroga los decretos que nombraron varios subadministradores y subdirectores en los Comedores Económicos del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">23/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 388-2020](decreto-388-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">23/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 389-2020](decreto-389-2020.md)**
+
+que modifica el Dec. No. 491-12, que crea la Dirección General de Programas Especiales de la Presidencia, la cual se denominará en lo adelante Dirección General de Proyectos Estratégicos y Especiales de la Presidencia de la República. Designa a José Leonel Cabrera, Ministro sin Cartera, como encargado de dicha dirección. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">24/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 390-2020](decreto-390-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">24/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 391-2020](decreto-391-2020.md)**
+
+que deroga varios decretos que nombraron funcionarios en la Corporación de Fomento de la Industria Hotelera y Desarrollo del Turismo y en la Corporación de Fomento Industrial. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">24/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 392-2020](decreto-392-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">24/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 393-2020](decreto-393-2020.md)**
+
+que designa a Rafael Damares Toribio Domínguez, presidente del Pleno del Consejo Económico y Social. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">25/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 394-2020](decreto-394-2020.md)**
+
+que deroga el artículo 4 del Dec. No. 519-12, que nombró a Jesús Féliz, viceministro de Monitoreo de Instituciones Descentralizadas del Sistema Financiero del Ministerio de Hacienda. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">25/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 395-2020](decreto-395-2020.md)**
+
+que designa a George Robles Rodríguez, asesor del Ministerio de Relaciones Exteriores, para temas de la diáspora y asuntos migratorios, con rango de embajador. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">25/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 396-2020](decreto-396-2020.md)**
+
+que nombra a Eric Antonio Rivero Martin, asesor en asuntos agropecuarios del Poder Ejecutivo. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">25/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 397-2020](decreto-397-2020.md)**
+
+que deja sin efecto los decretos que nombraron funcionarios en la Lotería Nacional, Dirección General de Migración, Corporación de Acueductos y Alcantarillados de Santo Domingo, Instituto Nacional de Auxilios y Viviendas y del Instituto de Estabilización de Precios. Modifica el Dec. No. 1148-04. Designa a Eduard Martínez Ogando, miembro del Consejo de Directores de la Corporación del Acueducto y Alcantarillado de Santo Domingo. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">26/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 398-2020](decreto-398-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión especial del Estado dominicano a Erasmo Alfonso Cáffaro Durán. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">26/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 399-2020](decreto-399-2020.md)**
+
+que designa a Cecilio Antonio Rodríguez Montás, director ejecutivo del Instituto Nacional de Bienestar Estudiantil. Deroga el artículo 5 del Dec. No. 468-12. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">26/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 400-2020](decreto-400-2020.md)**
+
+que deroga varios decretos que nombraron subdirectores y directores en el Instituto Agrario Dominicano y en la Oficina Metropolitana de Servicios de Autobuses. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">26/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 401-2020](decreto-401-2020.md)**
+
+que declara de emergencia las compras y contrataciones para la adquisición de insumos y medicamentos, así como bienes y servicios relacionados que resulten indispensables para continuar con las iniciativas de mitigación y prevención ante el Coronavirus (COVID-19), de acuerdo con el artículo 6 de la Ley No. 340-06 y sus modificaciones. Autoriza al Ministerio de Salud, al Servicio Nacional de Salud, al Programa de Medicamentos Esenciales Central de Apoyo Logístico y la Universidad Autónoma de Santo Domingo, a realizar estas compras y contrataciones. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 402-2020](decreto-402-2020.md)**
+
+que designa a Rubén Arturo Silié Valdez, viceministro de Relaciones Exteriores para Asuntos Multilaterales, con el rango de embajador. Deroga el artículo 1 del Dec. No. 101-17. Nombra a Miguel Antonio Núñez Herrera y Francisco José Cantizano Nadal, directores del Gabinete y de Ceremonial de Estado y Protocolo de Relaciones Exteriores, respectivamente; y a José Rafael Espaillat Muñoz, rector del Instituto de Educación Superior en Formación Diplomática y Consular de dicho ministerio, con rango los tres últimos de embajador, mientras permanezcan en sus funciones. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 403-2020](decreto-403-2020.md)**
+
+que modifica el numeral 113 del artículo 1 del Dec. No. 290-12, que modificó a su vez el artículo 1 del Dec. No. 130-12, que declaró de utilidad pública varias porciones de terrenos para la construcción de la carretera Miches (Bávaro-Uvero Alto- Miches-Sabana de la Mar). G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 404-2020](decreto-404-2020.md)**
+
+que nombra a Hugo Alberto Taveras Bautista, presidente de la Corporación del Acueducto y Alcantarillado de Moca y de su Consejo de Directores; y a José Luis Polanco Henríquez, Eriberto José Grullón Acosta, miembros del Consejo de Directores de la citada corporación, y a Reynaldo Constantino Méndez Sánchez, director general, de manera interina, de dicha corporación. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 405-2020](decreto-405-2020.md)**
+
+que nombra a Carlos Alfredo Fondeur Victoria, presidente de la Corporación del Acueducto y Alcantarillado de Santiago y de su Consejo de Directores. Designa a Bernardo Augusto Luciano Pichardo y Gilberto Antonio Fernández Núñez, miembros del Consejo de Directores, y a Andrés Bienvenido Burgos López, director general de la citada corporación. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 406-2020](decreto-406-2020.md)**
+
+que confirma a Nasim Antonio Yapor Alba, como miembro de la Junta de Aviación Civil, en representación del sector privado y como representante alterno en la Misión Permanente de la República Dominicana ante la Organización de Aviación Civil Internacional. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 407-2020](decreto-407-2020.md)**
+
+que designa a Héctor Elie Porcella Dumas, subdirector general del Instituto Dominicano de Aviación Civil. Deroga el Dec. No. 461-11 y el artículo 10 del
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 408-2020](decreto-408-2020.md)**
+
+que designa a Francisco José Abreu Peña, Wilkin Antonio Moreno Abreu, David Nelson Brito Lozano, Carlos Cochón Reyes, Roy Robert Acosta, Johanny Villaman Espino, subdirectores generales de Bienes Nacionales. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 409-2020](decreto-409-2020.md)**
+
+que nombra a Efraín Bernardo Toribio Mones, director del Fondo Especial para el Desarrollo Agropecuario. Deroga el artículo 5 del Dec. No. 71-19. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 410-2020](decreto-410-2020.md)**
+
+que nombra a Paula Mercedes Disla Acosta, presidenta ejecutiva del Consejo Nacional para la Niñez y la Adolescencia. Deroga el artículo 2 del Dec. No. 146- 20. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 411-2020](decreto-411-2020.md)**
+
+que modifica el artículo 4 del Dec. No. 176-13. Integra la Comisión Hípica Nacional. Nombra a Maria Teresa Cocco Domínguez, administradora del Hipódromo V Centenario. Deroga el Dec. No. 145-16. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 412-2020](decreto-412-2020.md)**
+
+que deroga el artículo 3 del Dec. No. 90-15. Designa al teniente coronel Junior Amaury Peña Milano, ERD., agregado de defensa, militar, naval, aéreo y policial ante la Embajada de la República Dominicana en la República de Francia y lo asciende al rango de coronel, ERD. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 413-2020](decreto-413-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">27/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 414-2020](decreto-414-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Yamil Abreu Navarro. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">28/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 415-2020](decreto-415-2020.md)**
+
+que modifica el párrafo del artículo 1 y el artículo 5 del Dec. No. 490- 12, que crea la Dirección General de Comunicación, bajo la dependencia del Ministerio de la Presidencia. Establece que la Dirección de Información y Prensa se mantendrá con sus atribuciones bajo dependencia del citado ministerio. Deroga las disposiciones contrarias al presente decreto contenidas en el Dec. No. 1507 del año 1983, y deroga además el Dec. No. 1124-00, que creó el Centro de Información Gubernamental. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">28/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 416-2020](decreto-416-2020.md)**
+
+que designa funcionarios en la Caja de Ahorros para Obreros y Monte Piedad, en la Comisión Aeroportuaria, en el Consejo de Dominicano de Pesca y Acuicultura, en la Unidad de Electrificación Rural y Suburbana, en Información y Prensa de la Presidencia, así como en la Oficina Metropolitana de Servicios de Autobuses. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">28/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 417-2020](decreto-417-2020.md)**
+
+que nombra a Domingo Antonio de los Santos Mateo y Francisco Guillermo García García, subdirector de los Comedores Económicos del Estado y subdirector administrativo del Fondo Especial para el Desarrollo Agropecuario, respectivamente. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">28/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 418-2020](decreto-418-2020.md)**
+
+que integra el Consejo de Administración de la Empresa de Transmisión Eléctrica Dominicana. Deroga los artículos 4, 6 y 7 del Dec. No. 533-12; el
+
+<p class="leydo-year-meta">28/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 419-2020](decreto-419-2020.md)**
+
+que designa a Máximo Antonio Gómez Peña, Pedro Antonio del Orbe del Orbe, Henry Osvaldo Sarraff Urbáez y Leónidas Ceballos Santana, miembros del Consejo de Administración de la Empresa de Generación Hidroeléctrica Dominicana. Deroga los artículos 2 y 3 del Dec. No. 554-12; el artículo 3 del Dec. No. 385-14, el
+
+<p class="leydo-year-meta">28/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 420-2020](decreto-420-2020.md)**
+
+que designa asesores, viceministros, directores y subdirectores en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">28/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 421-2020](decreto-421-2020.md)**
+
+que nombra a Martin Amado Mercedes Tejada y Luis Eduardo Villar Rodríguez, miembros del Consejo de Administración de la Empresa de Generación Hidroeléctrica Dominicana. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 422-2020](decreto-422-2020.md)**
+
+que crea la Comisión de Liquidación de varios órganos del Estado y establece las generalidades del procedimiento a seguir. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 423-2020](decreto-423-2020.md)**
+
+que designa a Daniel Antonio Liranzo, director ejecutivo del Consejo Nacional de Zonas Francas de Exportación. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 424-2020](decreto-424-2020.md)**
+
+que nombra a Porfirio Peralta, director general del Consejo Nacional de Promoción y Apoyo a las Micro, Pequeñas y Medianas Empresas. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 425-2020](decreto-425-2020.md)**
+
+que deja sin efecto nombramientos de funcionarios en distintas dependencias del Estado
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 426-2020](decreto-426-2020.md)**
+
+que designa directores, subdirectores, y asesores en distintas dependencias del Estado. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 427-2020](decreto-427-2020.md)**
+
+que asciende al mayor general Carlos Luciano Díaz Morfa, ministro de Defensa, al rango de teniente general, ERD. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 428-2020](decreto-428-2020.md)**
+
+que nombra a Andrés Rafael Marranzini Grullón y Fernando Hirám Taveras Rodríguez, miembros de la Junta de Aviación Civil. Deroga el artículo 4 del
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 429-2020](decreto-429-2020.md)**
+
+que designa a Endry Andrés González y Carlos José Valdez Matos, asesores de Políticas Públicas y de Emprendurismo del Ministerio de la Juventud, respectivamente; y a Eduardo Guarionex Estrella Cruz, subdirector del Instituto Nacional de la Vivienda. Deja sin efecto los decretos que nombraron varios funcionarios en el Instituto Nacional de la Vivienda. G. O. No. 10986 del 1 de septiembre de 2020
+
+<p class="leydo-year-meta">31/08/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 430-2020](decreto-430-2020.md)**
+
+que prorroga a partir del 3 de septiembre del año en curso, por un periodo de 45 días, el estado de emergencia en el territorio nacional, declarado mediante
+
+<p class="leydo-year-meta">01/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 431-2020](decreto-431-2020.md)**
+
+que establece el toque de queda en el territorio nacional, por veinticinco (25) días a partir del 3 de septiembre del año en curso, todo de acuerdo con las disposiciones del Dec. No. 266-20. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">01/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 432-2020](decreto-432-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">01/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 433-2020](decreto-433-2020.md)**
+
+que deja sin efecto los decretos que nombraron funcionarios en el Departamento Aeroportuario, Instituto Nacional de Aguas Potables y Alcantarillados, en la Corporación del Acueducto y Alcantarillado de Santo Domingo, así como de un secretario sin cartera y de un asesor de prensa del Poder Ejecutivo. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">01/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 434-2020](decreto-434-2020.md)**
+
+que aprueba el Reglamento de Aplicación de la Ley No. 47-20 de Alianzas Público-Privadas. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">01/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 435-2020](decreto-435-2020.md)**
+
+que designa a los señores Manuel Somón Agramonte, Dolores Núñez, Augusto Pérez Sánchez, Marcia Margarita Rodríguez Gómez y Daniel Florián Sánchez Mota, directores de varios departamentos del Instituto Nacional de Tránsito y Transporte Terrestre. Deroga los artículos 4, 5, y 7 del Dec. No. 236-17. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">01/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 436-2020](decreto-436-2020.md)**
+
+que nombra a Rosalba Milagros Peña de Rodríguez, gobernadora de la provincia de Dajabón. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">01/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 437-2020](decreto-437-2020.md)**
+
+que deja sin efecto los decretos que nombraron varios funcionarios en distintas dependencias del Estado. Modifica los artículos 12, 13 y 17 del Dec. No. 362- 20 y el artículo 6 del Dec. No. 369-20. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">02/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 438-2020](decreto-438-2020.md)**
+
+que designa a José Ulises Rodríguez, director general del Centro de Desarrollo y Competitividad Industrial. Deroga el artículo 40 del Dec. No. 339-20. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">02/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 439-2020](decreto-439-2020.md)**
+
+que designa los cónsules generales de la República en Madrid, España; Boston, Massachussets; San Juan, Puerto Rico, y en Cabo Haitiano, República de Haití. Deroga el Dec. No. 1369-04, que otorgó exequatur a Andrea Biamonti, para ejercer de cónsul honorario de Ucrania en Santo Domingo, República Dominicana. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">03/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 440-2020](decreto-440-2020.md)**
+
+que nombra a Rosendo Arsenio Borges Rodríguez, gerente general de la Corporación de Fomento de la Industria Hotelera y Desarrollo del Turismo. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">03/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 441-2020](decreto-441-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 535-08. Designa a Jimmy Constantino García Saviñón, presidente de la Autoridad Nacional de Asuntos Marítimos. Modifica el artículo 1 del Dec. No. 432-20. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">07/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 442-2020](decreto-442-2020.md)**
+
+que deroga varios decretos que nombraron funcionarios diplomáticos y consulares en el servicio exterior. Nombra a Mariel Patricia Vilchez Bournigal, directora jurídica del Ministerio de Relaciones Exteriores. Deroga el artículo 2 del Dec. No. 361-09. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">07/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 443-2020](decreto-443-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 393-10 que designó a Juan Antonio Matías, subdirector del Programa de Apoyo a la Micro, Pequeña y Mediana Empresa y el artículo 4 del Dec. No. 492-08, que nombró a Eduardo Fernández Álvarez, subdirector técnico del Instituto Postal Dominicano. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">07/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 444-2020](decreto-444-2020.md)**
+
+que designa a Félix Javier Féliz, Adolfo Portes Alcántara, Yoni Román Mateo Lantigua, David Marte Barrera y Luis Rafael Leroux Veras, subdirectores de Embellecimiento de Carreteras y Avenidas de Circunvalación. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">07/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 445-2020](decreto-445-2020.md)**
+
+que deja sin efecto los decretos que nombraron varios funcionarios en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">07/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 446-2020](decreto-446-2020.md)**
+
+que nombra ocho (8) subdirectores en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">07/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 447-2020](decreto-447-2020.md)**
+
+que deja sin efecto los decretos que nombraron varios subadministradores y subdirectores en la Dirección General de Bienes Nacionales. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">08/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 448-2020](decreto-448-2020.md)**
+
+que deja sin efecto los decretos que nombraron funcionarios en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">08/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 449-2020](decreto-449-2020.md)**
+
+que designa a Fausto de Jesús López Solís, director ejecutivo del Instituto Dominicano de Prevención y Protección de Riesgos Laborales. Deroga el
+
+<p class="leydo-year-meta">08/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 450-2020](decreto-450-2020.md)**
+
+que nombra funcionarios en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">08/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 451-2020](decreto-451-2020.md)**
+
+que designa varios cónsules y cónsules generales de la República en el servicio exterior. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">08/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 452-2020](decreto-452-2020.md)**
+
+que integra el Directorio del Instituto para el Desarrollo del Suroeste. Nombra a Antonio Trinidad Ferrera, Menni Lolin Cuevas González y Félix Manuel Beltré Diaz, subdirectores de dicho instituto. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">08/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 453-2020](decreto-453-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 175-05, que designó miembros del Directorio del Instituto para el Desarrollo del Suroeste. Deja sin efecto los decretos que nombraron varios subdirectores del citado instituto. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">08/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 454-2020](decreto-454-2020.md)**
+
+que designa a José García Ramírez, director ejecutivo del Consejo Nacional de la Persona Envejeciente. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 455-2020](decreto-455-2020.md)**
+
+que deja sin efecto nombramientos de funcionarios en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 456-2020](decreto-456-2020.md)**
+
+que declara de interés nacional el apoyo a la reforma penitenciaria orientada por el modelo de gestión penitenciaria de la Procuraduría General de la República. Deroga el artículo 1 del Dec. No. 497-12 y el Dec. No. 40-12, que designaron al director y subdirector de la Dirección General de Prisiones. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 457-2020](decreto-457-2020.md)**
+
+que nombra a Paul Almánzar Hued y Cristiano Lorenzo Ceballos, director ejecutivo de la Industria Nacional de la Aguja y subdirector del Centro de Desarrollo y Competitividad Industrial, respectivamente. Designa al embajador Carlos José de Jesús Guzmán Abreu, como asesor diplomático del Presidente de la República y a José Altagracia Valenzuela Valenzuela cónsul de la República en Belladere, Haití. Deroga el artículo 1 del Dec. No. 388-20 y el artículo 15 del Dec. No. 442-20. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 458-2020](decreto-458-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 355-17. Modifica el artículo 4 del
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 459-2020](decreto-459-2020.md)**
+
+que deroga los artículos 2, 4, 5, 6 y 15 del Dec. No. 572-11. Deja sin efecto el Dec. No. 366-05; el artículo 2 del Dec. No. 696-11, el artículo 2 del Dec. No. 57- 20 y el artículo 6 del Dec. No. 355-08, que designaron subdirectores de la Lotería Nacional. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 460-2020](decreto-460-2020.md)**
+
+que designa a Otto Manuel Gómez Sánchez, Juan Alberto Durán Álvarez y Oliver José Nazario Brugal, como presidente, miembro y director general de la Corporación de Acueductos y Alcantarillados de Puerto Plata, respectivamente. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 461-2020](decreto-461-2020.md)**
+
+que deja sin efecto nombramientos de funcionarios en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 462-2020](decreto-462-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano estadounidense Manuel Batista. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">09/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 463-2020](decreto-463-2020.md)**
+
+que nombra funcionarios en distintas dependencias del Estado. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 464-2020](decreto-464-2020.md)**
+
+que nombra a Roberto José Santana Sánchez, asesor honorifico del Poder Ejecutivo en políticas de seguridad ciudadana y sistema penitenciario. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 465-2020](decreto-465-2020.md)**
+
+que nombra a Emilio Alcedo Reyes Vargas y José Agustín Taveras Taveras, asesores honoríficos del Presidente de la República y del Poder Ejecutivo en temas relacionados con los dominicanos en el exterior, respectivamente. Modifica el
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 466-2020](decreto-466-2020.md)**
+
+que crea e integra la Comisión Multisectorial como máximo órgano del Estado dominicano responsable de la Marca País. Deroga el Dec. No. 22-12. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 467-2020](decreto-467-2020.md)**
+
+que designa a Juan Maldonado Castro, director ejecutivo nacional de la Dirección General de Comunidad Digna. Deroga el artículo 3 del Dec. No. 344-19. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 468-2020](decreto-468-2020.md)**
+
+que dispone el inicio del proceso de liquidación y cierre del Fondo de Promoción a las Iniciativas Comunitarias, así como la transferencia de su patrimonio. Deroga el artículo 1 del Dec. No. 261-98 y los artículos 1 y 2 del Dec. No. 341-10, que modifica el artículo 2 del Dec. No. 279-93 y los artículos 1 y 7 del Dec. No. 261-98. Designa provisionalmente a Belgia Soler, directora ejecutiva del Fondo de Promoción a las Iniciativas Comunitarias. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 469-2020](decreto-469-2020.md)**
+
+que modifica los artículos 1 y 2 del Dec. No. 10-17. Crea la Unidad Coordinadora de Proyectos de Desarrollo Agroforestal de la Presidencia de la República, adscrita al Ministerio Administrativo de la Presidencia, así como también crea e integra la Unidad Técnica Ejecutora de Proyectos de Desarrollo Agroforestal de la Presidencia de la República. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 470-2020](decreto-470-2020.md)**
+
+que deja sin efecto los nombramientos de ocho (8) subdirectores de la Dirección General de Catastro Nacional. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">11/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 471-2020](decreto-471-2020.md)**
+
+que modifica el artículo 1 del Dec. No. 16-17. Dispone que el proceso de disolución y transferencia de titularidad del patrimonio de la Corporación Dominicana de Empresas Estatales, sea dirigido por la Comisión de Liquidación de Órganos del Estado, creada por el Dec. No. 422-20. G. O. No. 10989 del 16 de septiembre de 2020
+
+<p class="leydo-year-meta">15/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 472-2020](decreto-472-2020.md)**
+
+que designa a Roberto Enrique Rubio Cunillera, viceministro de Relaciones Exteriores, con rango de embajador; y a Edward Aníbal Pérez Reyes y Jerjes Fleming Suriel Mota, embajador representante de la Autoridad Internacional de los Fondos Marinos y ministro consejero de la Embajada de la República en Venezuela. Modifica el artículo 2 del Dec. No. 356-20. Deroga el Dec. No. 197-18. Deja sin efecto los decretos que nombraron varios embajadores y un ministro consejero en el servicio exterior. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">16/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 473-2020](decreto-473-2020.md)**
+
+que modifica los párrafos I, II y V del artículo 1 del Dec. No. 422-20 y agrega el párrafo VI al citado decreto. Designa a Rafael Abrahám Burgos Gómez, director ejecutivo de la comisión de liquidación. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">16/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 474-2020](decreto-474-2020.md)**
+
+que integra la Comisión Presidencial de Apoyo al Desarrollo Barrial. Nombra a Rolfi Domingo Rojas Guzmán, presidente de dicha comisión. Modifica el
+
+<p class="leydo-year-meta">16/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 475-2020](decreto-475-2020.md)**
+
+que designa a Juan Alberto Mustafa Michel, gerente general del Banco Nacional de las Exportaciones. Deroga el artículo 9 del Dec. No. 172-16. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">16/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 476-2020](decreto-476-2020.md)**
+
+que deroga los artículos 15 y 16 del Dec. No. 71-19, que nombraron representantes del Fondo Patrimonial de las Empresas Reformadas ante el Consejo de Administración de La Tabacalera y de Molinos del Ozama. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">16/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 477-2020](decreto-477-2020.md)**
+
+que designa a Félix Aracena Vargas y Marilyn Lissette Rodríguez Castillo, gerente y subgerente general del Consejo Nacional de la Seguridad Social, respectivamente, y a Henry Sahdalá y Carolina Serrata Méndez, tesorero de la Seguridad Social y directora general de Información y Defensa de los Afiliados. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">18/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 478-2020](decreto-478-2020.md)**
+
+que deja sin efecto nombramientos de funcionarios en el Instituto Postal Dominicano, en la Oficina Metropolitana de Servicios de Autobuses y en el Servicio Nacional de Salud. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">18/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 479-2020](decreto-479-2020.md)**
+
+que deroga el Decreto No. 635-09 y el artículo 5 del Dec. No. 602-12, que nombraron funcionarios en el Ministerio de Economía, Planificación y Desarrollo y en la Dirección General de Cooperación Multilateral. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">18/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 480-2020](decreto-480-2020.md)**
+
+que deroga el artículo 3 del Dec. No. 477-07, que designó al coronel Rubén Bolívar Pacheco Santana, FAD, como gobernador del Palacio Nacional. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">18/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 481-2020](decreto-481-2020.md)**
+
+que nombra a Andrés Escarramán Hernández, asesor agroforestal del Poder Ejecutivo. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">18/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 482-2020](decreto-482-2020.md)**
+
+que designa miembros y suplentes del Consejo de la Corporación de Fomento de la Industria Hotelera y Desarrollo del Turismo. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 483-2020](decreto-483-2020.md)**
+
+que deja sin efectos los nombramientos de varios funcionarios diplomáticos y consulares de la República en el exterior. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 484-2020](decreto-484-2020.md)**
+
+que nombra los cónsules generales y cónsul de la Republica en Shanghái, República Popular China, en Valencia, España, en Mayagüez, Puerto Rico y en Aruba. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 485-2020](decreto-485-2020.md)**
+
+que deroga los decretos que designaron funcionarios en la Dirección General de Ganadería. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 486-2020](decreto-486-2020.md)**
+
+que nombra varios funcionarios en el Plan de Asistencia Social de la Presidencia, y a Rolando de Jesús Peralta Tejada, secretario técnico para la Soberanía y Seguridad Alimentaria y Nutricional. Deroga el Dec. No. 298-18. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 487-2020](decreto-487-2020.md)**
+
+que designa a Rivera Amador Amador y José Antonio Cedeño de Peña, subdirector general, y administrativo y financiero del Instituto Agrario Dominicano, respectivamente. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 488-2020](decreto-488-2020.md)**
+
+que deja sin efecto nombramientos de funcionarios en el Ministerio de Educación y en el Fondo de Promoción a las Iniciativas Comunitarias. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 489-2020](decreto-489-2020.md)**
+
+que designa cónsules generales de la Republica en Toronto, Canadá; en Frankfurt, Alemania y en Marsella, Francia y un cónsul en Sevilla, España. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 490-2020](decreto-490-2020.md)**
+
+que asciende a seis (6) coroneles de la Policía Nacional, al rango de general de brigada, P.N. Asciende al coronel Moltiner José de Jesús Eusebio, FARD., al rango de general de brigada y lo designa comandante general de la Fuerzas Aérea de República Dominicana. Deroga varios decretos que designaron oficiales generales en distintos departamentos de la Policía Nacional. Designa al general de brigada Ramón Antonio Guzmán Peralta, P.N., director general de Seguridad y Transporte Terrestre. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 491-2020](decreto-491-2020.md)**
+
+que deroga los decretos que designaron varios funcionarios en el Instituto del Tabaco y en la Dirección General de Embellecimiento de Carreteras y Avenidas de Circunvalación. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 492-2020](decreto-492-2020.md)**
+
+que deroga los decretos que designaron funcionarios en la Oficina de Desarrollo de la Comunidad. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 493-2020](decreto-493-2020.md)**
+
+que deja sin efecto los decretos que designaron funcionarios en el Fondo Especial para el Desarrollo Agropecuario. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 494-2020](decreto-494-2020.md)**
+
+que deroga varios decretos que nombraron funcionarios en el Ministerio de Economía, Planificación y Desarrollo y en la Oficina Nacional de Estadísticas. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 495-2020](decreto-495-2020.md)**
+
+que nombra a Jesús de los Santos Pineda y Juan Hernández Fabián, asesor honorifico de planificación del Ministerio de Agricultura y subdirector general del Plan de Asistencia Social de la Presidencia, respectivamente. Modifica el artículo 5 del Dec. No. 420-20, así como el artículo 7 del Dec. No. 388-20. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">21/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 496-2020](decreto-496-2020.md)**
+
+que deroga varios decretos que nombraron subdirectores en la Corporación del Acueducto y Alcantarillado de Puerto Plata. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 497-2020](decreto-497-2020.md)**
+
+que deja sin efecto los decretos que designaron varios subdirectores en la Dirección General de Desarrollo Fronterizo y en el Plan de Asistencia Social de la Presidencia. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 498-2020](decreto-498-2020.md)**
+
+que instituye diez (10) consejos consultivos bajo la denominación de gabinetes, dentro de las directrices de la Ley No. 247-12, Orgánica de la Administración Pública. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 499-2020](decreto-499-2020.md)**
+
+que deja sin efecto los artículos 8, 9, 10 y 11 del Dec. No. 437-20. Deroga los decretos que nombraron embajadores de la República en Perú, Federación de Rusia y ante la Organización de las Naciones Unidas, así como el artículo 9 del Dec. No. 392- 08, que designó un subadministrador del Banco Agrícola. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 500-2020](decreto-500-2020.md)**
+
+que designa a Lorenzo David Ramírez Uribe y Ángel David Antonio Taveras Difó, director general del Instituto Dominicano para la Calidad y director ejecutivo del Organismo Dominicano de Acreditación, respectivamente. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 501-2020](decreto-501-2020.md)**
+
+que nombra a Ysidoro Torres Beltré y Lázaro José Ricardo Guzmán Suero, director general de los Centros Tecnológicos Comunitarios y del Jardín Botánico Nacional Dr. Rafael M. Moscoso, respectivamente. Designa varios funcionarios en la Empresa de Generación Hidroeléctrica Dominicana, en el Instituto Nacional de Recursos Hidráulicos y en la Oficina Metropolitana de Servicios de Autobuses. Deroga el artículo 3 del Dec. No. 1-17. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 502-2020](decreto-502-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados em enfermería y doctores en medicina en todo el territorio nacional. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 503-2020](decreto-503-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">23/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 504-2020](decreto-504-2020.md)**
+
+que establece el toque de queda en todo el territorio nacional de lunes a viernes de 9:00 p.m. a 5:00 a.m., y los sábados y domingos de 7:00 p.m. a 5:00 a.m. Estas disposiciones estarán vigentes a partir del 28 de septiembre del año en curso hasta el 17 de octubre de 2020. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">28/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 505-2020](decreto-505-2020.md)**
+
+que deroga los decretos que nombraron varios cónsules generales, vicecónsules, auxiliares de consulados en el servicio exterior. Deroga el artículo 8 del
+
+<p class="leydo-year-meta">28/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 506-2020](decreto-506-2020.md)**
+
+que deja sin efecto los nombramientos de varios ministros consejeros, consejeros, secretarios de embajadas, vicecónsules, auxiliares de consulados y una agregada cultural en el consulado de la República en Madrid, España. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">28/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 507-2020](decreto-507-2020.md)**
+
+que modifica el artículo 5 del Dec. No. 2091 del 14 de febrero de 1968, que crea el Consejo Nacional de Población y Familia. Designa a Obed Alexander Fabián Leonardo, director ejecutivo del Consejo Nacional de Población y Familia. Deroga el
+
+<p class="leydo-year-meta">28/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 508-2020](decreto-508-2020.md)**
+
+que designa varios funcionarios en distintas dependencias del Estado. Deroga el Dec. No. 605-07. Designa las gobernadoras civiles de las provincias El Seibo y Maria Trinidad Sánchez. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">28/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 509-2020](decreto-509-2020.md)**
+
+que deroga el Dec. No. 128-18 y el artículo 4 del Dec. No. 485-20. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 511-2020](decreto-511-2020.md)**
+
+que deja sin efecto los decretos que nombraron varios ministros consejeros, consejeros, secretarios en distintas embajadas de la República en el exterior y una auxiliar de nuestra Embajada en la República Popular China. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 512-2020](decreto-512-2020.md)**
+
+que deja sin efecto los decretos que nombraron varios funcionarios diplomáticos y consulares de la República en el exterior. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 513-2020](decreto-513-2020.md)**
+
+que modifica el Dec. No. 490-12, que crea la Dirección General de Comunicaciones; el Dec. 1507 del 1983, que crea la Dirección General de Información, Publicidad y Prensa de la Presidencia, y el Dec. No.1124-00 que creó el Centro de Información Gubernamental. Deroga el Dec. No. 415-20. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 514-2020](decreto-514-2020.md)**
+
+que deroga el Dec. No. 250-12. Designa al director general, al presidente y un miembro del Consejo de Directores de la Corporación del Acueducto y Alcantarillado de Monseñor Nouel. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 515-2020](decreto-515-2020.md)**
+
+que crea e integra el Consejo Nacional de Gestión Presidencial dependiente del Despacho del Presidente de la República. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 516-2020](decreto-516-2020.md)**
+
+que deroga varios decretos que nombraron funcionarios en el Instituto de Estabilización de Precios. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 517-2020](decreto-517-2020.md)**
+
+que concede la nacionalidad dominicana, a título de naturalización privilegiada, a José Bono Martínez, de nacionalidad española. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 518-2020](decreto-518-2020.md)**
+
+que nombra a Ambrioris Bolívar Rossis Tejeda y Pablo Francisco De la Mota Santana, asesor del Poder Ejecutivo y subdirector del Consejo Nacional de Población y Familia. Deroga el artículo 2 del Dec. No. 169-18 y el artículo 5 del Dec. No. 103-12. Modifica el artículo 6 del Dec. No. 390-20. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 519-2020](decreto-519-2020.md)**
+
+que deroga el Dec. No. 95-13 y el artículo 1 del Dec. No. 172-20. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 520-2020](decreto-520-2020.md)**
+
+que nombra a Michel Youd EI-Hage y Gilberto Reynoso Sánchez, director ejecutivo honorífico del Gabinete del sector Construcción y director ejecutivo del Gabinete del sector Agua, respectivamente. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 521-2020](decreto-521-2020.md)**
+
+que deroga los decretos No. 465-11 y 265-12, que crea e integra el Consejo Directivo para la Reforma y Modernización del sector Agua Potable y Saneamiento, y que crea e integra la Mesa de Coordinamiento del Recurso Agua
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 522-2020](decreto-522-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Angel Cruz Cabrera (a) Angel Cabrera de la Cruz (a) Cruz Cabrera. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 523-2020](decreto-523-2020.md)**
+
+que autoriza al señor Héctor Domínguez, embajador de la República en Japón, a aceptar y usar una condecoración extranjera. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 524-2020](decreto-524-2020.md)**
+
+que asciende al coronel José Luis Frómeta Herasme, a general del Cuerpo de Bomberos. Deroga el artículo 11 del Dec. No. 591-08. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">29/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 525-2020](decreto-525-2020.md)**
+
+que dispone la suspensión provisional sin disfrute de sueldo, hasta tanto presenten su declaración jurada, a varios viceministros y directores de instituciones del Estado. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">30/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 527-2020](decreto-527-2020.md)**
+
+que concede la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella en el grado de Gran Cruz Placa de Plata, al señor Oscar Chávez Valiente, embajador extraordinario y plenipotenciario de El Salvador en la República Dominicana. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">30/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 528-2020](decreto-528-2020.md)**
+
+que nombra los embajadores extraordinarios y plenipotenciarios de la República en Alemania, Israel, Colombia, Guatemala y Brasil. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">30/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 529-2020](decreto-529-2020.md)**
+
+que deroga varios decretos que nombraron funcionarios en distintas dependencias del Estado. G. O. No. 10990 del 2 de octubre de 2020
+
+<p class="leydo-year-meta">30/09/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 530-2020](decreto-530-2020.md)**
+
+que designa a Lisandro José Macarrulla Tavárez y Celso José Marranzini Pérez, presidente y director ejecutivo honorífico del Gabinete Eléctrico, respectivamente. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">01/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 531-2020](decreto-531-2020.md)**
+
+que nombra a Peter Prazmowski, director ejecutivo del Consejo Nacional de Competitividad. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">01/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 532-2020](decreto-532-2020.md)**
+
+que designa a Arturo Martinez Moya y Eduardo De Jesús Tejera Curbelo, miembros de la Junta Monetaria, ambos por un periodo de dos (2) años. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">01/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 533-2020](decreto-533-2020.md)**
+
+que nombra funcionarios en el Consejo del Banco Nacional de las Exportaciones, en Instituto Nacional de Tránsito y Transporte Terrestre y en el Instituto Nacional de Recursos Hidráulicos. Designa a Israel Rolando Madrigal Fox, gobernador del Edificio de Oficinas Gubernamentales de San Pedro de Macorís. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">02/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 534-2020](decreto-534-2020.md)**
+
+que dispone la suspensión provisional sin disfrute de sueldo hasta tanto presenten su declaración jurada a siete (7) funcionarios incumbentes de instituciones del Estado. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">02/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 536-2020](decreto-536-2020.md)**
+
+que designa varios funcionarios en distintas dependencias del Estado. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">06/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 538-2020](decreto-538-2020.md)**
+
+que designa a José Eurípides Florentino Rodríguez y Josefina Vega, presidente y vicepresidenta del Consejo Directivo del Fondo Patrimonial de las Empresas Reformadas, respectivamente. Deroga el artículo 5 del Dec. No. 374-20. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">06/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 539-2020](decreto-539-2020.md)**
+
+que declara de alto interés nacional el derecho esencial de acceso universal al internet de banda ancha de última generación y el uso productivo de las comunicaciones de las tecnologías de la información y comunicación. Instruye al Instituto Dominicano de las Telecomunicaciones a formular el Plan Nacional de Banda Ancha. Deroga el artículo 1 del Dec. No. 294-15. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">07/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 540-2020](decreto-540-2020.md)**
+
+que nombra a Benigno Encarnación Mesa, subdirector ejecutivo del Instituto de Estabilización de Precios. Deroga el artículo 5 del Dec. No. 103-12. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">07/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 541-2020](decreto-541-2020.md)**
+
+que crea el Sistema Nacional de Medición, Reporte y Verificación de los Gases de Efecto Invernadero, el Sistema del Inventario Nacional de Gases de Efecto Invernadero y el Sistema Nacional de Registro de Acciones de Mitigación de Gases de Efecto Invernadero, así como la Unidad de Registro de Proyectos de Acción Climática y el Sistema Nacional de Registro de Apoyo y Financiamiento para el Cambio Climático. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">09/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 542-2020](decreto-542-2020.md)**
+
+que designa a Iván Tarquino Vladimir Viloria Peña, presidente del Consejo de la Corporación del Acueducto y Alcantarillado de La Vega. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">12/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 543-2020](decreto-543-2020.md)**
+
+que declara de duelo oficial el día 13 de octubre del presente año, con motivo del fallecimiento de Ivelisse Prats-Ramírez de Pérez. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">12/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 544-2020](decreto-544-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 545-2020](decreto-545-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 546-2020](decreto-546-2020.md)**
+
+que nombra funcionarios en el Instituto Nacional de Formación y Capacitación del Magisterio y en otras instituciones. Deroga el Dec. No. 387-16. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 547-2020](decreto-547-2020.md)**
+
+que designa nuevos miembros del Patronato Nacional de Ganaderos. Modifica los Decs. Nos. 67-88, 534-90, 196-92, 316-93, 808-00 y 64-07. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 548-2020](decreto-548-2020.md)**
+
+que designa a Leonardo de Jesús Reyes Madera y José Salvador Velázquez Fernández, director y subdirector, respectivamente, de la Oficina Nacional de Evaluación Sísmica y Vulnerabilidad de Infraestructura y Edificaciones. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 549-2020](decreto-549-2020.md)**
+
+que deroga el numeral 7 del artículo 1 del Dec. No. 169-14, el numeral 3 del artículo 1 del Dec. No. 117-16 y los numerales 1, 2 y 3 del artículo 1 del Dec. No. 375-18, que declararon de utilidad pública la adquisición por parte del Estado de varias porciones de terrenos para ser utilizadas en la construcción de edificaciones escolares. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 550-2020](decreto-550-2020.md)**
+
+que nombra a Mayerlin R. Cordero Diaz y Gustavo Enrique Hernando Castillo, embajadores extraordinarios y plenipotenciarios de la Republica en Costa Rica y Argentina, respectivamente. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 551-2020](decreto-551-2020.md)**
+
+que deja sin efecto los decretos que nombraron varios funcionarios diplomáticos y consulares de la Republica en el exterior. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">13/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 553-2020](decreto-553-2020.md)**
+
+que prorroga el estado de emergencia en todo el territorio nacional por cuarenticinco (45) días más, a partir del 18 de octubre del presente año en virtud del
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 554-2020](decreto-554-2020.md)**
+
+que establece el toque de queda en el territorio nacional por veinticinco (25) días a partir del 18 de octubre en curso, todo de acuerdo con las disposiciones del
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 555-2020](decreto-555-2020.md)**
+
+que designa funcionarios en distintas dependencias del Estado. Deroga el artículo 17 del Dec. No. 593-08, el artículo 2 del Dec. No. 351-17, y los artículos 11, 15 y 31 del Dec. No. 535-20. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 556-2020](decreto-556-2020.md)**
+
+que deja sin efecto los decretos que nombraron un embajador alterno, ministros consejeros, consejeros, secretarios y auxiliares, en distintas embajadas y consulados de la República en el servicio exterior. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 559-2020](decreto-559-2020.md)**
+
+, que deroga los decretos que nombraron vicecónsules, auxiliares, cónsules generales, secretarios, ministros consejeros y un cónsul de la República en el servicio exterior. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 560-2020](decreto-560-2020.md)**
+
+que deroga los decretos que nombraron varios consejeros, secretarios, ministros consejeros y un auxiliar en el servicio exterior. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 561-2020](decreto-561-2020.md)**
+
+que deroga los decretos que nombraron funcionarios diplomáticos y consulares en el servicio exterior. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 562-2020](decreto-562-2020.md)**
+
+que declara el 13 de enero de cada año como Día Nacional del Historiador. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 563-2020](decreto-563-2020.md)**
+
+que designa a Saturnino Silva Jorge, director ejecutivo del Instituto Nacional de Formación y Capacitación del Magisterio. Modifica el artículo 1 del Dec. No. 546-20 y deroga el artículo 2 del Dec. No.69-17. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 564-2020](decreto-564-2020.md)**
+
+que nombra a Lisette Lidania Jiménez de Campusano, subdirectora del Instituto de Desarrollo y Crédito Cooperativo. Deroga el Dec. No. 326-09. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 565-2020](decreto-565-2020.md)**
+
+que designa a Engelbert Landolfi Hurts, asesor honorifico del
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 566-2020](decreto-566-2020.md)**
+
+que dispone el traslado al Panteón de la Patria los restos mortales de Rosa Protomártir Diez. Crea e integra la Comisión de Exaltación. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 567-2020](decreto-567-2020.md)**
+
+que establece la zafra azucarera del período 2020-2021 de los ingenios del país, la cual comprenderá todo el año calendario. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 568-2020](decreto-568-2020.md)**
+
+que designa a los señores Julio César George Encarnación, Manuel Morales Lama y Elvis Antonio Alam Lora, embajadores extraordinarios y plenipotenciarios de la República en El Salvador, en la República Árabe de Egipto y en Turquía, respectivamente. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 569-2020](decreto-569-2020.md)**
+
+que excluye de la expropiación efectuada mediante Dec. No. 104-14,
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 570-2020](decreto-570-2020.md)**
+
+que deroga los decretos que nombraron cinco (5) subdirectores en la Defensa Civil. G. O. No. 10993 del 16 de octubre de 2020
+
+<p class="leydo-year-meta">15/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 571-2020](decreto-571-2020.md)**
+
+que designa a Georges Bahsa Hazim, embajador extraordinario y plenipotenciario de la República en el Estado de Qatar. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">16/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 572-2020](decreto-572-2020.md)**
+
+que amplía los integrantes de la Comisión Multisectorial responsable de la Marca País. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">16/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 573-2020](decreto-573-2020.md)**
+
+designa a Sonia Féliz Medrano, directora ejecutiva de la ARS SEMMA. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">16/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 574-2020](decreto-574-2020.md)**
+
+que nombra a Tomás Emilio Durán Garden y Eduardo Pelagio Álvarez Hernández, cónsules generales de la República Dominicana en la ciudad de México, Estados Unidos Mexicanos y en Hong Kong, República Popular China. Deroga el
+
+<p class="leydo-year-meta">19/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 575-2020](decreto-575-2020.md)**
+
+que designa a Antonio de Jesús Rodríguez Tejada y Escarlyn Yakaira Benzán, director ejecutivo y secretaria general del Consejo Nacional de Gestión Presidencial, respectivamente. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">19/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 576-2020](decreto-576-2020.md)**
+
+que deroga el artículo 15 del Dec. No. 246-16, que designó a Rafael Guerrero Peralta, presidente del Consejo Nacional de Drogas. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">19/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 577-2020](decreto-577-2020.md)**
+
+que modifica el artículo 1 del Dec. No. 572-20, que agrega nuevos integrantes del sector privado a la Comisión Multisectorial, citada mediante el Dec. No. 466-20. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">20/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 579-2020](decreto-579-2020.md)**
+
+que nombra varios directores y subdirectores en el Instituto Nacional de Atención Integral a la Primera Infancia. Deroga el artículo 1 del Dec. No. 146-20. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">22/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 580-2020](decreto-580-2020.md)**
+
+que designa cónsules generales y vicecónsules en San Martin, Guadalupe y en New York, Estados Unidos de América. Deja sin efecto varios artículos de los decretos. Nos. 511-20 y 560-20. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">22/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 581-2020](decreto-581-2020.md)**
+
+que designa a Maria Isabel Castillo Báez, embajadora extraordinaria y plenipotenciaria de la República Dominicana en los Estados Unidos Mexicanos. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">22/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 582-2020](decreto-582-2020.md)**
+
+que designa a Alberto Bera Severino, presidente del Consejo de Directores de la Corporación del Acueducto y Alcantarillado de La Romana. Deroga el
+
+<p class="leydo-year-meta">23/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 583-2020](decreto-583-2020.md)**
+
+que designa al Rev. P. José Joaquín Domínguez Ureña, enlace del Poder Ejecutivo con la Iglesia Católica. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">23/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 584-2020](decreto-584-2020.md)**
+
+que deja sin efecto varios artículos de los decretos Nos. 483-20, 558-20, 559-20 y 561-20. Deroga el artículo 3 del Dec. No.317-18. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">23/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 585-2020](decreto-585-2020.md)**
+
+que deroga los decretos que nombraron vicecónsules y auxiliares de consulados de la Republica en el servicio exterior. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">23/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 586-2020](decreto-586-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">23/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 587-2020](decreto-587-2020.md)**
+
+que deroga los artículos 1 y 2 del Dec. No. 1189-04, y el Dec. No. 578- 09, que designaron funcionarios en la Comisión Nacional de Espectáculos Públicos y Radiofonía y un comisionado dominicano en asuntos culturales en los Estados Unidos de América. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">26/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 588-2020](decreto-588-2020.md)**
+
+que declara de prioridad nacional la industrialización, con el propósito de potenciar la competitividad y productividad del sector industrial y las zonas francas. Crea e integra la Mesa Presidencial de la Industrialización para la elaboración e implementación del Plan Nacional de Industrialización. G. O. No. 10994 del 30 de octubre de 2020
+
+<p class="leydo-year-meta">28/10/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 589-2020](decreto-589-2020.md)**
+
+que deroga varios decretos que nombraron funcionarios diplomáticos y consulares en el servicio exterior. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 590-2020](decreto-590-2020.md)**
+
+que designa funcionarios en la Junta Directiva de la Caja de Ahorros para Obreros y Monte Piedad. Deroga varios decretos que nombraron funcionarios en esa institución. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 591-2020](decreto-591-2020.md)**
+
+que deja sin efecto los nombramientos de funcionarios en distintas dependencias del Estado y asesores del Poder Ejecutivo. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 592-2020](decreto-592-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 593-2020](decreto-593-2020.md)**
+
+que nombra a Rafael Enrique González Cruz, director ejecutivo del Consejo Nacional para el VIH y el SIDA. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 594-2020](decreto-594-2020.md)**
+
+que designa a Henry Ernesto Veras Pérez, asesor eclesiástico del Poder Ejecutivo. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 595-2020](decreto-595-2020.md)**
+
+que nombra a Priamo Rafael Ramírez Ubiera e Hilda Patricia San Martin Polanco Morales, miembros del Consejo Directivo del Instituto Dominicano de las Telecomunicaciones. Deroga los artículos 1 y 2 del Dec. No. 276-16. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 596-2020](decreto-596-2020.md)**
+
+que designa a Nurys González Sánchez, subdirectora del Jardín Botánico Nacional “Dr. Rafael Maria Troncoso”. Deroga el artículo 2 del Dec. No. 560- 07 y el artículo 2 del Dec. No. 420-08. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 597-2020](decreto-597-2020.md)**
+
+que nombra a Héctor Virgilio Alcántara, Roberto Marcallé Abreu, Iván Emilio de Jesús Ogando Lora y Prisca Violeta Josefina Mazara Ubiera, embajadores en el servicio exterior. Modifica el artículo 4 del Dec. No. 578-20. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 598-2020](decreto-598-2020.md)**
+
+que designa funcionarios diplomáticos y consulares en el servicio exterior. Deroga los artículos 4 del Dec. No. 561-20, 14 del Dec. No. 510-20, 11 del Dec. No. 552-20 y 5 del Dec. No. 511-20. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 599-2020](decreto-599-2020.md)**
+
+que designa funcionarios diplomáticos y consulares en el servicio exterior. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 600-2020](decreto-600-2020.md)**
+
+que crea el Parque Industrial Panamericano, bajo la administración técnica y operativa de la compañía Parque Industrial Panamericano Zoinpa, S.R.L., ubicado en Boca Chica. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 601-2020](decreto-601-2020.md)**
+
+que crea el Parque de Zona Franca San Víctor, bajo la administración técnica y operativa de la compañía Operadora del Parque de Zona Franca SV, S.R.L., ubicado en Moca. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 602-2020](decreto-602-2020.md)**
+
+que crea el Ambrosia Free Zone Industrial Park, bajo la administración técnica y operativa de la empresa Ambrosia Park, S.A.S., con su ubicación en San Francisco de Macorís. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 603-2020](decreto-603-2020.md)**
+
+que deroga el artículo 9 del Dec. No. 208-20 y el Dec. No. 148-14, que designó un subdirector en el Instituto Agrario Dominicano y un agregado militar, naval, aéreo y policial ante la Embajada de la República Dominicana en la República de Taiwán, China. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 604-2020](decreto-604-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Moisés Polanco González, (a) Moisés González Polanco, (a) Campeche, (a) Tito Campeche. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 605-2020](decreto-605-2020.md)**
+
+que integra los cinco (5) miembros del Consejo de Asesores Económicos del Poder Ejecutivo, creado mediante Dec. No. 1098-04. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 606-2020](decreto-606-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 607-2020](decreto-607-2020.md)**
+
+que concede el beneficio de la naturalización dominicana ordinaria a varios extranjeros. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 608-2020](decreto-608-2020.md)**
+
+que modifica el artículo 10 del Dec. No. 268-16. crea e integra la comisión evaluadora de los terrenos registrados a nombre de los ingenios azucareros del Consejo Estatal del Azúcar. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 609-2020](decreto-609-2020.md)**
+
+que nombra a Rafael Peralta Romero, director general de la Biblioteca Nacional “Pedro Henríquez Ureña”. Crea e integra una comisión para organizar el festejo de los 50 años de dicha biblioteca. Deroga los artículos 2 del Dec. No. 353-96 y 5 del Dec. No. 858-04. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 610-2020](decreto-610-2020.md)**
+
+que designa a Antonio M. Taveras Guzmán, senador de la provincia Santo Domingo, representante del Gobierno de la Republica en los actos de toma de posesión del Excelentísimo Señor Luis Alberto Arce Catacora, presidente electo del Estado Plurinacional de Bolivia. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 611-2020](decreto-611-2020.md)**
+
+que concede el beneficio de la jubilación y asigna una pensión especial del Estado dominicano al señor Luis Oscar Domingo Brea Franco. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">02/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 612-2020](decreto-612-2020.md)**
+
+que instruye al Ministerio de la Presidencia, garantizar la habilitación, validación y seguimiento a las asociaciones sin fines de lucro, que ejecuten o no sus planes y programas, a través del Presupuesto asignado por el Estado dominicano, de acuerdo a lo establecido en la Ley No. 122-05 y su reglamento de aplicación. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">03/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 613-2020](decreto-613-2020.md)**
+
+que integra el Patronato Pro-Desarrollo de la Provincia Sánchez Ramírez. Deroga los decretos Nos. 564-96 y 584-96, el artículo 2 del Dec. No. 1206 del 1979 y el artículo 1 del Dec. No. 1311-04. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">03/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 614-2020](decreto-614-2020.md)**
+
+que deroga los decretos que nombraron a Venus Guillermina Carbonell Pichardo y Katia María Rosario Paulino en el Ministerio de Relaciones Exteriores. Deroga los artículos 9 del Dec. No. 84-05, 2 del Dec. No. 11-08 y 3 del Dec. No. 84-20, así como los artículos 2 de los decretos números 255-09 y 258-11. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">04/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 615-2020](decreto-615-2020.md)**
+
+que deroga el artículo 4 del Dec. No. 571-07 y el Dec. No. 124-08, que nombraron a Julissa Patricia Martinez de León y Nelson de León, segunda y tercer secretarios de la Secretaria de Estado de Relaciones Exteriores. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">05/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 616-2020](decreto-616-2020.md)**
+
+que declara de utilidad pública e interés social la adquisición por parte del Estado dominicano de varias porciones de terrenos, las que serán utilizadas para construir la Circunvalación de Baní. G. O. No. 10996 del 6 de noviembre de 2020
+
+<p class="leydo-year-meta">05/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 617-2020](decreto-617-2020.md)**
+
+que designa vicecónsules y auxiliares en el servicio exterior. Modifica los artículos 26 y 28 del Dec. No. 599-20 y deja sin efecto el artículo 44 del Dec. No. 557- 20, y deroga el artículo 1 del Dec. No. 1-09. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">05/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 618-2020](decreto-618-2020.md)**
+
+que integra el Consejo de la Medalla Presidencial al Mérito Civil. Modifica el artículo 4 del Dec. No. 1048-01. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">05/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 619-2020](decreto-619-2020.md)**
+
+que establece el toque de queda en el territorio nacional por veinte (20) días a partir del 12 de noviembre en curso, todo de acuerdo con las disposiciones del
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 620-2020](decreto-620-2020.md)**
+
+que nombra a Maria Elisa Holguín López, directora de la Unidad de Análisis Financiero (UAF), por un período de 4 años. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 621-2020](decreto-621-2020.md)**
+
+que nombra a Príamo Rafael Ramírez Ubiera e Hilda Patricia de San Martín Polanco Morales, miembros del Consejo Directivo del Instituto Dominicano de las Telecomunicaciones. Modifica los artículos 1 y 2 del Dec. No. 595-20. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 622-2020](decreto-622-2020.md)**
+
+que declara de alta prioridad nacional la rehabilitación, saneamiento, preservación y uso sostenible de la cuenca alta, media y baja de los ríos Ozama e Isabela. Crea e Integra la Comisión Presidencial para el saneamiento de los citados ríos. Modifica los artículos 3 y 6 del Dec. No. 260-14. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 623-2020](decreto-623-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 624-2020](decreto-624-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 625-2020](decreto-625-2020.md)**
+
+que nombra varios subdirectores en la Dirección General de Ganadería. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 626-2020](decreto-626-2020.md)**
+
+que nombra embajadores extraordinarios y plenipotenciarios de la República en Italia, Confederación Suiza, Reino de los Países Bajos, India y Emiratos Árabes Unidos, así como el embajador, Jefe de la Misión de la República ante la Unión Europea. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 627-2020](decreto-627-2020.md)**
+
+que nombra a Rolando Muñoz Mejía, director general de Minería. Modifica el artículo 3 del Dec. No. 537-20. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 628-2020](decreto-628-2020.md)**
+
+que autoriza una emisión de sellos postales para el franqueo de las correspondencias. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 629-2020](decreto-629-2020.md)**
+
+que designa a Conrado Arístides Santana Reyes, subdirector de la Unidad Técnica Ejecutora de Proyectos de Desarrollo Agroforestal de la Presidencia de la República. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 630-2020](decreto-630-2020.md)**
+
+que autoriza al coronel paracaidista José Alberto Hernández Rivera, FARD, a aceptar y usar la medalla especial y el cintillo con dos estrellas doradas, otorgada por la Junta Interamericana de Defensa. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 631-2020](decreto-631-2020.md)**
+
+que declara de utilidad pública e interés social la adquisición, por parte del Estado dominicano de varias porciones de terrenos en distintos municipios del país, para ser utilizadas en la construcción de edificaciones escolares. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 632-2020](decreto-632-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Francisco Lora, (a) Francisco Javier Lora Brito, (a) Jonathan. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 633-2020](decreto-633-2020.md)**
+
+que modifica el numeral 16, artículo 1, del Dec. No. 335-13. Declara de utilidad pública una porción de terreno dentro de la parcela No. 408500840957, del municipio Ramón Santana, provincia San Pedro de Macorís, la cual fue utilizada en edificaciones escolares. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 634-2020](decreto-634-2020.md)**
+
+que excluye de la expropiación efectuada mediante Dec. No. 166-13,
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 635-2020](decreto-635-2020.md)**
+
+que excluye de la expropiación efectuada mediante Dec. No. 112-16,
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 636-2020](decreto-636-2020.md)**
+
+que deroga varios numerales de los artículos 1 de los decretos Nos. 387- 15, 301-16, 423-17, 112-18 y 133-18, que declararon de utilidad pública varias porciones de terrenos para fines de edificaciones escolares. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 637-2020](decreto-637-2020.md)**
+
+que excluye de la expropiación efectuado mediante Dec. No. 7-14,
+
+<p class="leydo-year-meta">10/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 638-2020](decreto-638-2020.md)**
+
+que nombra a Eusebia María Núñez García, cónsul general de la República en Montreal, Canadá, y varios vicecónsules en España, Colombia, Haití, Estados Unidos de América y Canadá y un auxiliar consular en Toronto, Canadá. Deroga los artículos 16 del Dec. No. 561-20 y 11 del Dec. No. 560-20. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">11/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 639-2020](decreto-639-2020.md)**
+
+que designa a Ramón Antonio Santos Pérez, asesor de comercialización de productos agropecuarios del Poder Ejecutivo. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">11/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 640-2020](decreto-640-2020.md)**
+
+que instruye al Consejo Nacional de Competitividad a elaborar, articular y coordinar la Estrategia Nacional de Competitividad, a partir de la identificación de las acciones, medidas y reformas necesarias para elevar los niveles de competitividad y productividad. Crea el Programa Gobierno Eficiente e incluye al Consejo Nacional de Competitividad como miembro de la Comisión Nacional de Monitoreo y Evaluación del Sistema Nacional de Monitoreo y Evaluación. Modifica el
+
+<p class="leydo-year-meta">11/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 641-2020](decreto-641-2020.md)**
+
+que declara de alto interés nacional el cultivo y exportación del cacao. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">12/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 642-2020](decreto-642-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 398-09, que designó a José Dantés Díaz, ministro consejero de la Embajada de la República en la República de Chile. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">16/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 643-2020](decreto-643-2020.md)**
+
+que designa a Sergia Elena Mejía de Peña y Julio César Llibre Salcedo, miembros de la Junta Monetaria, ambos por un período de dos (2) años. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">16/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 644-2020](decreto-644-2020.md)**
+
+que designa doce (12) vicecónsules de la República en el servicio exterior. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 645-2020](decreto-645-2020.md)**
+
+que nombra a Katia Juliana Castillo Marte, cónsul general de la República en Santa Cruz de Tenerife, Islas Canarias, Reino de España; y doce (12) vicecónsules de la República en el servicio exterior. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 646-2020](decreto-646-2020.md)**
+
+que designa al presidente y tres (3) miembros del Consejo de Directivo del Instituto Nacional de Auxilios y Viviendas. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 647-2020](decreto-647-2020.md)**
+
+, que nombra a Periandro Gertrudis Delgado Vargas, asesor en materia de telecomunicaciones del Poder Ejecutivo. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 648-2020](decreto-648-2020.md)**
+
+que integra el Consejo de Desarrollo Ecoturístico de la provincia San José de Ocoa. Deroga el Dec. No. 92-17. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 649-2020](decreto-649-2020.md)**
+
+que designa a Franklin Aníbal Peralta Uceta, subdirector de la Corporación de Acueductos y Alcantarillados de Santo Domingo, y a Ángel Eduardo Familia Jiménez y Sonia López Pérez, subdirectores del Instituto Nacional de Administración Pública. Deroga los artículos 2 y 3 del Dec. No. 462-08. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 650-2020](decreto-650-2020.md)**
+
+que concede naturalización dominicana a personas extranjeras. Modifica varios numerales de los artículos 1 de los decretos Nos. 221-04, 284-90, 539- 04, 524-05, 86-04 y 127-03. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 651-2020](decreto-651-2020.md)**
+
+que designa a Fidias Federico Aristy Payano, asesor del Poder Ejecutivo en políticas antinarcóticas. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 652-2020](decreto-652-2020.md)**
+
+que deja sin efecto los nombramientos de varios subdirectores en la Comisión Presidencial de Desarrollo Provincial y del Instituto Nacional de Educación Física. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 653-2020](decreto-653-2020.md)**
+
+que deja sin efecto los artículos 2 y 4 del Dec. No. 556-20 y los artículos 38 y 43 del Dec. No. 557-20. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 654-2020](decreto-654-2020.md)**
+
+que designa a Ramón Antonio Valdez y Fernando Jesús Dauhajre Morales, comisionados nacionales de Boxeo y Lucha, y de Artes Marciales Mixtas, respectivamente. Deroga el Dec. No. 388-14 y el artículo 18 del Dec. No. 450-08. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 655-2020](decreto-655-2020.md)**
+
+que nombra a Juan Bolívar Diaz Santana, Robert Miky Takata Pimentel y Federico Alberto Cuello Camilo, embajadores extraordinarios y plenipotenciarios de la República en el Reino de España, en el Estado de Japón y en la República de Corea, respectivamente. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 656-2020](decreto-656-2020.md)**
+
+que designa a Carlos Paulino Cárdenas, subdirector del Centro de Operaciones de Emergencias. Modifica el Dec. No. 64-10. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 657-2020](decreto-657-2020.md)**
+
+que designa varios funcionarios diplomáticos de la República en la República de Haití. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">18/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 658-2020](decreto-658-2020.md)**
+
+que confirma a José Ricardo Rojas León, como miembro de la Junta Monetaria, por un período de dos (2) años. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 659-2020](decreto-659-2020.md)**
+
+que modifica los artículos 1 y 2 del Dec. No. 10-17. Crea la Unidad Coordinadora de Proyectos de Desarrollo Agroforestal adscrita al Ministerio de Medio Ambiente y Recursos Naturales y la Unidad Técnica Ejecutora de Proyectos Agrodorestal. Deroga el Dec. No. 469-20. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 660-2020](decreto-660-2020.md)**
+
+que designa a Anastacio Brazobán González, asesor del Ministerio de Industria, Comercio y Mipymes. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 661-2020](decreto-661-2020.md)**
+
+que designa a Carlos Enrique Arias Florián, subdirector de la Oficina Metropolitana de Servicios de Autobuses. Deroga el artículo 3 del Dec. No. 462-08 y el
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 662-2020](decreto-662-2020.md)**
+
+que designa varios vicecónsules de la República en el servicio exterior. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 663-2020](decreto-663-2020.md)**
+
+que deroga el artículo 5 del Dec. No. 5-09, modificado por el artículo 2 del Dec. No. 269-09, que nombró a Joanny Luna, consejera de la Embajada de la República en Italia. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 664-2020](decreto-664-2020.md)**
+
+que crea la Unidad de Evaluación y Seguimiento de Proyectos, adscrita al Ministerio Administrativo de la Presidencia. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 665-2020](decreto-665-2020.md)**
+
+que nombra a Hecmilio Arístides Galván Cruz, director ejecutivo de la Unidad de Evaluación y Seguimiento de los Proyectos. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">23/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 666-2020](decreto-666-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 768-08, que designó a Ivelisse García, subdirectora del Jardín Botánico Nacional. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">24/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 667-2020](decreto-667-2020.md)**
+
+que permite durante el horario de toque de queda la circulación de los vehículos de transporte y distribución de alimentos, mercancías e insumos, tanto urbano como interurbano, del Plan Social de la Presidencia, así como el personal que trabaja en dichos vehículos. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">24/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 668-2020](decreto-668-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">24/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 669-2020](decreto-669-2020.md)**
+
+que modifica el artículo 1 del Dec. No. 424-19, que declaró de utilidad pública una porción de terreno dentro la parcela No. 307368949823, municipio Cambita Garabitos, provincia San Cristóbal, para ser utilizada en la terminación del Acueducto Múltiple de Cambita Garabitos. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">24/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 670-2020](decreto-670-2020.md)**
+
+que concede de manera póstuma la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella, en el grado de Gran Cruz Placa de Plata, a Aida Patria Mercedes Mirabal Reyes, Maria Argentina Minerva Mirabal Reyes y Antonia Maria Teresa Mirabal Reyes. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">25/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 671-2020](decreto-671-2020.md)**
+
+del 25 de noviembre de 2020, que otorga exequátur post morten por parte del Poder Ejecutivo a María Argentina Minerva Mirabal Reyes, para honrar su memoria, trayectoria, grandes méritos y aportes a la sociedad dominicana. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">25/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 672-2020](decreto-672-2020.md)**
+
+que asciende al rango de mayor general a varios oficiales generales de la Policía Nacional y a su vez los coloca en la honrosa situación de retiro por antigüedad en el servicio, con disfrute de pensión. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 673-2020](decreto-673-2020.md)**
+
+que nombra a Sonia Guzmán K. de Hernández, embajadora extraordinaria y plenipotenciaria de la República en los Estados Unidos de América. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 674-2020](decreto-674-2020.md)**
+
+que dispone la suspensión provisional sin disfrute de sueldo, hasta tanto presenten su declaración jurada de bienes, a varios directores, subdirectores y miembros de consejos de instituciones del Estado. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 675-2020](decreto-675-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 676-2020](decreto-676-2020.md)**
+
+que autoriza una impresión de estampillas para fósforos. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 677-2020](decreto-677-2020.md)**
+
+que autoriza a los ayuntamientos de Bani, Santiago de los Caballeros, Barahona, Bayaguana, San Francisco de Macorís, Neiba, Sabana de la Mar, Moca, El Seibo y Monte Plata a vender varias porciones de terrenos. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 678-2020](decreto-678-2020.md)**
+
+que modifica varios artículos de los decretos Nos. 454-05, 149-07, 263- 09, 369-07, 518-97, 707-10, 588-10 y 270-90, que autorizaron a varios ayuntamientos a vender terrenos de su propiedad. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 679-2020](decreto-679-2020.md)**
+
+que designa a Rafael Emilio Yunén Zouain, Odalis Guillermo Pérez Nina y Ángel Bienvenido Moreta Aguasvivas, miembros del Consejo Nacional de Educación, Superior, Ciencia y Tecnología. Deroga el artículo 1 del Dec. No. 555-05. Nombra a Ligia Amada Melo, representante de los expresidentes del Consejo Nacional de educación Superior y exministros de Educación Superior, Ciencia y Tecnología. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 680-2020](decreto-680-2020.md)**
+
+que deja sin efecto los decretos que nombraron funcionarios diplomáticos y consulares en el Ministerio de Relaciones Exteriores. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 681-2020](decreto-681-2020.md)**
+
+que designa seis (6) vicecónsules de la República en Alemania, España, Francia y Puerto Rico. Deja sin efecto varios artículos de los Decs. Nos. 809-08, 557-20 y 535-20. G. O. No. 10997 del 27 de noviembre de 2020
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 682-2020](decreto-682-2020.md)**
+
+que excluye de la expropiación efectuada mediante Dec. No. 444-11,
+
+<p class="leydo-year-meta">27/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 683-2020](decreto-683-2020.md)**
+
+que declara el territorio nacional en estado de emergencia por un periodo de cuarenticinco (45) días, contados a partir del 2 de diciembre del año en curso. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 684-2020](decreto-684-2020.md)**
+
+que extiende el toque de queda en el territorio nacional por veinte (20) días a partir del 2 de diciembre hasta el 22 de diciembre del año en curso, todo de acuerdo con las disposiciones del Dec. No. 504-20. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 685-2020](decreto-685-2020.md)**
+
+que crea el Fondo de Asistencia Social “Navidad para los Trabajadores”, habilitado para el mes de diciembre del año en curso, el cual tendrá como objeto el pago de la proporción del salario de navidad para los trabajadores suspendidos e inscritos en la modalidad FASE I. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 686-2020](decreto-686-2020.md)**
+
+que designa a Pablo Francisco de la Mota Santana, Julio Gonell Morel y Alberto Marte Almánzar, como subdirectores del Consejo Nacional de Población y Familia, del Consejo Nacional para el VIH y el SIDA, y de la Dirección General de Migración, respectivamente. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 687-2020](decreto-687-2020.md)**
+
+que crea e integra la Comisión de Revisión y Reestructuración de Políticas y Programas destinados a la protección y asistencia social, para dar cumplimiento a las instrucciones establecidas en el artículo 4 del Dec. No. 331-20. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 688-2020](decreto-688-2020.md)**
+
+que designa a José del Carmen Marcano de los Santos, asesor de comercio interior del Poder Ejecutivo. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 689-2020](decreto-689-2020.md)**
+
+que designa funcionarios en la Comisión Mixta Bilateral Dominicano- Haitiana, todos con rango de embajador mientras permanezcan en sus funciones. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 690-2020](decreto-690-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 243-18, que nombró a José Francisco Ramos Frías, consejero de la Embajada de la República en el Reino de España. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 691-2020](decreto-691-2020.md)**
+
+que deroga el artículo 6 del Dec. No. 354-20, que designó a Víctor Miguel Polanco Severino, viceministro de Control y Regulación de Armas y Municiones, del Ministerio de Interior y Policía. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 692-2020](decreto-692-2020.md)**
+
+que concede el beneficio de la jubilación y asigna pensiones del Estado dominicano de RD$10,000.00 mensuales, a 295 extrabajadores de los ingenios azucareros. G. O. No. 10998 del 1 de diciembre de 2020
+
+<p class="leydo-year-meta">30/11/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 693-2020](decreto-693-2020.md)**
+
+que coloca en situación de retiro con disfrute de la pensión correspondiente a varios oficiales generales y superiores de las Fuerzas Armadas. G. O. No. 11000 del 10 de diciembre de 2020
+
+<p class="leydo-year-meta">04/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 694-2020](decreto-694-2020.md)**
+
+que nombra a Luz del Alba Jiménez Ramírez y Vicente Luis de Peña Peralta, ministra y viceministro del Ministerio de la Juventud, respectivamente. G. O. No. 11000 del 10 de diciembre de 2020. G. O. No. 11000 del 10 de diciembre de 2020
+
+<p class="leydo-year-meta">09/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 695-2020](decreto-695-2020.md)**
+
+que crea e integra el Gabinete de Transparencia, Prevención y Control del Gasto Público. G. O. No. 11000 del 10 de diciembre de 2020
+
+<p class="leydo-year-meta">09/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 696-2020](decreto-696-2020.md)**
+
+que concede la condecoración del Gran Cordón Militar Juan Pablo Duarte a varios oficiales superiores y subalternos del Ejército de República Dominicana (ERD). G. O. No. 11000 del 10 de diciembre de 2020
+
+<p class="leydo-year-meta">10/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 697-2020](decreto-697-2020.md)**
+
+que concede la condecoración de la Orden al Mérito Aéreo en sus diferentes categorías, con distintivo azul, a varios oficiales generales y superiores, así como a oficiales subalternos y alistados de la Fuerza Aérea de la República Dominicana. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">14/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 698-2020](decreto-698-2020.md)**
+
+que deroga los decretos Nos. 504-20, 554-20 y 684-20. Establece nuevo horario para el toque de queda y un período de gracia hasta las 9:00 p.m. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">15/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 699-2020](decreto-699-2020.md)**
+
+que declara de duelo oficial el día 17 de diciembre del año en curso, con motivo del fallecimiento de Alejandro Enrique Grullón Espaillat. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">16/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 700-2020](decreto-700-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 701-2020](decreto-701-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 702-2020](decreto-702-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 703-2020](decreto-703-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer de licenciados en derecho en todo el territorio nacional. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 704-2020](decreto-704-2020.md)**
+
+que concede el beneficio de una pensión solidaria del Régimen Subsidiado del Sistema Dominicano de Seguridad Social por vejez y discapacidad a 1,036 personas, por un monto de RD$6,000.00 cada una. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 705-2020](decreto-705-2020.md)**
+
+que designa a Sonia Paulina Cabrera Wagner, miembro de la Comisión Aeroportuaria. Deja sin efecto los decretos que nombraron cuatro (4) subdirectores del Instituto Nacional de Bienestar Estudiantil y del Jardín Botánico Nacional. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 706-2020](decreto-706-2020.md)**
+
+que designa varios cónsules y vicecónsules en el servicio exterior. Deja sin efecto varios artículos de los decretos Nos. 510-20, 551-20, 552-20, 557-20, 558-20 y 561-20. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 707-2020](decreto-707-2020.md)**
+
+que deja sin efecto los decretos que nombraron funcionarios diplomáticos y consulares en el servicio exterior y adscritos al Ministerio de Relaciones Exteriores. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 708-2020](decreto-708-2020.md)**
+
+que designa a Lourdes Gisela Antonia Victoria-Kruse, Laura Virginia Ramona Faxas Vargas de Jorgesen, Milady Altagracia Cuello Ortiz de Cabral, Michelle Cohén de Friedlander y Wellington Darío Bencosme Castaños, embajadores extraordinarios y plenipotenciarios de la República en el Reino de Suecia, Austria, Ecuador, Canadá y Trinidad y Tobago, respectivamente. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 709-2020](decreto-709-2020.md)**
+
+que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones en todo el territorio nacional. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 710-2020](decreto-710-2020.md)**
+
+que modifica el artículo 1 del Dec. No. 271-19. Dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Anyerson DelaCruz Rosario, (a) Anyerson de La Cruz, (a) Heriberto Torres, (a) Ángelo. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 711-2020](decreto-711-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano J. D. Luis, (a) Luis Manuel Genao Rivera (Genao). G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 712-2020](decreto-712-2020.md)**
+
+que dispone la entrega en extradición a los Estados Unidos de América del ciudadano dominicano Luis Carmona, alias Luis Felipe Carmona. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 713-2020](decreto-713-2020.md)**
+
+que dispone la apertura del Consulado Honorario de la República en Bratislava, República Eslovaca. Designa a Dusan Dvorecky, cónsul honorario de la República en Bratislava, República Eslovaca. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 714-2020](decreto-714-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 715-2020](decreto-715-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 716-2020](decreto-716-2020.md)**
+
+que deroga los decretos que nombraron a José Osvaldo Ramírez y Ana María García, subdirectores del Consejo Dominicano de Pesca y Acuicultura. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 717-2020](decreto-717-2020.md)**
+
+que nombra a Elnio Manuel Durán, embajador extraordinario y plenipotenciario de la República Dominicana en el Reino Unido de Gran Bretaña e Irlanda del Norte. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 718-2020](decreto-718-2020.md)**
+
+que modifica el numeral 11 del artículo 4 del Dec. No. 698-20. Autoriza a los empleados o contratistas de restaurantes a brindar servicios a domicilio de alimentos cocidos y circular hasta las 12.00 a.m. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">17/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 719-2020](decreto-719-2020.md)**
+
+que deroga el Dec. No. 75-20, que designó a Justino Ericson Taveras Cabrera, subdirector del Consejo Estatal del Azúcar. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">18/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 720-2020](decreto-720-2020.md)**
+
+que deja sin efecto los decretos que nombraron a Yocasta Lara Hernández, Omar José García Castillo y José Luis López Pérez, como subdirectores del Servicio Nacional de Salud. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">18/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 721-2020](decreto-721-2020.md)**
+
+que declara de duelo oficial el 21 de diciembre del año en curso, con motivo del fallecimiento de Carmen Quidiello de Bosch. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">19/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 722-2020](decreto-722-2020.md)**
+
+que designa a Pedro Pablo Acevedo, presidente del Consejo Nacional de Discapacidad. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">21/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 723-2020](decreto-723-2020.md)**
+
+que declara de utilidad pública e interés social la adquisición por parte del Estado dominicano de varias porciones de terrenos en el Distrito Nacional y en la provincia Santo Domingo, para ser utilizadas en el proyecto para construcción de edificaciones de apartamentos y de viviendas dignas, denominado “Dominicana se Reconstruye”. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">22/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 724-2020](decreto-724-2020.md)**
+
+que dispone la constitución de un fideicomiso público e irrevocable de desarrollo e inversión inmobiliaria en la provincia Pedernales, denominado “Fideicomiso Pro Pedernales”, conformado por el Estado dominicano, la Dirección General de Alianzas Publico Privadas y Fiduciaria Reservas, S. A. Crea e integra el Comité Administrativo presidido por el ministro de la Presidencia, y deroga el Dec. No. 186-15. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">22/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 725-2020](decreto-725-2020.md)**
+
+que autoriza el uso de los procedimientos de excepción por situaciones de seguridad nacional establecidos en el numeral 1 del párrafo del artículo 6 de la Ley No. 340-06 y sus modificaciones. Declara de máxima seguridad nacional las contrataciones de armas, municiones, vehículos de combate, radares terrestres, sistemas informáticos y servicios de consultoría. G. O. No. 11002 del 23 de diciembre de 2020
+
+<p class="leydo-year-meta">23/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 726-2020](decreto-726-2020.md)**
+
+que modifica el artículo 2 del Dec. No. 695-20. Integra el Gabinete de Transparencia, Prevención y Control de Gasto Público. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">23/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 727-2020](decreto-727-2020.md)**
+
+que deroga el artículo 2 del Dec. No. 546-99, que nombró a Hervé Castelle, cónsul honorario de la República en Burdeos, República Francesa. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">23/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 728-2020](decreto-728-2020.md)**
+
+que designa a Santiago Rafael Caba Abreu, subdirector para la región norte de la Comisión Permanente de Titulación de Terrenos del Estado. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">23/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 729-2020](decreto-729-2020.md)**
+
+que concede el beneficio de una pensión solidaria del Régimen Subsidiado del Sistema Dominicano de Seguridad Social por vejez y discapacidad a 2,013 personas, por un monto de RD$6,000.00 cada una. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">28/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 730-2020](decreto-730-2020.md)**
+
+que deroga los decretos que nombraron a Arles Patricia de las Mercedes Ovalles y Juan Ramón Durán, como auxiliar administrativa del Consulado de la República en Génova, Italia y vicecónsul en Zúrich, Suiza, respectivamente. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">28/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 731-2020](decreto-731-2020.md)**
+
+que nombra a Carmelo Antonio Rodríguez Gutiérrez, asesor del Poder Ejecutivo en materia de Micro, Pequeña y Mediana Empresas. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">28/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 732-2020](decreto-732-2020.md)**
+
+que deroga el artículo 1 del Dec. No. 567-12, que nombró a Carlos Leroux de Moya, miembro de la Comisión Aeroportuaria, en representación del sector privado. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">28/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 733-2020](decreto-733-2020.md)**
+
+que designa a Miguel Antonio Valenzuela, asesor del Consejo Nacional de Gestión Presidencial. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">28/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 734-2020](decreto-734-2020.md)**
+
+que autoriza a varias personas a realizar cambios en sus nombres. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">28/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 735-2020](decreto-735-2020.md)**
+
+que designa a Manuel Ernesto Polanco Salvador, Lourdes Gisela Antonia Victoria-Kruse, Angie Shakira Martínez Tejera y Fausto Rafael Liz Quiñonez, embajadores extraordinarios y plenipotenciarios de la República en Paraguay, la República Eslovaca con sede en el Reino de Suecia, en Jamaica y en Chile, respectivamente. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">29/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 736-2020](decreto-736-2020.md)**
+
+que designa al cónsul general de la República en Río de Janeiro, Brasil y varios vicecónsules y auxiliares de consulados en distintos países. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">29/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 737-2020](decreto-737-2020.md)**
+
+deroga el artículo 5 del Dec. No. 413-20, que designó a Francisco Javier Matos Pujols, asesor en materia de comunicaciones del Poder Ejecutivo. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">29/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 738-2020](decreto-738-2020.md)**
+
+que deroga los decretos que nombraron a Felix Francisco Peña Reyes, Iven Esteban Segura Feliz, Sobiesqui Santiago Zabala Serrata y Julián Ángel Castillo Ricardo, como subdirectores de la Oficina Nacional de Evaluación Sísmica y Vulnerabilidad de Infraestructuras. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">29/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 739-2020](decreto-739-2020.md)**
+
+que designa a Jaime Marte Martínez, presidente del Consejo Nacional de Drogas. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">29/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 740-2020](decreto-740-2020.md)**
+
+que establece el toque de queda de 5:00 pm hasta las 5:00 am, desde el 1ro. de enero hasta el 10 del mismo mes y año, de lunes a viernes con dos horas de gracia. Dispone que los sábados 2 y 9 y los domingos 3 y 10 de enero 2021, el toque de queda será desde las 12:00 am hasta las 5:00 am. Modifica el Dec. No. 698-20 y suspende las actividades de las diferentes iglesias religiosas y espacios abiertos, tales como parques, malecones y gimnasios dedicados a prácticas deportivas. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">30/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 741-2020](decreto-741-2020.md)**
+
+que concede la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella, en el grado de Gran Cruz Placa de Plata, a la Excelentísima Señora Robin S. Bernstein, embajadora extraordinaria y plenipotenciaria de los Estados Unidos de América en la República Dominicana. G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">30/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+<div class="leydo-year-entry" markdown>
+**[Decreto 742-2020](decreto-742-2020.md)**
+
+que crea el Fondo de Asistencia Social Fase I Extendido, desde enero hasta abril del 2021. Deroga los decretos Nos.140-20 y 184-20, relativos al Fondo de Asistencia Solidaria al Empleado (FASE). G. O. 11003 del 31 de diciembre de 2020
+
+<p class="leydo-year-meta">30/12/2020 · normalizado · pendiente_revision</p>
+</div>
+
+</div>
