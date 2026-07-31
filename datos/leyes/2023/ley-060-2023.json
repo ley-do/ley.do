@@ -1,0 +1,31 @@
+{
+  "tipo_documento": "ley",
+  "numero": "060",
+  "anio": "2023",
+  "titulo": "para la Administración de Bienes Secuestrados, Incautados y Abandonados en los Procesos Penales y en los Juicios de Extinción de Dominio. Crea el Instituto Nacional de Custodia y Administración de Bienes Incautados, Decomisados y en Extinci",
+  "fecha": "30/10/2023",
+  "gaceta_oficial": "11125",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401505&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401505&managementType=1",
+  "document_id_consultoria": "3401505",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2023/ley-060-2023.pdf",
+  "ruta_markdown": "docs/leyes/2023/ley-060-2023.md",
+  "ruta_json": "datos/leyes/2023/ley-060-2023.json",
+  "sha256_pdf_original": "7d98886bbb77e95944bd6786e8cb50390ec0ecea00c2b64cb38ab5b45f9cdc29",
+  "sha256_markdown": "f6b1d1003bd99126818aa08dfb78ec32f0dfe6a11c7b388a7dcd2753d4b4e9cf",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [],
+  "fecha_texto_pdf_detectada": "27/10/2023",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "fecha_metadata_fuente": "30/10/2023",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 30/10/2023, mientras el apartado DADO del PDF indica 27/10/2023. Se conservan ambos valores para revisión humana."
+  ]
+}

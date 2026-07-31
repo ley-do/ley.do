@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "030",
+  "anio": "2024",
+  "titulo": "sobre los Centros Logísticos, Empresas Operadoras de Centros Logísticos y Empresas Operadoras Logísticas. Deroga el Reglamento núm. 262-15. Crea en el artículo 4 de esta ley el Consejo Nacional de Logística.",
+  "fecha": "30/07/2024",
+  "gaceta_oficial": "11157",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402305&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402305&managementType=1",
+  "document_id_consultoria": "3402305",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-030-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-030-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-030-2024.json",
+  "sha256_pdf_original": "a96289121d82f028c203a6c12da42074a5237008cb7dc81658d2b7d7d5c15a73",
+  "sha256_markdown": "7fb95e99a544721a723ed4f548f479472d355180682847cd80416f059bb03880",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    226
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}

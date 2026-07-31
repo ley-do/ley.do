@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "068",
+  "anio": "2019",
+  "titulo": "Ley núm. 068-2019",
+  "fecha": "28/03/2019",
+  "gaceta_oficial": "10937",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393577&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393577&managementType=1",
+  "document_id_consultoria": "3393577",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-068-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-068-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-068-2019.json",
+  "sha256_pdf_original": "eeeaf077283d11c1c159c5fb73c85dffe11403656faf3fcf02a3877f62d04e9f",
+  "sha256_markdown": "5ecc65f7c4019efcb151e4b01184438fdcf4abcd7b945ce84311cfa5751a9673",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    69
+  ],
+  "fecha_texto_pdf_detectada": "28/03/2019",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

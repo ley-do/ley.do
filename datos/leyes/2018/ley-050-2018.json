@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "050",
+  "anio": "2018",
+  "titulo": "Ley núm. 050-2018",
+  "fecha": "24/10/2018",
+  "gaceta_oficial": "10922",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3391265&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3391265&managementType=1",
+  "document_id_consultoria": "3391265",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2018/ley-050-2018.pdf",
+  "ruta_markdown": "docs/leyes/2018/ley-050-2018.md",
+  "ruta_json": "datos/leyes/2018/ley-050-2018.json",
+  "sha256_pdf_original": "0efb0652046dc3dbadaba11889a398d30e6ab27bc65cf327096c78d5b4737d45",
+  "sha256_markdown": "29c90e9ad20398c5aa917f381eee4348c3889cb9e96508bf999ade1003b9fdd6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    51
+  ],
+  "fecha_texto_pdf_detectada": "24/10/2018",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

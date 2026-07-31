@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "034",
+  "anio": "2018",
+  "titulo": "que reforma el Instituto del Tabaco (INTABACO). Deroga las leyes números 5961 del 1962 y 165-01",
+  "fecha": "20/08/2018",
+  "gaceta_oficial": "10918",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3390142&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3390142&managementType=1",
+  "document_id_consultoria": "3390142",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2018/ley-034-2018.pdf",
+  "ruta_markdown": "docs/leyes/2018/ley-034-2018.md",
+  "ruta_json": "datos/leyes/2018/ley-034-2018.json",
+  "sha256_pdf_original": "d5536bede7c7d6c25c30ce296b2f8de43f00600a7bbfa5fde210109e7b8b44d8",
+  "sha256_markdown": "5256da8e540d1bb380140d2d2d2b21e05d3ea1712ecc4fdfa40a5a975544796e",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    35
+  ],
+  "fecha_texto_pdf_detectada": "20/08/2018",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

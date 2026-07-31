@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "076",
+  "anio": "2025",
+  "titulo": "que dispone la protección cultural del Festival Cultural de la Provincia Hermanas Mirabal",
+  "fecha": "06/08/2025",
+  "gaceta_oficial": "11211",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403709&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403709&managementType=1",
+  "document_id_consultoria": "3403709",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-076-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-076-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-076-2025.json",
+  "sha256_pdf_original": "c0142450afda329ae061dfad9283ead8b74f8da4a97845d3717ba2ab1308aa0d",
+  "sha256_markdown": "6d2f3ef221cf558fdbf9813b0f123d67dbeb092a4a2d8ec82df1663970355eff",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    77
+  ],
+  "fecha_texto_pdf_detectada": "06/08/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

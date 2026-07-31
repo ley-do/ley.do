@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "588",
+  "anio": "2016",
+  "titulo": "Ley núm. 588-2016",
+  "fecha": "05/07/2016",
+  "gaceta_oficial": "10849",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379447&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379447&managementType=1",
+  "document_id_consultoria": "3379447",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2016/ley-588-2016.pdf",
+  "ruta_markdown": "docs/leyes/2016/ley-588-2016.md",
+  "ruta_json": "datos/leyes/2016/ley-588-2016.json",
+  "sha256_pdf_original": "37c84530813854ac47bd447a5c08b6fce25a3b9d36f75c5763af3e6e76f72914",
+  "sha256_markdown": "4f45aa37b1bdc13263058bf045cf0dbfe8d84dcca7d805dfbb4d6a5cd164a8b6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    589
+  ],
+  "fecha_texto_pdf_detectada": "05/07/2016",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

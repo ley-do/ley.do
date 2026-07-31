@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "004",
+  "anio": "2024",
+  "titulo": "que declara la provincia Montecristi, como Provincia Ecoturística",
+  "fecha": "16/01/2024",
+  "gaceta_oficial": "11139",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401783&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401783&managementType=1",
+  "document_id_consultoria": "3401783",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-004-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-004-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-004-2024.json",
+  "sha256_pdf_original": "7c6fc59e69b3cebee41785b41e959723cb3547e999f72d20e215c13072c062e2",
+  "sha256_markdown": "594bc1237799f30f59f03451e6aeab422ad881cc976312fd043806117a29281a",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    158
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

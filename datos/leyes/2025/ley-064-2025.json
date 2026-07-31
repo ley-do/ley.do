@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "064",
+  "anio": "2025",
+  "titulo": "que designa con el nombre de Doctor Ángel María Gatón, el nuevo Hospital Regional de la ciudad de San Francisco de Macorís",
+  "fecha": "31/07/2025",
+  "gaceta_oficial": "11207",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403675&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403675&managementType=1",
+  "document_id_consultoria": "3403675",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-064-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-064-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-064-2025.json",
+  "sha256_pdf_original": "4f68e92e6ddbd41ab024320598ee1593b1e2c82434fb7f60858e399b21fc70c0",
+  "sha256_markdown": "8a4a6814d25950387c1ac96432a3b24bc6cb79f4a624a437d553ba4674131123",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    65
+  ],
+  "fecha_texto_pdf_detectada": "31/07/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "007",
+  "anio": "2021",
+  "titulo": "Ley núm. 007-2021",
+  "fecha": "20/01/2021",
+  "gaceta_oficial": "11007",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397729&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397729&managementType=1",
+  "document_id_consultoria": "3397729",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2021/ley-007-2021.pdf",
+  "ruta_markdown": "docs/leyes/2021/ley-007-2021.md",
+  "ruta_json": "datos/leyes/2021/ley-007-2021.json",
+  "sha256_pdf_original": "5f4cc2d129bbdf5cc81658534addbac24cee9c7f471181bb42b265cc03b638d7",
+  "sha256_markdown": "19efab61975d9d3756752a85af0b178a8c0c5a070fbfe0868b63052344c47b91",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    506
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

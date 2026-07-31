@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "061",
+  "anio": "2025",
+  "titulo": "que modifica los artículos 36, 64 y 81 de la Ley núm. 176-07, del 17 de julio de 2007, del Distrito Nacional y los Municipios, a fin de regular la suplencia de alcaldes, alcaldesas, vicealcaldes, vicealcaldesas, regidores, regidoras, suplen",
+  "fecha": "31/07/2025",
+  "gaceta_oficial": "11207",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403673&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403673&managementType=1",
+  "document_id_consultoria": "3403673",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-061-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-061-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-061-2025.json",
+  "sha256_pdf_original": "7631bc1a3d2f3121936e8e9b30511e171fe5eba66ba2863c3a75bcc4308241d2",
+  "sha256_markdown": "3a796e8914d07cacbbdb5535ce963023434505789cbe411f0714e073b267e277",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    62
+  ],
+  "fecha_texto_pdf_detectada": "31/07/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

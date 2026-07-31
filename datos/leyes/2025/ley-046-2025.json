@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "046",
+  "anio": "2025",
+  "titulo": "que modifica la Ley núm. 137-03, del 3 de agosto de 2003, sobre Tráfico Ilícito de Migrantes y Trata de Personas",
+  "fecha": "21/07/2025",
+  "gaceta_oficial": "11202",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403535&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403535&managementType=1",
+  "document_id_consultoria": "3403535",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-046-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-046-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-046-2025.json",
+  "sha256_pdf_original": "24d320b71ea8f25465e7b7ddf68f961d58f07bac9e486c3bae7d18f06960b5d3",
+  "sha256_markdown": "f16a2dc627eee2e3acb6e484b6426aeef93a69aa78c21531a9c2ccc06b712a83",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    137
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

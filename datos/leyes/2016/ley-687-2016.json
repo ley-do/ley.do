@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "687",
+  "anio": "2016",
+  "titulo": "Ley núm. 687-2016",
+  "fecha": "18/11/2016",
+  "gaceta_oficial": "10863",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3380807&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3380807&managementType=1",
+  "document_id_consultoria": "3380807",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2016/ley-687-2016.pdf",
+  "ruta_markdown": "docs/leyes/2016/ley-687-2016.md",
+  "ruta_json": "datos/leyes/2016/ley-687-2016.json",
+  "sha256_pdf_original": "aa6d2ed98901e1319e9bc35ad64ab85071074c0a715d4551d333196b4e97d9f1",
+  "sha256_markdown": "5d7fb49a863a6f5733ea2ee21a5380d22cb6f5d046f86a5427a1f59545c07502",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    688
+  ],
+  "fecha_texto_pdf_detectada": "18/11/2016",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

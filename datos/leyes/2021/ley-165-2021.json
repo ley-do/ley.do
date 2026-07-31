@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "165",
+  "anio": "2021",
+  "titulo": "Ley núm. 165-2021",
+  "fecha": "06/08/2021",
+  "gaceta_oficial": "11029",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398307&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398307&managementType=1",
+  "document_id_consultoria": "3398307",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2021/ley-165-2021.pdf",
+  "ruta_markdown": "docs/leyes/2021/ley-165-2021.md",
+  "ruta_json": "datos/leyes/2021/ley-165-2021.json",
+  "sha256_pdf_original": "30bc17dbfd07e0745943c1afe87768a866bc70139f14f5def03bc1362e7dad02",
+  "sha256_markdown": "0cf95a67bff6e1d353af70b75d442364323b71efb04cc8c3c877553b542a3ef8",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    166
+  ],
+  "fecha_texto_pdf_detectada": "06/08/2021",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

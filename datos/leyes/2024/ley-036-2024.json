@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "036",
+  "anio": "2024",
+  "titulo": "que crea la Corporación Turística Cabo Rojo",
+  "fecha": "06/08/2024",
+  "gaceta_oficial": "11161",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402437&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402437&managementType=1",
+  "document_id_consultoria": "3402437",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-036-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-036-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-036-2024.json",
+  "sha256_pdf_original": "c19f0d1bc5c92e13515f61f45a7157d785c54faa6329f8f601f6e2c60a95fe19",
+  "sha256_markdown": "9c99989a618f7864a4ed5ad4c08becfdb2767a0de0d99e0d54cf2e2f5825c8b9",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    19
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

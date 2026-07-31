@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "009",
+  "anio": "2023",
+  "titulo": "que modifica la Ley núm.77-02, del 19 de julio de 2002, que declara la provincia Hato Mayor, como Provincia Ecoturística",
+  "fecha": "31/01/2023",
+  "gaceta_oficial": "11098",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400733&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400733&managementType=1",
+  "document_id_consultoria": "3400733",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2023/ley-009-2023.pdf",
+  "ruta_markdown": "docs/leyes/2023/ley-009-2023.md",
+  "ruta_json": "datos/leyes/2023/ley-009-2023.json",
+  "sha256_pdf_original": "eee9ecedc1a327e097ae11cf821c8d3dfb3a0d4772664171e8570f416853f258",
+  "sha256_markdown": "3cb500bb81265339652bc756eca8b0b239f5d60250eac0e84a84679c7aaa2344",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    10
+  ],
+  "fecha_texto_pdf_detectada": "31/01/2023",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

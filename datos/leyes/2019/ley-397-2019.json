@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "397",
+  "anio": "2019",
+  "titulo": "Ley núm. 397-2019",
+  "fecha": "30/09/2019",
+  "gaceta_oficial": "10956",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394202&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394202&managementType=1",
+  "document_id_consultoria": "3394202",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-397-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-397-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-397-2019.json",
+  "sha256_pdf_original": "828154f4b455888fe29e3cdfb88d5d82cd1f12b86f741732e693668924d7b0f7",
+  "sha256_markdown": "68bb1114d4351444608ec22a163e007ee56a28279556c7c712fe6ed16746eab5",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    87
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "tipo_documento": "ley",
+  "numero": "243",
+  "anio": "2017",
+  "titulo": "Ley núm. 243-2017",
+  "fecha": "29/11/2017",
+  "gaceta_oficial": "10898",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3386610&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3386610&managementType=1",
+  "document_id_consultoria": "3386610",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "",
+  "ruta_markdown": "docs/leyes/2017/ley-243-2017.md",
+  "ruta_json": "datos/leyes/2017/ley-243-2017.json",
+  "sha256_pdf_original": "b04d3237e13fb1e253bb0b233621df2c81937fe3946dcf0e2098aa9d44b8085d",
+  "sha256_markdown": "2101a0cc7a46036e3df84304eec7d0f7ab7a70c8f8a904efc180580a74974b66",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    227
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar. PDF oficial de 132.9 MB no versionado en Git por límite de GitHub (100 MB). Texto extraído localmente; verificar descargando la URL oficial y cotejando SHA256.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia.",
+    "PDF oficial de 132.9 MB no versionado en Git por límite de GitHub (100 MB). Texto extraído localmente; verificar descargando la URL oficial y cotejando SHA256."
+  ],
+  "tamano_pdf_bytes": 139358987,
+  "alerta_almacenamiento": "El PDF oficial supera el límite de 100 MB de GitHub y no se versiona en el repositorio. Conserve la URL oficial y el SHA256 para verificación local."
+}

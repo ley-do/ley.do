@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "345",
+  "anio": "2021",
+  "titulo": "Ley núm. 345-2021",
+  "fecha": "14/12/2021",
+  "gaceta_oficial": "11047",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398967&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398967&managementType=1",
+  "document_id_consultoria": "3398967",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2021/ley-345-2021.pdf",
+  "ruta_markdown": "docs/leyes/2021/ley-345-2021.md",
+  "ruta_json": "datos/leyes/2021/ley-345-2021.json",
+  "sha256_pdf_original": "2e6c8ae15b7d69ce9d98210c77c670306de8fff64c005ff13d3c782fa0887ad9",
+  "sha256_markdown": "bc94b928d6d6fb8e02b7fa430b59ae8b594785cdb6d387901d51fa595f344438",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    166
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}

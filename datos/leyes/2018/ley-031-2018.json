@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "031",
+  "anio": "2018",
+  "titulo": "Ley núm. 031-2018",
+  "fecha": "06/08/2018",
+  "gaceta_oficial": "10916",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3389106&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3389106&managementType=1",
+  "document_id_consultoria": "3389106",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2018/ley-031-2018.pdf",
+  "ruta_markdown": "docs/leyes/2018/ley-031-2018.md",
+  "ruta_json": "datos/leyes/2018/ley-031-2018.json",
+  "sha256_pdf_original": "d70a92b19145459687947932258421e5b3b70d81d1b5938dd346f34f96f8bd3a",
+  "sha256_markdown": "d533c8104aa796369121ef2cced3e6222cb003c8587fb05df391a0e4f9fd26d2",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    451
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

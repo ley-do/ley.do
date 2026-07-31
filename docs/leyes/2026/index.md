@@ -1,11 +1,11 @@
 # Leyes 2026
 
 <div class="leydo-year-hero" markdown>
-<p class="leydo-year-kicker">Archivo documental · 2026</p>
+<p class="leydo-year-kicker">Leyes · 2026</p>
 
-Esta página reúne las leyes de **2026** preservadas en LEY.DO desde la consulta oficial de la Consultoría Jurídica del Poder Ejecutivo. Es una portada de navegación: no interpreta la ley ni certifica vigencia.
+Portada del año **2026** en LEY.DO. Aquí puede consultar cuántas leyes hay archivadas y abrir cada una. No se interpreta el contenido legal ni se certifica vigencia.
 
-En este año hay **12** registros fuente y **12** paquetes disponibles para consulta.
+Resumen: **12** leyes con página en LEY.DO, a partir de **12** registros fuente oficiales.
 </div>
 
 !!! warning "Aviso"
@@ -13,22 +13,22 @@ En este año hay **12** registros fuente y **12** paquetes disponibles para cons
     LEY.DO no ofrece asesoría legal.
 
 <div class="leydo-year-stats" markdown>
+<div class="leydo-year-stat"><span class="leydo-stat">12</span><span class="leydo-muted">Leyes en LEY.DO</span></div>
+<div class="leydo-year-stat"><span class="leydo-stat">12</span><span class="leydo-muted">Con texto extraído</span></div>
 <div class="leydo-year-stat"><span class="leydo-stat">12</span><span class="leydo-muted">Registros fuente</span></div>
-<div class="leydo-year-stat"><span class="leydo-stat">12</span><span class="leydo-muted">Paquetes en LEY.DO</span></div>
-<div class="leydo-year-stat"><span class="leydo-stat">12</span><span class="leydo-muted">Con extracción completa</span></div>
-<div class="leydo-year-stat"><span class="leydo-stat">0</span><span class="leydo-muted">Extracción pendiente/alerta</span></div>
+<div class="leydo-year-stat"><span class="leydo-stat">0</span><span class="leydo-muted">Con alerta de extracción</span></div>
 </div>
 
-## Lectura rápida
+## Cómo leer esta página
 
-- Año documental: **2026**.
-- Registros fuente inventariados: **12**.
-- Paquetes normalizados: **12**.
+- En el teléfono: cada ley aparece como una tarjeta apilada, fácil de tocar.
+- En escritorio: las tarjetas se organizan en pares para recorrer el año con rapidez.
+- Para inteligencia artificial y auditoría: cada ley tiene Markdown + JSON + PDF + SHA256.
 - Estado editorial general: **pendiente de revisión humana**.
 
-## Documentos del año
+## Leyes del año
 
-<div class="leydo-year-list" markdown>
+<div class="leydo-year-list leydo-year-list--pairs" markdown>
 <div class="leydo-year-entry" markdown>
 **[Ley 001-2026](ley-001-2026.md)**
 
@@ -127,7 +127,9 @@ del 18 de junio de 2026, que modifica varios artículos del Código Tributario d
 
 </div>
 
-## Inventario fuente
+## Trazabilidad fuente
+
+Registros oficiales del inventario. Útil para cotejo humano y para agentes que necesiten el ID de Consultoría.
 
 <div class="leydo-year-trace" markdown>
 <div class="leydo-year-trace-entry" markdown>
@@ -135,7 +137,7 @@ del 18 de junio de 2026, que modifica varios artículos del Código Tributario d
 
 ORGÁNICA QUE CREA LA DIRECCIÓN NACIONAL DE INTELIGENCIA (DNI) Y REGULA EL SISTEMA NACIONAL DE INTELI...
 
-<p class="leydo-year-meta">09/01/2026 · Gaceta 11227 · [ID 3404220](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404220&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">09/01/2026 · Gaceta 11227 · [ID 3404220](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404220&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -143,7 +145,7 @@ ORGÁNICA QUE CREA LA DIRECCIÓN NACIONAL DE INTELIGENCIA (DNI) Y REGULA EL SIST
 
 QUE DECLARA LA PROVINCIA MONSEÑOR NOUEL COMO PROVINCIA ECOTURÍSTICA Y DEROGA LA LEY NÚM. 195-04, DEL...
 
-<p class="leydo-year-meta">15/01/2026 · Gaceta 11229 · [ID 3404224](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404224&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">15/01/2026 · Gaceta 11229 · [ID 3404224](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404224&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -151,7 +153,7 @@ QUE DECLARA LA PROVINCIA MONSEÑOR NOUEL COMO PROVINCIA ECOTURÍSTICA Y DEROGA L
 
 QUE DESIGNA CON EL NOMBRE DE FERNANDO ANTONIO ARTURO DE MERIÑO Y RAMÍREZ EL TRAMO DE LA CARRETERA QU...
 
-<p class="leydo-year-meta">16/01/2026 · Gaceta 11230 · [ID 3404376](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404376&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">16/01/2026 · Gaceta 11230 · [ID 3404376](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404376&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -159,7 +161,7 @@ QUE DESIGNA CON EL NOMBRE DE FERNANDO ANTONIO ARTURO DE MERIÑO Y RAMÍREZ EL TR
 
 QUE DESIGNA CON EL NOMBRE DE CÉSAR OCTAVIO SAINT-HILAIRE CABRERA AL PALACIO DE JUSTICIA DEL DISTRITO...
 
-<p class="leydo-year-meta">16/01/2026 · Gaceta 11230 · [ID 3404377](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404377&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">16/01/2026 · Gaceta 11230 · [ID 3404377](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404377&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -167,7 +169,7 @@ QUE DESIGNA CON EL NOMBRE DE CÉSAR OCTAVIO SAINT-HILAIRE CABRERA AL PALACIO DE 
 
 QUE DESIGNA CON EL NOMBRE DE LEOPOLDINA TAVERAS MARTÍNEZ, EL TRAMO COMPRENDIDO ENTRE EL KILÓMETRO 7 ...
 
-<p class="leydo-year-meta">16/01/2026 · Gaceta 11230 · [ID 3404378](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404378&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">16/01/2026 · Gaceta 11230 · [ID 3404378](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404378&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -175,7 +177,7 @@ QUE DESIGNA CON EL NOMBRE DE LEOPOLDINA TAVERAS MARTÍNEZ, EL TRAMO COMPRENDIDO 
 
 QUE DECLARA EL DÍA 10 DE NOVIEMBRE DE CADA AÑO COMO “DÍA NACIONAL DE LA MUJER MÉDICA DOMINICANA”, EN...
 
-<p class="leydo-year-meta">23/01/2026 · Gaceta 11230 · [ID 3404395](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404395&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">23/01/2026 · Gaceta 11230 · [ID 3404395](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404395&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -183,7 +185,7 @@ QUE DECLARA EL DÍA 10 DE NOVIEMBRE DE CADA AÑO COMO “DÍA NACIONAL DE LA MUJ
 
 QUE DESIGNA CON EL NOMBRE DE PADRE JOAQUÍN SOLER COROMINAS, EL ESTADIO DE FÚTBOL DEL MUNICIPIO JARAB...
 
-<p class="leydo-year-meta">23/01/2026 · Gaceta 11230 · [ID 3404394](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404394&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">23/01/2026 · Gaceta 11230 · [ID 3404394](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404394&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -191,7 +193,7 @@ QUE DESIGNA CON EL NOMBRE DE PADRE JOAQUÍN SOLER COROMINAS, EL ESTADIO DE FÚTB
 
 QUE DECLARA EL 25 DE OCTUBRE DE CADA AÑO COMO DIA DEL COOPERATIVISMO EN LA REPÚBLICA DOMINICANA.
 
-<p class="leydo-year-meta">26/03/2026 · Gaceta 11236 · [ID 3404623](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404623&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">26/03/2026 · Gaceta 11236 · [ID 3404623](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404623&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -199,7 +201,7 @@ QUE DECLARA EL 25 DE OCTUBRE DE CADA AÑO COMO DIA DEL COOPERATIVISMO EN LA REP�
 
 ORGÁNICA QUE DEROGA LOS ARTÍCULOS 156, 157 Y 158 DE LA LEY NÚM. 20-23, DEL 17 DE FEBRERO DE 2023, O...
 
-<p class="leydo-year-meta">26/03/2026 · Gaceta 11236 · [ID 3404624](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404624&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">26/03/2026 · Gaceta 11236 · [ID 3404624](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404624&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -207,7 +209,7 @@ ORGÁNICA QUE DEROGA LOS ARTÍCULOS 156, 157 Y 158 DE LA LEY NÚM. 20-23, DEL 17
 
 QUE AUTORIZA EL PAGO A CONTRATISTAS DEL ESTADO Y CREA UNA COMISIÓN PARA LA REVISIÓN DE RECLAMACIONES...
 
-<p class="leydo-year-meta">01/05/2026 · Gaceta 11240 · [ID 3404789](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404789&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">01/05/2026 · Gaceta 11240 · [ID 3404789](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404789&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -215,7 +217,7 @@ QUE AUTORIZA EL PAGO A CONTRATISTAS DEL ESTADO Y CREA UNA COMISIÓN PARA LA REVI
 
 QUE CREA LA ALERTA NACIONAL PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN LA REPÚBLICA DOMINICANA, “...
 
-<p class="leydo-year-meta">03/06/2026 · Gaceta 11245 · [ID 3404842](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404842&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">03/06/2026 · Gaceta 11245 · [ID 3404842](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404842&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 <div class="leydo-year-trace-entry" markdown>
@@ -223,7 +225,7 @@ QUE CREA LA ALERTA NACIONAL PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN LA RE
 
 QUE MODIFICA VARIOS ARTÍCULOS DEL CÓDIGO TRIBUTARIO DE LA REPÚBLICA DOMINICANA E INTRODUCE EL ARTÍCU...
 
-<p class="leydo-year-meta">18/06/2026 · Gaceta 11247 · [ID 3405887](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405887&managementType=1) · normalizado · pendiente_revision</p>
+<p class="leydo-year-meta">18/06/2026 · Gaceta 11247 · [ID 3405887](https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405887&managementType=1) · en LEY.DO · pendiente_revision</p>
 </div>
 
 </div>

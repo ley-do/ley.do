@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "195",
+  "anio": "2019",
+  "titulo": "Ley núm. 195-2019",
+  "fecha": "02/07/2019",
+  "gaceta_oficial": "10946",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393838&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393838&managementType=1",
+  "document_id_consultoria": "3393838",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-195-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-195-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-195-2019.json",
+  "sha256_pdf_original": "3b950a94f70a92b3d018140592104bb151e7c764aa1443fd176b04bd1d8e8f7b",
+  "sha256_markdown": "8ca492fcef087da029120171b9381baec9f64e3ff9d6114ccde80d30a1d7b7fc",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    196
+  ],
+  "fecha_texto_pdf_detectada": "02/07/2019",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

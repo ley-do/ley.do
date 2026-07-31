@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "065",
+  "anio": "2025",
+  "titulo": "que designa con el nombre de Presbiterio Antonio Gutiérrez el Palacio de la Gobernación Civil de la provincia Samaná",
+  "fecha": "31/07/2025",
+  "gaceta_oficial": "11207",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403684&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403684&managementType=1",
+  "document_id_consultoria": "3403684",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-065-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-065-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-065-2025.json",
+  "sha256_pdf_original": "f448009d7865992d7c2cc508cac7bfdf313761d6a8a1aa954ce5f787b030070e",
+  "sha256_markdown": "cafa84d942f525530e52b3ad470a022687fe151d92ca787e82ddefa15a84c20a",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    66
+  ],
+  "fecha_texto_pdf_detectada": "31/07/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

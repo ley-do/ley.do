@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "039",
+  "anio": "2024",
+  "titulo": "que eleva el distrito municipal La Caleta, perteneciente al municipio Boca Chica, provincia Santo Domingo, a la categoría de municipio. Deroga la Ley núm. 107-04, que elevó la sección La Caleta a distrito municipal",
+  "fecha": "09/08/2024",
+  "gaceta_oficial": "11161",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402439&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402439&managementType=1",
+  "document_id_consultoria": "3402439",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-039-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-039-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-039-2024.json",
+  "sha256_pdf_original": "fb1d17a864778a6a38e90755eb6a7690e187312592e630a25abdeb06d3f996f3",
+  "sha256_markdown": "07b15b95552458ca9865fba545a77b2c5887c3a4c89e4af9cb30a58c549bf484",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    40
+  ],
+  "fecha_texto_pdf_detectada": "09/08/2024",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

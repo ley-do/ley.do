@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "001",
+  "anio": "2025",
+  "titulo": "que modifica los artículos 2, 3 y 16. Agrega un nuevo Capítulo que será el Capítulo XII, el cual pasa a ser Capitulo XIII, modifica además el artículo 36 de la citada Ley 138-11, y los artículos 35.1, 35.2, 35.3, 35.4, 35.5, 35.6 y 35.7 a l",
+  "fecha": "08/01/2025",
+  "gaceta_oficial": "11183",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402954&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402954&managementType=1",
+  "document_id_consultoria": "3402954",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-001-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-001-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-001-2025.json",
+  "sha256_pdf_original": "a0891b6650507b20362a3e7ac91fcea5dd0e4f7a67d1a4f1088dd16c1f7a370d",
+  "sha256_markdown": "82e7f704fe49fb422790409cea981ca4e9c649d5db05185815cd4dba2c6d7e87",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    2
+  ],
+  "fecha_texto_pdf_detectada": "08/01/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

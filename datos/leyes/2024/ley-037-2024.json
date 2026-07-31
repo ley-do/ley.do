@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "037",
+  "anio": "2024",
+  "titulo": "que crea el Distrito Judicial del municipio Bajos de Haina, provincia San Cristóbal",
+  "fecha": "09/08/2024",
+  "gaceta_oficial": "11161",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402438&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402438&managementType=1",
+  "document_id_consultoria": "3402438",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-037-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-037-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-037-2024.json",
+  "sha256_pdf_original": "109e4ada78b411db0bd667125997c80c60894e67b7d9f6ae1a0c0f4c70e0e54e",
+  "sha256_markdown": "b13efae57719a5af3d2b6bb8e5e2b0bc7fe1490bf36022888e5d329796aa55d8",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    38
+  ],
+  "fecha_texto_pdf_detectada": "09/08/2024",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

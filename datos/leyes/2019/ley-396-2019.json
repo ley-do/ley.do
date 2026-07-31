@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "396",
+  "anio": "2019",
+  "titulo": "Ley núm. 396-2019",
+  "fecha": "26/09/2019",
+  "gaceta_oficial": "10956",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394197&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3394197&managementType=1",
+  "document_id_consultoria": "3394197",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-396-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-396-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-396-2019.json",
+  "sha256_pdf_original": "03c219ae6e30bd006fc2016d622636bdc84e624ecad1f4fe098529cf96bbb395",
+  "sha256_markdown": "ea392d8db66005e97c1889460e8860a6f3a3b06835f6768b8104ee80fb2c3777",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    397
+  ],
+  "fecha_texto_pdf_detectada": "26/09/2019",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

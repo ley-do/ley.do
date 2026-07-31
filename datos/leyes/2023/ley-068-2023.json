@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "068",
+  "anio": "2023",
+  "titulo": "que declara a las Marimantas de Yerba Buena, como Patrimonio Cultural Inmaterial de la Nación dominicana",
+  "fecha": "27/11/2023",
+  "gaceta_oficial": "11129",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401590&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401590&managementType=1",
+  "document_id_consultoria": "3401590",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2023/ley-068-2023.pdf",
+  "ruta_markdown": "docs/leyes/2023/ley-068-2023.md",
+  "ruta_json": "datos/leyes/2023/ley-068-2023.json",
+  "sha256_pdf_original": "e2d0a87312df6b7a3dce394d1499d61362a66d9571ba87d50ace854a159af6a8",
+  "sha256_markdown": "c05eae013ca2b13dd400c8e215397837b5f7367685b9a2f0418c56e849d7b19e",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    69
+  ],
+  "fecha_texto_pdf_detectada": "27/11/2023",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "163",
+  "anio": "2019",
+  "titulo": "Ley núm. 163-2019",
+  "fecha": "24/05/2019",
+  "gaceta_oficial": "10943",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393843&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393843&managementType=1",
+  "document_id_consultoria": "3393843",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-163-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-163-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-163-2019.json",
+  "sha256_pdf_original": "d67929cc788105150f76cc2e446c99a5b8ad2266622c98f401b73c40427a82f6",
+  "sha256_markdown": "196889fd74b6191211a20f0985c733c8b4514400de5e45106fdaeac9b79c14ba",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    164
+  ],
+  "fecha_texto_pdf_detectada": "24/05/2019",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

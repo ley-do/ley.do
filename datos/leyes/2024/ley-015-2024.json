@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "015",
+  "anio": "2024",
+  "titulo": "que eleva el distrito municipal La Victoria, provincia Santo Domingo, a la categoría de municipio",
+  "fecha": "02/06/2024",
+  "gaceta_oficial": "11151",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402185&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402185&managementType=1",
+  "document_id_consultoria": "3402185",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-015-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-015-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-015-2024.json",
+  "sha256_pdf_original": "e2c40e888c6de9de10c1f918a18d7c5ca0ad8f5ed4bd72f84eed1c22d2c04c3c",
+  "sha256_markdown": "2d9825e0ca05f28970369c3910839d207b36165d1d93fb694c85905f64d616e3",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    16
+  ],
+  "fecha_texto_pdf_detectada": "02/06/2024",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

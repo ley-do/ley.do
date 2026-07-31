@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "248",
+  "anio": "2017",
+  "titulo": "Ley núm. 248-2017",
+  "fecha": "07/12/2017",
+  "gaceta_oficial": "10899",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3386622&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3386622&managementType=1",
+  "document_id_consultoria": "3386622",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2017/ley-248-2017.pdf",
+  "ruta_markdown": "docs/leyes/2017/ley-248-2017.md",
+  "ruta_json": "datos/leyes/2017/ley-248-2017.json",
+  "sha256_pdf_original": "df90fe19a57a948c21052ec45ff116987ab77f2c681d3b9a0a119058ea352b8a",
+  "sha256_markdown": "47ab462b7e4880774e80cbc94b0a6973970dfeb46c265840ef49a33f9a33ddc5",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    146
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}
