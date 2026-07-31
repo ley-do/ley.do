@@ -791,3 +791,22 @@ body:has(.library-landing) .md-content__inner::before { display: none; }
   }
 }
 
+
+
+/* Pares de tarjetas en escritorio; una columna en móvil */
+@media (min-width: 860px) {
+  .leydo-year-list--pairs {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 1.4rem;
+  }
+  .leydo-year-list--pairs .leydo-year-entry {
+    border-bottom: 1px solid var(--library-sand, var(--leydo-border));
+  }
+}
+@media (max-width: 859px) {
+  .leydo-year-list--pairs {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}

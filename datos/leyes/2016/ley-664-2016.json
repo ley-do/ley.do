@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "664",
+  "anio": "2016",
+  "titulo": "Ley núm. 664-2016",
+  "fecha": "29/08/2016",
+  "gaceta_oficial": "10856",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379614&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379614&managementType=1",
+  "document_id_consultoria": "3379614",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2016/ley-664-2016.pdf",
+  "ruta_markdown": "docs/leyes/2016/ley-664-2016.md",
+  "ruta_json": "datos/leyes/2016/ley-664-2016.json",
+  "sha256_pdf_original": "7f1e004abcc2b043fb367b5d35ce55474780e3dacf1b0357e4e49e0378a30980",
+  "sha256_markdown": "546e64351a52ad0469d328a7b1fc51f948f3fd59939ebae6cfe3735f49d584d4",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    665
+  ],
+  "fecha_texto_pdf_detectada": "29/08/2016",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

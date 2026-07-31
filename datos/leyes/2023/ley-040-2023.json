@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "040",
+  "anio": "2023",
+  "titulo": "que declara a la provincia San Cristóbal como Provincia Ecoturística",
+  "fecha": "13/07/2023",
+  "gaceta_oficial": "11114",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401089&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401089&managementType=1",
+  "document_id_consultoria": "3401089",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2023/ley-040-2023.pdf",
+  "ruta_markdown": "docs/leyes/2023/ley-040-2023.md",
+  "ruta_json": "datos/leyes/2023/ley-040-2023.json",
+  "sha256_pdf_original": "db3f14901214c1bee39c6481493b6e7fe2daa9aa6c0d58059ad866fa70cd11d4",
+  "sha256_markdown": "9803980f70346d27a10568b37055e1b78c5f44b05c2acf12376623d826fc69b6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    158
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

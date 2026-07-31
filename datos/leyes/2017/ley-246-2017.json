@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "246",
+  "anio": "2017",
+  "titulo": "Ley núm. 246-2017",
+  "fecha": "05/12/2017",
+  "gaceta_oficial": "10899",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3386618&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3386618&managementType=1",
+  "document_id_consultoria": "3386618",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2017/ley-246-2017.pdf",
+  "ruta_markdown": "docs/leyes/2017/ley-246-2017.md",
+  "ruta_json": "datos/leyes/2017/ley-246-2017.json",
+  "sha256_pdf_original": "4c2ac23884ca8e2fd7a83715c90d372f6c860036fcbc4a92a5c27a9fef0634c1",
+  "sha256_markdown": "ce7ae4dc9d4a06ba912d2169bd9b085a8c0622df999c4d5f1a2f5803160aeea6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    247
+  ],
+  "fecha_texto_pdf_detectada": "05/12/2017",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

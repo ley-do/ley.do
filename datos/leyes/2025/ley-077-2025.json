@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "077",
+  "anio": "2025",
+  "titulo": "que declara el 2 de mayo de cada año como “Día de la Defensa de la Soberanía en la República Dominicana”, en conmemoración de la Gesta del año 1861 o Grito de Moca",
+  "fecha": "06/08/2025",
+  "gaceta_oficial": "11211",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403710&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403710&managementType=1",
+  "document_id_consultoria": "3403710",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-077-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-077-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-077-2025.json",
+  "sha256_pdf_original": "41d683a139298642754d6ef8632a2a50f77208496789c1278c4b3853ed735bd2",
+  "sha256_markdown": "ca012f6379098336cdb0e52a4c38b848d17f4fbc1a97335ac1e6191f21a04ef0",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    78
+  ],
+  "fecha_texto_pdf_detectada": "06/08/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

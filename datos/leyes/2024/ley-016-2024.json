@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "016",
+  "anio": "2024",
+  "titulo": "que eleva a la categoría de municipio al distrito municipal Villa Central, provincia Barahona",
+  "fecha": "02/06/2024",
+  "gaceta_oficial": "11151",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402186&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402186&managementType=1",
+  "document_id_consultoria": "3402186",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-016-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-016-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-016-2024.json",
+  "sha256_pdf_original": "075c96678a921456747c5b3d16e7acfcee858c6bf70177a08e7cf701d5907d35",
+  "sha256_markdown": "0909efdc84c17763a745e9dd674edeef6ff19c0baa7ed6c58a15aa957c296ddb",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    17
+  ],
+  "fecha_texto_pdf_detectada": "02/06/2024",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

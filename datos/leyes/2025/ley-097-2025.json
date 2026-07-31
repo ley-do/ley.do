@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "097",
+  "anio": "2025",
+  "titulo": "orgánica que instituye el Código Procesal Penal de la República Dominicana",
+  "fecha": "07/12/2025",
+  "gaceta_oficial": "11221",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404020&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404020&managementType=1",
+  "document_id_consultoria": "3404020",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-097-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-097-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-097-2025.json",
+  "sha256_pdf_original": "bb1a91da4a3554156fe4d9cbf7a4afa2fa5908a6a6a071f8e4c6fb1f2df3e896",
+  "sha256_markdown": "5e820bf9425a27fe842bd206ad1289f3724f351abcc2afb235bfefec44074dba",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    74
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "026",
+  "anio": "2024",
+  "titulo": "que modifica la Ley núm. 80-23, del 20 de diciembre de 2023, que aprueba el Presupuesto General del Estado para el ejercicio presupuestario del año 2024",
+  "fecha": "29/07/2024",
+  "gaceta_oficial": "11157",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402306&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402306&managementType=1",
+  "document_id_consultoria": "3402306",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-026-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-026-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-026-2024.json",
+  "sha256_pdf_original": "e6847c7a9a58b24520856f0cbe9bead1ed4b0058d2344347a2eb59c052f3606b",
+  "sha256_markdown": "87b1b1939949c6a8c0a648ac3b06e6f0494a8f3d88dad01fee06ae78458ab215",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    27
+  ],
+  "fecha_texto_pdf_detectada": "29/07/2024",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

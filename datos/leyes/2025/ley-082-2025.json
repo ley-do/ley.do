@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "082",
+  "anio": "2025",
+  "titulo": "sobre Bien de Familia. Deroga la Ley núm. 1024 del año 1928 y la Ley núm. 339 del año 1963, así como la Ley núm. 472 del 1964, que constituye en Bien de Familia los inmuebles adjudicados por el Instituto Nacional de la Vivienda. Deroga los",
+  "fecha": "07/08/2025",
+  "gaceta_oficial": "11211",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403703&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403703&managementType=1",
+  "document_id_consultoria": "3403703",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-082-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-082-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-082-2025.json",
+  "sha256_pdf_original": "396bfdfd2b7e506c0ab36603f7cce752e204da996d94fb271c7588c00f26f59f",
+  "sha256_markdown": "16065d01195182b1df1317851fd514191a8019b6513736c54d960807876d90f1",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    84
+  ],
+  "fecha_texto_pdf_detectada": "07/08/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

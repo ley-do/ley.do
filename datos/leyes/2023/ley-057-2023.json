@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "057",
+  "anio": "2023",
+  "titulo": "Ley núm. 057-2023",
+  "fecha": "06/10/2023",
+  "gaceta_oficial": "11123",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401254&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3401254&managementType=1",
+  "document_id_consultoria": "3401254",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2023/ley-057-2023.pdf",
+  "ruta_markdown": "docs/leyes/2023/ley-057-2023.md",
+  "ruta_json": "datos/leyes/2023/ley-057-2023.json",
+  "sha256_pdf_original": "4b72bbf151b4bd51617c33fe3a2fc4117ba4ff529c092ae8e7f957c54920d33d",
+  "sha256_markdown": "26d3119d8a052fb1130632c3996482460d406d725996bebbc9a251db5659d7d4",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    253
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}

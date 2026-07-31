@@ -107,26 +107,61 @@ def extract(pdf, number, yy):
     doc.close()
     full_year = f"20{yy}" if len(yy) == 2 else yy
     year_token = rf"(?:{re.escape(yy)}|{re.escape(full_year)})"
+    # Official and OCR variants observed in Gacetas:
+    # Ley núm. / Ley. núm. / Ley No. / Ley niM. / LEY No.
+    header = (
+        r"Ley\.?\s*(?:n[uú]m|niM|No)\.?:?"
+    )
     start = re.compile(
-        rf"(?im)^Ley\s+núm\.\s*(?P<numero>0*{number}\s*-\s*{year_token})\b"
+        rf"(?im)^(?:{header})\s*(?P<numero>0*{number}\s*-\s*{year_token})\b"
+    )
+    start_any_year = re.compile(
+        rf"(?im)^(?:{header})\s*(?P<numero>0*{number}\s*-\s*(?P<anio>\d{{2}}|\d{{4}}))\b"
     )
     neighbor = re.compile(
-        rf"(?im)^Ley\s+núm\.\s*(?P<numero>\d+)\s*-\s*(?P<anio>\d{{2}}|\d{{4}})\b"
+        rf"(?im)^(?:{header})\s*(?P<numero>\d+)\s*-\s*(?P<anio>\d{{2}}|\d{{4}})\b"
     )
     begin = None
     for page_index, text in enumerate(texts):
-        match = start.search(text)
+        match = start.search(text) or start_any_year.search(text)
         if match:
             begin = (page_index, match.start())
             break
     if begin is None:
-        # some official PDFs put the law number only after EL CONGRESO
-        alt = re.compile(rf"(?im)^EL CONGRESO NACIONAL\b")
+        # Inline variants not anchored at line start after OCR reflow.
+        loose = re.compile(
+            rf"(?i)(?:{header})\s*0*{number}\s*-\s*(?:{year_token}|\d{{2}}|\d{{4}})\b"
+        )
         for page_index, text in enumerate(texts):
-            if alt.search(text) and re.search(rf"(?i)Ley\s+núm\.\s*0*{number}\s*-\s*{year_token}\b", text):
+            match = loose.search(text)
+            if match:
+                # Prefer nearby start of line/page for cleaner segment.
+                line_start = text.rfind("\n", 0, match.start()) + 1
+                begin = (page_index, line_start)
+                break
+    if begin is None:
+        numbered = re.compile(
+            rf"(?im)n[uú]m\.?:?\s*0*{number}\s*-\s*(?:{year_token}|\d{{2}}|\d{{4}})\b"
+        )
+        for page_index, text in enumerate(texts):
+            match = numbered.search(text)
+            if match and re.search(r"(?i)\bLey\b", text[max(0, match.start()-160):match.start()+1]):
+                line_start = text.rfind("\n", 0, match.start()) + 1
+                begin = (page_index, max(0, line_start))
+                break
+    if begin is None:
+        alt = re.compile(r"(?im)^EL CONGRESO NACIONAL\b")
+        for page_index, text in enumerate(texts):
+            if alt.search(text) and re.search(
+                rf"(?i)(?:{header})\s*0*{number}\s*-\s*(?:{year_token}|\d{{2}}|\d{{4}})\b",
+                text,
+            ):
                 begin = (page_index, 0)
                 break
     if begin is None:
+        pages = [reflow(text) for text in texts if reflow(text)]
+        if pages:
+            return pages, "extraido_sin_encabezado_numerico", []
         return [], "encabezado_no_encontrado", []
     pages = []
     trimmed = []
@@ -137,13 +172,9 @@ def extract(pdf, number, yy):
         end = None
         for match in neighbor.finditer(chunk):
             candidate_number = int(match.group("numero"))
-            candidate_year = match.group("anio")
-            candidate_year_norm = candidate_year if len(candidate_year) == 4 else f"20{candidate_year}"
-            target_year_norm = full_year if len(full_year) == 4 else f"20{full_year}"
-            # Skip the opening header of the target law.
-            if candidate_number == number and candidate_year_norm[-2:] == target_year_norm[-2:]:
+            # The same law number often repeats after "EL CONGRESO NACIONAL".
+            if candidate_number == number:
                 continue
-            # Later law header in same recut.
             if match.start() > 40:
                 end = match.start()
                 trimmed.append(candidate_number)
@@ -248,7 +279,7 @@ def write_package(repo, year, record, pages, state, trimmed):
         "sha256_pdf_original": hpdf,
         "sha256_markdown": hmd,
         "estado_revision": "pendiente_revision",
-        "estado_publicacion": "normalizado" if state == "extraido_desde_pdf_oficial" else "descubierto",
+        "estado_publicacion": "normalizado" if state.startswith("extraido") else "descubierto",
         "estado_extraccion": state,
         "fragmentos_documentos_vecinos_excluidos": trimmed,
         "fecha_texto_pdf_detectada": fecha_pdf,

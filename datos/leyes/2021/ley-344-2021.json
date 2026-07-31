@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "344",
+  "anio": "2021",
+  "titulo": "Ley núm. 344-2021",
+  "fecha": "10/12/2021",
+  "gaceta_oficial": "11047",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398954&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398954&managementType=1",
+  "document_id_consultoria": "3398954",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2021/ley-344-2021.pdf",
+  "ruta_markdown": "docs/leyes/2021/ley-344-2021.md",
+  "ruta_json": "datos/leyes/2021/ley-344-2021.json",
+  "sha256_pdf_original": "73bef6fdee4e6447e4e18466cd5476231cee76bf1e04ceb7a54b126d53e2dbb7",
+  "sha256_markdown": "a78a00b318b61f2f0af9a97d85dc1f381765b1aa19b1ff3c9c76a44293734b95",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    176
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

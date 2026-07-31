@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "165",
+  "anio": "2019",
+  "titulo": "Ley núm. 165-2019",
+  "fecha": "03/06/2019",
+  "gaceta_oficial": "10944",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393841&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393841&managementType=1",
+  "document_id_consultoria": "3393841",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-165-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-165-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-165-2019.json",
+  "sha256_pdf_original": "4b33c4ece285a1a988155b10d73a4c89574aa243600b48d96a1c99a418c3e1f8",
+  "sha256_markdown": "f2052932d01b4b2d78a7fdc79ccfc3d65489578adfab574bb04dd5f1e301a7c6",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    166
+  ],
+  "fecha_texto_pdf_detectada": "03/06/2019",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

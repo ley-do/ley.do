@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "068",
+  "anio": "2025",
+  "titulo": "que declara la provincia Dajabón como “Provincia Ecoturística”. Crea e integra el Consejo de Desarrollo Ecoturístico de dicha provincia",
+  "fecha": "31/07/2025",
+  "gaceta_oficial": "11207",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403687&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403687&managementType=1",
+  "document_id_consultoria": "3403687",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-068-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-068-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-068-2025.json",
+  "sha256_pdf_original": "79b9672374a117c16ae322e2a93aa2e615ac41b56c5923404f3e89766c00d33a",
+  "sha256_markdown": "6790f9b97a0c17dc9228077dc3c0b1885d50a68640970c79ba1ab207d67b1dda",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    69
+  ],
+  "fecha_texto_pdf_detectada": "31/07/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

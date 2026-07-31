@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "017",
+  "anio": "2019",
+  "titulo": "Ley núm. 017-2019",
+  "fecha": "20/02/2019",
+  "gaceta_oficial": "10934",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393456&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393456&managementType=1",
+  "document_id_consultoria": "3393456",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-017-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-017-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-017-2019.json",
+  "sha256_pdf_original": "c355c4a2b51753a112fc7dd75b991aed5d44ba0aeaa35861c1de5fb8df66c3e5",
+  "sha256_markdown": "039706be517680d91b175918fa36be7025dcc9674a0f4b0b79a7c3d4651aa68c",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    22
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

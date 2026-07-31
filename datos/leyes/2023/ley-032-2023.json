@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "032",
+  "anio": "2023",
+  "titulo": "de Facturación Electrónica de la República Dominicana",
+  "fecha": "16/05/2023",
+  "gaceta_oficial": "11107",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400930&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400930&managementType=1",
+  "document_id_consultoria": "3400930",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2023/ley-032-2023.pdf",
+  "ruta_markdown": "docs/leyes/2023/ley-032-2023.md",
+  "ruta_json": "datos/leyes/2023/ley-032-2023.json",
+  "sha256_pdf_original": "903b558494dae6dcde587ef9d84ababc891faf917c2a11416d722919c7dd1caf",
+  "sha256_markdown": "38bac8537f013072477217186ceed5b6f46dd4bb9585fede052e4a7b20b55557",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    107
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}

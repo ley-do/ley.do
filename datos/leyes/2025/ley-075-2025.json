@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "075",
+  "anio": "2025",
+  "titulo": "que modifica el artículo 21 de la Ley núm. 176-07, del 17 de julio de 2007, del Distrito Nacional y los Municipios",
+  "fecha": "05/08/2025",
+  "gaceta_oficial": "11211",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403701&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403701&managementType=1",
+  "document_id_consultoria": "3403701",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-075-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-075-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-075-2025.json",
+  "sha256_pdf_original": "ab14c77883f3005208e6b9eae4c828a4ec51f200f9df16a541b1988015f3e26c",
+  "sha256_markdown": "0cb63a7531032047f48e7978431c64d2f08fa8ed3c16b581fc16311718c184cc",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    17
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

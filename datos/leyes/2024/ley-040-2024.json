@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "040",
+  "anio": "2024",
+  "titulo": "que modifica el artículo 10 de la Ley núm. 15-24, que eleva el distrito municipal La Victoria, provincia Santo Domingo, a la categoría de municipio. Dispone que esta ley entrará en vigencia a partir del primero de enero de 2026",
+  "fecha": "09/08/2024",
+  "gaceta_oficial": "11161",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402442&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402442&managementType=1",
+  "document_id_consultoria": "3402442",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2024/ley-040-2024.pdf",
+  "ruta_markdown": "docs/leyes/2024/ley-040-2024.md",
+  "ruta_json": "datos/leyes/2024/ley-040-2024.json",
+  "sha256_pdf_original": "868b122f079a9a147c6bd7fa97c18a086afb5d7ceebb698e2ac8b847ec051d07",
+  "sha256_markdown": "b347b05e6d154c39b2bf44464fcfb3695ba51064174ecf2a93f2d3c9a39b5627",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    41
+  ],
+  "fecha_texto_pdf_detectada": "09/08/2024",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

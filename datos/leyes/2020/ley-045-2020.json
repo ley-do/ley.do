@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "045",
+  "anio": "2020",
+  "titulo": "Ley núm. 045-2020",
+  "fecha": "18/02/2020",
+  "gaceta_oficial": "10972",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395630&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395630&managementType=1",
+  "document_id_consultoria": "3395630",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2020/ley-045-2020.pdf",
+  "ruta_markdown": "docs/leyes/2020/ley-045-2020.md",
+  "ruta_json": "datos/leyes/2020/ley-045-2020.json",
+  "sha256_pdf_original": "f1984ebf44cf4b6359d15376a0a03e73521bb8f7024e21f6c93fcc4bfc6d557c",
+  "sha256_markdown": "f77a9922a00820fe863c8153ab32f4ce5be1b97339d299cb99b4b085a40a5a63",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    46
+  ],
+  "fecha_texto_pdf_detectada": "18/02/2020",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

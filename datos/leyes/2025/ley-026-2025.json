@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "026",
+  "anio": "2025",
+  "titulo": "que modifica el artículo 2 de la Ley núm. 511-05, que declaró la Provincia El Seibo como Provincia Ecoturística. Adiciona un artículo 2 Bis a dicha ley, y modifica el artículo 4 de la citada Ley núm. 511-05",
+  "fecha": "22/05/2025",
+  "gaceta_oficial": "11196",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403364&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403364&managementType=1",
+  "document_id_consultoria": "3403364",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-026-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-026-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-026-2025.json",
+  "sha256_pdf_original": "758c440a3c2b9cf8fd140fa626dc13acb38127301be87cdb1907454213d77888",
+  "sha256_markdown": "e92f85a7d6e8d24caa7cc60f2fb07ce5657b8d3f60f5ac11076b04605f2ffdc4",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    27
+  ],
+  "fecha_texto_pdf_detectada": "22/05/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

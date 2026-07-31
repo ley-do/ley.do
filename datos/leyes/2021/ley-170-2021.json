@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "170",
+  "anio": "2021",
+  "titulo": "Ley núm. 170-2021",
+  "fecha": "14/08/2021",
+  "gaceta_oficial": "11031",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398430&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3398430&managementType=1",
+  "document_id_consultoria": "3398430",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2021/ley-170-2021.pdf",
+  "ruta_markdown": "docs/leyes/2021/ley-170-2021.md",
+  "ruta_json": "datos/leyes/2021/ley-170-2021.json",
+  "sha256_pdf_original": "62dd8b3f8d516ed40d2d4a5563b736e136e1749e56ded2513116653aaae7cb9c",
+  "sha256_markdown": "3d8bac5817016487397259841775c5097af04c1afe79118c86b7a0a8567cd48f",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    340
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

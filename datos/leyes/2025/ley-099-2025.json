@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "099",
+  "anio": "2025",
+  "titulo": "de Presupuesto General del Estado para el ejercicio presupuestario del año 2026",
+  "fecha": "16/12/2025",
+  "gaceta_oficial": "11223",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404066&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404066&managementType=1",
+  "document_id_consultoria": "3404066",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-099-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-099-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-099-2025.json",
+  "sha256_pdf_original": "a2693099c2b99954a8c0890305470326294ec9d0066373a70b5a81b83246e6ce",
+  "sha256_markdown": "3a99331153267d516aac0f4507065a3199fbd7f71cf8c2ee3a91a74a8ea6438f",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    112
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}

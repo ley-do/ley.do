@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "057",
+  "anio": "2025",
+  "titulo": "que designa con el nombre José Valverde, al Estadio de Beisbol Paso Cibao, ubicado en la carretera de Hato Mayor – El Seibo, provincia Hato Mayor",
+  "fecha": "30/07/2025",
+  "gaceta_oficial": "11206",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403733&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3403733&managementType=1",
+  "document_id_consultoria": "3403733",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-057-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-057-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-057-2025.json",
+  "sha256_pdf_original": "adbae33a1d3b0fff119193f9338671c69084d4636356e2a75bc77a3136fec69d",
+  "sha256_markdown": "088724f0330bdf8d0de6b494371bcaabfd221355deb660c7c3db9ff576bd7482",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    58
+  ],
+  "fecha_texto_pdf_detectada": "30/07/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

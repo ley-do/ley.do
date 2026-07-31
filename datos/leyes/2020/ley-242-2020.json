@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "242",
+  "anio": "2020",
+  "titulo": "Ley núm. 242-2020",
+  "fecha": "23/12/2020",
+  "gaceta_oficial": "11003",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397660&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3397660&managementType=1",
+  "document_id_consultoria": "3397660",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2020/ley-242-2020.pdf",
+  "ruta_markdown": "docs/leyes/2020/ley-242-2020.md",
+  "ruta_json": "datos/leyes/2020/ley-242-2020.json",
+  "sha256_pdf_original": "4e2828ab929af8def61c5ff593d8079a0e9cc8163ee22f52a3b97d296fd0a76d",
+  "sha256_markdown": "835366615ebc10d3a88c30eda7a366ad6d03af595c726101beda199e4761beb7",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    243
+  ],
+  "fecha_texto_pdf_detectada": "23/12/2020",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

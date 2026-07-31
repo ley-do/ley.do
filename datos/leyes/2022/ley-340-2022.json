@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "340",
+  "anio": "2022",
+  "titulo": "que regula el Proceso de Extinción de Dominio de Bienes Ilícitos",
+  "fecha": "28/07/2022",
+  "gaceta_oficial": "11076",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399518&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3399518&managementType=1",
+  "document_id_consultoria": "3399518",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2022/ley-340-2022.pdf",
+  "ruta_markdown": "docs/leyes/2022/ley-340-2022.md",
+  "ruta_json": "datos/leyes/2022/ley-340-2022.json",
+  "sha256_pdf_original": "03a76b9a9430e1aa22a3d65e3d415e104884e5b7c8db7a2d33ac96cdf883e81e",
+  "sha256_markdown": "e56f72279b9ed7be464e807dd1734ad719571df533cfe04a30fa869573a7965b",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    341
+  ],
+  "fecha_texto_pdf_detectada": "28/07/2022",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

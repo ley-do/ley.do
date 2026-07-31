@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "692",
+  "anio": "2016",
+  "titulo": "Ley núm. 692-2016",
+  "fecha": "09/12/2016",
+  "gaceta_oficial": "10865",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3380810&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3380810&managementType=1",
+  "document_id_consultoria": "3380810",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2016/ley-692-2016.pdf",
+  "ruta_markdown": "docs/leyes/2016/ley-692-2016.md",
+  "ruta_json": "datos/leyes/2016/ley-692-2016.json",
+  "sha256_pdf_original": "60778911a8e970d7eb6d37cd9de50fbe2fa4c4ed55faa64abcd4e6ddd11576c2",
+  "sha256_markdown": "d1db1921254ef2eef4d252dd593cbaca489f684532e264a75f27e9eb42a18a7a",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    693
+  ],
+  "fecha_texto_pdf_detectada": "09/12/2016",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

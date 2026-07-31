@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "018",
+  "anio": "2018",
+  "titulo": "Ley núm. 018-2018",
+  "fecha": "04/05/2018",
+  "gaceta_oficial": "10910",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3388968&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3388968&managementType=1",
+  "document_id_consultoria": "3388968",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2018/ley-018-2018.pdf",
+  "ruta_markdown": "docs/leyes/2018/ley-018-2018.md",
+  "ruta_json": "datos/leyes/2018/ley-018-2018.json",
+  "sha256_pdf_original": "dc77ec575ccab81763e878a08f3db8f98ff5841a4695673725b2cfb2e6290358",
+  "sha256_markdown": "9896adeec27a23c2d3547a407d9509462c7a3a1f4a3ed521caa78029ec81e8b4",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    19
+  ],
+  "fecha_texto_pdf_detectada": "04/05/2018",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

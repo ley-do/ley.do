@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "506",
+  "anio": "2019",
+  "titulo": "Ley núm. 506-2019",
+  "fecha": "20/12/2019",
+  "gaceta_oficial": "10965",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395582&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3395582&managementType=1",
+  "document_id_consultoria": "3395582",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-506-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-506-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-506-2019.json",
+  "sha256_pdf_original": "e7dd9ee21131b34b0d7e2048b7ef7619162cc532dc29519aeaeb2a561b927835",
+  "sha256_markdown": "d0959bdddea042ff567bcf0527797296ea9ccef2845a6b4ad4773a2dfb36ac94",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    227
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}

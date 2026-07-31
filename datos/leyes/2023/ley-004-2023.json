@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "004",
+  "anio": "2023",
+  "titulo": "Considerando primero: Que la Ley No.659, del 17 de julio de 1944, sobre Actos del Estado Civil, por su antigüedad, no se corresponde con los nuevos paradigmas del registro civil, por lo que su aplicación y funcionalidad resulta ineficaz.",
+  "fecha": "18/01/2023",
+  "gaceta_oficial": "11096",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400696&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3400696&managementType=1",
+  "document_id_consultoria": "3400696",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2023/ley-004-2023.pdf",
+  "ruta_markdown": "docs/leyes/2023/ley-004-2023.md",
+  "ruta_json": "datos/leyes/2023/ley-004-2023.json",
+  "sha256_pdf_original": "a19fd1be52dc3ad057dae04af030425ae697e5e0ec9b2e6c7070569e3c08463d",
+  "sha256_markdown": "9baa8a6d2e56bcfe11bb2c81f5e7d15ff62c81da59f283c4be881db49c30a384",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    169
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "La cláusula DADO del PDF no pudo parsearse sin inferencia."
+  ]
+}

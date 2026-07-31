@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "162",
+  "anio": "2019",
+  "titulo": "Ley núm. 162-2019",
+  "fecha": "24/05/2019",
+  "gaceta_oficial": "10943",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393842&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393842&managementType=1",
+  "document_id_consultoria": "3393842",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2019/ley-162-2019.pdf",
+  "ruta_markdown": "docs/leyes/2019/ley-162-2019.md",
+  "ruta_json": "datos/leyes/2019/ley-162-2019.json",
+  "sha256_pdf_original": "f2cc7d45eaebcb676e7b62e1253923a87dd6b6002aedbe24d067f940a0cbc904",
+  "sha256_markdown": "a9df8c196cb53570fa184de5615a650e7b0d8b4afac3bbb0c7ede0bcdde7905f",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    163
+  ],
+  "fecha_texto_pdf_detectada": "24/05/2019",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

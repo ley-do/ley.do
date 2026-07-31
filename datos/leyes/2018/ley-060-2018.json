@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "060",
+  "anio": "2018",
+  "titulo": "Ley núm. 060-2018",
+  "fecha": "11/12/2018",
+  "gaceta_oficial": "10925",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393305&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3393305&managementType=1",
+  "document_id_consultoria": "3393305",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2018/ley-060-2018.pdf",
+  "ruta_markdown": "docs/leyes/2018/ley-060-2018.md",
+  "ruta_json": "datos/leyes/2018/ley-060-2018.json",
+  "sha256_pdf_original": "7a151ec23af9caaf255ecef44a28b8eea0b733baca1d386ca5b95b2d308b149a",
+  "sha256_markdown": "c3135ab4d203e015949a08e19cf5b130ca35542853027ce138c3d1ddf417da04",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    61
+  ],
+  "fecha_texto_pdf_detectada": "11/12/2018",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

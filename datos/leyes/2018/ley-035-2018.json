@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "035",
+  "anio": "2018",
+  "titulo": "que declara el 23 de septiembre de cada año, como Día Nacional del Atleta con Discapacidad",
+  "fecha": "20/08/2018",
+  "gaceta_oficial": "10918",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3390143&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3390143&managementType=1",
+  "document_id_consultoria": "3390143",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2018/ley-035-2018.pdf",
+  "ruta_markdown": "docs/leyes/2018/ley-035-2018.md",
+  "ruta_json": "datos/leyes/2018/ley-035-2018.json",
+  "sha256_pdf_original": "9050937911f2e1a02f28cee480048d9412f06b3d51f9cda85ffb1df051416c6d",
+  "sha256_markdown": "f20c3f79e6350ae17a68584bf65ae3816ef2e9794beb5096546c2f0b37e9547c",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    36
+  ],
+  "fecha_texto_pdf_detectada": "20/08/2018",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

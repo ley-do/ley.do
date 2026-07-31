@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "007",
+  "anio": "2025",
+  "titulo": "que designa con el nombre José Lewenski Paulino (Quiquín), el edificio de la Gobernación Provincial de Elías Piña",
+  "fecha": "15/01/2025",
+  "gaceta_oficial": "11185",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402973&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402973&managementType=1",
+  "document_id_consultoria": "3402973",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-007-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-007-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-007-2025.json",
+  "sha256_pdf_original": "1f2b6f03776c417db5fa5a880e374dd0b3b751bf82cb1592fecb2f7ad4a85c3e",
+  "sha256_markdown": "7ed60000bb8017a51d3e93a18c77a61aa1a55657ca9098efc29d544d88e835d3",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    8
+  ],
+  "fecha_texto_pdf_detectada": "15/01/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}

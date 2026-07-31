@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "004",
+  "anio": "2025",
+  "titulo": "que designa con el nombre de Fausto Hernández Ramírez, el Liceo del distrito municipal La Gina, del municipio Miches, provincia El Seibo",
+  "fecha": "15/01/2025",
+  "gaceta_oficial": "11185",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402971&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3402971&managementType=1",
+  "document_id_consultoria": "3402971",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2025/ley-004-2025.pdf",
+  "ruta_markdown": "docs/leyes/2025/ley-004-2025.md",
+  "ruta_json": "datos/leyes/2025/ley-004-2025.json",
+  "sha256_pdf_original": "efcef985a2dc2ac639ca3c1c2084c1ed04c6ae9e33e80a50ca26ff2a4479bd83",
+  "sha256_markdown": "37748f6c33ad137d955e4abe6ce2eb34057e76c63bad59206219d34c1cf35aba",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    5
+  ],
+  "fecha_texto_pdf_detectada": "15/01/2025",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}
