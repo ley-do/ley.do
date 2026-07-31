@@ -339,110 +339,87 @@ def generate_index(repo,inventario_path,year):
     identity_total=int(summary.get("identidades_documentales",summary.get("total_identidades_documentales",len(expected))) or len(expected))
     package_count=len(packages)
     pending_pdf=max(identity_total-package_count,0)
-    complementary=sum(1 for record in records if record.get("rol_reconciliacion")=="rendicion_complementaria")
-    contextual=sum(1 for record in records if str(record.get("rol_reconciliacion") or "").startswith("fuente_contextual"))
+
+    def _short(title, limit=140):
+        text=" ".join(str(title or "").split())
+        if len(text)<=limit: return text
+        cut=text[:limit-1]
+        if " " in cut: cut=cut.rsplit(" ",1)[0]
+        return cut+"…"
+
     lines=[
         f"# Decretos {year}",
         "",
         '<div class="leydo-year-hero" markdown>',
-        f'<p class="leydo-year-kicker">Archivo documental · {year}</p>',
+        f'<p class="leydo-year-kicker">Decretos · {year}</p>',
         "",
-        f"Esta página reúne los decretos de **{year}** preservados en LEY.DO desde la consulta oficial de la Consultoría Jurídica del Poder Ejecutivo. Es una portada de navegación: no interpreta la ley ni certifica vigencia.",
+        f"Directorio de los decretos de **{year}** en LEY.DO. Cada fila abre el documento. No se interpreta la ley ni se certifica vigencia.",
         "",
-        f"En este año hay **{identity_total}** identidades documentales reconciliadas y **{package_count}** paquetes disponibles para consulta.",
+        f'<div class="leydo-year-summary" markdown><span class="leydo-year-chip"><strong>{package_count}</strong> decretos</span><span class="leydo-year-chip"><strong>{pending_pdf}</strong> sin PDF</span><span class="leydo-year-chip"><strong>{source_count}</strong> registros fuente</span></div>',
         "</div>",
         "",
         '!!! warning "Aviso"',
         "    LEY.DO no es una fuente oficial. Verifique cada documento contra la fuente oficial indicada.",
-        "    LEY.DO no ofrece asesoría legal.",
         "",
-        '<div class="leydo-year-stats" markdown>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{identity_total}</span><span class="leydo-muted">Identidades documentales</span></div>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{package_count}</span><span class="leydo-muted">Paquetes completos</span></div>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{source_count}</span><span class="leydo-muted">Registros fuente</span></div>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{pending_pdf}</span><span class="leydo-muted">Pendientes de PDF</span></div>',
+        "## Decretos",
+        "",
+        '<div class="leydo-dir" markdown>',
+        '<div class="leydo-dir-head" markdown>',
+        '<div class="leydo-dir-num">Número</div>',
+        '<div class="leydo-dir-date">Fecha</div>',
+        '<div class="leydo-dir-title">Título</div>',
         "</div>",
         "",
-        "## Lectura rápida",
-        "",
-        f"- Año documental: **{year}**.",
-        f"- Identidades normalizadas en LEY.DO: **{package_count}** de **{identity_total}**.",
-        f"- Registros fuente preservados para trazabilidad: **{source_count}**.",
     ]
-    if complementary:
-        lines.append(f"- Rendiciones oficiales complementarias: **{complementary}**.")
-    if contextual:
-        lines.append(f"- Fuentes contextuales oficiales: **{contextual}**.")
-    lines.extend([
-        "- Estado editorial general: **pendiente de revisión humana**.",
-        "",
-        "Los registros repetidos, atípicos o contextuales se conservan como filas independientes para mantener su trazabilidad. La ausencia de un número en este inventario no determina su inexistencia jurídica.",
-        "",
-        "## Documentos del año",
-        "",
-        "Listado principal para consulta en móvil y escritorio. Cada entrada abre la página estable del documento en LEY.DO.",
-        "",
-        '<div class="leydo-year-list" markdown>',
-    ])
     for identity in sorted(packages):
         metadata=packages[identity]
         stem=f"decreto-{identity:03d}-{year}"
-        title=_cell(metadata.get("titulo") or "Sin título en metadata")
-        date=_cell(metadata.get("fecha") or "")
-        state="normalizado con alerta · pendiente_revision" if metadata.get("alertas_revision") else "normalizado · pendiente_revision"
-        if metadata.get("estado_extraccion")=="pendiente_encontrar_pdf":
-            state="pendiente de PDF · pendiente_revision"
-        tipo="Reglamento" if metadata.get("tipo_documento")=="reglamento" else "Decreto"
-        meta_bits=[part for part in [date, state] if part]
+        title=_cell(_short(metadata.get("titulo") or "Sin título"))
+        date=_cell(metadata.get("fecha") or "—")
         lines.extend([
-            f'<div class="leydo-year-entry" markdown>',
-            f"**[{tipo} {identity:03d}-{year}]({stem}.md)**",
-            "",
-            title,
-            "",
-            f'<p class="leydo-year-meta">{" · ".join(meta_bits)}</p>',
+            '<div class="leydo-dir-row" markdown>',
+            f'<div class="leydo-dir-num">[{identity:03d}-{year}]({stem}.md)</div>',
+            f'<div class="leydo-dir-date">{date}</div>',
+            f'<div class="leydo-dir-title">{title}</div>',
             "</div>",
             "",
         ])
     if not packages:
-        lines.append("No hay paquetes validados todavía para este inventario reconciliado.")
+        lines.append('<div class="leydo-dir-row" markdown><div class="leydo-dir-title">No hay decretos normalizados todavía.</div></div>')
         lines.append("")
+    lines.append("</div>")
+    lines.append("")
     lines.extend([
-        "</div>",
+        f'<details class="leydo-details"><summary>Trazabilidad fuente ({source_count} registros)</summary>',
         "",
-        "## Trazabilidad de registros fuente",
-        "",
-        "Detalle archivístico por registro oficial. Se muestra en bloques apilados para lectura en pantallas pequeñas.",
-        "",
-        '<div class="leydo-year-trace" markdown>',
+        '<div class="leydo-dir" markdown>',
     ])
     for record in records:
-        identity=record.get("identidad_documental_numero"); metadata=packages.get(identity) if isinstance(identity,int) else None; related=""
-        if metadata is not None: related=f"[Decreto {identity:03d}-{year}](decreto-{identity:03d}-{year}.md)"
+        identity=record.get("identidad_documental_numero"); metadata=packages.get(identity) if isinstance(identity,int) else None
+        related=""
+        if metadata is not None:
+            related=f"[Decreto {identity:03d}-{year}](decreto-{identity:03d}-{year}.md)"
         role=record.get("rol_reconciliacion","")
         if role=="rendicion_complementaria": state="rendición oficial relacionada · pendiente_revision"
         elif str(role).startswith("fuente_contextual"): state="fuente contextual oficial · pendiente_revision"
         elif metadata is not None: state="normalizado con alerta · pendiente_revision" if metadata.get("alertas_revision") else "normalizado · pendiente_revision"
         else: state="descubierto · pendiente_revision"
         document_id=_cell(record.get("document_id_consultoria")); official=str(record.get("url_documento_consultoria_abrir") or "").strip()
-        if official: source=f"[ID {document_id}]({_markdown_url(official)})"
-        else: source=f"ID {document_id}"
-        title=_cell(record.get("titulo"))
+        source=f"[ID {document_id}]({_markdown_url(official)})" if official else f"ID {document_id}"
+        title=_cell(_short(record.get("titulo") or "Sin título en fuente", 120))
         number=_cell(record.get("numero"))
-        date=_cell(record.get("fecha_documento"))
-        gaceta=_cell(record.get("gaceta_oficial"))
-        meta_parts=[part for part in [date, f"Gaceta {gaceta}" if gaceta else "", source, state] if part]
+        date=_cell(record.get("fecha_documento") or "—")
         lines.extend([
-            f'<div class="leydo-year-trace-entry" markdown>',
-            f"**`{number}`**" + (f" · {related}" if related else ""),
-            "",
-            title if title else "_Sin título en fuente_",
-            "",
-            f'<p class="leydo-year-meta">{" · ".join(meta_parts)}</p>',
+            '<div class="leydo-dir-row" markdown>',
+            f'<div class="leydo-dir-num">`{number}`' + (f' · {related}' if related else '') + '</div>',
+            f'<div class="leydo-dir-date">{date}</div>',
+            f'<div class="leydo-dir-title">{title} · {source} · {_cell(state)}</div>',
             "</div>",
             "",
         ])
     lines.append("</div>")
+    lines.append("")
+    lines.append("</details>")
     lines.append("")
     destination=_safe_repo_path(repo,f"docs/decretos/{year}/index.md",allowed_root=md_root)
     _atomic_write_text(destination,"\n".join(lines)+"\n")

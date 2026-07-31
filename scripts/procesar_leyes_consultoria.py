@@ -70,9 +70,17 @@ def generate_index(repo: Path, year: int, inventory: dict) -> None:
                 packages[int(match.group(1))] = json.loads(path.read_text(encoding="utf-8"))
             except (OSError, json.JSONDecodeError):
                 continue
+
+    def _short(title, limit=140):
+        text = " ".join(str(title or "").split())
+        if len(text) <= limit:
+            return text
+        cut = text[: limit - 1]
+        if " " in cut:
+            cut = cut.rsplit(" ", 1)[0]
+        return cut + "…"
+
     package_count = len(packages)
-    complete = sum(1 for item in packages.values() if str(item.get("estado_extraccion", "")).startswith("extraido"))
-    pending = package_count - complete
     source_count = len(records)
     lines = [
         f"# Leyes {year}",
@@ -80,67 +88,46 @@ def generate_index(repo: Path, year: int, inventory: dict) -> None:
         '<div class="leydo-year-hero" markdown>',
         f'<p class="leydo-year-kicker">Leyes · {year}</p>',
         "",
-        f"Portada del año **{year}** en LEY.DO. Aquí puede consultar cuántas leyes hay archivadas y abrir cada una. No se interpreta el contenido legal ni se certifica vigencia.",
+        f"Directorio de las leyes de **{year}** en LEY.DO. Cada fila abre el documento. No se interpreta la ley ni se certifica vigencia.",
         "",
-        f"Resumen: **{package_count}** leyes con página en LEY.DO, a partir de **{source_count}** registros fuente oficiales.",
+        f'<div class="leydo-year-summary" markdown><span class="leydo-year-chip"><strong>{package_count}</strong> leyes</span><span class="leydo-year-chip"><strong>{source_count}</strong> registros fuente</span></div>',
         "</div>",
         "",
         '!!! warning "Aviso"',
         "    LEY.DO no es una fuente oficial. Verifique cada documento contra la fuente oficial indicada.",
-        "    LEY.DO no ofrece asesoría legal.",
         "",
-        '<div class="leydo-year-stats" markdown>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{package_count}</span><span class="leydo-muted">Leyes en LEY.DO</span></div>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{complete}</span><span class="leydo-muted">Con texto extraído</span></div>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{source_count}</span><span class="leydo-muted">Registros fuente</span></div>',
-        f'<div class="leydo-year-stat"><span class="leydo-stat">{pending}</span><span class="leydo-muted">Con alerta de extracción</span></div>',
+        "## Leyes",
+        "",
+        '<div class="leydo-dir" markdown>',
+        '<div class="leydo-dir-head" markdown>',
+        '<div class="leydo-dir-num">Número</div>',
+        '<div class="leydo-dir-date">Fecha</div>',
+        '<div class="leydo-dir-title">Título</div>',
         "</div>",
         "",
-        "## Cómo leer esta página",
-        "",
-        "- En el teléfono: cada ley aparece como una tarjeta apilada, fácil de tocar.",
-        "- En escritorio: las tarjetas se organizan en pares para recorrer el año con rapidez.",
-        "- Para inteligencia artificial y auditoría: cada ley tiene Markdown + JSON + PDF + SHA256.",
-        "- Estado editorial general: **pendiente de revisión humana**.",
-        "",
-        "## Leyes del año",
-        "",
-        '<div class="leydo-year-list leydo-year-list--pairs" markdown>',
     ]
     for number in sorted(packages):
         item = packages[number]
         stem = f"ley-{number:03d}-{year}"
-        title = html.escape(str(item.get("titulo") or "Sin título"), quote=False)
-        date = html.escape(str(item.get("fecha") or ""), quote=False)
-        state = "normalizado · pendiente_revision"
-        if item.get("estado_extraccion") == "extraido_sin_encabezado_numerico":
-            state = "texto extraído sin número en encabezado · pendiente_revision"
-        elif item.get("estado_extraccion") != "extraido_desde_pdf_oficial":
-            state = f"{item.get('estado_extraccion')} · pendiente_revision"
-        elif item.get("alertas_revision"):
-            state = "normalizado con alerta · pendiente_revision"
-        meta = " · ".join(part for part in [date, state] if part)
+        title = html.escape(_short(item.get("titulo") or "Sin título"), quote=False)
+        date = html.escape(str(item.get("fecha") or "—"), quote=False)
         lines.extend([
-            f'<div class="leydo-year-entry" markdown>',
-            f"**[Ley {number:03d}-{year}]({stem}.md)**",
-            "",
-            title,
-            "",
-            f'<p class="leydo-year-meta">{meta}</p>',
+            '<div class="leydo-dir-row" markdown>',
+            f'<div class="leydo-dir-num">[{number:03d}-{year}]({stem}.md)</div>',
+            f'<div class="leydo-dir-date">{date}</div>',
+            f'<div class="leydo-dir-title">{title}</div>',
             "</div>",
             "",
         ])
     if not packages:
-        lines.append("No hay paquetes normalizados todavía para este año.")
+        lines.append('<div class="leydo-dir-row" markdown><div class="leydo-dir-title">No hay leyes normalizadas todavía.</div></div>')
         lines.append("")
+    lines.append("</div>")
+    lines.append("")
     lines.extend([
-        "</div>",
+        f'<details class="leydo-details"><summary>Trazabilidad fuente ({source_count} registros)</summary>',
         "",
-        "## Trazabilidad fuente",
-        "",
-        "Registros oficiales del inventario. Útil para cotejo humano y para agentes que necesiten el ID de Consultoría.",
-        "",
-        '<div class="leydo-year-trace" markdown>',
+        '<div class="leydo-dir" markdown>',
     ])
     for record in records:
         number = nint(record.get("numero"))
@@ -148,23 +135,21 @@ def generate_index(repo: Path, year: int, inventory: dict) -> None:
         document_id = html.escape(str(record.get("document_id_consultoria") or ""), quote=False)
         official = str(record.get("url_documento_consultoria_abrir") or "").strip()
         source = f"[ID {document_id}]({_markdown_url(official)})" if official else f"ID {document_id}"
-        title = html.escape(str(record.get("titulo") or "Sin título en fuente"), quote=False)
-        date = html.escape(str(record.get("fecha_documento") or ""), quote=False)
-        gaceta = html.escape(str(record.get("gaceta_oficial") or ""), quote=False)
-        state = "en LEY.DO · pendiente_revision" if number in packages else "detectado · pendiente_paquete"
-        meta = " · ".join(part for part in [date, f"Gaceta {gaceta}" if gaceta else "", source, state] if part)
+        title = html.escape(_short(record.get("titulo") or "Sin título en fuente", 120), quote=False)
+        date = html.escape(str(record.get("fecha_documento") or "—"), quote=False)
         number_label = html.escape(str(record.get("numero") or ""), quote=False)
+        state = "en LEY.DO" if number in packages else "detectado"
         lines.extend([
-            f'<div class="leydo-year-trace-entry" markdown>',
-            f"**`{number_label}`**" + (f" · {related}" if related else ""),
-            "",
-            title,
-            "",
-            f'<p class="leydo-year-meta">{meta}</p>',
+            '<div class="leydo-dir-row" markdown>',
+            f'<div class="leydo-dir-num">`{number_label}`' + (f' · {related}' if related else '') + '</div>',
+            f'<div class="leydo-dir-date">{date}</div>',
+            f'<div class="leydo-dir-title">{title} · {source} · {state}</div>',
             "</div>",
             "",
         ])
     lines.append("</div>")
+    lines.append("")
+    lines.append("</details>")
     lines.append("")
     destination = repo / f"docs/leyes/{year}/index.md"
     destination.parent.mkdir(parents=True, exist_ok=True)
