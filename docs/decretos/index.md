@@ -1,87 +1,89 @@
 # Decretos
 
 <div class="leydo-year-hero" markdown>
-<p class="leydo-year-kicker">Corpus documental</p>
+<p class="leydo-year-kicker">Corpus de decretos</p>
 
-Sección de decretos del archivo público LEY.DO. Elija un año para ver una portada legible en móvil, con cifras del periodo y el listado de documentos.
+Elija un año. Cada año abre un directorio simple: número, fecha y título.
 
-Cobertura actual en LEY.DO: **6.638** páginas documentales entre 2016 y 2026.
+<div class="leydo-year-summary" markdown><span class="leydo-year-chip"><strong>6.638</strong> decretos en LEY.DO</span></div>
 </div>
 
 !!! warning "Aviso"
-    LEY.DO no es una fuente oficial. Esta sección organiza documentos detectados o normalizados desde fuentes oficiales. No certifica exhaustividad, vigencia ni validez legal.
+    LEY.DO no es una fuente oficial. No certifica exhaustividad, vigencia ni validez legal.
 
-## Años disponibles
+## Años
 
-<div class="leydo-year-catalog" markdown>
-<div class="leydo-year-catalog-entry" markdown>
-**[2016](2016/index.md)**
-
-<p class="leydo-year-meta">394 documentos</p>
+<div class="leydo-dir" markdown>
+<div class="leydo-dir-head" markdown>
+<div class="leydo-dir-num">Año</div>
+<div class="leydo-dir-date">Documentos</div>
+<div class="leydo-dir-title">Abrir</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2017](2017/index.md)**
-
-<p class="leydo-year-meta">436 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2016](2016/index.md)</div>
+<div class="leydo-dir-date">394</div>
+<div class="leydo-dir-title">Ver decretos de 2016</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2018](2018/index.md)**
-
-<p class="leydo-year-meta">446 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2017](2017/index.md)</div>
+<div class="leydo-dir-date">436</div>
+<div class="leydo-dir-title">Ver decretos de 2017</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2019](2019/index.md)**
-
-<p class="leydo-year-meta">495 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2018](2018/index.md)</div>
+<div class="leydo-dir-date">446</div>
+<div class="leydo-dir-title">Ver decretos de 2018</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2020](2020/index.md)**
-
-<p class="leydo-year-meta">733 documentos · 2 pendientes de PDF</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2019](2019/index.md)</div>
+<div class="leydo-dir-date">495</div>
+<div class="leydo-dir-title">Ver decretos de 2019</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2021](2021/index.md)**
-
-<p class="leydo-year-meta">836 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2020](2020/index.md)</div>
+<div class="leydo-dir-date">733</div>
+<div class="leydo-dir-title">Ver decretos de 2020</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2022](2022/index.md)**
-
-<p class="leydo-year-meta">771 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2021](2021/index.md)</div>
+<div class="leydo-dir-date">836</div>
+<div class="leydo-dir-title">Ver decretos de 2021</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2023](2023/index.md)**
-
-<p class="leydo-year-meta">687 documentos · 2 pendientes de PDF</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2022](2022/index.md)</div>
+<div class="leydo-dir-date">771</div>
+<div class="leydo-dir-title">Ver decretos de 2022</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2024](2024/index.md)**
-
-<p class="leydo-year-meta">708 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2023](2023/index.md)</div>
+<div class="leydo-dir-date">687</div>
+<div class="leydo-dir-title">Ver decretos de 2023</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2025](2025/index.md)**
-
-<p class="leydo-year-meta">723 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2024](2024/index.md)</div>
+<div class="leydo-dir-date">708</div>
+<div class="leydo-dir-title">Ver decretos de 2024</div>
 </div>
 
-<div class="leydo-year-catalog-entry" markdown>
-**[2026](2026/index.md)**
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2025](2025/index.md)</div>
+<div class="leydo-dir-date">723</div>
+<div class="leydo-dir-title">Ver decretos de 2025</div>
+</div>
 
-<p class="leydo-year-meta">409 documentos</p>
+<div class="leydo-dir-row" markdown>
+<div class="leydo-dir-num">[2026](2026/index.md)</div>
+<div class="leydo-dir-date">409</div>
+<div class="leydo-dir-title">Ver decretos de 2026</div>
 </div>
 
 </div>
-
-## Nota editorial
-
-Cada año abre con un resumen de cobertura y un listado apilado pensado para teléfono. El detalle de trazabilidad por registro fuente, cuando existe, aparece debajo del listado principal.

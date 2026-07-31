@@ -676,137 +676,141 @@ body:has(.library-landing) .md-content__inner::before { display: none; }
 }
 
 
-/* === Portadas anuales de decretos (móvil primero) === */
+/* === Directorio anual legible (decretos/leyes) === */
 .leydo-year-hero {
-  margin: 0.4rem 0 1.4rem;
-  padding: 0 0 1.1rem;
-  border-bottom: 1px solid var(--library-sand, var(--leydo-border));
+  margin: 0.2rem 0 1rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid var(--library-sand, #d8cdb4);
 }
 .leydo-year-kicker {
-  margin: 0 0 0.7rem;
-  color: var(--library-wine, var(--leydo-purple));
-  font-size: 0.72rem;
+  margin: 0 0 0.55rem;
+  color: var(--library-wine, #7c3f3a);
+  font-size: 0.7rem;
   font-weight: 800;
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 .leydo-year-hero p {
-  max-width: 62ch;
+  max-width: 60ch;
+  margin: 0 0 0.55rem;
   color: #4f5b55;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.02rem;
-  line-height: 1.55;
+  font-size: 1rem;
+  line-height: 1.5;
   text-align: left;
 }
-.leydo-year-stats {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.85rem 1rem;
-  margin: 1rem 0 1.6rem;
-  padding: 0.2rem 0 0.4rem;
+.leydo-year-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.7rem;
+  margin: 0.85rem 0 1.1rem;
 }
-.leydo-year-stat {
-  min-width: 0;
-  padding: 0.75rem 0;
-  border-top: 1px solid var(--library-ink, var(--leydo-navy));
-  border-bottom: 1px solid var(--library-sand, var(--leydo-border));
+.leydo-year-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  padding: 0.35rem 0.55rem;
+  border: 1px solid var(--library-sand, #d8cdb4);
+  background: rgba(243, 239, 227, 0.65);
+  color: var(--library-ink, #26312c);
+  font-size: 0.84rem;
+  line-height: 1.2;
 }
-.leydo-year-stat .leydo-stat {
-  margin: 0.15rem 0 0.35rem;
-  font-size: clamp(1.7rem, 6vw, 2.2rem);
+.leydo-year-chip strong {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-weight: 400;
+  color: var(--library-wine, #7c3f3a);
 }
-.leydo-year-stat .leydo-muted {
-  display: block;
-  color: var(--library-olive, var(--leydo-slate));
-  font-size: 0.78rem;
-  line-height: 1.35;
-}
-.leydo-year-list,
-.leydo-year-trace,
-.leydo-year-catalog {
+
+/* Una fila = un documento. Escritorio tipo tabla; móvil apilado. */
+.leydo-dir {
   display: grid;
   gap: 0;
-  margin: 0.6rem 0 1.8rem;
+  margin: 0.4rem 0 1.8rem;
+  border-top: 1px solid var(--library-ink, #26312c);
 }
-.leydo-year-entry,
-.leydo-year-trace-entry,
-.leydo-year-catalog-entry {
-  min-width: 0;
-  padding: 0.95rem 0.1rem;
-  border-bottom: 1px solid var(--library-sand, var(--leydo-border));
+.leydo-dir-head,
+.leydo-dir-row {
+  display: grid;
+  grid-template-columns: 6.4rem 7.2rem minmax(0, 1fr);
+  gap: 0.75rem 1rem;
+  align-items: start;
+  padding: 0.72rem 0.15rem;
+  border-bottom: 1px solid var(--library-sand, #d8cdb4);
 }
-.leydo-year-entry > p,
-.leydo-year-trace-entry > p,
-.leydo-year-catalog-entry > p {
-  margin: 0.35rem 0 0;
-  color: #40536b;
+.leydo-dir-head {
+  color: var(--library-olive, #5f6858);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.leydo-dir-num {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.02rem;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+.leydo-dir-num a {
+  color: var(--library-ink, #26312c);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.leydo-dir-num a:hover {
+  color: var(--library-wine, #7c3f3a);
+  border-bottom-color: rgba(124, 63, 58, 0.45);
+}
+.leydo-dir-date {
+  color: var(--library-olive, #5f6858);
+  font-size: 0.86rem;
+  line-height: 1.35;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.leydo-dir-title {
+  color: #334155;
   font-size: 0.95rem;
-  line-height: 1.45;
-  text-align: left;
+  line-height: 1.4;
   overflow-wrap: anywhere;
 }
-.leydo-year-entry > p:first-of-type,
-.leydo-year-trace-entry > p:first-of-type {
-  color: #334155;
+.leydo-dir-row:hover {
+  background: rgba(216, 205, 180, 0.28);
 }
-.leydo-year-meta {
-  color: var(--library-olive, var(--leydo-muted)) !important;
-  font-size: 0.78rem !important;
-  line-height: 1.4 !important;
+.leydo-details {
+  margin: 1.2rem 0 2rem;
+  border-top: 1px solid var(--library-sand, #d8cdb4);
+  border-bottom: 1px solid var(--library-sand, #d8cdb4);
+  padding: 0.4rem 0;
 }
-.leydo-year-catalog-entry a {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.35rem;
-  text-decoration: none;
+.leydo-details > summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.7rem 0.1rem;
+  color: var(--library-ink, #26312c);
+  font-weight: 700;
 }
-.leydo-year-entry a,
-.leydo-year-trace-entry a {
-  text-decoration: none;
+.leydo-details > summary::-webkit-details-marker { display: none; }
+.leydo-details > summary::before {
+  content: "+ ";
+  color: var(--library-wine, #7c3f3a);
 }
-.leydo-year-entry a:hover,
-.leydo-year-trace-entry a:hover,
-.leydo-year-catalog-entry a:hover {
-  color: var(--library-wine, var(--leydo-purple));
-}
+.leydo-details[open] > summary::before { content: "− "; }
+.leydo-details .leydo-dir-row { background: transparent; }
 
-/* En móvil, las tablas residuales de auditoría no deben romper el ancho. */
 @media (max-width: 760px) {
-  .md-typeset .leydo-year-stats {
-    grid-template-columns: 1fr 1fr;
+  .leydo-dir-head { display: none; }
+  .leydo-dir-row {
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "num date"
+      "title title";
+    gap: 0.2rem 0.75rem;
+    padding: 0.85rem 0.05rem;
   }
-  .md-typeset table:not([class]) {
-    display: block;
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
-  .md-typeset h1 {
-    font-size: clamp(1.9rem, 9vw, 2.4rem);
-  }
-}
-
-@media (min-width: 900px) {
-  .leydo-year-stats {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-}
-
-
-
-/* Pares de tarjetas en escritorio; una columna en móvil */
-@media (min-width: 860px) {
-  .leydo-year-list--pairs {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0 1.4rem;
-  }
-  .leydo-year-list--pairs .leydo-year-entry {
-    border-bottom: 1px solid var(--library-sand, var(--leydo-border));
-  }
-}
-@media (max-width: 859px) {
-  .leydo-year-list--pairs {
-    display: grid;
-    grid-template-columns: 1fr;
-  }
+  .leydo-dir-num { grid-area: num; font-size: 1.08rem; }
+  .leydo-dir-date { grid-area: date; justify-self: end; font-size: 0.8rem; }
+  .leydo-dir-title { grid-area: title; margin-top: 0.2rem; font-size: 0.92rem; }
+  .leydo-year-summary { gap: 0.4rem; }
+  .leydo-year-chip { font-size: 0.8rem; }
 }
