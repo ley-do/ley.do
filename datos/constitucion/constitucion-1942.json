@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1942.md",
   "ruta_json": "datos/constitucion/constitucion-1942.json",
   "sha256_pdf_original": "032f1f0a8fb3b7ea0cc98d721fb18f2c262450018cc2b0da5045e12c8bdbc847",
-  "sha256_markdown": "5faea0c1b654ae3d4d0955b61d9e778ac22e5e32a4d8aaf88e800c9860966d4b",
+  "sha256_markdown": "6fce08cd82727c7715193811ffc64bb449b1f36474b3d5ce68d9bbff92e6f994",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 30,
-  "caracteres_extraidos": 56190,
+  "caracteres_extraidos": 55720,
   "tamano_pdf_bytes": 1503414,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

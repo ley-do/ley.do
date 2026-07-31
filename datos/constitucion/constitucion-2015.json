@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-2015.md",
   "ruta_json": "datos/constitucion/constitucion-2015.json",
   "sha256_pdf_original": "b094363254d6d045a7d9ab99a9ef150f52943de8f284146a461c7e9f566a4bce",
-  "sha256_markdown": "a81b0913e3afaa09365b5602ff5f5aae556e4b06633ee59315474193da66b960",
+  "sha256_markdown": "64ae9ed261e2f9151c41bb83e6f3d0e6b6620b28e25895c18397ad4faa5f68a5",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 99,
-  "caracteres_extraidos": 203049,
+  "caracteres_extraidos": 197285,
   "tamano_pdf_bytes": 404404,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

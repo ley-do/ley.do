@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1994.md",
   "ruta_json": "datos/constitucion/constitucion-1994.json",
   "sha256_pdf_original": "f681a1ed3d008dd0aec51b4f404affe7178af8f5b0c132aed15073461be0eafe",
-  "sha256_markdown": "ad70ab56f6018c6b71e31d860998ec2071944ae7f2dede573c9cc75d5bff2967",
+  "sha256_markdown": "1faee11aba30adbdf704a15831d495f499abfb8335387d8e28f33dabd8eda730",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 43,
-  "caracteres_extraidos": 82260,
+  "caracteres_extraidos": 82280,
   "tamano_pdf_bytes": 2497514,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

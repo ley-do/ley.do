@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1874.md",
   "ruta_json": "datos/constitucion/constitucion-1874.json",
   "sha256_pdf_original": "c9e4e1a74f3b34a4d93afa43ca9305a8e1588453264ec3d67d08b165e110b34e",
-  "sha256_markdown": "4d5475fe98d307545be6629faaa4db5ba994feb984854ecd0d5b45640890a018",
+  "sha256_markdown": "b871bee388dc08e4df11d27ac4bda8e51024e3974249872f717427109a9298c7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 26,
-  "caracteres_extraidos": 51944,
+  "caracteres_extraidos": 51474,
   "tamano_pdf_bytes": 1459375,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

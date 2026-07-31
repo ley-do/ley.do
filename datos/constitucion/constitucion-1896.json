@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1896.md",
   "ruta_json": "datos/constitucion/constitucion-1896.json",
   "sha256_pdf_original": "a01a8d6f1b89ed99f6665d986dd3ce5d0e2c9011870371cd6cb59739b09c79af",
-  "sha256_markdown": "643434d9f24b2d1ce44e4de9410b0ad070e9e535fd0c26bd96e7ee5ffed7c214",
+  "sha256_markdown": "1d82da99436f2e22d1a2c114ccfb3c550841115d5d97c3109051e109d44efcc1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 94,
-  "caracteres_extraidos": 172437,
+  "caracteres_extraidos": 169454,
   "tamano_pdf_bytes": 2078418,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

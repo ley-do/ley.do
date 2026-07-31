@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1865.md",
   "ruta_json": "datos/constitucion/constitucion-1865.json",
   "sha256_pdf_original": "0c15fd495837f40b0f5fe1dc8bb6ef6d35e4c63679a509ff43db774b9372ee82",
-  "sha256_markdown": "784f7fe433a45ce0df95f3a2d1e262b5e98c934fac1da53596c103cf284c297d",
+  "sha256_markdown": "4520a45bc7a7f434a52ab9253250eb4543fd058344f0ffac3f7c95aa8045038f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 53,
-  "caracteres_extraidos": 109143,
+  "caracteres_extraidos": 108061,
   "tamano_pdf_bytes": 1831301,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

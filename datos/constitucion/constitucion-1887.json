@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1887.md",
   "ruta_json": "datos/constitucion/constitucion-1887.json",
   "sha256_pdf_original": "5bf57b072a564c865d1850d0f2b64940fdb966f1033e67b66b6f20dbb7946011",
-  "sha256_markdown": "986850602c3f0441d15df1d4807ff6070c08b31d5e69b7d02524fcc57d53ad8c",
+  "sha256_markdown": "64f2caebc25e67f14b0500e2e4d0f7c6be8cee90017f25f0f4009f9380b3665f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 156,
-  "caracteres_extraidos": 290788,
+  "caracteres_extraidos": 288114,
   "tamano_pdf_bytes": 2412843,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

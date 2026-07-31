@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1924.md",
   "ruta_json": "datos/constitucion/constitucion-1924.json",
   "sha256_pdf_original": "3b2c124b639b59a57059441f77fe461b06de3ee083a4458b1f57481f0dfa7a15",
-  "sha256_markdown": "782c656d381182279adfc610e22f54afcd09e48ff7a1529c85dd8c61905e72c8",
+  "sha256_markdown": "f9602ca88c51b96aa64329be8cf8e3af561eb7d72ca345a43b4fb40f1a15bd67",
   "estado_revision": "pendiente_revision",
-  "estado_publicacion": "descubierto",
-  "estado_extraccion": "pendiente_ocr",
-  "paginas_extraidas": 0,
-  "caracteres_extraidos": 0,
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_por_ocr",
+  "paginas_extraidas": 25,
+  "caracteres_extraidos": 48950,
   "tamano_pdf_bytes": 12895882,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "tesseract_cli_spa_eng"
 }

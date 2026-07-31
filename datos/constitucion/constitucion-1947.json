@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1947.md",
   "ruta_json": "datos/constitucion/constitucion-1947.json",
   "sha256_pdf_original": "4059770f02cee02f9fe4596359e0c5b854fb41361c93857f0267cdee500b09bd",
-  "sha256_markdown": "50d7f982bd64e225c67b67807dff8933595b76968f16f64d491e697ce0e1d5ea",
+  "sha256_markdown": "f99bd74445e55f89e554fc45fcc07b81f74ff0d289f8d03f92d344c34c24ad5a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "paginas_extraidas": 109,
-  "caracteres_extraidos": 234974,
+  "paginas_extraidas": 105,
+  "caracteres_extraidos": 232581,
   "tamano_pdf_bytes": 2368341,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-2002.md",
   "ruta_json": "datos/constitucion/constitucion-2002.json",
   "sha256_pdf_original": "64786e3a5c8505d5a45942335ce444e0a0df7727622fae98695d777c8ae284aa",
-  "sha256_markdown": "f3e00389af1a930b5fb74c01b1aab8c211b52d3303e5e45fef5ccccc840cd13e",
+  "sha256_markdown": "538ee26ca1b3e611c462c56b615323653d765593fa4c79fd7115bf09b3ce6675",
   "estado_revision": "pendiente_revision",
-  "estado_publicacion": "descubierto",
-  "estado_extraccion": "pendiente_ocr",
-  "paginas_extraidas": 0,
-  "caracteres_extraidos": 0,
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_por_ocr",
+  "paginas_extraidas": 72,
+  "caracteres_extraidos": 86613,
   "tamano_pdf_bytes": 14367873,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "tesseract_cli_spa_eng"
 }

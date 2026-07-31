@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1961.md",
   "ruta_json": "datos/constitucion/constitucion-1961.json",
   "sha256_pdf_original": "6af1c904124b4729e3f9196a5bd9556b7016615e7b5c6650bf30db25013f6079",
-  "sha256_markdown": "ef1801182a6593b34cf51eacd74d8eecf8a42f3122aff68779b2734c60586567",
+  "sha256_markdown": "84f938a418b6eaef6997aab1b27a418c8d017e2e8cab1c07b3f16d4cc7619b1b",
   "estado_revision": "pendiente_revision",
-  "estado_publicacion": "descubierto",
-  "estado_extraccion": "pendiente_ocr",
-  "paginas_extraidas": 0,
-  "caracteres_extraidos": 0,
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_por_ocr",
+  "paginas_extraidas": 56,
+  "caracteres_extraidos": 78637,
   "tamano_pdf_bytes": 2371070,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "tesseract_cli_spa_eng"
 }
