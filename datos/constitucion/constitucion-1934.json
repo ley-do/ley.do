@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1934.md",
   "ruta_json": "datos/constitucion/constitucion-1934.json",
   "sha256_pdf_original": "913267dbe22fbb8079c14ea0641072eb689a988b80a0dd0897aac445fc29c5e3",
-  "sha256_markdown": "72b589bbe2171cb5be8e8ac17e3ea8503cde833967a19a5c3a03171b24bc02df",
+  "sha256_markdown": "76898bdffe29adede986b46902cef16f75048bb9df18d53af84d6d1b99346149",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 43,
-  "caracteres_extraidos": 95118,
+  "caracteres_extraidos": 94346,
   "tamano_pdf_bytes": 1426825,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

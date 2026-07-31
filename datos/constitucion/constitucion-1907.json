@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1907.md",
   "ruta_json": "datos/constitucion/constitucion-1907.json",
   "sha256_pdf_original": "6a6dbb143a378ef662848dded3dfc66eb7e154683f0d199ba4a22d2a02671328",
-  "sha256_markdown": "31ee781e44dd48ff7c176334c0beae8319c947e56c9a8c416148d279fcf6d6ac",
+  "sha256_markdown": "a1f881d536e7a427d02e11f1ce9a2fae06a251c38b869f28be330afed9472e1b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 35,
-  "caracteres_extraidos": 64608,
+  "caracteres_extraidos": 63763,
   "tamano_pdf_bytes": 1765152,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

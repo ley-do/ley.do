@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1955.md",
   "ruta_json": "datos/constitucion/constitucion-1955.json",
   "sha256_pdf_original": "232f971c10737051c298eda2985438f598c369ee1b51e4347a7cdd368db9c9bd",
-  "sha256_markdown": "5223d18977dff76443c1452473c4ce7cb84056f7118667a6bd328c52630802cb",
+  "sha256_markdown": "1f2cdaccb6082e16594a1c4a30300da7c1fdf081ed59e5f7f9fa2c2dd4d428b0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 36,
-  "caracteres_extraidos": 79367,
+  "caracteres_extraidos": 78572,
   "tamano_pdf_bytes": 2201792,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

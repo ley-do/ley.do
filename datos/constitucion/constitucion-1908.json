@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1908.md",
   "ruta_json": "datos/constitucion/constitucion-1908.json",
   "sha256_pdf_original": "1d5227638d6dd76ff7088eaf1ab6ab263c9b5756b2fcd3e30ca65a8d03c08ae1",
-  "sha256_markdown": "efeb160eb3d7ffa27a57d00d139b6caa83e9f7f0dee3da692f218c1eefb75933",
+  "sha256_markdown": "cc54af5d8656c750dd0b63cc7eaf6d1935ad1f29e671bb38ea676916c7c603db",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 25,
-  "caracteres_extraidos": 46513,
+  "caracteres_extraidos": 46355,
   "tamano_pdf_bytes": 1274483,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

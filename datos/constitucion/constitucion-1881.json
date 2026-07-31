@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1881.md",
   "ruta_json": "datos/constitucion/constitucion-1881.json",
   "sha256_pdf_original": "a1f46c6313de9450c484b2d373f1490e6ddf8baf551660653a003f1578ce1808",
-  "sha256_markdown": "c25eac13769cdd910f9e38203a4d64a808d5994b47af9e6f8c52d72d8ed84088",
+  "sha256_markdown": "95bfb2bf7062683e690b24c9c87c5bb8dc99713d5f29edb52c5912405d8eb648",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 26,
-  "caracteres_extraidos": 52730,
+  "caracteres_extraidos": 52275,
   "tamano_pdf_bytes": 1401051,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

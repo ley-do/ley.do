@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1880.md",
   "ruta_json": "datos/constitucion/constitucion-1880.json",
   "sha256_pdf_original": "a31abca4f222ee38a611a4afd96a678aaa7f50d57fb7524681b7f181fd964cf4",
-  "sha256_markdown": "0404c07347e6b01f487db6132c500913096d8a8c4ed627162f966d3ffb207084",
+  "sha256_markdown": "9041164e4848fff0ca678fe39a0e867ee2275fc2412d758d15a6e43553523a22",
   "estado_revision": "pendiente_revision",
-  "estado_publicacion": "descubierto",
-  "estado_extraccion": "pendiente_ocr",
-  "paginas_extraidas": 0,
-  "caracteres_extraidos": 0,
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_por_ocr",
+  "paginas_extraidas": 25,
+  "caracteres_extraidos": 51128,
   "tamano_pdf_bytes": 1194944,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "tesseract_cli_spa_eng"
 }

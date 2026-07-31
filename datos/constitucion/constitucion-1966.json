@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1966.md",
   "ruta_json": "datos/constitucion/constitucion-1966.json",
   "sha256_pdf_original": "ce640a5f4dead10505c13ce65986166fe8bdf6d2a7657214fe8f20db44faf6a6",
-  "sha256_markdown": "56517e4d22ce02fc436d76bc0733db8c1014d9c20194b62e8427b4b5ad745616",
+  "sha256_markdown": "815b7ec4986370ef084bbe6d53ff3716eb4381a66889a9315416c4e299aeffe6",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 47,
-  "caracteres_extraidos": 80485,
+  "caracteres_extraidos": 80075,
   "tamano_pdf_bytes": 2270735,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

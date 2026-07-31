@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-1844.md",
   "ruta_json": "datos/constitucion/constitucion-1844.json",
   "sha256_pdf_original": "3e09d98408a33f21fc1c968dc760d123d4978b57472c2ab6406848be90ca5c3c",
-  "sha256_markdown": "81a07d2c007e472b6e918035eb437bcab46b9a6badc8fb431b42c5f9cf13f14b",
+  "sha256_markdown": "b1e3d49350331bda9c15f80637c5dd02dc6cde643fa68dab72009a75d34aeb6a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
-  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "estado_extraccion": "extraido_por_ocr",
   "paginas_extraidas": 31,
-  "caracteres_extraidos": 64508,
+  "caracteres_extraidos": 63709,
   "tamano_pdf_bytes": 1776505,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "tesseract_cli_spa_eng"
 }

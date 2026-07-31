@@ -5,7 +5,7 @@
 
 Textos constitucionales dominicanos desde **1844**, tomados del catálogo oficial de la Consultoría Jurídica. Lista única: **un encapsulado por constitución**, del **más reciente al más antiguo**.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>32</strong> constituciones</span><span class="leydo-year-chip"><strong>24</strong> con texto</span><span class="leydo-year-chip"><strong>8</strong> pendientes OCR</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>32</strong> constituciones</span><span class="leydo-year-chip"><strong>32</strong> con texto legible</span><span class="leydo-year-chip"><strong>0</strong> pendientes OCR</span></div>
 </div>
 
 !!! warning "Aviso"
@@ -176,6 +176,9 @@ Textos constitucionales dominicanos desde **1844**, tomados del catálogo oficia
 </div>
 
 ## Nota documental
+
+- Los textos escaneados se leyeron con OCR (Tesseract spa+eng) y se refluaron para facilitar la lectura.
+- El PDF oficial manda si hay duda; todo queda en `pendiente_revision`.
 
 - Fuente del catálogo: [Constituciones · Consultoría Jurídica](https://www.consultoria.gov.do/Services/Constitutions).
 - Cada ítem conserva PDF oficial, Markdown, JSON y SHA256.

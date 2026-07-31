@@ -15,13 +15,14 @@
   "ruta_markdown": "docs/constitucion/constitucion-2024.md",
   "ruta_json": "datos/constitucion/constitucion-2024.json",
   "sha256_pdf_original": "0f4da013601cbb9dda0cd6ec7695611180ec0d1af51550041ed67875f56dcaa3",
-  "sha256_markdown": "0ca7a0acf28a58a2f90ca05d394e53c195e32f5fe859db03bdbdda01564dc7a1",
+  "sha256_markdown": "948a7f9b57d154393c7757c5fa01c4353cf646a1d27a98ce6d4ac4ef53b71493",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
   "paginas_extraidas": 96,
-  "caracteres_extraidos": 195962,
+  "caracteres_extraidos": 197364,
   "tamano_pdf_bytes": 864314,
   "commit_publicacion": "",
-  "notas": "Paquete constitucional desde catálogo oficial Consultoría /Services/Constitutions. No interpreta reformas ni vigencia."
+  "notas": "Paquete constitucional con texto legible preparado automáticamente. Verificar contra PDF oficial. No interpreta reformas ni vigencia.",
+  "metodo_extraccion": "pymupdf_text_reflow"
 }

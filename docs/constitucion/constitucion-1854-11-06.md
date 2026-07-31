@@ -14,4016 +14,513 @@
 - PDF original: [https://www.consultoria.gov.do/Documents/GetDocument?reference=c352150e-7045-44f8-af53-ec50adda615d](https://www.consultoria.gov.do/Documents/GetDocument?reference=c352150e-7045-44f8-af53-ec50adda615d)
 - Hash SHA256 del PDF: `33f01fe8842a1da45358344e709d61a2063d3a583c3958a1a6e5d35057ee8f8f`
 - Estado de revisión: pendiente_revision
+- Estado de extracción: `extraido_desde_pdf_oficial`
 
 ## Texto
 
 ### Página 1 del PDF
 
 .4·
-536
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
----- . --_._-
-Art. 29• El mismo dia se cel€brara una misa solemne por el
-eura parroco de la comun, y se hara un dis&lt;"urso analogo a las
-circunstancias, concluyendo el ceremonial religioso con un Te-
-Deum.
-Art. 39 •
-Las autoridades civiles y militares quedan encar-
-gadas de la ejecucion y cumplimiento del presente decreto, q11e
-sera impreso, publicado y ejecutado en todo el territor'''' de
-la
-Republic&amp;.
-Dado en el Pal.lcio Nacional de Santo Domingo e126 de Fe-
-brero de 1854, y 109. de la Patria.-Santana.-Refrendado: El
-Ministro del Interior y Policia.-Francisco Moreno.
-Nurn. 337.-Constitucion Politica. (1).
-Dj",'l, Patria y
-Libertad.-Republica
-Dominicana.-En e1
-nombre de Dios uno y trino, Autor y Supremo Legislador del uni-
-v'erso.
-Los Diputados de los pueblos de laantigua parte Espa-
-nola de la isla de Santo Domingo, reunidns en Congreso Consti-
-tuyente Soberano, cumpliendo can los deseos de sus t:omitentes,
-que han jurado no deponer las armas hasta no consolidar su in-
-depenrlencia poIitica, fijar las bases fundamental l8s desu gobier-
-no, y afianzar los imprescriptibles derechos de
-seguridad, pro-
-piedad. libertad eigualdad, han ol'denado y decretan la siguiente:
+
+COLECCION DE LEYES, DECRETOS &.-1854. ----. --_._- Art. 29• El mismo dia se cel€brara una misa solemne por el eura parroco de la comun, y se hara un dis<"urso analogo a las circunstancias, concluyendo el ceremonial religioso con un Te- Deum. Art. 39 • Las autoridades civiles y militares quedan encargadas de la ejecucion y cumplimiento del presente decreto, q11e sera impreso, publicado y ejecutado en todo el territor'''' de la Republic&.
+
+Dado en el Pal.lcio Nacional de Santo Domingo e126 de Febrero de 1854, y 109. de la Patria.-Santana.-Refrendado: El Ministro del Interior y Policia.-Francisco Moreno. Nurn. 337.-Constitucion Politica. (1). Dj",'l, Patria y Libertad.-Republica Dominicana.-En e1 nombre de Dios uno y trino, Autor y Supremo Legislador del univ'erso. Los Diputados de los pueblos de laantigua parte Espanola de la isla de Santo Domingo, reunidns en Congreso Constituyente Soberano, cumpliendo can los deseos de sus t:omitentes, que han jurado no deponer las armas hasta no consolidar su indepenrlencia poIitica, fijar las bases fundamental l8s desu gobierno, y afianzar los imprescriptibles derechos de seguridad, propiedad. libertad eigualdad, han ol'denado y decretan la siguiente:
+
 CONSTITUCION POLITICA DE LA REPUBLICA
+
 DOMINICANA.
-TITULO 1.
-DE LA NACION:
-Art. 19•
-Los dominicanos se constituyen en nacion libre, in-
-dependiente y soberana, bajo un Gobierno esencialmente civil, re-
-publicano, democratico, repr,esentativo, electivo, alternativo y res-
-ponsable.
-(1) Revisada en 16 Diciembre del presente ano.
-.,
+
+**TITULO 1.**
+
+DE LA NACION: Art. 19• Los dominicanos se constituyen en nacion libre, independiente y soberana, bajo un Gobierno esencialmente civil, republicano, democratico, repr,esentativo, electivo, alternativo y responsable. (1) Revisada en 16 Diciembre del presente ano..,
 
 ### Página 2 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-185'l.
-537
-TITULO II.
-DEL TERRENO.
-Art. 20 •
-La parte Espanola de la isla de Santo Domingo y
-sus islas adyacentes, forman el territorio de la Republica Domini-
-cana ;sus limites son los mismos que en mil setecientos noventa y
-tres la dividian por el lado del Occidente de la
-parte
-francesa.
-Estos limites quedan definitivamente fijados.
-Art. 39 •
-El territorio de la Republica se dividira en pravin-
-cias, y estas se subdividirfm en comunes, cuyo numero y distri-
-bucion seran arreglados por la ley.
-Las provincias actuales de la
-Republica son: Compostela de Azua, Santo Domingo d~ Guzman,
-Santa Cruz del Seybo, Concepcion de la Vega y Santiago de los
-Caballeros.
-Art. 49•
-La ciudad de Santo Domingo es Capital de la Repu-
-blica y asi€llto del Gobierno.
-El Presidente no podra ejercer la
-administradon del Estado fuera de ella, sin previo consentimien-
-to del Congreso.
-TITULO III.
+COLECCION DE LEYES, DECRETOS &.-185'l.
+
+**TITULO II.**
+
+DEL TERRENO. Art. 20 • La parte Espanola de la isla de Santo Domingo y sus islas adyacentes, forman el territorio de la Republica Dominicana;sus limites son los mismos que en mil setecientos noventa y tres la dividian por el lado del Occidente de la parte francesa. Estos limites quedan definitivamente fijados. Art. 39 • El territorio de la Republica se dividira en pravincias, y estas se subdividirfm en comunes, cuyo numero y distribucion seran arreglados por la ley. Las provincias actuales de la Republica son: Compostela de Azua, Santo Domingo d~ Guzman, Santa Cruz del Seybo, Concepcion de la Vega y Santiago de los Caballeros. Art. 49• La ciudad de Santo Domingo es Capital de la Republica y asi€llto del Gobierno. El Presidente no podra ejercer la administradon del Estado fuera de ella, sin previo consentimiento del Congreso.
+
+**TITULO III.**
+
 DE LOS DOMINICANOS, SUS DERECHOS Y DEBERES
-CAPITULO PRIMERO.
-Art. 59.
-Son dominicanos:
-lQ. Todos los individuos que wI momento de la publicacion de
-la presente Constitucion goeen de esta cualidad.
-2Q•
-Todos los nacidos en el: territorio de la Republica de pa-
-dresdominicanos, y los hijos de estos.
-3Q•
-Todos los que nacidos en el tJerritorio de la Republica de
-padres domniicanos, y que habiendo
-emigrado, vuelvan a fijar
-su residencia en ella.
-4Q• Todos los espaiioles dominicanizados y sus d~scendientesque,
-habiendo emigrado en 1844, no han tornado ,las armas contra la
-Republica, ni la han hostiIizado de modo alguno, y vuelvan a fi-
-jar su residencia en ella.
-5Q•
-Todo'S los descendientes de oriundos de la parte Espano-
-la, nacidos en paisesextrangeros que vengan a fijar su residen-
-cia en la Republica.
-6Q•
-Todos los nacidos enel territorio de padres extrangeros
+
+**CAPITULO PRIMERO.** Art. 59. Son dominicanos: lQ. Todos los individuos que wI momento de la publicacion de la presente Constitucion goeen de esta cualidad. 2Q• Todos los nacidos en el: territorio de la Republica de padresdominicanos, y los hijos de estos. 3Q• Todos los que nacidos en el tJerritorio de la Republica de padres domniicanos, y que habiendo emigrado, vuelvan a fijar su residencia en ella. 4Q• Todos los espaiioles dominicanizados y sus d~scendientesque, habiendo emigrado en 1844, no han tornado,las armas contra la Republica, ni la han hostiIizado de modo alguno, y vuelvan a fijar su residencia en ella. 5Q• Todo'S los descendientes de oriundos de la parte Espanola, nacidos en paisesextrangeros que vengan a fijar su residencia en la Republica. 6Q• Todos los nacidos enel territorio de padres extrangeros
 
 ### Página 3 del PDF
 
-538
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-que invoquen esta cualidad, cuando Ueguen a su mayor '.:dad.
-79 •
-Todos los derechos de ciudadanos
-no se pierden ni se
-suspenden, solo en los casos siguientes:
-1.
-Se pierden: por traicion a la patria, por naturalizar.·se en
-pais extrangero.
-Po'!:" haber sufrido pena aflictiva 6 infamante, en virtud de
-condenacion judicial, y mientras no se obtenga rehabilitacion.
-2Q•
-Se suspenden:
-Por la tacha de deudor frauduJ.ento.
-Por hallarsle procesado cririlinalmente.
-Por no tenerempleo, urofesion, oficio, 6 modo de vivir cono~
-cido.
-POl' interdiccion judicial.
-§ La ley arreglara el ejercicio de los derechos civiles.
-Art. 79 •
-Todos los extrangeros, no pertenecientes a una na-
-cion enemiga, quie se ha:llen en el territorio de Ia Republica 6 ven-
-gan ael, si profesan algun arte, ciencia 6 industria util, gozaran
-de los mismos derechos y garantias que los dominicanos, debiendo
-estar sometidos como eHos, a las leyes y autoridades del pais.
-CAPITULO SEGUNDO.
-Art. 8Q•
-Los dominicanos nacen y permanecen libres eigua-
-les ,en derecho, y todos son admisibles a los empleos public08, que-
-dando para siempre abolida la esclavitud.
-Art. 99 •
-La libertad individual queda asegurada y garanti-
-zada: nadie puede ser perseguido so~o en los casos poovistos por
-la ley, y en la forma que ella prescriba.
-Art. 10.
-Fuera del caso de flagrante delito, ninguno puede
-Sier encarcelado, sino en virtud de una orden motivada d~l juez,
-que debera notificarse en el momento del arresto, 0 a 10 mas tar-
-de, dentro del termino de veinte y cuatro horas.
-Art. 11.
-Los sorprendidos en frlagrante crimen 0 delito se-
-ran conducidos ante e1 juez competente; y si fuere en la noche,
-se Ilenara esta formalidad a las ocho de la manana del siguiente
-dia, sin que puedan ser pres,entados ante ninguna otra autoridad.
-Art. 12.
-Nadie puede ser preso ni sentenciado, sino por el
-juez 6 tribuna,} competente, en virtud de ,reyes anteriores al delito,
-y en las formas que ellas prescriban.
-Art. 13. No podra imponerse jamas la pena dp. confiscacion
-(Ie bienes.
-Art. 14.
-La propiedades inviolable; ninguno puede' ser des-
-f
+COLECCION DE LEYES, DECRETOS &.-1854. que invoquen esta cualidad, cuando Ueguen a su mayor '.:dad. 79 • Todos los derechos de ciudadanos no se pierden ni se suspenden, solo en los casos siguientes: 1. Se pierden: por traicion a la patria, por naturalizar.·se en pais extrangero. Po'!:" haber sufrido pena aflictiva 6 infamante, en virtud de condenacion judicial, y mientras no se obtenga rehabilitacion. 2Q• Se suspenden: Por la tacha de deudor frauduJ.ento. Por hallarsle procesado cririlinalmente. Por no tenerempleo, urofesion, oficio, 6 modo de vivir cono~ cido. POl' interdiccion judicial. § La ley arreglara el ejercicio de los derechos civiles. Art. 79 • Todos los extrangeros, no pertenecientes a una nacion enemiga, quie se ha:llen en el territorio de Ia Republica 6 vengan ael, si profesan algun arte, ciencia 6 industria util, gozaran de los mismos derechos y garantias que los dominicanos, debiendo estar sometidos como eHos, a las leyes y autoridades del pais.
+
+**CAPITULO SEGUNDO.** Art. 8Q• Los dominicanos nacen y permanecen libres eiguales,en derecho, y todos son admisibles a los empleos public08, quedando para siempre abolida la esclavitud. Art. 99 • La libertad individual queda asegurada y garantizada: nadie puede ser perseguido so~o en los casos poovistos por la ley, y en la forma que ella prescriba. Art. 10. Fuera del caso de flagrante delito, ninguno puede Sier encarcelado, sino en virtud de una orden motivada d~l juez, que debera notificarse en el momento del arresto, 0 a 10 mas tarde, dentro del termino de veinte y cuatro horas. Art. 11. Los sorprendidos en frlagrante crimen 0 delito seran conducidos ante e1 juez competente; y si fuere en la noche, se Ilenara esta formalidad a las ocho de la manana del siguiente dia, sin que puedan ser pres,entados ante ninguna otra autoridad. Art. 12. Nadie puede ser preso ni sentenciado, sino por el juez 6 tribuna,} competente, en virtud de,reyes anteriores al delito, y en las formas que ellas prescriban. Art. 13. No podra imponerse jamas la pena dp. confiscacion (Ie bienes. Art. 14. La propiedades inviolable; ninguno puede' ser desf
 
 ### Página 4 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-539
-poja,lo de la h:enor pordon de ella, sino por via de apremio 6 pe-
-na legal, 6 por causa justificada de utilidad publica, y mediante
-una pr,evia y justa indemnizacion a juicio de peritos.
-En ca~v' de guerra, esta indemnizacion puede no ser previa.
-Art. 15.
-EI d0micilio de todo individuo es un asHo sagrado
-,e inviolable.
-l'T
-O '-.guna visita domiciliaria puede vlerificarse sino
-en los casos previstospor la ley, y con las formalidades que
-ella
-prescriba.
-Art. 16.
-Todos los dominicano::: pueden imprimir y publicar
-libremente sus ideas sin previa censura, con sujecion a las IeJie:s.
-La calificacion de los delitos de imprenta, corresponde ~xdu:siva­
-mente a los jurados.
-Art. 17.
-Unas mismas leyes regiran ,en toda la Republica, Y
-• en elIas no se establecera mas qu,e un solo fuero para todos los do-
-minicanos, en los juicios comunes, civiles y criminales.
-Art. 18.
-A ninguno se Ie puede obligar que haga 10 que la
-ley no manda, ni impedir que haga 10 que la ley no priva.
-Art. 19.
-La correspondencia privada y papeles particulares
-son sagrados; no podran ser vioaados ni interceptados sino por au-
-toridad competentJe, en los casos y con las formalidade:s prescritas
-por ilas leyes.
-Art. 20.
-Los dominicanos Uenen el derecho de asociarse, ~in
-estar sujetos a ninguna medida preventiva; tienen el die reunirse
-pacificamente y sin armas en casas particulares, conformandose
-a las leyes que puedan arreglaresta facultad; perc sin estar su-
-jetos a previa autorizacion.
-Art. 21.
-Las sociedades patri6ticas que se establezcan para
-promover y auxiliar todos los ramos de utiIidad publica, daran
-parte at Poder Ejecutivo de su €Istablecimiento y nombre.
-Art. 22.
-Para denunciar a los funcionarios publicos por he-
-chos de su administracion, no se necesita previa autorizacion.
-Art. 23.
-Todos los clominicanos tienen el derecho de peticion
-sobre cualquier n1e!gocio de interes publico 6 privado, y de emitir
-libremente ysin responsabilidad alguna su
-opinion sabre elIos ;
-pero ningun individuo ni asociacion particular podra hacer pe-
-ticionesen nombre del pueblo, ni menos arrogarse la calificaci6n
-de pueblo.
-Su voluntad solo puede expresarse par media de los
-que 10 representan par mandata ()btenido conforme a esta Cons-
-titucion.
-Cuando muchos individuos dirijieren
-una peticion al
-Congreso, a cualquiera de las Camaras, al -Poder Ejecutivo y de-
-mas autoridade,s publicas, todos seran responsables soIidariamen
+COLECCION DE LEYES, DECRETOS &.-1854. poja,lo de la h:enor pordon de ella, sino por via de apremio 6 pena legal, 6 por causa justificada de utilidad publica, y mediante una pr,evia y justa indemnizacion a juicio de peritos. En ca~v' de guerra, esta indemnizacion puede no ser previa. Art. 15. EI d0micilio de todo individuo es un asHo sagrado,e inviolable. l'T O '-.guna visita domiciliaria puede vlerificarse sino en los casos previstospor la ley, y con las formalidades que ella prescriba. Art. 16. Todos los dominicano::: pueden imprimir y publicar libremente sus ideas sin previa censura, con sujecion a las IeJie:s. La calificacion de los delitos de imprenta, corresponde ~xdu:siva mente a los jurados. Art. 17. Unas mismas leyes regiran,en toda la Republica, Y • en elIas no se establecera mas qu,e un solo fuero para todos los dominicanos, en los juicios comunes, civiles y criminales. Art. 18. A ninguno se Ie puede obligar que haga 10 que la ley no manda, ni impedir que haga 10 que la ley no priva. Art. 19. La correspondencia privada y papeles particulares son sagrados; no podran ser vioaados ni interceptados sino por autoridad competentJe, en los casos y con las formalidade:s prescritas por ilas leyes. Art. 20. Los dominicanos Uenen el derecho de asociarse, ~in estar sujetos a ninguna medida preventiva; tienen el die reunirse pacificamente y sin armas en casas particulares, conformandose a las leyes que puedan arreglaresta facultad; perc sin estar sujetos a previa autorizacion. Art. 21. Las sociedades patri6ticas que se establezcan para promover y auxiliar todos los ramos de utiIidad publica, daran parte at Poder Ejecutivo de su €Istablecimiento y nombre. Art. 22. Para denunciar a los funcionarios publicos por hechos de su administracion, no se necesita previa autorizacion. Art. 23. Todos los clominicanos tienen el derecho de peticion sobre cualquier n1e!gocio de interes publico 6 privado, y de emitir libremente ysin responsabilidad alguna su opinion sabre elIos; pero ningun individuo ni asociacion particular podra hacer peticionesen nombre del pueblo, ni menos arrogarse la calificaci6n de pueblo. Su voluntad solo puede expresarse par media de los que 10 representan par mandata ()btenido conforme a esta Constitucion. Cuando muchos individuos dirijieren una peticion al Congreso, a cualquiera de las Camaras, al -Poder Ejecutivo y demas autoridade,s publicas, todos seran responsables soIidariamen
 
 ### Página 5 del PDF
 
-540
-COLECCION DE LEYES, DE,RETOS &amp;.-1854.
-te de Ia verdad de los hechos; y los cinco primeros que suscribie-
-ren, quedaran responsables de la identidad de todas las firmas.
-Art. 24.
-Son deberes de todo dominicano: acatar y cumplir
-~as lieyes; respetar y obedecer las legitimas autoridades que son
-sus organos; servir a Ia Patria cuando sean l1amados por la ley;
-defender y conservar la libertad e independencia de la Nacion;
-contribuir en proporcion de sus haberes para los gastos publicos;
-y cuando 10 exija la saluq del Estado, hacer aque:llos emprestitos
-necesarios, mediante reintegracion.
-Art. 25.
-La Religion Cat6lica, Apost6lica, Romana, es la re-
-ligion del Estado.
-Sus ministros, en cuanto al ejercicio del mi-
-nisterio edesiastico, dependen solamente de los Prelados can6ni-
-camente instituidos.
-TITULO IV.
+COLECCION DE LEYES, DE,RETOS &.-1854. te de Ia verdad de los hechos; y los cinco primeros que suscribieren, quedaran responsables de la identidad de todas las firmas. Art. 24. Son deberes de todo dominicano: acatar y cumplir ~as lieyes; respetar y obedecer las legitimas autoridades que son sus organos; servir a Ia Patria cuando sean l1amados por la ley; defender y conservar la libertad e independencia de la Nacion; contribuir en proporcion de sus haberes para los gastos publicos; y cuando 10 exija la saluq del Estado, hacer aque:llos emprestitos necesarios, mediante reintegracion. Art. 25. La Religion Cat6lica, Apost6lica, Romana, es la religion del Estado. Sus ministros, en cuanto al ejercicio del ministerio edesiastico, dependen solamente de los Prelados can6nicamente instituidos.
+
+**TITULO IV.**
+
 DE LA SOBERANIA Y DE LOS PODERES QUE DE
-ELLA EMANAN.
-Art. 26.
-La soberania reside en la universidad de los ciu-
-dadanos, y se ejerce por tres Poderes delegadO's regun las reglas
-establecidus en esta Constitucion.
-Art. 27.
-Estos Poderes son: el Legislativo, el Ejecutivo y el
-Judicial.
-Son esencialmente independi,entes, responsables y tem-
-pora~,es; se ejercen 'separadamente y sllsencargados no pueden
-delegarlos, ni salir de los limites que les fija Ia Gonstitucion.
-Art. 28.
-EI Poder LegisTativo se ejerce por dos
-Camaras,
-una de Representantes y otra de Senadores.
-Estos dos cuerpos
-reunidos forman e1 Congreso Nacional en los casos previstos por
-la Constitucion.
-Art. 29.
-El Poder Ejecutivo se ejerce por un Magistrado,
-denominado Pr,esidenoo de la Republica, que es el Jefe de Ia Ad·
-ministracion General.
-Art. 30.
-EI Poder Judicial se dellega a jueces arbitros, Alcal-
-des de comunes, tribunales de ,comercio, tribunalies de primera
-instancia, Consejos de guerra, y a una sola :Suprema Corte de
-Justicia.
+
+ELLA EMANAN. Art. 26. La soberania reside en la universidad de los ciudadanos, y se ejerce por tres Poderes delegadO's regun las reglas establecidus en esta Constitucion. Art. 27. Estos Poderes son: el Legislativo, el Ejecutivo y el Judicial. Son esencialmente independi,entes, responsables y tempora~,es; se ejercen 'separadamente y sllsencargados no pueden delegarlos, ni salir de los limites que les fija Ia Gonstitucion. Art. 28. EI Poder LegisTativo se ejerce por dos Camaras, una de Representantes y otra de Senadores. Estos dos cuerpos reunidos forman e1 Congreso Nacional en los casos previstos por la Constitucion. Art. 29. El Poder Ejecutivo se ejerce por un Magistrado, denominado Pr,esidenoo de la Republica, que es el Jefe de Ia Ad· ministracion General. Art. 30. EI Poder Judicial se dellega a jueces arbitros, Alcaldes de comunes, tribunales de,comercio, tribunalies de primera instancia, Consejos de guerra, y a una sola:Suprema Corte de Justicia.
 
 ### Página 6 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-511
-TITULO V.
+COLECCION DE LEYES, DECRETOS &.-1854.
+
+**TITULO V.**
+
 DE LAS ELECCIONES EN GENERAL.
-CAPITULO PRIMERO.-De las Asambleas prhnarias.
-Art.31.
-Para ser sufragante en las Asambleas primarias, es
-necesario: estar en el pleno goce de los derechos
-civiles y politi.
-cos; estar avecindado y tener su re,sidencia
-en 1a ,comun respec-
-tiva; ser propietario de bienes raices, empleado publico, orficial
-del ejercito de tierra 6 mar, patentado pOI' el ejercicio de alguna
-profesion 0 industria, profesor de alguna ciencia 6 arte liheral,
-6 arrendatario por seis anos de un establecimiento rural en actio
-vidad de cultivo.
-Art. 32.
-Las Asambleas primarias se reunen de plena de·
-r~ho, el primer Junes de Noviembre de cada ano en que deban
-ejercer las atribuciones que la Gonstitucion 6 las leyes les desig-
-nan, y en la forma que elIas estahlezcan.
-Art. 33.
-El Presidente del Ayuntamiento puhIicara e11Q• de
-Octuhre de carla ano en que dehan reunirsle las Asambleas prima-
-rias, un aviso preventivo recordando a los sufragantes e1 periodo
-de su reunion; y este mismo funcionario 6
-quien Ie r~~mplace,
-presidira 1a Asamblea hasta la eleccion del ciudadano que deba
-presidirla definitivamente.
-Art. 34.
-Son atribuciones de las Asambleas primarias:
-lQ.
-glegir el numero de EJectores que a cada comun Ie co·
-rresponda nombrar, pam formal' el Colegio El~toral de 1a-Pro-
-vincia.
-2
-Q
-• Elegir '1os Regidores que deban formal' los res'Pectivos
-Ayuntmientos.
-CAPITULO SEGUNDO.-De los Colegios Electoa:lres.
-Art. 35.
-Los Colegios Eleetorales se componen de los Elec-
-tores nomhrados POI' las Asamhleas primarias de las comunes; y
-a reserva de aumentarlos progresivamente la ley, en raZOn del in-'
-cremento de la poblacion, se fijan del modo siguiente:
-Cospost€Ja de Azua, nomhrara
-16 Electores.
-Cada una de sus comunes
-8
-Santo Domingo de Guzman
-20
-Cada una de sus comunes
-4
-Santa Cruz del Seyho.
-16
+
+**CAPITULO PRIMERO.-De las Asambleas prhnarias.** Art.31. Para ser sufragante en las Asambleas primarias, es necesario: estar en el pleno goce de los derechos civiles y politi. cos; estar avecindado y tener su re,sidencia en 1a,comun respectiva; ser propietario de bienes raices, empleado publico, orficial del ejercito de tierra 6 mar, patentado pOI' el ejercicio de alguna profesion 0 industria, profesor de alguna ciencia 6 arte liheral, 6 arrendatario por seis anos de un establecimiento rural en actio vidad de cultivo. Art. 32. Las Asambleas primarias se reunen de plena de· r~ho, el primer Junes de Noviembre de cada ano en que deban ejercer las atribuciones que la Gonstitucion 6 las leyes les designan, y en la forma que elIas estahlezcan. Art. 33. El Presidente del Ayuntamiento puhIicara e11Q• de Octuhre de carla ano en que dehan reunirsle las Asambleas primarias, un aviso preventivo recordando a los sufragantes e1 periodo de su reunion; y este mismo funcionario 6 quien Ie r~~mplace, presidira 1a Asamblea hasta la eleccion del ciudadano que deba presidirla definitivamente. Art. 34. Son atribuciones de las Asambleas primarias: lQ. glegir el numero de EJectores que a cada comun Ie co· rresponda nombrar, pam formal' el Colegio El~toral de 1a-Provincia. Q • Elegir '1os Regidores que deban formal' los res'Pectivos Ayuntmientos.
+
+**CAPITULO SEGUNDO.-De los Colegios Electoa:lres. Art. 35. Los Colegios Eleetorales se componen de los Electores nomhrados POI' las Asamhleas primarias de las comunes; y a reserva de aumentarlos progresivamente la ley, en raZOn del in-' cremento de la poblacion, se fijan del modo siguiente: Cospost€Ja de Azua, nomhrara 16 Electores. Cada una de sus comunes Santo Domingo de Guzman Cada una de sus comunes Santa Cruz del Seyho.**
 
 ### Página 7 del PDF
 
-542
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-Cada una de sus comunes
-8
-La Concepcion de la Vega
-16
-Cada una de sus comunes
-8
-Santiago de los Caballeros
-16
-La comun de Puerto de Plata
-12
-Y cada una de las demas comunes
-4
-§ unicn.
-Las cualidades necesarias para ser Elector,
-son
-las misma:o ..J.ue "e requieren para ser Representante,
-debiendo
-ademas tener su domicilio en la comun que Ie elije; y duran en
-su funcio1ll8ls tres anos.
-Art. 36.
-Los Goleg;os Electorales se l'eunen de p'Ieno dere-
-cho, en la capital de 1a Provincia, el primer lunes de Did-erobre de
-carla ano, para ejercer sus atribuciones ordinarias; y a mas tar-
-dar, un mes despues de la fecha del decreto de ,convocatoria, en las
-reuniones extraordinarias
-autorizadas por 1a Constitucion
-0
-la ley.
-Art. 37.
-Son atribuciones de los Colegios Electorales:
-19 •
-Elegir los miembros de la Camara de Representantes y
-sus suplentes.
-29 •
-Elegir los miembros de 1a Camara del Senado.
-3Q•
-Elegir e'l Presidente y Vice-Presidente de 1a Republica,
-segun las rerglas estab'lecidas en el art. 69.
-49 •
-Elegir los miembros de las respectivas Diputaciones Pro
-vinciaJes.
-.
-5Q.
-Reemplazar a todos Ios
-funcionarios cuya nominacion
-les pertenece, en los casas y segun las regTas establlecirlas por la
-Constitucion 6 la ley.
-6°.
-Formar separadamente la nomina de los individuos que,
-en sus res:pectivas Provincias, reunan las cualidades exijidas, tan-
-to para ser ministro de la Suprema Corte de Justicia, como para
-jueces de los tribunales inferiores; y que depositaran en sus res-
-p8divas Diputadones Provincia,les.
-Art. 38.
-Los Colegios Electorales no tendran corresponden-
-cia unos con otrOos, ni ejerceran atribucion alguna sin que se en-
-cuentre ila mayoria absoluta de sus miiembros; haran sus eleccio-
-. nes una a una y i€,n sesiones permanentes.
-CAPITULO TERCERO.-Disposiciones comunes a las Asam-
-bleas primarias y Co1egios Electora1es.
-Art. 39.
-Todas las eI,ecciones se haran por mayoria abs JJ.uta
-de votos y par escrutinio secreto.
+COLECCION DE LEYES, DECRETOS &.-1854. Cada una de sus comunes La Concepcion de la Vega Cada una de sus comunes Santiago de los Caballeros La comun de Puerto de Plata Y cada una de las demas comunes § unicn. Las cualidades necesarias para ser Elector, son las misma:o..J.ue "e requieren para ser Representante, debiendo ademas tener su domicilio en la comun que Ie elije; y duran en su funcio1ll8ls tres anos. Art. 36. Los Goleg;os Electorales se l'eunen de p'Ieno derecho, en la capital de 1a Provincia, el primer lunes de Did-erobre de carla ano, para ejercer sus atribuciones ordinarias; y a mas tardar, un mes despues de la fecha del decreto de,convocatoria, en las reuniones extraordinarias autorizadas por 1a Constitucion la ley. Art. 37. Son atribuciones de los Colegios Electorales: 19 • Elegir los miembros de la Camara de Representantes y sus suplentes. 29 • Elegir los miembros de 1a Camara del Senado. 3Q• Elegir e'l Presidente y Vice-Presidente de 1a Republica, segun las rerglas estab'lecidas en el art. 69. 49 • Elegir los miembros de las respectivas Diputaciones Pro vinciaJes.. 5Q. Reemplazar a todos Ios funcionarios cuya nominacion les pertenece, en los casas y segun las regTas establlecirlas por la
+
+Constitucion 6 la ley. 6°. Formar separadamente la nomina de los individuos que, en sus res:pectivas Provincias, reunan las cualidades exijidas, tanto para ser ministro de la Suprema Corte de Justicia, como para jueces de los tribunales inferiores; y que depositaran en sus resp8divas Diputadones Provincia,les. Art. 38. Los Colegios Electorales no tendran correspondencia unos con otrOos, ni ejerceran atribucion alguna sin que se encuentre ila mayoria absoluta de sus miiembros; haran sus eleccio-. nes una a una y i€,n sesiones permanentes.
+
+**CAPITULO TERCERO.-Disposiciones comunes a las Asambleas primarias y Co1egios Electora1es.** Art. 39. Todas las eI,ecciones se haran por mayoria abs JJ.uta de votos y par escrutinio secreto.
 
 ### Página 8 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-543
----
-Art. 40.
-Fuera de los casos extraordinariosen qU'8&gt; deba Nm-
-plazarse a alguno o algunos de los funcionarios cuya eleccion toea,
-ya a las Asambleas primarias, ya a los Colegios Electorales, sus
-reuniones ordil1arias deberan efectuarse en ,el ano anterior a aquel
-en que espiran los periodos Constitucionales de
-los respectivos
-cargos.
-Art. 41.
-Ni las Asambleas primarias ni los Co'legios Elec-
-torales pueden ocuparse en otro objeto que el de ,ejercer las atri-
-budones qu,e Ie estan designadas porIa Constitucion y la ley. De-
-ben disolverse tan pronto como hayan terminado sus operadones,
-cuya duracion sera fijada porIa ley.
-TITULO VI.
+COLECCION DE LEYES, DECRETOS &.-1854. Art. 40. Fuera de los casos extraordinariosen qU'8> deba Nmplazarse a alguno o algunos de los funcionarios cuya eleccion toea, ya a las Asambleas primarias, ya a los Colegios Electorales, sus reuniones ordil1arias deberan efectuarse en,el ano anterior a aquel en que espiran los periodos Constitucionales de los respectivos cargos. Art. 41. Ni las Asambleas primarias ni los Co'legios Electorales pueden ocuparse en otro objeto que el de,ejercer las atribudones qu,e Ie estan designadas porIa Constitucion y la ley. Deben disolverse tan pronto como hayan terminado sus operadones, cuya duracion sera fijada porIa ley.
+
+**TITULO VI.**
+
 DEL PODER LEJISLATIVO.
-CAPITULO PRIMERO.-De la Camara de Repl'les,entantes.
-Art. 42.
-La Camara de Representantes se compone de cinco
-Diputados POI' cada Provincia, nombrados POl' elecdon indil'ecta
-y segun las reglas establecidas.
-Se lie, nombl'ara a cada Repre-
-sentante un suplente para reemplazarle en caso de muerte, dimi-
-sion 6 destitudon.
-§ unko.
-Cuando POI' loscasos arriba expresos 81ea Hamado el
-suplente a reemplazar at titular, en la primera reunion del Cole-
-gio Ele,ctoral se Ie nombrani a este un suplente.
-Art. 43.
-Para 8er ellecto Diputado se req~re:
-19.
-Estar en el goce de los derechos civiles y politicos.
-29 •
-Haber cumplido veinte y cinco anos.
-3. Ser propietario de bienes raices.
-49 •
-Tener Sll actual residenda en el
-territorio de la Repu-
-blica.
-§ Losextrangeros naturalizados no podran &amp;er nombrados
-I'ipuUfdos Eino tr,es anos despues de su naturalizacion.
-Art. 44. Los Represeritantes del pueblo seeligen pOl' seis
-ane-s, yse r2lnuevan del modo siguiente y en dos series: la prime-
-ra renovacion sera de tres Diputados pOI' cada Provincia cada
-tres anos; y la segunda, a razon de dos y cada seis, pudiendo ser
-reelectos indefinidamente.
-Art. 45.
-La Camara de Repres,entantes se reune de pleno de-
-recho, en la Capital de la Republica, el dia 19 • de Febr,ero de cada
-ano, y se instalara luego que haya mayoda absoluta de sus miem-
+
+**CAPITULO PRIMERO.-De la Camara de Repl'les,entantes. Art. 42. La Camara de Representantes se compone de cinco Diputados POI' cada Provincia, nombrados POl' elecdon indil'ecta y segun las reglas establecidas. Se lie, nombl'ara a cada Representante un suplente para reemplazarle en caso de muerte, dimision 6 destitudon. § unko. Cuando POI' loscasos arriba expresos 81ea Hamado el suplente a reemplazar at titular, en la primera reunion del Colegio Ele,ctoral se Ie nombrani a este un suplente. Art. 43. Para 8er ellecto Diputado se req~re: 19. Estar en el goce de los derechos civiles y politicos. 29 • Haber cumplido veinte y cinco anos. 3. Ser propietario de bienes raices. 49 • Tener Sll actual residenda en el territorio de la Republica. § Losextrangeros naturalizados no podran &er nombrados I'ipuUfdos Eino tr,es anos despues de su naturalizacion. Art. 44. Los Represeritantes del pueblo seeligen pOl' seis ane-s, yse r2lnuevan del modo siguiente y en dos series: la primera renovacion sera de tres Diputados pOI' cada Provincia cada tres anos; y la segunda, a razon de dos y cada seis, pudiendo ser reelectos indefinidamente. Art. 45. La Camara de Repres,entantes se reune de pleno derecho, en la Capital de la Republica, el dia 19 • de Febr,ero de cada ano, y se instalara luego que haya mayoda absoluta de sus miem-**
 
 ### Página 9 del PDF
 
-544
-COLECCION DE :r-EYES, DECRETOS &amp;.-1854.
-bros; duranin sus sesiones noventa dias, prorrogabllets
-treinta
-mas en caso necesario, a juicio y por disposicion del Congl'eso 0
-a peticion del Poder Ejecutivo.
-Art. 46.
-La Camara de Representantes tiene, como cl Po-
-der Ejecutivo y el Senado, la iniciativa de todas las leyes; y ex-
-dusivamente las relativas a los impuestos ~n general, a 1a guar-
-dia nacional, a la de elecciones, a 1a de responsabilidad de los Se-
-cretarios de Estado y demasagentes del Poder Ejecutivo
-§ unico.
-Toda ley sobre estas materias se iniciara y votara
-desde luego por la Camara de RepresentantleiS.
-Art. 47.
-Ademas de las funciones legislaiivas de 1a Camara
-de Representantes, ,sonatribuciones peculiaoos de ella:
-19 •
-Examinar la cuenta anual que debera presentar a1 Con-
-greso el Poder Ejecutivo, sobre la recaudacion e inversion de los
-fondos publicos.
-29 •
-Oir las acusaciones que se Ie dirijan en los casos previs-
-tos por esta Constitucion, contra el encargado del Poder Ejecuti-
-YO, los Seclietarios de Estado y los ministros de la Suprema Cor-
-te de J usticia.
-3Q•
-Oir la,s acusaciones que puedan dirijirsele en virtud del
-art. 22, contra todos los empleados publicos por hechos de su ad-
-ministracion.
-49•
-Presentar a1 Senado candidatos para ministros de
-la
-Suprema Corte de Justicia y jueces de 108 tribunales de comercio,
-que es'cojera entre laslistas formadas por los Co1egios Electora-
-les, a razon de tres por carla uno que haya de nombrarse.
-5Q•
-Denunciar ante el Senado a1 Presidiente y
-Vice-Presi-
-dente de la Republica, a los Secretarios de Estado, y a los minis-
-tros de la Suprema Corte de Justicia, por cualquiera infraccion a
-la Constitucion 0 a las leyes, por malVle:rsacion 6 crimenes de Es-
-tado, ya sea de ofido, 6 como organo de las denuncias de los ciu-
-dadanos legalmente apoyadas.
-CAPITULO SEGUNDO.-Del Senado.
-Art. 48.
-La Camara del Senado se compone de dos Senado-
-res por cada una de las Provincias que halla en la Republica.
-Se
-eligen pair los mismos Ci'legios Electorales Q...ue nombran a los Re-
-presentantes, duran en su destino seis anos, se l'Ienuevan integral-
-mente, y pueden ser reelectos indefinidamente.
-Art. 49.
-Para se,r elegido Senadorse requiere:
+COLECCION DE:r-EYES, DECRETOS &.-1854. bros; duranin sus sesiones noventa dias, prorrogabllets treinta mas en caso necesario, a juicio y por disposicion del Congl'eso 0 a peticion del Poder Ejecutivo. Art. 46. La Camara de Representantes tiene, como cl Poder Ejecutivo y el Senado, la iniciativa de todas las leyes; y exdusivamente las relativas a los impuestos ~n general, a 1a guardia nacional, a la de elecciones, a 1a de responsabilidad de los Secretarios de Estado y demasagentes del Poder Ejecutivo § unico. Toda ley sobre estas materias se iniciara y votara desde luego por la Camara de RepresentantleiS. Art. 47. Ademas de las funciones legislaiivas de 1a Camara de Representantes,,sonatribuciones peculiaoos de ella: 19 • Examinar la cuenta anual que debera presentar a1 Congreso el Poder Ejecutivo, sobre la recaudacion e inversion de los fondos publicos. 29 • Oir las acusaciones que se Ie dirijan en los casos previstos por esta Constitucion, contra el encargado del Poder Ejecuti- YO, los Seclietarios de Estado y los ministros de la Suprema Corte de J usticia. 3Q• Oir la,s acusaciones que puedan dirijirsele en virtud del art. 22, contra todos los empleados publicos por hechos de su administracion. 49• Presentar a1 Senado candidatos para ministros de la Suprema Corte de Justicia y jueces de 108 tribunales de comercio, que es'cojera entre laslistas formadas por los Co1egios Electorales, a razon de tres por carla uno que haya de nombrarse. 5Q• Denunciar ante el Senado a1 Presidiente y Vice-Presidente de la Republica, a los Secretarios de Estado, y a los ministros de la Suprema Corte de Justicia, por cualquiera infraccion a la Constitucion 0 a las leyes, por malVle:rsacion 6 crimenes de Estado, ya sea de ofido, 6 como organo de las denuncias de los ciudadanos legalmente apoyadas.
+
+**CAPITULO SEGUNDO.-Del Senado.** Art. 48. La Camara del Senado se compone de dos Senadores por cada una de las Provincias que halla en la Republica. Se eligen pair los mismos Ci'legios Electorales Q...ue nombran a los Representantes, duran en su destino seis anos, se l'Ienuevan integralmente, y pueden ser reelectos indefinidamente. Art. 49. Para se,r elegido Senadorse requiere:
 
 ### Página 10 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1852
-545
-1Q.
-Estar en el goee de-los dererhos civiles y politicos.
-2\'.
-Haber cumplido treinta anos.
-3".
-Ser propietario de bienes raices.
-4\'.
-Tener su domicilio en la Provincia que 10 i€tlige.
-§ Los €xtrangeros naturalizados no podrim ser miembros de
-&amp;Sta Camara, sino cinco anos despues de su naturalizacion.
-Art. 50.
-En caso de muerte, dimision 6 destitucion de
-un
-miembro del Senado, la Camara de Repres,entantes prooede it su
-reemplazo, eIijiendo individuo que reuna todas
-laseualidades
-exijidas ene! art. que antecede; pero e1 nuevamentle eJecto
-solo
-ejercera ese cargo pOI' el tiempo que faltaba para cumplir su pe-
-riodo al miembro a quien reemplaza.
-Art. 51.
-La Camara del Senado abre y eierra sus sesiones
-legislativas, quince dias a mas tardar despues que la de los Repre-
-sentantes.
-Toda reunion legis'lativa del Senado, fuera de
-este
-tiempo, es nula de derecho.
-Art. 52.
-Son atribuciones del Senado :
-1°. Sancionar las lleyes que tengan origen en una y otra Ca-
-mara, con la siguiente formula: "Comuniquese al Poder Ejecuti-
-vo para su promulgacion y ejecucion".
-2".
-Suspender la sandon de las leyes acordadas porIa Ca-
-mara de Representantes, y hacer las observaciones
-que juzgue
-oportunas,en los terminos que mas adelante se establecen.
-3".
-Proponer a la Camara de Represe-ntantes proyectos de
-ley, sobre aquellas materias en que este no tiene la iniciativa ex-
-clusivamente.
-4",
-Decretal' de aeusacion al Presidente, Vice-Presidente de
-la R-epublica y a los Secretarios de Estado, en virtud de la denun-
-da heeha porIa Ca:'"'Jara de Representantes, en
-caso que laen-
-cue-ntre fundada.
-Este decreto produce la suspension del aeusado
-del ejercicio de sus funciones.
-59.
-Elegir los jueces de la Suprema Corte de Justida y de
-los tribunales de comereio, entre los candidatos presentados POl'
-;a Camara de Representantes, pudiendo pedir POI' earla juez que
-haya de nombrar, otra terna ademas de la propue-sta pOI' esta; ad-
-mitir sus renuncias, y juzgaI11es en los casos previstos par la Cons
-titucion.
-69 •
-Df ldir las cuestiones que puedan suscitarsie entre ,las
-wmunes y T'ioderes del Estado.
-7,'. :r .~star 6 negar su consentimiento para el aseenso de los
-oficial€~ cuperiores del ejercito de tierra y mar, desde coronel
+COLECCION DE LEYES, DECRETOS &.-1852 1Q. Estar en el goee de-los dererhos civiles y politicos. 2\'. Haber cumplido treinta anos. 3". Ser propietario de bienes raices. 4\'. Tener su domicilio en la Provincia que 10 i€tlige. § Los €xtrangeros naturalizados no podrim ser miembros de &Sta Camara, sino cinco anos despues de su naturalizacion. Art. 50. En caso de muerte, dimision 6 destitucion de un miembro del Senado, la Camara de Repres,entantes prooede it su reemplazo, eIijiendo individuo que reuna todas laseualidades exijidas ene! art. que antecede; pero e1 nuevamentle eJecto solo ejercera ese cargo pOI' el tiempo que faltaba para cumplir su periodo al miembro a quien reemplaza. Art. 51. La Camara del Senado abre y eierra sus sesiones legislativas, quince dias a mas tardar despues que la de los Representantes. Toda reunion legis'lativa del Senado, fuera de este tiempo, es nula de derecho. Art. 52. Son atribuciones del Senado: 1°. Sancionar las lleyes que tengan origen en una y otra Camara, con la siguiente formula: "Comuniquese al Poder Ejecutivo para su promulgacion y ejecucion". 2". Suspender la sandon de las leyes acordadas porIa Camara de Representantes, y hacer las observaciones que juzgue oportunas,en los terminos que mas adelante se establecen. 3". Proponer a la Camara de Represe-ntantes proyectos de ley, sobre aquellas materias en que este no tiene la iniciativa exclusivamente. 4", Decretal' de aeusacion al Presidente, Vice-Presidente de la R-epublica y a los Secretarios de Estado, en virtud de la denunda heeha porIa Ca:'"'Jara de Representantes, en caso que laencue-ntre fundada. Este decreto produce la suspension del aeusado del ejercicio de sus funciones. 59. Elegir los jueces de la Suprema Corte de Justida y de los tribunales de comereio, entre los candidatos presentados POl';a Camara de Representantes, pudiendo pedir POI' earla juez que haya de nombrar, otra terna ademas de la propue-sta pOI' esta; admitir sus renuncias, y juzgaI11es en los casos previstos par la Cons titucion. 69 • Df ldir las cuestiones que puedan suscitarsie entre,las wmunes y T'ioderes del Estado. 7,'.:r.~star 6 negar su consentimiento para el aseenso de los oficial€~ cuperiores del ejercito de tierra y mar, desde coronel
 
 ### Página 11 del PDF
 
-546
-COLECCION DE I.EYES, DECRETOS &amp;.-1854.
-inclusive, cuandolo solicite el Poder Ejecutivo, can indicacion de
-los meritos y servicios del individuo propnesto.
-CAPITULO TERCERO.-Disposiciones comunes a
-ambas Camaras.
-Art. 53.
-La Capital es el as,iento de los Cuerpos Colegis'la-
-dores.
-Sin embargo, iel Congreso podra,en circunstancias extra-
-ordinarias, decretal' y designar otro lugar para las sesiones legis-
-lativas.
-Los miembros de los doS' Cuerpos
-representan la Na-
-cion, y no unicamente la Provincia que los ha elegido.
-Art. 54.
-Exoepto cuando se reunen en Congreso, cada Ca-
-mara tiene su local particular; verifiea los poderes de sus miem-
-bros y decide las dfficultades a que puedan dar lugar.
-Nombra
-los empleados de sus respectivas mesas, en la forma y pOl' lEI tiem- .
-po estipulado en su reglamento int,erior; tiene Ila facuItad exclusi-
-va de panel' a sus miembrosen €stado de acusadon, de compeler
-a los aUBentes a que concurran a la Camara, y de admitir sus re-
-nuncias.
-ArregLa todo 10 r·elativo asu policia interior, y juzga y
-castiga de la manera que determinen sus reglamentos, tanto a sus
-prapias miembros, como a los que los infrinjan dentI·o del recin-
-to de sus sesiones.
-Art. 55.
-No pueden ser Rep11e,sentantes ni
-S~ma"dore·s: el
-Presidente y Viee-Presidente de la Reptlblica; los Secretario'S de
-Estado; ,los minishos de la Suprema Corte de Justicia, ni su fis-
-cal; los Gobernadol'es Politicos; ni a la vez miembros de las dos
-Camaras, un mismo individuo, siendo incompatible el ejercicio
-de cuaJ.quiera funci6n pliblica can la de
-R~presentantJe!s y Sena-
-dol', durante las sesiones.
-Art. 56.
-Las sesiones son publcias; sin embargo, a petidon
-de seis miembros en la Camara de Representantes, de dOB en la
-del Senado, y de ocho -en el Congreso, se podd deliberar secreta-
-mente; pero la mayoria decide en seguida si se debe dar publici-
-dad a1a materia que ha sido objeto de 1a s€sion.
-Art.
-57.
-Los Cuerpos Colegisladores no pueden tamar re-
-Siolucion alguna sin que se eneuentre preSiente la mayoria abso-
-luta de sus miembros.
-Los dos t-ereios de los miembros preg,entes
-de cada Camara, forman la mayoria
-para todo acuerdo concer-
-nientJe a las leyes,sin perjukio de 10 que determinenen Sill regla-
-IDiento interior, aeerca de las elecciones y demas atribuciones.
-En easo &lt;;Ie empate, se rechaza la proposicion encuestion.
+COLECCION DE I.EYES, DECRETOS &.-1854. inclusive, cuandolo solicite el Poder Ejecutivo, can indicacion de los meritos y servicios del individuo propnesto.
+
+**CAPITULO TERCERO.-Disposiciones comunes a ambas Camaras.** Art. 53. La Capital es el as,iento de los Cuerpos Colegis'ladores. Sin embargo, iel Congreso podra,en circunstancias extraordinarias, decretal' y designar otro lugar para las sesiones legislativas. Los miembros de los doS' Cuerpos representan la Nacion, y no unicamente la Provincia que los ha elegido. Art. 54. Exoepto cuando se reunen en Congreso, cada Camara tiene su local particular; verifiea los poderes de sus miembros y decide las dfficultades a que puedan dar lugar. Nombra los empleados de sus respectivas mesas, en la forma y pOl' lEI tiem-. po estipulado en su reglamento int,erior; tiene Ila facuItad exclusiva de panel' a sus miembrosen €stado de acusadon, de compeler a los aUBentes a que concurran a la Camara, y de admitir sus renuncias. ArregLa todo 10 r·elativo asu policia interior, y juzga y castiga de la manera que determinen sus reglamentos, tanto a sus prapias miembros, como a los que los infrinjan dentI·o del recinto de sus sesiones. Art. 55. No pueden ser Rep11e,sentantes ni S~ma"dore·s: el Presidente y Viee-Presidente de la Reptlblica; los Secretario'S de Estado;,los minishos de la Suprema Corte de Justicia, ni su fiscal; los Gobernadol'es Politicos; ni a la vez miembros de las dos Camaras, un mismo individuo, siendo incompatible el ejercicio de cuaJ.quiera funci6n pliblica can la de R~presentantJe!s y Senadol', durante las sesiones. Art. 56. Las sesiones son publcias; sin embargo, a petidon de seis miembros en la Camara de Representantes, de dOB en la del Senado, y de ocho -en el Congreso, se podd deliberar secretamente; pero la mayoria decide en seguida si se debe dar publicidad a1a materia que ha sido objeto de 1a s€sion. Art. 57. Los Cuerpos Colegisladores no pueden tamar re- Siolucion alguna sin que se eneuentre preSiente la mayoria absoluta de sus miembros. Los dos t-ereios de los miembros preg,entes de cada Camara, forman la mayoria para todo acuerdo concernientJe a las leyes,sin perjukio de 10 que determinenen Sill regla- IDiento interior, aeerca de las elecciones y demas atribuciones. En easo <;Ie empate, se rechaza la proposicion encuestion.
 
 ### Página 12 del PDF
 
-COLE(s~ioN DE LEtEs, bECRETO§ &amp;.-1854.
-547
-Art. 58.
-Todo proyecto de ley tendril su primera discusion
-en la Camara de 'su odgen, '.i no podra ser 3Idoptado sin haMrse1e
-dado tres Iectums, con intervalo de dos dias francos, de una a
-otra, y de hahers,e saneionado en la u'ltimacada uno de sus articu-
-los 'en particular.
-Art. 59.
-Todo proyecto de ley adoptado POl' uno de 1081 Cuer-
-pos Colegisladores, expresara. el haberse cumplido con las £01'-
-malidades a que se refiere el articulo pl'lecedente, para que pue-
-da ser admitido a discusi6n pOI' el otro Cuerpo.
-Sin
-embargo,
-cuando el proyectosea declarado de
-urgencia porIa mayoria de
-la Camara de Repr,esentantes, podra este omitirlas; pero :el Se-
-I,ado puede 6 no aprobar la urgencia, y devolverselo para que 10
-discuta en la forma ordinaria.
-Art. 60.
-Todo proyecto de l:eyacordad6 porIa Camara de
-Represent2.ntes, s,era enviado a'l Senado para su sancion; si estlf:
-nc Ie adopta, Ie devolV{~ra can sus objeciones, adiciones 6 modifi-
-caciones a la Camara de su odgen, la que 10 discutira de nuevo,
-'3i no las tama en consideracion y las desecha, volvera el proyec-
-to al Senado; si este persiste en las objeciones
-desechadas,
-se
-sometera ]a discusion 311 Congreso, que convoncara 311 efecto, den-
-tra de veinte y cuatro horas, al Presidente del Senado.
-Las mismas formalidades se observanin respecto a los pr&lt;J'
-yectos de ley que emanen del Senado.
-Art. 61.
-Los CU'erpos Colegisladores tienen el dereeho
-de
-dividir y adicionar los articulos propuestos.
-Art.
-62.
-El Senado ejerce el dereeho de objecion para los
-pruyectD's de ley acordados pOl' urgenciaen la Camara de Repre-
-sentantss, dentro de dos dias; y dentro de diez, induso 'lQS feria-
-dos, para la's demas leyes; sin embargo, si la sesion Legislativ::l
-se eerrase antes de la espiradon deeste ultimo termino, la 'ley
-quedara en re,ceso.
-.
-Art. 63.
-Ningun proyecto de ley 6 decreto, aunque sea 2.'
-probado POI' ambas Camaras, tendra fuerza de ~ey mientras no
-tenga ,el d€creto de ejecucion del Pader Ejecutivo, 311 que sera re-
-mitido oficialmente POl' el Presidente dl Senado para su promul·
-gacion dentro del termino Constitudonal.
-Si el Poder Ejecutiv1)
-devolvies'e el proy-ecto con las obs'ervaciones que esta facultado j
-heaer, el Presidente del Senado convocara dentro de veinte yeu::-
-tro horas el Congreso, donde se Ie dara un nuevo d{lhate, teniendl
-a la vista las observadones.
-E1 resuTtado de este pasara de nUE-
-vo al Ejecutivo para suejecucion, que no podra rehusar.
-Art. 64.
-Los proyectos de ley rechazados
-POl' los Cuerpod
+COLE(s~ioN DE LEtEs, bECRETO§ &.-1854. Art. 58. Todo proyecto de ley tendril su primera discusion en la Camara de 'su odgen, '.i no podra ser 3Idoptado sin haMrse1e
+
+dado tres Iectums, con intervalo de dos dias francos, de una a otra, y de hahers,e saneionado en la u'ltimacada uno de sus articulos 'en particular. Art. 59. Todo proyecto de ley adoptado POl' uno de 1081 Cuerpos Colegisladores, expresara. el haberse cumplido con las £01'malidades a que se refiere el articulo pl'lecedente, para que pueda ser admitido a discusi6n pOI' el otro Cuerpo. Sin embargo, cuando el proyectosea declarado de urgencia porIa mayoria de la Camara de Repr,esentantes, podra este omitirlas; pero:el Se- I,ado puede 6 no aprobar la urgencia, y devolverselo para que 10 discuta en la forma ordinaria. Art. 60. Todo proyecto de l:eyacordad6 porIa Camara de Represent2.ntes, s,era enviado a'l Senado para su sancion; si estlf: nc Ie adopta, Ie devolV{~ra can sus objeciones, adiciones 6 modificaciones a la Camara de su odgen, la que 10 discutira de nuevo, '3i no las tama en consideracion y las desecha, volvera el proyecto al Senado; si este persiste en las objeciones desechadas, se sometera ]a discusion 311 Congreso, que convoncara 311 efecto, dentra de veinte y cuatro horas, al Presidente del Senado. Las mismas formalidades se observanin respecto a los pr<J' yectos de ley que emanen del Senado. Art. 61. Los CU'erpos Colegisladores tienen el dereeho de dividir y adicionar los articulos propuestos. Art. 62. El Senado ejerce el dereeho de objecion para los pruyectD's de ley acordados pOl' urgenciaen la Camara de Representantss, dentro de dos dias; y dentro de diez, induso 'lQS feriados, para la's demas leyes; sin embargo, si la sesion Legislativ::l se eerrase antes de la espiradon deeste ultimo termino, la 'ley quedara en re,ceso.. Art. 63. Ningun proyecto de ley 6 decreto, aunque sea 2.' probado POI' ambas Camaras, tendra fuerza de ~ey mientras no tenga,el d€creto de ejecucion del Pader Ejecutivo, 311 que sera remitido oficialmente POl' el Presidente dl Senado para su promul· gacion dentro del termino Constitudonal. Si el Poder Ejecutiv1) devolvies'e el proy-ecto con las obs'ervaciones que esta facultado j heaer, el Presidente del Senado convocara dentro de veinte yeu::tro horas el Congreso, donde se Ie dara un nuevo d{lhate, teniendl a la vista las observadones. E1 resuTtado de este pasara de nUEvo al Ejecutivo para suejecucion, que no podra rehusar. Art. 64. Los proyectos de ley rechazados POl' los Cuerpod
 
 ### Página 13 del PDF
 
-!.48
-COLECClrJN DE LE f ES, bReRklos &amp;.
-l~M.
----------------------------------
-Colegisladores 6 por el Congreso, no podran ser reproducidos en
-la misma sesion; pero alguno 6 algunos de sus articuloLS pueden
-haeer parte de otro proy'edo que se'somerta en la misma sesion.
-Art. 65.
-Las peticiones que se sometan a cualquiera de las
-Camaras seran depositadas en sus respeetivas mesas, y cada una
-de eHas tiene el derecho de pasar a los Seeretarios de Estado las
-que se Ie dirijan, y de pedirles' iilformes 6 ac:laraciones sobre sus
-eontenidos.
-Art. 66.
-Los miembros de ambas Camaras son
-absoluta-
-mente irresponsahles, por las opiniones y votos que emitan den-
-tro de las Camaras; ,en el ejercicio de sus funciones gozan de in-
-munidad en sus personas, durante las sesiones, mientras van a
-eDla,s y vuelven a sus domicilios, euyos terminos seran de quine(f
-dias.
-En ningun caso podran ser arrestados ni procesados, du-
-rante su diputaeion, it no ser haHad08 en flagrante delito, sin per.
-miso de su respeetivo cuerpo; y de serlo, no se procedeni a juicio
-sin previa 'autorizacion de su respectiva Camara.
-CAPITULO CUARTO.-Del Congreso y sus atribuciones.
-Art. 67.
-EI Congreso Nacional se reune cada vez que asi 10
-exija la naturaleza de sus atribuciones.
-EI Presidente del Sena-
-do 10 es del Congreso, y ei que preside la Camara de Representan-
-tes esel ViC€~Presidente. Los Secretarios de ambos Cuerpos 10
-son del Congreso.
-§ unico.
-Al Presidente del Senado toea la convoeacion
-del
-Congreso; en consecuencia, a el deberan dirijirse el Poder Eje-
-eutivo 6 1a Camara de Representantes, para que Ie convoque, se-
-ilalando aquel e:llocal, dia, hora y motivo de la reunion.
-En nin-
-gun caso podra negar la convocatoria.
-Art. 68.
-Ademas de decretar la legislacion civil y criminal,
-y cuanto sea necesario al bien estar de la Nacion, son atribucio-
-nes del Congreso:
-1°.
-Ve-rificar las aetas de eleccion del Presidente y Vice-Pre-
-sidente de la Republica, computar los votos, perfeccionar la elec-
-don de estos funcionarios en los casos previstos por el art. 69, ya
-sea en consecuencia del escrutinio €!lectoral, ya en virtud del que
-haga el Congresoen loscasos que la Constitucion Ie da esta fa-
-cuItad, proclamarles, recibirles juramento antes de entrar en el
-ejercicio de sus funciones, y admitides sus renuncias.
-. 2°.
-Juzgar al Presidente y Vice-Presidente de la Republica,
-por crimenes de Estado, por causas de
-responsabilidad,
-y por
+!.48 COLECClrJN DE LE f ES, bReRklos &. l~M. Colegisladores 6 por el Congreso, no podran ser reproducidos en la misma sesion; pero alguno 6 algunos de sus articuloLS pueden haeer parte de otro proy'edo que se'somerta en la misma sesion. Art. 65. Las peticiones que se sometan a cualquiera de las Camaras seran depositadas en sus respeetivas mesas, y cada una de eHas tiene el derecho de pasar a los Seeretarios de Estado las que se Ie dirijan, y de pedirles' iilformes 6 ac:laraciones sobre sus eontenidos. Art. 66. Los miembros de ambas Camaras son absolutamente irresponsahles, por las opiniones y votos que emitan dentro de las Camaras;,en el ejercicio de sus funciones gozan de inmunidad en sus personas, durante las sesiones, mientras van a eDla,s y vuelven a sus domicilios, euyos terminos seran de quine(f dias. En ningun caso podran ser arrestados ni procesados, durante su diputaeion, it no ser haHad08 en flagrante delito, sin per. miso de su respeetivo cuerpo; y de serlo, no se procedeni a juicio sin previa 'autorizacion de su respectiva Camara.
+
+**CAPITULO CUARTO.-Del Congreso y sus atribuciones.** Art. 67. EI Congreso Nacional se reune cada vez que asi 10 exija la naturaleza de sus atribuciones. EI Presidente del Senado 10 es del Congreso, y ei que preside la Camara de Representantes esel ViC€~Presidente. Los Secretarios de ambos Cuerpos 10 son del Congreso. § unico. Al Presidente del Senado toea la convoeacion del Congreso; en consecuencia, a el deberan dirijirse el Poder Ejeeutivo 6 1a Camara de Representantes, para que Ie convoque, seilalando aquel e:llocal, dia, hora y motivo de la reunion. En ningun caso podra negar la convocatoria. Art. 68. Ademas de decretar la legislacion civil y criminal, y cuanto sea necesario al bien estar de la Nacion, son atribuciones del Congreso: 1°. Ve-rificar las aetas de eleccion del Presidente y Vice-Presidente de la Republica, computar los votos, perfeccionar la elecdon de estos funcionarios en los casos previstos por el art. 69, ya sea en consecuencia del escrutinio €!lectoral, ya en virtud del que haga el Congresoen loscasos que la Constitucion Ie da esta facuItad, proclamarles, recibirles juramento antes de entrar en el ejercicio de sus funciones, y admitides sus renuncias.. 2°. Juzgar al Presidente y Vice-Presidente de la Republica, por crimenes de Estado, por causas de responsabilidad, y por
 
 ### Página 14 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-54'
-cUMquiera infraccion a 1a COllstitucion 0 a las 1eyes, previa e'
-decreto de acusacion, dado pore1 Senado.
-3".
-Votar anualmente los gastos publicos, en vista de lac
-presupuestos que Ie pres'ente el Poder Ejecutivo.
-49 •
-Decretar 10 conveniente para 1a aoministracion, fructi-
-ficacion, conservacion y enagenacion de los bienes nacionales.
-59.
-Contraer deudas sobreel credito de la Nacion, y decre-
-tar el establecimiento de un Banco Nadonal.
-69 •
-Determinar y uniformar e1 valor, peso, tipo, ley y nom-
-bre de la moneda, sin que esta pueda illevar el busto de
-person~'.
-a1guna; y fijar e1 valor de 1a extrangera.
-7').
-Fijar y uniformar el padron de pesas y medidas.
-89 •
-Decretal' 1a ereaeion y supresion de los emp1eos publi-
-cos, no fijados porIa Constitucion, sefialar1es sueldos', disminuir·
-los 6 aumentarlos.
-99 • Interpretar las 1eyes, en caso de duda ii oscuridad, sus-
-penderlas y revocarlas.
-10.
-Decretar la guerra ofensiva, en vista de los motivos qu;
-Ie presente el Poder Ejecutivo, y requerirle para que negocieL
-paz, cuando fuere necesario.
-11.
-PrestaI' 6 negar su consentimiento a los tratados de paz.
-alianza, de amistad, de neutralidad, de comercio, y
-cua1quierc
-otro que celebre e'l Poder Ejecutivo: ninguno tendra efecto sini.
-en virtud desu aprobacion.
-12. Crear y promover par 1eY'€'S laeducacion publica, el pro-
-greso de las ciencias, artes y establecimientoSt'de utilidad comun.
-13.
-En favor de 1a humanidad, ycuando Iloexija un grav
-motivo, eonmutar la pena capital, en virtud de ape1acion a
-SL
-gracia, 1a eual produce suspension de la ejecucion.
-14.
-Conceder indultos y amnistias particulares, can las ex-
-cepciones que el interes de la sociedad y privado exijen: en nin-
-gun caso podra coneederlos par crimenes atroc'es.
-15.
-Cuando 10 crea conveniente,conceder al Poder Ejecuti
-volas facultades extraordinarias que
-juzgue
-necesarias Ipar:
-mantent),r la seguridad del Estado, deta1'landolas en cuanto sea pc
-sible, y limitando el tiempo en que deba us,ar de eUas.
-16.
-Autorizar al Pader Ejecutivo, en circunstancias unica
-yapremiantes, para la traslacion del Gobierno a otro lugar.
-17.
-Reveer y dirimir lIas discordancias de opiniones 6 raze·
-nes particulares de 'las dos Camaras, acerca de las leyes y las oL
-servaciones que pueda hacer el Poder Ejecutivo: en ~Il debate l'
-seguiran las reglas establecidas de discutir y sancionar artfcul
+COLECCION DE LEYES, DECRETOS &.-1854. 54' cUMquiera infraccion a 1a COllstitucion 0 a las 1eyes, previa e' decreto de acusacion, dado pore1 Senado. 3". Votar anualmente los gastos publicos, en vista de lac presupuestos que Ie pres'ente el Poder Ejecutivo. 49 • Decretar 10 conveniente para 1a aoministracion, fructificacion, conservacion y enagenacion de los bienes nacionales. 59. Contraer deudas sobreel credito de la Nacion, y decretar el establecimiento de un Banco Nadonal. 69 • Determinar y uniformar e1 valor, peso, tipo, ley y nombre de la moneda, sin que esta pueda illevar el busto de person~'. a1guna; y fijar e1 valor de 1a extrangera. 7'). Fijar y uniformar el padron de pesas y medidas. 89 • Decretal' 1a ereaeion y supresion de los emp1eos publicos, no fijados porIa Constitucion, sefialar1es sueldos', disminuir· los 6 aumentarlos. 99 • Interpretar las 1eyes, en caso de duda ii oscuridad, suspenderlas y revocarlas. 10. Decretar la guerra ofensiva, en vista de los motivos qu; Ie presente el Poder Ejecutivo, y requerirle para que negocieL paz, cuando fuere necesario. 11. PrestaI' 6 negar su consentimiento a los tratados de paz. alianza, de amistad, de neutralidad, de comercio, y cua1quierc otro que celebre e'l Poder Ejecutivo: ninguno tendra efecto sini. en virtud desu aprobacion. 12. Crear y promover par 1eY'€'S laeducacion publica, el progreso de las ciencias, artes y establecimientoSt'de utilidad comun. 13. En favor de 1a humanidad, ycuando Iloexija un grav motivo, eonmutar la pena capital, en virtud de ape1acion a SL gracia, 1a eual produce suspension de la ejecucion. 14. Conceder indultos y amnistias particulares, can las excepciones que el interes de la sociedad y privado exijen: en ningun caso podra coneederlos par crimenes atroc'es. 15. Cuando 10 crea conveniente,conceder al Poder Ejecuti volas facultades extraordinarias que juzgue necesarias Ipar: mantent),r la seguridad del Estado, deta1'landolas en cuanto sea pc sible, y limitando el tiempo en que deba us,ar de eUas. 16. Autorizar al Pader Ejecutivo, en circunstancias unica yapremiantes, para la traslacion del Gobierno a otro lugar. 17. Reveer y dirimir lIas discordancias de opiniones 6 raze· nes particulares de 'las dos Camaras, acerca de las leyes y las oL servaciones que pueda hacer el Poder Ejecutivo: en ~Il debate l' seguiran las reglas establecidas de discutir y sancionar artfcul
 
 ### Página 15 del PDF
 
-550
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-por articulo, y la votacion 's-era nominal, expres{mdose en e,l ~ta
-al voto afirmativo 6 negativo de cada individuo. lSi no fuere acor
-dada por las dos terceras partes de sus miembros, la ley quedara
-en receso.
-18.
-Prorrogar 6 no las sesiones ordinarias del Cuerpo Le-
-gislativo, a petic-ion de la Camara de Representantes, 6 del Poder
-Legislativo.
-19.
-Decidir defintivamente las diferencias entre las diver-
-sas Diputaciones, Ayuntamientos y el Gobierno.
-20.
-Decretar todo 10 relativo al comercio extrangero, puer-
-too de importacion y exportacion, eaminos, division, deslinde de
-~as Provincias y comunes &gt;entre 'sf y su creacion 6 supresion.
-21.
-Determinar 10 conveniente sobre Ia formaeion peri6dica
-de la estadfstica general de la Republica.
-22.
-Decretar todo 10 relativo a la inmigracion y naturali··
-acion de extrang~ros.
-23.
-Conceder privilegios exclusivos
-par limitado
-tiempo,
-premio y otras venta.ias e indemnizaciones para objetos de utili-
-dad general, reconocida y justificada; pero sin que estas tengan
-un caracter de· monopolio ni provincia1fsmo.
-24.
-Decretal' Ia creaeion 6 supresion de tribunales y juz-
-gados en las Provincias y corounes, que no hayan sido estableci-
-das porIa Constitucion.
-25.
-En tiempo de paz, fijar la fuerza armada permanente.
-26.
-Decretar e1 servicio y movjil:izacion de las guardias na-
-donales.
-.
-27.
-Conceder premios y recompensas particulares a los que
-haY8ln hecho 6 hicieren eminentes servicios. a Ia Patria, y a los
-que se distingan por su civismo.
-28.
-Decretar honores publicos a la memoria de los grandes
-servidores del Estado.
-29.
-Elegir'los Arzobispos y Obispos de la Republica.
-30.
-Heunirse de pleno derecho en 'las epocas de eleeciones
-o:r:dinarias de Presidente y Vice-Presidente de la Hepublica el
-dia quince de Enero.
-31.
-Usar en Ila's leyes y decretos de la siguiente
-formula:
-"EI Senado y Camara de Repres·entantes reunidos en Congr/€lSo.-
-En nombre de Ia Republica Dominieana.-Decretan".
-32.
-Revisar, adicionar y reformar la Constitucion del Es-
-tado en ]a forma y manera en '€Jla prevista.
+COLECCION DE LEYES, DECRETOS &.-1854. por articulo, y la votacion 's-era nominal, expres{mdose en e,l ~ta al voto afirmativo 6 negativo de cada individuo. lSi no fuere acor
+
+dada por las dos terceras partes de sus miembros, la ley quedara en receso. 18. Prorrogar 6 no las sesiones ordinarias del Cuerpo Legislativo, a petic-ion de la Camara de Representantes, 6 del Poder Legislativo. 19. Decidir defintivamente las diferencias entre las diversas Diputaciones, Ayuntamientos y el Gobierno. 20. Decretar todo 10 relativo al comercio extrangero, puertoo de importacion y exportacion, eaminos, division, deslinde de ~as Provincias y comunes >entre 'sf y su creacion 6 supresion. 21. Determinar 10 conveniente sobre Ia formaeion peri6dica de la estadfstica general de la Republica. 22. Decretar todo 10 relativo a la inmigracion y naturali·· acion de extrang~ros. 23. Conceder privilegios exclusivos par limitado tiempo, premio y otras venta.ias e indemnizaciones para objetos de utilidad general, reconocida y justificada; pero sin que estas tengan un caracter de· monopolio ni provincia1fsmo. 24. Decretal' Ia creaeion 6 supresion de tribunales y juzgados en las Provincias y corounes, que no hayan sido establecidas porIa Constitucion. 25. En tiempo de paz, fijar la fuerza armada permanente. 26. Decretar e1 servicio y movjil:izacion de las guardias nadonales.. 27. Conceder premios y recompensas particulares a los que haY8ln hecho 6 hicieren eminentes servicios. a Ia Patria, y a los que se distingan por su civismo. 28. Decretar honores publicos a la memoria de los grandes servidores del Estado. 29. Elegir'los Arzobispos y Obispos de la Republica. 30. Heunirse de pleno derecho en 'las epocas de eleeciones o:r:dinarias de Presidente y Vice-Presidente de la Hepublica el dia quince de Enero. 31. Usar en Ila's leyes y decretos de la siguiente formula: "EI Senado y Camara de Repres·entantes reunidos en Congr/€lSo.-
+
+En nombre de Ia Republica Dominieana.-Decretan". 32. Revisar, adicionar y reformar la Constitucion del Estado en ]a forma y manera en '€Jla prevista.
 
 ### Página 16 del PDF
 
-COLECCIlJ~ BI rlYES, DECRETos·i.,,:-1854.
-M1
-TITULO VII.
+COLECCIlJ~ BI rlYES, DECRETos·i.,,:-1854. M1
+
+**TITULO VII.**
+
 DEL PODER EJECUTIVO.
-CAPITULO PRIMERO.
-Art. 69.
-EI Presidente de la Republica durani cuatro aftos
-en el ejercicio de sus funciones, y se elige del modo siguiente: ca-
-rla Eleetor vota POl' dos individuos, de los cuales uno por 10 menos
-no ha de estar domiciliado en la Provincia que 10 elige.
-Las ae-
-tas de elecciones seran remitidas cerradas y selladas a1 Presiden-
-te del Congreso.
-Cuando este reuna los pliegos de todos los Co-
-legios ElectoraJes, los abrira en sesion publica, en la que verifica-
-rA y ('()mnuiara lQS votos; 8i algulio de los candidatos reune la
-mayoria absoluta de
-SUIraglU~,
-",..,,~-;. ;:-:,:,:,l&lt;1mndo Presidente de
-la RepubJ.ica.
-Siempre que falte la mayoria absoluta, iel Congre-
-so separa los tres que reunan mas sufragios, y procede pOl' vo-
-tacion secreta a €Ilegir uno de entre ellos.
-Si en este primer es·
-crutinio ninguno obtiene la mayoria absoluta, se procede a nueva
-votacion entre los dos candidatos que mas sufragios obtuvieron
-en el primero; y en caso de igualdad, la eleccion se decidira pOl'
-Ja suerte.
-Todas estas operadones deberan efectuarse en una sola se-
-sian p'€,rmanente, a pena de nulidad.
-Art. 70.
-Para ser Presidente de Ia Republica se requiere:
-I\'. Ser dominicano de origen.
-2Q•
-Tener treinta y cincoaftos cumplidos.
-3Q •
-Ser propi,etario de bimles raices.
-49 •
-Estar en el pleno goce de sus derechos civiles y politicos.
-Art. 71.
-Para suplir la falta temporal 6 absoluta del Pre-
-sidente de la Republica, habra un Vice-Presidente, que durara
-en sus funciones cuatro aftos, debera reunir las mismas cualida-
-des requeridas en el articulo anterior, y sera elegido con las mis-
-mas forma/lidades que el Presidente.
-Art. 72.
-Ei perfodo de duracion del Presidente y Vice-Pre-
-sidente de Ia Republica, se cantara desde el lQ. de Marzo inmedia-
-to asUeleccion. Ninguno podra ser elegido Presidente, sin el in-
-_tervalo de un periodo integra.
-Art. 73.
-EI Presidente y
-Vice-Presidente de la Republica
-se elegiran con diferencia d~ dos alios, el uno del otro; y el Vice-
-Presidente no podra ser elegido Presidente para el periodo inme-
+
+**CAPITULO PRIMERO.** Art. 69. EI Presidente de la Republica durani cuatro aftos en el ejercicio de sus funciones, y se elige del modo siguiente: carla Eleetor vota POl' dos individuos, de los cuales uno por 10 menos no ha de estar domiciliado en la Provincia que 10 elige. Las aetas de elecciones seran remitidas cerradas y selladas a1 Presidente del Congreso. Cuando este reuna los pliegos de todos los Colegios ElectoraJes, los abrira en sesion publica, en la que verificarA y ('()mnuiara lQS votos; 8i algulio de los candidatos reune la mayoria absoluta de SUIraglU~, ",..,,~-;.;:-:,:,:,l<1mndo Presidente de la RepubJ.ica. Siempre que falte la mayoria absoluta, iel Congreso separa los tres que reunan mas sufragios, y procede pOl' votacion secreta a €Ilegir uno de entre ellos. Si en este primer es· crutinio ninguno obtiene la mayoria absoluta, se procede a nueva votacion entre los dos candidatos que mas sufragios obtuvieron en el primero; y en caso de igualdad, la eleccion se decidira pOl' Ja suerte. Todas estas operadones deberan efectuarse en una sola sesian p'€,rmanente, a pena de nulidad. Art. 70. Para ser Presidente de Ia Republica se requiere: I\'. Ser dominicano de origen. 2Q• Tener treinta y cincoaftos cumplidos. 3Q • Ser propi,etario de bimles raices. 49 • Estar en el pleno goce de sus derechos civiles y politicos. Art. 71. Para suplir la falta temporal 6 absoluta del Presidente de la Republica, habra un Vice-Presidente, que durara en sus funciones cuatro aftos, debera reunir las mismas cualidades requeridas en el articulo anterior, y sera elegido con las mismas forma/lidades que el Presidente. Art. 72. Ei perfodo de duracion del Presidente y Vice-Presidente de Ia Republica, se cantara desde el lQ. de Marzo inmediato asUeleccion. Ninguno podra ser elegido Presidente, sin el in- _tervalo de un periodo integra. Art. 73. EI Presidente y Vice-Presidente de la Republica se elegiran con diferencia d~ dos alios, el uno del otro; y el Vice- Presidente no podra ser elegido Presidente para el periodo inme-
 
 ### Página 17 del PDF
 
-i" Mt:;;; &lt;iCOLEEtiUNiDfu LEfES, DEtRitUS &amp;.
-Ut&gt;4.
-diato, cuando haya ejercido el Poder Ejecutivo por la mitad del
-periodo Constitucional.
-Art. 74.
-En caso de muerte, dimision, destitucion 0 impedi-
-mento temporal del Presidente y Vice-Presidente, el Gonsrejo de
-Secretaris de Estado ejercera provisionalmenteel Poder Ejecu-
-tivo; y en los tres primeros casos expedini, dentro de cuarenta y
-El€ctorales, para que se
-reunan y procedan
-a la
-e1eccion del
-nuevo Presidente y Vice-Presidente.
-Tanto el Congreso como los
-Colegios EIectorales debenin nomnirs,e, 10
-mas tarde,
-dentro de
-ocho horas, un decreto de convocatoria al Congreso y
-Colegios
-treinta dias de la fecha del decl1eto de convocatoria.
-Art. 75.
-En las elecciones
-extraordinarias,
-'ei Presidente
-prestara juramento y entrara a ejercer sus funciones treinta dias
-despues de habel'sele participado su nombrami,ento oficialmente,
-y cualquiera que sea la epoca del ana en que ,entre a ejercer la
-presidencia, se contara 'el periodo Constitucional como si la hubie-
-ra ocupado desdeel1 Q• de Marzo.
-Yel Vice-Presidente durara el
-tiempo que faJtaba a su predecesor para cumplir su periodo.
-Art. 76.
-EI Presidente y Vice-Presidente de la
-Republica,
-antes de tomar posesion de 'sus respectivos
-destinos prestanin,
-ante el Congreso Nacional, eJ siguiente juramento: Juro por Dios
-y los Santos Evangelios, guaTdar y hacer guaTdar la Constitucion
-y las leyes del pueblo Dominicano, respetar sus derechos y man-
-tener la independencia Nacional.
-.
-Art. 77.
-Adema,s de hacer ej,ecutar las leyes en general, SOR
-atribuciones del Poder Ejecutivo:
-_
-19 •
-S'el1ar las leyes y decretos del Poder Legislativo, y den-
-tro del termino de tres dias, siempre que no tenga observaciones
-que hacerles, promulgar unas y otros, eon IJJa formula
-siguiente:
-Ejeeutese, comuniquese por la SecTetaria N. publicandose en todQ
-el territorio de la Republica, para su cumplimiento y observancia.
-Pudiendo hacer aT efeeto todos lOll reglamentos y decretos nee€-
-sarios.
-2a.
-Hacer todas las observaciones que juzgue oportunas y
-necesarias acerca de las leyes sancionadas por e'1 Senado, devol-
-viendo el proyecto dentro del termino de tres dias, 'en las acorda-
-·das por urgencia, al Presidente de dicho Cu'€,rpo; y en e1 de seis
-en todas las demas, para que e1 Oongreso delibere segun 10 es-
-tableddoenel articulo 53; y si sus observIlicion8S u objeciones no
-son consideradas porel Congreso, debera proceder a promulgar-
-las sinpoder suspender su ejecucion.
-3a.
-Ejercer como las dos Camaras la iniciativa en todas hs
+i" Mt:;;; <iCOLEEtiUNiDfu LEfES, DEtRitUS &. Ut>4. diato, cuando haya ejercido el Poder Ejecutivo por la mitad del periodo Constitucional. Art. 74. En caso de muerte, dimision, destitucion 0 impedimento temporal del Presidente y Vice-Presidente, el Gonsrejo de Secretaris de Estado ejercera provisionalmenteel Poder Ejecutivo; y en los tres primeros casos expedini, dentro de cuarenta y El€ctorales, para que se reunan y procedan a la e1eccion del nuevo Presidente y Vice-Presidente. Tanto el Congreso como los Colegios EIectorales debenin nomnirs,e, 10 mas tarde, dentro de ocho horas, un decreto de convocatoria al Congreso y Colegios treinta dias de la fecha del decl1eto de convocatoria. Art. 75. En las elecciones extraordinarias, 'ei Presidente prestara juramento y entrara a ejercer sus funciones treinta dias despues de habel'sele participado su nombrami,ento oficialmente, y cualquiera que sea la epoca del ana en que,entre a ejercer la presidencia, se contara 'el periodo Constitucional como si la hubiera ocupado desdeel1 Q• de Marzo. Yel Vice-Presidente durara el tiempo que faJtaba a su predecesor para cumplir su periodo. Art. 76. EI Presidente y Vice-Presidente de la Republica, antes de tomar posesion de 'sus respectivos destinos prestanin, ante el Congreso Nacional, eJ siguiente juramento: Juro por Dios y los Santos Evangelios, guaTdar y hacer guaTdar la Constitucion y las leyes del pueblo Dominicano, respetar sus derechos y mantener la independencia Nacional.. Art. 77. Adema,s de hacer ej,ecutar las leyes en general, SOR atribuciones del Poder Ejecutivo: _ 19 • S'el1ar las leyes y decretos del Poder Legislativo, y dentro del termino de tres dias, siempre que no tenga observaciones que hacerles, promulgar unas y otros, eon IJJa formula siguiente: Ejeeutese, comuniquese por la SecTetaria N. publicandose en todQ el territorio de la Republica, para su cumplimiento y observancia. Pudiendo hacer aT efeeto todos lOll reglamentos y decretos nee€sarios. 2a. Hacer todas las observaciones que juzgue oportunas y necesarias acerca de las leyes sancionadas por e'1 Senado, devolviendo el proyecto dentro del termino de tres dias, 'en las acorda- ·das por urgencia, al Presidente de dicho Cu'€,rpo; y en e1 de seis en todas las demas, para que e1 Oongreso delibere segun 10 estableddoenel articulo 53; y si sus observIlicion8S u objeciones no son consideradas porel Congreso, debera proceder a promulgarlas sinpoder suspender su ejecucion. 3a. Ejercer como las dos Camaras la iniciativa en todas hs
 
 ### Página 18 del PDF
 
----- .. _---_..
-leyes, exceptoen aquellas en que
-la de Representantes
-la be-
-ne exclusivamente.
-4a.
-Nombrar los empleados de la Administracion general,
-103 Gobernadores PoTiticos, de las listas que Ie sean presentadas,
-los Ministros pllblicos, C6nsules y demas Agentes Diplomaticos,
-COll las condiciones establecidas par Ia ley.
-5a.
-Nombrar los jueces de los tribunales de primera instan-
-cia, de las listas remitidas pOl' las Diputaciones Provinciales; los
-Alcaldes de camunes en los juzgados' inferiores; los Agentes fis-
-caleB, y todos los ,empleados pllblicos euyo nombramiento no .:le
-ccnfiera it otra autoridad porIa Constitucion 6 la ley.
-Ga.
-Nombrar los jueces de residencia.
-7a.
-Conferir los grados del ejercito de tierra y mar, con las
-excepcicnes previstas pOl' el articulo 52, y encomendar sus .TI'an-
-dos.
-Sa.
-Remover libremente de sus destinos los empl-oados -:leI
-ramo E'jecutivo, que sean de libre nombramiento suyo.
-9a.
-Supervigilar it todos los empleadas pllblicos en e1 exacto
-cumplimiento de ssu deber,es; y cuando delincan en razon de su
-destino 6 en el ejercicio de sus funciones, mandar10s acusar ante
-la autor'dad judicial competente, para que se siga e1 juicio con-
-forme a las leyes.
-Esta facultad es extensiva contra cuale.;;quie-
-ra funcionarios publicos, POl' infraccion itI,a Constitucion 6 aI:as
-leyes.
-lOa.
-Pedir al Cuerpa LegisIativo la pr6rroga de sus sesio-
-nes ordinarias, hasta pOl' tr,einta dias,
-Ha.
-Convocar al Cuerpo Legislativo para sl€&gt;siones extraor-
-dinarias en caso de absoluta necesidad, y la que expresara en e)
-decreto deconvocatoria.
-12a.
-Asistir a 1a apertura del Congreso Naciona1, en cada
-sesion Legislaiiva ordinaria, presentarle un mensaje pOl' escri-
-to de SE administracion, durante el ano espirado, y 1a situacion
-interior yexterior del Estado en sus
-diversos
-ramos: en las
-elecciones ordinarias este mensaje se presentara a1 acto de pres-
-taI' e1 nuevo eJecto el juramento Constitucional.
-13a.
-Someter
-a la consideracion de los Cuerpos Colegis-
-ladores cuanto juzgue conducente al bien estar de la Nacion.
-14a.
-Recibir los Ministros publicos extrangeros.
-15a.
-Dirijir las negociaciones dip1om:Hicas, celebrar trata-
-dos de paz, amistad, alianza, neutralidad, comercio y cualesquie-
-ra otros, a reserva de la sancion del Cuerpo Legis1ativo.
+----.. _---_.. leyes, exceptoen aquellas en que la de Representantes la bene exclusivamente. 4a. Nombrar los empleados de la Administracion general, 103 Gobernadores PoTiticos, de las listas que Ie sean presentadas, los Ministros pllblicos, C6nsules y demas Agentes Diplomaticos, COll las condiciones establecidas par Ia ley. 5a. Nombrar los jueces de los tribunales de primera instancia, de las listas remitidas pOl' las Diputaciones Provinciales; los Alcaldes de camunes en los juzgados' inferiores; los Agentes fiscaleB, y todos los,empleados pllblicos euyo nombramiento no.:le ccnfiera it otra autoridad porIa Constitucion 6 la ley. Ga. Nombrar los jueces de residencia. 7a. Conferir los grados del ejercito de tierra y mar, con las excepcicnes previstas pOl' el articulo 52, y encomendar sus.TI'andos. Sa. Remover libremente de sus destinos los empl-oados -:leI ramo E'jecutivo, que sean de libre nombramiento suyo. 9a. Supervigilar it todos los empleadas pllblicos en e1 exacto cumplimiento de ssu deber,es; y cuando delincan en razon de su destino 6 en el ejercicio de sus funciones, mandar10s acusar ante la autor'dad judicial competente, para que se siga e1 juicio conforme a las leyes. Esta facultad es extensiva contra cuale.;;quiera funcionarios publicos, POl' infraccion itI,a Constitucion 6 aI:as leyes. lOa. Pedir al Cuerpa LegisIativo la pr6rroga de sus sesiones ordinarias, hasta pOl' tr,einta dias, Ha. Convocar al Cuerpo Legislativo para sl€>siones extraordinarias en caso de absoluta necesidad, y la que expresara en e) decreto deconvocatoria. 12a. Asistir a 1a apertura del Congreso Naciona1, en cada sesion Legislaiiva ordinaria, presentarle un mensaje pOl' escrito de SE administracion, durante el ano espirado, y 1a situacion interior yexterior del Estado en sus diversos ramos: en las elecciones ordinarias este mensaje se presentara a1 acto de prestaI' e1 nuevo eJecto el juramento Constitucional. 13a. Someter a la consideracion de los Cuerpos Colegisladores cuanto juzgue conducente al bien estar de la Nacion. 14a. Recibir los Ministros publicos extrangeros. 15a. Dirijir las negociaciones dip1om:Hicas, celebrar tratados de paz, amistad, alianza, neutralidad, comercio y cualesquiera otros, a reserva de la sancion del Cuerpo Legis1ativo.
 
 ### Página 19 del PDF
 
-554
-COLECCIOR hE LEYES, DECRETOS &amp;.-1854.
-16a.
-Disponer de ,la fuerza permanente de mar y tierra pa-
-ra la defensa interior y exterior del Estado.
-17a.
-Disponer de las guardias nacionales para la seguridad
-interior de sus Provincias y fuera de elIas. con el
-expreso con-
-s'entimiento del Congreso.
-18a. En loscasos de conmocion interior a mana armada, que
-amenace la seguridad del Estado, y en los de una invasion exte-
-rior y repentina, usaI' de las facultades que Ie hayaconferido e1
-Congreso, en virtud de la atribucion 15a. del articulo 68; y si
-el caso se presentare cuando no este reunido el Congreso, no
-Ie
-hubiere conferido las predichas facultades, 6 no hubiere previsto
-l~s cricunstancias, tomar todas aqueUas medidas que crea indis-
-psnsabltls, no contrarias aesta Constitucion, y que exija la con-
-servacion de la Republica, de que dara cuenta exacta al Congreso
-tan pronto como se reuna, para su resolucion.
-19a.
-Proveer al fomento de la instruccion pUblica.
-20a.
-Instituir escuelas nauticas, de agricultura, mineralo-
-gia,
-y escuelas publicas de artes y oficios.
-21a.
-Conceder a los inventores 6 importadores, POl' tiem-
-po Iimitado, el provecho excIusivo de sus trabajos, 6 la indemniza-
-cion de sus gastos.
-22a.
-Recompensar a los agricuUores mas industriosos y uti-
-les, ya todos los que se distinguieren en las artes y oficios.
-23a.
-Cuidar de la exacta y fiel recaudacion, y de la legal in-
-version de las rentas pub'licas.
-24a.
-Cuidar de que la justicia se administre pronta y cum-
-plidamente; que las sentencias se cumplan y ejecuten, exitando
-POl' medio de sus fiscales, 0 directamente a la Suprema Corte de
-Justicia.
-25a.
-Conceder licencias y retiros a los militares.
-26a.
-Expedir patentes de navegacion, corso y mercancias.
-27a.
-Conceder el pase 6 retener los decretos conciliares
-y
-bulas pontificias, si contienen disposiciones generales, 6 si
-se
-verBan sobre negocios particuIares, gubernativos 6 puntos con-
-tenciosos, pasando su conocimiento y decision a quien correspon-
-da.
-28a. Conceder carta de naturalizacion, conforme a la ley.
-29a.
-Conceder amnistias e indultos particulares, cuando 10
-exija algun motivo de conveniencia publica 6 humanitario.
-En
-ningun caso podra concederlos POl' delitos atroces, ni a los em-
-pleados publicos POl' delitos cometidos ene1 ejercicio de sus fun-
-ciones.
+COLECCIOR hE LEYES, DECRETOS &.-1854. 16a. Disponer de,la fuerza permanente de mar y tierra para la defensa interior y exterior del Estado. 17a. Disponer de las guardias nacionales para la seguridad interior de sus Provincias y fuera de elIas. con el expreso cons'entimiento del Congreso. 18a. En loscasos de conmocion interior a mana armada, que amenace la seguridad del Estado, y en los de una invasion exterior y repentina, usaI' de las facultades que Ie hayaconferido e1 Congreso, en virtud de la atribucion 15a. del articulo 68; y si el caso se presentare cuando no este reunido el Congreso, no Ie hubiere conferido las predichas facultades, 6 no hubiere previsto l~s cricunstancias, tomar todas aqueUas medidas que crea indispsnsabltls, no contrarias aesta Constitucion, y que exija la conservacion de la Republica, de que dara cuenta exacta al Congreso tan pronto como se reuna, para su resolucion. 19a. Proveer al fomento de la instruccion pUblica. 20a. Instituir escuelas nauticas, de agricultura, mineralogia, y escuelas publicas de artes y oficios. 21a. Conceder a los inventores 6 importadores, POl' tiempo Iimitado, el provecho excIusivo de sus trabajos, 6 la indemnizacion de sus gastos. 22a. Recompensar a los agricuUores mas industriosos y utiles, ya todos los que se distinguieren en las artes y oficios. 23a. Cuidar de la exacta y fiel recaudacion, y de la legal inversion de las rentas pub'licas. 24a. Cuidar de que la justicia se administre pronta y cumplidamente; que las sentencias se cumplan y ejecuten, exitando POl' medio de sus fiscales, 0 directamente a la Suprema Corte de Justicia. 25a. Conceder licencias y retiros a los militares. 26a. Expedir patentes de navegacion, corso y mercancias. 27a. Conceder el pase 6 retener los decretos conciliares y bulas pontificias, si contienen disposiciones generales, 6 si se verBan sobre negocios particuIares, gubernativos 6 puntos contenciosos, pasando su conocimiento y decision a quien corresponda. 28a. Conceder carta de naturalizacion, conforme a la ley. 29a. Conceder amnistias e indultos particulares, cuando 10 exija algun motivo de conveniencia publica 6 humanitario. En ningun caso podra concederlos POl' delitos atroces, ni a los empleados publicos POl' delitos cometidos ene1 ejercicio de sus funciones.
 
 ### Página 20 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-555
-30a. Commutar la J}ena capital POl' 'apelacion hecha a su
-gracia, la eua1 produce suspension de 1a ejecucion; pero no podra
-recurrirse al Poder Ejecutivo, si se ha apelado ya al Poder Le-
-gislativo.
-En caso de condenacion a 1a pena capital, pOl' commo-
-cion interior it man~ armada, 0 pOl' conspiracion a favor dei ene-
-migo, el recurso en gracia 82 hara desde luego ante el Poder Eje-
-cutivo.
-31a.
-Durante el receso del Cuerpo Legis'lativo proveer las
-vacantes de los magistrados que ocurran y cuyo nombramiento
-perteneceal Senado, los que ejerceran sus funciones pOl' comision,
-que espirara al fin de la primera reunion legislativa.
-Art. 78.
-Todas las providencias gubernativas que tama e1
-encargado del Poder Ejecutivo, deberan ant€,s deliberarse en el
-Consejo de Secretarios de Estado.
-'
-Art. 79.
-Ningun acto, decreto, reglamento, orden 0 provi-
-dencia delencargado del Poder Ejecutivo, excepto los decreto'S de
-nombramiento y remodon de los Secretarios de Estado, sera eje-
-cutorio ni obedecido si no esta refrendado POI' un Ministro, que
-par este solo hecho queda responsable de el; sin que en ningun
-caso la orden verbal 0 escrita del Poder Ejecutivo pueda sustraer
-de 1a responsabilidad a1 Secretario que 10 refrenda:
-Art. 80.
-E1 encargado del Poder Ejecutivo es e1 celador de
-todos 'los abusos de autoridad y exceso'S de pader que se cometan
-bajo su administracion, Yl'esponsable de ellos, si a sabiendas no
-persigue 6 hace p'€,rseguir a Btl" autores, conforme a la Constitu-
-cion 6 a las leyes.
-Art. 81.
-Como gefe de 1a Administracion publica nacionai,
-dirije las operaciones militares en cl interior y exterior, manda
-las fuera'S de tierra y mar, 6 encomienda sus mandos.
-Art. 82.
-E1 encargado del Pader Ejecutivo no tiene mas
-facu[tades que la'S que expresamente Ie confieren la Constitucion
-y Jas leYJes.
-Art. 83.
-Sicumplido eI periodo Constituciona1 el Congreso
-no se hallare reunido, e1 Presidente cesara en sus funciones. en-
-cargimdose de e1'las '811 Vice-Presidente.
-CAPITULO SEGUNDO.-De los Secretarios de Es,tado.
-Art. 84.
-Habra cuatro Ministros
-Secretarios de Estado,
-para e1 despacho de todos los negocios de 1a Administracion, nom-
-brados libremente pOl' el encargado del Poder Ejecutivo y amovi-
-bIe a su voJuntad, loscuales seran:
+COLECCION DE LEYES, DECRETOS &.-1854. 30a. Commutar la J}ena capital POl' 'apelacion hecha a su gracia, la eua1 produce suspension de 1a ejecucion; pero no podra recurrirse al Poder Ejecutivo, si se ha apelado ya al Poder Legislativo. En caso de condenacion a 1a pena capital, pOl' commocion interior it man~ armada, 0 pOl' conspiracion a favor dei enemigo, el recurso en gracia 82 hara desde luego ante el Poder Ejecutivo. 31a. Durante el receso del Cuerpo Legis'lativo proveer las vacantes de los magistrados que ocurran y cuyo nombramiento perteneceal Senado, los que ejerceran sus funciones pOl' comision, que espirara al fin de la primera reunion legislativa. Art. 78. Todas las providencias gubernativas que tama e1 encargado del Poder Ejecutivo, deberan ant€,s deliberarse en el Consejo de Secretarios de Estado. ' Art. 79. Ningun acto, decreto, reglamento, orden 0 providencia delencargado del Poder Ejecutivo, excepto los decreto'S de nombramiento y remodon de los Secretarios de Estado, sera ejecutorio ni obedecido si no esta refrendado POI' un Ministro, que par este solo hecho queda responsable de el; sin que en ningun caso la orden verbal 0 escrita del Poder Ejecutivo pueda sustraer de 1a responsabilidad a1 Secretario que 10 refrenda: Art. 80. E1 encargado del Poder Ejecutivo es e1 celador de todos 'los abusos de autoridad y exceso'S de pader que se cometan bajo su administracion, Yl'esponsable de ellos, si a sabiendas no persigue 6 hace p'€,rseguir a Btl" autores, conforme a la Constitucion 6 a las leyes. Art. 81. Como gefe de 1a Administracion publica nacionai, dirije las operaciones militares en cl interior y exterior, manda las fuera'S de tierra y mar, 6 encomienda sus mandos. Art. 82. E1 encargado del Pader Ejecutivo no tiene mas facu[tades que la'S que expresamente Ie confieren la Constitucion y Jas leYJes. Art. 83. Sicumplido eI periodo Constituciona1 el Congreso no se hallare reunido, e1 Presidente cesara en sus funciones. encargimdose de e1'las '811 Vice-Presidente.
+
+**CAPITULO SEGUNDO.-De los Secretarios de Es,tado. Art. 84. Habra cuatro Ministros Secretarios de Estado, para e1 despacho de todos los negocios de 1a Administracion, nombrados libremente pOl' el encargado del Poder Ejecutivo y amovibIe a su voJuntad, loscuales seran:**
 
 ### Página 21 del PDF
 
-556
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-1".
-Interior, Pcilicia y Agricultura.
-29 •
-Hacienda, Comercio y Fomento.
-39 • Justicia e Instruccion Publica.
-4'1.
-Guerra, Marina y Obras publicas.
-§ E1 encargado del Poder Ejecutivo en&lt;!omendara el Despa-
-cho de las Relaciones Exteriores, a aquel
-que 10
-juzgue conve-
-niente.
-Art. 85. Para ser S'ecretario de Estado se requiere:
-1'1.
-Estar en el goee de los derechos civiles y politicos.
-29 ,
-Tener treinta anos cumplidos, y la aptitud necesaria pa-
-ra ejercer el destino que se Ie confia, no pudiendo serlo ningun
-pariente ni aliado delencargado del Poder Ejecutivo, hasta el
-grado de primo hermann inclusive.
-Art. 86.
-L,os Secretarios de Estado se l'eunirim en Consejo,
-bajo la presidencia del encargado del Poder Ejecutivo, para exa-
-minar, discutir y resolver los negocios generales de la adminis-
-tracion del Estado, y arreglar las providencias que hayan de ex-
-pedirse POl' cada Despacho.
-Art. 87.
-Los Secretarios de Estado, como organos inmed.ia-
-tos e indispensables del Poder Ejecutivo, esHmencargados
-de
-proveera la ejecucion de las leyes y demas providencias guberna-
-tivas ;tienen derechoa reformar los aetas de los agentes inferio-
-res; corresponden directamente can las autoridades que l€s esbln
-subordinadas; tienen entrada en las resiones de los Cuerpos Co-
-legisladores y en el Congreso NacionaJl, donde seran oidos cuando
-10 exijan oficialmente y con antelacion para negodos de su ramo;
-deberan
-pn~sentar.se ante los Cuerpos Colegisladores, todas las
-vec~s que sean llamados a
-~u seno, y responder a las interpela-
-dones que se Ie haga sabre todos los actO's de su administracion.
-Art. 88.
-Los Secretarios de Estado son responsables de los
-actos deL Poder Ejecutivo que refrendan, de la ejecucion de las
-j,eyes, de Ia infraccion deestas y de la Constitucion enel ejerci-
-cia de su ministerio, de malversacion de los fandos publicos en
-sus respeetivos ramos.
-Lo son tambien solidariamente de todas
-las providencias gubernativas, dadas ,en Consejo de Ministros,
-y de las faItas de omision en que cualquiera de elIos ensu ramo, y
-todos juntos en la gobernacion del Estado incurrieren.
-Art. 89.
-La ley determinara la forma de los juicios en las
-causas de responsabilidad que se intenten contra ,el Presidente y
-Vice-Presidente de la R,epubJi.ca, los SecretariCls de Estado, miem-
-bros de Ia Suprema Corte de Justicia y demas altos funcionarios,
-POI' mal desempefio en el ejercicio de sus funciones" y en que sea
+COLECCION DE LEYES, DECRETOS &.-1854. 1". Interior, Pcilicia y Agricultura. 29 • Hacienda, Comercio y Fomento. 39 • Justicia e Instruccion Publica. 4'1. Guerra, Marina y Obras publicas. § E1 encargado del Poder Ejecutivo en<!omendara el Despacho de las Relaciones Exteriores, a aquel que 10 juzgue conveniente. Art. 85. Para ser S'ecretario de Estado se requiere: 1'1. Estar en el goee de los derechos civiles y politicos. 29, Tener treinta anos cumplidos, y la aptitud necesaria para ejercer el destino que se Ie confia, no pudiendo serlo ningun pariente ni aliado delencargado del Poder Ejecutivo, hasta el grado de primo hermann inclusive. Art. 86. L,os Secretarios de Estado se l'eunirim en Consejo, bajo la presidencia del encargado del Poder Ejecutivo, para examinar, discutir y resolver los negocios generales de la administracion del Estado, y arreglar las providencias que hayan de expedirse POl' cada Despacho. Art. 87. Los Secretarios de Estado, como organos inmed.iatos e indispensables del Poder Ejecutivo, esHmencargados de proveera la ejecucion de las leyes y demas providencias gubernativas;tienen derechoa reformar los aetas de los agentes inferiores; corresponden directamente can las autoridades que l€s esbln subordinadas; tienen entrada en las resiones de los Cuerpos Colegisladores y en el Congreso NacionaJl, donde seran oidos cuando 10 exijan oficialmente y con antelacion para negodos de su ramo; deberan pn~sentar.se ante los Cuerpos Colegisladores, todas las vec~s que sean llamados a ~u seno, y responder a las interpeladones que se Ie haga sabre todos los actO's de su administracion. Art. 88. Los Secretarios de Estado son responsables de los actos deL Poder Ejecutivo que refrendan, de la ejecucion de las j,eyes, de Ia infraccion deestas y de la Constitucion enel ejercicia de su ministerio, de malversacion de los fandos publicos en sus respeetivos ramos. Lo son tambien solidariamente de todas las providencias gubernativas, dadas,en Consejo de Ministros, y de las faItas de omision en que cualquiera de elIos ensu ramo, y todos juntos en la gobernacion del Estado incurrieren. Art. 89. La ley determinara la forma de los juicios en las causas de responsabilidad que se intenten contra,el Presidente y Vice-Presidente de la R,epubJi.ca, los SecretariCls de Estado, miembros de Ia Suprema Corte de Justicia y demas altos funcionarios, POI' mal desempefio en el ejercicio de sus funciones" y en que sea
 
 ### Página 22 del PDF
 
-COLECCION DE LEYES. DECRETOS &amp;.-1854.
-557
-permitido pOl' esta Constitucion a las Camaras Legislativas in-
-tervenir, y las penas que deban imponerseles.
-§ La ley definira igualmente los crimenes de Estado.
-TITULO VIII.
+COLECCION DE LEYES. DECRETOS &.-1854. permitido pOl' esta Constitucion a las Camaras Legislativas intervenir, y las penas que deban imponerseles. § La ley definira igualmente los crimenes de Estado.
+
+**TITULO VIII.**
+
 DEL PODER JUDICIAL.
-CAPITULO PRIMERO.
-Art. 90.
-La potestad de aplicar las leyes, en las causas ci-
-viles y crimina'les, pertenece exclusivamente a los tribunales, sal-
-vo 10 que la ley puedaestablecer respecto al juicio POl' jurados.
-Los tribuna1es y juzgados no pueden ejercer ot1'as funciones, que
-las de juzgar y haeer que se ejecute 10 juzgado.
-Art. 91.
-Ningun dominicano
-podra
-ser distraido de sus
-jueces naturales ni juzgado en causas civiles ni crimina-les POl'
-comision alguna, sino pOl' ,e1 tribunal competente determinado con
-anterioridad porIa ley; y en ningun caso podran abreviarse ni a1-
-terarse las formas de los juicios.
-Art. 92.
-Las sesiones de los tribunales son piiblicas, a menns
-que la publicidad sea perjudicial a1 orden publico 0 la moral, en
-cuyo caso el tribunal POl' una sentencia ordenara los esrtrados a
-puerta eerrada.
-Esta medida no puede en caso alguno apiicarse
-a los delitos politicos ni de la prensa, cuyos juicios seran siempre
-publicos.
-Art. 93.
-Todos los tribunales y juzgados estan obligados a
-hacer mencion en sus senteneias de la ley aplieada y de los mo-
-tivosen que la fundan; ningun tribunal podra aplicar niguna
-ley inconstitucional, ni los decretos y reg1amentos de administra-
-cion general, si~o en tanto que sean eonformes a las leyes' en vi-
-gor.
-Art. 94. Lasd'eiIiberaciones se tomana puerta eerrada; los
-jueces votantes deben estar absolutamente solos eincomunicados
-durante la deliberacion.
-Art. 95:
-Tocla sentencia debe darse y ejecutarse en nombre
-de la Republica y terminarse POl' el mandata de ejecucion, so pe-
-na de nuIidad.
-La misma formula es de rigor en los aetos ejecu-
-torios de ,los ,escribanospubIieos.
-Art. 96.
-Los jueces no podran ser sU's!pensos de sus funcio-
-nes, sino pOI' acusacion legalmente intentada y admitida, ni de-
-puestos de sus destinos sino en virtud de sentencia dada confor-
+
+**CAPITULO PRIMERO.** Art. 90. La potestad de aplicar las leyes, en las causas civiles y crimina'les, pertenece exclusivamente a los tribunales, salvo 10 que la ley puedaestablecer respecto al juicio POl' jurados. Los tribuna1es y juzgados no pueden ejercer ot1'as funciones, que las de juzgar y haeer que se ejecute 10 juzgado. Art. 91. Ningun dominicano podra ser distraido de sus jueces naturales ni juzgado en causas civiles ni crimina-les POl' comision alguna, sino pOl',e1 tribunal competente determinado con anterioridad porIa ley; y en ningun caso podran abreviarse ni a1terarse las formas de los juicios. Art. 92. Las sesiones de los tribunales son piiblicas, a menns que la publicidad sea perjudicial a1 orden publico 0 la moral, en cuyo caso el tribunal POl' una sentencia ordenara los esrtrados a puerta eerrada. Esta medida no puede en caso alguno apiicarse a los delitos politicos ni de la prensa, cuyos juicios seran siempre publicos. Art. 93. Todos los tribunales y juzgados estan obligados a hacer mencion en sus senteneias de la ley aplieada y de los motivosen que la fundan; ningun tribunal podra aplicar niguna ley inconstitucional, ni los decretos y reg1amentos de administracion general, si~o en tanto que sean eonformes a las leyes' en vigor. Art. 94. Lasd'eiIiberaciones se tomana puerta eerrada; los jueces votantes deben estar absolutamente solos eincomunicados durante la deliberacion. Art. 95: Tocla sentencia debe darse y ejecutarse en nombre de la Republica y terminarse POl' el mandata de ejecucion, so pena de nuIidad. La misma formula es de rigor en los aetos ejecutorios de,los,escribanospubIieos. Art. 96. Los jueces no podran ser sU's!pensos de sus funciones, sino pOI' acusacion legalmente intentada y admitida, ni depuestos de sus destinos sino en virtud de sentencia dada confor-
 
 ### Página 23 del PDF
 
-558
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
--------------------------
-me a las leyes y pasada en 'autoridad de cosa juzgada; sus fun-
-ciones duraran cinco arios.
-La ley determinara tambien la forma
-de los juicios quese intenten contra los jUleces, pOl'
-los delitos
-que cometan fuera del ejercicio de sus funciones.
-Art. 97.
-En ningun juicio podra
-haber mas
-de tres ins-
-tan-::ias.
-CAPITULO SEGUNDO.-De la Suprema Corte de Justicia.
-Art. 98.
-La primera magistratura judicial del Estado resi-
-de en la Suprema Corte de Justicia, que se compondra de un Pre-
-sidente y cnatro ministros elejidos pOl' 'eI Senado, de los candida-
-tos presentados pOl' la Camara de Representantes, en numero tri-
-ple a la de los magistracios que cleban nombrarse 6 re'emplazarse,
-y de un agente del ministerio publico.
-La ley fijara los casas y
-el modo como debera dividirse la Corte en c.:amara deacusacion.
-Art. 99.
-Para s'er miembro de la Suprema Corte de Justicia
-es necesario: estar en el goce de los derechos civiles y
-politicos,
-haber cumplido treinta anos y s'er propietario de bienes rakes.
-Ej'el'ceran sus funciones cinco anos, y pueden sel' indefinidamen-
-te reelectos.
-Art. 100.
-Son atribuciones de la Suprema Corte de Justicia:
-1a.
-Conocer de las causas que se formen contra el Presiden-
-te y Vice-Presidente de la RepubUca pOl' delitos comun€'S', previa
-la suspension decretada par el Senado a peticion de la Camara
-de Repr-es'entantes.
-2a.
-Conocer de las causas que se formen contra los miem-
-bros del Senado y de la Camara de Representantes, pOl' crime-
-nes de Estado y delitos comunes, previo eldecreto de acusacion
-de sus respectiv,os Cuerpos.
-3a.
-CanaceI' de las causas que se formen 'Contra sus propios
-miembros, pOI' delitos comunes.
-4a.
-Conocer de las causas
-contencioS'as de los Plenipoten-
-ciarios y Ministros publicos extrangeros; aaeditados cel'ca del
-Gobierno de la Republica, en los casos permitidos pOl' elderecho
-internacional y conforme a los tratados que se hay.an cl811ebr'ado
-con las naciones a que pertenezcan.
-5a.
-Conocer de las causas de I'esponsabilidad que se formen
-a los Secretarios de Estado, Agentes Diplomaticos de la Repu-
-blica y Gobernadores Politicos, pOI' mal -desempeno en el ejerci-
-cio de sus funciones.
-6a. Conocer de las controversias que :resaltaren de los con-
+COLECCION DE LEYES, DECRETOS &.-1854. me a las leyes y pasada en 'autoridad de cosa juzgada; sus funciones duraran cinco arios. La ley determinara tambien la forma de los juicios quese intenten contra los jUleces, pOl' los delitos que cometan fuera del ejercicio de sus funciones. Art. 97. En ningun juicio podra haber mas de tres instan-::ias.
+
+**CAPITULO SEGUNDO.-De la Suprema Corte de Justicia.** Art. 98. La primera magistratura judicial del Estado reside en la Suprema Corte de Justicia, que se compondra de un Presidente y cnatro ministros elejidos pOl' 'eI Senado, de los candidatos presentados pOl' la Camara de Representantes, en numero triple a la de los magistracios que cleban nombrarse 6 re'emplazarse, y de un agente del ministerio publico. La ley fijara los casas y el modo como debera dividirse la Corte en c.:amara deacusacion. Art. 99. Para s'er miembro de la Suprema Corte de Justicia es necesario: estar en el goce de los derechos civiles y politicos, haber cumplido treinta anos y s'er propietario de bienes rakes. Ej'el'ceran sus funciones cinco anos, y pueden sel' indefinidamente reelectos. Art. 100. Son atribuciones de la Suprema Corte de Justicia: 1a. Conocer de las causas que se formen contra el Presidente y Vice-Presidente de la RepubUca pOl' delitos comun€'S', previa la suspension decretada par el Senado a peticion de la Camara de Repr-es'entantes. 2a. Conocer de las causas que se formen contra los miembros del Senado y de la Camara de Representantes, pOl' crimenes de Estado y delitos comunes, previo eldecreto de acusacion de sus respectiv,os Cuerpos. 3a. CanaceI' de las causas que se formen 'Contra sus propios miembros, pOI' delitos comunes. 4a. Conocer de las causas contencioS'as de los Plenipotenciarios y Ministros publicos extrangeros; aaeditados cel'ca del Gobierno de la Republica, en los casos permitidos pOl' elderecho internacional y conforme a los tratados que se hay.an cl811ebr'ado con las naciones a que pertenezcan. 5a. Conocer de las causas de I'esponsabilidad que se formen a los Secretarios de Estado, Agentes Diplomaticos de la Republica y Gobernadores Politicos, pOI' mal -desempeno en el ejercicio de sus funciones. 6a. Conocer de las controversias que:resaltaren de los con-
 
 ### Página 24 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-185,1.
-559
-tratos y negodaciones que cetebre el Poder Ej,ecutivo pOl' S1 6
-POl' medio de agentes.
-7a.
-Conocer de los recursos de queja q'ue se intenten con-
-tra los tribunales de primera instanda, par abuso de autoridad,
-exceso de poder, omision, denegadon 6 retardo culpahle en la ad-
-ministracion de justicia, como asi mismo de las causas de respon-
-sabilidad que ss susciten contra I(JS magistrados de los mismos
-tribunales.
-8a.
-Gonacer de las causas de presas de tierra y mar.
-ga.
-Decidir las cuestiones que se su",citen entre dos 6 mas
-provincias.
-lOa.
-Conacer del fondo y forma de todas las causas civiles
-y criminales que se Ie sometan en apeladon, y decidirlas sObera-
-na y defintivamente.
-11a.
-Conocer como Suprema Gorte :YIarcial en las apelacio-
-nes de los juicios' militares.
-12a.
-Dirimir los conflictos de competencia entre los tribuna-
-les de primera instancia, yentre estos y]os dema,s juzgados.
-13a.
-Oil' las dudas de los demas tribunales sobre ]a inteli-
-gencia de las leyes, y si las considerare fundadas, consultar sabre
-elIas al Congreso para la conveniente
-adaracion, e informara
-tambien aeste de todo aqueUo que crea conveniente para la me-
-jar administracion de justicia: estas comunicaciones las hara par
-conducto del Poder Ejecutivo.
-14a.
-Conel solo interes de uniformar la jurisprudencia, y
-sin que Isudecision aproveche ni perjudique a las partes litigan-
-tes, reformal' las sent~ncias dadas por los tribunales 6 juzgados,
-pasadas ya en autorida,d de cosa juzgada, que contengan algun
-principio falso 6 errado 6 adolez{;an de algun vicio esencial.
-To-
-dos los tribunales inferiori8ls deberan remitirle obligatoriamente,
-aJ efecto, cada 's'eis meses, copias de todas las sentencias civiles y
-criminales que hayan dado; y cada tres meses, un estado detalla-
-do de todas las causas pendientes.
-15a. Desempefiar y ejercer las demas funciones y atribucio-
-nes que leconfiera la ley.
-Art. 101.
-Lass'liplicas en revision de las decisiones d~ la Su-
-prema Corte de Justicia, en materia contenciosa, solo
-tendran
-Iugar en los caso'S previstos POl' los C6digos en vigor.
-Art. 102.
-Los miembros de 1a Suprema Corte d~
-Justicia
-son responsables y sujetos a juicio individualmente ante el Se-
-nado:
-1Q• Par crimenes de Estado.
+COLECCION DE LEYES, DECRETOS &.-185,1. tratos y negodaciones que cetebre el Poder Ej,ecutivo pOl' S1 6 POl' medio de agentes. 7a. Conocer de los recursos de queja q'ue se intenten contra los tribunales de primera instanda, par abuso de autoridad, exceso de poder, omision, denegadon 6 retardo culpahle en la administracion de justicia, como asi mismo de las causas de responsabilidad que ss susciten contra I(JS magistrados de los mismos tribunales. 8a. Gonacer de las causas de presas de tierra y mar. ga. Decidir las cuestiones que se su",citen entre dos 6 mas provincias. lOa. Conacer del fondo y forma de todas las causas civiles y criminales que se Ie sometan en apeladon, y decidirlas sOberana y defintivamente. 11a. Conocer como Suprema Gorte:YIarcial en las apelaciones de los juicios' militares. 12a. Dirimir los conflictos de competencia entre los tribunales de primera instancia, yentre estos y]os dema,s juzgados. 13a. Oil' las dudas de los demas tribunales sobre ]a inteligencia de las leyes, y si las considerare fundadas, consultar sabre elIas al Congreso para la conveniente adaracion, e informara tambien aeste de todo aqueUo que crea conveniente para la mejar administracion de justicia: estas comunicaciones las hara par conducto del Poder Ejecutivo. 14a. Conel solo interes de uniformar la jurisprudencia, y sin que Isudecision aproveche ni perjudique a las partes litigantes, reformal' las sent~ncias dadas por los tribunales 6 juzgados, pasadas ya en autorida,d de cosa juzgada, que contengan algun principio falso 6 errado 6 adolez{;an de algun vicio esencial. Todos los tribunales inferiori8ls deberan remitirle obligatoriamente, aJ efecto, cada 's'eis meses, copias de todas las sentencias civiles y criminales que hayan dado; y cada tres meses, un estado detallado de todas las causas pendientes. 15a. Desempefiar y ejercer las demas funciones y atribuciones que leconfiera la ley. Art. 101. Lass'liplicas en revision de las decisiones d~ la Suprema Corte de Justicia, en materia contenciosa, solo tendran Iugar en los caso'S previstos POl' los C6digos en vigor. Art. 102. Los miembros de 1a Suprema Corte d~ Justicia son responsables y sujetos a juicio individualmente ante el Senado: 1Q• Par crimenes de Estado.
 
 ### Página 25 del PDF
 
-560
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-2&lt;&gt;.
-Por infraccion a 1a Constitucion.
-3".
-POl' coihecho.
-49 • Por prevaricato.
-CAPITULO TERCERO.-De los tribunales de
-primera instancia y demas juzgados.
-Art. 103.
-Para facilitar la pronta administracion de justi-
-cia, se dividira el territorio en distritos judiciales; habra en ca-
-da uno de elIos tribunales de comercio, un tribunal de
-primera
-instancia, que ejercera 'la jurisdiccion civil y criminal en toda la
-extension de su distrito, y las fundones de tribunal de comercio
-donde no 10 haya.
-La distribucion, asiento, emolumentos y demas
-atribuciones de estos tribunales, seran objeto de una ley.
-§ Unico.-Para ser juez de los tribunates de primera ins-
-tancia se requieren las mismas cuaIidades que para ser Represen-
-tante, y 1a aptitud necesaria para desempefiar 1a magistratura.
-Art. 104.
-Los juzgados inferiores de las comunes estaran a
-cargo de Alcaldl€JS de comunes, que juzgaran sumariamente; ejer-
-ceran atribuciones judiciales, deconciHacion, extrajudiciales, de
-policia, y las demas que la ley les atribuya.-La ley organizara
-los Consejos de guerra, desigmindoles sus atribuciones y el mo-
-do de ejercerla.~, y determinara igualmente 1a organizacion judi-
-cial, dotacion. y palida de todos los tribuna'les y juzgados.
-TITULO IX
+COLECCION DE LEYES, DECRETOS &.-1854. 2<>. Por infraccion a 1a Constitucion. 3". POl' coihecho. 49 • Por prevaricato.
+
+**CAPITULO TERCERO.-De los tribunales de primera instancia y demas juzgados.** Art. 103. Para facilitar la pronta administracion de justicia, se dividira el territorio en distritos judiciales; habra en cada uno de elIos tribunales de comercio, un tribunal de primera instancia, que ejercera 'la jurisdiccion civil y criminal en toda la extension de su distrito, y las fundones de tribunal de comercio donde no 10 haya. La distribucion, asiento, emolumentos y demas atribuciones de estos tribunales, seran objeto de una ley. § Unico.-Para ser juez de los tribunates de primera instancia se requieren las mismas cuaIidades que para ser Representante, y 1a aptitud necesaria para desempefiar 1a magistratura. Art. 104. Los juzgados inferiores de las comunes estaran a cargo de Alcaldl€JS de comunes, que juzgaran sumariamente; ejerceran atribuciones judiciales, deconciHacion, extrajudiciales, de policia, y las demas que la ley les atribuya.-La ley organizara los Consejos de guerra, desigmindoles sus atribuciones y el modo de ejercerla.~, y determinara igualmente 1a organizacion judicial, dotacion. y palida de todos los tribuna'les y juzgados.
+
+**TITULO IX**
+
 DEL GOBIERNO POLITICO DE LAS PROVINCIAS.
-CAPITULO PRIMERO.
-Art. 105.
-El gobierno interior de las Provincias estara a
-cargo de un Gobernador Politico en la parte ejecutiva; yen todo
-]0 que pertenece a1 regimen, orden y seguridad de 1a Provincia y
-a su gobierno 'Politico y econ6mico, Ie estan subordinados, como
-agentes natural,es del Poder Ejecutivo, todos 108
-funcionarios
-pub'licos de cualquiera clase que residan dentro de la Provincia:
-como gefe municipal Ie corr'esponde presidir las
-Diputaciones
-Provinciales, convocarlas extraordinariamente cuando sea nece-
-sario,conforme a la Constitution 0 a la ley, 1a que arreglara sus
-demas atribuciones y todo 10 relativo a su ejercicio.
-Art. 106.
-Los Gob€rnadores Politicos debenin reunir
-las
+
+**CAPITULO PRIMERO.** Art. 105. El gobierno interior de las Provincias estara a cargo de un Gobernador Politico en la parte ejecutiva; yen todo ]0 que pertenece a1 regimen, orden y seguridad de 1a Provincia y a su gobierno 'Politico y econ6mico, Ie estan subordinados, como agentes natural,es del Poder Ejecutivo, todos 108 funcionarios pub'licos de cualquiera clase que residan dentro de la Provincia: como gefe municipal Ie corr'esponde presidir las Diputaciones Provinciales, convocarlas extraordinariamente cuando sea necesario,conforme a la Constitution 0 a la ley, 1a que arreglara sus demas atribuciones y todo 10 relativo a su ejercicio. Art. 106. Los Gob€rnadores Politicos debenin reunir las
 
 ### Página 26 del PDF
 
-COLECCION DE LEYES, DECYtETOS &amp;.-1854.
-561
-mismas cualidades que se requieren
-para ser
-Repre~entante;
--durarim en sus funciones cuatro anos, y pueden ser ree1ectos.
-Art. 107.
-La ley senalara la indemnizacion anual que pOl'
-sus servicios recibinin todos los funcionarios publicos.
-CAPITULO SEGUNDO.-De las Diputaciones Provinciales.
-Art. 108.
-En cada capital de Provincia habra una Diputa-
-cion Provincial, para promover su fomento y prosperidad,com-
-puesta de siete Diputados, elegidospor los
-Colegios Electoral~s,
-alsiguiente dia d nombrados los miembros del Guerpo Legisla-
-tivo, y porel mismo orden con que estos se nombran.
-Art. 109.
-Para ser Diputado de Provincia se requiere, ade-
-mas de estar en e1 goce de los derechOis civiles y politicos, tener
-veinte y cinco anos cumplidos, ser propietario de bienes raices en
-]a Provincia que II{) elige, 6 gefe de un establecimiento de den-
-cias, arte 6 industria, y tener su domicilio en ella, con residencia
-de tres anos a 10 menos.
-Art 110.
-La Diputacion Provincial se renueva cada tres
-ailos integra1mente; perc sus miembros pueden ser reel'edos in-
-definidamente.
-Art. 111.
-Las Diputaciones Provinciales se reuniran el 19 •
-de Octubre de cada ano en la capital de la Provincia, y duraran
-sus sesiones treinta dias, prorrogab1es, diez mas en caso necesa-
-rio; nombraran un Secretario y demas emplelfdos indispensables,
-los que senin dotadosi de los fondos pubEcos de la Provincia.
-Art. 112.
-Son atribuciones de las Diputaciones Provincia:les:
-1a.
-Poner en conociiniento del Poder Ejecutivo 6 de la Ca-
-mara de Representant'erS, con los datos necesarios, los abusos y
-mala conducta del Gobernador Politico y demas empleados de 13
-Provincia, las infracciones que se hayan cometido contra la Cons-
-titucion 6 ilas leyes, y velar la recaudacion, manejo einversion de
-los fondos publicos, senalando los abusos 6 ma1versacion, aquien
-sea de derecho.
-2a.
-Presentar anualmente a la Camara de Representantes
-yal Poder Ejecutivo, una lista general de los individuos aptos en
-sus Provincias respectivas, para los cargos de judicatura, y re-
-mitir las que hayan recibido de los Co1egios Eleetorales.
-3a.
-Presentar al Poder Ejecutivo listas para el nombramien-
-to de Gobernadores Politicos, y denunciarlos cuando delincan
-6
-falten a sus deberes.
-4a.
-Pedir al Prelado Eclesiastico, con los datos necesarios,
+COLECCION DE LEYES, DECYtETOS &.-1854. mismas cualidades que se requieren para ser Repre~entante; -durarim en sus funciones cuatro anos, y pueden ser ree1ectos. Art. 107. La ley senalara la indemnizacion anual que pOl' sus servicios recibinin todos los funcionarios publicos.
+
+**CAPITULO SEGUNDO.-De las Diputaciones Provinciales.** Art. 108. En cada capital de Provincia habra una Diputacion Provincial, para promover su fomento y prosperidad,compuesta de siete Diputados, elegidospor los Colegios Electoral~s, alsiguiente dia d nombrados los miembros del Guerpo Legislativo, y porel mismo orden con que estos se nombran. Art. 109. Para ser Diputado de Provincia se requiere, ademas de estar en e1 goce de los derechOis civiles y politicos, tener veinte y cinco anos cumplidos, ser propietario de bienes raices en ]a Provincia que II{) elige, 6 gefe de un establecimiento de dencias, arte 6 industria, y tener su domicilio en ella, con residencia de tres anos a 10 menos. Art 110. La Diputacion Provincial se renueva cada tres ailos integra1mente; perc sus miembros pueden ser reel'edos indefinidamente. Art. 111. Las Diputaciones Provinciales se reuniran el 19 • de Octubre de cada ano en la capital de la Provincia, y duraran sus sesiones treinta dias, prorrogab1es, diez mas en caso necesario; nombraran un Secretario y demas emplelfdos indispensables, los que senin dotadosi de los fondos pubEcos de la Provincia. Art. 112. Son atribuciones de las Diputaciones Provincia:les: 1a. Poner en conociiniento del Poder Ejecutivo 6 de la Camara de Representant'erS, con los datos necesarios, los abusos y mala conducta del Gobernador Politico y demas empleados de 13 Provincia, las infracciones que se hayan cometido contra la Constitucion 6 ilas leyes, y velar la recaudacion, manejo einversion de los fondos publicos, senalando los abusos 6 ma1versacion, aquien sea de derecho. 2a. Presentar anualmente a la Camara de Representantes yal Poder Ejecutivo, una lista general de los individuos aptos en sus Provincias respectivas, para los cargos de judicatura, y remitir las que hayan recibido de los Co1egios Eleetorales. 3a. Presentar al Poder Ejecutivo listas para el nombramiento de Gobernadores Politicos, y denunciarlos cuando delincan falten a sus deberes. 4a. Pedir al Prelado Eclesiastico, con los datos necesarios,
 
 ### Página 27 del PDF
 
-562
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-la re)JlOcion de los parrocos que tengan una conducta reprensible
-yperjudicial a la moral de sus feligreses.
-5a.
-Recibir de las corporaciones y ciudadanos las peticion€J8',
-representaciones e informes que se les dirijan, para hacer uso de
-ellas, si son de su competencia, 6 elevarlas a quien corresponda.
-6a.
-Racer porsi y pOl' medio de los Ayuntamientos, el re-
-parto de las contribuciones decretadaspor la Camara de Repre-
-sentantes.
-7a.
-Formal' los reglamentos que sean necesarios para arre-
-glo y mejora de la policia urbana y rural, y velar sobre su ejecu-
-cion conformandose a la ley.
-8a.
-Promovel' y decretal' la apertura y limpieza de caminos.
-9a.
-Promover pOl' cuantos medios es,ten a su akance el fo-
-mento de la agricultura, de Ja instruccion primaria y demas cono-
-cimientos.
-lOa.
-Formal' POl' si, y pOl' medio dB los Ayuntamientos, €I!
-censo de la poblacion y la €'stadistica general de la Provincia.
-11a.
-Favorecer pOl' todos 1'os medios posibles los proyectos
-de inmigracion de extranjeros industriosos.
-12a.
-Repartir entre los Ayuntamientos las
-contribucione~
-impuestas porIa Camara de Repl'esentantes, y las derramas pa-
-ra gastos provinciales de cualqlliera cIase.
-13a.
-Aprobar los impnestos de propios y arbitrios que los
-Ayuntamientos, en uso de las atribucion~sque 1e confiera la ley,
-impongan en 'lOI radio de la Provincia.
-14a.
-Acordar todo 10 que juzglle conveniente y necesario al
-bienestar de la Provincia, sin invadir las
-atribuciones de
-los
-Cuerpos Colegis.1adores, del Congreso 6 del
-Poder Ejecutivo, y
-que no sean contrarios a la Constituclon 6 a las leyes.
-15a.
-Pedir al Gongreso 6 al Poder Ejecutivo, segun la na-
-tural,eza de las materias, cuanto juzgue conveniente para la pros-
-peridad, mejora y fomenta de la Provincia, y que no este en las
-facultades de las Diputaciones, y ejercer ademas, todas aquellas
-que Ie confiera la ley.
-Art. 113.
-Las ordenanzas 6 resoluciones de las Diputacio-
-nes Provinciales se pasanin para su ejecucion al Gobernador Po-
-litico de la Provincia, que tendra el derecho de objetarlas dentro
-del termino de tres dias.
-Las objeciones seran consideradas pOl'
-la Diputacion, y si esta insistiere en su acuerdo, tendra su efedo
-y debido cllmplimiento.
-Art. 114.
-Concluidas las sesiones pasaran las Diputaciones
-Provinciales capias de sus resoluciones a la
-Camara de Repre-
+COLECCION DE LEYES, DECRETOS &.-1854. la re)JlOcion de los parrocos que tengan una conducta reprensible yperjudicial a la moral de sus feligreses. 5a. Recibir de las corporaciones y ciudadanos las peticion€J8', representaciones e informes que se les dirijan, para hacer uso de ellas, si son de su competencia, 6 elevarlas a quien corresponda. 6a. Racer porsi y pOl' medio de los Ayuntamientos, el reparto de las contribuciones decretadaspor la Camara de Representantes. 7a. Formal' los reglamentos que sean necesarios para arreglo y mejora de la policia urbana y rural, y velar sobre su ejecucion conformandose a la ley. 8a. Promovel' y decretal' la apertura y limpieza de caminos. 9a. Promover pOl' cuantos medios es,ten a su akance el fomento de la agricultura, de Ja instruccion primaria y demas conocimientos. lOa. Formal' POl' si, y pOl' medio dB los Ayuntamientos, €I! censo de la poblacion y la €'stadistica general de la Provincia. 11a. Favorecer pOl' todos 1'os medios posibles los proyectos de inmigracion de extranjeros industriosos. 12a. Repartir entre los Ayuntamientos las contribucione~ impuestas porIa Camara de Repl'esentantes, y las derramas para gastos provinciales de cualqlliera cIase. 13a. Aprobar los impnestos de propios y arbitrios que los Ayuntamientos, en uso de las atribucion~sque 1e confiera la ley, impongan en 'lOI radio de la Provincia. 14a. Acordar todo 10 que juzglle conveniente y necesario al bienestar de la Provincia, sin invadir las atribuciones de los Cuerpos Colegis.1adores, del Congreso 6 del Poder Ejecutivo, y que no sean contrarios a la Constituclon 6 a las leyes. 15a. Pedir al Gongreso 6 al Poder Ejecutivo, segun la natural,eza de las materias, cuanto juzgue conveniente para la prosperidad, mejora y fomenta de la Provincia, y que no este en las facultades de las Diputaciones, y ejercer ademas, todas aquellas que Ie confiera la ley. Art. 113. Las ordenanzas 6 resoluciones de las Diputaciones Provinciales se pasanin para su ejecucion al Gobernador Politico de la Provincia, que tendra el derecho de objetarlas dentro del termino de tres dias. Las objeciones seran consideradas pOl' la Diputacion, y si esta insistiere en su acuerdo, tendra su efedo y debido cllmplimiento. Art. 114. Concluidas las sesiones pasaran las Diputaciones Provinciales capias de sus resoluciones a la Camara de Repre-
 
 ### Página 28 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-563
-sentantes, que desaprobara aquellas que sean contrarias a
-la
-Constitucion 0 a las leyes.
-Art. 115.
-Las Diputaciones Provinciales nunca podran apro-
-piarse la voz del pueblo, para ejercer otras atribuciones que [as
-fijadas porIa Constitucion 6 las leyes.
-Todo procedimiento con-
-trario es atentario al orden y sieguridad publica.
-Art. 116.
-EI empleo de Diputado d~.Provincia es un cargo
-honorifico, gratuito y obligatorio, de que ningun ciudadano po-
-dra excusarse.
-Es compatible con todos los cargos publicos, ci-
-viles 6 administrativos; gozan de la misma inmunidad, duran-
-te las sesiones, que los Rrepresentantes del pueblo, par las opinio-
-nes emitidas en el local de ellas; pero senln responsab'les de los
-excesos que ccmetan en e1 ejercicio de sus atribuciones.
-CAPITULO TERCERO.-De los Ayuntamientos.
-Art. 117.
-Para el gobierno econ6mico politico de los pue-
-blos, habra un Ayuntamiento en todas las comunes en que se sub-
-divide el t21'1'itorio y en las que de nuevose ~rearen; sus vocales
-seran electos pOl' 'las respectivas Asramhleas primarias.
-Sus se-
-siones seran presididas POl' el vocal que ellio'Si mismoselijan de
-entre sus miembro:s, que se titulara Correjidor. Duraran en sus
-funciones tres anos, y su organizacion y atribuciones seran de-
-terminadas porIa ley.
-TITULO X.
-DE LA HACIENDA PUBLICA.
-Art. 118.
-Ningun impuesto se establ-ecera sino en virtud de
-una ley.
-Art. 119. Ninguna contribucion provinvial 6 comunal se
-impondra, sin e1 expreso consentimiento de las respectivas Dipu-
-tadones Provinciales 6 Ayuntamientos.
-Art. 120.
-Las contribuCiones directas en favor
-del erario
-publico Be estableceran anualmente.
-Las ley,es qua las impongan
-no tendran fuerza sino POl' un anD, a menos que se renueven,)
-prorrogHen.
-Art. 121.
-No podra establecerse priviIegio alguno en ma-
-teria -Be impuestos, y las excepciones 6 disminucion de estos se-
-rim hechos par hi ley.
+COLECCION DE LEYES, DECRETOS &.-1854. sentantes, que desaprobara aquellas que sean contrarias a la
+
+Constitucion 0 a las leyes. Art. 115. Las Diputaciones Provinciales nunca podran apropiarse la voz del pueblo, para ejercer otras atribuciones que [as fijadas porIa Constitucion 6 las leyes. Todo procedimiento contrario es atentario al orden y sieguridad publica. Art. 116. EI empleo de Diputado d~.Provincia es un cargo honorifico, gratuito y obligatorio, de que ningun ciudadano podra excusarse. Es compatible con todos los cargos publicos, civiles 6 administrativos; gozan de la misma inmunidad, durante las sesiones, que los Rrepresentantes del pueblo, par las opiniones emitidas en el local de ellas; pero senln responsab'les de los excesos que ccmetan en e1 ejercicio de sus atribuciones.
+
+**CAPITULO TERCERO.-De los Ayuntamientos.** Art. 117. Para el gobierno econ6mico politico de los pueblos, habra un Ayuntamiento en todas las comunes en que se subdivide el t21'1'itorio y en las que de nuevose ~rearen; sus vocales seran electos pOl' 'las respectivas Asramhleas primarias. Sus sesiones seran presididas POl' el vocal que ellio'Si mismoselijan de entre sus miembro:s, que se titulara Correjidor. Duraran en sus funciones tres anos, y su organizacion y atribuciones seran determinadas porIa ley.
+
+**TITULO X.**
+
+DE LA HACIENDA PUBLICA. Art. 118. Ningun impuesto se establ-ecera sino en virtud de una ley. Art. 119. Ninguna contribucion provinvial 6 comunal se impondra, sin e1 expreso consentimiento de las respectivas Diputadones Provinciales 6 Ayuntamientos. Art. 120. Las contribuCiones directas en favor del erario publico Be estableceran anualmente. Las ley,es qua las impongan no tendran fuerza sino POl' un anD, a menos que se renueven,) prorrogHen. Art. 121. No podra establecerse priviIegio alguno en materia -Be impuestos, y las excepciones 6 disminucion de estos serim hechos par hi ley.
 
 ### Página 29 del PDF
 
 :::64
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-Art. 122.
-SoIo la ley puede conceder pensiones 6 gratifica-
-dones del erario publico.
-Art. 123.
-El presupuesto de cada Secretaria de Estado se
-dividira en capitu1os, y no podrim hacerse emprestitos de un ca-
-pitulo a otro, ni distraer los fondos de su objeto especial sino en
-virtud de una ley.
-Art. 124.
-Todos los alios el Congreso Nacional verificara
-las cuentas del alio 6 de lotS alios anteriores, cada Despacho Mi-
-nisterial por separado.
-Decretara el presupuesto general del Es·
-tado, con indicacion de las entradas, y las adjudicacion a
-cada
-Secretaria de los fondos asignados para los gastos de.I ano.
-Art. 125.
-Fuera de los fondos decretados por la ley de pre-
-supuestos, no podra
-e~traerse surna alguna del erario publico
-sin el previa consentimiento del Congreso, excepto en los casas
-extraordinarios previstos por ,el inciso 18 del articulo 77.
-Art. 126.
-Todos' los anos, en e1; mes de
-Febrero,
-d,eberim
-centralizarse, imprirnirse y pub'lkarse las cuentas generales de
-la Republica del alio anterior, hajo 1a responsabi'lidad de'! Secre-
-tario de Estado del Despacho de Hacienda.
-Art. 127.
-Habra una Camara de Cuentas perrnanente, com-
-puesta de individuos nombrados POl" el Pader Ejecutivo,
-para
-contro1ar, examinar, aprobar 6 reprobar anua1mente todas las
-cuenta's generales y particu,lares de 1a
-Repub'lica, haciendo de
-ellas una relacion aJ Congreso, presentando1e el resuItado de BU
-examen, acompaliado de lasobservaciones que juzgue oportunas
-y fundadas. La ley determinara e1 numero del personal, atribucio-
-nes e indemnizacion, y designara los casas en que pueda 11amar
-comisiones auxiliares a su seno para su mayor ilustracion.
+
+COLECCION DE LEYES, DECRETOS &.-1854. Art. 122. SoIo la ley puede conceder pensiones 6 gratificadones del erario publico. Art. 123. El presupuesto de cada Secretaria de Estado se dividira en capitu1os, y no podrim hacerse emprestitos de un capitulo a otro, ni distraer los fondos de su objeto especial sino en virtud de una ley. Art. 124. Todos los alios el Congreso Nacional verificara las cuentas del alio 6 de lotS alios anteriores, cada Despacho Ministerial por separado. Decretara el presupuesto general del Es· tado, con indicacion de las entradas, y las adjudicacion a cada Secretaria de los fondos asignados para los gastos de.I ano. Art. 125. Fuera de los fondos decretados por la ley de presupuestos, no podra e~traerse surna alguna del erario publico sin el previa consentimiento del Congreso, excepto en los casas extraordinarios previstos por,el inciso 18 del articulo 77. Art. 126. Todos' los anos, en e1; mes de Febrero, d,eberim centralizarse, imprirnirse y pub'lkarse las cuentas generales de la Republica del alio anterior, hajo 1a responsabi'lidad de'! Secretario de Estado del Despacho de Hacienda. Art. 127. Habra una Camara de Cuentas perrnanente, compuesta de individuos nombrados POl" el Pader Ejecutivo, para contro1ar, examinar, aprobar 6 reprobar anua1mente todas las cuenta's generales y particu,lares de 1a Repub'lica, haciendo de ellas una relacion aJ Congreso, presentando1e el resuItado de BU examen, acompaliado de lasobservaciones que juzgue oportunas y fundadas. La ley determinara e1 numero del personal, atribuciones e indemnizacion, y designara los casas en que pueda 11amar comisiones auxiliares a su seno para su mayor ilustracion.
+
 ,TITULO XI.
-DE LA FUERZA ARMADA.
-Art.
-128. La fuerza armada es 1a defensora
-del Estado,
-tanto contra las agresiones externas, como contra las conmocio-
-nes internas ;.y la custodia de las libertades pubHcas.
-Art. 129.
-La fuerza armada es esencialmente
-obediente y
-pasiva: cua1quiera pordon de eUa que delibere sera calificado en
-el acto crimen de rebelion.
-I
-Art. 130.
-La fuerza armada se divide en ejercito de tierra.
-armada naval y guardia naoiona1.
-En ella no
-podran cr~rse
+
+DE LA FUERZA ARMADA. Art. 128. La fuerza armada es 1a defensora del Estado, tanto contra las agresiones externas, como contra las conmociones internas;.y la custodia de las libertades pubHcas. Art. 129. La fuerza armada es esencialmente obediente y pasiva: cua1quiera pordon de eUa que delibere sera calificado en el acto crimen de rebelion. I Art. 130. La fuerza armada se divide en ejercito de tierra. armada naval y guardia naoiona1. En ella no podran cr~rse
 
 ### Página 30 del PDF
 
-------..,C!l!lO~L·E!!l!C"'C!,!!!ll!lIC;~NfIIIlftr tEYES, bEbftEfo§ &amp;.~1854.
-565
-cuerpos privilegiados: la ley fijanl y establecera las regl'as de
-recIutamiento, del ascenso, y sus dE&gt;\"€chos y obligaciones.
-Art. 131.
-El Pader Ejecutivo .t1ombrara Comadantei3 de ar-
-mas en aquellos lugares que 10 juzgue conveniente.
-Art. 132.
-La creacion de grandes inspectores de agricultu-
-ra y polica, y de cuerpos de policia urbana y rura:l seran objetc
-de una ley, en que se especificaran todos sus deberes.
-Art. 133.
-La guardia nacional de cada Provinda esta bajo
-las 6rdenes inmediatas' del Gobernador Politico, cuyas veces ha
-ran los Corregidores de los Ayuntamientos en. las comunes
-eE
-que aquel no resida.
-La ley arreglara su organizacion.
-Art. 134.
-La guardia nacional no padra movilizarse sinoer:
-los casos previstos por la ley, y todos los grados seran en ella elec-
-tivos y temporales.
-Art. 135.
-Los militares seran juzgados, por los demos que
-cometan en los casos previstos por el C6digo penal militar, y se-
-gun las reglas que en el se establezcan, por Consejos de guerra
-En todos los demas casos, 6 cuando tengan por coacusados' a uno (
-muchos individuos de la c1ase civil, stmln juzgados por los tri-
-bunwles ordinarios.
-TITULO XII.
-DISPOSICIONES GENERALES.
-Art. 136.
-El pabeHon nacional mercante se compone de Ie.'
-colores azul y rojo, colocados encuarteles esquinados y dividid{)~~
-en elcentro par una cruz blanca, de la mitad del ancho de Ull(
-de los otros colores, que toque en los cuatro extremos.
-El pabe-
-Hon de guerra llevara ademas las armas de la Republica en
-e
-centro.
-Art.
-137.
-EI escudo de armas de la Republica es: una cruz.
-a cuyo pie esta abiertoel libro {1e los Evangelios, y ambos sobre
-salen de entre un trofeo de armas, en que se ve el simbolo de 1:1
-libertad, enlazado cOn una cinta en que va e1
-siguiente
-lema.
-Dios, Patria y Libertad.
-Art. 138.
-Se celebrara anualmente, con la mayor solemni·
-dad en toda la Republica, el dia 27 de Febrero, aniversario de I
-independencia y unica fiesta nacional.
-Art. 139.
-Ninguna ley puede tener eieeto retroactivo, y n ~.
-podra imponerse jamas pena alguna que no este prevista y sar.·
-cionada por la ley.
+------..,C!l!lO~L·E!!l!C"'C!,!!!ll!lIC;~NfIIIlftr tEYES, bEbftEfo§ &.~1854. cuerpos privilegiados: la ley fijanl y establecera las regl'as de recIutamiento, del ascenso, y sus dE>\"€chos y obligaciones. Art. 131. El Pader Ejecutivo.t1ombrara Comadantei3 de armas en aquellos lugares que 10 juzgue conveniente. Art. 132. La creacion de grandes inspectores de agricultura y polica, y de cuerpos de policia urbana y rura:l seran objetc de una ley, en que se especificaran todos sus deberes. Art. 133. La guardia nacional de cada Provinda esta bajo las 6rdenes inmediatas' del Gobernador Politico, cuyas veces ha ran los Corregidores de los Ayuntamientos en. las comunes eE que aquel no resida. La ley arreglara su organizacion. Art. 134. La guardia nacional no padra movilizarse sinoer: los casos previstos por la ley, y todos los grados seran en ella electivos y temporales. Art. 135. Los militares seran juzgados, por los demos que cometan en los casos previstos por el C6digo penal militar, y segun las reglas que en el se establezcan, por Consejos de guerra En todos los demas casos, 6 cuando tengan por coacusados' a uno ( muchos individuos de la c1ase civil, stmln juzgados por los tribunwles ordinarios.
+
+**TITULO XII.**
+
+DISPOSICIONES GENERALES. Art. 136. El pabeHon nacional mercante se compone de Ie.' colores azul y rojo, colocados encuarteles esquinados y dividid{)~~ en elcentro par una cruz blanca, de la mitad del ancho de Ull( de los otros colores, que toque en los cuatro extremos. El pabe- Hon de guerra llevara ademas las armas de la Republica en e centro. Art. 137. EI escudo de armas de la Republica es: una cruz. a cuyo pie esta abiertoel libro {1e los Evangelios, y ambos sobre salen de entre un trofeo de armas, en que se ve el simbolo de 1:1 libertad, enlazado cOn una cinta en que va e1 siguiente lema. Dios, Patria y Libertad. Art. 138. Se celebrara anualmente, con la mayor solemni· dad en toda la Republica, el dia 27 de Febrero, aniversario de I independencia y unica fiesta nacional. Art. 139. Ninguna ley puede tener eieeto retroactivo, y n ~. podra imponerse jamas pena alguna que no este prevista y sar.· cionada por la ley.
 
 ### Página 31 del PDF
 
-b6ti
-COLECCION DE tEfE8~ DECREI()S &amp;.
-18;)Ll.
-Art. 140.
-No podra hacerse ninguna ley contraria ni a la
-letra ni al espiritu de la Constitucion: en caso de duda, el texto
-de la Constitucion debe siempre prevalecer.
-Art. 141.
-Ningun poder, corporacion ni autoridad podra
-jamas conceder indulto general; perc el Poder Legislativo y el
-Ejecutivo podran, en casos particulares de conmocion U
-otros,
-conceder amnistias 0 indultos particulares.
-Art. 142.
-Sera creada Ia instruccion l'ubIica, comun a todos
-los dudadanos, gratuita, en todos los ramos de enseiianza prima-
-ria, cuyos, establecimientos seran
-distribuidos
-gradualmente y
-combinados enproporcion de la division del territorio.
-La ley
-arreglara 10s pormenores tanto de estos ramos, como de la e11se-
-nanza de artes y cie11cias.
-Art. 143.
-Todo juramenta sera exijido en virtud de la Cons-
-titucion 0 la ley, en los casos y forma que elilas determinen; y to-
-do empleado debe pres,tarle antes de entrar a ejercer sus fun-
-ciones.
-Art. 144.
-Los empleos publicos no pueden ser jamas pro-
-piedad d-e los que los ejerzan, ni patrimonio de familia alguna.
-Art. 145.
-Ninguna 1ey, decreta ni regbm3nto de adminis-
-tracion 0 polida seran obligatorios, sino despues de publicados
-en la forma que Ia leyestablece.
-Art. 146.
-Se prohibe la fundacion de toda clase de c·ensos a
-perpetuidad, tributos, capeltlan1as, mayorazgos y toda clase
-de
-vinculaciones.
-Art. 147
-Ninguna plaza ni parte del territorio podran ser
-declarados en estado de sitio, sino en liaS casas primero, de inva-
-sion extrangera efectuada 0 i11minente; segundo, de conmocion
-interior.
-En el primer caso, la declaratoria toea ai Poder Ejecu-
-tivo, y en elsegundo, al Congreso; perc S1 este no esta reunido, el
-Poder Ejecutiv'o hace la declaratoria, y convoca inmediatamente
-ail Congreso para que pronuncie sabre ella.
-La Capita.} nunca se-
-ra declaradaen estado de sitio, sino por una ley.
-Art. 148.
-En ningun caso podra suspenderse laejecucion, ni
-de una parte ni del todo de la Gonstitucion.
-Su observancia
-y
-exacto cumplimiento, quedan confiados al celo de los poderes que
-ella establece, y al valor y patriotismo de todos los dominicanos.
-Art. 149.
-Desde ell. mismo dia en que se puhlicare de nuevo
-esta Constitucion, sus articulos revi.sados y los concordados con
-ellos haran parte constituyente e integrante del Codigo Politico
-fundamental, decretado por el Soberano Congreso Constituyente
-en San Cristobal e1 6 de Noviembre 1844.
+b6ti COLECCION DE tEfE8~ DECREI()S &. 18;)Ll. Art. 140. No podra hacerse ninguna ley contraria ni a la letra ni al espiritu de la Constitucion: en caso de duda, el texto de la Constitucion debe siempre prevalecer. Art. 141. Ningun poder, corporacion ni autoridad podra jamas conceder indulto general; perc el Poder Legislativo y el Ejecutivo podran, en casos particulares de conmocion U otros, conceder amnistias 0 indultos particulares. Art. 142. Sera creada Ia instruccion l'ubIica, comun a todos los dudadanos, gratuita, en todos los ramos de enseiianza primaria, cuyos, establecimientos seran distribuidos gradualmente y combinados enproporcion de la division del territorio. La ley arreglara 10s pormenores tanto de estos ramos, como de la e11senanza de artes y cie11cias. Art. 143. Todo juramenta sera exijido en virtud de la Constitucion 0 la ley, en los casos y forma que elilas determinen; y todo empleado debe pres,tarle antes de entrar a ejercer sus funciones. Art. 144. Los empleos publicos no pueden ser jamas propiedad d-e los que los ejerzan, ni patrimonio de familia alguna. Art. 145. Ninguna 1ey, decreta ni regbm3nto de administracion 0 polida seran obligatorios, sino despues de publicados en la forma que Ia leyestablece. Art. 146. Se prohibe la fundacion de toda clase de c·ensos a perpetuidad, tributos, capeltlan1as, mayorazgos y toda clase de vinculaciones. Art. 147 Ninguna plaza ni parte del territorio podran ser declarados en estado de sitio, sino en liaS casas primero, de invasion extrangera efectuada 0 i11minente; segundo, de conmocion interior. En el primer caso, la declaratoria toea ai Poder Ejecutivo, y en elsegundo, al Congreso; perc S1 este no esta reunido, el Poder Ejecutiv'o hace la declaratoria, y convoca inmediatamente ail Congreso para que pronuncie sabre ella. La Capita.} nunca sera declaradaen estado de sitio, sino por una ley. Art. 148. En ningun caso podra suspenderse laejecucion, ni de una parte ni del todo de la Gonstitucion. Su observancia y exacto cumplimiento, quedan confiados al celo de los poderes que ella establece, y al valor y patriotismo de todos los dominicanos. Art. 149. Desde ell. mismo dia en que se puhlicare de nuevo esta Constitucion, sus articulos revi.sados y los concordados con ellos haran parte constituyente e integrante del Codigo Politico fundamental, decretado por el Soberano Congreso Constituyente en San Cristobal e1 6 de Noviembre 1844.
 
 ### Página 32 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1 P,54.
-567
-TITULO XIII.
-DE LA REVISION DE LA CONSTITUCION.
-Art. 150.
-El Congreso puede, en virtud de la proposicion
-hecha porIa Camara de Representantes, y admitida pOl' los dos
-tercios de aquel, decretal' ila revision de la Constitucion, d,esig-
-nando y publicando los articulos y disposiciones que deban revi-
-sarse y las razones de utilidad, necesidad &lt;5 publica conveniencia.
-Art. 151.
-En la sesion ordinaria
-&lt;5
-,extraordinaria subse-
-cuente a aquella que se haya dado el decreto de revision, procede
-el Congreso a ella, debiendo estar presente los dos tercios de sus
-miembrc&gt;s, pOl' 10 menos.
-Art. 152.
-El Congl'eso designara, en el decreto de revision,
-el lugar y la epoca que juzgue conveniente para su reunion.
-TITULO XIV.
-DISPOSICIONES TRANSITORIAS.
-Art. 153.
-El actual Presidente de la Republica permanecera
-en el ejercicio del su encargo dos periodos Constitucionales, y ter-
-minarael ultimo dia de Febrero delano 186l.
-Art. 154.
-El Vice-Presidente sera elegida en las primeras
-reuniones El,edorales, y ejercera sus fundones hasta el ultimo
-dia de Febrero del ano de 1859.
-Art. 155.
-Los miembros aduales del Cuerpo
-Legislativo
-conservaran sus destinos hasta su reemplazo, que se hara. en las
-primeras elecciones conforme a esta Constitucion; y la sesion or-
-dinaria, que debia tener lugar el 10. de Febrero, queda trasferida
-hasta €II 1Q. de Mayo proximo.
-Art. 156.
-El Poder Ejecutivo expedira inmediatamente un
-decreto de convocatoria para la reunion de las Asambileas prima-
-rias y CoLegios Electorales, fijando el mas corto plazo para que
-la eleccion del Vice-Presidente de la Republica, miembros del
-Senado y de lla Camara de Representantes, como de los demas
-funcionarios pubIicos que lesesta atribuido elegir &lt;5 indicar, se-
-gun 10 establece esta Constitucion, queden terminadas a mas tar-
-dar defintivamente el 15 de Abril proximo.
-Art. 157.
-Todas las Ieyes 8ictualmente vigentes, reglamen-
-tos y disposiciones, en cuanto no sean contrarias a la
-presente
-Constitucion, continuaran en toda su fuerza y vigor.
-Los aetua-
+COLECCION DE LEYES, DECRETOS &.-1 P,54.
+
+**TITULO XIII.**
+
+DE LA REVISION DE LA CONSTITUCION. Art. 150.
+
+El Congreso puede, en virtud de la proposicion hecha porIa Camara de Representantes, y admitida pOl' los dos tercios de aquel, decretal' ila revision de la Constitucion, d,esignando y publicando los articulos y disposiciones que deban revisarse y las razones de utilidad, necesidad <5 publica conveniencia. Art. 151. En la sesion ordinaria <5,extraordinaria subsecuente a aquella que se haya dado el decreto de revision, procede
+
+el Congreso a ella, debiendo estar presente los dos tercios de sus miembrc>s, pOl' 10 menos. Art. 152. El Congl'eso designara, en el decreto de revision, el lugar y la epoca que juzgue conveniente para su reunion.
+
+**TITULO XIV.**
+
+DISPOSICIONES TRANSITORIAS. Art. 153. El actual Presidente de la Republica permanecera en el ejercicio del su encargo dos periodos Constitucionales, y terminarael ultimo dia de Febrero delano 186l. Art. 154. El Vice-Presidente sera elegida en las primeras reuniones El,edorales, y ejercera sus fundones hasta el ultimo dia de Febrero del ano de 1859. Art. 155. Los miembros aduales del Cuerpo Legislativo conservaran sus destinos hasta su reemplazo, que se hara. en las primeras elecciones conforme a esta Constitucion; y la sesion ordinaria, que debia tener lugar el 10. de Febrero, queda trasferida hasta €II 1Q. de Mayo proximo. Art. 156. El Poder Ejecutivo expedira inmediatamente un decreto de convocatoria para la reunion de las Asambileas primarias y CoLegios Electorales, fijando el mas corto plazo para que la eleccion del Vice-Presidente de la Republica, miembros del Senado y de lla Camara de Representantes, como de los demas funcionarios pubIicos que lesesta atribuido elegir <5 indicar, segun 10 establece esta Constitucion, queden terminadas a mas tardar defintivamente el 15 de Abril proximo. Art. 157. Todas las Ieyes 8ictualmente vigentes, reglamentos y disposiciones, en cuanto no sean contrarias a la presente
+
+Constitucion, continuaran en toda su fuerza y vigor. Los aetua-
 
 ### Página 33 del PDF
 
 56~
-COLECCION DE LEYES, DECRETOS &amp;.-1 R54.
-les miembros de la Suprema Corte de Justicia, de los tribuna'les
-Justicia Mayores y los Alcaldes Constitucionales, continuaran en
-sus de3tinos ejerciendo sus funciones hasta su reemplazo.
-Los
-oficios publicos y demas oficinas, siempre que no sean contrarias,
-seguiran funcionando hasta nueva organizacion.
-Art. 158.
-Las causas que se encuentren instauradas en los
-tribunales de apelacion, ali acto de publicarse esta Constitucion,
-pasaran a la Suprema Corte de Justicia sin nuevo requisito, y
-sin que pueda aJlegarse la perencion de los terminos.
-Art. 159.
-Queda el territorio dividido pOl' ahora en dos dis-
-tritos judiciales.
-El de Santo Domingo, que comprendera en su
-jurisdiccion a las Provincias de Azua, Seybo y Santo Domingo; y
-el de Santiago, que comprendera la Provincia de este nombre y
-la Vega Real.-El Congreso podra subdividirlos en otros cuando
-fuere necesario; pero no podra disminuirlos.
-Art. 160.
-El Poder Ejecutivo queda autorizado para entrar
-en convenciones con 1a Sede Apost6lica, yefectuar un Concorda-
-to entre el Santo Padre y la Republica, impetrando a la vez Ia
-gracia del Patronato.
-Art. 161.
-Hasta que no se firme la paz, quedael Poder Eje-
-cutivo autorizado para ,conferir todos los grados en e1 ejercito de
-tierra y mar; para movilizar las guardias nacionales, y conferir
-todos los grados en ella; para nombrar y revocar libremente los
-Gobernadores Politkos, pudiendo estos, ademas de las funciones
-civiles, y que en su ausencia, e1 que ejerza interinamente la Go-
-bernacion de la Provincia, presida la Diputacion ProvinciaL
-Firmas de los miembros del Congreso Constituyente de San
-Cristobal de 6 de Noviembre de 1844-El Presidente,-M. M. Va-
-lencia, diputado por Santo
-Domingo,-El Vice-Presidtmte,-
-Antonio Gutierres, diputado par
-Samana.-A Ruiz, diputado
-por Hato Mayor.-Andres Rozon, diputado pOl' BanL-Antonio
-Jimenez, diputado par Banica.-Bernardo Aybar, diputado por
-Neyba.-Buenaventura Ba!ez, diputado pOl' Azua.-Casimiro Cor
-dero, diputado par la Vega.-Domingo A. Solano, diputado por
-Santiago.-Domingo de 1a Rocha, diputado pOl' Santo Domingo.
--Facundo Santana, diputado pOl' Los L1anos.-Fernando Salce-
-do, diputado pOl' Moca.-Jose Tejera, diputado por Puerto Pla-
-ta.-Jose Mateo Perdomo, diputado pOl' Hincha.-Jose M. Mf-
-drano, diputado pOl' Macoris.-Jose Valverde, diputado por Co-
-tuy.-J. P. Andujar, diputado pOl' Cahobas.-Juan Reynoso, di-
-putado porIa Vega.-Juan de Acosta, diputado por e:l Seybo.-
-Juan Rijo, diputado por Higuey.-Juan Lopez, diputado por San
-•
+
+COLECCION DE LEYES, DECRETOS &.-1 R54. les miembros de la Suprema Corte de Justicia, de los tribuna'les Justicia Mayores y los Alcaldes Constitucionales, continuaran en sus de3tinos ejerciendo sus funciones hasta su reemplazo. Los oficios publicos y demas oficinas, siempre que no sean contrarias, seguiran funcionando hasta nueva organizacion. Art. 158. Las causas que se encuentren instauradas en los tribunales de apelacion, ali acto de publicarse esta Constitucion, pasaran a la Suprema Corte de Justicia sin nuevo requisito, y sin que pueda aJlegarse la perencion de los terminos. Art. 159. Queda el territorio dividido pOl' ahora en dos distritos judiciales. El de Santo Domingo, que comprendera en su jurisdiccion a las Provincias de Azua, Seybo y Santo Domingo; y el de Santiago, que comprendera la Provincia de este nombre y la Vega Real.-El Congreso podra subdividirlos en otros cuando fuere necesario; pero no podra disminuirlos. Art. 160. El Poder Ejecutivo queda autorizado para entrar en convenciones con 1a Sede Apost6lica, yefectuar un Concordato entre el Santo Padre y la Republica, impetrando a la vez Ia gracia del Patronato. Art. 161. Hasta que no se firme la paz, quedael Poder Ejecutivo autorizado para,conferir todos los grados en e1 ejercito de tierra y mar; para movilizar las guardias nacionales, y conferir todos los grados en ella; para nombrar y revocar libremente los Gobernadores Politkos, pudiendo estos, ademas de las funciones civiles, y que en su ausencia, e1 que ejerza interinamente la Gobernacion de la Provincia, presida la Diputacion ProvinciaL Firmas de los miembros del Congreso Constituyente de San Cristobal de 6 de Noviembre de 1844-El Presidente,-M. M. Valencia, diputado por Santo Domingo,-El Vice-Presidtmte,- Antonio Gutierres, diputado par Samana.-A Ruiz, diputado por Hato Mayor.-Andres Rozon, diputado pOl' BanL-Antonio Jimenez, diputado par Banica.-Bernardo Aybar, diputado por Neyba.-Buenaventura Ba!ez, diputado pOl' Azua.-Casimiro Cor dero, diputado par la Vega.-Domingo A. Solano, diputado por Santiago.-Domingo de 1a Rocha, diputado pOl' Santo Domingo. -Facundo Santana, diputado pOl' Los L1anos.-Fernando Salcedo, diputado pOl' Moca.-Jose Tejera, diputado por Puerto Plata.-Jose Mateo Perdomo, diputado pOl' Hincha.-Jose M. Mfdrano, diputado pOl' Macoris.-Jose Valverde, diputado por Cotuy.-J. P. Andujar, diputado pOl' Cahobas.-Juan Reynoso, diputado porIa Vega.-Juan de Acosta, diputado por e:l Seybo.- Juan Rijo, diputado por Higuey.-Juan Lopez, diputado por San •
 
 ### Página 34 del PDF
 
-COLECCION DE LEYES, DECRETOS
-&amp;.-U\~[L
-5S,?
-Jose de las Matas.-Jesus Ayala, diputado pOl" San Crist6ba1.-
-Juan A. de los Santos, diputado POl' San Juan.-Juan N. Tejera,
-diputado par San Rafael.-Julian de Aponte,
-diputado par el
-Seybo.--Manuel Gonzalez Bernal, diputado par Monte Plata
-y
-Boya.-Manuel Abreu,
-diputado
-POI' Monte
-Cristi.-Manuel
-Diaz, diputado pOl' Dajabon.-M. R. Castellanos, diputado
-POl'
-Santiago.-Santiago Suera, diputado
-pOl' las Matas.-Vicente
-Mancebo, diputadopor Azua.-Dr. Caminero, diputado POI' San-
-to Domingo, Seaetario.-Juan Luis Franco Bid6, diputado POI'
-Santiago, Secn,tario.
-Firmas de los miembros del Congreso de Revision, reunidos
-en la ciudad de Santo Domingo a los veinte y cinco dias del mes de
-Febrero de 1854, y 10(', de la Patria.-EI Presidente, Benigno F.
-de Rojas,-EI Vice-Presidente, Domingo D.
-Pi,chardo.-Miem-
-bros: D. Ortiz.-Antonio Ramirez.-Felix Mercenario.-T. Ob-
-jio.-Jacinto de Castro.-F. Perdomo.-Pedro Valverde.-J. B.
-Lovelace.-F. M. Delmonte.-Ulises F.
-E~aiHat.-J. N. Teje-
-ra.-Jose R. Bernal.-Los Secretarios: Felix
-Morilla.-Fran-
-eisco Sarda y Carbonel1.-Jose Mateo Perdomo.
-Cumplase, pubHquese y ejecutese en el territorio de la Re-
-publica Dominicana.-Palacio Nacional de Santo Domingo a los
-27 dias del mes de Febrero de 1854, y 119 • de la Patria.-EI Pre-
-sidente del Estado.-Pedro Santana.-El Secl"etario de Estado en
-los Dtspachos del InteriM y Policia, encargado de la Cartera de
-Justicia e Instruccion publica.-Francisco Moreno.-EI Secre-
-tario de Estado en los Despachos de Hadenda y Comercio.-Mi-
-guel Lavastida.-EI Secretal'io de Estado en los Despachos de
-Guerra y Marina, encargado de la Cartera de Relaciones Exterio-
-res.-Abad Alfau.
-Num. 338.-DECRETO del P. E. convocando las Asambleas pri-
-ma1'ias y Colegios Electorales.
-Dios, Patria y Libertad.-Republica
-Dominicana.-Pedro
-Santana, General en gefe de los ejercitos, Libertador de la Pa-
-tria y Presidente de la Republica.
-Considerando: que publicada en esta Capital el 27 de
-Fe-
-bre1'o ultimo la Constitucion de 6 de Noviemb1'e de 1844, 1'evisada
-POI' el Congreso Nacional, y queesta en sus disposiciones t1'ansi-
-torias articulo 156 dice:
+COLECCION DE LEYES, DECRETOS &.-U\~[L 5S,? Jose de las Matas.-Jesus Ayala, diputado pOl" San Crist6ba1.- Juan A. de los Santos, diputado POl' San Juan.-Juan N. Tejera, diputado par San Rafael.-Julian de Aponte, diputado par el Seybo.--Manuel Gonzalez Bernal, diputado par Monte Plata y Boya.-Manuel Abreu, diputado POI' Monte Cristi.-Manuel Diaz, diputado pOl' Dajabon.-M. R. Castellanos, diputado POl' Santiago.-Santiago Suera, diputado pOl' las Matas.-Vicente Mancebo, diputadopor Azua.-Dr. Caminero, diputado POI' Santo Domingo, Seaetario.-Juan Luis Franco Bid6, diputado POI' Santiago, Secn,tario. Firmas de los miembros del Congreso de Revision, reunidos en la ciudad de Santo Domingo a los veinte y cinco dias del mes de Febrero de 1854, y 10(', de la Patria.-EI Presidente, Benigno F. de Rojas,-EI Vice-Presidente, Domingo D. Pi,chardo.-Miembros: D. Ortiz.-Antonio Ramirez.-Felix Mercenario.-T. Objio.-Jacinto de Castro.-F. Perdomo.-Pedro Valverde.-J. B. Lovelace.-F. M. Delmonte.-Ulises F. E~aiHat.-J. N. Tejera.-Jose R. Bernal.-Los Secretarios: Felix Morilla.-Franeisco Sarda y Carbonel1.-Jose Mateo Perdomo. Cumplase, pubHquese y ejecutese en el territorio de la Republica Dominicana.-Palacio Nacional de Santo Domingo a los 27 dias del mes de Febrero de 1854, y 119 • de la Patria.-EI Presidente del Estado.-Pedro Santana.-El Secl"etario de Estado en los Dtspachos del InteriM y Policia, encargado de la Cartera de Justicia e Instruccion publica.-Francisco Moreno.-EI Secretario de Estado en los Despachos de Hadenda y Comercio.-Miguel Lavastida.-EI Secretal'io de Estado en los Despachos de Guerra y Marina, encargado de la Cartera de Relaciones Exteriores.-Abad Alfau. Num. 338.-DECRETO del P. E. convocando las Asambleas prima1'ias y Colegios Electorales. Dios, Patria y Libertad.-Republica Dominicana.-Pedro Santana, General en gefe de los ejercitos, Libertador de la Patria y Presidente de la Republica.
+
+Considerando: que publicada en esta Capital el 27 de Febre1'o ultimo la Constitucion de 6 de Noviemb1'e de 1844, 1'evisada POI' el Congreso Nacional, y queesta en sus disposiciones t1'ansitorias articulo 156 dice:
 
 ### Página 35 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-185'l.
-537
-TITULO II.
-DEL TERRENO.
-Art. 20 •
-La parte Espanola de la isla de Santo Domingo y
-sus islas adyacentes, forman el territorio de la Republica Domini-
-cana ;sus limites son los mismos que en mil setecientos noventa y
-tres la dividian por el lado del Occidente de la
-parte
-francesa.
-Estos limites quedan definitivamente fijados.
-Art. 39 •
-El territorio de la Republica se dividira en pravin-
-cias, y estas se subdividirfm en comunes, cuyo numero y distri-
-bucion seran arreglados por la ley.
-Las provincias actuales de la
-Republica son: Compostela de Azua, Santo Domingo d~ Guzman,
-Santa Cruz del Seybo, Concepcion de la Vega y Santiago de los
-Caballeros.
-Art. 49•
-La ciudad de Santo Domingo es Capital de la Repu-
-blica y asi€llto del Gobierno.
-El Presidente no podra ejercer la
-administradon del Estado fuera de ella, sin previo consentimien-
-to del Congreso.
-TITULO III.
+COLECCION DE LEYES, DECRETOS &.-185'l.
+
+**TITULO II.**
+
+DEL TERRENO. Art. 20 • La parte Espanola de la isla de Santo Domingo y sus islas adyacentes, forman el territorio de la Republica Dominicana;sus limites son los mismos que en mil setecientos noventa y tres la dividian por el lado del Occidente de la parte francesa. Estos limites quedan definitivamente fijados. Art. 39 • El territorio de la Republica se dividira en pravincias, y estas se subdividirfm en comunes, cuyo numero y distribucion seran arreglados por la ley. Las provincias actuales de la Republica son: Compostela de Azua, Santo Domingo d~ Guzman, Santa Cruz del Seybo, Concepcion de la Vega y Santiago de los Caballeros. Art. 49• La ciudad de Santo Domingo es Capital de la Republica y asi€llto del Gobierno. El Presidente no podra ejercer la administradon del Estado fuera de ella, sin previo consentimiento del Congreso.
+
+**TITULO III.**
+
 DE LOS DOMINICANOS, SUS DERECHOS Y DEBERES
-CAPITULO PRIMERO.
-Art. 59.
-Son dominicanos:
-lQ. Todos los individuos que wI momento de la publicacion de
-la presente Constitucion goeen de esta cualidad.
-2Q•
-Todos los nacidos en el: territorio de la Republica de pa-
-dresdominicanos, y los hijos de estos.
-3Q•
-Todos los que nacidos en el tJerritorio de la Republica de
-padres domniicanos, y que habiendo
-emigrado, vuelvan a fijar
-su residencia en ella.
-4Q• Todos los espaiioles dominicanizados y sus d~scendientesque,
-habiendo emigrado en 1844, no han tornado ,las armas contra la
-Republica, ni la han hostiIizado de modo alguno, y vuelvan a fi-
-jar su residencia en ella.
-5Q•
-Todo'S los descendientes de oriundos de la parte Espano-
-la, nacidos en paisesextrangeros que vengan a fijar su residen-
-cia en la Republica.
-6Q•
-Todos los nacidos enel territorio de padres extrangeros
+
+**CAPITULO PRIMERO.** Art. 59. Son dominicanos: lQ. Todos los individuos que wI momento de la publicacion de la presente Constitucion goeen de esta cualidad. 2Q• Todos los nacidos en el: territorio de la Republica de padresdominicanos, y los hijos de estos. 3Q• Todos los que nacidos en el tJerritorio de la Republica de padres domniicanos, y que habiendo emigrado, vuelvan a fijar su residencia en ella. 4Q• Todos los espaiioles dominicanizados y sus d~scendientesque, habiendo emigrado en 1844, no han tornado,las armas contra la Republica, ni la han hostiIizado de modo alguno, y vuelvan a fijar su residencia en ella. 5Q• Todo'S los descendientes de oriundos de la parte Espanola, nacidos en paisesextrangeros que vengan a fijar su residencia en la Republica. 6Q• Todos los nacidos enel territorio de padres extrangeros
 
 ### Página 36 del PDF
 
-538
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-que invoquen esta cualidad, cuando Ueguen a su mayor '.:dad.
-79 •
-Todos los derechos de ciudadanos
-no se pierden ni se
-suspenden, solo en los casos siguientes:
-1.
-Se pierden: por traicion a la patria, por naturalizar.·se en
-puis extrangero.
-Po'!:" haber sufrido pena aflictiva 6 infamante, en virtud de
-condenacion judicial, y mientras no se obtenga rehabilitacion.
-2Q•
-Se suspenden:
-Por la tacha de deudor frauduJ.ento.
-Por hallarsle procesado cririlinalmente.
-Por no tenerempleo, urofesion, oficio, 6 modo de vivir cono~
-cido.
-POl' interdiccion judicial.
-§ La ley arreglara el ejercicio de los derechos civiles.
-Art. 79 •
-Todos los extrangeros, no pertenecientes a una na-
-cion enemiga, quie se ha:llen en el territorio de Ia Republica 6 ven-
-gan ael, si profesan algun arte, ciencia 6 industria util, gozaran
-de los mismos derechos y garantias que los dominicanos, debiendo
-estar sometidos como eHos, a las leyes y autoridades del pais.
-CAPITULO SEGUNDO.
-Art. 8Q•
-Los dominicanos nacen y permanecen libres eigua-
-les ,en derecho, y todos son admisibles a los empleos public08, que-
-dando para siempre abolida la esclavitud.
-Art. 99 •
-La libertad individual queda asegurada y garanti-
-zada: nadie puede ser perseguido so~o en los casos poovistos por
-la ley, y en la forma que ella prescriba.
-Art. 10.
-Fuera del caso de flagrante delito, ninguno puede
-Sier encarcelado, sino en virtud de una orden motivada d~l juez,
-que debera notificarse en el momento del arresto, 0 a 10 mas tar-
-de, dentro del termino de veinte y cuatro horas.
-Art. 11.
-Los sorprendidos en frlagrante crimen 0 delito se-
-ran conducidos ante e1 juez competente; y si fuere en la noche,
-se Ilenara esta formalidad a las ocho de la manana del siguiente
-dia, sin que puedan ser pres,entados ante ninguna otra autoridad.
-Art. 12.
-Nadie puede ser preso ni sentenciado, sino por el
-juez 6 tribuna,} competente, en virtud de ,reyes anteriores al delito,
-y en las formas que ellas prescriban.
-Art. 13. No podra imponerse jamas la pena dp. confiscacion
-(Ie bienes.
-Art. 14.
-La propiedades inviolable; ninguno puede' ser des-
-f
+COLECCION DE LEYES, DECRETOS &.-1854. que invoquen esta cualidad, cuando Ueguen a su mayor '.:dad. 79 • Todos los derechos de ciudadanos no se pierden ni se suspenden, solo en los casos siguientes: 1. Se pierden: por traicion a la patria, por naturalizar.·se en puis extrangero. Po'!:" haber sufrido pena aflictiva 6 infamante, en virtud de condenacion judicial, y mientras no se obtenga rehabilitacion. 2Q• Se suspenden: Por la tacha de deudor frauduJ.ento. Por hallarsle procesado cririlinalmente. Por no tenerempleo, urofesion, oficio, 6 modo de vivir cono~ cido. POl' interdiccion judicial. § La ley arreglara el ejercicio de los derechos civiles. Art. 79 • Todos los extrangeros, no pertenecientes a una nacion enemiga, quie se ha:llen en el territorio de Ia Republica 6 vengan ael, si profesan algun arte, ciencia 6 industria util, gozaran de los mismos derechos y garantias que los dominicanos, debiendo estar sometidos como eHos, a las leyes y autoridades del pais.
+
+**CAPITULO SEGUNDO.** Art. 8Q• Los dominicanos nacen y permanecen libres eiguales,en derecho, y todos son admisibles a los empleos public08, quedando para siempre abolida la esclavitud. Art. 99 • La libertad individual queda asegurada y garantizada: nadie puede ser perseguido so~o en los casos poovistos por la ley, y en la forma que ella prescriba. Art. 10. Fuera del caso de flagrante delito, ninguno puede Sier encarcelado, sino en virtud de una orden motivada d~l juez, que debera notificarse en el momento del arresto, 0 a 10 mas tarde, dentro del termino de veinte y cuatro horas. Art. 11. Los sorprendidos en frlagrante crimen 0 delito seran conducidos ante e1 juez competente; y si fuere en la noche, se Ilenara esta formalidad a las ocho de la manana del siguiente dia, sin que puedan ser pres,entados ante ninguna otra autoridad. Art. 12. Nadie puede ser preso ni sentenciado, sino por el juez 6 tribuna,} competente, en virtud de,reyes anteriores al delito, y en las formas que ellas prescriban. Art. 13. No podra imponerse jamas la pena dp. confiscacion (Ie bienes. Art. 14. La propiedades inviolable; ninguno puede' ser desf
 
 ### Página 37 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-539
-poja,lo de la h:enor pordon de ella, sino por via de apremio 6 pe-
-na legal, 6 por causa justificada de utilidad publica, y mediante
-una pr,evia y justa indemnizacion a juicio de peritos.
-En ca~v' de guerra, esta indemnizacion puede no ser previa.
-Art. 15.
-EI d0micilio de todo individuo es un asHo sagrado
-,e inviolable.
-l'T
-O '-.guna visita domiciliaria puede vlerificarse sino
-en los casos previstospor la ley, y con las formalidades que
-ella
-prescriba.
-Art. 16.
-Todos los dominicano::: pueden imprimir y publicar
-libremente sus ideas sin previa censura, con sujecion a las IeJie:s.
-La calificacion de los delitos de imprenta, corresponde ~xdu:siva­
-mente a los jurados.
-Art. 17.
-Unas mismas leyes regiran ,en toda la Republica, Y
-• en elIas no se establecera mas qu,e un solo fuero para todos los do-
-minicanos, en los juicios comunes, civiles y criminales.
-Art. 18.
-A ninguno se Ie puede obligar que haga 10 que la
-ley no manda, ni impedir que haga 10 que la ley no priva.
-Art. 19.
-La correspondencia privada y papeles particulares
-son sagrados; no podran ser vioaados ni interceptados sino por au-
-toridad competentJe, en los casos y con las formalidade:s prescritas
-por ilas leyes.
-Art. 20.
-Los dominicanos Uenen el derecho de asociarse, ~in
-estar sujetos a ninguna medida preventiva; tienen el die reunirse
-pacificamente y sin armas en casas particulares, conformandose
-a las leyes que puedan arreglaresta facultad; pero sin estar su-
-jetos a previa autorizacion.
-Art. 21.
-Las sociedades patri6ticas que se establezcan para
-promover y auxiliar todos los ramos de utiIidad publica, daran
-parte at Poder Ejecutivo de su €Istablecimiento y nombre.
-Art. 22.
-Para denunciar a los funcionarios publicos por he-
-chos de su administracion, no se necesita previa autorizacion.
-Art. 23.
-Todos los clominicanos tienen el derecho de peticion
-sobre cualquier n1e!gocio de interes publico 6 privado, y de emitir
-libremente ysin responsabilidad alguna su
-opinion sabre elIos ;
-pero ningun individuo ni asociacion particular podra hacer pe-
-ticionesen nombre del pueblo, ni menos arrogarse la calificaci6n
-de pueblo.
-Su voluntad solo puede expresarse par media de los
-que 10 representan par mandata ()btenido conforme a esta Cons-
-titucion.
-Cuando muchos individuos dirijieren
-una peticion al
-Congreso, a cualquiera de las Camaras, al -Poder Ejecutivo y de-
-mas autoridade,s publicas, todos seran responsables soIidariamen
+COLECCION DE LEYES, DECRETOS &.-1854. poja,lo de la h:enor pordon de ella, sino por via de apremio 6 pena legal, 6 por causa justificada de utilidad publica, y mediante una pr,evia y justa indemnizacion a juicio de peritos. En ca~v' de guerra, esta indemnizacion puede no ser previa. Art. 15. EI d0micilio de todo individuo es un asHo sagrado,e inviolable. l'T O '-.guna visita domiciliaria puede vlerificarse sino en los casos previstospor la ley, y con las formalidades que ella prescriba. Art. 16. Todos los dominicano::: pueden imprimir y publicar libremente sus ideas sin previa censura, con sujecion a las IeJie:s. La calificacion de los delitos de imprenta, corresponde ~xdu:siva mente a los jurados. Art. 17. Unas mismas leyes regiran,en toda la Republica, Y • en elIas no se establecera mas qu,e un solo fuero para todos los dominicanos, en los juicios comunes, civiles y criminales. Art. 18. A ninguno se Ie puede obligar que haga 10 que la ley no manda, ni impedir que haga 10 que la ley no priva. Art. 19. La correspondencia privada y papeles particulares son sagrados; no podran ser vioaados ni interceptados sino por autoridad competentJe, en los casos y con las formalidade:s prescritas por ilas leyes. Art. 20. Los dominicanos Uenen el derecho de asociarse, ~in estar sujetos a ninguna medida preventiva; tienen el die reunirse pacificamente y sin armas en casas particulares, conformandose a las leyes que puedan arreglaresta facultad; pero sin estar sujetos a previa autorizacion. Art. 21. Las sociedades patri6ticas que se establezcan para promover y auxiliar todos los ramos de utiIidad publica, daran parte at Poder Ejecutivo de su €Istablecimiento y nombre. Art. 22. Para denunciar a los funcionarios publicos por hechos de su administracion, no se necesita previa autorizacion. Art. 23. Todos los clominicanos tienen el derecho de peticion sobre cualquier n1e!gocio de interes publico 6 privado, y de emitir libremente ysin responsabilidad alguna su opinion sabre elIos; pero ningun individuo ni asociacion particular podra hacer peticionesen nombre del pueblo, ni menos arrogarse la calificaci6n de pueblo. Su voluntad solo puede expresarse par media de los que 10 representan par mandata ()btenido conforme a esta Constitucion. Cuando muchos individuos dirijieren una peticion al Congreso, a cualquiera de las Camaras, al -Poder Ejecutivo y demas autoridade,s publicas, todos seran responsables soIidariamen
 
 ### Página 38 del PDF
 
-540
-COLECCION DE LEYES, DE,RETOS &amp;.-1854.
-te de Ia verdad de los hechos; y los cinco primeros que suscribie-
-ren, quedaran responsables de la identidad de todas las firmas.
-Art. 24.
-Son deberes de todo dominicano: acatar y cumplir
-~as lieyes; respetar y obedecer las legitimas autoridades que son
-sus organos; servir a Ia Patria cuando sean l1amados por la ley;
-defender y conservar la libertad e independencia de la Nacion;
-contribuir en proporcion de sus haberes para los gastos publicos;
-y cuando 10 exija la saluq del Estado, hacer aque:llos emprestitos
-necesarios, mediante reintegracion.
-Art. 25.
-La Religion Cat6lica, Apost6lica, Romana, es la re-
-ligion del Estado.
-Sus ministros, en cuanto al ejercicio del mi-
-nisterio edesiastico, dependen solamente de los Prelados can6ni-
-camente instituidos.
-TITULO IV.
+COLECCION DE LEYES, DE,RETOS &.-1854. te de Ia verdad de los hechos; y los cinco primeros que suscribieren, quedaran responsables de la identidad de todas las firmas. Art. 24. Son deberes de todo dominicano: acatar y cumplir ~as lieyes; respetar y obedecer las legitimas autoridades que son sus organos; servir a Ia Patria cuando sean l1amados por la ley; defender y conservar la libertad e independencia de la Nacion; contribuir en proporcion de sus haberes para los gastos publicos; y cuando 10 exija la saluq del Estado, hacer aque:llos emprestitos necesarios, mediante reintegracion. Art. 25. La Religion Cat6lica, Apost6lica, Romana, es la religion del Estado. Sus ministros, en cuanto al ejercicio del ministerio edesiastico, dependen solamente de los Prelados can6nicamente instituidos.
+
+**TITULO IV.**
+
 DE LA SOBERANIA Y DE LOS PODERES QUE DE
-ELLA EMANAN.
-Art. 26.
-La soberania reside en la universidad de los ciu-
-dadanos, y se ejerce por tres Poderes delegadO's regun las reglas
-establecidus en esta Constitucion.
-Art. 27.
-Estos Poderes son: el Legislativo, el Ejecutivo y el
-Judicial.
-Son esencialmente independi,entes, responsables y tem-
-pora~,es; se ejercen 'separadamente y sllsencargados no pueden
-delegarlos, ni salir de los limites que les fija Ia Gonstitucion.
-Art. 28.
-EI Poder LegisTativo se ejerce por dos
-Camaras,
-una de Representantes y otra de Senadores.
-Estos dos cuerpos
-reunidos forman e1 Congreso Nacional en los casos previstos por
-la Constitucion.
-Art. 29.
-El Poder Ejecutivo se ejerce por un Magistrado,
-denominado Pr,esidenoo de la Republica, que es el Jefe de Ia Ad·
-ministracion General.
-Art. 30.
-EI Poder Judicial se dellega a jueces arbitros, Alcal-
-des de comunes, tribunales de ,comercio, tribunalies de primera
-instancia, Consejos de guerra, y a una sola :Suprema Corte de
-Justicia.
+
+ELLA EMANAN. Art. 26. La soberania reside en la universidad de los ciudadanos, y se ejerce por tres Poderes delegadO's regun las reglas establecidus en esta Constitucion. Art. 27. Estos Poderes son: el Legislativo, el Ejecutivo y el Judicial. Son esencialmente independi,entes, responsables y tempora~,es; se ejercen 'separadamente y sllsencargados no pueden delegarlos, ni salir de los limites que les fija Ia Gonstitucion. Art. 28. EI Poder LegisTativo se ejerce por dos Camaras, una de Representantes y otra de Senadores. Estos dos cuerpos reunidos forman e1 Congreso Nacional en los casos previstos por la Constitucion. Art. 29. El Poder Ejecutivo se ejerce por un Magistrado, denominado Pr,esidenoo de la Republica, que es el Jefe de Ia Ad· ministracion General. Art. 30. EI Poder Judicial se dellega a jueces arbitros, Alcaldes de comunes, tribunales de,comercio, tribunalies de primera instancia, Consejos de guerra, y a una sola:Suprema Corte de Justicia.
 
 ### Página 39 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-511
-TITULO V.
+COLECCION DE LEYES, DECRETOS &.-1854.
+
+**TITULO V.**
+
 DE LAS ELECCIONES EN GENERAL.
-CAPITULO PRIMERO.-De las Asambleas prhnarias.
-Art.31.
-Para ser sufragante en las Asambleas primarias, es
-necesario: estar en el pleno goce de los derechos
-civiles y politi.
-cos; estar avecindado y tener su re'sidencia
-en 1a ,comun respec-
-tiva; ser propietario de bienes raices, empleado publico, orficial
-del ejercito de tierra 6 mar, patentado pOI' el ejercicio de alguna
-profesion 0 industria, profesor de alguna ciencia 6 arte liheral,
-6 arrendatario por seis anos de un establecimiento rural en actio
-vidad de cultivo.
-Art. 32.
-Las Asambleas primarias se reunen de plena de·
-r~ho, el primer lunes de Noviembre de cada ano en que deban
-ejercer las atribuciones que la Gonstitucion 6 las leyes les desig-
-nan, y en la forma que elIas estahlezcan.
-Art. 33.
-El Presidente del Ayuntamiento puhIicara e11Q• de
-Octuhre de carla ano en que dehan reunirsle las Asambleas prima-
-rias, un aviso preventivo recordando a los sufragantes e1 periodo
-de su reunion; y este mismo funcionario 6
-quien Ie r~~mplace,
-presidira 1a Asamblea hasta la eleccion del ciudadano que deba
-presidirla definitivamente.
-Art. 34.
-Son atribuciones de las Asambleas primarias:
-lQ.
-glegir el numero de EJectores que a cada comun Ie co·
-rresponda nombrar, pam formal' el Colegio El~toral de 1a-Pro-
-vincia.
-2
-Q
-• Elegir '1os Regidores que deban formal' los res'Pectivos
-Ayuntmientos.
-CAPITULO SEGUNDO.-De los Colegios Electoa:lres.
-Art. 35.
-Los Colegios Eleetorales se componen de los Elec-
-tores nomhrados POI' las Asamhleas primarias de las comunes; y
-a reserva de aumentarlos progresivamente la ley, en raZOn del in-'
-cremento de la poblacion, se fijan del modo siguiente:
-Cospost€Ja de Azua, nomhrara
-16 Electores.
-Cada una de sus comunes
-8
-Santo Domingo de Guzman
-20
-Cada una de sus comunes
-4
-Santa Cruz del Seyho.
-16
+
+**CAPITULO PRIMERO.-De las Asambleas prhnarias.** Art.31. Para ser sufragante en las Asambleas primarias, es necesario: estar en el pleno goce de los derechos civiles y politi. cos; estar avecindado y tener su re'sidencia en 1a,comun respectiva; ser propietario de bienes raices, empleado publico, orficial del ejercito de tierra 6 mar, patentado pOI' el ejercicio de alguna profesion 0 industria, profesor de alguna ciencia 6 arte liheral, 6 arrendatario por seis anos de un establecimiento rural en actio vidad de cultivo. Art. 32. Las Asambleas primarias se reunen de plena de· r~ho, el primer lunes de Noviembre de cada ano en que deban ejercer las atribuciones que la Gonstitucion 6 las leyes les designan, y en la forma que elIas estahlezcan. Art. 33. El Presidente del Ayuntamiento puhIicara e11Q• de Octuhre de carla ano en que dehan reunirsle las Asambleas primarias, un aviso preventivo recordando a los sufragantes e1 periodo de su reunion; y este mismo funcionario 6 quien Ie r~~mplace, presidira 1a Asamblea hasta la eleccion del ciudadano que deba presidirla definitivamente. Art. 34. Son atribuciones de las Asambleas primarias: lQ. glegir el numero de EJectores que a cada comun Ie co· rresponda nombrar, pam formal' el Colegio El~toral de 1a-Provincia. Q • Elegir '1os Regidores que deban formal' los res'Pectivos Ayuntmientos.
+
+**CAPITULO SEGUNDO.-De los Colegios Electoa:lres. Art. 35. Los Colegios Eleetorales se componen de los Electores nomhrados POI' las Asamhleas primarias de las comunes; y a reserva de aumentarlos progresivamente la ley, en raZOn del in-' cremento de la poblacion, se fijan del modo siguiente: Cospost€Ja de Azua, nomhrara 16 Electores. Cada una de sus comunes Santo Domingo de Guzman Cada una de sus comunes Santa Cruz del Seyho.**
 
 ### Página 40 del PDF
 
-542
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-Cada una de sus comunes
-8
-La Concepcion de la Vega
-16
-Cada una de sus comunes
-8
-Santiago de los Caballeros
-16
-La comun de Puerto de Plata
-12
-Y cada una de las demas comunes
-4
-§ unicn.
-Las cualidades necesarias para ser Elector,
-son
-las misma:o ..J.ue "e requieren para ser Representante,
-debiendo
-ademas tener su domicilio en la comun que Ie elije; y duran en
-su funcio1ll8ls tres anos.
-Art. 36.
-Los Goleg;os Electorales se l'eunen de p'Ieno dere-
-cho, en la capital de 1a Provincia, el primer lunes de Did-erobre de
-carla ano, para ejercer sus atribuciones ordinarias; y a mas tar-
-dar, un mes despues de la fecha del decreto de ,convocatoria, en las
-reuniones extraordinarias
-autorizadas por 1a Constitucion
-0
-la ley.
-Art. 37.
-Son atribuciones de los Colegios Electorales:
-19 •
-Elegir los miembros de la Camara de Representantes y
-sus suplentes.
-29 •
-Elegir los miembros de 1a Camara del Senado.
-3Q•
-Elegir e'l Presidente y Vice-Presidente de 1a Republica,
-segun las rerglas estab'lecidas en el art. 69.
-49 •
-Elegir los miembros de las respectivas Diputaciones Pro
-vinciaJes.
-.
-5Q.
-Reemplazar a todos Ios
-funcionarios cuya nominacion
-les pertenece, en los casas y segun las regTas establlecirlas por la
-Constitucion 6 la ley.
-6°.
-Formar separadamente la nomina de los individuos que,
-en sus res:pectivas Provincias, reunan las cualidades exijidas, tan-
-to para ser ministro de la Suprema Corte de Justicia, como para
-jueces de los tribunales inferiores; y que depositaran en sus res-
-p8divas Diputadones Provincia,les.
-Art. 38.
-Los Colegios Electorales no tendran corresponden-
-cia unos con otrOos, ni ejerceran atribucion alguna sin que se en-
-cuentre ila mayoria absoluta de sus miiembros; haran sus eleccio-
-. nes una a una y i€,n sesiones permanentes.
-CAPITULO TERCERO.-Disposiciones comunes a las Asam-
-bleas primarias y Co1egios Electora1es.
-Art. 39.
-Todas las eI'ecciones se haran por mayoria abs JJ.uta
-de votos y par escrutinio secreto.
+COLECCION DE LEYES, DECRETOS &.-1854. Cada una de sus comunes La Concepcion de la Vega Cada una de sus comunes Santiago de los Caballeros La comun de Puerto de Plata Y cada una de las demas comunes § unicn. Las cualidades necesarias para ser Elector, son las misma:o..J.ue "e requieren para ser Representante, debiendo ademas tener su domicilio en la comun que Ie elije; y duran en su funcio1ll8ls tres anos. Art. 36. Los Goleg;os Electorales se l'eunen de p'Ieno derecho, en la capital de 1a Provincia, el primer lunes de Did-erobre de carla ano, para ejercer sus atribuciones ordinarias; y a mas tardar, un mes despues de la fecha del decreto de,convocatoria, en las reuniones extraordinarias autorizadas por 1a Constitucion la ley. Art. 37. Son atribuciones de los Colegios Electorales: 19 • Elegir los miembros de la Camara de Representantes y sus suplentes. 29 • Elegir los miembros de 1a Camara del Senado. 3Q• Elegir e'l Presidente y Vice-Presidente de 1a Republica, segun las rerglas estab'lecidas en el art. 69. 49 • Elegir los miembros de las respectivas Diputaciones Pro vinciaJes.. 5Q. Reemplazar a todos Ios funcionarios cuya nominacion les pertenece, en los casas y segun las regTas establlecirlas por la
+
+Constitucion 6 la ley. 6°. Formar separadamente la nomina de los individuos que, en sus res:pectivas Provincias, reunan las cualidades exijidas, tanto para ser ministro de la Suprema Corte de Justicia, como para jueces de los tribunales inferiores; y que depositaran en sus resp8divas Diputadones Provincia,les. Art. 38. Los Colegios Electorales no tendran correspondencia unos con otrOos, ni ejerceran atribucion alguna sin que se encuentre ila mayoria absoluta de sus miiembros; haran sus eleccio-. nes una a una y i€,n sesiones permanentes.
+
+**CAPITULO TERCERO.-Disposiciones comunes a las Asambleas primarias y Co1egios Electora1es.** Art. 39. Todas las eI'ecciones se haran por mayoria abs JJ.uta de votos y par escrutinio secreto.
 
 ### Página 41 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-543
----
-Art. 40.
-Fuera de los casos extraordinariosen qU'8&gt; deba Nm-
-plazarse a alguno o algunos de los funcionarios cuya eleccion toea,
-ya a las Asambleas primarias, ya a los Colegios Electorales, sus
-reuniones ordil1arias deberan efectuarse en 'el ano anterior a aque!
-en que espiran los periodos Constitucionales de
-los respectivos
-cargos.
-Art. 41.
-Ni las Asambleas primarias ni los Co'legios Elec-
-torales pueden ocuparse en otro objeto que el de ,ejercer las atri-
-budones qu,e Ie estan designadas porIa Constitucion y la ley. De-
-ben disolverse tan pronto como hayan terminado sus operadones,
-cuya duracion sera fijada porIa ley.
-TITULO VI.
+COLECCION DE LEYES, DECRETOS &.-1854. Art. 40. Fuera de los casos extraordinariosen qU'8> deba Nmplazarse a alguno o algunos de los funcionarios cuya eleccion toea, ya a las Asambleas primarias, ya a los Colegios Electorales, sus reuniones ordil1arias deberan efectuarse en 'el ano anterior a aque! en que espiran los periodos Constitucionales de los respectivos cargos. Art. 41. Ni las Asambleas primarias ni los Co'legios Electorales pueden ocuparse en otro objeto que el de,ejercer las atribudones qu,e Ie estan designadas porIa Constitucion y la ley. Deben disolverse tan pronto como hayan terminado sus operadones, cuya duracion sera fijada porIa ley.
+
+**TITULO VI.**
+
 DEL PODER LEJISLATIVO.
-CAPITULO PRIMERO.-De la Camara de Repl'les,entantes.
-Art. 42.
-La Camara de Representantes se compone de cinco
-Diputados POI' cada Provincia, nombrados POl' elecdon indil'ecta
-y segun las reglas establecidas.
-Se 1,8, nombl'ara a cada Repre-
-sentante un suplente para reemplazarle en caso de muerte, dimi-
-sion 6 destitudon.
-§ unko.
-Cuando POI' loscasos arriba expresos 81ea Hamado el
-suplente a reemplazar at titular, en la primera reunion del Cole-
-gio Ele'ctoral se Ie nombrani a este un suplente.
-Art. 43.
-Para 8er ell8cto Diputado se req~re:
-19.
-Estar en el goce de los derechos civiles y politicos.
-29 •
-Haber cumplido veinte y cinco afios.
-3. Ser propietario de bienes raices.
-49 •
-Tener Sll actual residenda en el
-territorio de la Repu-
-blica.
-§ Losextrangeros naturalizados no podran &amp;er nombrados
-I'ipuUfdos Eino tr,es afios despues de su naturalizacion.
-Art. 44. Los Represeritantes del pueblo seeligen pOl' seis
-afie-s, yse r2lnuevan del modo siguiente y en dos series: la prime-
-ra renovacion sera de tres Diputados pOl' cada Provincia cada
-tres afios; y la segunda, a razon de dos y cada seis, pudiendo ser
-reelectos indefinidamente.
-Art. 45.
-La Camara de Repres,entantes se reune de pleno de-
-recho, en la Capital de la Republica, el dia 19 • de Febr,ero de cada
-afio, y se instalara luego que haya mayoda absoluta de sus miem-
+
+**CAPITULO PRIMERO.-De la Camara de Repl'les,entantes. Art. 42. La Camara de Representantes se compone de cinco Diputados POI' cada Provincia, nombrados POl' elecdon indil'ecta y segun las reglas establecidas. Se 1,8, nombl'ara a cada Representante un suplente para reemplazarle en caso de muerte, dimision 6 destitudon. § unko. Cuando POI' loscasos arriba expresos 81ea Hamado el suplente a reemplazar at titular, en la primera reunion del Colegio Ele'ctoral se Ie nombrani a este un suplente. Art. 43. Para 8er ell8cto Diputado se req~re: 19. Estar en el goce de los derechos civiles y politicos. 29 • Haber cumplido veinte y cinco afios. 3. Ser propietario de bienes raices. 49 • Tener Sll actual residenda en el territorio de la Republica. § Losextrangeros naturalizados no podran &er nombrados I'ipuUfdos Eino tr,es afios despues de su naturalizacion. Art. 44. Los Represeritantes del pueblo seeligen pOl' seis afie-s, yse r2lnuevan del modo siguiente y en dos series: la primera renovacion sera de tres Diputados pOl' cada Provincia cada tres afios; y la segunda, a razon de dos y cada seis, pudiendo ser reelectos indefinidamente. Art. 45. La Camara de Repres,entantes se reune de pleno derecho, en la Capital de la Republica, el dia 19 • de Febr,ero de cada afio, y se instalara luego que haya mayoda absoluta de sus miem-**
 
 ### Página 42 del PDF
 
-544
-COLECCION DE :r-EYES, DECRETOS &amp;.-1854.
-bros; duranin sus sesiones noventa dias, prorrogabllets
-treinta
-mas en caso necesario, a juicio y por disposicion del Congl'eso 0
-a peticion del Poder Ejecutivo.
-Art. 46.
-La Camara de Representantes tiene, como cl Po-
-der Ejecutivo y el Senado, la iniciativa de todas las leyes; y ex-
-dusivamente las relativas a los impuestos ~n general, a 1a guar-
-dia nacional, a la de elecciones, a 1a de responsabilidad de los Se-
-cretarios de Estado y demasagentes del Poder Ejecutivo
-§ unico.
-Toda ley sobre estas materias se iniciara y votara
-desde luego por la Camara de RepresentantleiS.
-Art. 47.
-Ademas de las funciones legislaiivas de 1a Camara
-de Representantes, ,sonatribuciones peculiaoos de ella:
-19 •
-Examinar la cuenta anual que debera presentar a1 Con-
-greso el Poder Ejecutivo, sobre la recaudacion e inversion de los
-fondos publicos.
-29 •
-Oir las acusaciones que se Ie dirijan en los casos previs-
-tos por esta Constitucion, contra el encargado del Poder Ejecuti-
-YO, los Seclietarios de Estado y los ministros de la Suprema Cor-
-te de J usticia.
-3Q•
-Oir la,s acusaciones que puedan dirijirsele en virtud del
-art. 22, contra todos los empleados publicos por hechos de su ad-
-ministracion.
-49•
-Presentar a1 Senado candidatos para ministros de
-la
-Suprema Corte de Justicia y jueces de 108 tribunales de comercio,
-que es'cojera entre laslistas formadas por los Co1egios Electora-
-les, a razon de tres por carla uno que haya de nombrarse.
-5Q•
-Denunciar ante el Senado a1 Presidiente y
-Vice-Presi-
-dente de la Republica, a los Secretarios de Estado, y a los minis-
-tros de la Suprema Corte de Justicia, por cualquiera infraccion a
-la Constitucion 0 a las leyes, por malVle:rsacion 6 crimenes de Es-
-tado, ya sea de ofido, 6 como organo de las denuncias de los ciu-
-dadanos legalmente apoyadas.
-CAPITULO SEGUNDO.-Del Senado.
-Art. 48.
-La Camara del Senado se compone de dos Senado-
-res por cada una de las Provincias que halla en la Republica.
-Se
-eligen pair los mismos Ci'legios Electorales Q...ue nombran a los Re-
-presentantes, duran en su destino seis anos, se l'Ienuevan integral-
-mente, y pueden ser reelectos indefinidamente.
-Art. 49.
-Para se,r elegido Senadorse requiere:
+COLECCION DE:r-EYES, DECRETOS &.-1854. bros; duranin sus sesiones noventa dias, prorrogabllets treinta mas en caso necesario, a juicio y por disposicion del Congl'eso 0 a peticion del Poder Ejecutivo. Art. 46. La Camara de Representantes tiene, como cl Poder Ejecutivo y el Senado, la iniciativa de todas las leyes; y exdusivamente las relativas a los impuestos ~n general, a 1a guardia nacional, a la de elecciones, a 1a de responsabilidad de los Secretarios de Estado y demasagentes del Poder Ejecutivo § unico. Toda ley sobre estas materias se iniciara y votara desde luego por la Camara de RepresentantleiS. Art. 47. Ademas de las funciones legislaiivas de 1a Camara de Representantes,,sonatribuciones peculiaoos de ella: 19 • Examinar la cuenta anual que debera presentar a1 Congreso el Poder Ejecutivo, sobre la recaudacion e inversion de los fondos publicos. 29 • Oir las acusaciones que se Ie dirijan en los casos previstos por esta Constitucion, contra el encargado del Poder Ejecuti- YO, los Seclietarios de Estado y los ministros de la Suprema Corte de J usticia. 3Q• Oir la,s acusaciones que puedan dirijirsele en virtud del art. 22, contra todos los empleados publicos por hechos de su administracion. 49• Presentar a1 Senado candidatos para ministros de la Suprema Corte de Justicia y jueces de 108 tribunales de comercio, que es'cojera entre laslistas formadas por los Co1egios Electorales, a razon de tres por carla uno que haya de nombrarse. 5Q• Denunciar ante el Senado a1 Presidiente y Vice-Presidente de la Republica, a los Secretarios de Estado, y a los ministros de la Suprema Corte de Justicia, por cualquiera infraccion a la Constitucion 0 a las leyes, por malVle:rsacion 6 crimenes de Estado, ya sea de ofido, 6 como organo de las denuncias de los ciudadanos legalmente apoyadas.
+
+**CAPITULO SEGUNDO.-Del Senado.** Art. 48. La Camara del Senado se compone de dos Senadores por cada una de las Provincias que halla en la Republica. Se eligen pair los mismos Ci'legios Electorales Q...ue nombran a los Representantes, duran en su destino seis anos, se l'Ienuevan integralmente, y pueden ser reelectos indefinidamente. Art. 49. Para se,r elegido Senadorse requiere:
 
 ### Página 43 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1852
-545
-1Q.
-Estar en el goee de-los dererhos civiles y politicos.
-2\'.
-Haber cumplido treinta anos.
-3".
-Ser propietario de bienes raices.
-4\'.
-Tener su domicilio en la Provincia que 10 i€tlige.
-§ Los €xtrangeros naturalizados no podrim ser miembros de
-&amp;Sta Camara, sino cinco anos despues de su naturalizacion.
-Art. 50.
-En caso de muerte, dimision 6 destitucion de
-un
-miembro del Senado, la Camara de Repres,entantes prooede it su
-reemplazo, eIijiendo individuo que reuna todas
-laseualidades
-exijidas ene! art. que antecede; pero e1 nuevamentle eJecto
-solo
-ejercera ese cargo pOI' el tiempo que faltaba para cumplir su pe-
-riodo al miembro a quien reemplaza.
-Art. 51.
-La Camara del Senado abre y eierra sus sesiones
-legislativas, quince dias a mas tardar despues que la de los Repre-
-sentantes.
-Toda reunion legis'lativa del Senado, fuera de
-este
-tiempo, es nula de derecho.
-Art. 52.
-Son atribuciones del Senado :
-1°. Sancionar las lleyes que tengan origen en una y otra Ca-
-mara, con la siguiente formula: "Comuniquese al Poder Ejecuti-
-vo para su promulgacion y ejecucion".
-2".
-Suspender la sandon de las leyes acordadas porIa Ca-
-mara de Representantes, y hacer las observaciones
-que juzgue
-oportunas,en los terminos que mas adelante se establecen.
-3".
-Proponer a la Camara de Represe-ntantes proyectos de
-ley, sobre aquellas materias en que este no tiene la iniciativa ex-
-clusivamente.
-4",
-Decretal' de aeusacion al Presidente, Vice-Presidente de
-la R-epublica y a los Secretarios de Estado, en virtud de la denun-
-da heeha porIa Ca:'"'Jara de Representantes, en
-caso que laen-
-cue-ntre fundada.
-Este decreto produce la suspension del aeusado
-del ejercicio de sus funciones.
-59.
-Elegir los jueces de la Suprema Corte de Justida y de
-los tribunales de comereio, entre los candidatos presentados POl'
-;a Camara de Representantes, pudiendo pedir POI' earla juez que
-haya de nombrar, otra terna ademas de la propue-sta pOI' esta; ad-
-mitir sus renuncias, y juzgaI11es en los casos previstos par la Cons
-titucion.
-69 •
-Df ldir las cuestiones que puedan suscitarsie entre ,las
-wmunes y T'ioderes del Estado.
-7,'. :r .~star 6 negar su consentimiento para el aseenso de los
-oficial€~ cuperiores del ejercito de tierra y mar, desde coronel
+COLECCION DE LEYES, DECRETOS &.-1852 1Q. Estar en el goee de-los dererhos civiles y politicos. 2\'. Haber cumplido treinta anos. 3". Ser propietario de bienes raices. 4\'. Tener su domicilio en la Provincia que 10 i€tlige. § Los €xtrangeros naturalizados no podrim ser miembros de &Sta Camara, sino cinco anos despues de su naturalizacion. Art. 50. En caso de muerte, dimision 6 destitucion de un miembro del Senado, la Camara de Repres,entantes prooede it su reemplazo, eIijiendo individuo que reuna todas laseualidades exijidas ene! art. que antecede; pero e1 nuevamentle eJecto solo ejercera ese cargo pOI' el tiempo que faltaba para cumplir su periodo al miembro a quien reemplaza. Art. 51. La Camara del Senado abre y eierra sus sesiones legislativas, quince dias a mas tardar despues que la de los Representantes. Toda reunion legis'lativa del Senado, fuera de este tiempo, es nula de derecho. Art. 52. Son atribuciones del Senado: 1°. Sancionar las lleyes que tengan origen en una y otra Camara, con la siguiente formula: "Comuniquese al Poder Ejecutivo para su promulgacion y ejecucion". 2". Suspender la sandon de las leyes acordadas porIa Camara de Representantes, y hacer las observaciones que juzgue oportunas,en los terminos que mas adelante se establecen. 3". Proponer a la Camara de Represe-ntantes proyectos de ley, sobre aquellas materias en que este no tiene la iniciativa exclusivamente. 4", Decretal' de aeusacion al Presidente, Vice-Presidente de la R-epublica y a los Secretarios de Estado, en virtud de la denunda heeha porIa Ca:'"'Jara de Representantes, en caso que laencue-ntre fundada. Este decreto produce la suspension del aeusado del ejercicio de sus funciones. 59. Elegir los jueces de la Suprema Corte de Justida y de los tribunales de comereio, entre los candidatos presentados POl';a Camara de Representantes, pudiendo pedir POI' earla juez que haya de nombrar, otra terna ademas de la propue-sta pOI' esta; admitir sus renuncias, y juzgaI11es en los casos previstos par la Cons titucion. 69 • Df ldir las cuestiones que puedan suscitarsie entre,las wmunes y T'ioderes del Estado. 7,'.:r.~star 6 negar su consentimiento para el aseenso de los oficial€~ cuperiores del ejercito de tierra y mar, desde coronel
 
 ### Página 44 del PDF
 
-546
-COLECCION DE I.EYES, DECRETOS &amp;.-1854.
-inclusive, cuandolo solicite el Poder Ejecutivo, can indicacion de
-los meritos y servicios del individuo propnesto.
-CAPITULO TERCERO.-Disposiciones comunes a
-ambas Camaras.
-Art. 53.
-La Capital es el as,iento de los Cuerpos Colegis'la-
-dores.
-Sin embargo, iel Congreso podra,en circunstancias extra-
-ordinarias, decretal' y designar otro lugar para las sesiones legis-
-lativas.
-Los miembros de los doS' Cuerpos
-representan la Na-
-cion, y no unicamente la Provincia que los ha elegido.
-Art. 54.
-Exoepto cuando se reunen en Congreso, cada Ca-
-mara tiene su local particular; verifiea los poderes de sus miem-
-bros y decide las dfficultades a que puedan dar lugar.
-Nombra
-los empleados de sus respectivas mesas, en la forma y pOl' lEI tiem- .
-po estipulado en su reglamento int,erior; tiene Ila facuItad exclusi-
-va de panel' a sus miembrosen €stado de acusadon, de compeler
-a los aUBentes a que concurran a la Camara, y de admitir sus re-
-nuncias.
-ArregLa todo 10 r·elativo asu policia interior, y juzga y
-castiga de la manera que determinen sus reglamentos, tanto a sus
-prapias miembros, como a los que los infrinjan dentI·o del recin-
-to de sus sesiones.
-Art. 55.
-No pueden ser Rep11e,sentantes ni
-S~ma"dore·s: el
-Presidente y Viee-Presidente de la Reptlblica; los Secretario'S de
-Estado; ,los minishos de la Suprema Corte de Justicia, ni su fis-
-cal; los Gobernadol'es Politicos; ni a la vez miembros de las dos
-Camaras, un mismo individuo, siendo incompatible el ejercicio
-de cuaJ.quiera funci6n pliblica can la de
-R~presentantJe!s y Sena-
-dol', durante las sesiones.
-Art. 56.
-Las sesiones son publcias; sin embargo, a petidon
-de seis miembros en la Camara de Representantes, de dOB en la
-del Senado, y de ocho -en el Congreso, se podd deliberar secreta-
-mente; pero la mayoria decide en seguida si se debe dar publici-
-dad a1a materia que ha sido objeto de 1a s€sion.
-Art.
-57.
-Los Cuerpos Colegisladores no pueden tamar re-
-Siolucion alguna sin que se eneuentre preSiente la mayoria abso-
-luta de sus miembros.
-Los dos t-ereios de los miembros preg,entes
-de cada Camara, forman la mayoria
-para todo acuerdo concer-
-nientJe a las leyes,sin perjukio de 10 que determinenen Sill regla-
-IDiento interior, aeerca de las elecciones y demas atribuciones.
-En easo &lt;;Ie empate, se rechaza la proposicion encuestion.
+COLECCION DE I.EYES, DECRETOS &.-1854. inclusive, cuandolo solicite el Poder Ejecutivo, can indicacion de los meritos y servicios del individuo propnesto.
+
+**CAPITULO TERCERO.-Disposiciones comunes a ambas Camaras.** Art. 53. La Capital es el as,iento de los Cuerpos Colegis'ladores. Sin embargo, iel Congreso podra,en circunstancias extraordinarias, decretal' y designar otro lugar para las sesiones legislativas. Los miembros de los doS' Cuerpos representan la Nacion, y no unicamente la Provincia que los ha elegido. Art. 54. Exoepto cuando se reunen en Congreso, cada Camara tiene su local particular; verifiea los poderes de sus miembros y decide las dfficultades a que puedan dar lugar. Nombra los empleados de sus respectivas mesas, en la forma y pOl' lEI tiem-. po estipulado en su reglamento int,erior; tiene Ila facuItad exclusiva de panel' a sus miembrosen €stado de acusadon, de compeler a los aUBentes a que concurran a la Camara, y de admitir sus renuncias. ArregLa todo 10 r·elativo asu policia interior, y juzga y castiga de la manera que determinen sus reglamentos, tanto a sus prapias miembros, como a los que los infrinjan dentI·o del recinto de sus sesiones. Art. 55. No pueden ser Rep11e,sentantes ni S~ma"dore·s: el Presidente y Viee-Presidente de la Reptlblica; los Secretario'S de Estado;,los minishos de la Suprema Corte de Justicia, ni su fiscal; los Gobernadol'es Politicos; ni a la vez miembros de las dos Camaras, un mismo individuo, siendo incompatible el ejercicio de cuaJ.quiera funci6n pliblica can la de R~presentantJe!s y Senadol', durante las sesiones. Art. 56. Las sesiones son publcias; sin embargo, a petidon de seis miembros en la Camara de Representantes, de dOB en la del Senado, y de ocho -en el Congreso, se podd deliberar secretamente; pero la mayoria decide en seguida si se debe dar publicidad a1a materia que ha sido objeto de 1a s€sion. Art. 57. Los Cuerpos Colegisladores no pueden tamar re- Siolucion alguna sin que se eneuentre preSiente la mayoria absoluta de sus miembros. Los dos t-ereios de los miembros preg,entes de cada Camara, forman la mayoria para todo acuerdo concernientJe a las leyes,sin perjukio de 10 que determinenen Sill regla- IDiento interior, aeerca de las elecciones y demas atribuciones. En easo <;Ie empate, se rechaza la proposicion encuestion.
 
 ### Página 45 del PDF
 
-COLE(s~ioN DE LEtEs, bECRETO§ &amp;.-1854.
-547
-Art. 58.
-Todo proyecto de ley tendril su primera discusion
-en la Camara de 'su odgen, '.i no podra ser 3Idoptado sin haMrse1e
-dado tres Iectums, con intervalo de dos dias francos, de una a
-otra, y de hahers'e saneionado en la uiltimacada uno de sus articu-
-los 'en particular.
-Art. 59.
-Todo proyecto de ley adoptado POl' uno de 1081 Cuer-
-pos Colegisladores, expresara. el haberse cumplido con las £01'-
-malidades a que se refiere el articulo pl'lecedente, para que pue-
-da ser admitido a discusi6n pOl' el otro Cuerpo.
-Sin
-embargo,
-cuando el proyectosea declarado de
-urgencia porIa mayoria de
-la Camara de Repr,esentantes, podra este omitirlas; perc :el Se-
-I,ado puede 6 no aprobar la urgencia, y devolverselo para que 10
-discuta en la forma ordinaria.
-Art. 60.
-Todo proyecto de l:eyacordad6 porIa Camara de
-Represent2.ntes, s,era enviado a'l Senado para su sancion; si estlf:
-nc Ie adopta, Ie devolV{~ra can sus objeciones, adiciones 6 modifi-
-caciones a la Camara de su odgen, la que 10 discutira de nuevo,
-'3i no las tama en consideracion y las desecha, volvera el proyec-
-to al Senado; si este persiste en las objeciones
-desechadas,
-se
-sometera ]a discusion 311 Congreso, que convoncara 311 efecto, den-
-tra de veinte y cuatro horas, al Presidente del Senado.
-Las mismas formalidades se observanin respecto a los pr&lt;J'
-yectos de ley que emanen del Senado.
-Art. 61.
-Los CU'erpos Colegisladores tienen el dereeho
-de
-dividir y adicionar los articulos propuestos.
-Art.
-62.
-El Senado ejerce el dereeho de objecion para los
-pruyectD's de ley acordados pOl' urgenciaen la Camara de Repre-
-sentantss, dentro de dos dias; y dentro de diez, induso 'lQS feria-
-dos, para la's demas leyes; sin embargo, si la sesion Legislativ::l
-se eerrase antes de la espiradon deeste ultimo termino, la 'ley
-quedara en re,ceso.
-.
-Art. 63.
-Ningun proyecto de ley 6 decreto, aunque sea 2.'
-probado POI' ambas Camaras, tendra fuerza de ~ey mientras no
-tenga 'el d€creto de ejecucion del Pader Ejecutivo, 311 que sera re-
-mitido oficialmente POl' el Presidente dl Senado para su promul·
-gacion dentro del termino Constitudonal.
-Si el Poder Ejecutiv1)
-devolvies'e el proy-ecto con las obs'ervaciones que esta facultado j
-heaer, el Presidente del Senado convocara dentro de veinte yeu::-
-tro horas el Congreso, donde se Ie dara un nuevo d{lhate, teniendl
-a la vista las observadones.
-E1 resuTtado de este pasara de nUE-
-vo al Ejecutivo para suejecucion, que no podra rehusar.
-Art. 64.
-Los proyectos de ley rechazados
-POl' los Cuerpod
+COLE(s~ioN DE LEtEs, bECRETO§ &.-1854. Art. 58. Todo proyecto de ley tendril su primera discusion en la Camara de 'su odgen, '.i no podra ser 3Idoptado sin haMrse1e
+
+dado tres Iectums, con intervalo de dos dias francos, de una a otra, y de hahers'e saneionado en la uiltimacada uno de sus articulos 'en particular. Art. 59. Todo proyecto de ley adoptado POl' uno de 1081 Cuerpos Colegisladores, expresara. el haberse cumplido con las £01'malidades a que se refiere el articulo pl'lecedente, para que pueda ser admitido a discusi6n pOl' el otro Cuerpo. Sin embargo, cuando el proyectosea declarado de urgencia porIa mayoria de la Camara de Repr,esentantes, podra este omitirlas; perc:el Se- I,ado puede 6 no aprobar la urgencia, y devolverselo para que 10 discuta en la forma ordinaria. Art. 60. Todo proyecto de l:eyacordad6 porIa Camara de Represent2.ntes, s,era enviado a'l Senado para su sancion; si estlf: nc Ie adopta, Ie devolV{~ra can sus objeciones, adiciones 6 modificaciones a la Camara de su odgen, la que 10 discutira de nuevo, '3i no las tama en consideracion y las desecha, volvera el proyecto al Senado; si este persiste en las objeciones desechadas, se sometera ]a discusion 311 Congreso, que convoncara 311 efecto, dentra de veinte y cuatro horas, al Presidente del Senado. Las mismas formalidades se observanin respecto a los pr<J' yectos de ley que emanen del Senado. Art. 61. Los CU'erpos Colegisladores tienen el dereeho de dividir y adicionar los articulos propuestos. Art. 62. El Senado ejerce el dereeho de objecion para los pruyectD's de ley acordados pOl' urgenciaen la Camara de Representantss, dentro de dos dias; y dentro de diez, induso 'lQS feriados, para la's demas leyes; sin embargo, si la sesion Legislativ::l se eerrase antes de la espiradon deeste ultimo termino, la 'ley quedara en re,ceso.. Art. 63. Ningun proyecto de ley 6 decreto, aunque sea 2.' probado POI' ambas Camaras, tendra fuerza de ~ey mientras no tenga 'el d€creto de ejecucion del Pader Ejecutivo, 311 que sera remitido oficialmente POl' el Presidente dl Senado para su promul· gacion dentro del termino Constitudonal. Si el Poder Ejecutiv1) devolvies'e el proy-ecto con las obs'ervaciones que esta facultado j heaer, el Presidente del Senado convocara dentro de veinte yeu::tro horas el Congreso, donde se Ie dara un nuevo d{lhate, teniendl a la vista las observadones. E1 resuTtado de este pasara de nUEvo al Ejecutivo para suejecucion, que no podra rehusar. Art. 64. Los proyectos de ley rechazados POl' los Cuerpod
 
 ### Página 46 del PDF
 
-!.48
-COLECClrJN DE LE f ES, bReRklos &amp;.
-l~M.
----------------------------------
-Colegisladores 6 por el Congreso, no podran ser reproducidos en
-la misma sesion; pero alguno 6 algunos de sus articuloLS pueden
-haeer parte de otro proy'edo que se'somerta en la misma sesion.
-Art. 65.
-Las peticiones que se sometan a cualquiera de las
-Camaras seran depositadas en sus respeetivas mesas, y cada una
-de eHas tiene el derecho de pasar a los Seeretarios de Estado las
-que se Ie dirijan, y de pedirles' iilformes 6 ac:laraciones sobre sus
-eontenidos.
-Art. 66.
-Los miembros de ambas Camaras son
-absoluta-
-mente irresponsahles, por las opiniones y votos que emitan den-
-tro de las Camaras; ,en el ejercicio de sus funciones gozan de in-
-munidad en sus personas, durante las sesiones, mientras van a
-eDla,s y vuelven a sus domicilios, euyos terminos seran de quine(f
-dias.
-En ningun caso podran ser arrestados ni procesados, du-
-rante su diputaeion, it no ser haHad08 en flagrante delito, sin per.
-miso de su respeetivo cuerpo; y de serlo, no se procedeni a juicio
-sin previa 'autorizacion de su respectiva Camara.
-CAPITULO CUARTO.-Del Congreso y sus atribuciones.
-Art. 67.
-EI Congreso Nacional se reune cada vez que asi 10
-exija la naturaleza de sus atribuciones.
-EI Presidente del Sena-
-do 10 es del Congreso, y ei que preside la Camara de Representan-
-tes esel ViC€~Presidente. Los Secretarios de ambos Cuerpos 10
-son del Congreso.
-§ unico.
-Al Presidente del Senado toea la convoeacion
-del
-Congreso; en consecuencia, a el deberan dirijirse el Poder Eje-
-eutivo 6 1a Camara de Representantes, para que Ie convoque, se-
-ilalando aquel e:llocal, dia, hora y motivo de la reunion.
-En nin-
-gun caso podra negar la convocatoria.
-Art. 68.
-Ademas de decretar la legislacion civil y criminal,
-y cuanto sea necesario al bien estar de la Nacion, son atribucio-
-nes del Congreso:
-1°.
-Ve-rificar las aetas de eleccion del Presidente y Vice-Pre-
-sidente de la Republica, computar los votos, perfeccionar la elec-
-don de estos funcionarios en los casos previstos por el art. 69, ya
-sea en consecuencia del escrutinio €!lectoral, ya en virtud del que
-haga el Congresoen loscasos que la Constitucion Ie da esta fa-
-cuItad, proclamarles, recibirles juramento antes de entrar en el
-ejercicio de sus funciones, y admitides sus renuncias.
-. 2°.
-Juzgar al Presidente y Vice-Presidente de la Republica,
-por crimenes de Estado, por causas de
-responsabilidad,
-y por
+!.48 COLECClrJN DE LE f ES, bReRklos &. l~M. Colegisladores 6 por el Congreso, no podran ser reproducidos en la misma sesion; pero alguno 6 algunos de sus articuloLS pueden haeer parte de otro proy'edo que se'somerta en la misma sesion. Art. 65. Las peticiones que se sometan a cualquiera de las Camaras seran depositadas en sus respeetivas mesas, y cada una de eHas tiene el derecho de pasar a los Seeretarios de Estado las que se Ie dirijan, y de pedirles' iilformes 6 ac:laraciones sobre sus eontenidos. Art. 66. Los miembros de ambas Camaras son absolutamente irresponsahles, por las opiniones y votos que emitan dentro de las Camaras;,en el ejercicio de sus funciones gozan de inmunidad en sus personas, durante las sesiones, mientras van a eDla,s y vuelven a sus domicilios, euyos terminos seran de quine(f dias. En ningun caso podran ser arrestados ni procesados, durante su diputaeion, it no ser haHad08 en flagrante delito, sin per. miso de su respeetivo cuerpo; y de serlo, no se procedeni a juicio sin previa 'autorizacion de su respectiva Camara.
+
+**CAPITULO CUARTO.-Del Congreso y sus atribuciones.** Art. 67. EI Congreso Nacional se reune cada vez que asi 10 exija la naturaleza de sus atribuciones. EI Presidente del Senado 10 es del Congreso, y ei que preside la Camara de Representantes esel ViC€~Presidente. Los Secretarios de ambos Cuerpos 10 son del Congreso. § unico. Al Presidente del Senado toea la convoeacion del Congreso; en consecuencia, a el deberan dirijirse el Poder Ejeeutivo 6 1a Camara de Representantes, para que Ie convoque, seilalando aquel e:llocal, dia, hora y motivo de la reunion. En ningun caso podra negar la convocatoria. Art. 68. Ademas de decretar la legislacion civil y criminal, y cuanto sea necesario al bien estar de la Nacion, son atribuciones del Congreso: 1°. Ve-rificar las aetas de eleccion del Presidente y Vice-Presidente de la Republica, computar los votos, perfeccionar la elecdon de estos funcionarios en los casos previstos por el art. 69, ya sea en consecuencia del escrutinio €!lectoral, ya en virtud del que haga el Congresoen loscasos que la Constitucion Ie da esta facuItad, proclamarles, recibirles juramento antes de entrar en el ejercicio de sus funciones, y admitides sus renuncias.. 2°. Juzgar al Presidente y Vice-Presidente de la Republica, por crimenes de Estado, por causas de responsabilidad, y por
 
 ### Página 47 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-54'
-cUMquiera infraccion a 1a COllstitucion 0 a las 1eyes, previa e'
-decreto de acusacion, dado pore1 Senado.
-3".
-Votar anualmente los gastos publicos, en vista de lac
-presupuestos que Ie pres'ente el Poder Ejecutivo.
-49 •
-Decretar 10 conveniente para 1a aoministracion, fructi-
-ficacion, conservacion y enagenacion de los bienes nacionales.
-59.
-Contraer deudas sobreel credito de la Nacion, y decre-
-tar el establecimiento de un Banco Nadonal.
-69 •
-Determinar y uniformar e1 valor, peso, tipo, ley y nom-
-bre de la moneda, sin que esta pueda illevar el busto de
-person~'.
-a1guna; y fijar e1 valor de 1a extrangera.
-7').
-Fijar y uniformar el padron de pesas y medidas.
-89 •
-Decretal' 1a ereaeion y supresion de los emp1eos publi-
-cos, no fijados porIa Constitucion, sefialar1es sueldos', disminuir·
-los 6 aumentarlos.
-99 • Interpretar las 1eyes, en caso de duda ii oscuridad, sus-
-penderlas y revocarlas.
-10.
-Decretar la guerra ofensiva, en vista de los motivos qu;
-Ie presente el Poder Ejecutivo, y requerirle para que negocieL
-paz, cuando fuere necesario.
-11.
-PrestaI' 6 negar su consentimiento a los tratados de paz.
-alianza, de amistad, de neutralidad, de comercio, y
-cua1quierc
-otro que celebre e'l Poder Ejecutivo: ninguno tendra efecto sini.
-en virtud desu aprobacion.
-12. Crear y promover par 1eY'€'S laeducacion publica, el pro-
-greso de las ciencias, artes y establecimientoSt'de utilidad comun.
-13.
-En favor de 1a humanidad, ycuando Iloexija un grav
-motivo, eonmutar la pena capital, en virtud de ape1acion a
-SL
-gracia, 1a eual produce suspension de la ejecucion.
-14.
-Conceder indultos y amnistias particulares, can las ex-
-cepciones que el interes de la sociedad y privado exijen: en nin-
-gun caso podra coneederlos par crimenes atroc'es.
-15.
-Cuando 10 crea conveniente,conceder al Poder Ejecuti
-volas facultades extraordinarias que
-juzgue
-necesarias Ipar:
-mantent),r la seguridad del Estado, deta1'landolas en cuanto sea pc
-sible, y limitando el tiempo en que deba us,ar de eUas.
-16.
-Autorizar al Pader Ejecutivo, en circunstancias unica
-yapremiantes, para la traslacion del Gobierno a otro lugar.
-17.
-Reveer y dirimir lIas discordancias de opiniones 6 raze·
-nes particulares de 'las dos Camaras, acerca de las leyes y las oL
-servaciones que pueda hacer el Poder Ejecutivo: en ~Il debate l'
-seguiran las reglas establecidas de discutir y sancionar artfcul
+COLECCION DE LEYES, DECRETOS &.-1854. 54' cUMquiera infraccion a 1a COllstitucion 0 a las 1eyes, previa e' decreto de acusacion, dado pore1 Senado. 3". Votar anualmente los gastos publicos, en vista de lac presupuestos que Ie pres'ente el Poder Ejecutivo. 49 • Decretar 10 conveniente para 1a aoministracion, fructificacion, conservacion y enagenacion de los bienes nacionales. 59. Contraer deudas sobreel credito de la Nacion, y decretar el establecimiento de un Banco Nadonal. 69 • Determinar y uniformar e1 valor, peso, tipo, ley y nombre de la moneda, sin que esta pueda illevar el busto de person~'. a1guna; y fijar e1 valor de 1a extrangera. 7'). Fijar y uniformar el padron de pesas y medidas. 89 • Decretal' 1a ereaeion y supresion de los emp1eos publicos, no fijados porIa Constitucion, sefialar1es sueldos', disminuir· los 6 aumentarlos. 99 • Interpretar las 1eyes, en caso de duda ii oscuridad, suspenderlas y revocarlas. 10. Decretar la guerra ofensiva, en vista de los motivos qu; Ie presente el Poder Ejecutivo, y requerirle para que negocieL paz, cuando fuere necesario. 11. PrestaI' 6 negar su consentimiento a los tratados de paz. alianza, de amistad, de neutralidad, de comercio, y cua1quierc otro que celebre e'l Poder Ejecutivo: ninguno tendra efecto sini. en virtud desu aprobacion. 12. Crear y promover par 1eY'€'S laeducacion publica, el progreso de las ciencias, artes y establecimientoSt'de utilidad comun. 13. En favor de 1a humanidad, ycuando Iloexija un grav motivo, eonmutar la pena capital, en virtud de ape1acion a SL gracia, 1a eual produce suspension de la ejecucion. 14. Conceder indultos y amnistias particulares, can las excepciones que el interes de la sociedad y privado exijen: en ningun caso podra coneederlos par crimenes atroc'es. 15. Cuando 10 crea conveniente,conceder al Poder Ejecuti volas facultades extraordinarias que juzgue necesarias Ipar: mantent),r la seguridad del Estado, deta1'landolas en cuanto sea pc sible, y limitando el tiempo en que deba us,ar de eUas. 16. Autorizar al Pader Ejecutivo, en circunstancias unica yapremiantes, para la traslacion del Gobierno a otro lugar. 17. Reveer y dirimir lIas discordancias de opiniones 6 raze· nes particulares de 'las dos Camaras, acerca de las leyes y las oL servaciones que pueda hacer el Poder Ejecutivo: en ~Il debate l' seguiran las reglas establecidas de discutir y sancionar artfcul
 
 ### Página 48 del PDF
 
-550
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-por articulo, y la votacion 's-era nominal, expres{mdose en e,l ~ta
-al voto afirmativo 6 negativo de cada individuo. lSi no fuere acor
-dada por las dos terceras partes de sus miembros, la ley quedara
-en receso.
-18.
-Prorrogar 6 no las sesiones ordinarias del Cuerpo Le-
-gislativo, a petic-ion de la Camara de Representantes, 6 del Poder
-Legislativo.
-19.
-Decidir defintivamente las diferencias entre las diver-
-sas Diputaciones, Ayuntamientos y el Gobierno.
-20.
-Decretar todo 10 relativo al comercio extrangero, puer-
-too de importacion y exportacion, eaminos, division, deslinde de
-~as Provincias y comunes &gt;entre 'sf y su creacion 6 supresion.
-21.
-Determinar 10 conveniente sobre Ia formaeion peri6dica
-de la estadfstica general de la Republica.
-22.
-Decretar todo 10 relativo a la inmigracion y naturali··
-acion de extrang~ros.
-23.
-Conceder privilegios exclusivos
-par limitado
-tiempo,
-premio y otras venta.ias e indemnizaciones para objetos de utili-
-dad general, reconocida y justificada; pero sin que estas tengan
-un caracter de· monopolio ni provincia1fsmo.
-24.
-Decretal' Ia creaeion 6 supresion de tribunales y juz-
-gados en las Provincias y corounes, que no hayan sido estableci-
-das porIa Constitucion.
-25.
-En tiempo de paz, fijar la fuerza armada permanente.
-26.
-Decretar e1 servicio y movjil:izacion de las guardias na-
-donales.
-.
-27.
-Conceder premios y recompensas particulares a los que
-haY8ln hecho 6 hicieren eminentes servicios. a Ia Patria, y a los
-que se distingan por su civismo.
-28.
-Decretar honores publicos a la memoria de los grandes
-servidores del Estado.
-29.
-Elegir'los Arzobispos y Obispos de la Republica.
-30.
-Heunirse de pleno derecho en 'las epocas de eleeciones
-o:r:dinarias de Presidente y Vice-Presidente de la Hepublica el
-dia quince de Enero.
-31.
-Usar en Ila's leyes y decretos de la siguiente
-formula:
-"EI Senado y Camara de Repres·entantes reunidos en Congr/€lSo.-
-En nombre de Ia Republica Dominieana.-Decretan".
-32.
-Revisar, adicionar y reformar la Constitucion del Es-
-tado en ]a forma y manera en '€Jla prevista.
+COLECCION DE LEYES, DECRETOS &.-1854. por articulo, y la votacion 's-era nominal, expres{mdose en e,l ~ta al voto afirmativo 6 negativo de cada individuo. lSi no fuere acor
+
+dada por las dos terceras partes de sus miembros, la ley quedara en receso. 18. Prorrogar 6 no las sesiones ordinarias del Cuerpo Legislativo, a petic-ion de la Camara de Representantes, 6 del Poder Legislativo. 19. Decidir defintivamente las diferencias entre las diversas Diputaciones, Ayuntamientos y el Gobierno. 20. Decretar todo 10 relativo al comercio extrangero, puertoo de importacion y exportacion, eaminos, division, deslinde de ~as Provincias y comunes >entre 'sf y su creacion 6 supresion. 21. Determinar 10 conveniente sobre Ia formaeion peri6dica de la estadfstica general de la Republica. 22. Decretar todo 10 relativo a la inmigracion y naturali·· acion de extrang~ros. 23. Conceder privilegios exclusivos par limitado tiempo, premio y otras venta.ias e indemnizaciones para objetos de utilidad general, reconocida y justificada; pero sin que estas tengan un caracter de· monopolio ni provincia1fsmo. 24. Decretal' Ia creaeion 6 supresion de tribunales y juzgados en las Provincias y corounes, que no hayan sido establecidas porIa Constitucion. 25. En tiempo de paz, fijar la fuerza armada permanente. 26. Decretar e1 servicio y movjil:izacion de las guardias nadonales.. 27. Conceder premios y recompensas particulares a los que haY8ln hecho 6 hicieren eminentes servicios. a Ia Patria, y a los que se distingan por su civismo. 28. Decretar honores publicos a la memoria de los grandes servidores del Estado. 29. Elegir'los Arzobispos y Obispos de la Republica. 30. Heunirse de pleno derecho en 'las epocas de eleeciones o:r:dinarias de Presidente y Vice-Presidente de la Hepublica el dia quince de Enero. 31. Usar en Ila's leyes y decretos de la siguiente formula: "EI Senado y Camara de Repres·entantes reunidos en Congr/€lSo.-
+
+En nombre de Ia Republica Dominieana.-Decretan". 32. Revisar, adicionar y reformar la Constitucion del Estado en ]a forma y manera en '€Jla prevista.
 
 ### Página 49 del PDF
 
-COLECCIlJ~ BI rlYES, DECRETos·i.,,:-1854.
-M1
-TITULO VII.
+COLECCIlJ~ BI rlYES, DECRETos·i.,,:-1854. M1
+
+**TITULO VII.**
+
 DEL PODER EJECUTIVO.
-CAPITULO PRIMERO.
-Art. 69.
-EI Presidente de la Republica durani cuatro aftos
-en el ejercicio de sus funciones, y se elige del modo siguiente: ca-
-rla Eleetor vota POl' dos individuos, de los cuales uno por 10 menos
-no ha de estar domiciliado en la Provincia que 10 elige.
-Las ae-
-tas de elecciones seran remitidas cerradas y selladas a1 Presiden-
-te del Congreso.
-Cuando este reuna los pliegos de todos los Co-
-legios ElectoraJes, los abrira en sesion publica, en la que verifica-
-rA y ('()mnuiara lQS votos; 8i algulio de los candidatos reune la
-mayoria absoluta de
-SUIraglU~,
-",..,,~-;. ;:-:,:,:,l&lt;1mndo Presidente de
-la RepubJ.ica.
-Siempre que falte la mayoria absoluta, iel Congre-
-so separa los tres que reunan mas sufragios, y procede pOl' vo-
-tacion secreta a €Ilegir uno de entre ellos.
-Si en este primer es·
-crutinio ninguno obtiene la mayoria absoluta, se procede a nueva
-votacion entre los dos candidatos que mas sufragios obtuvieron
-en el primero; y en caso de igualdad, la eleccion se decidira pOl'
-Ja suerte.
-Todas estas operadones deberan efectuarse en una sola se-
-sian p'€,rmanente, a pena de nulidad.
-Art. 70.
-Para ser Presidente de Ia Republica se requiere:
-I\'. Ser dominicano de origen.
-2Q•
-Tener treinta y cincoaftos cumplidos.
-3Q •
-Ser propi,etario de bimles raices.
-49 •
-Estar en el pleno goce de sus derechos civiles y politicos.
-Art. 71.
-Para suplir la falta temporal 6 absoluta del Pre-
-sidente de la Republica, habra un Vice-Presidente, que durara
-en sus funciones cuatro aftos, debera reunir las mismas cualida-
-des requeridas en el articulo anterior, y sera elegido con las mis-
-mas forma/lidades que el Presidente.
-Art. 72.
-Ei perfodo de duracion del Presidente y Vice-Pre-
-sidente de Ia Republica, se cantara desde el lQ. de Marzo inmedia-
-to asueleccion. Ninguno podra ser elegido Presidente, sin el in-
-_tervalo de un periodo integra.
-Art. 73.
-EI Presidente y
-Vice-Presidente de la Republica
-se elegiran con diferencia d~ dos alios, el uno del otro; y el Vice-
-Presidente no podra ser elegido Presidente para el periodo inme-
+
+**CAPITULO PRIMERO.** Art. 69. EI Presidente de la Republica durani cuatro aftos en el ejercicio de sus funciones, y se elige del modo siguiente: carla Eleetor vota POl' dos individuos, de los cuales uno por 10 menos no ha de estar domiciliado en la Provincia que 10 elige. Las aetas de elecciones seran remitidas cerradas y selladas a1 Presidente del Congreso. Cuando este reuna los pliegos de todos los Colegios ElectoraJes, los abrira en sesion publica, en la que verificarA y ('()mnuiara lQS votos; 8i algulio de los candidatos reune la mayoria absoluta de SUIraglU~, ",..,,~-;.;:-:,:,:,l<1mndo Presidente de la RepubJ.ica. Siempre que falte la mayoria absoluta, iel Congreso separa los tres que reunan mas sufragios, y procede pOl' votacion secreta a €Ilegir uno de entre ellos. Si en este primer es· crutinio ninguno obtiene la mayoria absoluta, se procede a nueva votacion entre los dos candidatos que mas sufragios obtuvieron en el primero; y en caso de igualdad, la eleccion se decidira pOl' Ja suerte. Todas estas operadones deberan efectuarse en una sola sesian p'€,rmanente, a pena de nulidad. Art. 70. Para ser Presidente de Ia Republica se requiere: I\'. Ser dominicano de origen. 2Q• Tener treinta y cincoaftos cumplidos. 3Q • Ser propi,etario de bimles raices. 49 • Estar en el pleno goce de sus derechos civiles y politicos. Art. 71. Para suplir la falta temporal 6 absoluta del Presidente de la Republica, habra un Vice-Presidente, que durara en sus funciones cuatro aftos, debera reunir las mismas cualidades requeridas en el articulo anterior, y sera elegido con las mismas forma/lidades que el Presidente. Art. 72. Ei perfodo de duracion del Presidente y Vice-Presidente de Ia Republica, se cantara desde el lQ. de Marzo inmediato asueleccion. Ninguno podra ser elegido Presidente, sin el in- _tervalo de un periodo integra. Art. 73. EI Presidente y Vice-Presidente de la Republica se elegiran con diferencia d~ dos alios, el uno del otro; y el Vice- Presidente no podra ser elegido Presidente para el periodo inme-
 
 ### Página 50 del PDF
 
-i" Mt:;;; &lt;iCOLEEtiUNiDfu LEfES, DEtRitUS &amp;.
-Ut&gt;4.
-diato, cuando haya ejercido el Poder Ejecutivo por la mitad del
-periodo Constitucional.
-Art. 74.
-En caso de muerte, dimision, destitucion 0 impedi-
-mento temporal del Presidente y Vice-Presidente, el Gonsrejo de
-Secretaris de Estado ejercera provisionalmenteel Poder Ejecu-
-tivo; y en los tres primeros casos expedini, dentro de cuarenta y
-El€ctorales, para que se
-reunan y procedan
-a la
-e1eccion del
-nuevo Presidente y Vice-Presidente.
-Tanto el Congreso como los
-Colegios EIectorales debenin nomnirs,e, 10
-mas tarde,
-dentro de
-ocho horas, un decreto de convocatoria al Congreso y
-Colegios
-treinta dias de la fecha del decl1eto de convocatoria.
-Art. 75.
-En las elecciones
-extraordinarias,
-'ei Presidente
-prestara juramento y entrara a ejercer sus funciones treinta dias
-despues de habel'sele participado su nombrami'ento oficialmente,
-y cualquiera que sea la epoca del ana en que ,entre a ejercer la
-presidencia, se contara 'el periodo Constitucional como si la hubie-
-ra ocupado desdeel1 Q• de Marzo.
-Yel Vice-Presidente durara el
-tiempo que faJtaba a su predecesor para cumplir su periodo.
-Art. 76.
-EI Presidente y Vice-Presidente de la
-Republica,
-antes de tomar posesion de 'sus respectivos
-destinos prestanin,
-ante el Congreso Nacional, eJ siguiente juramento: Juro por Dios
-y los Santos Evangelios, guaTdar y hacer guaTdar la Constitucion
-y las leyes del pueblo Dominicano, respetar sus derechos y man-
-tener la independencia Nacional.
-.
-Art. 77.
-Adema,s de hacer ej,ecutar las leyes en general, SOR
-atribuciones del Poder Ejecutivo:
-_
-19 •
-S'el1ar las leyes y decretos del Poder Legislativo, y den-
-tro del termino de tres dias, siempre que no tenga observaciones
-que hacerles, promulgar unas y otros, eon IJJa formula
-siguiente:
-Ejeeutese, comuniquese por la SecTetaria N. publicandose en todQ
-el territorio de la Republica, para su cumplimiento y observancia.
-Pudiendo hacer aT efeeto todos lOll reglamentos y decretos nee€-
-sarios.
-2a.
-Hacer todas las observaciones que juzgue oportunas y
-necesarias acerca de las leyes sancionadas por e'1 Senado, devol-
-viendo el proyecto dentro del termino de tres dias, 'en las acorda-
-·das por urgencia, al Presidente de dicho Cu'€,rpo; y en e1 de seis
-en todas las demas, para que e1 Oongreso delibere segun 10 es-
-tableddoenel articulo 53; y si sus observIlicion8S u objeciones no
-son consideradas porel Congreso, debera proceder a promulgar-
-las sinpoder suspender su ejecucion.
-3a.
-Ejercer como las dos Camaras la iniciativa en todas hs
+i" Mt:;;; <iCOLEEtiUNiDfu LEfES, DEtRitUS &. Ut>4. diato, cuando haya ejercido el Poder Ejecutivo por la mitad del periodo Constitucional. Art. 74. En caso de muerte, dimision, destitucion 0 impedimento temporal del Presidente y Vice-Presidente, el Gonsrejo de Secretaris de Estado ejercera provisionalmenteel Poder Ejecutivo; y en los tres primeros casos expedini, dentro de cuarenta y El€ctorales, para que se reunan y procedan a la e1eccion del nuevo Presidente y Vice-Presidente. Tanto el Congreso como los Colegios EIectorales debenin nomnirs,e, 10 mas tarde, dentro de ocho horas, un decreto de convocatoria al Congreso y Colegios treinta dias de la fecha del decl1eto de convocatoria. Art. 75. En las elecciones extraordinarias, 'ei Presidente prestara juramento y entrara a ejercer sus funciones treinta dias despues de habel'sele participado su nombrami'ento oficialmente, y cualquiera que sea la epoca del ana en que,entre a ejercer la presidencia, se contara 'el periodo Constitucional como si la hubiera ocupado desdeel1 Q• de Marzo. Yel Vice-Presidente durara el tiempo que faJtaba a su predecesor para cumplir su periodo. Art. 76. EI Presidente y Vice-Presidente de la Republica, antes de tomar posesion de 'sus respectivos destinos prestanin, ante el Congreso Nacional, eJ siguiente juramento: Juro por Dios y los Santos Evangelios, guaTdar y hacer guaTdar la Constitucion y las leyes del pueblo Dominicano, respetar sus derechos y mantener la independencia Nacional.. Art. 77. Adema,s de hacer ej,ecutar las leyes en general, SOR atribuciones del Poder Ejecutivo: _ 19 • S'el1ar las leyes y decretos del Poder Legislativo, y dentro del termino de tres dias, siempre que no tenga observaciones que hacerles, promulgar unas y otros, eon IJJa formula siguiente: Ejeeutese, comuniquese por la SecTetaria N. publicandose en todQ el territorio de la Republica, para su cumplimiento y observancia. Pudiendo hacer aT efeeto todos lOll reglamentos y decretos nee€sarios. 2a. Hacer todas las observaciones que juzgue oportunas y necesarias acerca de las leyes sancionadas por e'1 Senado, devolviendo el proyecto dentro del termino de tres dias, 'en las acorda- ·das por urgencia, al Presidente de dicho Cu'€,rpo; y en e1 de seis en todas las demas, para que e1 Oongreso delibere segun 10 estableddoenel articulo 53; y si sus observIlicion8S u objeciones no son consideradas porel Congreso, debera proceder a promulgarlas sinpoder suspender su ejecucion. 3a. Ejercer como las dos Camaras la iniciativa en todas hs
 
 ### Página 51 del PDF
 
----- .. _---_..
-leyes, exceptoen aquellas en que
-la de Representantes
-la be-
-ne exclusivamente.
-4a.
-Nombrar los empleados de la Administracion general,
-103 Gobernadores PoTiticos, de las listas que Ie sean presentadas,
-los Ministros pllblicos, C6nsules y demas Agentes Diplomaticos,
-COll las condiciones establecidas par Ia ley.
-5a.
-Nombrar los jueces de los tribunales de primera instan-
-cia, de las listas remitidas pOl' las Diputaciones Provinciales; los
-Alcaldes de camunes en los juzgados' inferiores; los Agentes fis-
-caleB, y todos los ,empleados pllblicos euyo nombramiento no .:le
-ccnfiera it otra autoridad porIa Constitucion 6 la ley.
-Ga.
-Nombrar los jueces de residencia.
-7a.
-Conferir los grados del ejercito de tierra y mar, con las
-excepcicnes previstas pOl' el articulo 52, y encomendar sus .TI'an-
-dos.
-Sa.
-Remover libremente de sus destinos los empl-oados -:leI
-ramo E'jecutivo, que sean de libre nombramiento suyo.
-9a.
-Supervigilar it todos los empleadas pllblicos en e1 exacto
-cumplimiento de ssu deber,es; y cuando delincan en razon de su
-destino 6 en el ejercicio de sus funciones, mandar10s acusar ante
-la autor'dad judicial competente, para que se siga e1 juicio con-
-forme a las leyes.
-Esta facultad es extensiva contra cuale"quie-
-ra funcionarios publicos, POl' infraccion itI,a Constitucion 6 aI:as
-leyes.
-lOa.
-Pedir al Cuerpa LegisIativo la prorroga de sus sesio-
-nes ordinarias, hasta pOl' tr,einta dias,
-Ha.
-Convocar al Cuerpo Legislativo para sl€&gt;siones extraor-
-dinarias en caso de absoluta necesidad, y la que expresara en e)
-decreto deconvocatoria.
-12a.
-Asistir a 1a apertura del Congreso Naciona1, en cada
-sesion Legislaiiva ordinaria, presentarle un mensaje pOl' escri-
-to de SE administracion, durante el ano espirado, y 1a situacion
-interior yexterior del Estado en sus
-diversos
-ramos: en las
-elecciones ordinarias este mensaje se presentara a1 acto de pres-
-taI' e1 nuevo eJecto el juramento Constitucional.
-13a.
-Someter
-a la consideracion de los Cuerpos Colegis-
-ladores cuanto juzgue conducente al bien estar de la Nacion.
-14a.
-Recibir los Ministros publicos extrangeros.
-15a.
-Dirijir las negociaciones dip1om:Hicas, celebrar trata-
-dos de paz, amistad, alianza, neutralidad, comercio y cualesquie-
-ra otros, a reserva de la sancion del Cuerpo Legis1ativo.
+----.. _---_.. leyes, exceptoen aquellas en que la de Representantes la bene exclusivamente. 4a. Nombrar los empleados de la Administracion general, 103 Gobernadores PoTiticos, de las listas que Ie sean presentadas, los Ministros pllblicos, C6nsules y demas Agentes Diplomaticos, COll las condiciones establecidas par Ia ley. 5a. Nombrar los jueces de los tribunales de primera instancia, de las listas remitidas pOl' las Diputaciones Provinciales; los Alcaldes de camunes en los juzgados' inferiores; los Agentes fiscaleB, y todos los,empleados pllblicos euyo nombramiento no.:le ccnfiera it otra autoridad porIa Constitucion 6 la ley. Ga. Nombrar los jueces de residencia. 7a. Conferir los grados del ejercito de tierra y mar, con las excepcicnes previstas pOl' el articulo 52, y encomendar sus.TI'andos. Sa. Remover libremente de sus destinos los empl-oados -:leI ramo E'jecutivo, que sean de libre nombramiento suyo. 9a. Supervigilar it todos los empleadas pllblicos en e1 exacto cumplimiento de ssu deber,es; y cuando delincan en razon de su destino 6 en el ejercicio de sus funciones, mandar10s acusar ante la autor'dad judicial competente, para que se siga e1 juicio conforme a las leyes. Esta facultad es extensiva contra cuale"quiera funcionarios publicos, POl' infraccion itI,a Constitucion 6 aI:as leyes. lOa. Pedir al Cuerpa LegisIativo la prorroga de sus sesiones ordinarias, hasta pOl' tr,einta dias, Ha. Convocar al Cuerpo Legislativo para sl€>siones extraordinarias en caso de absoluta necesidad, y la que expresara en e) decreto deconvocatoria. 12a. Asistir a 1a apertura del Congreso Naciona1, en cada sesion Legislaiiva ordinaria, presentarle un mensaje pOl' escrito de SE administracion, durante el ano espirado, y 1a situacion interior yexterior del Estado en sus diversos ramos: en las elecciones ordinarias este mensaje se presentara a1 acto de prestaI' e1 nuevo eJecto el juramento Constitucional. 13a. Someter a la consideracion de los Cuerpos Colegisladores cuanto juzgue conducente al bien estar de la Nacion. 14a. Recibir los Ministros publicos extrangeros. 15a. Dirijir las negociaciones dip1om:Hicas, celebrar tratados de paz, amistad, alianza, neutralidad, comercio y cualesquiera otros, a reserva de la sancion del Cuerpo Legis1ativo.
 
 ### Página 52 del PDF
 
-554
-COLECCIOR hE LEYES, DECRETOS &amp;.-1854.
-16a.
-Disponer de ,la fuerza permanente de mar y tierra pa-
-ra la defensa interior y exterior del Estado.
-17a.
-Disponer de las guardias nacionales para la seguridad
-interior de sus Provincias y fuera de elIas. con el
-expreso con-
-s'entimiento del Congreso.
-18a. En loscasos de conmocion interior a mana armada, que
-amenace la seguridad del Estado, y en los de una invasion exte-
-rior y repentina, usaI' de las facultades que Ie hayaconferido e1
-Congreso, en virtud de la atribucion 15a. del articulo 68; y si
-el caso se presentare cuando no este reunido el Congreso, no
-Ie
-hubiere conferido las predichas facultades, 6 no hubiere previsto
-l~s cricunstancias, tomar todas aqueUas medidas que crea indis-
-psnsabltls, no contrarias aesta Constitucion, y que exija la con-
-servacion de la Republica, de que dara cuenta exacta al Congreso
-tan pronto como se reuna, para su resolucion.
-19a.
-Proveer al fomento de la instruccion pUblica.
-20a.
-Instituir escuelas nauticas, de agricultura, mineralo-
-gia,
-y escuelas publicas de artes y oficios.
-21a.
-Conceder a los inventores 6 importadores, POl' tiem-
-po Iimitado, el provecho excIusivo de sus trabajos, 6 la indemniza-
-cion de sus gastos.
-22a.
-Recompensar a los agricuUores mas industriosos y uti-
-les, ya todos los que se distinguieren en las artes y oficios.
-23a.
-Cuidar de la exacta y fiel recaudacion, y de la legal in-
-version de las rentas pub'licas.
-24a.
-Cuidar de que la justicia se administre pronta y cum-
-plidamente; que las sentencias se cumplan y ejecuten, exitando
-POl' medio de sus fiscales, 0 directamente a la Suprema Corte de
-Justicia.
-25a.
-Conceder licencias y retiros a los militares.
-26a.
-Expedir patentes de navegacion, corso y mercancias.
-27a.
-Conceder el pase 6 retener los decretos conciliares
-y
-bulas pontificias, si contienen disposiciones generales, 6 si
-se
-verBan sobre negocios particuIares, gubernativos 6 puntos con-
-tenciosos, pasando su conocimiento y decision a quien correspon-
-da.
-28a. Conceder carta de naturalizacion, conforme a la ley.
-29a.
-Conceder amnistias e indultos particulares, cuando 10
-exija algun motivo de conveniencia publica 6 humanitario.
-En
-ningun caso podra concederlos POl' delitos atroces, ni a los em-
-pleados publicos POl' delitos cometidos ene1 ejercicio de sus fun-
-ciones.
+COLECCIOR hE LEYES, DECRETOS &.-1854. 16a. Disponer de,la fuerza permanente de mar y tierra para la defensa interior y exterior del Estado. 17a. Disponer de las guardias nacionales para la seguridad interior de sus Provincias y fuera de elIas. con el expreso cons'entimiento del Congreso. 18a. En loscasos de conmocion interior a mana armada, que amenace la seguridad del Estado, y en los de una invasion exterior y repentina, usaI' de las facultades que Ie hayaconferido e1 Congreso, en virtud de la atribucion 15a. del articulo 68; y si el caso se presentare cuando no este reunido el Congreso, no Ie hubiere conferido las predichas facultades, 6 no hubiere previsto l~s cricunstancias, tomar todas aqueUas medidas que crea indispsnsabltls, no contrarias aesta Constitucion, y que exija la conservacion de la Republica, de que dara cuenta exacta al Congreso tan pronto como se reuna, para su resolucion. 19a. Proveer al fomento de la instruccion pUblica. 20a. Instituir escuelas nauticas, de agricultura, mineralogia, y escuelas publicas de artes y oficios. 21a. Conceder a los inventores 6 importadores, POl' tiempo Iimitado, el provecho excIusivo de sus trabajos, 6 la indemnizacion de sus gastos. 22a. Recompensar a los agricuUores mas industriosos y utiles, ya todos los que se distinguieren en las artes y oficios. 23a. Cuidar de la exacta y fiel recaudacion, y de la legal inversion de las rentas pub'licas. 24a. Cuidar de que la justicia se administre pronta y cumplidamente; que las sentencias se cumplan y ejecuten, exitando POl' medio de sus fiscales, 0 directamente a la Suprema Corte de Justicia. 25a. Conceder licencias y retiros a los militares. 26a. Expedir patentes de navegacion, corso y mercancias. 27a. Conceder el pase 6 retener los decretos conciliares y bulas pontificias, si contienen disposiciones generales, 6 si se verBan sobre negocios particuIares, gubernativos 6 puntos contenciosos, pasando su conocimiento y decision a quien corresponda. 28a. Conceder carta de naturalizacion, conforme a la ley. 29a. Conceder amnistias e indultos particulares, cuando 10 exija algun motivo de conveniencia publica 6 humanitario. En ningun caso podra concederlos POl' delitos atroces, ni a los empleados publicos POl' delitos cometidos ene1 ejercicio de sus funciones.
 
 ### Página 53 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-555
-30a. Commutar la J}ena capital POl' 'apelacion hecha a su
-gracia, la eua1 produce suspension de 1a ejecucion; pero no podra
-recurrirse al Poder Ejecutivo, si se ha apelado ya al Poder Le-
-gislativo.
-En caso de condenacion a 1a pena capital, pOl' commo-
-cion interior it man~ armada, 0 pOl' conspiracion a favor dei ene-
-migo, el recurso en gracia 82 hara desde luego ante el Poder Eje-
-cutivo.
-31a.
-Durante el receso del Cuerpo Legis'lativo proveer las
-vacantes de los magistrados que ocurran y cuyo nombramiento
-perteneceal Senado, los que ejerceran sus funciones pOl' comision,
-que espirara al fin de la primera reunion legislativa.
-Art. 78.
-Todas las providencias gubernativas que tama e1
-encargado del Poder Ejecutivo, deberan ant€,s deliberarse en el
-Consejo de Secretarios de Estado.
-'
-Art. 79.
-Ningun acto, decreto, reglamento, orden 0 provi-
-dencia delencargado del Poder Ejecutivo, excepto los decreto'S de
-nombramiento y remodon de los Secretarios de Estado, sera eje-
-cutorio ni obedecido si no esta refrendado POI' un Ministro, que
-par este solo hecho queda responsable de el; sin que en ningun
-caso la orden verbal 0 escrita del Poder Ejecutivo pueda sustraer
-de 1a responsabilidad a1 Secretario que 10 refrenda:
-Art. 80.
-E1 encargado del Poder Ejecutivo es e1 celador de
-todos 'los abusos de autoridad y exceso'S de pader que se cometan
-bajo su administracion, Yl'esponsable de ellos, si a sabiendas no
-persigue 6 hace p'€,rseguir a Btl" autores, conforme a la Constitu-
-cion 6 a las leyes.
-Art. 81.
-Como gefe de 1a Administracion publica nacionai,
-dirije las operaciones militares en cl interior y exterior, manda
-las fuera'S de tierra y mar, 6 encomienda sus mandos.
-Art. 82.
-E1 encargado del Pader Ejecutivo no tiene mas
-facu[tades que la'S que expresamente Ie confieren la Constitucion
-y Jas leYJes.
-Art. 83.
-Sicumplido eI periodo Constituciona1 el Congreso
-no se hallare reunido, e1 Presidente cesara en sus funciones. en-
-cargimdose de e1'las '811 Vice-Presidente.
-CAPITULO SEGUNDO.-De los Secretarios de Es,tado.
-Art. 84.
-Habra cuatro Ministros
-Secretarios de Estado,
-para e1 despacho de todos los negocios de 1a Administracion, nom-
-brados libremente pOl' el encargado del Poder Ejecutivo y amovi-
-bIe a su voJuntad, loscuales seran:
+COLECCION DE LEYES, DECRETOS &.-1854. 30a. Commutar la J}ena capital POl' 'apelacion hecha a su gracia, la eua1 produce suspension de 1a ejecucion; pero no podra recurrirse al Poder Ejecutivo, si se ha apelado ya al Poder Legislativo. En caso de condenacion a 1a pena capital, pOl' commocion interior it man~ armada, 0 pOl' conspiracion a favor dei enemigo, el recurso en gracia 82 hara desde luego ante el Poder Ejecutivo. 31a. Durante el receso del Cuerpo Legis'lativo proveer las vacantes de los magistrados que ocurran y cuyo nombramiento perteneceal Senado, los que ejerceran sus funciones pOl' comision, que espirara al fin de la primera reunion legislativa. Art. 78. Todas las providencias gubernativas que tama e1 encargado del Poder Ejecutivo, deberan ant€,s deliberarse en el Consejo de Secretarios de Estado. ' Art. 79. Ningun acto, decreto, reglamento, orden 0 providencia delencargado del Poder Ejecutivo, excepto los decreto'S de nombramiento y remodon de los Secretarios de Estado, sera ejecutorio ni obedecido si no esta refrendado POI' un Ministro, que par este solo hecho queda responsable de el; sin que en ningun caso la orden verbal 0 escrita del Poder Ejecutivo pueda sustraer de 1a responsabilidad a1 Secretario que 10 refrenda: Art. 80. E1 encargado del Poder Ejecutivo es e1 celador de todos 'los abusos de autoridad y exceso'S de pader que se cometan bajo su administracion, Yl'esponsable de ellos, si a sabiendas no persigue 6 hace p'€,rseguir a Btl" autores, conforme a la Constitucion 6 a las leyes. Art. 81. Como gefe de 1a Administracion publica nacionai, dirije las operaciones militares en cl interior y exterior, manda las fuera'S de tierra y mar, 6 encomienda sus mandos. Art. 82. E1 encargado del Pader Ejecutivo no tiene mas facu[tades que la'S que expresamente Ie confieren la Constitucion y Jas leYJes. Art. 83. Sicumplido eI periodo Constituciona1 el Congreso no se hallare reunido, e1 Presidente cesara en sus funciones. encargimdose de e1'las '811 Vice-Presidente.
+
+**CAPITULO SEGUNDO.-De los Secretarios de Es,tado. Art. 84. Habra cuatro Ministros Secretarios de Estado, para e1 despacho de todos los negocios de 1a Administracion, nombrados libremente pOl' el encargado del Poder Ejecutivo y amovibIe a su voJuntad, loscuales seran:**
 
 ### Página 54 del PDF
 
-556
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-1".
-Interior, Pcilicia y Agricultura.
-29 •
-Hacienda, Comercio y Fomento.
-39 • Justicia e Instruccion Publica.
-4'1.
-Guerra, Marina y Obras publicas.
-§ E1 encargado del Poder Ejecutivo en&lt;!omendara el Despa-
-cho de las Relaciones Exteriores, a aquel
-que 10
-juzgue conve-
-niente.
-Art. 85. Para ser S'ecretario de Estado se requiere:
-1'1.
-Estar en el goee de los derechos civiles y politicos.
-29 ,
-Tener treinta anos cumplidos, y la aptitud necesaria pa-
-ra ejercer el destino que se Ie confia, no pudiendo serlo ningun
-pariente ni aliado delencargado del Poder Ejecutivo, hasta el
-grado de primo hermann inclusive.
-Art. 86.
-L,os Secretarios de Estado se l'eunirim en Consejo,
-bajo la presidencia del encargado del Poder Ejecutivo, para exa-
-minar, discutir y resolver los negocios generales de la adminis-
-tracion del Estado, y arreglar las providencias que hayan de ex-
-pedirse POl' cada Despacho.
-Art. 87.
-Los Secretarios de Estado, como organos inmed.ia-
-tos e indispensables del Poder Ejecutivo, esHmencargados
-de
-proveera la ejecucion de las leyes y demas providencias guberna-
-tivas ;tienen derechoa reformar los aetas de los agentes inferio-
-res; corresponden directamente can las autoridades que l€s esbln
-subordinadas; tienen entrada en las resiones de los Cuerpos Co-
-legisladores y en el Congreso NacionaJl, donde seran oidos cuando
-10 exijan oficialmente y con antelacion para negodos de su ramo;
-deberan
-pn~sentar.se ante los Cuerpos Colegisladores, todas las
-vec~s que sean llamados a
-~u seno, y responder a las interpela-
-dones que se Ie haga sabre todos los actO's de su administracion.
-Art. 88.
-Los Secretarios de Estado son responsables de los
-actos deL Poder Ejecutivo que refrendan, de la ejecucion de las
-j,eyes, de Ia infraccion deestas y de la Constitucion enel ejerci-
-cia de su ministerio, de malversacion de los fandos publicos en
-sus respeetivos ramos.
-Lo son tambien solidariamente de todas
-las providencias gubernativas, dadas ,en Consejo de Ministros,
-y de las faItas de omision en que cualquiera de elIos ensu ramo, y
-todos juntos en la gobernacion del Estado incurrieren.
-Art. 89.
-La ley determinara la forma de los juicios en las
-causas de responsabilidad que se intenten contra ,el Presidente y
-Vice-Presidente de la R,epubJi.ca, los SecretariCls de Estado, miem-
-bros de Ia Suprema Corte de Justicia y demas altos funcionarios,
-POI' mal desempefio en el ejercicio de sus funciones" y en que sea
+COLECCION DE LEYES, DECRETOS &.-1854. 1". Interior, Pcilicia y Agricultura. 29 • Hacienda, Comercio y Fomento. 39 • Justicia e Instruccion Publica. 4'1. Guerra, Marina y Obras publicas. § E1 encargado del Poder Ejecutivo en<!omendara el Despacho de las Relaciones Exteriores, a aquel que 10 juzgue conveniente. Art. 85. Para ser S'ecretario de Estado se requiere: 1'1. Estar en el goee de los derechos civiles y politicos. 29, Tener treinta anos cumplidos, y la aptitud necesaria para ejercer el destino que se Ie confia, no pudiendo serlo ningun pariente ni aliado delencargado del Poder Ejecutivo, hasta el grado de primo hermann inclusive. Art. 86. L,os Secretarios de Estado se l'eunirim en Consejo, bajo la presidencia del encargado del Poder Ejecutivo, para examinar, discutir y resolver los negocios generales de la administracion del Estado, y arreglar las providencias que hayan de expedirse POl' cada Despacho. Art. 87. Los Secretarios de Estado, como organos inmed.iatos e indispensables del Poder Ejecutivo, esHmencargados de proveera la ejecucion de las leyes y demas providencias gubernativas;tienen derechoa reformar los aetas de los agentes inferiores; corresponden directamente can las autoridades que l€s esbln subordinadas; tienen entrada en las resiones de los Cuerpos Colegisladores y en el Congreso NacionaJl, donde seran oidos cuando 10 exijan oficialmente y con antelacion para negodos de su ramo; deberan pn~sentar.se ante los Cuerpos Colegisladores, todas las vec~s que sean llamados a ~u seno, y responder a las interpeladones que se Ie haga sabre todos los actO's de su administracion. Art. 88. Los Secretarios de Estado son responsables de los actos deL Poder Ejecutivo que refrendan, de la ejecucion de las j,eyes, de Ia infraccion deestas y de la Constitucion enel ejercicia de su ministerio, de malversacion de los fandos publicos en sus respeetivos ramos. Lo son tambien solidariamente de todas las providencias gubernativas, dadas,en Consejo de Ministros, y de las faItas de omision en que cualquiera de elIos ensu ramo, y todos juntos en la gobernacion del Estado incurrieren. Art. 89. La ley determinara la forma de los juicios en las causas de responsabilidad que se intenten contra,el Presidente y Vice-Presidente de la R,epubJi.ca, los SecretariCls de Estado, miembros de Ia Suprema Corte de Justicia y demas altos funcionarios, POI' mal desempefio en el ejercicio de sus funciones" y en que sea
 
 ### Página 55 del PDF
 
-COLECCION DE LEYES. DECRETOS &amp;.-1854.
-557
-permitido pOl' esta Constitucion a las Camaras Legislativas in-
-tervenir, y las penas que deban imponerseles.
-§ La ley definira igualmente los crimenes de Estado.
-TITULO VIII.
+COLECCION DE LEYES. DECRETOS &.-1854. permitido pOl' esta Constitucion a las Camaras Legislativas intervenir, y las penas que deban imponerseles. § La ley definira igualmente los crimenes de Estado.
+
+**TITULO VIII.**
+
 DEL PODER JUDICIAL.
-CAPITULO PRIMERO.
-Art. 90.
-La potestad de aplicar las leyes, en las causas ci-
-viles y crimina'les, pertenece exclusivamente a los tribunales, sal-
-vo 10 que la ley puedaestablecer respecto al juicio POl' jurados.
-Los tribuna1es y juzgados no pueden ejercer ot1'as funciones, que
-las de juzgar y haeer que se ejecute 10 juzgado.
-Art. 91.
-Ningun dominicano
-podra
-ser distraido de sus
-jueces naturales ni juzgado en causas civiles ni crimina-les POl'
-comision alguna, sino pOl' ,e1 tribunal competente determinado con
-anterioridad porIa ley; y en ningun caso podran abreviarse ni a1-
-terarse las formas de los juicios.
-Art. 92.
-Las sesiones de los tribunales son piiblicas, a menns
-que la publicidad sea perjudicial a1 orden publico 0 la moral, en
-cuyo caso el tribunal POl' una sentencia ordenara los esrtrados a
-puerta eerrada.
-Esta medida no puede en caso alguno apiicarse
-a los delitos politicos ni de la prensa, cuyos juicios seran siempre
-publicos.
-Art. 93.
-Todos los tribunales y juzgados estan obligados a
-hacer mencion en sus senteneias de la ley aplieada y de los mo-
-tivosen que la fundan; ningun tribunal podra aplicar niguna
-ley inconstitucional, ni los decretos y reg1amentos de administra-
-cion general, si~o en tanto que sean eonformes a las leyes' en vi-
-gor.
-Art. 94. Lasd'eiIiberaciones se tomana puerta eerrada; los
-jueces votantes deben estar absolutamente solos eincomunicados
-durante la deliberacion.
-Art. 95:
-Tocla sentencia debe darse y ejecutarse en nombre
-de la Republica y terminarse POl' el mandata de ejecucion, so pe-
-na de nuIidad.
-La misma formula es de rigor en los aetos ejecu-
-torios de ,los ,escribanospubIieos.
-Art. 96.
-Los jueces no podran ser sU's!pensos de sus funcio-
-nes, sino pOI' acusacion legalmente intentada y admitida, ni de-
-puestos de sus destinos sino en virtud de sentencia dada confor-
+
+**CAPITULO PRIMERO.** Art. 90. La potestad de aplicar las leyes, en las causas civiles y crimina'les, pertenece exclusivamente a los tribunales, salvo 10 que la ley puedaestablecer respecto al juicio POl' jurados. Los tribuna1es y juzgados no pueden ejercer ot1'as funciones, que las de juzgar y haeer que se ejecute 10 juzgado. Art. 91. Ningun dominicano podra ser distraido de sus jueces naturales ni juzgado en causas civiles ni crimina-les POl' comision alguna, sino pOl',e1 tribunal competente determinado con anterioridad porIa ley; y en ningun caso podran abreviarse ni a1terarse las formas de los juicios. Art. 92. Las sesiones de los tribunales son piiblicas, a menns que la publicidad sea perjudicial a1 orden publico 0 la moral, en cuyo caso el tribunal POl' una sentencia ordenara los esrtrados a puerta eerrada. Esta medida no puede en caso alguno apiicarse a los delitos politicos ni de la prensa, cuyos juicios seran siempre publicos. Art. 93. Todos los tribunales y juzgados estan obligados a hacer mencion en sus senteneias de la ley aplieada y de los motivosen que la fundan; ningun tribunal podra aplicar niguna ley inconstitucional, ni los decretos y reg1amentos de administracion general, si~o en tanto que sean eonformes a las leyes' en vigor. Art. 94. Lasd'eiIiberaciones se tomana puerta eerrada; los jueces votantes deben estar absolutamente solos eincomunicados durante la deliberacion. Art. 95: Tocla sentencia debe darse y ejecutarse en nombre de la Republica y terminarse POl' el mandata de ejecucion, so pena de nuIidad. La misma formula es de rigor en los aetos ejecutorios de,los,escribanospubIieos. Art. 96. Los jueces no podran ser sU's!pensos de sus funciones, sino pOI' acusacion legalmente intentada y admitida, ni depuestos de sus destinos sino en virtud de sentencia dada confor-
 
 ### Página 56 del PDF
 
-558
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
--------------------------
-me a las leyes y pasada en 'autoridad de cosa juzgada; sus fun-
-ciones duraran cinco arios.
-La ley determinara tambien la forma
-de los juicios quese intenten contra los jUleces, pOl'
-los delitos
-que cometan fuera del ejercicio de sus funciones.
-Art. 97.
-En ningun juicio podra
-haber mas
-de tres ins-
-tan-::ias.
-CAPITULO SEGUNDO.-De la Suprema Corte de Justicia.
-Art. 98.
-La primera magistratura judicial del Estado resi-
-de en la Suprema Corte de Justicia, que se compondra de un Pre-
-sidente y cnatro ministros elejidos pOl' 'eI Senado, de los candida-
-tos presentados pOl' la Camara de Representantes, en numero tri-
-ple a la de los magistracios que cleban nombrarse 6 reemplazarse,
-y de un agente del ministerio publico.
-La ley fijara los casas y
-el modo como debera dividirse la Corte en c.:amara deacusacion.
-Art. 99.
-Para s'er miembro de la Suprema Corte de Justicia
-es necesario: estar en el goce de los derechos civiles y
-politicos,
-haber cumplido treinta anos y s'er propietario de bienes rakes.
-Ej'el'ceran sus funciones cinco anos, y pueden sel' indefinidamen-
-te reelectos.
-Art. 100.
-Son atribuciones de la Suprema Corte de Justicia:
-1a.
-Conocer de las causas que se formen contra el Presiden-
-te y Vice-Presidente de la RepubUca pOl' delitos comun€'S', previa
-la suspension decretada par el Senado a peticion de la Camara
-de Repr-es,entantes.
-2a.
-Conocer de las causas que se formen contra los miem-
-bros del Senado y de la Camara de Representantes, pOI' crime-
-nes de Estado y delitos comunes, previo eldecreto de acusacion
-de sus respectiv,os Cuerpos.
-3a.
-CanaceI' de las causas que se formen 'Contra sus propios
-miembros, pOI' delitos comunes.
-4a.
-Conocer de las causas
-contencioS'as de los Plenipoten-
-ciarios y Ministros publicos extrangeros; aaeditados cel'ca del
-Gobierno de la Republica, en los casos permitidos pOl' elderecho
-internacional y conforme a los tratados que se hay.an cl811ebr'ado
-con las naciones a que pertenezcan.
-5a.
-Conocer de las causas de I'esponsabilidad que se formen
-a los Secretarios de Estado, Agentes Diplomaticos de la Repu-
-blica y Gobernadores Politicos, pOI' mal -desempeno en el ejerci-
-cio de sus funciones.
-6a. Conocer de las controversias que :resaltaren de los con-
+COLECCION DE LEYES, DECRETOS &.-1854. me a las leyes y pasada en 'autoridad de cosa juzgada; sus funciones duraran cinco arios. La ley determinara tambien la forma de los juicios quese intenten contra los jUleces, pOl' los delitos que cometan fuera del ejercicio de sus funciones. Art. 97. En ningun juicio podra haber mas de tres instan-::ias.
+
+**CAPITULO SEGUNDO.-De la Suprema Corte de Justicia.** Art. 98. La primera magistratura judicial del Estado reside en la Suprema Corte de Justicia, que se compondra de un Presidente y cnatro ministros elejidos pOl' 'eI Senado, de los candidatos presentados pOl' la Camara de Representantes, en numero triple a la de los magistracios que cleban nombrarse 6 reemplazarse, y de un agente del ministerio publico. La ley fijara los casas y el modo como debera dividirse la Corte en c.:amara deacusacion. Art. 99. Para s'er miembro de la Suprema Corte de Justicia es necesario: estar en el goce de los derechos civiles y politicos, haber cumplido treinta anos y s'er propietario de bienes rakes. Ej'el'ceran sus funciones cinco anos, y pueden sel' indefinidamente reelectos. Art. 100. Son atribuciones de la Suprema Corte de Justicia: 1a. Conocer de las causas que se formen contra el Presidente y Vice-Presidente de la RepubUca pOl' delitos comun€'S', previa la suspension decretada par el Senado a peticion de la Camara de Repr-es,entantes. 2a. Conocer de las causas que se formen contra los miembros del Senado y de la Camara de Representantes, pOI' crimenes de Estado y delitos comunes, previo eldecreto de acusacion de sus respectiv,os Cuerpos. 3a. CanaceI' de las causas que se formen 'Contra sus propios miembros, pOI' delitos comunes. 4a. Conocer de las causas contencioS'as de los Plenipotenciarios y Ministros publicos extrangeros; aaeditados cel'ca del Gobierno de la Republica, en los casos permitidos pOl' elderecho internacional y conforme a los tratados que se hay.an cl811ebr'ado con las naciones a que pertenezcan. 5a. Conocer de las causas de I'esponsabilidad que se formen a los Secretarios de Estado, Agentes Diplomaticos de la Republica y Gobernadores Politicos, pOI' mal -desempeno en el ejercicio de sus funciones. 6a. Conocer de las controversias que:resaltaren de los con-
 
 ### Página 57 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-185,1.
-559
-tratos y negodaciones que cetebre el Poder Ej,ecutivo pOl' S1 6
-POl' medio de agentes.
-7a.
-Conocer de los recursos de queja q'ue se intenten con-
-tra los tribunales de primera instanda, par abuso de autoridad,
-exceso de poder, omision, denegadon 6 retardo culpahle en la ad-
-ministracion de justicia, como asi mismo de las causas de respon-
-sabilidad que ss susciten contra I(JS magistrados de los mismos
-tribunales.
-8a.
-Gonacer de las causas de presas de tierra y mar.
-ga.
-Decidir las cuestiones que se su",citen entre dos 6 mas
-provincias.
-lOa.
-Conacer del fondo y forma de todas las causas civiles
-y criminales que se Ie sometan en apeladon, y decidirlas sObera-
-na y defintivamente.
-11a.
-Conocer como Suprema Gorte :YIarcial en las apelacio-
-nes de los juicios' militares.
-12a.
-Dirimir los conflictos de competencia entre los tribuna-
-les de primera instancia, yentre estos y]os dema,s juzgados.
-13a.
-Oil' las dudas de los demas tribunales sobre ]a inteli-
-gencia de las leyes, y si las considerare fundadas, consultar sabre
-elIas al Congreso para la conveniente
-adaracion, e informara
-tambien aeste de todo aqueUo que crea conveniente para la me-
-jar administracion de justicia: estas comunicaciones las hara par
-conducto del Poder Ejecutivo.
-14a.
-Conel solo interes de uniformar la jurisprudencia, y
-sin que Isudecision aproveche ni perjudique a las partes litigan-
-tes, reformal' las sent~ncias dadas por los tribunales 6 juzgados,
-pasadas ya en autorida,d de cosa juzgada, que contengan algun
-principio falso 6 errado 6 adolez{;an de algun vicio esencial.
-To-
-dos los tribunales inferiori8ls deberan remitirle obligatoriamente,
-aJ efecto, cada 's'eis meses, copias de todas las sentencias civiles y
-criminales que hayan dado; y cada tres meses, un estado detalla-
-do de todas las causas pendientes.
-15a. Desempefiar y ejercer las demas funciones y atribucio-
-nes que leconfiera la ley.
-Art. 101.
-Lass'liplicas en revision de las decisiones d~ la Su-
-prema Corte de Justicia, en materia contenciosa, solo
-tendran
-Iugar en los caso'S previstos POl' los C6digos en vigor.
-Art. 102.
-Los miembros de 1a Suprema Corte d~
-Justicia
-son responsables y sujetos a juicio individualmente ante el Se-
-nado:
-1Q• Par crimenes de Estado.
+COLECCION DE LEYES, DECRETOS &.-185,1. tratos y negodaciones que cetebre el Poder Ej,ecutivo pOl' S1 6 POl' medio de agentes. 7a. Conocer de los recursos de queja q'ue se intenten contra los tribunales de primera instanda, par abuso de autoridad, exceso de poder, omision, denegadon 6 retardo culpahle en la administracion de justicia, como asi mismo de las causas de responsabilidad que ss susciten contra I(JS magistrados de los mismos tribunales. 8a. Gonacer de las causas de presas de tierra y mar. ga. Decidir las cuestiones que se su",citen entre dos 6 mas provincias. lOa. Conacer del fondo y forma de todas las causas civiles y criminales que se Ie sometan en apeladon, y decidirlas sOberana y defintivamente. 11a. Conocer como Suprema Gorte:YIarcial en las apelaciones de los juicios' militares. 12a. Dirimir los conflictos de competencia entre los tribunales de primera instancia, yentre estos y]os dema,s juzgados. 13a. Oil' las dudas de los demas tribunales sobre ]a inteligencia de las leyes, y si las considerare fundadas, consultar sabre elIas al Congreso para la conveniente adaracion, e informara tambien aeste de todo aqueUo que crea conveniente para la mejar administracion de justicia: estas comunicaciones las hara par conducto del Poder Ejecutivo. 14a. Conel solo interes de uniformar la jurisprudencia, y sin que Isudecision aproveche ni perjudique a las partes litigantes, reformal' las sent~ncias dadas por los tribunales 6 juzgados, pasadas ya en autorida,d de cosa juzgada, que contengan algun principio falso 6 errado 6 adolez{;an de algun vicio esencial. Todos los tribunales inferiori8ls deberan remitirle obligatoriamente, aJ efecto, cada 's'eis meses, copias de todas las sentencias civiles y criminales que hayan dado; y cada tres meses, un estado detallado de todas las causas pendientes. 15a. Desempefiar y ejercer las demas funciones y atribuciones que leconfiera la ley. Art. 101. Lass'liplicas en revision de las decisiones d~ la Suprema Corte de Justicia, en materia contenciosa, solo tendran Iugar en los caso'S previstos POl' los C6digos en vigor. Art. 102. Los miembros de 1a Suprema Corte d~ Justicia son responsables y sujetos a juicio individualmente ante el Senado: 1Q• Par crimenes de Estado.
 
 ### Página 58 del PDF
 
-560
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-2&lt;&gt;.
-Por infraccion a 1a Constitucion.
-3".
-POl' coihecho.
-49 • Por prevaricato.
-CAPITULO TERCERO.-De los tribunales de
-primera instancia y demas juzgados.
-Art. 103.
-Para facilitar la pronta administracion de justi-
-cia, se dividira el territorio en distritos judiciales; habra en ca-
-da uno de elIos tribunales de comercio, un tribunal de
-primera
-instancia, que ejercera 'la jurisdiccion civil y criminal en toda la
-extension de su distrito, y las fundones de tribunal de comercio
-donde no 10 haya.
-La distribucion, asiento, emolumentos y demas
-atribuciones de estos tribunales, seran objeto de una ley.
-§ Unico.-Para ser juez de los tribunates de primera ins-
-tancia se requieren las mismas cuaIidades que para ser Represen-
-tante, y 1a aptitud necesaria para desempefiar 1a magistratura.
-Art. 104.
-Los juzgados inferiores de las comunes estaran a
-cargo de Alcaldl€JS de comunes, que juzgaran sumariamente; ejer-
-ceran atribuciones judiciales, deconciHacion, extrajudiciales, de
-policia, y las demas que la ley les atribuya.-La ley organizara
-los Consejos de guerra, desigmindoles sus atribuciones y el mo-
-do de ejercerla.~, y determinara igualmente 1a organizacion judi-
-cial, dotacion. y palida de todos los tribuna'les y juzgados.
-TITULO IX
+COLECCION DE LEYES, DECRETOS &.-1854. 2<>. Por infraccion a 1a Constitucion. 3". POl' coihecho. 49 • Por prevaricato.
+
+**CAPITULO TERCERO.-De los tribunales de primera instancia y demas juzgados.** Art. 103. Para facilitar la pronta administracion de justicia, se dividira el territorio en distritos judiciales; habra en cada uno de elIos tribunales de comercio, un tribunal de primera instancia, que ejercera 'la jurisdiccion civil y criminal en toda la extension de su distrito, y las fundones de tribunal de comercio donde no 10 haya. La distribucion, asiento, emolumentos y demas atribuciones de estos tribunales, seran objeto de una ley. § Unico.-Para ser juez de los tribunates de primera instancia se requieren las mismas cuaIidades que para ser Representante, y 1a aptitud necesaria para desempefiar 1a magistratura. Art. 104. Los juzgados inferiores de las comunes estaran a cargo de Alcaldl€JS de comunes, que juzgaran sumariamente; ejerceran atribuciones judiciales, deconciHacion, extrajudiciales, de policia, y las demas que la ley les atribuya.-La ley organizara los Consejos de guerra, desigmindoles sus atribuciones y el modo de ejercerla.~, y determinara igualmente 1a organizacion judicial, dotacion. y palida de todos los tribuna'les y juzgados.
+
+**TITULO IX**
+
 DEL GOBIERNO POLITICO DE LAS PROVINCIAS.
-CAPITULO PRIMERO.
-Art. 105.
-El gobierno interior de las Provincias estara a
-cargo de un Gobernador Politico en la parte ejecutiva; yen todo
-]0 que pertenece a1 regimen, orden y seguridad de 1a Provincia y
-a su gobierno 'Politico y econ6mico, Ie estan subordinados, como
-agentes natural,es del Poder Ejecutivo, todos 108
-funcionarios
-pub'licos de cualquiera clase que residan dentro de la Provincia:
-como gefe municipal Ie corr'esponde presidir las
-Diputaciones
-Provinciales, convocarlas extraordinariamente cuando sea nece-
-sario,conforme a la Constitution 0 a la ley, 1a que arreglara sus
-demas atribuciones y todo 10 relativo a su ejercicio.
-Art. 106.
-Los Gob€rnadores Politicos debenin reunir
-las
+
+**CAPITULO PRIMERO.** Art. 105. El gobierno interior de las Provincias estara a cargo de un Gobernador Politico en la parte ejecutiva; yen todo ]0 que pertenece a1 regimen, orden y seguridad de 1a Provincia y a su gobierno 'Politico y econ6mico, Ie estan subordinados, como agentes natural,es del Poder Ejecutivo, todos 108 funcionarios pub'licos de cualquiera clase que residan dentro de la Provincia: como gefe municipal Ie corr'esponde presidir las Diputaciones Provinciales, convocarlas extraordinariamente cuando sea necesario,conforme a la Constitution 0 a la ley, 1a que arreglara sus demas atribuciones y todo 10 relativo a su ejercicio. Art. 106. Los Gob€rnadores Politicos debenin reunir las
 
 ### Página 59 del PDF
 
-COLECCION DE LEYES, DECYtETOS &amp;.-1854.
-561
-mismas cualidades que se requieren
-para ser
-Repre~entante;
--durarim en sus funciones cuatro anos, y pueden ser ree1ectos.
-Art. 107.
-La ley senalara la indemnizacion anual que pOl'
-sus servicios recibinin todos los funcionarios publicos.
-CAPITULO SEGUNDO.-De las Diputaciones Provinciales.
-Art. 108.
-En cada capital de Provincia habra una Diputa-
-cion Provincial, para promover su fomento y prosperidad,com-
-puesta de siete Diputados, elegidospor los
-Colegios Electoral~s,
-alsiguiente dia d nombrados los miembros del Guerpo Legisla-
-tivo, y porel mismo orden con que estos se nombran.
-Art. 109.
-Para ser Diputado de Provincia se requiere, ade-
-mas de estar en e1 goce de los derechOis civiles y politicos, tener
-veinte y cinco anos cumplidos, ser propietario de bienes raices en
-]a Provincia que II{) elige, 6 gefe de un establecimiento de den-
-cias, arte 6 industria, y tener su domicilio en ella, con residencia
-de tres anos a 10 menos.
-Art 110.
-La Diputacion Provincial se renueva cada tres
-ailos integra1mente; perc sus miembros pueden ser reel1edos in-
-definidamente.
-Art. 111.
-Las Diputaciones Provinciales se reuniran el 19 •
-de Octubre de cada ano en la capital de la Provincia, y duraran
-sus sesiones treinta dias, prorrogab1es, diez mas en caso necesa-
-rio; nombraran un Secretario y demas emplelfdos indispensables,
-los que senin dotadosi de los fondos pubEcos de la Provincia.
-Art. 112.
-Son atribuciones de las Diputaciones Provincia:les:
-1a.
-Poner en conociiniento del Poder Ejecutivo 6 de la Ca-
-mara de Representant'erS, con los datos necesarios, los abusos y
-mala conducta del Gobernador Politico y demas empleados de 13
-Provincia, las infracciones que se hayan cometido contra la Cons-
-titucion 6 ilas leyes, y velar la recaudacion, manejo einversion de
-los fondos publicos, senalando los abusos 6 ma1versacion, aquien
-sea de derecho.
-2a.
-Presentar anualmente a la Camara de Representantes
-yal Poder Ejecutivo, una lista general de los individuos aptos en
-sus Provincias respectivas, para los cargos de judicatura, y re-
-mitir las que hayan recibido de los Co1egios Eleetorales.
-3a.
-Presentar al Poder Ejecutivo listas para el nombramien-
-to de Gobernadores Politicos, y denunciarlos cuando delincan
-6
-falten a sus deberes.
-4a.
-Pedir al Prelado Eclesiastico, con los datos necesarios,
+COLECCION DE LEYES, DECYtETOS &.-1854. mismas cualidades que se requieren para ser Repre~entante; -durarim en sus funciones cuatro anos, y pueden ser ree1ectos. Art. 107. La ley senalara la indemnizacion anual que pOl' sus servicios recibinin todos los funcionarios publicos.
+
+**CAPITULO SEGUNDO.-De las Diputaciones Provinciales.** Art. 108. En cada capital de Provincia habra una Diputacion Provincial, para promover su fomento y prosperidad,compuesta de siete Diputados, elegidospor los Colegios Electoral~s, alsiguiente dia d nombrados los miembros del Guerpo Legislativo, y porel mismo orden con que estos se nombran. Art. 109. Para ser Diputado de Provincia se requiere, ademas de estar en e1 goce de los derechOis civiles y politicos, tener veinte y cinco anos cumplidos, ser propietario de bienes raices en ]a Provincia que II{) elige, 6 gefe de un establecimiento de dencias, arte 6 industria, y tener su domicilio en ella, con residencia de tres anos a 10 menos. Art 110. La Diputacion Provincial se renueva cada tres ailos integra1mente; perc sus miembros pueden ser reel1edos indefinidamente. Art. 111. Las Diputaciones Provinciales se reuniran el 19 • de Octubre de cada ano en la capital de la Provincia, y duraran sus sesiones treinta dias, prorrogab1es, diez mas en caso necesario; nombraran un Secretario y demas emplelfdos indispensables, los que senin dotadosi de los fondos pubEcos de la Provincia. Art. 112. Son atribuciones de las Diputaciones Provincia:les: 1a. Poner en conociiniento del Poder Ejecutivo 6 de la Camara de Representant'erS, con los datos necesarios, los abusos y mala conducta del Gobernador Politico y demas empleados de 13 Provincia, las infracciones que se hayan cometido contra la Constitucion 6 ilas leyes, y velar la recaudacion, manejo einversion de los fondos publicos, senalando los abusos 6 ma1versacion, aquien sea de derecho. 2a. Presentar anualmente a la Camara de Representantes yal Poder Ejecutivo, una lista general de los individuos aptos en sus Provincias respectivas, para los cargos de judicatura, y remitir las que hayan recibido de los Co1egios Eleetorales. 3a. Presentar al Poder Ejecutivo listas para el nombramiento de Gobernadores Politicos, y denunciarlos cuando delincan falten a sus deberes. 4a. Pedir al Prelado Eclesiastico, con los datos necesarios,
 
 ### Página 60 del PDF
 
-562
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-la re)JlOcion de los parrocos que tengan una conducta reprensible
-yperjudicial a la moral de sus feligreses.
-5a.
-Recibir de las corporaciones y ciudadanos las peticion€J8',
-representaciones e informes que se les dirijan, para hacer uso de
-ellas, si son de su competencia, 6 elevarlas a quien corresponda.
-6a.
-Racer porsi y pOl' medio de los Ayuntamientos, el re-
-parto de las contribuciones decretadaspor la Camara de Repre-
-sentantes.
-7a.
-Formal' los reglamentos que sean necesarios para arre-
-glo y mejora de la policia urbana y rural, y velar sobre su ejecu-
-cion conformandose a la ley.
-8a.
-Promovel' y decretal' la apertura y limpieza de caminos.
-9a.
-Promover pOl' cuantos medios es,ten a su akance el fo-
-mento de la agricultura, de Ja instruccion primaria y demas cono-
-cimientos.
-lOa.
-Formal' POl' si, y pOl' medio dB los Ayuntamientos, €I!
-censo de la poblacion y la €'stadistica general de la Provincia.
-11a.
-Favorecer pOl' todos 1'os medios posibles los proyectos
-de inmigracion de extranjeros industriosos.
-12a.
-Repartir entre los Ayuntamientos las
-contribucione~
-impuestas porIa Camara de Repl'esentantes, y las derramas pa-
-ra gastos provinciales de cualqlliera cIase.
-13a.
-Aprobar los impnestos de propios y arbitrios que los
-Ayuntamientos, en uso de las atribucion~sque 1e confiera la ley,
-impongan en 'lOI radio de la Provincia.
-14a.
-Acordar todo 10 que juzglle conveniente y necesario al
-bienestar de la Provincia, sin invadir las
-atribuciones de
-los
-Cuerpos Colegis.1adores, del Congreso 6 del
-Poder Ejecutivo, y
-que no sean contrarios a la Constituclon 6 a las leyes.
-15a.
-Pedir al Gongreso 6 al Poder Ejecutivo, segun la na-
-tural,eza de las materias, cuanto juzgue conveniente para la pros-
-peridad, mejora y fomenta de la Provincia, y que no este en las
-facultades de las Diputaciones, y ejercer ademas, todas aquellas
-que Ie confiera la ley.
-Art. 113.
-Las ordenanzas 6 resoluciones de las Diputacio-
-nes Provinciales se pasanin para su ejecucion al Gobernador Po-
-litico de la Provincia, que tendra el derecho de objetarlas dentro
-del termino de tres dias.
-Las objeciones seran consideradas pOl'
-la Diputacion, y si esta insistiere en su acuerdo, tendra su efedo
-y debido cllmplimiento.
-Art. 114.
-Concluidas las sesiones pasaran las Diputaciones
-Provinciales capias de sus resoluciones a la
-Camara de Repre-
+COLECCION DE LEYES, DECRETOS &.-1854. la re)JlOcion de los parrocos que tengan una conducta reprensible yperjudicial a la moral de sus feligreses. 5a. Recibir de las corporaciones y ciudadanos las peticion€J8', representaciones e informes que se les dirijan, para hacer uso de ellas, si son de su competencia, 6 elevarlas a quien corresponda. 6a. Racer porsi y pOl' medio de los Ayuntamientos, el reparto de las contribuciones decretadaspor la Camara de Representantes. 7a. Formal' los reglamentos que sean necesarios para arreglo y mejora de la policia urbana y rural, y velar sobre su ejecucion conformandose a la ley. 8a. Promovel' y decretal' la apertura y limpieza de caminos. 9a. Promover pOl' cuantos medios es,ten a su akance el fomento de la agricultura, de Ja instruccion primaria y demas conocimientos. lOa. Formal' POl' si, y pOl' medio dB los Ayuntamientos, €I! censo de la poblacion y la €'stadistica general de la Provincia. 11a. Favorecer pOl' todos 1'os medios posibles los proyectos de inmigracion de extranjeros industriosos. 12a. Repartir entre los Ayuntamientos las contribucione~ impuestas porIa Camara de Repl'esentantes, y las derramas para gastos provinciales de cualqlliera cIase. 13a. Aprobar los impnestos de propios y arbitrios que los Ayuntamientos, en uso de las atribucion~sque 1e confiera la ley, impongan en 'lOI radio de la Provincia. 14a. Acordar todo 10 que juzglle conveniente y necesario al bienestar de la Provincia, sin invadir las atribuciones de los Cuerpos Colegis.1adores, del Congreso 6 del Poder Ejecutivo, y que no sean contrarios a la Constituclon 6 a las leyes. 15a. Pedir al Gongreso 6 al Poder Ejecutivo, segun la natural,eza de las materias, cuanto juzgue conveniente para la prosperidad, mejora y fomenta de la Provincia, y que no este en las facultades de las Diputaciones, y ejercer ademas, todas aquellas que Ie confiera la ley. Art. 113. Las ordenanzas 6 resoluciones de las Diputaciones Provinciales se pasanin para su ejecucion al Gobernador Politico de la Provincia, que tendra el derecho de objetarlas dentro del termino de tres dias. Las objeciones seran consideradas pOl' la Diputacion, y si esta insistiere en su acuerdo, tendra su efedo y debido cllmplimiento. Art. 114. Concluidas las sesiones pasaran las Diputaciones Provinciales capias de sus resoluciones a la Camara de Repre-
 
 ### Página 61 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-563
-sentantes, que desaprobara aquellas que sean contrarias a
-la
-Constitucion 0 a las leyes.
-Art. 115.
-Las Diputaciones Provinciales nunca podran apro-
-piarse la voz del pueblo, para ejercer otras atribuciones que [as
-fijadas porIa Constitucion 6 las leyes.
-Todo procedimiento con-
-trario es atentario al orden y sieguridad publica.
-Art. 116.
-EI empleo de Diputado d~.Provincia es un cargo
-honorifico, gratuito y obligatorio, de que ningun ciudadano po-
-dra excusarse.
-Es compatible con todos los cargos publicos, ci-
-viles 6 administrativos; gozan de la misma inmunidad, duran-
-te las sesiones, que los Rrepresentantes del pueblo, par las opinio-
-nes emitidas en el local de ellas; pero senln responsab'les de los
-excesos que ccmetan en e1 ejercicio de sus atribuciones.
-CAPITULO TERCERO.-De los Ayuntamientos.
-Art. 117.
-Para el gobierno econ6mico politico de los pue-
-blos, habra un Ayuntamiento en todas las comunes en que se sub-
-divide el t21'1'itorio y en las que de nuevose ~rearen; sus vocales
-seran electos pOl' 'las respectivas Asramhleas primarias.
-Sus se-
-siones seran presididas POl' el vocal que ellio'Si mismoselijan de
-entre sus miembro:s, que se titulara Correjidor. Duraran en sus
-funciones tres anos, y su organizacion y atribuciones seran de-
-terminadas porIa ley.
-TITULO X.
-DE LA HACIENDA PUBLICA.
-Art. 118.
-Ningun impuesto se establ-ecera sino en virtud de
-una ley.
-Art. 119. Ninguna contribucion provinvial 6 comunal se
-impondra, sin e1 expreso consentimiento de las respectivas Dipu-
-tadones Provinciales 6 Ayuntamientos.
-Art. 120.
-Las contribuCiones directas en favor
-del erario
-publico Be estableceran anualmente.
-Las ley,es qua las impongan
-no tendran fuerza sino POl' un anD, a menos que se renueven,)
-prorrogHen.
-Art. 121.
-No podra establecerse priviIegio alguno en ma-
-teria -Be impuestos, y las excepciones 6 disminucion de estos se-
-rim hechos par hi ley.
+COLECCION DE LEYES, DECRETOS &.-1854. sentantes, que desaprobara aquellas que sean contrarias a la
+
+Constitucion 0 a las leyes. Art. 115. Las Diputaciones Provinciales nunca podran apropiarse la voz del pueblo, para ejercer otras atribuciones que [as fijadas porIa Constitucion 6 las leyes. Todo procedimiento contrario es atentario al orden y sieguridad publica. Art. 116. EI empleo de Diputado d~.Provincia es un cargo honorifico, gratuito y obligatorio, de que ningun ciudadano podra excusarse. Es compatible con todos los cargos publicos, civiles 6 administrativos; gozan de la misma inmunidad, durante las sesiones, que los Rrepresentantes del pueblo, par las opiniones emitidas en el local de ellas; pero senln responsab'les de los excesos que ccmetan en e1 ejercicio de sus atribuciones.
+
+**CAPITULO TERCERO.-De los Ayuntamientos.** Art. 117. Para el gobierno econ6mico politico de los pueblos, habra un Ayuntamiento en todas las comunes en que se subdivide el t21'1'itorio y en las que de nuevose ~rearen; sus vocales seran electos pOl' 'las respectivas Asramhleas primarias. Sus sesiones seran presididas POl' el vocal que ellio'Si mismoselijan de entre sus miembro:s, que se titulara Correjidor. Duraran en sus funciones tres anos, y su organizacion y atribuciones seran determinadas porIa ley.
+
+**TITULO X.**
+
+DE LA HACIENDA PUBLICA. Art. 118. Ningun impuesto se establ-ecera sino en virtud de una ley. Art. 119. Ninguna contribucion provinvial 6 comunal se impondra, sin e1 expreso consentimiento de las respectivas Diputadones Provinciales 6 Ayuntamientos. Art. 120. Las contribuCiones directas en favor del erario publico Be estableceran anualmente. Las ley,es qua las impongan no tendran fuerza sino POl' un anD, a menos que se renueven,) prorrogHen. Art. 121. No podra establecerse priviIegio alguno en materia -Be impuestos, y las excepciones 6 disminucion de estos serim hechos par hi ley.
 
 ### Página 62 del PDF
 
 :::64
-COLECCION DE LEYES, DECRETOS &amp;.-1854.
-Art. 122.
-SoIo la ley puede conceder pensiones 6 gratifica-
-dones del erario publico.
-Art. 123.
-El presupuesto de cada Secretaria de Estado se
-dividira en capitu1os, y no podrim hacerse emprestitos de un ca-
-pitulo a otro, ni distraer los fondos de su objeto especial sino en
-virtud de una ley.
-Art. 124.
-Todos los alios el Congreso Nacional verificara
-las cuentas del alio 6 de lotS alios anteriores, cada Despacho Mi-
-nisterial por separado.
-Decretara el presupuesto general del Es·
-tado, con indicacion de las entradas, y las adjudicacion a
-cada
-Secretaria de los fondos asignados para los gastos de.I ano.
-Art. 125.
-Fuera de los fondos decretados por la ley de pre-
-supuestos, no podra
-e~traerse surna alguna del erario publico
-sin el previa consentimiento del Congreso, excepto en los casas
-extraordinarios previstos por ,el inciso 18 del articulo 77.
-Art. 126.
-Todos' los anos, en e1; mes de
-Febrero,
-d,eberim
-centralizarse, imprirnirse y pub'lkarse las cuentas generales de
-la Republica del alio anterior, hajo 1a responsabi'lidad de'! Secre-
-tario de Estado del Despacho de Hacienda.
-Art. 127.
-Habra una Camara de Cuentas perrnanente, com-
-puesta de individuos nombrados POl" el Pader Ejecutivo,
-para
-contro1ar, examinar, aprobar 6 reprobar anua1mente todas las
-cuenta's generales y paiticu,lares de 1a
-Repub'lica, haciendo de
-ellas una relacion aJ Congreso, presentando1e el resuItado de BU
-examen, acompaliado de lasobservaciones que juzgue oportunas
-y fundadas. La ley determinara e1 numero del personal, atribucio-
-nes e indemnizacion, y designara los casas en que pueda 11amar
-comisiones auxiliares a su seno para su mayor ilustracion.
+
+COLECCION DE LEYES, DECRETOS &.-1854. Art. 122. SoIo la ley puede conceder pensiones 6 gratificadones del erario publico. Art. 123. El presupuesto de cada Secretaria de Estado se dividira en capitu1os, y no podrim hacerse emprestitos de un capitulo a otro, ni distraer los fondos de su objeto especial sino en virtud de una ley. Art. 124. Todos los alios el Congreso Nacional verificara las cuentas del alio 6 de lotS alios anteriores, cada Despacho Ministerial por separado. Decretara el presupuesto general del Es· tado, con indicacion de las entradas, y las adjudicacion a cada Secretaria de los fondos asignados para los gastos de.I ano. Art. 125. Fuera de los fondos decretados por la ley de presupuestos, no podra e~traerse surna alguna del erario publico sin el previa consentimiento del Congreso, excepto en los casas extraordinarios previstos por,el inciso 18 del articulo 77. Art. 126. Todos' los anos, en e1; mes de Febrero, d,eberim centralizarse, imprirnirse y pub'lkarse las cuentas generales de la Republica del alio anterior, hajo 1a responsabi'lidad de'! Secretario de Estado del Despacho de Hacienda. Art. 127. Habra una Camara de Cuentas perrnanente, compuesta de individuos nombrados POl" el Pader Ejecutivo, para contro1ar, examinar, aprobar 6 reprobar anua1mente todas las cuenta's generales y paiticu,lares de 1a Repub'lica, haciendo de ellas una relacion aJ Congreso, presentando1e el resuItado de BU examen, acompaliado de lasobservaciones que juzgue oportunas y fundadas. La ley determinara e1 numero del personal, atribuciones e indemnizacion, y designara los casas en que pueda 11amar comisiones auxiliares a su seno para su mayor ilustracion.
+
 ,TITULO XI.
-DE LA FUERZA ARMADA.
-Art.
-128. La fuerza armada es 1a defensora
-del Estado,
-tanto contra las agresiones externas, como contra las conmocio-
-nes internas ;.y la custodia de las libertades pubHcas.
-Art. 129.
-La fuerza armada es esencialmente
-obediente y
-pasiva: cua1quiera pordon de eUa que delibere sera calificado en
-el acto crimen de rebelion.
-I
-Art. 130.
-La fuerza armada se divide en ejercito de tierra.
-armada naval y guardia naoiona1.
-En ella no
-podran cr~rse
+
+DE LA FUERZA ARMADA. Art. 128. La fuerza armada es 1a defensora del Estado, tanto contra las agresiones externas, como contra las conmociones internas;.y la custodia de las libertades pubHcas. Art. 129. La fuerza armada es esencialmente obediente y pasiva: cua1quiera pordon de eUa que delibere sera calificado en el acto crimen de rebelion. I Art. 130. La fuerza armada se divide en ejercito de tierra. armada naval y guardia naoiona1. En ella no podran cr~rse
 
 ### Página 63 del PDF
 
-------..,C!l!lO~L·E!!l!C"'C!,!!!ll!lIC;~NfIIIlftr tEYES, bEbftEfo§ &amp;.~1854.
-565
-cuerpos privilegiados: la ley fijanl y establecera las regl'as de
-recIutamiento, del ascenso, y sus dE&gt;\"€chos y obligaciones.
-Art. 131.
-El Pader Ejecutivo .t1ombrara Comadantei3 de ar-
-mas en aquellos lugares que 10 juzgue conveniente.
-Art. 132.
-La creacion de grandes inspectores de agricultu-
-ra y polica, y de cuerpos de policia urbana y rura:l seran objetc
-de una ley, en que se especificaran todos sus deberes.
-Art. 133.
-La guardia nacional de cada Provinda esta bajo
-las 6rdenes inmediatas' del Gobernador Politico, cuyas veces ha
-ran los Corregidores de los Ayuntamientos en. las comunes
-eE
-que aquel no resida.
-La ley arreglara su organizacion.
-Art. 134.
-La guardia nacional no padra movilizarse sinoer:
-los casos previstos por la ley, y todos los grados seran en ella elec-
-tivos y temporales.
-Art. 135.
-Los militares seran juzgados, por los demos que
-cometan en los casos previstos por el C6digo penal militar, y se-
-gun las reglas que en el se establezcan, por Consejos de guerra
-En todos los demas casos, 6 cuando tengan por coacusados' a uno (
-muchos individuos de la c1ase civil, stmln juzgados por los tri-
-bunwles ordinarios.
-TITULO XII.
-DISPOSICIONES GENERALES.
-Art. 136.
-El pabeHon nacional mercante se compone de Ie.'
-colores azul y rojo, colocados encuarteles esquinados y dividid{)~~
-en elcentro par una cruz blanca, de la mitad del ancho de Ull(
-de los otros colores, que toque en los cuatro extremos.
-El pabe-
-Hon de guerra llevara ademas las armas de la Republica en
-e
-centro.
-Art.
-137.
-EI escudo de armas de la Republica es: una cruz.
-a cuyo pie esta abiertoel libro {1e los Evangelios, y ambos sobre
-salen de entre un trofeo de armas, en que se ve el simbolo de 1:1
-libertad, enlazado cOn una cinta en que va e1
-siguiente
-lema.
-Dios, Patria y Libertad.
-Art. 138.
-Se celebrara anualmente, con la mayor solemni·
-dad en toda la Republica, el dia 27 de Febrero, aniversario de I
-independencia y unica fiesta nacional.
-Art. 139.
-Ninguna ley puede tener eieeto retroactivo, y n ~.
-podra imponerse jamas pena alguna que no este prevista y sar.·
-cionada por la ley.
+------..,C!l!lO~L·E!!l!C"'C!,!!!ll!lIC;~NfIIIlftr tEYES, bEbftEfo§ &.~1854. cuerpos privilegiados: la ley fijanl y establecera las regl'as de recIutamiento, del ascenso, y sus dE>\"€chos y obligaciones. Art. 131. El Pader Ejecutivo.t1ombrara Comadantei3 de armas en aquellos lugares que 10 juzgue conveniente. Art. 132. La creacion de grandes inspectores de agricultura y polica, y de cuerpos de policia urbana y rura:l seran objetc de una ley, en que se especificaran todos sus deberes. Art. 133. La guardia nacional de cada Provinda esta bajo las 6rdenes inmediatas' del Gobernador Politico, cuyas veces ha ran los Corregidores de los Ayuntamientos en. las comunes eE que aquel no resida. La ley arreglara su organizacion. Art. 134. La guardia nacional no padra movilizarse sinoer: los casos previstos por la ley, y todos los grados seran en ella electivos y temporales. Art. 135. Los militares seran juzgados, por los demos que cometan en los casos previstos por el C6digo penal militar, y segun las reglas que en el se establezcan, por Consejos de guerra En todos los demas casos, 6 cuando tengan por coacusados' a uno ( muchos individuos de la c1ase civil, stmln juzgados por los tribunwles ordinarios.
+
+**TITULO XII.**
+
+DISPOSICIONES GENERALES. Art. 136. El pabeHon nacional mercante se compone de Ie.' colores azul y rojo, colocados encuarteles esquinados y dividid{)~~ en elcentro par una cruz blanca, de la mitad del ancho de Ull( de los otros colores, que toque en los cuatro extremos. El pabe- Hon de guerra llevara ademas las armas de la Republica en e centro. Art. 137. EI escudo de armas de la Republica es: una cruz. a cuyo pie esta abiertoel libro {1e los Evangelios, y ambos sobre salen de entre un trofeo de armas, en que se ve el simbolo de 1:1 libertad, enlazado cOn una cinta en que va e1 siguiente lema. Dios, Patria y Libertad. Art. 138. Se celebrara anualmente, con la mayor solemni· dad en toda la Republica, el dia 27 de Febrero, aniversario de I independencia y unica fiesta nacional. Art. 139. Ninguna ley puede tener eieeto retroactivo, y n ~. podra imponerse jamas pena alguna que no este prevista y sar.· cionada por la ley.
 
 ### Página 64 del PDF
 
-b6ti
-COLECCION DE tEfE8~ DECREI()S &amp;.
-18;)Ll.
-Art. 140.
-No podra hacerse ninguna ley contraria ni a la
-letra ni al espiritu de la Constitucion: en caso de duda, el texto
-de la Constitucion debe siempre prevalecer.
-Art. 141.
-Ningun poder, corporacion ni autoridad podra
-jamas conceder indulto general; perc el Poder Legislativo y el
-Ejecutivo podran, en casos particulares de conmocion U
-otros,
-conceder amnistias 0 indultos particulares.
-Art. 142.
-Sera creada Ia instruccion l'ubIica, comun a todos
-los dudadanos, gratuita, en todos los ramos de enseiianza prima-
-ria, cuyos, establecimientos seran
-distribuidos
-gradualmente y
-combinados enproporcion de la division del territorio.
-La ley
-arreglara 10s pormenores tanto de estos ramos, como de la e11se-
-nanza de artes y cie11cias.
-Art. 143.
-Todo juramenta sera exijido en virtud de la Cons-
-titucion 0 la ley, en los casos y forma que elilas determinen; y to-
-do empleado debe pres,tarle antes de entrar a ejercer sus fun-
-ciones.
-Art. 144.
-Los empleos publicos no pueden ser jamas pro-
-piedad d-e los que los ejerzan, ni patrimonio de familia alguna.
-Art. 145.
-Ninguna 1ey, decreta ni regbm3nto de adminis-
-tracion 0 polida seran obligatorios, sino despues de publicados
-en la forma que Ia leyestablece.
-Art. 146.
-Se prohibe la fundacion de toda clase de c·ensos a
-perpetuidad, tributos, capeltlan1as, mayorazgos y toda clase
-de
-vinculaciones.
-Art. 147
-Ninguna plaza ni parte del territorio podran ser
-declarados en estado de sitio, sino en liaS casas primero, de inva-
-sion extrangera efectuada 0 i11minente; segundo, de conmocion
-interior.
-En el primer caso, la declaratoria toea ai Poder Ejecu-
-tivo, y en elsegundo, al Congreso; perc S1 este no esta reunido, el
-Poder Ejecutiv'o hace la declaratoria, y convoca inmediatamente
-ail Congreso para que pronuncie sabre ella.
-La Capita.} nunca se-
-ra declaradaen estado de sitio, sino por una ley.
-Art. 148.
-En ningun caso podra suspenderse laejecucion, ni
-de una parte ni del todo de la Gonstitucion.
-Su observancia
-y
-exacto cumplimiento, quedan confiados al celo de los poderes que
-ella establece, y al valor y patriotismo de todos los dominicanos.
-Art. 149.
-Desde ell. mismo dia en que se puhlicare de nuevo
-esta Constitucion, sus articulos revi.sados y los concordados con
-ellos haran parte constituyente e integrante del Codigo Politico
-fundamental, decretado por el Soberano Congreso Constituyente
-en San Cristobal e1 6 de Noviembre 1844.
+b6ti COLECCION DE tEfE8~ DECREI()S &. 18;)Ll. Art. 140. No podra hacerse ninguna ley contraria ni a la letra ni al espiritu de la Constitucion: en caso de duda, el texto de la Constitucion debe siempre prevalecer. Art. 141. Ningun poder, corporacion ni autoridad podra jamas conceder indulto general; perc el Poder Legislativo y el Ejecutivo podran, en casos particulares de conmocion U otros, conceder amnistias 0 indultos particulares. Art. 142. Sera creada Ia instruccion l'ubIica, comun a todos los dudadanos, gratuita, en todos los ramos de enseiianza primaria, cuyos, establecimientos seran distribuidos gradualmente y combinados enproporcion de la division del territorio. La ley arreglara 10s pormenores tanto de estos ramos, como de la e11senanza de artes y cie11cias. Art. 143. Todo juramenta sera exijido en virtud de la Constitucion 0 la ley, en los casos y forma que elilas determinen; y todo empleado debe pres,tarle antes de entrar a ejercer sus funciones. Art. 144. Los empleos publicos no pueden ser jamas propiedad d-e los que los ejerzan, ni patrimonio de familia alguna. Art. 145. Ninguna 1ey, decreta ni regbm3nto de administracion 0 polida seran obligatorios, sino despues de publicados en la forma que Ia leyestablece. Art. 146. Se prohibe la fundacion de toda clase de c·ensos a perpetuidad, tributos, capeltlan1as, mayorazgos y toda clase de vinculaciones. Art. 147 Ninguna plaza ni parte del territorio podran ser declarados en estado de sitio, sino en liaS casas primero, de invasion extrangera efectuada 0 i11minente; segundo, de conmocion interior. En el primer caso, la declaratoria toea ai Poder Ejecutivo, y en elsegundo, al Congreso; perc S1 este no esta reunido, el Poder Ejecutiv'o hace la declaratoria, y convoca inmediatamente ail Congreso para que pronuncie sabre ella. La Capita.} nunca sera declaradaen estado de sitio, sino por una ley. Art. 148. En ningun caso podra suspenderse laejecucion, ni de una parte ni del todo de la Gonstitucion. Su observancia y exacto cumplimiento, quedan confiados al celo de los poderes que ella establece, y al valor y patriotismo de todos los dominicanos. Art. 149. Desde ell. mismo dia en que se puhlicare de nuevo esta Constitucion, sus articulos revi.sados y los concordados con ellos haran parte constituyente e integrante del Codigo Politico fundamental, decretado por el Soberano Congreso Constituyente en San Cristobal e1 6 de Noviembre 1844.
 
 ### Página 65 del PDF
 
-COLECCION DE LEYES, DECRETOS &amp;.-1 P,54.
-567
-TITULO XIII.
-DE LA REVISION DE LA CONSTITUCION.
-Art. 150.
-El Congreso puede, en virtud de la proposicion
-hecha porIa Camara de Representantes, y admitida pOl' los dos
-tercios de aquel, decretal' ila revision de la Constitucion, d'esig-
-nando y publicando los articulos y disposiciones que deban revi-
-sarse y las razones de utilidad, necesidad &lt;5 publica conveniencia.
-Art. 151.
-En la sesion ordinaria
-&lt;5
-'extraordinaria subse-
-cuente a aquella que se haya dado el decreto de revision, procede
-el Congreso a ella, debiendo estar presente los dos tercios de sus
-miembrc&gt;s, pOl' 10 menos.
-Art. 152.
-El Congl'eso designara, en el decreto de revision,
-el lugar y la epoca que juzgue conveniente para su reunion.
-TITULO XIV.
-DISPOSICIONES TRANSITORIAS.
-Art. 153.
-El actual Presidente de la Republica permanecera
-en el ejercicio del su encargo dos periodos Constitucionales, y ter-
-minarael ultimo dia de Febrero delano 186l.
-Art. 154.
-El Vice-Presidente sera elegida en las primeras
-reuniones El'ectorales, y ejercera sus fundones hasta el ultimo
-dia de Febrero del ano de 1859.
-Art. 155.
-Los miembros aduales del Cuerpo
-Legislativo
-conservaran sus destinos hasta su reemplazo, que se hara. en las
-primeras elecciones conforme a esta Constitucion; y la sesion or-
-dinaria, que debia tener lugar el 10. de Febrero, queda trasferida
-hasta €II 1Q. de Mayo proximo.
-Art. 156.
-El Poder Ejecutivo expedira inmediatamente un
-decreto de convocatoria para la reunion de las Asambileas prima-
-rias y CoLegios Electorales, fijando el mas corto plazo para que
-la eleccion del Vice-Presidente de la Republica, miembros del
-Senado y de lla Camara de Representantes, como de los demas
-funcionarios pubIicos que lesesta atribuido elegir &lt;5 indicar, se-
-gun 10 establece esta Constitucion, queden terminadas a mas tar-
-dar defintivamente el 15 de Abril proximo.
-Art. 157.
-Todas las Ieyes 8ictualmente vigentes, reglamen-
-tos y disposiciones, en cuanto no sean contrarias a la
-presente
-Constitucion, continuaran en toda su fuerza y vigor.
-Los aetua-
+COLECCION DE LEYES, DECRETOS &.-1 P,54.
+
+**TITULO XIII.**
+
+DE LA REVISION DE LA CONSTITUCION. Art. 150.
+
+El Congreso puede, en virtud de la proposicion hecha porIa Camara de Representantes, y admitida pOl' los dos tercios de aquel, decretal' ila revision de la Constitucion, d'esignando y publicando los articulos y disposiciones que deban revisarse y las razones de utilidad, necesidad <5 publica conveniencia. Art. 151. En la sesion ordinaria <5 'extraordinaria subsecuente a aquella que se haya dado el decreto de revision, procede
+
+el Congreso a ella, debiendo estar presente los dos tercios de sus miembrc>s, pOl' 10 menos. Art. 152. El Congl'eso designara, en el decreto de revision, el lugar y la epoca que juzgue conveniente para su reunion.
+
+**TITULO XIV.**
+
+DISPOSICIONES TRANSITORIAS. Art. 153. El actual Presidente de la Republica permanecera en el ejercicio del su encargo dos periodos Constitucionales, y terminarael ultimo dia de Febrero delano 186l. Art. 154. El Vice-Presidente sera elegida en las primeras reuniones El'ectorales, y ejercera sus fundones hasta el ultimo dia de Febrero del ano de 1859. Art. 155. Los miembros aduales del Cuerpo Legislativo conservaran sus destinos hasta su reemplazo, que se hara. en las primeras elecciones conforme a esta Constitucion; y la sesion ordinaria, que debia tener lugar el 10. de Febrero, queda trasferida hasta €II 1Q. de Mayo proximo. Art. 156. El Poder Ejecutivo expedira inmediatamente un decreto de convocatoria para la reunion de las Asambileas primarias y CoLegios Electorales, fijando el mas corto plazo para que la eleccion del Vice-Presidente de la Republica, miembros del Senado y de lla Camara de Representantes, como de los demas funcionarios pubIicos que lesesta atribuido elegir <5 indicar, segun 10 establece esta Constitucion, queden terminadas a mas tardar defintivamente el 15 de Abril proximo. Art. 157. Todas las Ieyes 8ictualmente vigentes, reglamentos y disposiciones, en cuanto no sean contrarias a la presente
+
+Constitucion, continuaran en toda su fuerza y vigor. Los aetua-
 
 ### Página 66 del PDF
 
 56~
-COLECCION DE LEYES, DECRETOS &amp;.-1 R54.
-les miembros de la Suprema Corte de Justicia, de los tribuna'les
-Justicia Mayores y los Alcaldes Constitucionales, continuaran en
-sus de3tinos ejerciendo sus funciones hasta su reemplazo.
-Los
-oficios publicos y demas oficinas, siempre que no sean contrarias,
-seguiran funcionando hasta nueva organizacion.
-Art. 158.
-Las causas que se encuentren instauradas en los
-tribunales de apelacion, ali acto de publicarse esta Constitucion,
-pasaran a la Suprema Corte de Justicia sin nuevo requisito, y
-sin que pueda aJlegarse la perencion de los terminos.
-Art. 159.
-Queda el territorio dividido pOl' ahora en dos dis-
-tritos judiciales.
-El de Santo Domingo, que comprendera en su
-jurisdiccion a las Provincias de Azua, Seybo y Santo Domingo; y
-el de Santiago, que comprendera la Provincia de este nombre y
-la Vega Real.-El Congreso podra subdividirlos en otros cuando
-fuere necesario; pero no podra disminuirlos.
-Art. 160.
-El Poder Ejecutivo queda autorizado para entrar
-en convenciones con 1a Sede Apost6lica, yefectuar un Concorda-
-to entre el Santo Padre y la Republica, impetrando a la vez Ia
-gracia del Patronato.
-Art. 161.
-Hasta que no se firme la paz, quedael Poder Eje-
-cutivo autorizado para ,conferir todos los grados en e1 ejercito de
-tierra y mar; para movilizar las guardias nacionales, y conferir
-todos los grados en ella; para nombrar y revocar libremente los
-Gobernadores Politkos, pudiendo estos, ademas de las funciones
-civiles, y que en su ausencia, e1 que ejerza interinamente la Go-
-bernacion de la Provincia, presida la Diputacion ProvinciaL
-Firmas de los miembros del Congreso Constituyente de San
-Cristobal de 6 de Noviembre de 1844-El Presidente,-M. M. Va-
-lencia, diputado por Santo
-Domingo,-El Vice-Presidtmte,-
-Antonio Gutierres, diputado par
-Samana.-A Ruiz, diputado
-por Hato Mayor.-Andres Rozon, diputado pOl' BanL-Antonio
-Jimenez, diputado par Banica.-Bernardo Aybar, diputado por
-Neyba.-Buenaventura Ba!ez, diputado pOl' Azua.-Casimiro Cor
-dero, diputado par la Vega.-Domingo A. Solano, diputado por
-Santiago.-Domingo de 1a Rocha, diputado pOl' Santo Domingo.
--Facundo Santana, diputado pOl' Los L1anos.-Fernando Salce-
-do, diputado pOl' Moca.-Jose Tejera, diputado por Puerto Pla-
-ta.-Jose Mateo Perdomo, diputado pOl' Hincha.-Jose M. Mf-
-drano, diputado pOl' Macoris.-Jose Valverde, diputado por Co-
-tuy.-J. P. Andujar, diputado pOl' Cahobas.-Juan Reynoso, di-
-putado porIa Vega.-Juan de Acosta, diputado por e:l Seybo.-
-Juan Rijo, diputado por Higuey.-Juan Lopez, diputado por San
-•
+
+COLECCION DE LEYES, DECRETOS &.-1 R54. les miembros de la Suprema Corte de Justicia, de los tribuna'les Justicia Mayores y los Alcaldes Constitucionales, continuaran en sus de3tinos ejerciendo sus funciones hasta su reemplazo. Los oficios publicos y demas oficinas, siempre que no sean contrarias, seguiran funcionando hasta nueva organizacion. Art. 158. Las causas que se encuentren instauradas en los tribunales de apelacion, ali acto de publicarse esta Constitucion, pasaran a la Suprema Corte de Justicia sin nuevo requisito, y sin que pueda aJlegarse la perencion de los terminos. Art. 159. Queda el territorio dividido pOl' ahora en dos distritos judiciales. El de Santo Domingo, que comprendera en su jurisdiccion a las Provincias de Azua, Seybo y Santo Domingo; y el de Santiago, que comprendera la Provincia de este nombre y la Vega Real.-El Congreso podra subdividirlos en otros cuando fuere necesario; pero no podra disminuirlos. Art. 160. El Poder Ejecutivo queda autorizado para entrar en convenciones con 1a Sede Apost6lica, yefectuar un Concordato entre el Santo Padre y la Republica, impetrando a la vez Ia gracia del Patronato. Art. 161. Hasta que no se firme la paz, quedael Poder Ejecutivo autorizado para,conferir todos los grados en e1 ejercito de tierra y mar; para movilizar las guardias nacionales, y conferir todos los grados en ella; para nombrar y revocar libremente los Gobernadores Politkos, pudiendo estos, ademas de las funciones civiles, y que en su ausencia, e1 que ejerza interinamente la Gobernacion de la Provincia, presida la Diputacion ProvinciaL Firmas de los miembros del Congreso Constituyente de San Cristobal de 6 de Noviembre de 1844-El Presidente,-M. M. Valencia, diputado por Santo Domingo,-El Vice-Presidtmte,- Antonio Gutierres, diputado par Samana.-A Ruiz, diputado por Hato Mayor.-Andres Rozon, diputado pOl' BanL-Antonio Jimenez, diputado par Banica.-Bernardo Aybar, diputado por Neyba.-Buenaventura Ba!ez, diputado pOl' Azua.-Casimiro Cor dero, diputado par la Vega.-Domingo A. Solano, diputado por Santiago.-Domingo de 1a Rocha, diputado pOl' Santo Domingo. -Facundo Santana, diputado pOl' Los L1anos.-Fernando Salcedo, diputado pOl' Moca.-Jose Tejera, diputado por Puerto Plata.-Jose Mateo Perdomo, diputado pOl' Hincha.-Jose M. Mfdrano, diputado pOl' Macoris.-Jose Valverde, diputado por Cotuy.-J. P. Andujar, diputado pOl' Cahobas.-Juan Reynoso, diputado porIa Vega.-Juan de Acosta, diputado por e:l Seybo.- Juan Rijo, diputado por Higuey.-Juan Lopez, diputado por San •
 
 ### Página 67 del PDF
 
-COLECCION DE LEYES, DECRETOS
-&amp;.-U\~[L
-5S,?
-Jose de las Matas.-Jesus Ayala, diputado pOl" San Crist6ba1.-
-Juan A. de los Santos, diputado POl' San Juan.-Juan N. Tejera,
-diputado par San Rafael.-Julian de Aponte,
-diputado par el
-Seybo.--Manuel Gonzalez Bernal, diputado par Monte Plata
-y
-Boya.-Manuel Abreu,
-diputado
-POI' Monte
-Cristi.-Manuel
-Diaz, diputado pOl' Dajabon.-M. R. Castellanos, diputado
-POl'
-Santiago.-Santiago Suera, diputado
-pOl' las Matas.-Vicente
-Mancebo, diputadopor Azua.-Dr. Caminero, diputado POI' San-
-to Domingo, Seaetario.-Juan Luis Franco Bid6, diputado POI'
-Santiago, Secn,tario.
-Firmas de los miembros del Congreso de Revision, reunidos
-en la ciudad de Santo Domingo a los veinte y cinco dias del mes de
-Febrero de 1854, y 10(', de la Patria.-EI Presidente, Benigno F.
-de Rojas,-EI Vice-Presidente, Domingo D.
-Pi'chardo.-Miem-
-bros: D. Ortiz.-Antonio Ramirez.-Felix Mercenario.-T. Ob-
-jio.-Jacinto de Castro.-F. Perdomo.-Pedro Valverde.-J. B.
-Lovelace.-F. M. Delmonte.-Ulises F.
-E~aiHat.-J. N. Teje-
-ra.-Jose R. Bernal.-Los Secretarios: Felix
-Morilla.-Fran-
-eisco Sarda y Carbonel1.-Jose Mateo Perdomo.
-Cumplase, pubHquese y ejecutese en el territorio de la Re-
-publica Dominicana.-Palacio Nacional de Santo Domingo a los
-27 dias del mes de Febrero de 1854, y 119 • de la Patria.-EI Pre-
-sidente del Estado.-Pedro Santana.-El Secl"etario de Estado en
-los Dtspachos del InteriM y Policia, encargado de la Cartera de
-Justicia e Instruccion Publica.-Francisco Moreno.-EI Secre-
-tario de Estado en los Despachos de Hadenda y Comercio.-Mi-
-guel Lavastida.-EI Secretal'io de Estado en los Despachos de
-Guerra y Marina, encargado de la Cartera de Relaciones Exterio-
-res.-Abad Alfau.
-Num. 338.-DECRETO del P. E. convocando las Asambleas pri-
-ma1'ias y Colegios Electorales.
-Dios, Patria y Libertad.-Republica
-Dominicana.-Pedro
-Santana, General en gefe de los ejercitos, Libertador de la Pa-
-tria y Presidente de la Republica.
-Considerando: que publicada en esta Capital el 27 de
-Fe-
-bre1'o ultimo la Constitucion de 6 de Noviemb1'e de 1844, 1'evisada
-POI' el Congreso Nacional, y queesta en sus disposiciones t1'ansi-
-torias articulo 156 dice:
+COLECCION DE LEYES, DECRETOS &.-U\~[L 5S,? Jose de las Matas.-Jesus Ayala, diputado pOl" San Crist6ba1.- Juan A. de los Santos, diputado POl' San Juan.-Juan N. Tejera, diputado par San Rafael.-Julian de Aponte, diputado par el Seybo.--Manuel Gonzalez Bernal, diputado par Monte Plata y Boya.-Manuel Abreu, diputado POI' Monte Cristi.-Manuel Diaz, diputado pOl' Dajabon.-M. R. Castellanos, diputado POl' Santiago.-Santiago Suera, diputado pOl' las Matas.-Vicente Mancebo, diputadopor Azua.-Dr. Caminero, diputado POI' Santo Domingo, Seaetario.-Juan Luis Franco Bid6, diputado POI' Santiago, Secn,tario. Firmas de los miembros del Congreso de Revision, reunidos en la ciudad de Santo Domingo a los veinte y cinco dias del mes de Febrero de 1854, y 10(', de la Patria.-EI Presidente, Benigno F. de Rojas,-EI Vice-Presidente, Domingo D. Pi'chardo.-Miembros: D. Ortiz.-Antonio Ramirez.-Felix Mercenario.-T. Objio.-Jacinto de Castro.-F. Perdomo.-Pedro Valverde.-J. B. Lovelace.-F. M. Delmonte.-Ulises F. E~aiHat.-J. N. Tejera.-Jose R. Bernal.-Los Secretarios: Felix Morilla.-Franeisco Sarda y Carbonel1.-Jose Mateo Perdomo. Cumplase, pubHquese y ejecutese en el territorio de la Republica Dominicana.-Palacio Nacional de Santo Domingo a los 27 dias del mes de Febrero de 1854, y 119 • de la Patria.-EI Presidente del Estado.-Pedro Santana.-El Secl"etario de Estado en los Dtspachos del InteriM y Policia, encargado de la Cartera de Justicia e Instruccion Publica.-Francisco Moreno.-EI Secretario de Estado en los Despachos de Hadenda y Comercio.-Miguel Lavastida.-EI Secretal'io de Estado en los Despachos de Guerra y Marina, encargado de la Cartera de Relaciones Exteriores.-Abad Alfau. Num. 338.-DECRETO del P. E. convocando las Asambleas prima1'ias y Colegios Electorales. Dios, Patria y Libertad.-Republica Dominicana.-Pedro Santana, General en gefe de los ejercitos, Libertador de la Patria y Presidente de la Republica.
+
+Considerando: que publicada en esta Capital el 27 de Febre1'o ultimo la Constitucion de 6 de Noviemb1'e de 1844, 1'evisada POI' el Congreso Nacional, y queesta en sus disposiciones t1'ansitorias articulo 156 dice:
 
 ## Notas de revisión
 
 - Pendiente de revisión humana.
-- Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.
+- Texto preparado automáticamente para lectura; verificar siempre contra el PDF oficial.
 - Este paquete no interpreta vigencia, consolidación ni alcance de reformas.
+- Texto refluido desde la capa de texto del PDF oficial para mejorar legibilidad.
