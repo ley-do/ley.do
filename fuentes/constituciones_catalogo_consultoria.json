@@ -1,0 +1,652 @@
+{
+  "tipo_inventario": "constituciones_consultoria_services",
+  "fecha_consulta": "2026-07-31",
+  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+  "total": 32,
+  "documentos": [
+    {
+      "anio": "2024",
+      "fecha_texto": "27 de octubre de 2024",
+      "titulo": "Constitución 2024 27 de octubre de 2024 Constitución de la República Dominicana 2024",
+      "reference": "88cd6dd0-268b-4fda-a12a-0f3ae7fcfa7e",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=88cd6dd0-268b-4fda-a12a-0f3ae7fcfa7e",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "27/10/2024",
+      "titulo_norm": "Constitución de la República Dominicana 2024",
+      "stem": "constitucion-2024"
+    },
+    {
+      "anio": "2015",
+      "fecha_texto": "13 de junio de 2015",
+      "titulo": "Constitución 2015 13 de junio de 2015 Constitución de la República Dominicana 2015",
+      "reference": "3f3df819-9415-44db-a5fb-983016818f68",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=3f3df819-9415-44db-a5fb-983016818f68",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "13/06/2015",
+      "titulo_norm": "Constitución de la República Dominicana 2015",
+      "stem": "constitucion-2015"
+    },
+    {
+      "anio": "2010",
+      "fecha_texto": "26 de enero de 2010",
+      "titulo": "Constitución 2010 26 de enero de 2010 Constitución de la República Dominicana 2010",
+      "reference": "a8514323-0ac6-4c57-bcb9-f5c721e8bc3c",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=a8514323-0ac6-4c57-bcb9-f5c721e8bc3c",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "26/01/2010",
+      "titulo_norm": "Constitución de la República Dominicana 2010",
+      "stem": "constitucion-2010"
+    },
+    {
+      "anio": "2002",
+      "fecha_texto": "25 de julio de 2002",
+      "titulo": "Constitución 2002 25 de julio de 2002 Constitución de la República Dominicana 2002",
+      "reference": "529f0575-b936-4a51-b403-b9d8eb905288",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=529f0575-b936-4a51-b403-b9d8eb905288",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "25/07/2002",
+      "titulo_norm": "Constitución de la República Dominicana 2002",
+      "stem": "constitucion-2002"
+    },
+    {
+      "anio": "1994",
+      "fecha_texto": "14 de agosto de 1994",
+      "titulo": "Constitución 1994 14 de agosto de 1994 Constitución de la República Dominicana 1994",
+      "reference": "e7a0a320-3f85-46dd-9573-2d9590e6df19",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=e7a0a320-3f85-46dd-9573-2d9590e6df19",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "14/08/1994",
+      "titulo_norm": "Constitución de la República Dominicana 1994",
+      "stem": "constitucion-1994"
+    },
+    {
+      "anio": "1966",
+      "fecha_texto": "28 de noviembre de 1966",
+      "titulo": "Constitución 1966 28 de noviembre de 1966 Constitución de la República Dominicana 1966",
+      "reference": "58c65f00-01f9-40bf-a4d7-917fe3e5a9a7",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=58c65f00-01f9-40bf-a4d7-917fe3e5a9a7",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "28/11/1966",
+      "titulo_norm": "Constitución de la República Dominicana 1966",
+      "stem": "constitucion-1966"
+    },
+    {
+      "anio": "1963",
+      "fecha_texto": "29 de abril de 1963",
+      "titulo": "Constitución 1963 29 de abril de 1963 Constitución de la República Dominicana 1963",
+      "reference": "9bbd0452-eb2a-41fb-9f7a-c1014f734ddb",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=9bbd0452-eb2a-41fb-9f7a-c1014f734ddb",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "29/04/1963",
+      "titulo_norm": "Constitución de la República Dominicana 1963",
+      "stem": "constitucion-1963"
+    },
+    {
+      "anio": "1961",
+      "fecha_texto": "29 de diciembre de 1961",
+      "titulo": "Constitución 1961 29 de diciembre de 1961 Constitución de la República Dominicana 1961",
+      "reference": "bd763f64-229b-4252-8c40-e4ae4ddcb4a1",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=bd763f64-229b-4252-8c40-e4ae4ddcb4a1",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "29/12/1961",
+      "titulo_norm": "Constitución de la República Dominicana 1961",
+      "stem": "constitucion-1961"
+    },
+    {
+      "anio": "1960",
+      "fecha_texto": "01 de diciembre de 1960",
+      "titulo": "Constitución 1960 01 de diciembre de 1960 Constitución de la República Dominicana 1960",
+      "reference": "4e0d380d-4f5c-4be7-b8f7-c5a41566cd42",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=4e0d380d-4f5c-4be7-b8f7-c5a41566cd42",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "01/12/1960",
+      "titulo_norm": "Constitución de la República Dominicana 1960",
+      "stem": "constitucion-1960"
+    },
+    {
+      "anio": "1955",
+      "fecha_texto": "01 de diciembre de 1955",
+      "titulo": "Constitución 1955 01 de diciembre de 1955 Constitución de la República Dominicana 1955",
+      "reference": "0b1205c2-3321-4575-87d2-c1c68039a115",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=0b1205c2-3321-4575-87d2-c1c68039a115",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "01/12/1955",
+      "titulo_norm": "Constitución de la República Dominicana 1955",
+      "stem": "constitucion-1955"
+    },
+    {
+      "anio": "1947",
+      "fecha_texto": "10 de enero de 1947",
+      "titulo": "Constitución 1947 10 de enero de 1947 Constitución de la República Dominicana 1947",
+      "reference": "801512cf-5f70-4a6f-be1c-52029c756628",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=801512cf-5f70-4a6f-be1c-52029c756628",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "10/01/1947",
+      "titulo_norm": "Constitución de la República Dominicana 1947",
+      "stem": "constitucion-1947"
+    },
+    {
+      "anio": "1942",
+      "fecha_texto": "10 de enero de 1942",
+      "titulo": "Constitución 1942 10 de enero de 1942 Constitución de la República Dominicana 1942",
+      "reference": "da71b370-0b73-45df-8423-7f918173f174",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=da71b370-0b73-45df-8423-7f918173f174",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "10/01/1942",
+      "titulo_norm": "Constitución de la República Dominicana 1942",
+      "stem": "constitucion-1942"
+    },
+    {
+      "anio": "1934",
+      "fecha_texto": "09 de junio de 1934",
+      "titulo": "Constitución 1934 09 de junio de 1934 Constitución Politica del Estado Dominicano 1934",
+      "reference": "99b02670-097e-437f-8eec-2e1b325331fb",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=99b02670-097e-437f-8eec-2e1b325331fb",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "09/06/1934",
+      "titulo_norm": "Constitución de la República Dominicana 1934",
+      "stem": "constitucion-1934"
+    },
+    {
+      "anio": "1924",
+      "fecha_texto": "13 de junio de 1924",
+      "titulo": "Constitución 1924 13 de junio de 1924 Constitución Politica del Estado Dominicano 1924",
+      "reference": "098e551d-aed3-42fa-be34-50004b3c9b8e",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=098e551d-aed3-42fa-be34-50004b3c9b8e",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "13/06/1924",
+      "titulo_norm": "Constitución de la República Dominicana 1924",
+      "stem": "constitucion-1924"
+    },
+    {
+      "anio": "1908",
+      "fecha_texto": "22 de febrero de 1908",
+      "titulo": "Constitución 1908 22 de febrero de 1908 Constitución Politica del Estado Dominicano 1908",
+      "reference": "5ef6ab45-1ce0-43fe-9031-24443b3bf70d",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=5ef6ab45-1ce0-43fe-9031-24443b3bf70d",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "22/02/1908",
+      "titulo_norm": "Constitución de la República Dominicana 1908",
+      "stem": "constitucion-1908"
+    },
+    {
+      "anio": "1907",
+      "fecha_texto": "17 de septiembre de 1907",
+      "titulo": "Constitución 1907 17 de septiembre de 1907 Constitución Politica del Estado Dominicano 1907",
+      "reference": "d4a68261-d988-48e8-adf2-b2b4939012fa",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=d4a68261-d988-48e8-adf2-b2b4939012fa",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "17/09/1907",
+      "titulo_norm": "Constitución de la República Dominicana 1907",
+      "stem": "constitucion-1907"
+    },
+    {
+      "anio": "1896",
+      "fecha_texto": "20 de junio de 1896",
+      "titulo": "Constitución 1896 20 de junio de 1896 Constitución Politica del Estado Dominicano 1896",
+      "reference": "78b6a670-cf38-4671-b758-399319b5791d",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=78b6a670-cf38-4671-b758-399319b5791d",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "20/06/1896",
+      "titulo_norm": "Constitución de la República Dominicana 1896",
+      "stem": "constitucion-1896"
+    },
+    {
+      "anio": "1887",
+      "fecha_texto": "17 de noviembre de 1887",
+      "titulo": "Constitución 1887 17 de noviembre de 1887 Constitución Politica del Estado Dominicano 1887",
+      "reference": "1a586eb0-bff8-4821-9f8a-3014a22269b2",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=1a586eb0-bff8-4821-9f8a-3014a22269b2",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "17/11/1887",
+      "titulo_norm": "Constitución de la República Dominicana 1887",
+      "stem": "constitucion-1887"
+    },
+    {
+      "anio": "1881",
+      "fecha_texto": "25 de noviembre de 1881",
+      "titulo": "Constitución 1881 25 de noviembre de 1881 Constitución Politica del Estado Dominicano 1881",
+      "reference": "341c786a-be35-421c-972d-5879597a7718",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=341c786a-be35-421c-972d-5879597a7718",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "25/11/1881",
+      "titulo_norm": "Constitución de la República Dominicana 1881",
+      "stem": "constitucion-1881"
+    },
+    {
+      "anio": "1880",
+      "fecha_texto": "28 de mayo de 1880",
+      "titulo": "Constitución 1880 28 de mayo de 1880 Constitución Politica del Estado Dominicano 1880",
+      "reference": "db78752f-5486-4733-b377-92c8ec658ce8",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=db78752f-5486-4733-b377-92c8ec658ce8",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "28/05/1880",
+      "titulo_norm": "Constitución de la República Dominicana 1880",
+      "stem": "constitucion-1880"
+    },
+    {
+      "anio": "1879",
+      "fecha_texto": "02 de noviembre de 1879",
+      "titulo": "Constitución 1879 02 de noviembre de 1879 Constitución Politica del Estado Dominicano 1879",
+      "reference": "3405503b-8354-4d68-af5c-988002124e1a",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=3405503b-8354-4d68-af5c-988002124e1a",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "02/11/1879",
+      "titulo_norm": "Constitución de la República Dominicana 1879",
+      "stem": "constitucion-1879"
+    },
+    {
+      "anio": "1878",
+      "fecha_texto": "06 de enero de 1878",
+      "titulo": "Constitución 1878 06 de enero de 1878 Constitución Politica del Estado Dominicano 1878",
+      "reference": "e60619c5-dab5-4b7a-a66c-948acfeaf3ad",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=e60619c5-dab5-4b7a-a66c-948acfeaf3ad",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "06/01/1878",
+      "titulo_norm": "Constitución de la República Dominicana 1878",
+      "stem": "constitucion-1878"
+    },
+    {
+      "anio": "1877",
+      "fecha_texto": "05 de octubre de 1877",
+      "titulo": "Constitución 1877 05 de octubre de 1877 Constitución Politica del Estado Dominicano 1877",
+      "reference": "417e12c4-b1b1-4096-821a-7367422a4dd7",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=417e12c4-b1b1-4096-821a-7367422a4dd7",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "05/10/1877",
+      "titulo_norm": "Constitución de la República Dominicana 1877",
+      "stem": "constitucion-1877"
+    },
+    {
+      "anio": "1875",
+      "fecha_texto": "04 de diciembre de 1875",
+      "titulo": "Constitución 1875 04 de diciembre de 1875 Constitución Politica del Estado Dominicano 1875",
+      "reference": "91e625aa-0b3a-463d-81d3-43a959597ea9",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=91e625aa-0b3a-463d-81d3-43a959597ea9",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "04/12/1875",
+      "titulo_norm": "Constitución de la República Dominicana 1875",
+      "stem": "constitucion-1875"
+    },
+    {
+      "anio": "1874",
+      "fecha_texto": "04 de abril de 1874",
+      "titulo": "Constitución 1874 04 de abril de 1874 Constitución Politica del Estado Dominicano 1874",
+      "reference": "f60dc14f-e858-4359-b570-b7eed48ec6b7",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=f60dc14f-e858-4359-b570-b7eed48ec6b7",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "04/04/1874",
+      "titulo_norm": "Constitución de la República Dominicana 1874",
+      "stem": "constitucion-1874"
+    },
+    {
+      "anio": "1872",
+      "fecha_texto": "14 de septiembre de 1872",
+      "titulo": "Constitución 1872 14 de septiembre de 1872 Constitución Politica del Estado Dominicano 1872",
+      "reference": "08d169e7-7b1e-411f-930a-988fd8d78e75",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=08d169e7-7b1e-411f-930a-988fd8d78e75",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "14/09/1872",
+      "titulo_norm": "Constitución de la República Dominicana 1872",
+      "stem": "constitucion-1872"
+    },
+    {
+      "anio": "1866",
+      "fecha_texto": "29 de junio de 1866",
+      "titulo": "Constitución 1866 29 de junio de 1866 Constitución Politica del Estado Dominicano 1866",
+      "reference": "28e73432-a505-477a-ba08-02e56adf1a01",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=28e73432-a505-477a-ba08-02e56adf1a01",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "29/06/1866",
+      "titulo_norm": "Constitución de la República Dominicana 1866",
+      "stem": "constitucion-1866"
+    },
+    {
+      "anio": "1865",
+      "fecha_texto": "14 de noviembre de 1865",
+      "titulo": "Constitución 1865 14 de noviembre de 1865 Constitución Politica del Estado Dominicano 1865",
+      "reference": "73bc9c37-80e7-407c-a763-6c1d776102ca",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=73bc9c37-80e7-407c-a763-6c1d776102ca",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "14/11/1865",
+      "titulo_norm": "Constitución de la República Dominicana 1865",
+      "stem": "constitucion-1865"
+    },
+    {
+      "anio": "1858",
+      "fecha_texto": "19 de febrero de 1858",
+      "titulo": "Constitución 1858 19 de febrero de 1858 Constitución Politica del Estado Dominicano 1858",
+      "reference": "9e893820-99fb-4f89-9354-96bdad3a7d31",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=9e893820-99fb-4f89-9354-96bdad3a7d31",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "19/02/1858",
+      "titulo_norm": "Constitución de la República Dominicana 1858",
+      "stem": "constitucion-1858"
+    },
+    {
+      "anio": "1854",
+      "fecha_texto": "23 de diciembre de 1854",
+      "titulo": "Constitución Dic 1854 23 de diciembre de 1854 Constitución Politica del Estado Dominicano Diciembre 1854",
+      "reference": "ab14fcd2-917c-4237-800f-b1a7c9214815",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=ab14fcd2-917c-4237-800f-b1a7c9214815",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "23/12/1854",
+      "titulo_norm": "Constitución Política del Estado Dominicano (diciembre 1854)",
+      "stem": "constitucion-1854-12-23"
+    },
+    {
+      "anio": "1854",
+      "fecha_texto": "06 de noviembre de 1854",
+      "titulo": "Constitución Feb 1854 06 de noviembre de 1854 Constitución Politica del Estado Dominicano Febrero 1854",
+      "reference": "c352150e-7045-44f8-af53-ec50adda615d",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=c352150e-7045-44f8-af53-ec50adda615d",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "06/11/1854",
+      "titulo_norm": "Constitución Política del Estado Dominicano (1854)",
+      "stem": "constitucion-1854-11-06"
+    },
+    {
+      "anio": "1844",
+      "fecha_texto": "06 de noviembre de 1844",
+      "titulo": "Constitución 1844 06 de noviembre de 1844 Constitución Política del Estado Dominicano 1844",
+      "reference": "5069eab1-6b65-4ce3-a312-7aad8022c032",
+      "url_documento": "https://www.consultoria.gov.do/Documents/GetDocument?reference=5069eab1-6b65-4ce3-a312-7aad8022c032",
+      "url_fuente_oficial": "https://www.consultoria.gov.do/Services/Constitutions",
+      "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+      "fecha": "06/11/1844",
+      "titulo_norm": "Constitución de la República Dominicana 1844",
+      "stem": "constitucion-1844"
+    }
+  ],
+  "advertencia": "Catálogo oficial de constituciones. No certifica exhaustividad absoluta ni vigencia. LEY.DO no interpreta reformas.",
+  "resultados_normalizacion": [
+    {
+      "stem": "constitucion-2024",
+      "year": "2024",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 96,
+      "chars": 195962,
+      "size": 864314
+    },
+    {
+      "stem": "constitucion-2015",
+      "year": "2015",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 99,
+      "chars": 203049,
+      "size": 404404
+    },
+    {
+      "stem": "constitucion-2010",
+      "year": "2010",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 102,
+      "chars": 202483,
+      "size": 282220
+    },
+    {
+      "stem": "constitucion-2002",
+      "year": "2002",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 14367873
+    },
+    {
+      "stem": "constitucion-1994",
+      "year": "1994",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 43,
+      "chars": 82260,
+      "size": 2497514
+    },
+    {
+      "stem": "constitucion-1966",
+      "year": "1966",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 47,
+      "chars": 80485,
+      "size": 2270735
+    },
+    {
+      "stem": "constitucion-1963",
+      "year": "1963",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 78,
+      "chars": 106526,
+      "size": 25708439
+    },
+    {
+      "stem": "constitucion-1961",
+      "year": "1961",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 2371070
+    },
+    {
+      "stem": "constitucion-1960",
+      "year": "1960",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 2116867
+    },
+    {
+      "stem": "constitucion-1955",
+      "year": "1955",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 36,
+      "chars": 79367,
+      "size": 2201792
+    },
+    {
+      "stem": "constitucion-1947",
+      "year": "1947",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 109,
+      "chars": 234974,
+      "size": 2368341
+    },
+    {
+      "stem": "constitucion-1942",
+      "year": "1942",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 30,
+      "chars": 56190,
+      "size": 1503414
+    },
+    {
+      "stem": "constitucion-1934",
+      "year": "1934",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 43,
+      "chars": 95118,
+      "size": 1426825
+    },
+    {
+      "stem": "constitucion-1924",
+      "year": "1924",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 12895882
+    },
+    {
+      "stem": "constitucion-1908",
+      "year": "1908",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 25,
+      "chars": 46513,
+      "size": 1274483
+    },
+    {
+      "stem": "constitucion-1907",
+      "year": "1907",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 35,
+      "chars": 64608,
+      "size": 1765152
+    },
+    {
+      "stem": "constitucion-1896",
+      "year": "1896",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 94,
+      "chars": 172437,
+      "size": 2078418
+    },
+    {
+      "stem": "constitucion-1887",
+      "year": "1887",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 156,
+      "chars": 290788,
+      "size": 2412843
+    },
+    {
+      "stem": "constitucion-1881",
+      "year": "1881",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 26,
+      "chars": 52730,
+      "size": 1401051
+    },
+    {
+      "stem": "constitucion-1880",
+      "year": "1880",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 1194944
+    },
+    {
+      "stem": "constitucion-1879",
+      "year": "1879",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 1212937
+    },
+    {
+      "stem": "constitucion-1878",
+      "year": "1878",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 1205513
+    },
+    {
+      "stem": "constitucion-1877",
+      "year": "1877",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 19,
+      "chars": 38438,
+      "size": 1069997
+    },
+    {
+      "stem": "constitucion-1875",
+      "year": "1875",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 26,
+      "chars": 53500,
+      "size": 1426394
+    },
+    {
+      "stem": "constitucion-1874",
+      "year": "1874",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 26,
+      "chars": 51944,
+      "size": 1459375
+    },
+    {
+      "stem": "constitucion-1872",
+      "year": "1872",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 25,
+      "chars": 53267,
+      "size": 1487242
+    },
+    {
+      "stem": "constitucion-1866",
+      "year": "1866",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 45,
+      "chars": 90460,
+      "size": 1538657
+    },
+    {
+      "stem": "constitucion-1865",
+      "year": "1865",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 53,
+      "chars": 109143,
+      "size": 1831301
+    },
+    {
+      "stem": "constitucion-1858",
+      "year": "1858",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 30,
+      "chars": 63381,
+      "size": 1770912
+    },
+    {
+      "stem": "constitucion-1854-12-23",
+      "year": "1854",
+      "estado": "pendiente_ocr",
+      "pages": 0,
+      "chars": 0,
+      "size": 1391941
+    },
+    {
+      "stem": "constitucion-1854-11-06",
+      "year": "1854",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 67,
+      "chars": 148245,
+      "size": 2361036
+    },
+    {
+      "stem": "constitucion-1844",
+      "year": "1844",
+      "estado": "extraido_desde_pdf_oficial",
+      "pages": 31,
+      "chars": 64508,
+      "size": 1776505
+    }
+  ]
+}

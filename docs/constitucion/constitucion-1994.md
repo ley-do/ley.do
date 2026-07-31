@@ -1,0 +1,1482 @@
+# Constitución de la República Dominicana 1994
+
+!!! warning "Aviso"
+    LEY.DO no es una fuente oficial. Verifique este documento contra la fuente oficial indicada.
+    LEY.DO no ofrece asesoría legal ni interpreta reformas constitucionales.
+
+## Metadata
+
+- Tipo de documento: constitución
+- Año: 1994
+- Fecha: 14/08/1994
+- Institución fuente: Consultoría Jurídica del Poder Ejecutivo
+- Fuente oficial: [https://www.consultoria.gov.do/Services/Constitutions](https://www.consultoria.gov.do/Services/Constitutions)
+- PDF original: [https://www.consultoria.gov.do/Documents/GetDocument?reference=e7a0a320-3f85-46dd-9573-2d9590e6df19](https://www.consultoria.gov.do/Documents/GetDocument?reference=e7a0a320-3f85-46dd-9573-2d9590e6df19)
+- Hash SHA256 del PDF: `f681a1ed3d008dd0aec51b4f404affe7178af8f5b0c132aed15073461be0eafe`
+- Estado de revisión: pendiente_revision
+
+## Texto
+
+### Página 1 del PDF
+
+ARO XLIII
+9890
+GACETA OFICIAL
+Fundada el 2 de junio de 1 85 1
+Director Administrativo: Dr. Pedro Romero Confesor
+Consultor Juridic0 del Poder Ejecutivo
+Santo Doming0 de Guzman, D. N., Republica Dominicana
+20 de agosto de 1994
+CONSTITUCION DE LA REPUBLICA DOMINICANA
+Votada y proclamada por la Asamblea Nacional
+en fecha 14 de agosto de 1994.
+
+### Página 2 del PDF
+
+-2-
+LA ASAMBLEA NACIONAL
+EN NOMBRE DE LA REPUBLICA
+Constituida en Asamblea Revisora de la Constitucion,
+declara en vigor el siguiente texto de la
+CONSTITUCION DE LA REPUBLICA DOMINICANA
+TITULO I
+SECCION I
+De la Nacion, de su Soberania y de su Gobierno
+Art. 1.- El pueblo dominicano constituye una Nacihn
+independiente, con el nombre de Republica Dominicana.
+Art. 2.- La soberania nacional corresponde a1 pueblo, de quien emanan todos 10s poderes
+del Estado, 10s cuales se ejercen por representacihn.
+Art. 3.- La soberania de la Nacihn dominicana, como Estado libre e independiente, es
+inviolable. La Republica es y sera siempre libre e independiente de todo poder extranjero.
+Por consiguiente, ninguno de 10s poderes publicos organizados por la presente Constitucihn
+podra realizar o permitir la realizacihn de actos que constituyan una intervencihn directa o
+indirecta en 10s asuntos internos o externos de la Republica Dominicana o una injerencia
+que atente contra la personalidad e integridad del Estado y de 10s atributos que se le
+reconocen y consagran en esta Constitucihn. El principio de la no intervencihn constituye
+una norma invariable de la politica internacional dominicana.
+La Republica Dominicana reconoce y aplica las normas del Derecho Internacional general
+y americano en la medida en que sus poderes publicos las hayan adoptado, y se pronuncia
+en favor de la solidaridad econhmica de 10s paises de America y apoyara toda iniciativa que
+propenda a la defensa de sus productos basicos y materias primas.
+Art. 4.- El gobierno de la Nacihn es esencialmente civil, republicano, democratico y
+representativo.
+Se divide en Poder Legislativo, Poder Ejecutivo y Poder Judicial. Estos tres poderes son
+independientes en el ejercicio de sus respectivas funciones.
+Sus encargados son
+responsables y no pueden delegar sus atribuciones, las cuales son unicamente las
+organizada en Estado libre e
+
+### Página 3 del PDF
+
+-3-
+determinadas por esta Constitucion y las leyes,
+SECCION I1
+Del Territorio
+Art. 5.- El territorio de la Republica Dominicana es y sera inalienable. Esta integrado por
+la parte oriental de la isla de Santo Domingo y sus islas adyacentes. Sus limites terrestres
+irreductibles estan fijados por el Tratado Fronterizo de 1929, y su Protocolo de Revision de
+1936.
+Se divide politicamente en un Distrito Nacional, en el cual estara comprendida la capital de
+la Republica, y en las provincias que determine la ley. Las provincias, a su vez se dividen
+en municipios.
+Son tambien partes del territorio nacional, el mar territorial y el suelo y subsuelo
+submarinos correspondientes, asi como el espacio aereo sobre ellos comprendido. La
+extension del mar territorial, del espacio aereo y de la zona contigua y su defensa, lo mismo
+que las del suelo y subsuelo submarinos y su aprovechamiento, seran establecidos y
+regulados por la ley.
+La ley fijara el numero de las provincias, determinara sus nombres y 10s limites de estas y
+del Distrito Nacional, asi como 10s de 10s municipios en que aquellas se dividen, y podra
+crear tambien, con otras denominaciones, nuevas divisiones politicas del territorio.
+Art. 6.- La ciudad de Santo Domingo de Guzman es la capital de la Republica y el asiento
+del gobierno nacional.
+SECCION I11
+Del Rkgimen Economico y Social Fronterizo
+Art. 7.- Es de supremo y permanente interes nacional el desarrollo economico y social del
+territorio de la Republica a lo largo de la linea fronteriza, asi como la difusion en el mismo
+de la cultura y la tradicion religiosa del pueblo dominicano. El aprovechamiento agricola e
+industrial de 10s rios fronterizos se continuara regulando por 10s principios consagrados en
+el Articulo 6to. del Protocolo de Revision de 1936 del Tratado de Frontera de 1929, y en el
+Articulo 10 del Tratado de Paz, Amistad y Arbitraje de 1929.
+
+### Página 4 del PDF
+
+-4-
+TITULO I1
+SECCION I
+De 10s Derechos Individuales y Sociales
+Art. 8.- Se reconoce como finalidad principal del Estado la proteccihn efectiva de 10s
+derechos de la persona humana y el mantenimiento de 10s medios que le permitan
+perfeccionarse progresivamente dentro de un orden de libertad individual y de justicia
+social, compatible con el orden publico, el bienestar general y 10s derechos de todos. Para
+garantizar la realizacihn de esos fines se fijan las siguientes normas:
+1.- La inviolabilidad de la vida. En consecuencia no podra establecerse, pronunciarse ni
+aplicarse en ningh cas0 la pena de muerte, ni las torturas, ni ninguna otra pena o
+procedimiento vejatorio o que implique la perdida o la disminucihn de la integridad fisica o
+de la salud del individuo.
+2.- La seguridad individual. En consecuencia:
+a) No se establecera el apremio corporal por deuda que no proviniere de infraccihn a las
+leyes penales.
+b) Nadie podra ser reducido a prisihn ni cohibido en su libertad sin orden motivada y
+escrita de funcionario judicial competente, salvo el cas0 de flagrante delito.
+c) Toda persona privada de su libertad sin causa o sin las formalidades legales, o fuera de
+10s casos previstos por las leyes, sera puesta inmediatamente en libertad a requerimiento
+suyo o de cualquier persona.
+d) Toda persona privada de su libertad sera sometida a la autoridad judicial competente
+dentro de las cuarenta y ocho horas de su detencihn o puesta en libertad.
+e) Todo arrest0 se dejara sin efecto o se elevara a prisihn dentro de las cuarenta y ocho
+horas de haber sido sometido el arrestado a la autoridad judicial competente, debiendo
+notificarse a1 interesado dentro del mismo plazo, la providencia que a1 efecto se dictare.
+f) Queda terminantemente prohibido el traslado de cualquier detenido de un
+establecimiento carcelario a otro lugar sin orden escrita y motivada de la autoridad judicial
+competente.
+g) Toda persona que tenga bajo su guarda a un detenido estara obligado a presentarlo tan
+pronto como se lo requiera la autoridad competente.
+La ley de Habeas Corpus determinara la manera de proceder sumariamente para el
+
+### Página 5 del PDF
+
+-5-
+cumplimiento de las prescripciones contenidas en las letras a), b), c), d), e), f) y g) y
+establecera las sanciones que procedan.
+h) Nadie podra ser juzgado dos veces por una misma causa.
+i) Nadie podra ser obligado a declarar contra si mismo
+j) Nadie podra ser juzgado sin haber sido oido o debidamente citado, ni sin observancia de
+10s procedimientos que establezca la ley para asegurar un juicio imparcial y el ejercicio del
+derecho de defensa. Las audiencias seran publicas, con las excepciones que establezca la
+ley, en 10s casos en que la publicidad resulte perjudicial a1 orden publico o a las buenas
+costumbres.
+3.- La inviolabilidad de domicilio.
+Ninguna visita domiciliaria puede verificarse sino en 10s casos previstos por la ley y con las
+formalidades que ella prescribe.
+4.- La libertad de transito, salvo las restricciones que resultaren de las penas impuestas
+judicialmente, o de las leyes de policia, de inmigracion y de sanidad.
+5.- A nadie se le puede obligar a hacer lo que la ley no manda ni impedirsele lo que la ley
+no prohibe. La ley es igual para todos: No puede ordenar mas que lo que es justo y uti1
+para la comunidad ni puede prohibir mis que lo que le perjudica.
+6.- Toda persona podra, sin sujecion a censura previa, emitir libremente su pensamiento
+mediante palabras escritas o por cualquier otro medio de expresion, grafico u oral. Cuando
+el pensamiento expresado sea atentatorio a la dignidad y a la moral de las personas, a1
+orden publico o a las buenas costumbres de la sociedad, se impondran las sanciones
+dictadas por las leyes.
+Se prohibe toda propaganda subversiva, ya sea por anonimos o por cualquier otro medio de
+expresion que tenga por objeto provocar desobediencia a las leyes, sin que esto ultimo
+pueda coartar el derecho a analisis o a criticas de 10s preceptos legales.
+7.- La libertad de asociacion y de reunion sin armas, con fines politicos, economicos,
+sociales, culturales o de cualquier otra indole, siempre que por su naturaleza no Sean
+contrarias ni atentatorias a1 orden publico, la seguridad nacional y las buenas costumbres.
+8.- La libertad de conciencia y de cultos, con sujecion a1 orden publico y respeto a las
+buenas costumbres.
+9.- La inviolabilidad de la correspondencia y demas documentos privados, 10s cuales no
+podran ser ocupados ni registrados sino mediante procedimientos legales en la
+substanciacion de asuntos que se ventilen en la justicia. Es igualmente inviolable el secret0
+
+### Página 6 del PDF
+
+-6-
+de la comunicacihn telegrafica, telefonica y cablegrifica
+10.- Todos 10s medios de informacihn tienen libre acceso alas fuentes noticiosas oficiales y
+privadas, siempre que no vayan en contra del orden publico o pongan en peligro la
+seguridad nacional.
+11.- La libertad de trabajo. La ley podra, segun lo requiera el interes general, establecer la
+jornada maxima de trabajo, 10s dias de descanso y vacaciones, 10s sueldos y salarios
+minimos y sus formas de pago, 10s seguros sociales, la participacihn de 10s nacionales en
+todo trabajo, y en general, todas las providencias de proteccihn y asistencia del Estado que
+se consideren necesarias en favor de 10s trabajadores, ya Sean manuales o intelectuales.
+a) La organizacihn sindical es libre , siempre que 10s sindicatos, gremios u otras
+asociaciones de la misma indole se ajusten en sus estatutos y en su conducta a una
+organizacihn democratica compatible con 10s principios consagrados en esta Constitucihn y
+para fines estrictamente laborales y pacificos.
+b) El Estado facilitara 10s medios a su alcance para que 10s trabajadores puedan adquirir 10s
+utiles e instrumentos indispensables a su labor.
+c) El alcance y la forma de la participacihn de 10s trabajadores permanentes en 10s
+beneficios de toda empresa agricola, industrial, comercial o minera, podran ser fijados por
+la ley de acuerdo con la naturaleza de la empresa y respetando tanto el interes legitim0 del
+empresario como el del obrero.
+d) Se admite el derecho de 10s trabajadores a la huelga y de 10s patronos a1 par0 en las
+empresas privadas, siempre que se ejerzan con arreglo a la ley y para resolver conflictos
+estrictamente laborales. Se prohibe toda intermpcihn, entorpecimiento, paralizacihn de
+actividades o reduccihn intencional de rendimiento en las labores de las empresas privadas
+o del Estado. Sera ilicita toda huelga, paro, interrupcihn, entorpecimiento o reduccihn
+intencional de rendimiento que afecten la administracihn, 10s servicios publicos o 10s de
+utilidad publica. La ley dispondra las medidas necesarias para garantizar la observancia de
+estas normas.
+12.- La libertad de empresa, comercio e industria. Solo podran establecerse monopolios en
+provecho del Estado o de instituciones estatales. La creacihn y organizacihn de esos
+monopolios se haran por ley.
+13.- El derecho de propiedad. En consecuencia, nadie puede ser privado de ella sino por
+causa justificada de utilidad publica o de interes social, previo pago de su justo valor
+determinado por sentencia de tribunal competente. En casos de calamidad publica, la
+indemnizacihn podra no ser previa. No podra imponerse la pena de confiscacihn general de
+bienes por razones de orden politico.
+a) Se declara de interes social la dedicacihn de la tierra a fines utiles y la eliminacihn
+
+### Página 7 del PDF
+
+-7-
+gradual del latifundio. Se destinan a 10s planes de la reforma agraria las tierras que
+pertenezcan a1 Estado o las que este adquiera de grado a grado o por expropiacihn, en la
+forma prescrita por esta Constitucihn, que no esten destinadas o deban destinarse por el
+Estado a otros fines de interes general. Se declara igualmente como un objetivo principal
+de la politica social del Estado el estimulo y cooperacihn para integrar efectivamente a la
+vida nacional la poblacihn campesina, mediante la renovacihn de 10s metodos de la
+produccihn agricola y la capacitacihn cultural y tecnolhgica del hombre campesino.
+b) El Estado podra convertir sus empresas en propiedades de cooperacihn o economia
+cooperativista.
+14.- La propiedad exclusiva por el tiempo y en la forma que determine la ley, de 10s
+inventos y descubrimientos, asi como de las producciones cientificas, artisticas y literarias.
+15.- Con el fin de robustecer su estabilidad y bienestar, su vida moral, religiosa y cultural,
+la familia recibira del Estado la mas amplia proteccihn posible.
+a) La maternidad, sea cual fuere la condicihn o el estado de la mujer, gozara de la
+proteccihn de 10s poderes publicos y tiene derecho a la asistencia oficial en cas0 de
+desamparo. El Estado tomara las medidas de higiene y de otro genero tendientes a evitar en
+lo posible la mortalidad infantil y a obtener el sano desarrollo de 10s niiios. Se declara,
+asimismo, de alto interes social, la institucihn del bien de familia. El Estado estimulara el
+ahorro familiar y el establecimiento de cooperativas de credito, de produccihn, de
+distribucihn, de consumo o de cualesquiera otras que fueren de utilidad.
+b) Se declara de alto interes social el establecimiento de cada hogar dominicano en terreno
+o mejoras propias. Con esta finalidad, el Estado estimulara el desarrollo del credito publico
+en condiciones socialmente ventajosas, destinado a hacer posible que todos 10s
+dominicanos posean una vivienda chmoda e higienica.
+c) Se reconoce el matrimonio como fundamento legal de la familia.
+d) La mujer casada disfrutara de plena capacidad civil. La ley establecera 10s medios
+necesarios para proteger 10s derechos patrimoniales de la mujer casada bajo cualquier
+regimen.
+16.- La libertad de enseiianza. La educacihn primaria sera obligatoria. Es deber del Estado
+proporcionar la educacihn fundamental a todos 10s habitantes del territorio nacional y tomar
+las providencias necesarias para eliminar el analfabetismo. Tanto la educacihn primaria y
+secundaria, como la que se ofrezca en las escuelas agronhmicas, vocacionales, artisticas,
+comerciales, de artes manuales y de economia domestica serin gratuitas.
+El Estado procurara la mas amplia difusihn de la ciencia y la cultura, facilitando de manera
+adecuada que todas las personas se beneficien con 10s resultados del progreso cientifico y
+moral.
+
+### Página 8 del PDF
+
+-8-
+17.- El Estado estimulara el desarrollo progresivo de la seguridad social, de manera que
+toda persona llegue a gozar de adecuada proteccihn contra la desocupacihn, la enfermedad,
+la incapacidad y la vejez.
+El Estado prestara su proteccihn y asistencia a 10s ancianos en la forma que determine la
+ley, de manera que se preserve su salud y se asegure su bienestar.
+El Estado prestark asimismo, asistencia social a 10s pobres. Dicha asistencia consistira en
+alimentos, vestimenta y hasta donde sea posible, alojamiento adecuado.
+El Estado velara por el mejoramiento de la alimentacihn, 10s servicios sanitarios y las
+condiciones higienicas, procurara 10s medios para la prevencihn y el tratamiento de las
+enfermedades epidemicas y endemicas y de toda otra indole, asi como tambien dara
+asistencia medica y hospitalaria gratuita a quienes, por sus escasos recursos econhmicos,
+asi lo requieran.
+El Estado combatira 10s vicios sociales con medidas adecuadas y con el auxilio de las
+convenciones y organizaciones internacionales. Para la correccihn y erradicacihn de tales
+vicios, se crearan centros y organismos especializados.
+SECCION I1
+De 10s Deberes
+Art. 9.- Atendiendo a que las prerrogativas reconocidas y garantizadas en el articulo
+precedente de esta Constitucihn suponen la existencia de un orden correlativo de
+responsabilidad juridica y moral que obliga la conducta del hombre en sociedad, se
+declaran como deberes fundamentales 10s siguientes:
+a) Acatar y cumplir la Constitucihn y las leyes, respetar y obedecer las autoridades
+establecidas por ellas.
+b) Todo dominicano habil tiene el deber de prestar 10s servicios civiles y militares que la
+Patria requiera para su defensa y conservacihn.
+c) Los habitantes de la Republica deben abstenerse de todo acto perjudicial a su estabilidad,
+independencia o soberania y estaran, en cas0 de calamidad publica, obligados a prestar 10s
+servicios de que Sean capaces.
+d) Todo ciudadano dominicano tiene el deber de votar, siempre que este legalmente
+capacitado para hacerlo.
+
+### Página 9 del PDF
+
+-9-
+e) Contribuir en proporcihn a su capacidad contributiva para las cargas publicas
+f) Toda persona tiene la obligacihn de dedicarse a un trabajo de su eleccihn con el fin de
+proveer dignamente a su sustento y a1 de su familia, alcanzar el mas amplio
+perfeccionamiento de su personalidad y contribuir a1 bienestar y progreso de la sociedad.
+g) Es obligacihn de todas las personas que habitan el territorio de la Republica Dominicana,
+asistir a 10s establecimientos educativos de la Nacihn para adquirir, por lo menos, la
+instruccihn elemental.
+h) Toda persona esta en el deber de cooperar con el Estado en cuanto a asistencia y
+seguridad social de acuerdo con sus posibilidades.
+i) Es deber de todo extranjero abstenerse de participar en actividades politicas en territorio
+dominicano.
+Art. 10.- La enumeracihn contenida en 10s Articulos 8 y 9 no es limitativa, y por
+consiguiente, no excluye otros derechos y deberes de igual naturaleza.
+T I T U L O I 1 1
+Derechos Politicos
+SECCION I
+De la Nacionalidad
+Art. 11.- Son dominicanos:
+1.- Todas las personas que nacieren en el territorio de la Republica, con excepcihn de 10s
+hijos legitimos de 10s extranjeros residentes en el pais en representacihn diplomatica o 10s
+que estin de transit0 en el.
+2.- Las personas que a1 presente esten investidas de esta calidad en virtud de constituciones
+y leyes anteriores.
+3.- Todas las personas nacidas en el extranjero, de padre o madre dominicanos, siempre
+que, de acuerdo con las leyes del pais de nacimiento, no hubieren adquirido una
+nacionalidad extraiia; o que, en cas0 de haberla adquirido, manifestaren, por acto ante un
+oficial publico remitido a1 Poder Ejecutivo, despues de alcanzar la edad de diez y ocho (18)
+aiios, su voluntad de optar por la nacionalidad dominicana.
+4.- Los naturalizados. La ley dispondra las condiciones y formalidades requeridas para la
+naturalizacihn.
+
+### Página 10 del PDF
+
+-10-
+Pirrafo I.- Se reconoce a 10s dominicanos la facultad de adquirir una nacionalidad
+extranj era.
+Pirrafo.- 11.- La mujer dominicana casada con un extranjero podra adquirir la nacionalidad
+de su marido.
+Pirrafo 111.- La mujer extranjera que contrae matrimonio con un dominicano seguira la
+condicion de su marido, a menos que las leyes de su pais le permitan conservar su
+nacionalidad, cas0 en el cual tendra la facultad de declarar, en el acta de matrimonio, que
+declina la nacionalidad dominicana.
+Pirrafo 1V.- La adquisicion de otra nacionalidad no implica la perdida de la nacionalidad
+dominicana. Sin embargo, 10s dominicanos que adquieran otra nacionalidad no podrin
+optar por la Presidencia o Vicepresidencia de la Republica.
+SECCION I1
+De la Ciudadania
+Art. 12.- Son ciudadanos todos 10s dominicanos de uno y otro sex0 que hayan cumplido 18
+aiios de edad, y 10s que Sean o hubieren sido casados, aunque no hayan cumplido esa edad.
+Art. 13.- Son derechos de 10s ciudadanos:
+1.- El de votar con arreglo a la ley para elegir 10s funcionarios a que se refiere el Articulo
+90 de la Constitucion.
+2.- El de ser elegibles para ejercer 10s mismos cargos a que se refiere el parrafo anterior.
+Art. 14.- Los derechos de ciudadania se pierden por condenacion irrevocable por traicion,
+espionaje o conspiracion contra la Republica, o por tomar las armas, prestar ayuda o
+participar en cualquier atentado contra ella.
+Art. 15.- Los derechos de ciudadania quedan suspendidos en 10s casos de:
+a) Condenacion irrevocable a pena criminal, hasta la rehabilitacion.
+b) Interdiccion judicial legalmente pronunciada, mientras esta dure.
+c) Por admitir en territorio dominicano funcion o empleo de un gobierno extranjero, sin
+previa autorizacion del Poder Ejecutivo.
+
+### Página 11 del PDF
+
+-11
+TITULO IV
+SECCION I
+Del Poder Legislativo
+Art. 16.- El Poder Legislativo se ejerce por un Congreso de la Republica, compuesto de un
+Senado y una Camara de Diputados.
+Art. 17.- La eleccion de Senadores y de Diputados se hara por voto direct0
+Art. 18.- Los cargos de Senador y de Diputado son incompatibles con cualquier otra
+funcion o empleo de la adrninistracion publica.
+Art. 19.- Cuando ocurran vacantes de Senadores o de Diputados, la Camara
+correspondiente escogera el sustituto de la terna que le presentara el organismo superior del
+partido que lo postulo.
+Art. 20.- La terna debera ser sometida a la Cimara donde se haya producido la vacante,
+dentro de 10s treinta dias siguientes a su ocurrencia, si estuviere reunido el Congreso, y en
+cas0 de no estarlo, dentro de 10s treinta primeros dias de su reunion. Transcurrido el plazo
+seiialado sin que el organismo competente del partido hubiese sometido la terna, la Camara
+correspondiente hara libremente la eleccion.
+SECCION I1
+Del Senado
+Art. 21.- El Senado se compondra de miembros elegidos a razon de uno por cada provincia
+y uno por el Distrito Nacional, cuyo ejercicio durara un period0 de cuatro aiios.
+Art. 22.- Para ser Senador se requiere ser dominicano en pleno ejercicio de 10s derechos
+civiles y politicos, haber cumplido veinticinco aiios de edad y ser nativo de la
+circunscripcion territorial que lo elija o haber residido en ella por lo menos cinco aiios
+consecutivos.
+Pirrafo.- Los naturalizados no podran ser elegidos Senadores sino diez aiios despues de
+haber adquirido la nacionalidad, y siempre que hubieren residido dentro de la jurisdiccion
+que 10s elija durante 10s cinco aiios que precedan a su eleccion.
+Art. 23.- Son atribuciones del Senado:
+
+### Página 12 del PDF
+
+-12
+1.- Elegir el Presidente y demis miembros de la Junta Central Electoral y sus suplentes.
+2.- Elegir 10s miembros de la Cimara de Cuentas.
+3.- Aprobar o no 10s nombramientos de funcionarios diplomaticos que expida el Poder
+Ej ecutivo.
+4.- Conocer de las acusaciones formuladas por la Cimara de Diputados contra 10s
+funcionarios publicos elegidos para un period0 determinado, por mala conducta o faltas
+graves en el ejercicio de sus funciones. En materia de acusacion, el Senado no podra
+imponer otras penas que las de destitucion del cargo. La persona destituida quedara sin
+embargo sujeta, si hubiese lugar, a ser acusada y juzgada con arreglo a la ley.
+El Senado no podra destituir a un funcionario sino cuando lo acordare por lo menos el voto
+de las tres cuartas partes de la totalidad de 10s miembros.
+SECCION I11
+De la Camara de Diputados
+Art. 24.- La Camara de Diputados se compondra de miembros elegidos cada cuatro aiios
+por el pueblo de las provincias y del Distrito Nacional, a razon de uno por cada cincuenta
+mil habitantes o fraccion de mas de veinticinco mil, sin que en ningun cas0 Sean menos de
+dos.
+Art. 25.- Para ser Diputado se requieren las mismas condiciones que para ser Senador.
+Pirrafo.- Los naturalizados no podran ser elegidos Diputados sino diez aiios despues de
+haber adquirido la nacionalidad y siempre que hubieren residido dentro de la jurisdiccion
+que 10s elija durante 10s cinco aiios que precedan a su eleccion.
+Art. 26.- Es atribucion exclusiva de la Camara de Diputados ejercer el derecho de acusar
+ante el Senado a 10s funcionarios publicos en 10s casos determinados por el Acapite 5 del
+Articulo 23. La acusacion no podra formularse sino con el voto de las tres cuartas partes de
+la totalidad de 10s miembros de la Camara.
+SECCION IV
+Disposiciones comunes a ambas Camaras
+
+### Página 13 del PDF
+
+-13-
+Art. 27.- Las Camaras se reuniran en Asamblea Nacional en 10s casos indicados por la
+Constitucion, debiendo estar presentes mas de la mitad de 10s miembros de cada una de
+ellas.
+Las decisiones se tomaran por mayoria absoluta de votos.
+Art. 28.- Cada Cimara reglamentara lo concerniente a su servicio interior y a1 despacho de
+10s asuntos que le son peculiares, y podra, en el us0 de sus facultades disciplinarias,
+establecer las sanciones que procedan.
+Art. 29.- El Senado y la Cimara de Diputados celebran sus sesiones separadamente,
+except0 cuando se reunan en Asamblea Nacional.
+Pirrafo.- Podran tambien reunirse conjuntamente para recibir el mensaje del Presidente de
+la Republica y las memorias de 10s Secretarios de Estado, a que se refiere el Articulo 55,
+Inciso 22, y para la celebracion de actos conmemorativos o de otra naturaleza que no se
+relacionen con el ejercicio de las atribuciones legislativas de cada Cimara ni de las que
+estan seiialadas por esta Constitucion como exclusivas de cada una de ellas.
+Art. 30.- En cada Camara sera necesaria la presencia de mas de la mitad de sus miembros
+para la validez de las deliberaciones. Las decisiones se tomarin por mayoria absoluta de
+votos, salvo 10s asuntos declarados previamente de urgencia, en que decidiran las dos
+terceras partes de 10s votos, en su segunda discusion.
+Art. 3 1.- Los miembros de una y otra Camara gozaran de la mas completa inmunidad penal
+por las opiniones que expresen en las sesiones.
+Art. 32.- Ningun Senador o Diputado podra ser privado de su libertad durante la legislatura,
+sin la autorizacion de la Cimara a que pertenezca, salvo el cas0 de que sea aprehendido en
+el momento de la comision de un crimen. En todos 10s casos, el Senado o la Camara de
+Diputados, o si estos no estan en sesion o no constituyen quorum, cualquier miembro podra
+exigir que sea puesto en libertad por el tiempo que dure la legislatura o una parte de ella,
+cualquiera de sus miembros que hubiere sido detenido, arrestado, preso o privado en
+cualquier otra forma de su libertad.
+A este efecto se hara un requerimiento por el
+Presidente del Senado o el de la Camara de Diputados, o por el Senador o Diputado, segun
+el caso, a1 Procurador General de la Republica; y si fuese necesario, dara la orden de
+libertad directamente, para lo cual podra requerir y debera serle prestado, por todo
+depositario de la fuerza publica, el apoyo de esta.
+Art. 33.- Las Camaras se reuniran ordinariamente el 27 de febrero y el 16 de agosto de cada
+aiio y cada legislatura durara noventa dias, la cual podra prorrogarse hasta por sesenta dias
+mas.
+Pirrafo.- Se reunirin extraordinariamente por convocatoria del Poder Ejecutivo
+
+### Página 14 del PDF
+
+-14-
+Art. 34.- El 16 de agosto de cada aiio el Senado y la Camara de Diputados elegiran sus
+respectivos Bufetes Directivos, integrados por un Presidente, un Vicepresidente y dos
+Secretarios.
+Pirrafo I.- Cada Cimara designara sus empleados auxiliares
+Pirrafo 11.- El Presidente del Senado y el de la Camara de Diputados tendran durante las
+sesiones poderes disciplinarios y representaran a su respectiva Camara en todos 10s actos
+legales.
+Art. 35.- Cuando las Camaras se reunan en Asamblea Nacional o en reunion conjunta,
+asumira la Presidencia el Presidente del Senado; la Vicepresidencia la ocupara la persona a
+quien corresponda en ese momento presidir la Camara de Diputados, y la Secretaria las
+personas a quienes correspondan en ese momento las funciones de Secretarios de cada
+Camara.
+Pirrafo I.- En cas0 de falta temporal o definitiva del Presidente del Senado, y mientras no
+sea elegido el nuevo Presidente de dicha Cimara Legislativa, presidira la Asamblea
+Nacional o la reunion conjunta el Presidente de la Camara de Diputados.
+Pirrafo 11.- En cas0 de falta temporal o definitiva del Presidente del Senado y del
+Presidente de la Camara de Diputados, presidira la Asamblea o la reunion conjunta el
+Vicepresidente del Senado, y, en su defecto, el Vicepresidente de la Camara de Diputados.
+Art. 36.- Corresponde a la Asamblea Nacional examinar las actas de eleccion del Presidente
+y del Vicepresidente de la Republica, proclamarlos y, en su caso, recibirles juramento,
+aceptarles o rechazarles las renuncias y ejercer las facultades que le confiere la presente
+Constitucion.
+SECCION V
+Del Congreso
+Art. 37.- Son atribuciones del Congreso:
+1.- Establecer 10s impuestos o contribuciones generales y determinar el modo de su
+recaudacion e inversion.
+2.- Aprobar o desaprobar, con vista del informe de la Cimara de Cuentas, el estado de
+recaudacion e inversion de las rentas que debe presentarle el Poder Ejecutivo.
+3.- Conocer de las observaciones que alas leyes haga el Poder Ejecutivo.
+
+### Página 15 del PDF
+
+-15-
+4.- Proveer a la conservacihn y fructificacihn de 10s bienes nacionales, y a la enajenacihn
+de 10s bienes del domini0 privado de la Nacihn, except0 lo que dispone el Inciso 10 del
+Articulo 55 y el Articulo 110.
+5.- Disponer todo lo concerniente a la conservacihn de monumentos y objetos antiguos y a
+la adquisicihn de estos ultimos.
+6.- Crear o suprimir provincias, municipios u otras divisiones politicas del territorio y
+determinar todo lo concerniente a sus limites y organizacihn, previo estudio que demuestre
+la conveniencia social, politica y econhmica justificativa del cambio.
+7.- En cas0 de alteracihn de la paz o en el de calamidad publica, declarar el estado de sitio o
+suspender solamente donde aquellas existan, y por el termino de su duracihn, el ejercicio de
+10s derechos individuales consagrados en el Articulo 8, en sus Incisos 2, letras b), c), d), e),
+fl,
+g), Y 3, 4, 6 7 Y 9.
+8.- En cas0 de que la soberania nacional se encuentre expuesta a un peligro grave e
+inminente, el Congreso podra declarar que existe un estado de emergencia nacional,
+suspendiendo el ejercicio de 10s derechos individuales, con excepcihn de la inviolabilidad
+de la vida, tal como lo consagra el Inciso 1 del Articulo 8 de esta Constitucihn. Si no
+estuviera reunido el Congreso, el Presidente de la Republica podra dictar la misma
+disposicihn, que conllevara convocatoria del mismo para ser informado de 10s
+acontecimientos y las disposiciones tomadas.
+9.- Disponer todo lo relativo a la migracihn.
+10.- Aumentar o reducir el numero de las Cortes de Apelacihn y crear o suprimir tribunales
+ordinarios o de excepcihn.
+11.- Crear o suprimir tribunales para conocer y decidir 10s asuntos contencioso-
+administrativos y disponer todo lo relativo a su organizacihn y competencia.
+12.- Votar el Presupuesto de Ingresos y Ley de Gastos Publicos, y aprobar o no 10s gastos
+extraordinarios para 10s cuales solicite un credito el Poder Ejecutivo.
+13.- Autorizar o no emprestitos sobre el credito de la Republica por medio del Poder
+Ej ecutivo.
+14.- Aprobar o desaprobar 10s tratados y convenciones internacionales que celebre el Poder
+Ej ecutivo.
+15.- Legislar cuanto concierne a la deuda nacional.
+16.- Declarar por ley la necesidad de la reforma constitucional.
+
+### Página 16 del PDF
+
+-16-
+17.- Conceder autorizacion a1 Presidente de la Republica para salir a1 extranjero cuando sea
+por mas de quince dias.
+18.- Examinar anualmente todos 10s actos del Poder Ejecutivo y aprobarlos, si son
+ajustados a la Constitucion y a las leyes.
+19.- Aprobar o no 10s contratos que le someta el Presidente de la Republica de conformidad
+con el Inciso 10 del Articulo 55 y con el Articulo 110.
+20.- Decretar el traslado de las Camaras Legislativas fuera de la capital de la Republica, por
+causa de fuerza mayor justificada o mediante convocatoria del Presidente de la Republica.
+21.- Conceder amnistia por causa politica
+22.- Interpelar a 10s Secretarios de Estados y a 10s Directores o Administradores de
+Organismos Autonomos del Estado, sobre asunto de su competencia, cuando asi lo
+acordare las dos terceras partes de 10s miembros presentes de la Camara que lo solicite, a
+requerimiento de uno o varios de sus miembros.
+23.- Legislar acerca de toda materia que no sea de la competencia de otro Poder del Estado
+o contraria a la Constitucion.
+SECCION VI
+De la Formacion y Efecto de las Leyes
+Art. 38.- Tienen derecho a iniciativa en la formacion de las leyes:
+a) Los Senadores y 10s Diputados.
+b) El Presidente de la Republica.
+c) La Suprema Corte de Justicia en asuntos judiciales.
+d) La Junta Central Electoral en asuntos electorales.
+Pirrafo.- El que ejerza ese derecho podra sostener su mocion en la otra Cimara, si es el
+cas0 del Inciso a) de este articulo, y en ambas Camaras, mediante representante si se trata
+de uno cualquiera de 10s otros tres casos.
+Art. 39.- Todo proyecto de ley admitido en una de las Camaras se sometera a dos
+discusiones distintas, con un interval0 de un dia por lo menos entre una y otra discusion.
+En cas0 de que fuere declarado previamente de urgencia, debera ser discutido en dos
+sesiones consecutivas.
+Art. 40.- Aprobado un proyecto de ley en cualquiera de las Camaras, pasara a la otra para
+su oportuna discusion, observandose en ellas las mismas formas constitucionales. Si esta
+
+### Página 17 del PDF
+
+-17-
+Camara le hiciere modificaciones, devolvera dicho proyecto con observaciones a la Camara
+en que se inicio, y, en cas0 de ser aceptadas, enviara la ley a1 Poder Ejecutivo. Per0 si
+aquellas fueren rechazadas, sera devuelto el proyecto a la otra Camara con observaciones; y
+si esta las aprueba, enviara a su vez la ley a1 Poder Ejecutivo. Si fueren rechazadas las
+observaciones, se considerara desechado el proyecto.
+Art. 41.- Toda ley aprobada en ambas Camaras sera enviada a1 Poder Ejecutivo. Si este no
+la observare, la promulgara dentro de 10s ocho dias de recibida y la hara publicar dentro de
+10s quince dias de la prornulgacion. Si la observare, la devolvera a la Camara de donde
+procedio, en el termino de ocho dias a contar de la fecha en que le fue enviada, si el asunto
+no fue declarado de urgencia, pues en este cas0 hara sus observaciones en el termino de tres
+dias. La Camara que hubiere recibido las observaciones las hara consignar en el orden del
+dia de la proxima sesion y discutira de nuevo la ley. Si despues de esta discusion, las dos
+terceras partes del numero total de 10s miembros de dicha Camara la aprobaren de nuevo,
+sera remitida a la otra Camara; y si esta la aprobare por igual mayoria, se considerara
+definitivamente ley. El Presidente de la Republica estara obligado a promulgar y publicar
+la ley en 10s plazos indicados.
+Pirrafo I.- Los proyectos de ley que quedaren pendientes en cualquiera de las dos Camaras
+a1 cerrarse la legislatura, deberan seguir 10s trimites constitucionales en la legislatura
+siguiente, hasta ser convertidos en ley o ser rechazados. Cuando esto no ocurriere asi, se
+tendra el proyecto como no iniciado.
+Pirrafo 11.- Todo proyecto de ley recibido en una Camara, despues de haber sido aprobado
+en la otra, sera fijado en el orden del dia.
+Art. 42.- Cuando fuere enviada una ley a1 Presidente de la Republica para su promulgacion
+y el tiempo que faltare para el termino de la legislatura fuere inferior a1 que se determina en
+el precedente articulo para observarla, seguira abierta la legislatura para conocer de las
+observaciones hasta el agotamiento de 10s plazos y del procedimiento establecido por el
+Articulo 41.
+Las leyes, despues de publicadas, son obligatorias para todos 10s habitantes de la
+Republica, si ha transcurrido el tiempo legal para que se reputen conocidas.
+Art. 43.- Los proyectos de ley rechazados en una Camara no podrin presentarse en la otra,
+ni nuevamente en ninguna de las dos, sino en la legislatura siguiente.
+Art. 44.- Las leyes se encabezarin asi: "El Congreso Nacional.
+En nombre de la
+Republica".
+Art. 45.- Las leyes, despues de promulgadas, se publicaran en la forma que por la ley se
+determine, y seran obligatorias una vez que hayan transcurrido 10s plazos indicados por la
+ley para que se reputen conocidas en cada parte del territorio nacional
+
+### Página 18 del PDF
+
+-18-
+Art. 46.- Son nulos de pleno derecho toda ley, decreto, resolucihn, reglamento o acto
+contrarios a esta Constitucihn.
+Art. 47.- La ley solo dispone y se aplica para lo porvenir. No tiene efecto retroactivo sino
+cuando sea favorable a1 que este sub-judice o cumpliendo condena. En ningh cas0 la ley
+ni poder publico alguno podran afectar o alterar la seguridad juridica derivada de
+situaciones establecidas conforme a una legislacihn anterior.
+Art. 48.- Las leyes relativas a1 orden publico, la policia, la seguridad y las buenas
+costumbres, obligan a todos 10s habitantes del territorio y no pueden ser derogadas por
+convenciones particulares.
+TITULO V
+SECCION I
+Del Poder Ejecutivo
+Art. 49.- El Poder Ejecutivo se ejerce por el Presidente de la Republica, quien sera elegido
+cada cuatro aiios por voto directo, no pudiendo ser electo para el periodo constitucional
+siguiente.
+Art. 50.- Para ser Presidente de la Republica se requiere:
+1.- Ser dominicano de nacimiento u origen
+2.- Haber cumplido 30 aiios de edad
+3.- Estar en pleno ejercicio de 10s derechos civiles y politicos,
+4.- No estar en servicio militar o policial activo, por lo menos durante el aiio que preceda a
+la eleccihn.
+Art. 51.- Habra un Vicepresidente de la Republica, que sera elegido en la misma forma y
+por igual periodo que el Presidente y conjuntamente con este. Para ser Vicepresidente de la
+Republica se requieren las mismas condiciones que para ser Presidente.
+Art. 52.- El Presidente y el Vicepresidente de la Republica electos en 10s comicios
+generales prestaran juramento de sus cargos el 16 de agosto siguiente a su eleccihn, fecha
+en que debera terminar el periodo de 10s salientes. Cuando el Presidente de la Republica
+electo no pudiere hacerlo por encontrarse fuera del pais o por enfermedad o por cualquier
+otra causa de fuerza mayor, ejercera las funciones de Presidente de la Republica
+interinamente el Vicepresidente de la Republica electo, y, a falta de este, el Presidente de la
+
+### Página 19 del PDF
+
+-19-
+Suprema Corte de Justicia
+Art. 53.- Si el Presidente de la Republica electo faltare definitivamente sin prestar
+juramento de su cargo, el Vicepresidente de la Republica electo lo sustituira y, a falta de
+este, se procedera en la forma indicada en el Articulo 60.
+Art. 54.- El Presidente y el Vicepresidente de la Republica, antes de entrar en funciones,
+prestaran ante la Asamblea Nacional o ante cualquier funcionario u oficial publico, el
+siguiente juramento:
+"Juro por Dios, por la Patria y por mi honor, cumplir y hacer cumplir la Constitucion y las
+leyes de la Republica, sostener y defender su independencia, respetar sus derechos y llenar
+fielmente 10s deberes de mi cargo".
+Art. 55.- El Presidente de la Republica es el jefe de la adrninistracion publica y el jefe
+supremo de toda las fuerzas armadas de la Republica y de 10s cuerpos policiales.
+Corresponde a1 Presidente de la Republica:
+1.- Nombrar 10s Secretarios y Subsecretarios de
+Estado y 10s demas funcionarios y
+empleados publicos cuyo nombramiento no se atribuya a ningun otro poder u organism0
+autonomo reconocido por esta Constitucion o por las leyes, aceptarles sus renuncias y
+removerlos.
+2.- Promulgar y hacer publicar las leyes y resoluciones del Congreso Nacional y cuidar de
+su fiel ejecucion. Expedir reglamentos, decretos e instrucciones cuando fuere necesario.
+3.- Velar por la buena recaudacion y fiel inversion de las rentas nacionales
+4.- Nombrar, con la aprobacion del Senado, 10s miembros del Cuerpo Diplomatico,
+aceptarles sus renuncias y removerlos.
+5.- Recibir a 10s jefes de Estado extranjeros y a sus representantes.
+6.- Presidir todos 10s actos solemnes de la Nacion, dirigir las negociaciones diplomaticas y
+celebrar tratados con las naciones extranjeras u organismos internacionales, debiendo
+someterlos a la aprobacion del Congreso, sin lo cual no tendran validez ni obligaran a la
+Republica.
+7.- En cas0 de alteracion de la paz publica, y si no se encontrare reunido el Congreso
+Nacional, decretar, donde aquella exista, el estado de sitio y suspender el ejercicio de 10s
+derechos que, segun el Articulo 37, Inciso 7 de esta Constitucion, se permite a1 Congreso
+suspender. Podra tambien, en cas0 de que la soberania nacional se encuentre en peligro
+grave e inminente, declarar el estado de emergencia nacional, con 10s efectos y requisitos
+indicados en el Inciso 8 del mismo articulo. En cas0 de calamidad publica podra, ademas,
+
+### Página 20 del PDF
+
+-20-
+decretar zonas de desastres aquellas en que se hubieren producidos daiios, ya sea a causa de
+meteoros, sismos, inundaciones o cualquier otro fenomeno de la naturaleza, asi como a
+consecuencia de epidemias.
+8.- En cas0 de violacion de las disposiciones contenidas en 10s Apartados a) y d) del Inciso
+10 del Articulo 8 de esta Constitucion, que perturben o amenacen perturbar el orden
+publico, la seguridad del Estado o el funcionamiento regular de 10s servicios publicos o de
+utilidad publica, o impidan el desenvolvimiento de las actividades economicas, el
+Presidente de la Republica adoptara las medidas provisionales de policia y seguridad
+necesarias para conjurar la emergencia, debiendo informar a1 Congreso de esa emergencia y
+de las medidas adoptadas.
+9.- Llenar interinamente las vacantes que ocurran entre 10s Jueces de la Suprema Corte de
+Justicia, de las Cortes de Apelacion, del Tribunal de Tierras, de 10s Juzgados de Primera
+Instancia, de 10s Jueces de Instruccion, de 10s Jueces de Paz, del Presidente y demas
+miembros de la Junta Central Electoral, asi como 10s miembros de la Cimara de Cuentas,
+cuando este en receso el Congreso, con la obligacion de informar a1 Senado de dichos
+nombramientos en la proxima legislatura para que este provea 10s definitivos.
+10.- Celebrar contratos, sometiendolos a la aprobacion del Congreso Nacional, cuando
+contengan disposiciones relativas a la afectacion de las rentas nacionales, a la enajenacion
+de inmuebles cuyo valor sea mayor de veinte mil pesos or0 o a1 levantamiento de
+emprestitos o cuando estipulen exenciones de impuestos en general, de acuerdo con el
+Articulo 110; sin tal aprobacion en 10s demas casos.
+11.- Cuando ocurran vacantes en 10s cargos de Regidores o Sindicos Municipales o del
+Distrito Nacional, y se haya agotado el numero de suplentes elegidos, el Poder Ejecutivo
+escogera el sustituto de la terna que le sometera el partido que postulo el Regidor o Sindico
+que origin0 la vacante. La terna debera ser sometida a1 Poder Ejecutivo dentro de 10s 15
+dias siguientes a1 de la ocurrencia de la vacante; de no ser sometida dicha terna en el
+indicado plazo, el Poder Ejecutivo hara la designacion correspondiente.
+12.- Expedir o negar patentes de navegacion.
+13.- Reglamentar cuanto convenga a1 servicio de las aduanas
+14.- Disponer, en todo tiempo, cuanto concierna a las Fuerzas Armadas de la Nacion,
+mandarlas por si mismo o por medio de la persona o personas que designe para hacerlo,
+conservando siempre su condicion de jefe supremo de las mismas; fijar el numero de dichas
+fuerzas y disponer de ellas para fines del servicio publico.
+15.- Tomar las medidas necesarias para proveer a la legitima defensa de la Nacion en cas0
+de ataque armado actual o inminente de parte de nacion extranjera, debiendo informar a1
+Congreso sobre las disposiciones asi adoptadas.
+
+### Página 21 del PDF
+
+-2 1
+16.- Hacer arrestar o expulsar a 10s extranjeros cuyas actividades, a su juicio, fueren o
+pudieren ser perjudiciales a1 orden publico o a las buenas costumbres.
+17.- Nombrar o revocar 10s Miembros de 10s Consejos de Guerra de las Fuerzas Armadas y
+de la Policia Nacional.
+18.- Disponer todo lo relativo a zonas aereas, maritimas, fluviales y militares
+19.- Determinar todo lo relativo a la habilitacion de puertos y costas maritimas
+20.- Prohibir, cuando lo estime conveniente a1 interes publico, la entrada de extranjeros en
+el territorio nacional.
+21.- Cambiar el lugar de su residencia oficial cuando lo juzgue necesario
+22.- Depositar ante el Congreso Nacional, a1 iniciarse la primera legislatura ordinaria el 27
+de febrero de cada aiio, un mensaje acompaiiado de las memorias de 10s Secretarios de
+Estado, en el cual dara cuenta de su adrninistracion del aiio anterior.
+23.- Someter a1 Congreso, durante la segunda legislatura ordinaria, el proyecto de
+Presupuesto de Ingresos y Ley de Gastos Publicos correspondiente a1 aiio siguiente.
+24.- Conceder o no autorizacion a 10s ciudadanos dominicanos para que puedan ejercer
+cargos o funciones publicas de un gobierno u organizaciones internacionales en territorio
+dominicano, y para que puedan aceptar y usar condecoraciones y titulos otorgados por
+gobiernos extranjeros.
+25.- Anular por decreto motivado 10s arbitrios establecidos por 10s ayuntamientos,
+26.- Autorizar o no a 10s ayuntamientos a enajenar inmuebles, y aprobar o no 10s contratos
+que hagan cuando constituyan en garantia inmuebles o rentas municipales.
+27.- Conceder indulto, total o parcial, puro y simple o condicional, en 10s dias 27 de
+febrero, 16 de agosto y 23 de diciembre de cada aiio, con arreglo a la ley.
+Art. 56.- El Presidente de la Republica no podra salir a1 extranjero por mas de quince dias
+sin autorizacion del Congreso.
+Art. 57.- El Presidente y el Vicepresidente de la Republica no podran renunciar sino ante la
+Asamblea Nacional.
+Art. 58.- En cas0 de falta temporal del Presidente de la Republica, despues de haber
+prestado juramento, ejercera el Poder Ejecutivo, mientras dure esa falta, el Vicepresidente
+de la Republica; y a falta de este, el Presidente de la Suprema Corte de Justicia.
+
+### Página 22 del PDF
+
+-22
+Art. 59.- En cas0 de falta definitiva del Presidente de la Republica, despues de haber
+prestado juramento, desempeiiara la Presidencia de la Republica por el tiempo que falte
+para la terminacihn del periodo, el Vicepresidente de la Republica.
+Art. 60.- En cas0 de que el Vicepresidente de la Republica faltare definitivamente, asumira
+el Poder Ejecutivo interinamente el Presidente de la Suprema Corte de Justicia, quien,
+dentro de 10s quince dias que sigan a la fecha de haber asumido estas funciones convocara a
+la Asamblea Nacional para que se reuna dentro de 10s quince dias siguientes y elija el
+sustituto definitivo, en una sesihn que no podra clausurarse ni declararse en receso, hasta
+haber realizado la eleccihn. En el cas0 de que, por cualquier circunstancia, no pudiere
+hacerse tal convocatoria, la Asamblea Nacional se reunira de pleno derecho,
+inmediatamente, para llevar a cab0 a la eleccihn en la forma arriba prevista.
+SECCION I1
+De 10s Secretarios de Estado
+Art. 61.- Para el despacho de 10s asuntos de la administracihn publica, habra las Secretarias
+de Estado que Sean creadas por la ley. Tambien podran crearse por la ley las Subsecretarias
+de Estado que se consideren necesarias, y que actuaran bajo la subordinacihn y
+dependencia del Secretario de Estado correspondiente.
+Para ser Secretario o Subsecretario de Estado se requiere ser dominicano en el pleno
+ejercicio de 10s derechos civiles y politicos y haber cumplido la edad de 25 aiios.
+Pirrafo.- Los naturalizados no podrin ser Secretarios ni Subsecretarios de Estado sino diez
+aiios despues de haber adquirido la nacionalidad.
+Art. 62.- La ley determinara las atribuciones de 10s Secretarios de Estado.
+TITULO VI
+SECCION I
+Del Poder Judicial
+Art. 63.- El Poder Judicial se ejerce por la Suprema Corte de Justicia y por 10s demas
+tribunales del orden judicial creados por esta Constitucihn y las leyes. Este poder gozara de
+autonomia administrativa y presupuestaria.
+Pirrafo I.- La ley reglamentara la carrera judicial y el regimen de jubilaciones y pensiones
+
+### Página 23 del PDF
+
+-23-
+de 10s jueces, funcionarios y empleados del orden judicial
+Pirrafo 11.- Los funcionarios del orden judicial no podran ejercer otro cargo o empleo
+publico, salvo lo que se dispone en el Articulo 108.
+Pirrafo 111.- Los jueces son inamovibles, sin perjuicio de lo dispuesto en el Acapite 5 del
+Articulo 67.
+P k a f o 1V.- Una vez vencido el period0 por el cual fue elegido un juez, permanecera en su
+cargo hasta que sea designado su sustituto.
+SECCION I1
+De la Suprema Corte de Justicia
+Art. 64.- La Suprema Corte de Justicia se compondra de, por lo menos, once jueces, per0
+podra reunirse, deliberar y fallar validamente con el quorum que determine la ley, la cual
+reglamentara su organizacion.
+Pirrafo I.- Los jueces de la Suprema Corte de Justicia seran designados por el Consejo
+Nacional de la Magistratura, el cual estara presidido por el Presidente de la Republica y, en
+ausencia de este, sera presidido por el Vicepresidente de la Republica, y a falta de ambos,
+lo presidira el Procurador General de la Republica. Los demas miembros seran:
+1.- El Presidente del Senado y un Senador escogido por el Senado que pertenezca a un
+partido diferente a1 partido del Presidente del Senado.
+2.- El Presidente de la Cimara de Diputados y un Diputado escogido por la Camara de
+Diputados que pertenezca a un partido diferente a1 partido del Presidente de la Camara de
+Diputados.
+3.- El Presidente de la Suprema Corte de Justicia
+4.- Un Magistrado de la Suprema Corte de Justicia escogido por ella misma, quien fungira
+de Secretario.
+Pirrafo 11.- A1 elegir 10s jueces de la Suprema Corte de Justicia, el Consejo Nacional de la
+Magistratura dispondra cual de ellos debera ocupar la presidencia y designara un primero y
+segundo sustitutos para reemplazar a1 Presidente en cas0 de falta o impedimento.
+Pirrafo 111.- En cas0 de cesacion de un juez investido con una de las calidades arriba
+expresadas, el Consejo Nacional de la Magistratura elegira un nuevo juez con la misma
+calidad o atribuira esta a otro de 10s jueces.
+
+### Página 24 del PDF
+
+-24-
+Art. 65.- Para ser Juez de la Suprema Corte de Justicia se requiere:
+1.- Ser dominicano por nacimiento u origen y tener mas de 35 aiios de edad.
+2.- Hallarse en el pleno ejercicio de 10s derechos civiles y politicos.
+3.- Ser licenciado o doctor en Derecho.
+4.- Haber ejercido durante, por lo menos, doce aiios la profesion de abogado; o haber
+desempeiiado, por igual tiempo, las funciones de Juez de una Corte de Apelacion, Juez de
+Primera Instancia o Juez del Tribunal de Tierras, o representante del Ministerio Publico
+ante dichos tribunales.
+Los periodos en que se hubiesen ejercido la abogacia y las
+funciones judiciales podran acumularse.
+Art. 66.- El Ministerio Publico ante la Suprema Corte de Justicia estara representado por el
+Procurador General de la Republica, personalmente o por medio de 10s sustitutos que la ley
+pueda crearle.
+Tendra la misma categoria que el Presidente de dicha Corte y las
+atribuciones que le confieren las leyes.
+Para ser Procurador General de la Republica se requieren las mismas condiciones que para
+ser Juez de la Suprema Corte de Justicia.
+Art. 67.- Corresponde exclusivamente a la Suprema Corte de Justicia, sin perjuicio de las
+demas atribuciones que le confiere la ley:
+1.- Conocer en unica instancia de las causas penales seguidas a1 Presidente y a1
+Vicepresidente de la Republica, a 10s Senadores, Diputados, Secretarios de Estado,
+Subsecretarios de Estado, Jueces de la Suprema Corte de Justicia, Procurador General de la
+Republica, Jueces y Procuradores Generales de las Cortes de Apelacion, Abogado del
+Estado ante el Tribunal de Tierras, Jueces del Tribunal Superior de Tierras, a 10s miembros
+del Cuerpo Diplomatico, de la Junta Central Electoral, de la Camara de Cuentas y 10s
+Jueces del Tribunal Contencioso Tributario; y de la constitucionalidad de las leyes, a
+instancias del Poder Ejecutivo, de uno de 10s Presidentes de las Camaras del Congreso
+Nacional o de parte interesada.
+2.- Conocer de 10s recursos de casacion de conformidad con la ley.
+3.- Conocer, en ultimo recurso de las causas cuyo conocimiento en primera instancia
+competa a las Cortes de Apelacion.
+4.- Elegir 10s Jueces de las Cortes de Apelacion, del Tribunal de Tierras, de 10s Juzgados de
+Primera Instancia, 10s Jueces de Instruccion, 10s Jueces de Paz y sus suplentes, 10s Jueces
+del Tribunal Contencioso Tributario y 10s Jueces de cualesquier otros tribunales del orden
+judicial creados por la ley, de conformidad a lo establecido en la Ley de Carrera Judicial.
+
+### Página 25 del PDF
+
+-25-
+5.- Ejercer la mis alta autoridad disciplinaria sobre todos 10s miembros del Poder Judicial,
+pudiendo imponer hasta la suspension o destitucion en la forma que determine la ley.
+6.- Trasladar provisional o definitivamente, de una jurisdiccion a otra, cuando lo juzgue
+util, 10s Jueces de las Cortes de Apelacion, 10s Jueces de Primera Instancia, 10s Jueces de
+Jurisdiccion Original del Tribunal de Tierras, 10s Jueces de Instruccion, 10s Jueces de Paz y
+10s demas jueces de 10s tribunales que fueren creados por la ley.
+Crear 10s cargos administrativos que Sean necesarios para que el Poder Judicial pueda
+cumplir cabalmente las atribuciones que le confiere esta Constitucion y las leyes.
+8.- Nombrar todos 10s funcionarios y empleados que dependan del Poder Judicial.
+9.- Fijar 10s sueldos y demas remuneraciones de 10s jueces y del personal administrativo
+perteneciente a1 Poder Judicial.
+SECCION I11
+De las Cortes de Apelacion
+Art. 68.- Habra, por lo menos, nueve Cortes de Apelacion para toda la Republica. El
+numero de jueces que deben componerlas, asi como 10s Distritos Judiciales que a cada
+Corte correspondan, se determinarin por la ley.
+Pirrafo I.- A1 elegir 10s Jueces de las Cortes de Apelacion, la Suprema Corte de Justicia
+dispondra cual de ellos debera ocupar la Presidencia, y designara un primer0 y segundo
+sustitutos para reemplazar a1 Presidente en cas0 de falta o impedimento.
+Pirrafo 11.- En cas0 de cesacion de un juez investido con una de las calidades arriba
+expresada, la Suprema Corte de Justicia elegira un nuevo juez con la misma calidad o
+atribuira esta a otro de 10s jueces.
+Art. 69.- Para ser juez de una Corte de Apelacion se requiere:
+1.- Ser dominicano.
+2.- Hallarse en el pleno ejercicio de 10s derechos civiles y politicos.
+3.- Ser licenciado o doctor en Derecho.
+4.- Haber ejercido durante cuatro aiios la profesion de abogado, o haber desempeiiado por
+igual tiempo, las funciones de Juez de Primera Instancia, de representante del Ministerio
+
+### Página 26 del PDF
+
+-26-
+Publico ante 10s tribunales o de Juez de Jurisdiccion Original del Tribunal de Tierras. Los
+periodos en que se hubiesen ejercido la abogacia y las funciones judiciales podrin
+acumularse .
+Art. 70.- El Ministerio Publico esta representado en cada Corte de Apelacion por un
+Procurador General, o por 10s sustitutos que la ley pueda crearle, todos 10s cuales deberan
+reunir las mismas condiciones que 10s jueces de esas Cortes.
+Art. 71.- Son atribuciones de las Cortes de Apelacion:
+1.- Conocer de las apelaciones de las sentencias dictadas por 10s Juzgados de Primera
+Instancia.
+2.- Conocer en primera instancia de las causas penales seguidas a 10s Jueces de Primera
+Instancia, Jueces de Jurisdiccion Original del Tribunal de Tierras, Jueces de Instruccion,
+Procuradores Fiscales y Gobernadores Provinciales.
+3.- Conocer de 10s demas asuntos que determinen las leyes.
+SECCION IV
+Del Tribunal de Tierras
+Art. 72.- Las atribuciones del Tribunal de Tierras estaran determinadas por la ley,
+Pirrafo.- Para ser Presidente o Juez del Tribunal Superior de Tierras se requieren las
+mismas condiciones que para ser Juez de una Corte de Apelacion, y para desempeiiar el
+cargo de Juez de Jurisdiccion Original, las mismas condiciones que para ser Juez de
+Primera Instancia.
+SECCION V
+De 10s Juzgados de Primera Instancia
+Art. 73.- En cada Distrito Judicial habra un Juzgado de Primera Instancia, con las
+atribuciones que le confiere la ley.
+Pirrafo.- La ley determinara el numero de 10s Distritos Judiciales, el numero de 10s jueces
+de que deben componerse 10s Juzgados de Primera Instancia, asi como el numero de
+camaras en que estos puedan dividirse.
+Art. 74.- Para ser Juez de Primera Instancia se requiere ser dominicano, hallarse en el pleno
+
+### Página 27 del PDF
+
+-27
+ejercicio de 10s derechos civiles y politicos, ser licenciado o doctor en Derecho, y haber
+ejercido la profesihn de abogado durante dos aiios o haber desempeiiado por igual tiempo
+las funciones de Juez de Paz o de Fiscalizador.
+Art. 75.- Para ser Procurador Fiscal o Juez de Instruccihn se requieren las mismas
+condiciones exigidas para ser Juez de Primera Instancia.
+SECCION VI
+De 10s Juzgados de Paz
+Art. 76.- En el Distrito Nacional y en cada municipio habra 10s Juzgados de Paz que fueren
+necesarios de acuerdo con la ley.
+Art. 77.- Para ser Juez de Paz o Fiscalizador o suplente de uno u otro, se requiere ser
+dominicano, ser abogado y estar en pleno ejercicio de 10s derechos civiles y politicos.
+Tendran las atribuciones que determine la ley.
+No sera necesaria la condicihn de abogado para desempeiiar las antes dichas funciones en
+10s municipios donde no sea posible elegir o designar abogados para las mismas, except0
+en el Distrito Nacional y en 10s municipios cabeceras de provincias donde estas funciones
+deberan ser desempeiiadas por abogados.
+TITULO VI1
+De la Camara de Cuentas
+Art. 78.- Habra una Camara de Cuentas permanente compuesta de cinco miembros por lo
+menos, elegidos por el Senado de las ternas que le presente el Poder Ejecutivo.
+Pirrafo.- La Camara de Cuentas tendra caracter principalmente tecnico.
+Art. 79.- Sus atribuciones serin, ademas de las que le confiere la ley:
+1.- Examinar las cuentas generales y particulares de la Republica.
+2.- Presentar a1 Congreso en la primera legislatura ordinaria de cada aiio el informe
+respecto de las cuentas del aiio anterior.
+Art. 80.- Los miembros de la Cimara de Cuentas duraran cuatro aiios en sus funciones.
+
+### Página 28 del PDF
+
+-28-
+Art. 81.- Para ser miembro de la Cimara de Cuentas se requiere ser dominicano en el pleno
+ejercicio de 10s derechos civiles y politicos, haber cumplido la edad de 25 aiios y ser doctor
+o licenciado en Derecho, licenciado en Finanzas, o Contador Publico Autorizado. La ley
+determinara las demas condiciones para ser miembro de dicho organismo.
+TITULO VI11
+Del Distrito Nacional y de 10s Municipios
+Art. 82.- El Gobierno del Distrito Nacional y el de 10s municipios estaran cada uno a cargo
+de un ayuntamiento, cuyos regidores, asi como sus suplentes, en el numero que sera
+determinado por la ley proporcionalmente a1 de habitantes, sin que en ningun cas0 puedan
+ser menos de cinco, seran elegidos, a1 igual que el Sindico del Distrito Nacional y de 10s
+Sindicos Municipales y sus suplentes, por el pueblo de dicho Distrito y de 10s municipios,
+respectivamente, cada cuatro aiios, en la forma que determinen la Constitucihn y las Leyes,
+mediante candidaturas que podran ser propuestas por partidos politicos o por agrupaciones
+politicas, regionales, provinciales o municipales.
+Art. 83.- Los ayuntamientos asi como 10s Sindicos, son independientes en el ejercicio de
+sus funciones, con las restricciones y limitaciones que establezcan la Constitucihn y las
+leyes, las cuales determinaran sus atribuciones, facultades y deberes.
+Art. 84.- La ley determinara las condiciones para ejercer 10s cargos indicados en 10s
+Articulos 82 y 83. Los extranjeros mayores de edad podran desempeiiar dichos cargos en
+las condiciones que prescriba la ley, siempre que tengan residencia de mas de diez aiios en
+la jurisdiccihn correspondiente.
+Art. 85.- Tanto en la formulacihn como en la ejecucihn de sus presupuestos, 10s
+ayuntamientos estaran obligados a mantener las apropiaciones y las erogaciones destinadas
+a cada clase de atenciones y servicios. Los ayuntamientos podran, con la aprobacihn que la
+ley requiera, establecer arbitrios, siempre que estos no colindan con 10s impuestos
+nacionales, con el comercio intermunicipal o de exportacihn, ni con la Constitucihn o las
+leyes.
+TITULO IX
+Del Rkgimen de las Provincias
+Art. 86.- Habra en cada provincia un Gobernador Civil, designado por el Poder Ejecutivo.
+Pirrafo.- Para ser Gobernador se requiere ser dominicano, mayor de veinticinco aiios de
+edad y estar en el pleno ejercicio de 10s derechos civiles y politicos.
+
+### Página 29 del PDF
+
+-29-
+Art. 87.- La organizacihn y regimen de las provincias, asi como las atribuciones y deberes
+de 10s Gobernadores Civiles, seran determinados por la ley.
+TITULO X
+De las Asambleas Electorales
+Art. 88.- Es obligatorio para todos 10s ciudadanos ejercer el sufragio.
+El voto sera personal, libre y secreto.
+No podran votar:
+1.- Los que hayan perdido 10s derechos de ciudadania y aquellos a quienes se les hayan
+suspendido tales derechos, por virtud de 10s Articulos 14 y 15 de esta Constitucihn.
+2.- Los pertenecientes alas fuerzas armadas y cuerpos de policia.
+Art. 89.- Las Asambleas Electorales se reuniran de pleno derecho el 16 de mayo de cada
+cuatro aiios para elegir el Presidente y Vicepresidente de la Republica; asimismo para
+elegir 10s demas funcionarios electivos, mediando dos aiios entre ambas elecciones. En 10s
+casos de convocatoria extraordinaria, se reuniran a mis tardar sesenta dias despues de la
+publicacihn de la ley de convocatoria.
+Pirrafo.- Las Asambleas Electorales funcionaran en Colegios Electorales cerrados, 10s
+cuales seran organizados conforme a la ley.
+Art. 90.- Corresponde a las Asambleas Electorales elegir a1 Presidente y a1 Vicepresidente
+de la Republica, 10s Senadores y 10s Diputados, 10s Regidores de 10s Ayuntamientos y sus
+suplentes, el Sindico del Distrito Nacional y 10s Sindicos Municipales y sus suplentes, asi
+como cualquier otro funcionario que se determine por la ley.
+Pirrafo.- Cuando en las elecciones celebradas para elegir a1 Presidente y Vicepresidente de
+la Republica, ninguna de las candidaturas obtenga la mayoria absoluta de 10s votos validos
+emitidos, se efectuara una segunda eleccihn cuarenta y cinco dias despues de celebrada la
+primera. En esta ultima eleccihn participarin unicamente las dos candidaturas que hayan
+obtenido mayor numero de votos en la primera eleccihn.
+Art. 91.- Las elecciones se haran s e g h las normas que seiiale la ley, por voto direct0 y
+secreto, y con representacihn de las minorias cuando haya de elegirse dos o mas candidatos.
+Art. 92.- Las elecciones seran dirigidas por una Junta Central Electoral y por juntas
+dependientes de esta, las cuales tienen facultad para juzgar y reglamentar de acuerdo con la
+ley.
+
+### Página 30 del PDF
+
+-30-
+Pirrafo.- Para 10s fines de este articulo, la Junta Central Electoral asumira la direccihn y el
+mando de la fuerza publica en 10s lugares en donde dichas votaciones se verifiquen.
+TITULO XI
+De las Fuenas Armadas
+Art. 93.- Las Fuerzas Armadas son esencialmente obedientes y apoliticas y no tienen, en
+ningh caso, facultad para deliberar. El objeto de su creacihn es defender la independencia
+e integridad de la Republica, mantener el orden publico y sostener la Constitucihn y las
+leyes. Podran intervenir, cuando asi lo solicite el Poder Ejecutivo, en programas de accihn
+civica y en planes destinados a promover el desarrollo social y econhmico del pais.
+Art. 94.- Las condiciones para que un ciudadano pueda ser miembro de las Fuerzas
+Armadas estin contenidas en la ley de su creacihn.
+TITULO XI1
+Disposiciones Generales
+Art. 95.- La bandera nacional se compone de 10s colores azul ultramar y rojo bermellhn, en
+cuarteles alternados, colocados de tal modo que el azul quede hacia la parte superior del
+asta, separados por una cruz blanca del ancho de la mitad de la altura de un cuartel, y que
+lleve en el centro el escudo de armas de la Republica. La bandera mercante es la misma
+que la nacional sin escudo.
+Art. 96.- El escudo de armas de la Republica tendra 10s mismos colores de la bandera
+nacional dispuestos en igual forma. Llevara en el centro el libro de 10s Evangelios, abierto,
+con una cruz encima, surgiendo ambos entre un trofeo integrado por dos lanzas y cuatro
+banderas nacionales, sin escudo, dispuestas a ambos lados; llevara un ram0 de laurel del
+lado izquierdo y uno de palma a1 lado derecho; estara coronado por una cinta azul ultramar
+en la cual se leera el lema: Dios, Patria, y Libertad, y en la base habra otra cinta de color
+rojo bermellhn con las palabras: Republica Dominicana. La forma del escudo nacional sera
+de un cuadrilongo, con 10s angulos superiores salientes y 10s inferiores redondeados, el
+centro de cuya base terminara en punta, y estara dispuesto en forma tal que si se traza una
+linea horizontal que una las dos verticales del cuadrilongo desde donde comienzan 10s
+angulos inferiores, resulte un cuadrado perfecto.
+Pirrafo.- La ley reglamentara el us0 y dimensiones de la bandera y del escudo nacionales.
+Art. 97.- El Himno Nacional es la composicihn musical consagrada por la Ley No.700, de
+
+### Página 31 del PDF
+
+-3 1
+fecha 30 de mayo de 1934, y es invariable, unico y eterno
+Art. 98.- Los dias 27 de febrero y 16 de agosto, aniversarios de la Independencia y la
+Restauracion de la Republica, respectivamente, son de Fiesta Nacional.
+Art. 99.- Toda autoridad usurpada es ineficaz y sus actos son nulos.
+acordada por la requisicion de la fuerza armada es nula.
+Art. 100.- La Republica condena todo privilegio y toda situacion que tienda a quebrantar la
+igualdad de todos 10s dominicanos, entre 10s cuales no deben contar otras diferencias que
+las que resulten de 10s talentos o de las virtudes y en consecuencia, ninguna entidad de la
+Republica podra conceder titulos de nobleza ni distinciones hereditarias.
+Art. 101.- Toda la riqueza artistica e historica del pais, sea quien fuere su dueiio, formara
+parte del patrimonio cultural de la Nacion y estara bajo la salvaguarda del Estado. La ley
+establecera cuanto sea oportuno para su conservacion y defensa.
+Art. 102.- Sera sancionado con las penas que la ley determine, todo aquel que, para su
+provecho personal, sustraiga fondos publicos o prevaleciendose de sus posiciones dentro de
+10s organismos del Estado, sus dependencias o instituciones autonomas, obtenga provechos
+economicos. Seran igualmente sancionadas las personas que hayan proporcionado ventajas
+a sus asociados, familiares, allegados, amigos o relacionados. Nadie podra ser penalmente
+responsable por el hecho de otro ni en estos casos ni en cualquier otro.
+Art. 103.- Los yacimientos mineros pertenecen a1 Estado y solo podrin ser explotados por
+particulares en virtud de las concesiones o 10s contratos que se otorguen en las condiciones
+que determine la ley.
+Art. 104.- Es libre la organizacion de partidos y asociaciones politicas de acuerdo con la
+ley, siempre que sus tendencias se conformen a 10s principios establecidos en esta
+Constitucion.
+Toda decision
+Art. 105.- Sin perjuicio de lo dispuesto por el Articulo 23, Inciso 5, de esta Constitucion, el
+Presidente y Vicepresidente de la Republica electos o en funciones no podrin ser privados
+de su libertad antes o durante el periodo de su ejercicio.
+Art. 106.- La persona designada para ejercer una funcion publica debera prestar juramento
+de respetar la Constitucion y las leyes, y de desempeiiar fielmente su cometido. Este
+juramento se prestara ante cualquier funcionario u oficial publico.
+Art. 107.- El ejercicio de todos 10s funcionarios electivos, sea cual fuere la fecha de su
+eleccion, terminara el 16 de agosto de cada cuatro aiios, fecha en que se inicia el
+correspondiente periodo constitucional.
+Pirraf0.- I.- Cuando un funcionario electivo cualquiera cese en el ejercicio del cargo por
+
+### Página 32 del PDF
+
+-32
+muerte, renuncia, destitucion, inhabilitacion u otra causa, el que lo sustituya permanecera
+en el ejercicio hasta completar el periodo.
+Pirrafo.- 11.- Una vez vencido el periodo para el cual fueron designados 10s miembros de la
+Camara de Cuentas y el Presidente y demis miembros de la Junta Central Electoral,
+permaneceran en sus cargos hasta que el Senado haga las nuevas designaciones para el
+periodo que se inicie.
+Art. 108.- Ninguna funcion o cargo publico a que se refieren esta Constitucion y las leyes,
+seran incompatibles con cargos honorificos y 10s docentes, sin perjuicio del Articulo 18.
+Art. 109.- La justicia se administrara gratuitamente en todo el territorio de la Republica.
+Art. 110.- No se reconocera ninguna exencion, ni se otorgara ninguna exoneracion,
+reduccion o lirnitacion de impuestos, contribuciones o derechos fiscales o municipales, en
+beneficio de particulares, sino por virtud de la ley. Sin embargo, 10s particulares pueden
+adquirir, mediante concesiones que autorice la ley, o mediante contratos que aprueba el
+Congreso Nacional, el derecho irrevocable de beneficiarse, por todo el tiempo que estipule
+la concesion o el contrato, y cumpliendo con las obligaciones que la una y el otro les
+impongan, de exenciones, exoneraciones, reducciones o limitaciones de impuestos,
+contribuciones o derechos fiscales o municipales incidentes en determinadas obras o
+empresas de utilidad publica o en determinadas obras o empresas hacia las que convenga
+atraer, para el foment0 de la economia nacional, o para cualquier otro objeto de interes
+social, la inversion de nuevos capitales.
+Art. 11 1.- La unidad monetaria nacional es el peso oro.
+Pirrafo I.- Solo tendran circulacion legal y fuerza liberatoria 10s billetes emitidos por una
+entidad emisora unica y autonoma, cuyo capital sea de la propiedad del Estado, siempre
+que esten totalmente respaldados por reservas en or0 y por otros valores reales y efectivos,
+en las proporciones y condiciones que seiiale la ley y bajo la garantia ilimitada del Estado.
+Pirrafo 11.- Las monedas metalicas seran emitidas a nombre del Estado por rnediacion de la
+misma entidad emisora, y se pondran en circulacion solo en reemplazo de un valor
+equivalente de billetes. La fuerza liberatoria de las monedas metalicas en curso y de las
+que se emitieren en lo adelante sera determinada por la ley.
+Pirrafo 111.- La regulacion del sistema monetario y bancario de la Nacion correspondera a
+la entidad emisora, cuyo organo superior sera una Junta Monetaria, compuesta de
+miembros que seran designados y solo podran ser removidos de acuerdo con la ley, y
+responderan del fie1 cumplimiento de sus funciones de conformidad con las normas
+establecidas en la misma.
+Pirrafo 1V.- Queda prohibida la emision o la circulacion de papel moneda, asi como de
+cualquier otro sign0 monetario no autorizado por esta Constitucion, ya sea por el Estado o
+
+### Página 33 del PDF
+
+-33-
+por cualquier otra persona o entidad publica o privada,
+Art. 112.- Toda modificacihn en el regimen legal de la moneda o de la banca requerira el
+apoyo de 10s dos tercios de la totalidad de 10s miembros de una y otra Camara, a menos que
+haya sido iniciada por el Poder Ejecutivo a propuesta de la Junta Monetaria o con el voto
+favorable de esta.
+Art. 113.- Ninguna erogacihn de fondos publicos sera valida, sino estuviere autorizada por
+la ley y ordenada por funcionario competente.
+Art. 114.- Anualmente, en el mes de abril, se publicara la cuenta general de 10s ingresos y
+egresos de la Republica hechos en el aiio anterior.
+Art. 115.- La Ley de Gastos Publicos se dividira en capitulos que correspondan a 10s
+diferentes ramos de la administracihn y no podran trasladarse sumas de un capitulo a otro ni
+de una partida presupuestaria a otra, sino en virtud de una ley. Esta ley, cuando no sea
+iniciada por el Poder Ejecutivo, debera tener el voto de las dos terceras partes de la
+totalidad de 10s miembros de cada Camara.
+Pirrafo I.- No tendra efecto ni validez ninguna ley que ordene o autorice un pago o
+engendre una obligacihn pecuniaria a cargo del Estado, sino cuando esa misma ley Cree
+fondos especiales para su ejecucihn o disponga que el pago se haga de las entradas
+calculadas del aiio, y de estas quede en el momento de la publicacihn de la ley una
+proporcihn disponible suficiente para hacerlo.
+Pirrafo 11.- El Congreso no podra votar validamente ninguna erogacihn, a menos que este
+incluida en el proyecto de Ley de Gastos Publicos sometido por el Poder Ejecutivo, en
+virtud del Articulo 55 de esta Constitucihn, o que sea solicitada por el Poder Ejecutivo
+despues de haber enviado dicho proyecto, sino en el cas0 de que la ley que ordene esa
+erogacihn haya sido apoyada por las dos terceras partes de la totalidad de 10s miembros de
+cada Camara; y todo sin derogacihn de la regla general establecida en el parrafo primero
+del presente articulo.
+Pirrafo 111.- El Congreso no podra modificar las partidas que figuren en 10s proyectos de
+ley que eroguen fondos o en la Ley de Gastos Publicos sometidos por el Poder Ejecutivo,
+sino con el voto de las dos terceras partes de la totalidad de 10s miembros de cada Camara;
+y de acuerdo con las disposiciones contenidas en el parrafo primero de este articulo. El
+Congreso podra, sin embargo, modificar las referidas partidas con la mayoria ordinaria
+cuando sea a iniciativa del Poder Ejecutivo.
+Pirrafo 1V.- Cuando por cualquier circunstancia el Congreso cierre la legislatura sin haber
+votado el Presupuesto de Ingresos y Ley de Gastos Publicos, continuara rigiendo la Ley de
+Gastos Publicos del aiio anterior.
+P k a f o V.- Cuando el Congreso este en receso, el Poder Ejecutivo podra disponer, por
+
+### Página 34 del PDF
+
+-34-
+medio de decreto, 10s traslados o transferencias de sumas dentro de la Ley de Gastos
+Publicos que exijan las necesidades urgentes del servicio administrativo, asi como las
+creaciones o supresiones de cargos administrativos o servicios publicos que afecten aquella
+ley, con la obligacihn de someter a1 Congreso en la proxima legislatura, para su aprobacihn,
+las referidas disposiciones. Podra, asimismo, en el cas0 previsto por este parrafo, del
+mismo modo, erogar 10s fondos necesarios para atender gastos de la administracihn
+publica, dando cuenta a1 Congreso cuando este se reuna.
+TITULO XI11
+De las Reformas Constitucionales
+Art. 116.- Esta Constitucihn podra ser reformada si la proposicihn de reforma se presenta
+en el Congreso Nacional con el apoyo de la tercera parte de 10s miembros de una u otra
+Camara, o si es sometida por el Poder Ejecutivo.
+Art. 117.- La necesidad de la reforma se declarara por una ley. Esta ley, que no podra ser
+observada por el Poder Ejecutivo, ordenara la reunion de la Asamblea Nacional,
+determinara el objeto de la reforma e indicara 10s articulos de la Constitucihn sobre 10s
+cuales versara.
+Art. 118.- Para resolver acerca de las reformas propuestas, la Asamblea Nacional se reunira
+dentro de 10s quince dias siguientes a la publicacihn de la ley que declare la necesidad de la
+reforma, con la presencia de mas de la mitad de 10s miembros de cada una de las Camaras.
+una vez votadas y proclamadas las reformas por la Asamblea Nacional, la Constitucihn sera
+publicada integramente con 10s textos reformados.
+Por excepcihn de lo dispuesto en el Articulo 27, las decisiones se tomaran en este cas0 por
+la mayoria de las dos terceras partes de 10s votos.
+Art. 119.- Ninguna reforma podra versar sobre la forma de gobierno, que debera ser
+siempre civil, republicano, democratico y representativo.
+Art. 120.- La reforma de la Constitucihn solo podra hacerse en la forma que indica ella
+misma, y no podra jamas ser suspendida ni anulada por ningun poder ni autoridad ni
+tampoco por aclamaciones populares.
+TITULO XIV
+Disposiciones Transitorias.
+
+### Página 35 del PDF
+
+-35-
+Art. 121.- El period0 presidencial que se inicia el 16 de agosto de 1994 concluira, por
+excepcion, el 16 de agosto de 1996.
+Art. 122.- Las proximas elecciones presidenciales seran celebradas el 16 de mayo de 1996
+y el Presidente y el Vicepresidente de la Republica electos asumiran sus funciones el 16 de
+agosto de 1996. Las proximas elecciones congresionales y municipales tendran lugar el 16
+de mayo del 1998 y 10s funcionarios que resulten electos asumiran sus cargos el 16 de
+agosto de 1998.
+DADA Y PROCLAMADA en la ciudad de Santo Domingo de Guzman, Capital de la
+Republica Dominicana, en el Palacio del Congreso Nacional, sito en el Centro de 10s
+Heroes de Constanza, Maimon y Estero Hondo, hoy dia catorce del mes de agosto del aiio
+mil novecientos noventa y cuatro; aiio 151 de la Independencia y 13 1 de la Restauracion.
+EL PRESIDENTE DE LA ASAMBLEA EMISORA:
+Ing. Jose Osvaldo Leger Aquino
+Representante de la provincia de San Cristobal
+EL VICEPRESIDENTE:
+Lic. Norge Botello
+Representante por el Distrito Nacional
+LOS SECRETARIOS:
+Amable Aristy Castro
+Representante de la provincia La Altagracia
+Luis Angel Jazmin
+Representante de la provincia de Samana
+Zoila Teresita de Jesus Navarro de la Rosa
+Representante de la provincia de Monte Cristi
+Eunice Josefina Jimeno de Nuiiez
+Representante de la provincia de Santiago Rodriguez
+MIEMBROS:
+Carlos Albert0 Amarante Baret
+
+### Página 36 del PDF
+
+-36-
+Representante de la provincia Espaillat
+Luis Albert0 Antonio Garcia
+Representante de la provincia de Sanchez Ramirez
+Gerard0 Apolinar Aquino Alvarez
+Representante de la provincia de El Seybo
+Ricardo Barcelo
+Representante de la provincia de Hator Mayor
+Oscar S. Batista Garcia
+Representante de la provincia Monseiior Nouel
+Hector R. Capellan Conde
+Representante de la provincia de
+Maria Trinidad Sanchez
+Juan Octavio Ceballos Castillo
+Representante de la provincia Duarte
+Quirino Escoto
+Representante de la provincia de Dajabon
+Dioscorides Espinal Nuiiez
+Representante de la provincia de Santiago Rodriguez
+August0 Feliz Matos
+Representante de la provincia de Barahona
+Antonio Feliz Perez
+Representante de la provincia de Pedernales
+Jaime David Fernindez Mirabal
+Representante de la provincia de Salcedo
+Luis Jose Gonzalez Sanchez
+Representante de la provincia de Bahoruco
+Wilton B. Guerrero Dume
+Representante de la provincia Peravia
+Oriol Antonio Guerrero Soto
+Representante de la provincia de
+San Juan de la Maguana
+
+### Página 37 del PDF
+
+-37-
+Antonio E. Ramon Mateo Reyes
+Representante de la provincia de Valverde
+Jacinto Peynado Garrigosa
+Representante del Distrito Nacional
+Maximiliano Rabelais Puig Miller
+Representante de la provincia de Puerto Plata
+Hector Rodriguez Pimentel
+Representante de la provincia Monte Cristi
+Messin Sarraf Eder
+Representante de la provincia Independencia
+Manuel Ramon Ventura Camejo
+Representante de la provincia de Santiago
+Porfirio Veras Mercedes
+Representante de la provincia de La Vega
+Florentino Carvajal Suero
+Representante de la provincia de Elias Piiia
+Milagros Milqueya Diaz de Arriba
+Representante del Distrito Nacional
+Bienvenida Mercado
+Representante del Distrito Nacional
+Jose Altagracia Espaillat Guzman
+Representante del Distrito Nacional
+Fernando Guante Garcia
+Representante del Distrito Nacional
+Modesto Guzman Valerio
+Representante del Distrito Nacional
+Gema Garcia Hernandez
+Representante del Distrito Nacional
+Juan Esteban Olivero Feliz
+Representante del Distrito Nacional
+
+### Página 38 del PDF
+
+-38-
+Aristides Fernandez Zucco
+Representante del Distrito Nacional
+Antonio Morel
+Representante del Distrito Nacional
+Luis Emilio Reyes Ozuna
+Representante del Distrito Nacional
+Danilo Medina Sanchez
+Representante del Distrito Nacional
+Ramon Andres Blanco Fernindez
+Representante del Distrito Nacional
+Juan Ducoudray
+Representante del Distrito Nacional
+Gladys Gutierrez
+Representante del Distrito Nacional
+Luis Inchaustegui
+Representante del Distrito Nacional
+Ramon Ricardo Sanchez de la Rosa
+Representante de la provincia de La Altagracia
+Ramon Guilamo Alfonso
+Representante de la provincia de La Altagracia
+Wenceslao Salomon Paniagua
+Representante de la provincia de Azua
+Luis A. Melo Matos
+Representante de la provincia de Azua
+Manuel Reyes Santana
+Representante de la provincia de Bahoruco
+Cesar Francisco Feliz y Feliz
+Representante de la provincia de Barahona
+Julio Sterling Piiia
+Representante de la provincia de Barahona
+
+### Página 39 del PDF
+
+-39-
+Ramona Germania Nuiiez Diaz
+Representante de la provincia de Dajabon
+Vinicio Alfonso Tobal Ureiia
+Representante de la provincia Duarte
+Mario Fernandez Saviiion
+Representante de la provincia Duarte
+Enrique Santos
+Representante de la provincia Duarte
+Mario Antigua Cepeda
+Representante de la provincia Duarte
+Miguel Angel Gonzalez Valenzuela
+Representante de la provincia de Elias Piiia
+Rafael Anibal Perez Morales
+Representante de la provincia Espaillat
+Fidencio Antonio Carela Polanco
+Representante de la provincia Espaillat
+Nurys Garcia de Pappaterra
+Representante de la provincia Hato Mayor
+Andres Peguero Santana
+Representante de la provincia Hato Mayor
+Miriam Mendez de Piiieyro
+Representante de la provincia Independencia
+Rafael Antonio Sosa Villa
+Representante de la provincia Maria Trinidad Sanchez
+Alcibiades Perez
+Representante de la provincia Monseiior Nouel
+Carmen Leyda Mora de Rosario
+Representante de la provincia de Monte Plata
+Jose Tatis Gomez
+Representante de la provincia de Monte Cristi
+
+### Página 40 del PDF
+
+-40-
+Luis German Lora
+Representante de la provincia de Pedernales
+Narciso Bienvenido Montero Gomez
+Representante de la provincia de Peravia
+Flavio Ramon Figueroa Mejia
+Representante de la provincia de Peravia
+Rene August0 Merette Thomas
+Representante de la provincia de Puerto Plata
+Oscar Capellan Bodden
+Representante de la provincia de Puerto Plata
+Raymundo Felix Perez
+Representante de la provincia de Puerto Plata
+Antonio B. Pice1 Cabral
+Representante de la provincia de La Romana
+Francisco Jose Torres Alvarez
+Representante de la provincia de La Romana
+Juan Francisco Vasquez Cruz
+Representante de la provincia de Salcedo
+Ramon Medina Quezada
+Representante de la provincia de Salcedo
+Jose Simon Espino Aquino
+Representante de la provincia de Samana
+Luis Eduardo Puello Dominguez
+Representante de la provincia de San Cristobal
+Nelly Asuncion Perez Duverge
+Representante de la provincia de San Cristobal
+Hector Rene Gonzalez Rodriguez
+Representante de la provincia de San Cristobal
+Melanio A. Paredes Pinales
+Representante de la provincia de San Cristobal
+
+### Página 41 del PDF
+
+-41-
+Salvador Eliseo Cabrera Benzant
+Representante de la provincia de San Cristobal
+Manuel Odalis Mejia Arias
+Representante de la provincia de
+San Juan de la Maguana
+Nehemia Canio Rodriguez Quezada
+Representante de la provincia de
+San Juan de la Maguana
+Justo Lebron
+Representante de la provincia de
+San Juan de la Maguana
+Arismendy Bautista Ramirez
+Representante de la provincia de
+San Juan de la Maguana
+Rafaela 0. Alburquerque
+Representante de la provincia de
+San Pedro de Macoris
+Rafael Molina Lluberes
+Representante de la provincia Sinchez Ramirez
+Adalberto Esteban Rosa Hernandez
+Representante de la provincia de Santiago
+Mariti0 Collante Gomez
+Representante de la provincia de Santiago
+Conrad0 Leoncio Matias Vasquez
+Representante de la provincia de Santiago
+Ramon Maria Rodriguez
+Representante de la provincia de Santiago
+Maximo Castro Silverio
+Representante de la provincia de Santiago
+Juan Bautista Cabrera
+Representante de la provincia de Santiago
+
+### Página 42 del PDF
+
+-42
+Silvia Ramirez de Veloz
+Representante de la provincia de Santiago
+Juan Rigoberto Hernandez
+Representante de la provincia de Santiago
+Gilbert0 Antonio Lopez Taveras
+Representante de la provincia de Santiago
+Ambrosio Peralta Medina
+Representante de la provincia de El Seybo
+Hector Ulises Nobel Comas Jimenez
+Representante de la provincia de Valverde
+Manuel de Jesus Guichardo Vargas
+Representante de la provincia de Valverde
+Antonio de Jesus Capellan
+Representante de la provincia de La Vega
+Cesar Arturo Abreu Fernandez
+Representante de la provincia de La Vega
+Jose Ricardo Mejia Hernandez
+Representante de la provincia de La Vega
+
+### Página 43 del PDF
+
+-43-
+El suscrito: Consultor Juridic0 del Poder Ejecutivo
+Certifica que la presente publicacion es oficial
+Dr. Pedro Romero Confesor
+Editora Cromos, S.A.
+Calle Cervantes No. 152, Gazcue,
+Telkfono 682-24551682-6102
+Santo Domingo, D. N., Republica Dorninicana
+
+## Notas de revisión
+
+- Pendiente de revisión humana.
+- Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.
+- Este paquete no interpreta vigencia, consolidación ni alcance de reformas.
