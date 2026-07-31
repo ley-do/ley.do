@@ -48,30 +48,30 @@ nav:
       - constitucion/index.md
   - Leyes:
       - leyes/index.md
-      - 2016: leyes/2016/index.md
-      - 2017: leyes/2017/index.md
-      - 2018: leyes/2018/index.md
-      - 2019: leyes/2019/index.md
-      - 2020: leyes/2020/index.md
-      - 2021: leyes/2021/index.md
-      - 2022: leyes/2022/index.md
-      - 2023: leyes/2023/index.md
-      - 2024: leyes/2024/index.md
-      - 2025: leyes/2025/index.md
       - 2026: leyes/2026/index.md
+      - 2025: leyes/2025/index.md
+      - 2024: leyes/2024/index.md
+      - 2023: leyes/2023/index.md
+      - 2022: leyes/2022/index.md
+      - 2021: leyes/2021/index.md
+      - 2020: leyes/2020/index.md
+      - 2019: leyes/2019/index.md
+      - 2018: leyes/2018/index.md
+      - 2017: leyes/2017/index.md
+      - 2016: leyes/2016/index.md
   - Decretos:
       - decretos/index.md
-      - 2016: decretos/2016/index.md
-      - 2017: decretos/2017/index.md
-      - 2018: decretos/2018/index.md
-      - 2019: decretos/2019/index.md
-      - 2020: decretos/2020/index.md
-      - 2021: decretos/2021/index.md
-      - 2022: decretos/2022/index.md
-      - 2023: decretos/2023/index.md
-      - 2024: decretos/2024/index.md
-      - 2025: decretos/2025/index.md
       - 2026: decretos/2026/index.md
+      - 2025: decretos/2025/index.md
+      - 2024: decretos/2024/index.md
+      - 2023: decretos/2023/index.md
+      - 2022: decretos/2022/index.md
+      - 2021: decretos/2021/index.md
+      - 2020: decretos/2020/index.md
+      - 2019: decretos/2019/index.md
+      - 2018: decretos/2018/index.md
+      - 2017: decretos/2017/index.md
+      - 2016: decretos/2016/index.md
   - Resoluciones:
       - resoluciones/index.md
   - Proyectos:

@@ -1,20 +1,30 @@
 # Proyectos legislativos
 
-<div class="leydo-panel" markdown>
-Área del corpus dedicada a proyectos legislativos y documentos relacionados provenientes de fuentes oficiales.
+<div class="leydo-year-hero" markdown>
+<p class="leydo-year-kicker">Trabajo en progreso</p>
+
+**Proyectos legislativos** forma parte del catálogo de LEY.DO, pero esta sección todavía **no tiene corpus normalizado**.
+
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>WIP</strong> en construcción</span></div>
 </div>
 
 !!! warning "Aviso"
-    LEY.DO no es una fuente oficial. Verifique todo documento contra la fuente oficial indicada. LEY.DO no ofrece asesoría legal.
+    LEY.DO no es una fuente oficial. Verifique todo documento contra la fuente oficial indicada.
+    LEY.DO no ofrece asesoría legal.
 
-Área del corpus dedicada a proyectos legislativos y documentos relacionados provenientes de fuentes oficiales.
+!!! info "Estado actual"
+    Esta página está abierta a propósito para que se vea el progreso del archivo.
+    Aún no hay listados ni documentos publicados aquí.
 
-## Estado
+## Qué vendrá después
 
-Esta sección está preparada para organizar proyectos por legislatura, año, cámara o fuente oficial.
+- Identificar fuentes del Congreso, Senado y Cámara.
+- Inventariar por año o legislatura.
+- Publicar sin interpretar el contenido legal.
 
-## Próxima fase
+## Mientras tanto
 
-- Identificar fuentes oficiales del Congreso Nacional, Senado y Cámara de Diputados.
-- Crear inventarios por año o legislatura.
-- Registrar estado documental sin interpretar contenido legal.
+- [Constitución](../constitucion/)
+- [Leyes](../leyes/)
+- [Decretos](../decretos/)
+

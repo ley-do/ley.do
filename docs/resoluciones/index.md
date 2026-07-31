@@ -1,21 +1,30 @@
 # Resoluciones
 
-<div class="leydo-panel" markdown>
-Área del corpus dedicada a resoluciones oficiales dominicanas.
+<div class="leydo-year-hero" markdown>
+<p class="leydo-year-kicker">Trabajo en progreso</p>
+
+**Resoluciones** forma parte del catálogo de LEY.DO, pero esta sección todavía **no tiene corpus normalizado**.
+
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>WIP</strong> en construcción</span></div>
 </div>
 
 !!! warning "Aviso"
-    LEY.DO no es una fuente oficial. Verifique todo documento contra la fuente oficial indicada. LEY.DO no ofrece asesoría legal.
+    LEY.DO no es una fuente oficial. Verifique todo documento contra la fuente oficial indicada.
+    LEY.DO no ofrece asesoría legal.
 
-Área del corpus dedicada a resoluciones oficiales dominicanas.
+!!! info "Estado actual"
+    Esta página está abierta a propósito para que se vea el progreso del archivo.
+    Aún no hay listados ni documentos publicados aquí.
 
-## Estado
+## Qué vendrá después
 
-Esta sección está preparada para recibir inventarios y documentos normalizados de resoluciones provenientes de fuentes oficiales.
+- Identificar fuentes oficiales por institución.
+- Inventariar y descargar PDFs oficiales.
+- Publicar con la misma plantilla de encapsulados.
 
-## Próxima fase
+## Mientras tanto
 
-- Identificar fuentes oficiales por institución emisora.
-- Crear inventarios por año o institución.
-- Descargar PDFs oficiales cuando existan.
-- Calcular hashes y preparar Markdown + JSON.
+- [Constitución](../constitucion/)
+- [Leyes](../leyes/)
+- [Decretos](../decretos/)
+
