@@ -1,0 +1,32 @@
+{
+  "tipo_documento": "ley",
+  "numero": "013",
+  "anio": "2026",
+  "titulo": "Orgánica que deroga los artículos 156, 157 y 158 de la Ley núm. 20-23, del 17 de febrero de 2023, Orgánica del Régimen Electoral. Deroga la Ley núm.15-19, Orgánica del Régimen Electoral, y sus modificaciones",
+  "fecha": "26/03/2026",
+  "gaceta_oficial": "11236",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404624&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404624&managementType=1",
+  "document_id_consultoria": "3404624",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2026/ley-013-2026.pdf",
+  "ruta_markdown": "docs/leyes/2026/ley-013-2026.md",
+  "ruta_json": "datos/leyes/2026/ley-013-2026.json",
+  "sha256_pdf_original": "f3ea13ac783a39e6d4a1b2119696e1243723336f8a605d1b1c153d96c3280c14",
+  "sha256_markdown": "b07706ffe2677824526ef8bc995cf6a06bcf0cfec112d43fbcc7bad1c599538c",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    15
+  ],
+  "fecha_texto_pdf_detectada": "",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar.",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO parseable en el segmento extraído del PDF."
+  ]
+}

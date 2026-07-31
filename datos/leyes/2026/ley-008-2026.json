@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "008",
+  "anio": "2026",
+  "titulo": "que designa con el nombre de Leopoldina Taveras Martínez, el tramo comprendido entre el kilómetro 7 de la carretera que conecta El Seibo-Hato Mayor, pasando por Candelaria Magarín hasta Bejucal",
+  "fecha": "16/01/2026",
+  "gaceta_oficial": "11230",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404378&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404378&managementType=1",
+  "document_id_consultoria": "3404378",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2026/ley-008-2026.pdf",
+  "ruta_markdown": "docs/leyes/2026/ley-008-2026.md",
+  "ruta_json": "datos/leyes/2026/ley-008-2026.json",
+  "sha256_pdf_original": "c6a473ddaf25670a62e29a88da1dd2159619f22fe9f7f0acefe7d6b4418e3b0f",
+  "sha256_markdown": "c2014e807ad6146bdcd7506a29c9a7418e858cdadc017cf50752fcd8132220a7",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    9
+  ],
+  "fecha_texto_pdf_detectada": "16/01/2026",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}
