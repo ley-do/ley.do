@@ -3,7 +3,7 @@
 <div class="leydo-year-hero" markdown>
 <p class="leydo-year-kicker">Corpus constitucional</p>
 
-Textos constitucionales dominicanos desde **1844**, tomados del catálogo oficial de la Consultoría Jurídica. Lista única: **un encapsulado por constitución**.
+Textos constitucionales dominicanos desde **1844**, tomados del catálogo oficial de la Consultoría Jurídica. Lista única: **un encapsulado por constitución**, del **más reciente al más antiguo**.
 
 <div class="leydo-year-summary"><span class="leydo-year-chip"><strong>32</strong> constituciones</span><span class="leydo-year-chip"><strong>24</strong> con texto</span><span class="leydo-year-chip"><strong>8</strong> pendientes OCR</span></div>
 </div>

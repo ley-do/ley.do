@@ -29,11 +29,11 @@
       </a>
       <a href="resoluciones/">
         <span>Resoluciones</span>
-        <small>Consultar <span aria-hidden="true">↗</span></small>
+        <small>En progreso <span aria-hidden="true">↗</span></small>
       </a>
       <a href="proyectos/">
         <span>Proyectos</span>
-        <small>Consultar <span aria-hidden="true">↗</span></small>
+        <small>En progreso <span aria-hidden="true">↗</span></small>
       </a>
     </nav>
   </div>
