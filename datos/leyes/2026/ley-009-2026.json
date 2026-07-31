@@ -1,0 +1,29 @@
+{
+  "tipo_documento": "ley",
+  "numero": "009",
+  "anio": "2026",
+  "titulo": "que designa con el nombre de Padre Joaquín Soler Corominas, el estadio de fútbol del municipio Jarabacoa de la provincia La Vega",
+  "fecha": "23/01/2026",
+  "gaceta_oficial": "11230",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404394&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404394&managementType=1",
+  "document_id_consultoria": "3404394",
+  "fecha_consulta": "2026-07-11",
+  "ruta_pdf_local": "archivos/leyes/2026/ley-009-2026.pdf",
+  "ruta_markdown": "docs/leyes/2026/ley-009-2026.md",
+  "ruta_json": "datos/leyes/2026/ley-009-2026.json",
+  "sha256_pdf_original": "7ab33e7d04b54b9d79bf35d1afac74cb6ec5fa8ddce2c048955cbc6e2bb7893b",
+  "sha256_markdown": "6297dd91c4d1f7eb28fd6194710fdd9e31bc16dc54f557247050656f5ef2d174",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_documentos_vecinos_excluidos": [
+    10
+  ],
+  "fecha_texto_pdf_detectada": "23/01/2026",
+  "estado_fecha_texto_pdf": "detectada",
+  "commit_publicacion": "",
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF antes de aprobar."
+}
