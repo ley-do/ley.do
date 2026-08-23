@@ -82,24 +82,24 @@ DESCARGO.md
 
 Cada documento debe tener:
 
-| Campo | Descripción |
-|---|---|
-| `tipo_documento` | Constitución, ley, decreto, resolución, proyecto u otro |
-| `numero` | Número oficial del documento, si aplica |
-| `anio` | Año del documento |
-| `titulo` | Título oficial o título normalizado |
-| `fecha` | Fecha oficial del documento |
-| `url_fuente_oficial` | Página oficial donde se encontró el documento |
-| `url_pdf_original` | Enlace directo al PDF original, si existe |
-| `ruta_pdf_local` | Ruta local del PDF dentro del repositorio |
-| `ruta_markdown` | Ruta local de la transcripción en Markdown |
-| `ruta_json` | Ruta local del archivo JSON |
-| `sha256_pdf_original` | Hash SHA256 del PDF original |
-| `sha256_markdown` | Hash SHA256 del archivo Markdown |
-| `estado_revision` | Estado de revisión humana |
-| `estado_publicacion` | Estado de publicación |
-| `commit_publicacion` | ID del commit donde fue publicado |
-| `notas` | Notas humanas o del agente |
+| Campo                 | Descripción                                             |
+| --------------------- | ------------------------------------------------------- |
+| `tipo_documento`      | Constitución, ley, decreto, resolución, proyecto u otro |
+| `numero`              | Número oficial del documento, si aplica                 |
+| `anio`                | Año del documento                                       |
+| `titulo`              | Título oficial o título normalizado                     |
+| `fecha`               | Fecha oficial del documento                             |
+| `url_fuente_oficial`  | Página oficial donde se encontró el documento           |
+| `url_pdf_original`    | Enlace directo al PDF original, si existe               |
+| `ruta_pdf_local`      | Ruta local del PDF dentro del repositorio               |
+| `ruta_markdown`       | Ruta local de la transcripción en Markdown              |
+| `ruta_json`           | Ruta local del archivo JSON                             |
+| `sha256_pdf_original` | Hash SHA256 del PDF original                            |
+| `sha256_markdown`     | Hash SHA256 del archivo Markdown                        |
+| `estado_revision`     | Estado de revisión humana                               |
+| `estado_publicacion`  | Estado de publicación                                   |
+| `commit_publicacion`  | ID del commit donde fue publicado                       |
+| `notas`               | Notas humanas o del agente                              |
 
 ## Estados permitidos
 
@@ -181,3 +181,5 @@ site/
 ## Descargo
 
 Ver [`DESCARGO.md`](DESCARGO.md).
+
+.
