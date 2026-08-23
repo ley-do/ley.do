@@ -5,7 +5,7 @@
 
 Año **2025**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>723</strong> decretos</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>723</strong> decretos</span><span class="leydo-year-chip">Actualizado del 06/01/2025 al 30/12/2025</span></div>
 </div>
 
 !!! warning "Aviso"

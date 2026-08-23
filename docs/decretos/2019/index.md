@@ -5,7 +5,7 @@
 
 Año **2019**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>495</strong> decretos</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>495</strong> decretos</span><span class="leydo-year-chip">Actualizado del 04/01/2019 al 30/12/2019</span></div>
 </div>
 
 !!! warning "Aviso"

@@ -5,7 +5,7 @@
 
 Año **2023**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>687</strong> decretos</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>687</strong> decretos</span><span class="leydo-year-chip">Actualizado del 12/01/2023 al 29/12/2023</span></div>
 </div>
 
 !!! warning "Aviso"

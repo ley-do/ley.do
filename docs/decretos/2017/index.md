@@ -5,7 +5,7 @@
 
 Año **2017**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>436</strong> decretos</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>436</strong> decretos</span><span class="leydo-year-chip">Actualizado del 06/01/2017 al 28/12/2017</span></div>
 </div>
 
 !!! warning "Aviso"

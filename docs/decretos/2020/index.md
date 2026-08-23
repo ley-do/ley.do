@@ -5,7 +5,7 @@
 
 Año **2020**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>733</strong> decretos</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>733</strong> decretos</span><span class="leydo-year-chip">Actualizado del 10/01/2020 al 30/12/2020</span></div>
 </div>
 
 !!! warning "Aviso"

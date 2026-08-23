@@ -5,7 +5,7 @@
 
 Año **2022**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>771</strong> decretos</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>771</strong> decretos</span><span class="leydo-year-chip">Actualizado del 07/01/2022 al 30/12/2022</span></div>
 </div>
 
 !!! warning "Aviso"
