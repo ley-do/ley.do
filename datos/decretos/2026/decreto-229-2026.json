@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "229",
   "anio": "2026",
   "titulo": "que deroga el artículo 11 del Decreto núm. 339-22 y el artículo 9 del Decreto núm. 28-25",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404667&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404667&managementType=1",
   "document_id_consultoria": "3404667",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-229-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-229-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-229-2026.json",
   "sha256_pdf_original": "287067e8d0569128fa80094343595dabf46312dee1c1f83996e32ddadf8a7ac6",
-  "sha256_markdown": "65899e717927dde5c32fb2990528004b93587a24ea4a5d44dba534a623f9be1b",
+  "sha256_markdown": "177d4ad1f6b2f27c6c18f113a3098f8826b396991c8f2d876c2088736c7bf9fd",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    230
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "229-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/04/2026",
+  "numero_formal_pdf": "229-26"
 }

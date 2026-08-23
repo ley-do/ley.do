@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "187",
   "anio": "2026",
   "titulo": "que crea de manera provisional el Comité para la Gestión de la Plaza de Vendedores de Playa Sosúa, hasta tanto sea formalmente incorporado como voluntariado en el Registro de Voluntariados en Instituciones Publica, de conformidad con la Ley núm. 61-13 y su Reglamento de Aplicación",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404596&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404596&managementType=1",
   "document_id_consultoria": "3404596",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-187-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-187-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-187-2026.json",
   "sha256_pdf_original": "571525394a5c2afd37a6a91fae6ec09408cd864a66ff8350b8d033542034dfe1",
-  "sha256_markdown": "a1bcabd60e397e0ffbae5bc297d528b85627f73dac54988470ac2c7a054e5396",
+  "sha256_markdown": "f3bf6344649515fb87f932b23b773f5204d6f4477536dbc4c576a7b1a2edf587",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    188
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "187-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/03/2026",
+  "fecha_metadata_fuente": "19/03/2025",
+  "numero_formal_pdf": "187-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

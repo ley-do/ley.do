@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "339",
   "anio": "2026",
   "titulo": "que designa al señor Osiris Antonio Decena Espinal, viceministro de Seguridad Energética e Infraestructura del Ministerio de Energía y Minas. Deroga el",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404879&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404879&managementType=1",
   "document_id_consultoria": "3404879",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-339-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-339-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-339-2026.json",
   "sha256_pdf_original": "e572fa0687f8e56744450b98a97013cd1dd7c27536d55af3dd04a5e67072d007",
-  "sha256_markdown": "f40c490bdf7096fc124bafb6e87f256ff74c01a0c96d0b3dec3d1b5f13b26bcc",
+  "sha256_markdown": "a10a4d229ba4f0c5624e1a78dde9f8f04d796e45fd2eb5ce629f08628518bab3",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    340
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "339-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/05/2026",
+  "numero_formal_pdf": "339-26"
 }

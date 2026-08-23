@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "302",
   "anio": "2026",
   "titulo": "que ratifica a los señores Karel José Castillo Almonte, Ysabel Rainelda Flores Pichardo y Clara Argentina González Willems, como miembros independientes del Consejo de Administración del Banco de Desarrollo y Exportaciones (BANDEX), de conformidad con el artículo 11, literal b) de la Ley 122-21",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404861&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404861&managementType=1",
   "document_id_consultoria": "3404861",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-302-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-302-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-302-2026.json",
   "sha256_pdf_original": "e4ee290cedebcaabe7f0fd9058f16943ab93680ad5e58ed293007fac4fcfdf3f",
-  "sha256_markdown": "c879a396e0aea1baebf1eb1e950d8b9795f2a5f7b9c6525a83261aa99b31181e",
+  "sha256_markdown": "62ad323a739b7d7a0d0c538a385e74f67584a5b40a997fc641964744c5f3b27a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    303
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "302-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "06/05/2026",
+  "numero_formal_pdf": "302-26"
 }

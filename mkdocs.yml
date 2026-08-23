@@ -1,5 +1,7 @@
 site_name: LEY.DO
 site_description: Archivo público independiente de documentos legales dominicanos.
+copyright: >-
+  LEY.DO es un archivo público independiente. Última actualización documental de decretos 2026: 31 de julio de 2026 (decretos núms. 526-26 a 531-26).
 site_url: https://ley.do
 repo_name: ley-do/ley.do
 repo_url: https://github.com/ley-do/ley.do

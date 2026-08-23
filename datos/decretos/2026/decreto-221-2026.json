@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "221",
   "anio": "2026",
   "titulo": "que declara de utilidad pública e interés social la adquisición por el Estado dominicano de tres (3) porciones de terrenos ubicadas en Santiago de los Caballeros, para ser destinadas a planteles escolares",
@@ -10,16 +12,28 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404651&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404651&managementType=1",
   "document_id_consultoria": "3404651",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-221-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-221-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-221-2026.json",
   "sha256_pdf_original": "e5c0b7c22947da8c446ace60f0f84fd4f12636932e8c4a62c16ba6fc8a0ff2fd",
-  "sha256_markdown": "d3f063f09793564451bc9a47d639c27edf2dae425d0b68db893a52db988ab5d5",
+  "sha256_markdown": "d26d2b2116ce05758142145ee735c6f77d22d5bd9c760c6cc903cdeeb4090186",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    222
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "221-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "221-26",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
 }

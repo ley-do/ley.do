@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "321",
   "anio": "2026",
   "titulo": "del 12 de mayo de 2026, que designa como organización terrorista al Cuerpo de la Guardia Revolucionaria Islámica (CGRI), incluyendo todos sus cuerpos, ramas, divisiones y unidades – en particular la Fuerza Quds-, así como sus filiales, sucesoras, alias, fachadas comerciales y entidades controladas directa o indirectamente. Designa como organización terrorista a Hezbolá, sin distinción entre sus alas política, militar, financiera, social y de relaciones externas, así como sus filiales, sucesoras, alias, fachadas comerciales y entidades controladas directa o indirectamente. Instruye a la Dirección Nacional de Inteligencia (DNI) y a la Dirección General de Migración (DGM), así como a los demás órganos competentes, a adoptar las medidas que correspondan para prevenir y frenar las actividades de dichas organizaciones",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404822&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404822&managementType=1",
   "document_id_consultoria": "3404822",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-321-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-321-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-321-2026.json",
   "sha256_pdf_original": "b2686f697d9fc2dae9bbfe974757efbf8d8a3994f0493da87762b4401032d2f5",
-  "sha256_markdown": "5352b1b0330d6c8e110b723e20ae3cf5d9607b9332ef17fbdf20aad1c739420e",
+  "sha256_markdown": "b2b4378940e9fae83c1dda26174b85df6b2581ad6c7b37349e872e5284fa589c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "321-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/05/2026",
+  "numero_formal_pdf": "321-26"
 }

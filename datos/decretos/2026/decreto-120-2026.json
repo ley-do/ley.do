@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "120",
   "anio": "2026",
   "titulo": "que aumenta a la suma de R$150,000.00 mensuales, la pensión del Estado de que disfruta el señor Pedro Roberto Tineo",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404481&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404481&managementType=1",
   "document_id_consultoria": "3404481",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-120-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-120-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-120-2026.json",
   "sha256_pdf_original": "b6ca07b887d39cfc22b2567c94e8b809e26c00663f3de7a8372670353e519c4a",
-  "sha256_markdown": "84817e8fe384353d7a0f932cccd17fc7db5d0fa69302c5081072bcb0ce1f2dd4",
+  "sha256_markdown": "dcad1ce3ff539753ece341ca9a743500d06ee5025031ab30c3d94d2a9a866c95",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    121
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "120-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "20/02/2026",
+  "numero_formal_pdf": "120-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "226",
   "anio": "2026",
   "titulo": "que otorga exequátur a varios profesionales para que puedan ejercer diferentes profesiones",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404666&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404666&managementType=1",
   "document_id_consultoria": "3404666",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-226-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-226-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-226-2026.json",
   "sha256_pdf_original": "3380078e24cd61ca8745e0929418ad27507028da566fc3abca7637ddf67a693f",
-  "sha256_markdown": "8821f6aae790a0f17f609ec7461f657e5ffec106b0939efeb732e37f693d64de",
+  "sha256_markdown": "0a5e3fb3917a76a2174dc5177638ea3c04b8def6904e02b266d6d37a58439968",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "226-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/04/2026",
+  "numero_formal_pdf": "226-26"
 }

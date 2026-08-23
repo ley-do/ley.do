@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "291",
   "anio": "2026",
   "titulo": "que establece el Reglamento de Aplicación de la Ley núm. 1-26, Orgánica de la Dirección Nacional de Inteligencia (DNI) y regula el Sistema Nacional de Inteligencia",
@@ -10,16 +12,28 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404779&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404779&managementType=1",
   "document_id_consultoria": "3404779",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-291-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-291-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-291-2026.json",
   "sha256_pdf_original": "0d0e9f8a36bd1b3691afd9967cde342936e7c9bcf8ae05500f19cbf14f43c13f",
-  "sha256_markdown": "2f3bf7da06ac3364a13c9e4a28b86e6a6d1e7a57f5237a5ce3709704b45dd31d",
+  "sha256_markdown": "8de2ca90976638a22fc6bb6af6fe007f5e30b133b5d0c236776bbb72d682529f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    292
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "291-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "291-26",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
 }

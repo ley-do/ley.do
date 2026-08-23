@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "162",
   "anio": "2026",
   "titulo": "que concede pensiones del Estado, de RD$10,000.00 mensuales, a 57 afiliados del antiguo Instituto Dominicano de Seguros Sociales",
@@ -10,16 +12,28 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404586&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404586&managementType=1",
   "document_id_consultoria": "3404586",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-162-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-162-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-162-2026.json",
   "sha256_pdf_original": "7494e8274cca1a959226e04af73b5ca851733926362244e5019b341e18c7e9d1",
-  "sha256_markdown": "6c827325566469fd89e1165689f17bb4b520d88c85d70a57d3bb10f314d9c21a",
+  "sha256_markdown": "6a200eff9d87e0794528eebd05a397847894ff67f1d6dad6bc303b7cc25abf29",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "162-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/03/2026",
+  "fecha_metadata_fuente": "16/03/2025",
+  "numero_formal_pdf": "162-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

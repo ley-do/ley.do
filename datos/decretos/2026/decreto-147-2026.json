@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "147",
   "anio": "2026",
   "titulo": "que autoriza la emisión de sellos postales para el franqueo de las correspondencias con diferentes denominaciones",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404575&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404575&managementType=1",
   "document_id_consultoria": "3404575",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-147-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-147-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-147-2026.json",
   "sha256_pdf_original": "e9232f4fd66d2d5b3bcc20772fc463638154e5dfbc6febbd72e886fe8054a9e1",
-  "sha256_markdown": "c585ce8c2babdcc8ee67a91b5cc1e9480f3fed37627ad88b24c6ff873797d14e",
+  "sha256_markdown": "dcc47408f33f0e19e2578ad635875393155e0ad635d9b8983a5dc1bd381dc92f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    148
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "147-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "04/03/2026",
+  "numero_formal_pdf": "147-26"
 }

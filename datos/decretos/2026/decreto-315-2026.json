@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "315",
   "anio": "2026",
   "titulo": "que concede el beneficio de la jubilación y asigna una pensión del Estado a 18 servidores del Instituto Agrario Dominicano",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404856&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404856&managementType=1",
   "document_id_consultoria": "3404856",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-315-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-315-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-315-2026.json",
   "sha256_pdf_original": "64bf6e25d8a85dcb3c4fedaf74619c21c4f0d2313a628fd0871a255152936714",
-  "sha256_markdown": "6fe7e972f5fa0578ad808a8cf219c2f4fdca049ef50ac03ca85c9420dfe63122",
+  "sha256_markdown": "26375387a84db832c37ea9911a2e96441e7a2eca12f64cc504827d5acd34f96d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    316
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "315-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/05/2026",
+  "numero_formal_pdf": "315-26"
 }

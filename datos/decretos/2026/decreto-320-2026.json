@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "320",
   "anio": "2026",
   "titulo": "que otorga exequátur a varios profesionales para que puedan ejercer sus diferentes profesiones",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404870&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404870&managementType=1",
   "document_id_consultoria": "3404870",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-320-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-320-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-320-2026.json",
   "sha256_pdf_original": "b5fcdf0435188aee07af5da41458c311576a18c3fc720e34eb0ffd6f0a8f8268",
-  "sha256_markdown": "2ba8b4fe0b52ccedfb44dd0333c296538288dcb901e2ea46ba11818819dc15ae",
+  "sha256_markdown": "00e2a91b7dc694aba2230f9d059e3795e7d55dbb8a6bf24c2f8b7ddaed57bc7a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "320-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/05/2026",
+  "numero_formal_pdf": "320-26"
 }

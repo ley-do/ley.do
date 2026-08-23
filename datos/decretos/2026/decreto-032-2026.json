@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "032",
   "anio": "2026",
   "titulo": "que concede el beneficio de la jubilación y asigna una pensión del Estado por antigüedad a 134 servidores públicos",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404380&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404380&managementType=1",
   "document_id_consultoria": "3404380",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-032-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-032-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-032-2026.json",
   "sha256_pdf_original": "8471433f1e311b505140acfef6f2fd56ab1843fb95ff179c20b586d6187daf69",
-  "sha256_markdown": "73e02a8f9cf6eb8f0c38856d15087ba0ef22d9247770317597460a4f49b72dba",
+  "sha256_markdown": "9736aa0076e9ac45f7eb4fa8a064ba858241b62433bf9ac438279343bde97452",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    33
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "32-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/01/2026",
+  "numero_formal_pdf": "32-26"
 }

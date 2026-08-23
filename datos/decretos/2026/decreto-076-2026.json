@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "076",
   "anio": "2026",
   "titulo": "que concede una pensión especial del Estado de RD$50,000.00 mensuales, al señor Dimas de Jesús de la Cruz Amparo",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404445&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404445&managementType=1",
   "document_id_consultoria": "3404445",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-076-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-076-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-076-2026.json",
   "sha256_pdf_original": "aae342e93beb114853592f15e996e50acd3099b8e1a72517c2500b432865ef77",
-  "sha256_markdown": "fb8c5eb149b0c274783755553071948c18233eba77524961508f2d0f54a1d361",
+  "sha256_markdown": "7b7d34a9dd2c30aec9881090cdaf756bba87c6e08e52511756033f68f5da58f5",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    77
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "76-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/02/2026",
+  "numero_formal_pdf": "76-26"
 }

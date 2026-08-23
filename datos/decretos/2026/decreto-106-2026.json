@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "106",
   "anio": "2026",
   "titulo": "que otorga exequátur a varios profesionales para que puedan ejercer distintas profesiones. Modifica los decretos núms. 100-19, 579-02, 359-03 y 552-25, que otorgaron exequátur a diferentes profesionales para ejercer sus respectivas profesiones",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404461&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404461&managementType=1",
   "document_id_consultoria": "3404461",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-106-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-106-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-106-2026.json",
   "sha256_pdf_original": "67ba199e9297c8091887402aab36f3348dbe082f19a78cc26affeb6f301e0be9",
-  "sha256_markdown": "049df645f058c7b1e7e6d36e2bf8a93f7d3c0dd2582a9559870ecb868577af88",
+  "sha256_markdown": "db308f285e1c647eaf1d1d86d529f4f55f32cb127d97be685f5c032b8c0a3544",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    107
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "106-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/02/2026",
+  "numero_formal_pdf": "106-26"
 }

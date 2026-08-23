@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "358",
   "anio": "2026",
   "titulo": "que otorga exequátur a 237 profesionales para que puedan ejercer de licenciados en derecho. Modifica en el artículo 1 del Decreto núm. 206-91, en el renglón de abogados, relativo a Hypatia Modesto Ruiz",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405849&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405849&managementType=1",
   "document_id_consultoria": "3405849",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-358-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-358-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-358-2026.json",
   "sha256_pdf_original": "18e1334b25f8d3a9091e83a6667cb4927586bee305384cbf81a28654ef68a0ce",
-  "sha256_markdown": "1c7a75fed7c7c403636b45e7601a7232b7d91a37244cecf57c4fc812aaaaae01",
+  "sha256_markdown": "b574c0d75c8dc4eb1f33e3b378118b6b676dc10297fbf3dd357f451124cf0783",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    359
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "358-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "02/06/2026",
+  "numero_formal_pdf": "358-26"
 }

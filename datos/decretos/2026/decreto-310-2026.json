@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "310",
   "anio": "2026",
   "titulo": "que concede la condecoración de la Orden al Mérito Naval, con Medalla al Servicio Distinguido, en segunda categoría, al coronel de infantería de Marina José de Jesús Gómez Castellanos, agregado militar, naval y aéreo de la República de Colombia en nuestro país y al teniente coronel Lowell D. Krusinger, Cuerpo de Marines de los EE. UU., agregado superior de Defensa de los Estados Unidos de América en República Dominicana y en su cuarta categoría, al sargento mayor Rafael Rodríguez, Cuerpo de Marines de los EE.UU., líder alistado senior, suboficial superior del Comando Sur de los Estados Unidos en la República Dominicana",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404853&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404853&managementType=1",
   "document_id_consultoria": "3404853",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-310-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-310-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-310-2026.json",
   "sha256_pdf_original": "664dda0f5fc4b00b54e25dce016fc22b0a82adec29d5e9e534ac7905798179bc",
-  "sha256_markdown": "c86b0179d9ea0e1fe7d58ba8fc1d190a4f86464a2fa746e9653a92bd22222a5d",
+  "sha256_markdown": "1e0efa1e6fc203d952df54a209da7d86b7ae80f3ac75e54653a10682fc624f79",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    311
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "310-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "06/05/2026",
+  "numero_formal_pdf": "310-26"
 }

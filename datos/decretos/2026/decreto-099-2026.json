@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "099",
   "anio": "2026",
   "titulo": "que aprueba, de acuerdo a lo previsto en el artículo 66.2 de la Ley General de Telecomunicaciones, núm. 153-98, el Plan Nacional de Atribución a Frecuencias (PNAF), en los términos sometidos al Poder Ejecutivo por el Instituto Dominicano de las Telecomunicaciones (INDOTEL) de conformidad con lo dispuesto en la Resolución de su Consejo Directivo núm. 068-2025. Deroga el Decreto núm. 266- 23",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404438&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404438&managementType=1",
   "document_id_consultoria": "3404438",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-099-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-099-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-099-2026.json",
   "sha256_pdf_original": "ed76ff87051199c630080782644f9c540994d007c7c59344b98a4e051d137161",
-  "sha256_markdown": "d447d165d4eb8bc75368900031443872cc809ce2b0a35565c807a62a37bd8b31",
+  "sha256_markdown": "7d6c99e22de0399c015145def8153c70c51f58d72877d4687c199a20a8db04d7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    100
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "99-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/02/2026",
+  "numero_formal_pdf": "99-26"
 }

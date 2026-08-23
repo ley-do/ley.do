@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "151",
   "anio": "2026",
   "titulo": "que otorga la Medalla al Mérito de la Mujer Dominicana 2026, a 22 destacadas damas dominicanas",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404578&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404578&managementType=1",
   "document_id_consultoria": "3404578",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-151-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-151-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-151-2026.json",
   "sha256_pdf_original": "d1e58ac50b41aa98735ba51fd3775e089a73d1c1d39da92426b98183df7cf91f",
-  "sha256_markdown": "264426beb8b047bbb6ea8f8064e48009f648a07dbb46446759d257177351b455",
+  "sha256_markdown": "eb6a73dd1a5f7a72bf258ad04557db5f60785d43850bdd7f45343ec290645b60",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    152
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "151-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/03/2026",
+  "numero_formal_pdf": "151-26"
 }

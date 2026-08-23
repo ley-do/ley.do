@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "063",
   "anio": "2026",
   "titulo": "que deja sin efecto el artículo 16 del Decreto núm. 29-26 y deroga el",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404416&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404416&managementType=1",
   "document_id_consultoria": "3404416",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-063-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-063-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-063-2026.json",
   "sha256_pdf_original": "4ec5fb5493a92a8dcf949d60ebe3a4bf4918e4e90f8f04f69e0a30bac39dd2d5",
-  "sha256_markdown": "a53d1ff715cde317b1351d68b960f0a410035e274015f4f92e29f6381b75184f",
+  "sha256_markdown": "66c0c87d5999622fa042901a508d6c93b5d1a1404ba18d65ae664f56538b3b2f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    64
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "63-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "31/01/2026",
+  "numero_formal_pdf": "63-26"
 }

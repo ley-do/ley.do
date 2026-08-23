@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "167",
   "anio": "2026",
   "titulo": "que declara de utilidad pública e interés social por parte del Estado dominicano, tres (3) porciones de terreno para ser destinadas a la construcción de planteles escolares, ubicadas en las provincias Azua de Compostela, Hato Mayor del Rey y Esperanza, provincia Valverde",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404602&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404602&managementType=1",
   "document_id_consultoria": "3404602",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-167-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-167-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-167-2026.json",
   "sha256_pdf_original": "2ae17a39c7acd14c814b36f8dd22b45655864c6647f9e37b4fa33fd2217f6b93",
-  "sha256_markdown": "45a970a6180663117d6d0a50249da58b1a0d34fcc807c1c95ba1ada2bd58a8da",
+  "sha256_markdown": "261cd6cf2b4b96a58b34619854f003c80adbc2460e4b01fa5b4f8e206ee48063",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    168
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "167-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/03/2026",
+  "fecha_metadata_fuente": "16/03/2025",
+  "numero_formal_pdf": "167-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

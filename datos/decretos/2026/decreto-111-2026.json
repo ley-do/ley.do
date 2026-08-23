@@ -1,20 +1,39 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "111",
   "anio": "2026",
   "titulo": "Decreto núm. 111-2026",
-  "fecha": "17 de Febrero 2026 | 18:27",
-  "institucion_fuente": "Presidencia de la República Dominicana",
-  "url_fuente_oficial": "https://presidencia.gob.do/decretos/111-26",
-  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%20111-26.pdf",
-  "fecha_consulta": "2026-07-04",
+  "fecha": "17/02/2026",
+  "gaceta_oficial": "11233",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404464&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404464&managementType=1",
+  "document_id_consultoria": "3404464",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-111-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-111-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-111-2026.json",
   "sha256_pdf_original": "7c0bbf5907f14e31cd1e21563610bb4786021cb086736f924b0cf504cca19276",
-  "sha256_markdown": "24ac00a835c7ed6155003a757ff48dd2a053486c02edbed29a2f36a157b66cf3",
+  "sha256_markdown": "90be6f4a4537ab70952f7c0f7b8a58d3caf624bbfd26da8ded722f8f78a9030b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+  "notas": "El encabezado NÚMERO observado en el PDF («Tll-26») contiene una lectura OCR degradada que coincide, tras normalización limitada, con la identidad oficial «111-26»; cotejar contra el PDF. El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "111-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "encabezado_ocr_tolerado": true,
+  "alertas_revision": [
+    "El encabezado NÚMERO observado en el PDF («Tll-26») contiene una lectura OCR degradada que coincide, tras normalización limitada, con la identidad oficial «111-26»; cotejar contra el PDF.",
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "230",
   "anio": "2026",
   "titulo": "que designa seis (6) vicecónsules y cuatro (4) auxiliares consulares en los consulados de nuestro país en distintas ciudades extranjeras. Deroga además el",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404668&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404668&managementType=1",
   "document_id_consultoria": "3404668",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-230-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-230-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-230-2026.json",
   "sha256_pdf_original": "22e2b2c0de9b88384cefc061e5e7208300d6c03bbce7729dc8826f6de5f0e7ca",
-  "sha256_markdown": "10dcc5ab6640118cd962820b1ba3405ba693ac348261f9944a851276650d5c30",
+  "sha256_markdown": "69188f6dd39e97964d8c59e575b3582c87e0d9acd9b43f45dc6d7365ff0e735a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    231
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "230-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/04/2026",
+  "numero_formal_pdf": "230-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "180",
   "anio": "2026",
   "titulo": "que concede pensiones del Estado a 17 personas",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404595&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404595&managementType=1",
   "document_id_consultoria": "3404595",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-180-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-180-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-180-2026.json",
   "sha256_pdf_original": "0f42d73a5b2c2ec7ae96c8589c3b4bfb464077110435f47cd998355bac31e5b9",
-  "sha256_markdown": "ea53c46cc4e15228c86e6de4b94cd2109b3909e81d396aaae131936b9db7b53a",
+  "sha256_markdown": "ad35fd81dced7f86c24271e270788080afebbb23f56c6c40f72037b4006a3691",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    181
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 18/03/2025, mientras el apartado DADO del PDF indica 18/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "180-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "18/03/2026",
+  "fecha_metadata_fuente": "18/03/2025",
+  "numero_formal_pdf": "180-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 18/03/2025, mientras el apartado DADO del PDF indica 18/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "157",
   "anio": "2026",
   "titulo": "que designa 5 vicecónsules y un auxiliar consular en los consulados de la República en diferentes países",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404583&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404583&managementType=1",
   "document_id_consultoria": "3404583",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-157-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-157-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-157-2026.json",
   "sha256_pdf_original": "dc6efc3aa262f75f5bd19a4f2adb70ca5d6c305b75cc0a22ff2261fdb8197ce4",
-  "sha256_markdown": "37d29040b6b49cca7c47533c14c9639ea9e4661a94fc25d8e9419b5ea8a890b2",
+  "sha256_markdown": "5b3b74a5dd020ad37e1c4b001b69c11a9e09633d95f3b59bb5cb83bc7fa231fd",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "157-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/03/2026",
+  "numero_formal_pdf": "157-26"
 }

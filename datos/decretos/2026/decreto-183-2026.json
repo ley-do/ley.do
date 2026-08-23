@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "183",
   "anio": "2026",
   "titulo": "que designa a Carlos Federico Ayacx Mercedes Contreras, viceministro de Planificación y Desarrollo Educativo del Ministerio de Educación. Deroga el artículo 2 del Decreto núm. 541-22",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404611&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404611&managementType=1",
   "document_id_consultoria": "3404611",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-183-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-183-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-183-2026.json",
   "sha256_pdf_original": "080979d3760a112db3c91538d06cbe0b6953f363426b119f574a3ad76b0fe45a",
-  "sha256_markdown": "a4dfc54f9c128c0a6bcc962f20f526fc281201d76e4a09fa679bc7dc6d1df911",
+  "sha256_markdown": "235c4e144c9747ebca0687cf52369b7f4cb0d6c02e54a8e56faf89dfe30bb9f4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    184
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "183-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/03/2026",
+  "fecha_metadata_fuente": "19/03/2025",
+  "numero_formal_pdf": "183-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

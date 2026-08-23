@@ -568,33 +568,25 @@ class ProcesarDecretosTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "huérfanos"):
                 generate_index(repo, inventory, 2019)
 
-    def test_indice_codifica_caracteres_de_control_markdown_en_url_oficial(self):
+    def test_indice_rechaza_fuente_sin_paquete_validado(self):
         with tempfile.TemporaryDirectory() as td:
             repo = Path(td)
             inventory = repo / "reconciliado.json"
-            malicious_url = "https://www.consultoria.gov.do/doc) [x](javascript:alert(1))"
             record = {
                 "numero": "1-19",
                 "anio": "2019",
-                "titulo": "<script>alerta</script>",
-                "document_id_consultoria": "id](malicioso)",
-                "url_documento_consultoria_abrir": malicious_url,
+                "titulo": "Documento sin paquete",
+                "document_id_consultoria": "id-1",
+                "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/1",
                 "identidad_documental_numero": 1,
                 "rol_reconciliacion": "canonico",
             }
-            inventory.write_text(
-                json.dumps({"registros_fuente": [record], "documentos": {"decretos": [record]}}),
-                encoding="utf-8",
-            )
+            inventory.write_text(json.dumps({"registros_fuente": [record], "documentos": {"decretos": [record]}}), encoding="utf-8")
 
-            content = generate_index(repo, inventory, 2019).read_text(encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "Paquetes canónicos"):
+                generate_index(repo, inventory, 2019)
 
-            self.assertNotIn("<script>", content)
-            self.assertNotIn("javascript:alert", content)
-            self.assertIn("%29", content)
-            self.assertIn("&#93;", content)
-
-    def test_indice_no_enlaza_un_paquete_de_otro_id(self):
+    def test_indice_rechaza_paquete_de_otro_id(self):
         with tempfile.TemporaryDirectory() as td:
             repo = Path(td)
             inventory = repo / "reconciliado.json"
@@ -603,40 +595,42 @@ class ProcesarDecretosTests(unittest.TestCase):
                 "anio": "2019",
                 "titulo": "Documento canónico",
                 "document_id_consultoria": "canonico",
+                "institucion_fuente": "Consultoria Juridica",
+                "url_fuente_oficial": "https://www.consultoria.gov.do/",
+                "url_documento_consultoria_descargar": "https://www.consultoria.gov.do/canonico.pdf",
                 "url_documento_consultoria_abrir": "https://www.consultoria.gov.do/canonico",
                 "identidad_documental_numero": 275,
                 "rol_reconciliacion": "canonico",
             }
-            inventory.write_text(
-                json.dumps(
-                    {
-                        "resumen": {"registros_fuente": 1, "identidades_documentales": 1},
-                        "registros_fuente": [record],
-                        "documentos": {"decretos": [record]},
-                    }
-                ),
-                encoding="utf-8",
-            )
+            inventory.write_text(json.dumps({"registros_fuente": [record], "documentos": {"decretos": [record]}}), encoding="utf-8")
+            pdf = repo / "archivos/decretos/2019/decreto-275-2019.pdf"
+            markdown = repo / "docs/decretos/2019/decreto-275-2019.md"
             package = repo / "datos/decretos/2019/decreto-275-2019.json"
-            package.parent.mkdir(parents=True)
-            package.write_text(
-                json.dumps(
-                    {
-                        "document_id_consultoria": "otro-id",
-                        "numero": "275",
-                        "anio": "2019",
-                        "estado_revision": "pendiente_revision",
-                    }
-                ),
-                encoding="utf-8",
-            )
+            pdf.parent.mkdir(parents=True); markdown.parent.mkdir(parents=True); package.parent.mkdir(parents=True)
+            pdf.write_bytes(pdf_bytes("documento canónico"))
+            markdown.write_text(chr(10).join(["# Decreto 275-2019", "", "LEY.DO no es una fuente oficial.", "LEY.DO no ofrece asesoría legal.", "", "## Metadata", "", "## Texto", "", "Texto.", "", "## Notas de revisión", ""]), encoding="utf-8")
+            package.write_text(json.dumps({
+                "document_id_consultoria": "otro-id",
+                "numero": "275",
+                "anio": "2019",
+                "ruta_pdf_local": "archivos/decretos/2019/decreto-275-2019.pdf",
+                "ruta_markdown": "docs/decretos/2019/decreto-275-2019.md",
+                "ruta_json": "datos/decretos/2019/decreto-275-2019.json",
+                "institucion_fuente": "Consultoria Juridica",
+                "url_fuente_oficial": "https://www.consultoria.gov.do/",
+                "url_pdf_original": "https://www.consultoria.gov.do/canonico.pdf",
+                "url_documento_oficial": "https://www.consultoria.gov.do/canonico",
+                "sha256_pdf_original": hashlib.sha256(pdf.read_bytes()).hexdigest(),
+                "sha256_markdown": hashlib.sha256(markdown.read_bytes()).hexdigest(),
+                "estado_revision": "pendiente_revision",
+                "estado_publicacion": "normalizado",
+                "estado_extraccion": "extraido_desde_pdf_oficial",
+            }), encoding="utf-8")
 
-            content = generate_index(repo, inventory, 2019).read_text(encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "Paquetes canónicos"):
+                generate_index(repo, inventory, 2019)
 
-            self.assertNotIn("[Decreto 275-2019](decreto-275-2019.md)", content)
-            self.assertIn("descubierto · pendiente_revision", content)
-
-    def test_indice_preserva_cada_registro_fuente_y_relacion(self):
+    def test_indice_usa_una_sola_lista_de_tarjetas_sin_duplicar_fuentes(self):
         with tempfile.TemporaryDirectory() as td:
             repo = Path(td)
             inventory = repo / "reconciliado.json"
@@ -709,12 +703,11 @@ class ProcesarDecretosTests(unittest.TestCase):
             index = generate_index(repo, inventory, 2019)
             content = index.read_text(encoding="utf-8")
 
-            self.assertIn("canonico", content)
-            self.assertIn("extra", content)
-            self.assertIn("gaceta", content)
-            self.assertIn("[Decreto 275-2019](decreto-275-2019.md)", content)
-            self.assertIn("rendición oficial relacionada", content)
-            self.assertIn("fuente contextual oficial", content)
+            self.assertIn('href="decreto-275-2019/"', content)
+            self.assertNotIn("decreto-275-2019.md", content)
+            self.assertEqual(content.count('<a class="leydo-doc"'), 1)
+            self.assertNotIn('leydo-details', content)
+            self.assertEqual(len(json.loads(inventory.read_text(encoding="utf-8"))["registros_fuente"]), 3)
 
 
     def test_rechaza_respuesta_mas_corta_que_content_length(self):

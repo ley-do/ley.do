@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "074",
   "anio": "2026",
   "titulo": "que modifica el artículo 1 del Decreto núm. 596-23. Autoriza la ampliación de la Zona Franca Industrial de Tamboril, la cual funcionará en 98 porciones de terrenos con un área total de 681,618.05 m2, ubicadas en el municipio Tamboril, provincia Santiago",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404443&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404443&managementType=1",
   "document_id_consultoria": "3404443",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-074-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-074-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-074-2026.json",
   "sha256_pdf_original": "0fbb564c1fd71313d978407ec089b1eedaa6fad1761e84484e0fb843033d48b0",
-  "sha256_markdown": "24dfad51034bc29d93e52f81bae2fe90d2e27fa1e9643a787fac9a493e1b70e3",
+  "sha256_markdown": "906817bf09babc4afb82d3f0322dc25916c4772179b40fdf00ea16938e9a9b84",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    75
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "74-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/02/2026",
+  "numero_formal_pdf": "74-26"
 }

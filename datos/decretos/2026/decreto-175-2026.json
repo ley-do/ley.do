@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "175",
   "anio": "2026",
   "titulo": "que nombra a las señoras Estefany Mayrobi Holguín Guzmán y Paola Dirocie de la Cruz, viceministras administrativas y financiera y técnica y de planificación, respectivamente, del Ministerio de la Juventud. Deroga el artículo 18 del Decreto núm. 456-24 y el artículo 2 del Decreto núm. 694-20",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404606&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404606&managementType=1",
   "document_id_consultoria": "3404606",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-175-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-175-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-175-2026.json",
   "sha256_pdf_original": "75194f02fda4856d297326a3667f08a03189c59db2887839b6f59e3758a7e539",
-  "sha256_markdown": "5d64d6c8fbeca6dc81b2b5a68cd9ea63ba23f8d4992f65b703ca86d41691b906",
+  "sha256_markdown": "a0ff1596d413070ce353bae9b9dd0dda31a1d8e263fb00d81417c189d2ab85b2",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    176
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 18/03/2025, mientras el apartado DADO del PDF indica 18/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "175-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "18/03/2026",
+  "fecha_metadata_fuente": "18/03/2025",
+  "numero_formal_pdf": "175-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 18/03/2025, mientras el apartado DADO del PDF indica 18/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

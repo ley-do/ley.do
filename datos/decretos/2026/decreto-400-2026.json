@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "400",
   "anio": "2026",
   "titulo": "que autoriza al Ayuntamiento de Moca a vender al señor Andrés Roberto Joaquín Figueroa, una porción de terreno de 233.12 mt2, ubicada en la urbanización Beverly Hills III, municipio de Moca, provincia Espaillat",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405903&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405903&managementType=1",
   "document_id_consultoria": "3405903",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-400-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-400-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-400-2026.json",
   "sha256_pdf_original": "3f1926e30f772ca5496d7ced63a5c5b590c6361c92fef2ebdd8289964d93ae0c",
-  "sha256_markdown": "5a354b37d6271ca4984ac32802c57ee398a45386bf984f65f5e7bfbbe85ceefb",
+  "sha256_markdown": "4f70d805693b301c88c0656c485173eb890887c14a6d08a8638df189f6279e5a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    401
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "400-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/06/2026",
+  "numero_formal_pdf": "400-26"
 }

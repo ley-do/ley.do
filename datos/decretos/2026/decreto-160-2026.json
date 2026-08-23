@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "160",
   "anio": "2026",
   "titulo": "que designa con el nombre de Orlando Martínez Howley, el Edificio Corporativo ubicado en la Avenida 27 de Febrero, núm. 323, Distrito Nacional",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404585&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404585&managementType=1",
   "document_id_consultoria": "3404585",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-160-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-160-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-160-2026.json",
   "sha256_pdf_original": "353db640388de483aca23398a10bb0134423cfa408e6159c8c629c69a4a92a20",
-  "sha256_markdown": "d5578e4e6fa46a24ccaac32f2a052f46c62793e47becee6c2ea1725e0c58304d",
+  "sha256_markdown": "1846094e7d46744aef95610e140c863ba5d151212a807d756a8ff5230218f8ee",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    161
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "160-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/03/2026",
+  "fecha_metadata_fuente": "16/03/2025",
+  "numero_formal_pdf": "160-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

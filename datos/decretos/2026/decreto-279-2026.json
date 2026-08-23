@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "279",
   "anio": "2026",
   "titulo": "que concede la condecoración póstuma de la Orden de Duarte, Sánchez y Mella en el Grado de Gran Cruz Placa de Oro, al señor Ulises Francisco Espaillat, expresidente de la República",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404771&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404771&managementType=1",
   "document_id_consultoria": "3404771",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-279-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-279-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-279-2026.json",
   "sha256_pdf_original": "c5bd711f33a1ef6717cf98543a3c7f6174b4e5adcf28b364fd3f94c96b49221e",
-  "sha256_markdown": "eeade5f37b390e27fcce50c2bb93f490765e1c8ab8ca40824687179a2b19448f",
+  "sha256_markdown": "32e5be4699b663cfd65da43260ffed1ca3ac2102b6db8d2aa937ed32a499332f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "279-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "27/04/2026",
+  "numero_formal_pdf": "279-26"
 }

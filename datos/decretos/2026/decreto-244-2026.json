@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "244",
   "anio": "2026",
   "titulo": "que declara la situación prevista en el artículo 23 de la Ley núm. 147- 02, sobre Gestión de Riesgos, clasificándola con carácter provincial, en la provincia San Cristóbal, como consecuencia de los daños y afectaciones causadas por la vaguada asociada a un sistema de aja presión que ha impactado el territorio nacional, generando daños significativos en la agricultura, las infraestructuras, las viviendas y otros sectores",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404677&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404677&managementType=1",
   "document_id_consultoria": "3404677",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-244-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-244-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-244-2026.json",
   "sha256_pdf_original": "7b5546e8d5ffce84602bc305f1daa1ffd7c9f39604f8e54ca07bdc44893eefb7",
-  "sha256_markdown": "ed850a0f7eaa0f0f7d29604574bc24f19be87ae71ae72cd9f113c6adf99a0753",
+  "sha256_markdown": "73fafa2bea9cabaf7af97d78fdf7b7edf28772c9fd5e5a5821ce2694628c5899",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    245
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "244-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "14/04/2026",
+  "numero_formal_pdf": "244-26"
 }

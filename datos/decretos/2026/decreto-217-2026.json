@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "217",
   "anio": "2026",
   "titulo": "que concede pensiones del Estado por el monto de diez mil pesos dominicanos con 00/100 (RD$10,000.00) mensuales, a 79 afiliados del antiguo Instituto Dominicano de Seguros Sociales",
@@ -10,16 +12,27 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404649&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404649&managementType=1",
   "document_id_consultoria": "3404649",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-217-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-217-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-217-2026.json",
   "sha256_pdf_original": "52bb204edb7f27e0dbff2878ba42be14e6900978dc91ceac35ce2bc4a6fa8919",
-  "sha256_markdown": "959055b548e2f108f3abaeee5eb97874cee79d2657403011af4cc43aa8ff66ac",
+  "sha256_markdown": "dbce5f5c3b8595e030aaf73898dad7a715ef7e194a0dd57473f95343fa2e22c0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "217-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "217-26",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
 }

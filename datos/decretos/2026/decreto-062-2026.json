@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "062",
   "anio": "2026",
   "titulo": "que declara de duelo oficial el día primero (1) de Febrero del presente año, con motivo del fallecimiento del señor Ramón Alburquerque Ramírez",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404415&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404415&managementType=1",
   "document_id_consultoria": "3404415",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-062-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-062-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-062-2026.json",
   "sha256_pdf_original": "508efefb3d06987ba336e7d7c3cea89ab573f4e72fd6ec66234e699447a45ecb",
-  "sha256_markdown": "c476d4c0450923f79af807fbed5e3917fdcd6112562c821530da385116ea1514",
+  "sha256_markdown": "4d43094d9dcc71e72f1e6b9edbb22c92a7d541912ad200ca729365cf8b09bfde",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    63
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "62-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/01/2026",
+  "numero_formal_pdf": "62-26"
 }

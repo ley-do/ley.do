@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "215",
   "anio": "2026",
   "titulo": "que deroga el Decreto núm.162-25, que dispuso la constitución del Fideicomiso Público para la Gestión del Teleférico de Puerto Plata (Fideicomiso Público FI-TEPP)",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404643&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404643&managementType=1",
   "document_id_consultoria": "3404643",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-215-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-215-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-215-2026.json",
   "sha256_pdf_original": "a59315c77e1c05f0f47e11183eb9e9769e9635a438c58724cb0ede0efe6872b9",
-  "sha256_markdown": "00365d829cf612cf2bab9e555d078ba0e74d4c46be1b1d5125c8f13e1dea2378",
+  "sha256_markdown": "992879c4ab3aae89ba1d93824b38d1ae1499efae715203be3fd0f9a17f2bb1a7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    216
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "215-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "31/03/2026",
+  "numero_formal_pdf": "215-26"
 }

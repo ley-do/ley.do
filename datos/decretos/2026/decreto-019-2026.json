@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "019",
   "anio": "2026",
   "titulo": "que deroga el decreto núm. 284-91, que aprueba el Reglamento Técnico para el Estacionamiento Vehicular en Edificaciones, Instalaciones Eléctricas en Edificaciones – Parte I y para Proyectos sin Barreras Arquitectónicas, y los decretos núms. 576-06, 577-06, 280-07, 436-07, 677-09, 572-10, 85-11, 201-11, 50-12, 361-15 y 232- 17",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404196&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404196&managementType=1",
   "document_id_consultoria": "3404196",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-019-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-019-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-019-2026.json",
   "sha256_pdf_original": "131fc3bf837694bda4f396eb35ffbb5d6509c5d3ca7dbeffc712c2510bd3794b",
-  "sha256_markdown": "bee90f1e3e096b288d8128dda5fad8f6dadec2ed1c7b13781647bc68b568c532",
+  "sha256_markdown": "f492d3868e77c7a460d5b97488b26bc2e43c1207a8cb29b34b37f8b6f80849a5",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "19-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/01/2026",
+  "numero_formal_pdf": "19-26"
 }

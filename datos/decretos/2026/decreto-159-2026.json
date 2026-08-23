@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "159",
   "anio": "2026",
   "titulo": "que concede pensiones especiales del Estado a 33 personas",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404567&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404567&managementType=1",
   "document_id_consultoria": "3404567",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-159-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-159-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-159-2026.json",
   "sha256_pdf_original": "5d75f22fe80d564782ef74b94a8727d53cfd56292f99e6fe81cc9a3138c2a59a",
-  "sha256_markdown": "01244e82cdb49caf4824db18ea1ff73ebc8861ad1a4704ee6ce1b12990412a26",
+  "sha256_markdown": "4fbc0662d67135317b1b61f0bef71b48d7f4fe4d14c58c04892e54918e560b42",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "159-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/03/2026",
+  "numero_formal_pdf": "159-26"
 }

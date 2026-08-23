@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "051",
   "anio": "2026",
   "titulo": "que ordena la racionalización de componentes importantes del gasto público por medio de la aplicación y cumplimiento de un conjunto de medidas administrativas. Las disposiciones del presente decreto aplican a los entes y órganos que conforman la Administración Pública bajo dependencia del Poder Ejecutivo. El presente decreto no aplica a los demás poderes del Estado, ni a los órganos de rango constitucional. Prohíbe compras de vehículos de motor, las exoneraciones de los mismos, y su uso los sábados, domingos y días feriados. Exceptúan de esta disposición los servidores públicos vinculados a la seguridad nacional y el personal del sector salud, incluyendo los miembros del Gabinete de Salud",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404403&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404403&managementType=1",
   "document_id_consultoria": "3404403",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-051-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-051-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-051-2026.json",
   "sha256_pdf_original": "41ba0462b740bfa90c710ba02ee3681a9a541baae3f994641a84edd80c8fb35a",
-  "sha256_markdown": "eac1b77250b7f44778aa055b30626137a3b3a97d4776b576b622027ead8ec60f",
+  "sha256_markdown": "d36d00d5d9a534a6ab43210da1e931285d67d69b3bf3a1dd4fdada8a4e0f22ff",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "51-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "28/01/2026",
+  "numero_formal_pdf": "51-26"
 }

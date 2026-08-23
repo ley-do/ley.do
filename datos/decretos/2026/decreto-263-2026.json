@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "263",
   "anio": "2026",
   "titulo": "que deroga el artículo 3 del Decreto núm. 153-22, que designó al señor Luis Ernesto Cornielle Segura, vicecónsul de nuestro país en Valencia, Reino de España",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404751&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404751&managementType=1",
   "document_id_consultoria": "3404751",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-263-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-263-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-263-2026.json",
   "sha256_pdf_original": "bcd428fc21588d4a10706307113bf859256d82c3583873deba331547c19787ef",
-  "sha256_markdown": "be06e324b73a99af5e18a09593c64946eea13e7a6579bf88d87abbb97d54e8a6",
+  "sha256_markdown": "4c03111fdc9e4997ff732649bb2bc46d7364e581b2bd1d942ea965d16bea460d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "263-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "20/04/2026",
+  "numero_formal_pdf": "263-26"
 }

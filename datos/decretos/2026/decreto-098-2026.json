@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "098",
   "anio": "2026",
   "titulo": "que acoge parcialmente la Resolución núm. 6948, dictada por la Comisión Aeroportuaria y dispone un reajuste de USD$1.10 por concepto de una tasa especializada por uso de infraestructuras que perciben exclusivamente los aeropuertos concesionados, e instruye a las empresas concesionarias a cargo de los aeropuertos estatales a pagar, a favor del Departamento Aeroportuario, la tasa aeroportuaria gubernamental de USD$1.66 por pasajero transportado en la entrada y salida, y un ajuste de USD$0.18 a la tasa especializada de cargo por manejo de equipaje que perciben exclusivamente los aeropuertos concesionados por cada pasajero transportado con cargo a las líneas aéreas comerciales y chárters, en su condición de agentes de retención, la cual queda fijada en USD3.50",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404454&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404454&managementType=1",
   "document_id_consultoria": "3404454",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-098-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-098-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-098-2026.json",
   "sha256_pdf_original": "460a97e294ca08e048f02fba51e63d60146614654ac6c59829f393d0e0a1f631",
-  "sha256_markdown": "664897d9b1e47d85212cb1f697984b7bfe6a8aa0c730889ec5f8d43d3c9a81fc",
+  "sha256_markdown": "69949fb8c5f0782348c10e824c1fa263ad7ff65edfb81e94fe43a038598d4920",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "98-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/02/2026",
+  "numero_formal_pdf": "98-26"
 }

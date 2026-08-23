@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "248",
   "anio": "2026",
   "titulo": "que modifica el párrafo del artículo 1 del Decreto núm. 191-21, en la redacción dada por el Decreto núm. 114-25. Dispone que el valor máximo de la vivienda de interés social será determinado, revisado y actualizado mediante resolución motivada por el ministro de la Vivienda, Hábitat y Edificaciones y lo instruye a realizar las gestiones necesarias para la readecuación de los instrumentos jurídicos, contractuales y normativos vinculados al fideicomiso FONVIVIENDA",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404680&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404680&managementType=1",
   "document_id_consultoria": "3404680",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-248-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-248-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-248-2026.json",
   "sha256_pdf_original": "496f077458516851ec30f4928340211b82f037d30b047a4f341aa2f3e762de77",
-  "sha256_markdown": "d037d54c402ed78a9260f85ba940e7103631e53038d1adc1d580eb293b716a64",
+  "sha256_markdown": "c1f363dcc3c057ccb45c7039435a5712d3ce5f3d1c8f9c104a99d1b1705e18b2",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    249
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "248-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/04/2026",
+  "numero_formal_pdf": "248-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "140",
   "anio": "2026",
   "titulo": "que designa 6 embajadores extraordinarios y plenipotenciarios, concurrentes, de nuestro país en la República Democrática Socialista de Sri Lanka, con sede en la República de la India; ante la Mancomunidad de Dominica con sede en Antigua y Barbuda; en San Cristóbal y Nieves, con sede en Antigua y Barbuda; en la República de Maldivas, con sede en la República de la India; ante el Reino de Cambodia, con sede en la República Socialista de Vietnam y en la República de San Marino, con sede en la República Italiana",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404562&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404562&managementType=1",
   "document_id_consultoria": "3404562",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-140-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-140-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-140-2026.json",
   "sha256_pdf_original": "fbb356a7b2abc2d4c81e38595c05b5a8b1f5c2d2276b49fc24fb3c6f266b39f1",
-  "sha256_markdown": "e07f1b9525c279f525da0ad86332d2e3146a440ea882eed65daa0a8d582be696",
+  "sha256_markdown": "b2d8bfbe125957a83a94e9c9fe588b58939749eac43116a5ad8ae40f2626863e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    141
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "140-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "03/03/2026",
+  "numero_formal_pdf": "140-26"
 }

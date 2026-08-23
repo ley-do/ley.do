@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "156",
   "anio": "2026",
   "titulo": "que deroga el artículo 8 del Decreto núm. 644-20, que designó a la señora María de los Santos Agramonte Rosario, vicecónsul en el Consulado de nuestro país en Oranjestad, Aruba",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404582&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404582&managementType=1",
   "document_id_consultoria": "3404582",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-156-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-156-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-156-2026.json",
   "sha256_pdf_original": "ea39b20aa74d1dd226bba9e873ddd943a256d5e12a9ab47933c985bb284f0981",
-  "sha256_markdown": "c94a504de5f01b63fe660b4e91735f7f29910a638171356b45fea50ce6364504",
+  "sha256_markdown": "047bd74ab6a0d89c2a607161a6072ea36936540baa94a233d0b33f97b79542f8",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    157
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "156-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/03/2026",
+  "numero_formal_pdf": "156-26"
 }

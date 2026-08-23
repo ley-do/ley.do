@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "359",
   "anio": "2026",
   "titulo": "que otorga exequátur a varios profesionales para ejercer profesiones diferentes",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405858&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405858&managementType=1",
   "document_id_consultoria": "3405858",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-359-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-359-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-359-2026.json",
   "sha256_pdf_original": "6813f347b2a0f41d8c7953cf5c7cc9dba6f96385e77a816a4b7ab1ba495112d2",
-  "sha256_markdown": "2aaaad30c3d5baafe130db24fa9a9cdb3a39c0430a632c2dceb78aecdbdeb123",
+  "sha256_markdown": "21a389f4df344ce7167073da2c66b6be6652c53e3bd0fb32b647ccea905d9996",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    360
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "359-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "02/06/2026",
+  "numero_formal_pdf": "359-26"
 }

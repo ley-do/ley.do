@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "294",
   "anio": "2026",
   "titulo": "que designa a los señores Eymi Jiménez Horimitsu, Alexandra Arias Orowska y Samuel Jonatan Castro Martínez, ministros consejeros en el servicio interno del Ministerio de Relaciones Exteriores. Deroga varios artículos de los decretos núms. 223-11, 18-15, 124-02, 1088-04, 727-08 y 657-11",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404782&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404782&managementType=1",
   "document_id_consultoria": "3404782",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-294-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-294-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-294-2026.json",
   "sha256_pdf_original": "e8554d2104406ce50b48ce8bd7d70c2a781bdba425267f74d84007268fe95403",
-  "sha256_markdown": "1b1aff4895eed4c569307882ffc5f8b24ff72e565440a7d441691f7d7226571a",
+  "sha256_markdown": "7372c7ab12dc2b1ab5d637e702b5750b51aad46386e3eed99e074ef91a83c111",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    295
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "294-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/04/2026",
+  "numero_formal_pdf": "294-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "024",
   "anio": "2026",
   "titulo": "que reajusta las pensiones de que disfrutan nueve (9) personas",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404212&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404212&managementType=1",
   "document_id_consultoria": "3404212",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-024-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-024-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-024-2026.json",
   "sha256_pdf_original": "8db5e18c23e58daa1fd47604dcaa7381900e5e4d147d332c7461411be02df87a",
-  "sha256_markdown": "087d2457876e9548b6b8a40104e82207a8d59f0300ef3d97b80b8fccae2614f9",
+  "sha256_markdown": "12dff17822ac6536b2b7d2152bc035bb97e26ab6fd88479f913aad31c0c5c02b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    25
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "24-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/01/2026",
+  "numero_formal_pdf": "24-26"
 }

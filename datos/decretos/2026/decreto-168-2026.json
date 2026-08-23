@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "168",
   "anio": "2026",
   "titulo": "que concede la nacionalidad dominicana a título de naturalización privilegiada al señor Adelio Gómez González, de nacionalidad española",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404603&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404603&managementType=1",
   "document_id_consultoria": "3404603",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-168-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-168-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-168-2026.json",
   "sha256_pdf_original": "9afc81d9ccb11de6403093c2a55ac9104c6a720ba3114f0f513b6263db776568",
-  "sha256_markdown": "cb56f57885ff6c8b3211d3ed9ad42a32d8ad1320bae707111a87f9e34c8c3de3",
+  "sha256_markdown": "15e40a4b0e6b2d6b240632b4c30ba3afb1684207e8b316337cb51e254243e51d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    169
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "168-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/03/2026",
+  "fecha_metadata_fuente": "16/03/2025",
+  "numero_formal_pdf": "168-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

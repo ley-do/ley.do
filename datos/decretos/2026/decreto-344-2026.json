@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "344",
   "anio": "2026",
   "titulo": "dispone que las instituciones sujetas al ámbito de aplicación de la Ley núm. 47-25, de Contrataciones Públicas, podrán otorgar, de manera facultativa, hasta un máximo de un 20% del valor del contrato u orden de compra o de servicio correspondiente, por concepto de anticipo, y en el caso de las Mipymes el anticipo será de un 30%",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404884&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404884&managementType=1",
   "document_id_consultoria": "3404884",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-344-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-344-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-344-2026.json",
   "sha256_pdf_original": "0beffb3c00e054e02fabe0b2a38d5fdafccf81656c09903c5c1dca6da50a2465",
-  "sha256_markdown": "53e0aa4780c9ab6aee74dea13a85ae9ab033332f4b74d37511160da84736acc0",
+  "sha256_markdown": "4b4ccbc7a4a6edfd9d2e04fe46f681eb81511cf13e30d9984c7e259629ce72e0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    345
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "344-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "25/05/2026",
+  "numero_formal_pdf": "344-26"
 }

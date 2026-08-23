@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "304",
   "anio": "2026",
   "titulo": ", que declara de utilidad pública e interés social la adquisición por el Estado dominicano de una porción de terreno con un área de 24,296.21 mt2, propiedad de diferentes personas, ubicada en el municipio San Francisco de Macorís, provincia Duarte, para ser destinada al Proyecto de Titulación Masiva",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404849&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404849&managementType=1",
   "document_id_consultoria": "3404849",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-304-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-304-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-304-2026.json",
   "sha256_pdf_original": "ffb59d434d6b55ccdaf959842ba065f6f579ff959cdc61c1cf638ff9c920e315",
-  "sha256_markdown": "927b3e4bf6f214be2eb8a1603e65a3a54cd238bf89ab0e95dade8b52f1f55e6f",
+  "sha256_markdown": "f0cbdf1f439d3cef09d1ed7defd10ad7765de0ec8df568535cf421f15957a539",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "304-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "06/05/2026",
+  "numero_formal_pdf": "304-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "323",
   "anio": "2026",
   "titulo": "que extiende por un plazo de 30 días contados a partir del vencimiento del plazo establecido en el artículo 7 del Decreto núm. 256-26, la declaratoria de emergencia de las contrataciones de bienes, servicios y obras necesarias para la ejecución de labores de reparación, construcción y reconstrucción de los daños ocasionados por la vaguada que ha afectado de manera significativa la provincia San Cristóbal",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404833&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404833&managementType=1",
   "document_id_consultoria": "3404833",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-323-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-323-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-323-2026.json",
   "sha256_pdf_original": "0d48de1db29e4aa142fbd3af1c08037d766abbbe3f805f4d5993f646d9ec559c",
-  "sha256_markdown": "4d130c87dbec53f0d8fd2d4ecdf1d34c1bc755278c975f43e98173b5711a3043",
+  "sha256_markdown": "32237b751f847222d61e20cfd11af8bca5059b3e3b5b531e82592b6a53c60bf8",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "323-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/05/2026",
+  "numero_formal_pdf": "323-26"
 }

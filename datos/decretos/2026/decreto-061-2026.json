@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "061",
   "anio": "2026",
   "titulo": "que crea la Unidad Ejecutora del Proyecto “La Ruta del Encuentro”, adscrita al Ministerio de la Presidencia, con el objetivo de ejecutar y poner en funcionamiento una ruta turística, histórica y cultural en el espacio geográfico que abarcó el primer sendero trazado por los europeos en la Isla de Santo Domingo. Dicha Unidad Ejecutora contará con un director ejecutivo, designado por el presidente de la República",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404409&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404409&managementType=1",
   "document_id_consultoria": "3404409",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-061-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-061-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-061-2026.json",
   "sha256_pdf_original": "7e4e66e7e7261634383d09f7c5e3f790e89d34d52f2f6aaf87d74dffee7559d1",
-  "sha256_markdown": "f8a2c437b2d5492576626128d25de7c154107b92c02118456ebb4d527aa9554e",
+  "sha256_markdown": "33425f056b9f2c9a3294ca67af80a698c642723bcb165a411cf961d6b3c8d5f8",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    62
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "61-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/01/2026",
+  "numero_formal_pdf": "61-26"
 }

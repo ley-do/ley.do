@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "345",
   "anio": "2026",
   "titulo": "que modifica el artículo 7 del Decreto núm. 276-04. Autoriza al Ayuntamiento del Distrito Nacional a vender a los señores Freddy L. Noboa y Rosa Ligia de Noboa, una porción de terreno de 181.25 mt2, ubicada en la parcela núm. 150- A-1-A, del distrito catastral núm. 2, del Distrito Nacional, en el sector Villa Alejandrina, del kilómetro 9 ½, de la Avenida Independencia, por la suma de RD$145,000.00",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404885&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404885&managementType=1",
   "document_id_consultoria": "3404885",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-345-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-345-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-345-2026.json",
   "sha256_pdf_original": "e6319235b9c8ade077fc9c774b439b9fe1ef42611d3176b06b22837a7b8ee04b",
-  "sha256_markdown": "4e157de7f79b67ac2e5466b02f59767422076ab2562cde90c1b79f9a04e59878",
+  "sha256_markdown": "833b90efacff396cd08156e0322a3fef4624f43650f2a58b2171e45125fe70e6",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    346
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "345-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "27/05/2026",
+  "numero_formal_pdf": "345-26"
 }

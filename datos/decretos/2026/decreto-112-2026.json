@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "112",
   "anio": "2026",
   "titulo": "que designa al señor Félix María Tena de Sosa, subconsultor jurídico del Poder Ejecutivo",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404474&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404474&managementType=1",
   "document_id_consultoria": "3404474",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-112-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-112-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-112-2026.json",
   "sha256_pdf_original": "5964b7787f2eecd5e0d3e47d8e2f2195e8b1ad4836047905040b663671458986",
-  "sha256_markdown": "4e07c0cbb0ab2d5fc6fa5620e9034e6e002ec0b851e7e6fa43413aadd0a9cee2",
+  "sha256_markdown": "ce2412db75bb8be896de6dc4e5d74a76d856ed6f0d1d264437743e03e2644fb1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    113
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "112-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "18/02/2026",
+  "numero_formal_pdf": "112-26"
 }

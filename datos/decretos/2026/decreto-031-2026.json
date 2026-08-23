@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "031",
   "anio": "2026",
   "titulo": "que concede el beneficio de una pensión del Estado por el monto de diez mil pesos dominicanos con 00/100 (RD$10,000.00) mensuales, a 99 afiliados del antiguo Instituto Dominicano de Seguros Sociales",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404379&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404379&managementType=1",
   "document_id_consultoria": "3404379",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-031-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-031-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-031-2026.json",
   "sha256_pdf_original": "6d38fda04bc84a41178469787f5b8655eacbedf15d884ea5b03d0aef698abd8a",
-  "sha256_markdown": "55198e32d51e0587f191472c41222fd849daca9325140be539ba1af87f661252",
+  "sha256_markdown": "bbcf9c4bbbf77cc6ab12a17e8dd5da31e83251ec328fbb5b5aac473b83fbb2b7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "31-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/01/2026",
+  "numero_formal_pdf": "31-26"
 }

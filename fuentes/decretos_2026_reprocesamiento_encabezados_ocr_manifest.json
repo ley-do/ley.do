@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.1",
+  "fecha_ejecucion": "2026-08-22T14:21:58.120650+00:00",
+  "anio": 2026,
+  "inventario": "fuentes/consultoria_decretos_2026_reconciliado.json",
+  "sha256_inventario": "ade5a300d0844a1e900f13854aa15113e77d194b20cd543c1f2f4964ee84b5fd",
+  "numeros": [
+    111,
+    240,
+    409
+  ],
+  "estado": "completado",
+  "resultado": {
+    "ok": [
+      111,
+      240,
+      409
+    ],
+    "errors": []
+  }
+}

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "305",
   "anio": "2026",
   "titulo": "que autoriza a varios oficiales superiores, de la Fuerza Aérea de la República Dominicana, para que puedan aceptar y usar la condecoración de la “Medalla por Perseverancia RIAN”, otorgada por la Secretaría General Ejecutiva de la Red Internacional Antinarcóticos",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404850&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404850&managementType=1",
   "document_id_consultoria": "3404850",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-305-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-305-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-305-2026.json",
   "sha256_pdf_original": "7c7edd2bf219c6196fc50c6ebd80b141b1d04cf5262c921b29332517376a361c",
-  "sha256_markdown": "16a1ffa932e04972013b7026d58664c0b0a074e4d008ab32544966da94fbcdf2",
+  "sha256_markdown": "47d345b9aa334c5b97b9887009ee918d8c3896c11f91e8ceaf20743c7a28cefe",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    306
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "305-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "06/05/2026",
+  "numero_formal_pdf": "305-26"
 }

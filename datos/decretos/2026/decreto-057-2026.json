@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "057",
   "anio": "2026",
   "titulo": "que nombra a los señores Raidon Rafael Moscoso Castillo y Juan Antonio Gómez Willians, viceministros en distintas áreas del Ministerio de Agricultura. Deroga el artículo 1 del Decreto núm. 245-22 y el artículo 2 de Decreto núm. 609-21",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404412&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404412&managementType=1",
   "document_id_consultoria": "3404412",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-057-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-057-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-057-2026.json",
   "sha256_pdf_original": "32ddcbba1480c4367df44824aec2aec6779885ca367c55efc778e3d726f84d97",
-  "sha256_markdown": "e089151770bc5e2c084adcca6ec2014bb165b73e9c07dff2d2b2066281ef67c5",
+  "sha256_markdown": "78c4f52dbfc655160ee6c6ef12a9799ebdd7463b443494ea49193c0db743e4eb",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    58
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "57-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "30/01/2026",
+  "numero_formal_pdf": "57-26"
 }

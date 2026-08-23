@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "341",
   "anio": "2026",
   "titulo": "que concede la naturalización dominicana a título de naturalización privilegiada al señor Juan Alberto Sánchez Prieto, de nacionalidad ecuatoriana",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404881&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404881&managementType=1",
   "document_id_consultoria": "3404881",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-341-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-341-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-341-2026.json",
   "sha256_pdf_original": "c9551877e05d2bb492a9e43fbd8b059e76350c9d605c7216a391ba7122673f30",
-  "sha256_markdown": "fcd92ac4f35194bcd178e7bbadced340155cfc7c1a97e868c00b8b977b00ed94",
+  "sha256_markdown": "677b5c2a24f647b22645ac80e948bd8b52c154b59a9e2de336d3ae097b437216",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    342
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "341-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/05/2026",
+  "numero_formal_pdf": "341-26"
 }

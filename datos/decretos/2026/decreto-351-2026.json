@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "351",
   "anio": "2026",
   "titulo": "que designa al señor Héctor Pastor Vásquez Frías, cónsul general de nuestro país en Caracas, República Bolivariana de Venezuela",
@@ -10,16 +12,47 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405854&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405854&managementType=1",
   "document_id_consultoria": "3405854",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-351-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-351-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-351-2026.json",
   "sha256_pdf_original": "39830b66c962cbea668a8ad70626a3d782edec7508df040a78a18e32ec4b467e",
-  "sha256_markdown": "f04c7b6b36a2c7ca0b4bc6d511e35f39986e580d0b830dbfea10292254ef482a",
+  "sha256_markdown": "72f7d54b9effaf984d6a99ca610dff29cf6e5f33d29369d7b3d04e93f5b7e267",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La consulta oficial contiene el registro adicional ID 3406021 con título de fe de errata para el Decreto núm. 351-26. Se conserva como rendición oficial relacionada y no se crea una segunda identidad documental. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "351-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "rendiciones_oficiales_relacionadas": [
+    {
+      "document_id_consultoria": "3405854",
+      "rol_archivistico": "pdf_canonico_publicado_en_gaceta",
+      "ruta_pdf_local": "archivos/decretos/2026/decreto-351-2026.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405854&managementType=2",
+      "sha256_pdf": "39830b66c962cbea668a8ad70626a3d782edec7508df040a78a18e32ec4b467e",
+      "capa_texto": true,
+      "paginas": 2
+    },
+    {
+      "document_id_consultoria": "3406021",
+      "rol_archivistico": "pdf_republicado_fe_de_errata",
+      "ruta_pdf_local": "archivos/decretos/2026/decreto-351-2026-fuente-3406021.pdf",
+      "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3406021&managementType=2",
+      "sha256_pdf": "4addb948c4911c02dc33b3cc06e45cd0190c0d0d8327ee63be74bc3a08d9a82d",
+      "capa_texto": true,
+      "paginas": 1
+    }
+  ],
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "01/06/2026",
+  "numero_formal_pdf": "351-26",
+  "alertas_revision": [
+    "La consulta oficial contiene el registro adicional ID 3406021 con título de fe de errata para el Decreto núm. 351-26. Se conserva como rendición oficial relacionada y no se crea una segunda identidad documental."
+  ]
 }

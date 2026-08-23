@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "307",
   "anio": "2026",
   "titulo": "que declara de alto interés nacional la recepción de la auditoría que realizará la Organización de Aviación Civil Internacional (OACI) a la República Dominicana, del 8 al 19 de junio de 2026, en el marco del Programa Universal de Auditoría de la Seguridad de la Aviación (USAP-CMA), para determinar el grado de cumplimiento de las normas y métodos recomendados del Anexo 17, sobre Seguridad de la Aviación Civil y las disposiciones relacionadas con la seguridad de la aviación que figuran en el Anexo 9, sobre Facilitación de la OACI",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404851&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404851&managementType=1",
   "document_id_consultoria": "3404851",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-307-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-307-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-307-2026.json",
   "sha256_pdf_original": "6414fdb7b61b15601947b2739a465c8fdd225013f36a64ba9c3eb362fd0187ce",
-  "sha256_markdown": "0a77783e44ad85abc51882a8e6869d6bfe4eac2773f5669d3bc09886d783e019",
+  "sha256_markdown": "9ca9c23432f473fb2e4975fb3e819f7f7444a7c4da869eecfd16a2fdf2197211",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    308
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "307-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "06/05/2026",
+  "numero_formal_pdf": "307-26"
 }

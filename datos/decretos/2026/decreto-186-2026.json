@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "186",
   "anio": "2026",
   "titulo": "que crea e integra el Comité para la Gestión de la Plaza Multicultural Seibana, hasta tanto sea formalmente incorporado como voluntariado en el Registro de Voluntariados en Instituciones Públicas, de conformidad con la Ley núm.61-13 y su Reglamento de Aplicación",
@@ -10,16 +12,28 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404614&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404614&managementType=1",
   "document_id_consultoria": "3404614",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-186-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-186-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-186-2026.json",
   "sha256_pdf_original": "6a31ea15ee5b3a765075c5af980e42e42812dd82093e3746dd71798b047e45e6",
-  "sha256_markdown": "1b09e2fa1be546d57322174ffb5258a75d5ab9e342e63b9b38224b8995375d9c",
+  "sha256_markdown": "2d979e35e733755fce8fd4826168df5f54de2e24a4e18b6a7d6c5ca5f73e66a1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "186-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/03/2026",
+  "fecha_metadata_fuente": "19/03/2025",
+  "numero_formal_pdf": "186-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }
