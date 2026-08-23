@@ -34,6 +34,26 @@ def nint(v):
     m=re.match(r"\s*0*(\d+)\s*-",v or "")
     return int(m.group(1)) if m else None
 
+
+def evidencia_discrepancia_formal_valida(evidencia, registro, numero, anio, numero_formal, sha256_pdf):
+    """Comprueba una excepción archivística sin decidir cuál número es jurídicamente correcto."""
+    if not isinstance(evidencia, dict):
+        return False
+    esperado = {
+        "tipo_evidencia": "discrepancia_formal_pdf",
+        "estado_revision": "pendiente_revision",
+        "document_id_consultoria": str(registro.get("document_id_consultoria") or "").strip(),
+        "identidad_esperada": f"{numero}-{str(anio)[-2:]}",
+        "numero_formal_observado_pdf": str(numero_formal or "").strip(),
+        "ruta_pdf_local": f"archivos/decretos/{anio}/decreto-{numero:03d}-{anio}.pdf",
+        "url_pdf_oficial": str(registro.get("url_documento_consultoria_descargar") or "").strip(),
+        "sha256_pdf": str(sha256_pdf or "").lower(),
+    }
+    if any(str(evidencia.get(campo) or "").strip() != valor for campo, valor in esperado.items()):
+        return False
+    pagina = evidencia.get("pagina_pdf")
+    return isinstance(pagina, int) and not isinstance(pagina, bool) and pagina >= 1
+
 MESES={"enero":1,"febrero":2,"marzo":3,"abril":4,"mayo":5,"junio":6,"julio":7,"agosto":8,"septiembre":9,"setiembre":9,"octubre":10,"noviembre":11,"diciembre":12}
 
 def fecha_dado(pages,year):
@@ -65,6 +85,22 @@ def reflow(text):
     if current: blocks.append(" ".join(current))
     return "\n\n".join(blocks).strip()
 
+def _numero_ocr_normalizado(value):
+    texto=re.sub(r"\s+","",str(value or ""))
+    texto=texto.replace("¿i","4").replace("¿I","4").replace(".","")
+    return texto.translate(str.maketrans({"T":"1","t":"1","I":"1","l":"1","O":"0","o":"0"}))
+
+
+def _coincide_numero_ocr_tolerado(value,n,yy):
+    full_year=f"20{yy}" if len(yy)==2 else yy
+    return _numero_ocr_normalizado(value) in {f"{n}-{yy}",f"{n}-{full_year}"}
+
+
+def _es_numero_formal_exacto(value,n,yy):
+    full_year=f"20{yy}" if len(yy)==2 else yy
+    return bool(re.fullmatch(rf"0*{n}\s*-\s*(?:{re.escape(yy)}|{re.escape(full_year)})",str(value or "")))
+
+
 def extract(pdf,n,yy):
     doc=pymupdf.open(pdf); texts=[p.get_text("text") for p in doc]; doc.close()
     full_year=f"20{yy}" if len(yy)==2 else yy; year_token=rf"(?:{re.escape(yy)}|{re.escape(full_year)})"
@@ -72,6 +108,8 @@ def extract(pdf,n,yy):
     truncated=re.compile(rf"(?im)^(?P<clase>ec\.)\s*(?:núm\.|No\.)\s*(?P<numero>0*{n}\s*-\s*{year_token})\b",re.I)
     formal=re.compile(rf"(?im)^N[ÚU]MERO:\s*(?P<numero>0*{n}\s*-\s*{year_token})\b",re.I)
     formal_any=re.compile(r"(?im)^N[ÚU]MERO:\s*(?P<numero>\d+\s*-\s*(?P<anio>\d{2}|\d{4}))\b",re.I)
+    ocr_formal=re.compile(r"(?im)^N[ÚU]MERO:\s*(?P<numero>[^\r\n]{1,24})",re.I)
+    tiene_marcador_decreto=any(re.search(r"(?im)^DECRETO:\s*$",texto) for texto in texts)
     summary_neighbor=re.compile(r"(?im)^(?:Dec\.|Regl\.|ec\.)\s*(?:(?:núm\.|No\.)\s*)?(?P<numero>\d+)\s*-\s*(?P<anio>\d{2}|\d{4})\b",re.I)
     formal_neighbor=re.compile(r"(?im)^N[ÚU]MERO:\s*(?P<numero>\d+)\s*-\s*(?P<anio>\d{2}|\d{4})\b",re.I)
     all_formals=[(page_index,match) for page_index,text in enumerate(texts) for match in formal_any.finditer(text)]
@@ -84,6 +122,10 @@ def extract(pdf,n,yy):
                 m=formal.search(text); formal_only=bool(m)
             if not m and sole_formal and sole_formal[0]==page_index:
                 m=sole_formal[1]; formal_only=True
+            if not m and tiene_marcador_decreto:
+                candidatos=[candidate for candidate in ocr_formal.finditer(text) if _coincide_numero_ocr_tolerado(candidate.group("numero"),n,yy)]
+                if len(candidatos)==1:
+                    m=candidatos[0]; formal_only=True
             if not m: continue
             if text[:m.start()].strip(): trimmed.append("fragmento_anterior")
             clase_encabezado="Dec." if formal_only else m.group("clase"); numero_encabezado=re.sub(r"\s+","",m.group("numero")); text=text[m.start():]; begun=True
@@ -114,13 +156,15 @@ def title(pages,n,yy,year):
     text=re.sub(r"\s*G\.\s*O\.\s*núm\..*$","",text,flags=re.I).strip().rstrip(".")
     return text or f"Decreto núm. {n:03d}-{year}"
 
-def markdown(n,year,d,pages,hpdf,state,trimmed,clase_encabezado):
-    t=title(pages,n,str(year)[-2:],year); es_reglamento=clase_encabezado.lower().startswith("regl") if clase_encabezado else False; tipo="reglamento" if es_reglamento else "decreto"; etiqueta="Reglamento" if es_reglamento else "Decreto"
-    out=[f"# {etiqueta} núm. {n:03d}-{year}\n\n",'!!! warning "Aviso"\n    LEY.DO no es una fuente oficial. Verifique este documento contra la fuente oficial indicada.\n    LEY.DO no ofrece asesoría legal.\n\n',"## Metadata\n\n",f"- Tipo de documento: {tipo}\n- Número: {n:03d}\n- Año: {year}\n- Título detectado: {md_text(t)}\n- Fecha: {md_text(d.get('fecha_documento',''))}\n- Gaceta oficial: {md_text(d.get('gaceta_oficial',''))}\n- Institución fuente: {md_text(d.get('institucion_fuente',''))}\n",f"- Fuente oficial: {official_link(d.get('url_fuente_oficial',''))}\n- Documento oficial: {official_link(d.get('url_documento_consultoria_abrir',''))}\n- Descarga oficial: {official_link(d.get('url_documento_consultoria_descargar',''))}\n",f"- Hash SHA256 del PDF: `{hpdf}`\n- Estado de revisión: pendiente_revision\n\n## Texto\n\n"]
+def markdown(n,year,d,pages,hpdf,state,trimmed,clase_encabezado,titulo_override=""):
+    t=str(titulo_override or "").strip() or title(pages,n,str(year)[-2:],year); es_reglamento=clase_encabezado.lower().startswith("regl") if clase_encabezado else False; tipo="reglamento" if es_reglamento else "decreto"; etiqueta="Reglamento" if es_reglamento else "Decreto"; es_ocr=state=="ocr_asistido_pendiente_revision"; bt=chr(96)
+    aviso_ocr='!!! warning "Texto OCR pendiente de revisión"\n    El texto siguiente fue generado mediante OCR local desde el PDF oficial. Puede contener errores de lectura o formato; coteje cada pasaje contra el PDF.\n\n' if es_ocr else ""
+    out=[f"# {etiqueta} núm. {n:03d}-{year}\n\n",'!!! warning "Aviso"\n    LEY.DO no es una fuente oficial. Verifique este documento contra la fuente oficial indicada.\n    LEY.DO no ofrece asesoría legal.\n\n',aviso_ocr,"## Metadata\n\n",f"- Tipo de documento: {tipo}\n- Número: {n:03d}\n- Año: {year}\n- Título detectado: {md_text(t)}\n- Fecha: {md_text(d.get('fecha_documento',''))}\n- Gaceta oficial: {md_text(d.get('gaceta_oficial',''))}\n- Institución fuente: {md_text(d.get('institucion_fuente',''))}\n",f"- Fuente oficial: {official_link(d.get('url_fuente_oficial',''))}\n- Documento oficial: {official_link(d.get('url_documento_consultoria_abrir',''))}\n- Descarga oficial: {official_link(d.get('url_documento_consultoria_descargar',''))}\n",f"- Hash SHA256 del PDF: {bt}{hpdf}{bt}\n- Estado de revisión: pendiente_revision\n\n## Texto\n\n"]
     if pages:
         for i,page in enumerate(pages,1): out += [f"### Página {i} del PDF\n\n",md_text(page,multiline=True),"\n\n"]
     else: out += ["Texto pendiente de extracción: encabezado esperado no localizado.\n\n"]
-    out += ["## Notas de revisión\n\n- Pendiente de revisión humana.\n",f"- Estado de extracción: `{md_text(state)}`.\n","- Texto extraído automáticamente del PDF oficial y refluido para legibilidad; cotejar contra el PDF.\n"]
+    nota="Texto generado mediante OCR local desde el PDF oficial; puede contener errores de lectura o formato y requiere revisión humana contra el PDF." if es_ocr else "Texto extraído automáticamente del PDF oficial y refluido para legibilidad; cotejar contra el PDF."
+    out += ["## Notas de revisión\n\n- Pendiente de revisión humana.\n",f"- Estado de extracción: {bt}{md_text(state)}{bt}.\n",f"- {nota}\n"]
     if trimmed: out += ["- El PDF contenía fragmentos de decretos vecinos; se delimitaron usando sus encabezados oficiales.\n"]
     return "".join(out)
 
@@ -183,13 +227,18 @@ def run(repo,year,numbers,documentos_explicitos=None,inventario_path=None):
         numero_formal=""; formal_number=None; formal_year=None
         if formal:
             formal_number=int(formal.group(1)); formal_year=formal.group(2); numero_formal=f"{formal_number}-{formal_year}"
-            if formal_year not in {str(year),str(year)[-2:]}:
-                raise ValueError(f"El año formal del PDF ({formal_year}) no corresponde a {year}")
         esperado=f"{n}-{str(year)[-2:]}"; summary_match=re.search(r"(\d+)\s*-\s*(\d{2}|\d{4})",numero_encabezado or "")
         discrepancia_encabezado=bool(summary_match and (int(summary_match.group(1))!=n or summary_match.group(2) not in {str(year),str(year)[-2:]}))
-        discrepancia_formal=bool(formal_number is not None and formal_number!=n)
+        discrepancia_formal=bool(formal_number is not None and (formal_number!=n or formal_year not in {str(year),str(year)[-2:]}))
+        anio_formal_incompatible=bool(formal_year is not None and formal_year not in {str(year),str(year)[-2:]})
+        if anio_formal_incompatible and not evidencia_discrepancia_formal_valida(d.get("evidencia_discrepancia_formal"), d, n, year, numero_formal, hpdf):
+            raise ValueError("Discrepancia formal incompatible sin evidencia reconciliada verificable")
         discrepancia_numero=discrepancia_encabezado or discrepancia_formal; discrepancia_denominacion=clase_encabezado.lower()=="ec."; discrepancia=discrepancia_numero or discrepancia_denominacion
         fecha_fuente=d.get("fecha_documento",""); fecha_pdf=fecha_dado(pages,year); alertas=list(d.get("alertas_revision",[])); hay_dado=bool(re.search(r"\bDAD[OA]\b","\n".join(pages),re.I))
+        encabezado_ocr_tolerado=bool(numero_encabezado and _coincide_numero_ocr_tolerado(numero_encabezado,n,str(year)[-2:]) and not _es_numero_formal_exacto(numero_encabezado,n,str(year)[-2:]))
+        if encabezado_ocr_tolerado:
+            alerta_encabezado_ocr=f"El encabezado NÚMERO observado en el PDF («{numero_encabezado}») contiene una lectura OCR degradada que coincide, tras normalización limitada, con la identidad oficial «{esperado}»; cotejar contra el PDF."
+            if alerta_encabezado_ocr not in alertas: alertas.append(alerta_encabezado_ocr)
         estado_fecha_pdf="detectada" if fecha_pdf else ("clausula_dado_no_parseable" if hay_dado else "clausula_dado_no_detectada")
         if not fecha_pdf and not d.get("observacion_fecha_pdf"):
             alerta_fecha_incompleta="El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia." if hay_dado else "No se detectó una cláusula DADO en el segmento extraído del PDF."
@@ -225,6 +274,8 @@ def run(repo,year,numbers,documentos_explicitos=None,inventario_path=None):
         if fecha_pdf and fecha_fuente and fecha_pdf!=fecha_fuente:
             meta.update({"fecha_metadata_fuente":fecha_fuente})
         if numero_formal: meta["numero_formal_pdf"]=numero_formal
+        if anio_formal_incompatible: meta["evidencia_discrepancia_formal"]=d["evidencia_discrepancia_formal"]
+        if encabezado_ocr_tolerado: meta["encabezado_ocr_tolerado"]=True
         if discrepancia:
             meta.update({"numero_encabezado_pdf":numero_encabezado})
         if alertas:

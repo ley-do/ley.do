@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "100",
   "anio": "2026",
   "titulo": "que autoriza de manera temporal, por un período de seis (6) meses, contado a partir de la publicación del presente decreto, la importación de escopetas, sus municiones y accesorios para polígonos de tiro, a través de empresas importadoras debidamente registradas y habilitadas conforme a la normativa vigente, las cuales deberán contar con licencias, registros y autorizaciones correspondientes. Instruye al Ministerio de Interior y Policía para que, mediante resolución establezca las cantidades máximas, los tipos y demás características de las escopetas y sus municiones a importar al amparo del presente decreto",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404455&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404455&managementType=1",
   "document_id_consultoria": "3404455",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-100-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-100-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-100-2026.json",
   "sha256_pdf_original": "dad6a2532bd6723c7b5f586f9a10f681380341f0be0d4e64c2703b40c3a4cc64",
-  "sha256_markdown": "87f7d9e3497a46ec656ea5af7d4f6cb7d24e210c6ce61f569b9218d21ab43d6c",
+  "sha256_markdown": "9ae9f5bf3c14b2f53841e7c1b3388387c690ad6a627ccb4972c5fbe6a89ece07",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "100-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "13/02/2026",
+  "numero_formal_pdf": "100-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "010",
   "anio": "2026",
   "titulo": "que modifica el artículo 1 del Decreto núm. 240-12. Autoriza a la empresa Amber Cove Cruise Terminal, S.A.S, a hacer uso de una parte de los 60 metros de la franja marítima terrestre para el desarrollo de un puerto de cruceros, ubicado en la Bahía de Maimón, municipio Maimón, provincia Puerto Plata",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404204&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404204&managementType=1",
   "document_id_consultoria": "3404204",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-010-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-010-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-010-2026.json",
   "sha256_pdf_original": "3df92f58b189389ed41c08331c65541da11d111d549b41a642d879ac0a3ed9ac",
-  "sha256_markdown": "35d3091248bfc9cb6f86b2d5b917e498f84a257a6ee2bf6a73f470ce9562c309",
+  "sha256_markdown": "5befe92192598a151fbf77a548caec41c14939e2b839d79aaea9661c453ea414",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "10-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/01/2026",
+  "numero_formal_pdf": "10-26"
 }

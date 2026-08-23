@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "201",
   "anio": "2026",
   "titulo": "que concede la naturalización dominicana, a título de naturalización ordenaría, a 20 personas extranjeras",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404635&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404635&managementType=1",
   "document_id_consultoria": "3404635",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-201-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-201-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-201-2026.json",
   "sha256_pdf_original": "838d22f468d73b8e639e6395a56ea15332ec060b94fcff28622df288f894fb41",
-  "sha256_markdown": "fab463b3aba6aea39eccb7402169f3b5015b71ca038b5927e78dbe29947d79f7",
+  "sha256_markdown": "7c99070f3e288d9fa7bcd2a772a3581f92565b940602e76b083e84b39e8e3a38",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "201-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/03/2026",
+  "numero_formal_pdf": "201-26"
 }

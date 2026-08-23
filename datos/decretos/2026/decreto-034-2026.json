@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "034",
   "anio": "2026",
   "titulo": "que concede la condecoración de la Medalla de la Seguridad de la Aviación Civil, con distintivo azul y verde en su primera y segunda categoría a varios oficiales generales, superiores, subalternos y personal civil por sus servicios excepcionales al Cuerpo Especializado de Seguridad Aeroportuaria y de la Aviación Civil, y con distintivo azul y amarillo, en sus distintas categorías a varios oficiales superiores, subalternos y alistados, por antigüedad y servicio meritorio en dicha institución",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404399&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404399&managementType=1",
   "document_id_consultoria": "3404399",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-034-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-034-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-034-2026.json",
   "sha256_pdf_original": "4be6ee500a46258e13960a0672356ad0f75b4b086338e6adb51c73be02486d83",
-  "sha256_markdown": "c872ee150a8a46a0dbc21f835a30d07c286ede2689adc2acbfef39c938cd9e7a",
+  "sha256_markdown": "9ba702bd05d007f961d391a101638ff339b5f2cc9fc4dca54ce516317279c8e4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    35
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "34-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/01/2026",
+  "numero_formal_pdf": "34-26"
 }

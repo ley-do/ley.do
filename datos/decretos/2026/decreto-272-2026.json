@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "272",
   "anio": "2026",
   "titulo": "que autoriza al capitán de navío Félix Moreno Moreno, ARD, para que pueda aceptar y usar la condecoración de la “Red Interamericana de Telecomunicaciones Navales, América Ad Humanitatem”, otorgada por la Secretaría de la Red Interamericana de Telecomunicaciones Navales, en Mayport, Florida, Estados Unidos de América",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404756&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404756&managementType=1",
   "document_id_consultoria": "3404756",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-272-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-272-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-272-2026.json",
   "sha256_pdf_original": "7a971bef5069378ead83df5b53666fd5108aa5b00ed67857a8139882c1c4358f",
-  "sha256_markdown": "417b6e961f4fb8389004f164ccb90c22d15f7ac0fdba22e948c8ccd7a650ded4",
+  "sha256_markdown": "d2b65e60c7dbb39762eb87723d5482092ae252b9f40f429187317340beb7068a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    273
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "272-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/04/2026",
+  "numero_formal_pdf": "272-26"
 }

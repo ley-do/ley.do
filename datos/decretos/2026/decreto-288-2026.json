@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "288",
   "anio": "2026",
   "titulo": "que declara de utilidad pública e interés social la adquisición por el Estado dominicano del inmueble identificado como designación catastral núm. 400690296228, que tiene una extensión superficial de 13,424.12 mt2, ubicado en Santo Domingo Norte, propiedad de la razón social Faneyte & Genao, S.R.L., (FACENCA), para ser destinada a la construcción del Centro Educativo Secundaria La Ceiba",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404776&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404776&managementType=1",
   "document_id_consultoria": "3404776",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-288-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-288-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-288-2026.json",
   "sha256_pdf_original": "392dceae233eca0001adb88b9e4b862b399919bf3e86819b0713c1fed3070184",
-  "sha256_markdown": "8efe8e6b63d5f7eda3e165506c193e43cb0ff949e5a06b8342d289d7e5e74154",
+  "sha256_markdown": "fd93bd699d9ae5777e0845d8fec44a09d75e7cf083ad488e2efe5384a5249b7a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    289
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "288-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "28/04/2026",
+  "numero_formal_pdf": "288-26"
 }

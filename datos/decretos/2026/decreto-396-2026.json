@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "396",
   "anio": "2026",
   "titulo": "que designa al señor Alan Louis Ramírez Risk, director Administrativo y Financiero del Consejo Nacional para el Cambio Climático y Mercado de Carbono. Deroga el artículo 3 del Decreto núm. 426-20",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405894&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405894&managementType=1",
   "document_id_consultoria": "3405894",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-396-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-396-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-396-2026.json",
   "sha256_pdf_original": "62f73391c97a6399f52d68d10f31b687fd2e40a3a2a471f3ea3d050e249dd0c3",
-  "sha256_markdown": "5e5f37135a21aed31456603118be855f41d555b3233ea7247818f8f709519a76",
+  "sha256_markdown": "257010668237cbdb13d3bf2b743cfa239d095054a01e42ec0bf8b287243c6e48",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    397
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "396-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/06/2026",
+  "numero_formal_pdf": "396-26"
 }

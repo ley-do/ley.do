@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "222",
   "anio": "2026",
   "titulo": "que declara de utilidad pública e interés social la adquisición por el Estado dominicano de siete (7) porciones de terrenos, ubicadas, una en el municipio Bajos de Haina y las restantes en la provincia San Cristóbal, las cuales serán destinadas a la construcción de un puente de paso motorizado peatonal y un retorno en el sector Quita Sueño, de dicha provincia",
@@ -10,16 +12,27 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404663&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404663&managementType=1",
   "document_id_consultoria": "3404663",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-222-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-222-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-222-2026.json",
   "sha256_pdf_original": "4554f8b5a412a88d4a92c65cfab5a9ee038ed71f7168e63eac60cabc885e20d2",
-  "sha256_markdown": "d96fe2318238ed4118022725e4fbf87624ddc1ad5aaebac70ca7a43185768d13",
+  "sha256_markdown": "517747e993f43d79b6f6dfd91a8112c735675da7c9c27a0bdb5dc62df067eaf8",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "222-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "222-26",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
 }

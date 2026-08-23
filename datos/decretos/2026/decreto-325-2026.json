@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "325",
   "anio": "2026",
   "titulo": "que modifica el numeral 25 del artículo 1 del Decreto núm. 158-26. Dispone excluir a la señora Rosaura Campusano Serrano, y le concede una pensión del Estado a la señora Luisa del Carmen Fernández",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404825&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404825&managementType=1",
   "document_id_consultoria": "3404825",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-325-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-325-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-325-2026.json",
   "sha256_pdf_original": "abd0dcb6e7cad8eb33a00477b2923db6c7853d554393d87f3785c1c6091189c1",
-  "sha256_markdown": "7bbb1de5ccf9c5e1f0098b2fa1edf18c98556ad9f99b6eddf750139a77bd88fc",
+  "sha256_markdown": "7b456cfaf6f43496aea8b24024765bc47dfd5ff1baf7de4fe59bcff52b7a9207",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    326
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "325-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/05/2026",
+  "numero_formal_pdf": "325-26"
 }

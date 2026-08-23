@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "292",
   "anio": "2026",
   "titulo": "que modifica el artículo 3 del Decreto núm. 410-14. Dispone que el inmueble identificado como designación catastral núm. 312354699447, que tiene una extensión superficial de 2,001.17 mt2, ubicado en la provincia La Vega, propiedad de los señores Daniel Antonio Rosario Santana, Rafael Brito Santana, Lidia Santana de Placencia y María Elena Gómez Santana, el cual será destinado a la construcción del Centro Educativo Andrea Confesor Fernández",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404780&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404780&managementType=1",
   "document_id_consultoria": "3404780",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-292-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-292-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-292-2026.json",
   "sha256_pdf_original": "ffd741bd506d8ca9acc5441c5ef77943df3075f4ddc83ef1ca602e6e69140919",
-  "sha256_markdown": "07bcef23455fb41bcc8a7f319611446f551dd730e4fdca714545f473652d8267",
+  "sha256_markdown": "cc427532c0bd1aad8399def76ba231b51c41ba09c396080677305609a3c16ce5",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    293
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "292-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "29/04/2026",
+  "numero_formal_pdf": "292-26"
 }

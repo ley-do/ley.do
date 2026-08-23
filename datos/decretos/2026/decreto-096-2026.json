@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "096",
   "anio": "2026",
   "titulo": "que modifica el artículo 1 del Decreto núm. 556-25. Dispone que el señor Luis Ernesto Camilo García queda designado cónsul general de nuestro país en Hong Kong y en la Región Administrativa Especial de Macao, República Popular China",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404452&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404452&managementType=1",
   "document_id_consultoria": "3404452",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-096-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-096-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-096-2026.json",
   "sha256_pdf_original": "d8c4261077f3a2039013288e017a3db046d966a2ecd8b4f7404eb6f57c92cf53",
-  "sha256_markdown": "c556796ae65a26b978655cbc7b9ae203fc6a669c0dce63e7469532e8ef781f20",
+  "sha256_markdown": "84477d3548e18c8ffae31431660f120dd9544e223306aa4337cc2f45c35c36dd",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    97
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "96-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/02/2026",
+  "numero_formal_pdf": "96-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "376",
   "anio": "2026",
   "titulo": "que designa a la señora Sandra Deyanira Lara de los Santos, viceministra de Planificación Sectorial Agropecuaria del Ministerio de Agricultura. Deroga el artículo 5 del Decreto núm. 609-21",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405876&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405876&managementType=1",
   "document_id_consultoria": "3405876",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-376-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-376-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-376-2026.json",
   "sha256_pdf_original": "052e83233ece1515ded1a73d7508cc08fdd9bfe80158da9de8f5204d132c155b",
-  "sha256_markdown": "a97bbac139b460a922354c5ea14113efb64ea814c45f8496da6ac84f68f87b5c",
+  "sha256_markdown": "1bc02b5d8e68ec70dd72bc56891c5b69ce01a4d2acddc276dbd4f14d672441c8",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    377
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "376-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/06/2026",
+  "numero_formal_pdf": "376-26"
 }

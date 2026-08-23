@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "389",
   "anio": "2026",
   "titulo": "que concede pensiones especiales del Estado a 32 personas. Aumenta las pensiones del Estado de que disfrutan 5 personas",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405889&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405889&managementType=1",
   "document_id_consultoria": "3405889",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-389-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-389-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-389-2026.json",
   "sha256_pdf_original": "6c139d2541355f9bb51f60204ba19979d811c793ce2d429fe6087675f5dd31fb",
-  "sha256_markdown": "44c27026cb5feb53480b6b8e32f554484d4612494f2459c0bba8c4d53af7008f",
+  "sha256_markdown": "3200c18c2b22b684ca95005a335d262ab3b013545be79ca96cc235606b934be9",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    390
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "389-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/06/2026",
+  "numero_formal_pdf": "389-26"
 }

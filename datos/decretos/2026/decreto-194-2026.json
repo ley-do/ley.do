@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "194",
   "anio": "2026",
   "titulo": "que declara de utilidad pública e interés social varias porciones de terrenos, para ser utilizadas en la Línea de Transmisión destinada a la instalación de las torres identificadas como 03,06 y 08, para la construcción de la Línea de Transmisión Eléctrica 138KV, del Proyecto Fotovoltaica Santa Clara Energy Group, desde Pedro Brand, provincia Santo Domingo, hasta la Subestación Julio Saury, provincia San Cristóbal",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404597&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404597&managementType=1",
   "document_id_consultoria": "3404597",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-194-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-194-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-194-2026.json",
   "sha256_pdf_original": "e9a75f2b7c51603637a7105df0e56372ba2a5ba71abdf3ae33cc6432a7a574d5",
-  "sha256_markdown": "edc0c0d1a260f7cdfbcb5a9d0637964b3cb3a6151fd20946bc21ff757af6cd82",
+  "sha256_markdown": "9b991468924549358d86de868490b3025b681d3bdc85b9928fab80bc9c6e0d99",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    195
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 20/03/2025, mientras el apartado DADO del PDF indica 20/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "194-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "20/03/2026",
+  "fecha_metadata_fuente": "20/03/2025",
+  "numero_formal_pdf": "194-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 20/03/2025, mientras el apartado DADO del PDF indica 20/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "348",
   "anio": "2026",
   "titulo": "que designa al señor Jhoan Carlos Ramírez García, primer secretario en el servicio interno del Ministerio de Relaciones Exteriores. Deroga el Decreto núm. 211-19",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404888&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404888&managementType=1",
   "document_id_consultoria": "3404888",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-348-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-348-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-348-2026.json",
   "sha256_pdf_original": "845ebd784f70017be36306760255367583a0a20e4e9ce40f21b35e7637ae0c9d",
-  "sha256_markdown": "d14f282651a721d952b52853a0199770fd687c8678899d7144844f5ecd7dddad",
+  "sha256_markdown": "1c050c2e22338ca0585012f357a37d592007e261634628d9c325bbac25dd8296",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "348-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "29/05/2026",
+  "numero_formal_pdf": "348-26"
 }

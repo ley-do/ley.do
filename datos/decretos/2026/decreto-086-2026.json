@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "086",
   "anio": "2026",
   "titulo": "que nombra al general (r) Pedro Alberto Piña de los Santos, F.A.D., director interino de la Comisión Investigadora de Accidentes de Aviación. Deroga la designación del general de brigada Enmanuel Marcelino Suffront Tamayo, F.A.D., contenida en el Decreto núm. 561-07 y el artículo 3 del Decreto núm. 359-20",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404430&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404430&managementType=1",
   "document_id_consultoria": "3404430",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-086-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-086-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-086-2026.json",
   "sha256_pdf_original": "11bdfc2cfde8b24890b72bde0ccd04279297b38ef1d98b73468caaee9ec710e6",
-  "sha256_markdown": "e9ab6d1d8f9578927a43c362818ca696bfbc776b71f5c6077d2e68b4ae2c2713",
+  "sha256_markdown": "c79dfccbb27ec315f9d1dff4e73ba06f6bd8e212a0b02b443eb2b6e53a9c9190",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "86-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/02/2026",
+  "numero_formal_pdf": "86-26"
 }

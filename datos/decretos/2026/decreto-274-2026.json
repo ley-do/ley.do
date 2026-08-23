@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "274",
   "anio": "2026",
   "titulo": "que concede pensiones del Estado por el monto de diez mil pesos dominicanos con 00/100 (RD$10,000.00) mensuales, a 164 afiliados del antiguo Instituto Dominicano de Seguros Sociales",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404757&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404757&managementType=1",
   "document_id_consultoria": "3404757",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-274-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-274-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-274-2026.json",
   "sha256_pdf_original": "d05e9791de5381d1eafa4bbc44469d4a495d144bc0f6359e4df0cdb913321724",
-  "sha256_markdown": "7939815e3d61fddf82b6a449b5c245c4bb52a0e3d9105a7cc1fd1c6ec70d1019",
+  "sha256_markdown": "39e72064ed1dc41802c171a7f324f4d0388e54caa5a35d11c1fa8abc6912b95e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "274-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/04/2026",
+  "numero_formal_pdf": "274-26"
 }

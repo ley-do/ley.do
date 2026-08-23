@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "209",
   "anio": "2026",
   "titulo": "que deroga el artículo 1 del Decreto núm.381-23, que designó a Luis Fredy Guzmán Moreno, subdirector general del Instituto Agrario Dominicano",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404639&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404639&managementType=1",
   "document_id_consultoria": "3404639",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-209-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-209-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-209-2026.json",
   "sha256_pdf_original": "f46b3cde9f676c62122dee4db1f2c8b74c7fb20b942ffe41d42d2aa1095531ee",
-  "sha256_markdown": "0e1d324136153b466c8126fd7ae7a2fba185150b54cb7453d3c3d4f3df58fa96",
+  "sha256_markdown": "ad98abb591b55d1516efddaf11ec9b29dcd033b2dd5efc1cec5e082c84da0741",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    210
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "209-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "31/03/2026",
+  "numero_formal_pdf": "209-26"
 }

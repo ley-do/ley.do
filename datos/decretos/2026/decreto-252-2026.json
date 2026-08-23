@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "252",
   "anio": "2026",
   "titulo": "que modifica el numeral 3 del artículo 1 del Decreto núm. 29-19 y el numeral 1 del artículo 1 del Decreto núm. 13-22",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404688&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404688&managementType=1",
   "document_id_consultoria": "3404688",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-252-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-252-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-252-2026.json",
   "sha256_pdf_original": "7015cf62e28637d76b06a1dd91602a59a59b3d1a5b78c28b73dd35038a59364e",
-  "sha256_markdown": "0e818a594feea3613f0e3977453bbc22baf4037e9165978051ceed237087f14f",
+  "sha256_markdown": "c74a57a49dfd640cbb0dc474303c22bf42d9d0493b6ff524686516ed4c1d69ee",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    253
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "252-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/04/2026",
+  "numero_formal_pdf": "252-26"
 }

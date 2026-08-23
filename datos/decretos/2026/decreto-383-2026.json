@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "383",
   "anio": "2026",
   "titulo": "que dispone la apertura de los consulados generales de la República Dominicana en Atlanta, Georgia, Estados Unidos de América; y Baltimore, Maryland, Estados Unidos de América",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405881&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405881&managementType=1",
   "document_id_consultoria": "3405881",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-383-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-383-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-383-2026.json",
   "sha256_pdf_original": "69c6e2436269821a4794f312c7f008cc29d5987c00efccb0cbd347d5ea62ee45",
-  "sha256_markdown": "9522f4130ffb47375e7673f13c4aa09e8982dd8273298bde837a75521cae4380",
+  "sha256_markdown": "0c6da676dd9822ad403bd0400e9833db3d61eb3f6c3eb95c93c374d44f439ed4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    384
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "383-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/06/2026",
+  "numero_formal_pdf": "383-26"
 }

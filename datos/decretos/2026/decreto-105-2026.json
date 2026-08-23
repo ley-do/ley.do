@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "105",
   "anio": "2026",
   "titulo": "que crea la Comisión Encargada de la creación del Observatorio de Políticas Ambientales y Áreas Protegidas, como instancia consultiva, multisectorial de carácter honorífico. La Comisión del Observatorio estará integrada por varias organizaciones ambientales y tendrá como función principal actuar como veedor del Ministerio de Medio Ambiente y Recursos Naturales y otros estamentos del Estado dominicano, en aspectos relacionados con la protección, conservación y uso sostenible de los recursos naturales, con énfasis especial en las áreas protegidas",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404460&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404460&managementType=1",
   "document_id_consultoria": "3404460",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-105-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-105-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-105-2026.json",
   "sha256_pdf_original": "45826a9fbacd41ef20700362b6cf4dd23bfd72fe8722812c47612021856f53f5",
-  "sha256_markdown": "36eb5d42c2fa89aa0fcc9a8319821ae9b581d8eea12c864929464874b9ba22ec",
+  "sha256_markdown": "311c65e1a0d27d6d8eb424c18efb8dc0c6dca816fca8e7f808772e2f88e86a8c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "105-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/02/2026",
+  "numero_formal_pdf": "105-26"
 }

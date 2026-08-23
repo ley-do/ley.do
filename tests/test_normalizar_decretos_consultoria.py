@@ -6,7 +6,7 @@ from pathlib import Path
 
 import pymupdf
 
-from scripts.normalizar_decretos_consultoria import extract, fecha_dado, run, title
+from scripts.normalizar_decretos_consultoria import extract, fecha_dado, markdown, run, title
 
 
 class FechaDadoTests(unittest.TestCase):
@@ -366,11 +366,62 @@ class FechaDadoTests(unittest.TestCase):
         inventory.write_text(json.dumps({"documentos": {"decretos": [{"numero": f"{number}-19", "document_id_consultoria": f"id-{number}", "institucion_fuente": "Consultoria Juridica", "url_fuente_oficial": "https://www.consultoria.gov.do/", "url_documento_consultoria_abrir": f"https://www.consultoria.gov.do/{number}", "url_documento_consultoria_descargar": f"https://www.consultoria.gov.do/{number}.pdf"}]}}), encoding="utf-8")
         return inventory
 
-    def test_rechaza_linea_formal_del_mismo_numero_pero_otro_anio(self):
+    def test_rechaza_anio_formal_discrepante_sin_evidencia_reconciliada(self):
         with tempfile.TemporaryDirectory() as td:
-            repo = Path(td); inventory = self._write_identity_fixture(repo, 1, "1-19", "NUMERO: 1-20")
-            with self.assertRaisesRegex(ValueError, "año formal"):
+            repo = Path(td)
+            inventory = self._write_identity_fixture(repo, 1, "1-19", "NUMERO: 1-20")
+
+            with self.assertRaisesRegex(ValueError, "Discrepancia formal incompatible sin evidencia reconciliada"):
                 run(repo, 2019, [1], inventario_path=inventory)
+
+    def test_rechaza_evidencia_formal_con_hash_incorrecto(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td)
+            inventory = self._write_identity_fixture(repo, 1, "1-19", "NUMERO: 1-20")
+            payload = json.loads(inventory.read_text(encoding="utf-8"))
+            payload["documentos"]["decretos"][0]["evidencia_discrepancia_formal"] = {
+                "tipo_evidencia": "discrepancia_formal_pdf",
+                "estado_revision": "pendiente_revision",
+                "document_id_consultoria": "id-1",
+                "identidad_esperada": "1-19",
+                "numero_formal_observado_pdf": "1-20",
+                "ruta_pdf_local": "archivos/decretos/2019/decreto-001-2019.pdf",
+                "url_pdf_oficial": "https://www.consultoria.gov.do/1.pdf",
+                "pagina_pdf": 1,
+                "sha256_pdf": "0" * 64,
+            }
+            inventory.write_text(json.dumps(payload), encoding="utf-8")
+
+            with self.assertRaisesRegex(ValueError, "evidencia reconciliada verificable"):
+                run(repo, 2019, [1], inventario_path=inventory)
+
+
+    def test_admite_anio_formal_discrepante_con_evidencia_reconciliada_verificable(self):
+        with tempfile.TemporaryDirectory() as td:
+            repo = Path(td)
+            inventory = self._write_identity_fixture(repo, 1, "1-19", "NUMERO: 1-20")
+            evidence = {
+                "tipo_evidencia": "discrepancia_formal_pdf",
+                "estado_revision": "pendiente_revision",
+                "document_id_consultoria": "id-1",
+                "identidad_esperada": "1-19",
+                "numero_formal_observado_pdf": "1-20",
+                "ruta_pdf_local": "archivos/decretos/2019/decreto-001-2019.pdf",
+                "url_pdf_oficial": "https://www.consultoria.gov.do/1.pdf",
+                "pagina_pdf": 1,
+                "sha256_pdf": hashlib.sha256((repo / "archivos/decretos/2019/decreto-001-2019.pdf").read_bytes()).hexdigest(),
+            }
+            payload = json.loads(inventory.read_text(encoding="utf-8"))
+            payload["documentos"]["decretos"][0]["evidencia_discrepancia_formal"] = evidence
+            inventory.write_text(json.dumps(payload), encoding="utf-8")
+
+            run(repo, 2019, [1], inventario_path=inventory)
+
+            metadata = json.loads((repo / "datos/decretos/2019/decreto-001-2019.json").read_text(encoding="utf-8"))
+            self.assertEqual(metadata["numero_formal_pdf"], "1-20")
+            self.assertEqual(metadata["evidencia_discrepancia_formal"], evidence)
+            self.assertTrue(any("1-20" in item and "1-19" in item for item in metadata["alertas_revision"]))
+
 
     def test_documenta_numero_formal_discrepante_del_mismo_anio(self):
         with tempfile.TemporaryDirectory() as td:
@@ -394,6 +445,66 @@ class FechaDadoTests(unittest.TestCase):
             run(repo, 2019, [402], inventario_path=inventory)
             metadata = json.loads((repo / "datos/decretos/2019/decreto-402-2019.json").read_text(encoding="utf-8"))
             self.assertEqual(metadata["numero_formal_pdf"], "402-19")
+
+
+    def test_extrae_encabezados_ocr_tolerables_que_corresponden_a_la_identidad(self):
+        variantes = ((111, "Tll-26"), (240, "2¿iO-26"), (409, "409-2.6"))
+        with tempfile.TemporaryDirectory() as td:
+            for numero, encabezado_ocr in variantes:
+                with self.subTest(numero=numero, encabezado_ocr=encabezado_ocr):
+                    pdf = Path(td) / f"ocr-{numero}.pdf"
+                    document = pymupdf.open()
+                    page = document.new_page()
+                    page.insert_text(
+                        (72, 72),
+                        f"MEMBRETE OFICIAL\nNÚMERO: {encabezado_ocr}\nDECRETO:\nARTÍCULO 1. Texto objetivo.\nDADO en Santo Domingo, a los uno (1) días del mes de enero de 2026.",
+                        fontsize=10,
+                    )
+                    document.save(pdf)
+                    document.close()
+
+                    pages, _, state, document_class, header_number = extract(pdf, numero, "26")
+
+                    self.assertEqual(state, "extraido_desde_pdf_oficial")
+                    self.assertEqual(document_class, "Dec.")
+                    self.assertEqual(header_number, encabezado_ocr)
+                    self.assertIn("Texto objetivo", "\n".join(pages))
+
+
+    def test_no_acepta_un_encabezado_ocr_tolerable_para_otra_identidad(self):
+        with tempfile.TemporaryDirectory() as td:
+            pdf = Path(td) / "ocr-otra-identidad.pdf"
+            document = pymupdf.open()
+            page = document.new_page()
+            page.insert_text(
+                (72, 72),
+                "MEMBRETE OFICIAL\nNÚMERO: Tll-26\nDECRETO:\nARTÍCULO 1. Texto ajeno.",
+                fontsize=10,
+            )
+            document.save(pdf)
+            document.close()
+
+            pages, _, state, _, _ = extract(pdf, 112, "26")
+
+            self.assertEqual(state, "encabezado_no_encontrado")
+            self.assertEqual(pages, [])
+
+
+    def test_markdown_ocr_declara_pendiente_de_revision(self):
+        contenido=markdown(
+            245,
+            2026,
+            {"fecha_documento":"15/04/2026","gaceta_oficial":"11231","institucion_fuente":"Consultoría Jurídica","url_fuente_oficial":"https://www.consultoria.gov.do/","url_documento_consultoria_abrir":"https://www.consultoria.gov.do/Consulta/","url_documento_consultoria_descargar":"https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404678&managementType=2"},
+            ["NÚMERO:\n245-26\nDECRETO:"],
+            "a" * 64,
+            "ocr_asistido_pendiente_revision",
+            [],
+            "Dec.",
+        )
+        self.assertIn("Texto OCR pendiente de revisión",contenido)
+        self.assertIn("Texto generado mediante OCR local",contenido)
+        self.assertNotIn("Texto extraído automáticamente del PDF oficial y refluido",contenido)
+
 
 
 if __name__ == "__main__":

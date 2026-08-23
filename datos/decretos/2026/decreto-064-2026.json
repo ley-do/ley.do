@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "064",
   "anio": "2026",
   "titulo": "que designa seis (6) viceministros en diferentes áreas del Ministerio de Trabajo. Deroga los artículos 40, 41, 42, 43, 44 y 45 del Decreto 330-20",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404417&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404417&managementType=1",
   "document_id_consultoria": "3404417",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-064-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-064-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-064-2026.json",
   "sha256_pdf_original": "7775b519d4b424d3dff8cbbe6d30a56a657794851bc4201a7ebe1f6d8bd04a5b",
-  "sha256_markdown": "da573369c550313f914ec8ccc891b1950e31be16f3511df2819ea8e8fecc7c33",
+  "sha256_markdown": "ce510e7e0cc1d89336fc001acf81e2bc8ed65a010cb949788e818a69e9f9ca11",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    65
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "64-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "31/01/2026",
+  "numero_formal_pdf": "64-26"
 }

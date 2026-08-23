@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "046",
   "anio": "2026",
   "titulo": "que designa a los señores Rosa María Fernández Rosario y Julio Anulfo Pascual Rodríguez, subdirector de zonas francas y subdirector operativo, respectivamente, de la Dirección General de Aduanas. Deroga los artículos 6 y 10 del Decreto núm. 339-20",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404390&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404390&managementType=1",
   "document_id_consultoria": "3404390",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-046-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-046-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-046-2026.json",
   "sha256_pdf_original": "b712eea79096bdf4289d6d3de9584544bf77eaf784b7b889d94967524208240c",
-  "sha256_markdown": "af92d1ac9df7de36523d4251483b5b950221cf8a50e86a37592de543622dfec7",
+  "sha256_markdown": "e5e81f6f155014fc6b899ec6772526a8560f5675e88b61423ed334c03d37dc7c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "46-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "27/01/2026",
+  "numero_formal_pdf": "46-26"
 }

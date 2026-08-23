@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "093",
   "anio": "2026",
   "titulo": "que autoriza a la sociedad comercial PDAB Port Investments Sociedad Gestora, a hacer uso de una parte de los 60 metros de la franja marítima terrestre de dominio público para la explotación, aprovechamiento y operación del proyecto “Port Samaná Arroyo Barril” (Puerto Duarte Arroyo Barril) y “Terminal Turística Mangani Jungle”, ubicados en el municipio Santa Bárbara de Samaná, provincia Samaná",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404451&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404451&managementType=1",
   "document_id_consultoria": "3404451",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-093-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-093-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-093-2026.json",
   "sha256_pdf_original": "e38f2aee53b687fd18cdf6448151d0b29a861f04a81de1f617b5e296db50208e",
-  "sha256_markdown": "677140f4c9b5e397085bc1d006703536769288078e3b2451af503d036c3851d9",
+  "sha256_markdown": "3d0c38614d4ef1cd71a3eb2756b2adb0c926be63dff57d54ee2820a5cd893c2a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "93-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/02/2026",
+  "numero_formal_pdf": "93-26"
 }

@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""Regenera portadas anuales de decretos con la plantilla de encapsulados (modelo 2026)."""
+"""Regenera portadas anuales de decretos solo desde paquetes previamente validados."""
 
 from __future__ import annotations
 
 import argparse
 import html
-import json
 import re
 import sys
 from pathlib import Path
@@ -24,32 +23,30 @@ MESES = {
 
 
 def normalize_date(value: str) -> str:
-    s = " ".join(str(value or "").split())
-    if not s:
+    value = " ".join(str(value or "").split())
+    if not value:
         return ""
-    if "|" in s:
-        s = s.split("|", 1)[0].strip()
-    m = re.fullmatch(r"(\d{2})/(\d{2})/(\d{4})", s)
-    if m:
-        return s
-    m = re.fullmatch(r"(\d{1,2})\s+de\s+([A-Za-zÁÉÍÓÚáéíóú]+)\s+(\d{4})", s, re.I)
-    if m:
-        day = int(m.group(1))
-        month = MESES.get(m.group(2).lower())
-        year = int(m.group(3))
+    if "|" in value:
+        value = value.split("|", 1)[0].strip()
+    match = re.fullmatch(r"(\d{2})/(\d{2})/(\d{4})", value)
+    if match:
+        return value
+    match = re.fullmatch(r"(\d{1,2})\s+de\s+([A-Za-zÁÉÍÓÚáéíóú]+)\s+(\d{4})", value, re.I)
+    if match:
+        month = MESES.get(match.group(2).lower())
         if month:
-            return f"{day:02d}/{month:02d}/{year}"
-    m = re.search(r"(\d{1,2})[/-](\d{1,2})[/-](\d{4})", s)
-    if m:
-        return f"{int(m.group(1)):02d}/{int(m.group(2)):02d}/{int(m.group(3))}"
-    return s
+            return f"{int(match.group(1)):02d}/{month:02d}/{int(match.group(3)):04d}"
+    match = re.search(r"(\d{1,2})[/-](\d{1,2})[/-](\d{4})", value)
+    if match:
+        return f"{int(match.group(1)):02d}/{int(match.group(2)):02d}/{int(match.group(3)):04d}"
+    return value
 
 
 def short_title(title: str, limit: int = 160) -> str:
     text = " ".join(str(title or "").split())
     text = re.sub(r"^(decreto\s+n[uú]m\.?\s*\d+[\w.-]*\s*[,:-]?\s*)", "", text, flags=re.I).strip()
     letters = re.sub(r"[^A-Za-zÁÉÍÓÚÜáéíóúñÑ]", "", text)
-    if letters and sum(1 for c in letters if c.isupper()) / len(letters) > 0.8 and len(letters) > 12:
+    if letters and sum(char.isupper() for char in letters) / len(letters) > 0.8 and len(letters) > 12:
         text = text.lower()
     if text and text[0].islower():
         text = text[0].upper() + text[1:]
@@ -65,8 +62,7 @@ def is_generic(title: str, number: int, year: int) -> bool:
     text = " ".join(str(title or "").split())
     if not text:
         return True
-    yy = str(year)[-2:]
-    return bool(re.fullmatch(rf"Decreto\s*n[uú]m\.?\s*0*{number}(?:-{year}|-{yy})?", text, flags=re.I))
+    return bool(re.fullmatch(rf"Decreto\s*n[uú]m\.?\s*0*{number}(?:-{year}|-{str(year)[-2:]})?", text, flags=re.I))
 
 
 def esc(value: str) -> str:
@@ -89,58 +85,97 @@ def extract_notes(existing: str) -> list[str]:
     return notes
 
 
-def load_inventory(repo: Path, year: int) -> dict[int, dict]:
-    path = repo / f"fuentes/consultoria_inventario_{year}_leyes_decretos.json"
-    if not path.exists():
-        return {}
-    data = json.loads(path.read_text(encoding="utf-8"))
-    by: dict[int, dict] = {}
-    for record in data.get("documentos", {}).get("decretos", []):
-        match = re.match(r"\s*0*(\d+)", str(record.get("numero") or ""))
-        if match:
-            by[int(match.group(1))] = record
-    return by
+def _number(record: dict) -> int | None:
+    identity = record.get("identidad_documental_numero")
+    if isinstance(identity, int):
+        return identity
+    match = re.match(r"\s*0*(\d+)", str(record.get("numero") or ""))
+    return int(match.group(1)) if match else None
 
 
-def load_items(repo: Path, year: int) -> list[dict]:
-    inventory = load_inventory(repo, year)
+def _year(record: dict) -> int | None:
+    explicit = str(record.get("anio") or "").strip()
+    if explicit.isdigit():
+        return int(explicit)
+    match = re.search(r"-(\d{2}|\d{4})(?:\D|$)", str(record.get("numero") or ""))
+    if not match:
+        return None
+    suffix = match.group(1)
+    return int(suffix) if len(suffix) == 4 else 2000 + int(suffix)
+
+
+def _sources_by_identity(records: list[dict], year: int) -> dict[int, dict]:
+    sources: dict[int, dict] = {}
+    for record in records:
+        if not isinstance(record, dict):
+            raise ValueError("Los registros reconciliados deben ser objetos")
+        identity = _number(record)
+        if identity is None or _year(record) != year:
+            raise ValueError("Registro reconciliado sin identidad o año válido")
+        document_id = str(record.get("document_id_consultoria") or "").strip()
+        if not document_id or identity in sources:
+            raise ValueError("Las identidades reconciliadas son ambiguas")
+        sources[identity] = record
+    return sources
+
+
+def load_items(validated_packages: dict[int, dict], source_records: list[dict], year: int) -> list[dict]:
+    """Construye tarjetas exclusivamente desde paquetes validados y su inventario reconciliado."""
+    if not isinstance(validated_packages, dict):
+        raise ValueError("Los paquetes validados deben entregarse como diccionario")
+    sources = _sources_by_identity(source_records, year)
+    identities = set(validated_packages)
+    if identities != set(sources):
+        raise ValueError("Las identidades validadas no coinciden con las identidades reconciliadas")
     items = []
-    root = repo / f"datos/decretos/{year}"
-    if not root.exists():
-        return items
-    for path in sorted(root.glob(f"decreto-*-{year}.json")):
-        match = re.fullmatch(rf"decreto-(\d+)-{year}\.json", path.name)
-        if not match:
-            continue
-        number = int(match.group(1))
-        markdown = repo / f"docs/decretos/{year}/decreto-{number:03d}-{year}.md"
-        if not markdown.exists():
-            continue
-        data = json.loads(path.read_text(encoding="utf-8"))
-        title = data.get("titulo") or ""
-        date = data.get("fecha") or ""
-        source = inventory.get(number) or {}
-        if is_generic(title, number, year):
-            title = source.get("titulo") or title
-        date = normalize_date(date) or normalize_date(source.get("fecha_documento") or "") or "—"
-        if is_generic(title, number, year) or not title:
-            title = f"Decreto {number:03d}-{year}"
+    for identity in sorted(identities, reverse=True):
+        metadata = validated_packages[identity]
+        source = sources[identity]
+        if not isinstance(identity, int) or not isinstance(metadata, dict):
+            raise ValueError("Paquete validado con identidad o metadata inválida")
+        if _number(metadata) != identity or _year(metadata) != year:
+            raise ValueError("Paquete validado con identidad documental incoherente")
+        if str(metadata.get("document_id_consultoria") or "").strip() != str(source.get("document_id_consultoria") or "").strip():
+            raise ValueError("Paquete validado con ID distinto al inventario reconciliado")
+        title = str(source.get("titulo") or metadata.get("titulo") or "")
+        date = normalize_date(source.get("fecha_documento") or "") or normalize_date(metadata.get("fecha") or "") or "—"
+        if is_generic(title, identity, year):
+            title = f"Decreto {identity:03d}-{year}"
         else:
             title = short_title(title)
         items.append(
             {
-                "number": number,
+                "number": identity,
                 "date": date,
                 "title": title,
-                # Public MkDocs path (never .md in raw HTML hrefs).
-                "href": f"decreto-{number:03d}-{year}/",
+                "href": f"decreto-{identity:03d}-{year}/",
             }
         )
     return items
 
 
-def render_year(repo: Path, year: int) -> int:
-    items = load_items(repo, year)
+def render_year(repo: Path, year: int, validated_packages: dict[int, dict], source_records: list[dict]) -> int:
+    """Escribe una portada solo si cada tarjeta procede de una identidad validada."""
+    repo = Path(repo).resolve()
+    items = load_items(validated_packages, source_records, year)
+    
+    # Calcular rango de fechas
+    dates = []
+    for identity, metadata in validated_packages.items():
+        date_str = normalize_date(metadata.get("fecha") or "")
+        if date_str and date_str != "—":
+            dates.append(date_str)
+    
+    date_range = ""
+    if dates:
+        dates_sorted = sorted(dates, key=lambda d: tuple(int(x) for x in d.split("/")[::-1]))
+        first_date = dates_sorted[0]
+        last_date = dates_sorted[-1]
+        if first_date == last_date:
+            date_range = f'<span class="leydo-year-chip">Actualizado al {esc(last_date)}</span>'
+        else:
+            date_range = f'<span class="leydo-year-chip">Actualizado del {esc(first_date)} al {esc(last_date)}</span>'
+    
     index_path = repo / f"docs/decretos/{year}/index.md"
     existing = index_path.read_text(encoding="utf-8") if index_path.exists() else ""
     notes = extract_notes(existing)
@@ -152,7 +187,7 @@ def render_year(repo: Path, year: int) -> int:
         "",
         f"Año **{year}**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.",
         "",
-        f'<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>{len(items)}</strong> decretos</span></div>',
+        f'<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>{len(items)}</strong> decretos</span>{date_range}</div>',
         "</div>",
         "",
         '!!! warning "Aviso"',
@@ -179,13 +214,10 @@ def render_year(repo: Path, year: int) -> int:
     return len(items)
 
 
-def render_hub(repo: Path) -> int:
-    rows = []
-    total = 0
-    for year in range(2016, 2027):
-        count = len(load_items(repo, year))
-        total += count
-        rows.append((year, count))
+def render_hub(repo: Path, year_counts: dict[int, int]) -> int:
+    """Escribe el índice general desde conteos explícitos ya revisados."""
+    rows = sorted((int(year), int(count)) for year, count in year_counts.items())
+    total = sum(count for _, count in rows)
     lines = [
         "# Decretos",
         "",
@@ -213,22 +245,24 @@ def render_hub(repo: Path) -> int:
             ]
         )
     lines.extend(["</div>", ""])
-    _atomic_write_text(repo / "docs/decretos/index.md", "\n".join(lines) + "\n")
+    _atomic_write_text(Path(repo).resolve() / "docs/decretos/index.md", "\n".join(lines) + "\n")
     return total
 
 
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--repo", type=Path, default=ROOT)
-    parser.add_argument("--inicio", type=int, default=2016)
-    parser.add_argument("--fin", type=int, default=2026)
+    parser.add_argument("--inventario", type=Path, required=True, help="Inventario reconciliado del año a regenerar")
+    parser.add_argument("--anio", type=int, required=True)
     args = parser.parse_args(argv)
-    repo = args.repo.resolve()
-    for year in range(args.inicio, args.fin + 1):
-        count = render_year(repo, year)
-        print(f"OK {year}: {count} encapsulados")
-    total = render_hub(repo)
-    print(f"OK hub: {total}")
+    try:
+        from scripts.procesar_decretos_consultoria import generate_index
+        index = generate_index(args.repo.resolve(), args.inventario.resolve(), args.anio)
+    except Exception as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        return 1
+    count = index.read_text(encoding="utf-8").count('<a class="leydo-doc"')
+    print(f"OK {args.anio}: {count} encapsulados")
     return 0
 
 

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "012",
   "anio": "2026",
   "titulo": "que autoriza a la sociedad Playa Cana B.V., a hacer uso de una parte de los 60 metros de la franja marítima terrestre para la construcción de una mejora consistente en un club de playa para el Hotel Hyatt Vivid, ubicado en la provincia La Altagracia",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404194&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404194&managementType=1",
   "document_id_consultoria": "3404194",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-012-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-012-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-012-2026.json",
   "sha256_pdf_original": "4c8bff9bb72fdd63d925ba6fe9e16ff1a4276d3e0295a80b3dff9b43843ab27a",
-  "sha256_markdown": "6087db618f8dea6b2224ff879711c085dffff04a578487669a2ec1add32eca8c",
+  "sha256_markdown": "71d0ad26e76feaf51f616c7776285a426e9161f2dd88f62e3ddee769402d65f6",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    13
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "12-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/01/2026",
+  "numero_formal_pdf": "12-26"
 }

@@ -85,6 +85,38 @@ def _validate_renditions(year, number, canonical_id, group_by_id, renditions):
     return validated, canonical_hash
 
 
+def _validate_formal_discrepancy_evidence(year, number, canonical_id, canonical, evidence):
+    """Valida una excepción archivística; no decide qué identificador es jurídicamente correcto."""
+    if evidence is None:
+        return None
+    if not isinstance(evidence, dict):
+        raise ValueError(f"Evidencia de discrepancia formal inválida para identidad {number}")
+    item = copy.deepcopy(evidence)
+    expected = {
+        "tipo_evidencia": "discrepancia_formal_pdf",
+        "estado_revision": "pendiente_revision",
+        "document_id_consultoria": str(canonical_id),
+        "identidad_esperada": f"{number}-{str(year)[-2:]}",
+        "ruta_pdf_local": f"archivos/decretos/{year}/decreto-{number:03d}-{year}.pdf",
+        "url_pdf_oficial": str(canonical.get("url_documento_consultoria_descargar") or "").strip(),
+    }
+    for field, value in expected.items():
+        if str(item.get(field) or "").strip() != value:
+            raise ValueError(f"Evidencia de discrepancia formal inválida para identidad {number}: {field}")
+    observed = _parse_number(item.get("numero_formal_observado_pdf"))
+    if observed is None or observed[1] == year:
+        raise ValueError(f"Evidencia de discrepancia formal inválida para identidad {number}: numero_formal_observado_pdf")
+    item["numero_formal_observado_pdf"] = f"{observed[0]}-{str(observed[1])[-2:]}"
+    digest = str(item.get("sha256_pdf") or "").strip().lower()
+    if not _SHA256_RE.fullmatch(digest):
+        raise ValueError(f"Evidencia de discrepancia formal inválida para identidad {number}: sha256_pdf")
+    item["sha256_pdf"] = digest
+    page = item.get("pagina_pdf")
+    if not isinstance(page, int) or isinstance(page, bool) or page < 1:
+        raise ValueError(f"Evidencia de discrepancia formal inválida para identidad {number}: pagina_pdf")
+    return item
+
+
 def reconcile(inventory, year, decisions, inventory_name=None):
     if not isinstance(inventory, dict) or not isinstance(decisions, dict):
         raise ValueError("Inventario y decisiones deben ser objetos JSON")
@@ -190,6 +222,9 @@ def reconcile(inventory, year, decisions, inventory_name=None):
             "numero_registro_fuente": canonical.get("numero", ""),
             "anio_metadata_fuente": str(canonical.get("anio", "")),
         })
+        formal_evidence = _validate_formal_discrepancy_evidence(year, number, canonical_id, canonical, decision.get("evidencia_discrepancia_formal"))
+        if formal_evidence is not None:
+            canonical["evidencia_discrepancia_formal"] = formal_evidence
         if renditions:
             canonical["rendiciones_oficiales_relacionadas"] = renditions
             canonical["sha256_pdf"] = canonical_hash

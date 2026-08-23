@@ -1,20 +1,38 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "065",
   "anio": "2026",
   "titulo": "Decreto núm. 065-2026",
-  "fecha": "1 de Febrero 2026 | 19:12",
-  "institucion_fuente": "Presidencia de la República Dominicana",
-  "url_fuente_oficial": "https://presidencia.gob.do/decretos/65-26",
-  "url_pdf_original": "https://presidencia.gob.do//sites/default/files/decree/2026-02/Decreto%2065-26.pdf",
-  "fecha_consulta": "2026-07-04",
+  "fecha": "31/01/2026",
+  "gaceta_oficial": "11231",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consulta/",
+  "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404418&managementType=2",
+  "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404418&managementType=1",
+  "document_id_consultoria": "3404418",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-065-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-065-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-065-2026.json",
   "sha256_pdf_original": "5d9baccc8de3c2de0a1baaf6dc82ffe369cbf3ce232aceda805b1bcdd861e180",
-  "sha256_markdown": "43510be8ab44b3f512250806efb9fcdc74898a2506c0b469461415812e1358ac",
+  "sha256_markdown": "379089d39cde3838e1b563472c26fdc3652cc35e74335efadc77fa524d5cfe9c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Pendiente de revisión humana. Texto extraído automáticamente desde PDF oficial indicado; verificar contra el PDF antes de publicar como aprobado."
+  "notas": "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "65-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_parseable",
+  "fecha_texto_pdf_detectada": "",
+  "numero_formal_pdf": "65-26",
+  "alertas_revision": [
+    "El PDF contiene una cláusula DADO, pero no fue posible extraer una fecha completa sin inferencia."
+  ]
 }

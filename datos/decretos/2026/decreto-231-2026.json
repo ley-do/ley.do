@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "231",
   "anio": "2026",
   "titulo": "que declara de utilidad pública e interés social varias porciones de terrenos en la provincia Espaillat, para ser destinadas a la construcción del Enlace Estancia Nueva - Cruce de Chero",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404669&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404669&managementType=1",
   "document_id_consultoria": "3404669",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-231-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-231-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-231-2026.json",
   "sha256_pdf_original": "7ba71f60707d9236ae8db25adf0fe0480440fa74d66bd47269d27d80b3265881",
-  "sha256_markdown": "14ba7f00ea7b6cdd54ef3ef8b02c7eff8922b49d27902900097edfc7ce0da9a1",
+  "sha256_markdown": "96a85b731467339d06ae31fbd8aa0433f8fe50a77d40823b6876eb7a4282f2e0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    232
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "231-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "10/04/2026",
+  "numero_formal_pdf": "231-26"
 }

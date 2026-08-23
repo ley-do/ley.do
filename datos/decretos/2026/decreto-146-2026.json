@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "146",
   "anio": "2026",
   "titulo": "que aprueba el establecimiento de un aeropuerto internacional de carácter privado y comercial, denominado “Aeropuerto Internacional de Montecristi”, ubicado en el municipio y provincia Montecristi, designándolo como puerto de entrada y salida para el tráfico aéreo internacional. Dispone que el Instituto Dominicano de Aviación Civil (IDAC) tendrá a su cargo fijar los términos y condiciones que regirán la explotación de su infraestructura aeronáutica objeto del presente decreto",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404574&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404574&managementType=1",
   "document_id_consultoria": "3404574",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-146-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-146-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-146-2026.json",
   "sha256_pdf_original": "c6024ead33c85d628cb83a3e92acb4d74efaf55ff3f8a9abb6dd8448be560d12",
-  "sha256_markdown": "19abd5819297a8a204b91a150312bd57a288a179e14d5b09cecb357a4cd05cff",
+  "sha256_markdown": "7b4379720838e60db39f7475226380418dc2e80d48fa679fd6922eb0bc53b254",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    147
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "146-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "04/03/2026",
+  "numero_formal_pdf": "146-26"
 }

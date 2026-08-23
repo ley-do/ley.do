@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "199",
   "anio": "2026",
   "titulo": "que declara de alto interés nacional la exploración y explotación de hidrocarburos en todo el territorial de la República Dominicana y en las áreas marítimas bajo su jurisdicción por su carácter estratégico para la seguridad energética, la diversificación de fuentes de abastecimiento, la atracción de inversión y el aprovechamiento nacional de los recursos naturales no renovables del Estado",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404633&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404633&managementType=1",
   "document_id_consultoria": "3404633",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-199-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-199-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-199-2026.json",
   "sha256_pdf_original": "97dee4d99f236e3c9f5d9499d71aa5a103c82316d42f8949c26e9d3c7dae139a",
-  "sha256_markdown": "733fef87cf0a1cb312332ec7f4ff28e45edf4a5b28eaeebc7f0be0b1f7f36319",
+  "sha256_markdown": "e46db388ea3bcc443fc501e99c1e1746fd7dc1bb6a322733626c2bd72e23771d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    200
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "199-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/03/2026",
+  "numero_formal_pdf": "199-26"
 }

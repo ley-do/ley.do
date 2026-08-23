@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "113",
   "anio": "2026",
   "titulo": "que declara de alta prioridad nacional la construcción y establecimiento de puertos de intercambio digital en el país, así como la instalación, despliegue y operación de sistemas de cables submarinos, incluyendo los correspondientes a la inteligencia artificial a escala global. Instruye al Gabinete de Innovación y Desarrollo Digital a crear una mesa de trabajo con objetivo de dar seguimiento al proceso para el establecimiento de puertos de intercambio digital e instalaciones de los sistemas de los citados cables submarinos",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404475&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404475&managementType=1",
   "document_id_consultoria": "3404475",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-113-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-113-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-113-2026.json",
   "sha256_pdf_original": "148231673d60d3876af174f2df322d8bd204103869141940e42633bfd6a03b84",
-  "sha256_markdown": "09fc9c63d1da515c8b00921ec371ff8742dd5f7f0ef94a28c57514f5093548b2",
+  "sha256_markdown": "791d336e376046b4db6a8cfd7d211c09b29ca624a103171aaeadc302f25fb185",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    114
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "113-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/02/2026",
+  "numero_formal_pdf": "113-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "004",
   "anio": "2026",
   "titulo": "que modifica el artículo 7 del Decreto número 221-25. Dispone que el Consejo de Administración de la Industria Militar Dominicana, S.A., contará con un mínimo de 5 y un máximo de 9 miembros",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404190&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404190&managementType=1",
   "document_id_consultoria": "3404190",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-004-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-004-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-004-2026.json",
   "sha256_pdf_original": "9d342291d78de6b79904bb14f03b3c87241e98b1ffa708a87c5102fa9685d591",
-  "sha256_markdown": "02740f54e05ce0a69054ed9da0ee1fd9bb13eaf7083bb16d3028f06640c5b861",
+  "sha256_markdown": "45839c03a86a747f195a0b11ba070fa9ec5c7023264382b4428df5713549fe5f",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "4-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "07/01/2026",
+  "numero_formal_pdf": "4-26"
 }

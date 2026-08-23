@@ -48,6 +48,27 @@ class ReconciliarDecretosTests(unittest.TestCase):
         roles={row["document_id_consultoria"]:row["rol_reconciliacion"] for row in reconciled["registros_fuente"]}
         self.assertEqual(roles["a"],"canonico"); self.assertEqual(roles["b"],"rendicion_complementaria"); self.assertEqual(roles["old"],"fuente_contextual_fuera_de_anio"); self.assertEqual(roles["atypical"],"fuente_contextual_atipica")
 
+    def test_propaga_evidencia_formal_reconciliada_al_registro_canonico(self):
+        inventory={"documentos":{"decretos":[record("4-18","a")]}}
+        evidence={
+            "tipo_evidencia":"discrepancia_formal_pdf",
+            "estado_revision":"pendiente_revision",
+            "document_id_consultoria":"a",
+            "identidad_esperada":"4-18",
+            "numero_formal_observado_pdf":"4-19",
+            "ruta_pdf_local":"archivos/decretos/2018/decreto-004-2018.pdf",
+            "url_pdf_oficial":"https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=a&managementType=2",
+            "pagina_pdf":1,
+            "sha256_pdf":"a"*64,
+        }
+        decisions={"schema_version":"1.0","anio":2018,"fecha_reconciliacion":"2026-07-29","identidades":{"4":{"canonico":"a","evidencia_discrepancia_formal":evidence}}}
+
+        reconciled=reconcile(inventory,2018,decisions)
+
+        canonical=reconciled["documentos"]["decretos"][0]
+        self.assertEqual(canonical["evidencia_discrepancia_formal"],evidence)
+
+
     def test_rechaza_schema_de_decisiones_incompatible(self):
         inventory={"documentos":{"decretos":[record("4-18","a")]}}
         with self.assertRaisesRegex(ValueError,"schema_version"):

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "402",
   "anio": "2026",
   "titulo": "que aprueba el Reglamento General para la Implementación de la Responsabilidad Extendida del Productor, Importador y Comercializador de Productos Prioritarios",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405905&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405905&managementType=1",
   "document_id_consultoria": "3405905",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-402-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-402-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-402-2026.json",
   "sha256_pdf_original": "10de452d0fbfaf9c6efaabfe574f0e342a88f77f13b8c0d04d69a12b868d35ae",
-  "sha256_markdown": "b85480d74d57812a4f476e5108312df30025d8937122573b14b6fd977a78f409",
+  "sha256_markdown": "dd8457f0e8bddce62ed1d3a53128aa6ba0e082befe80b8531293aac4374a2b1b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "402-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/06/2026",
+  "numero_formal_pdf": "402-26"
 }

@@ -15,7 +15,10 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-import pymupdf
+try:
+    import pymupdf
+except ImportError:
+    pymupdf = None
 
 
 OFFICIAL_HOSTS={"consultoria.gov.do","www.consultoria.gov.do"}
@@ -62,12 +65,12 @@ def _hash_file(path,chunk_size=1024*1024):
     with Path(path).open("rb") as handle:
         for chunk in iter(lambda:handle.read(chunk_size),b""): digest.update(chunk)
     return digest.hexdigest()
-
-
 def _valid_pdf(path):
     try:
         with Path(path).open("rb") as handle:
             if handle.read(5)!=b"%PDF-": return False
+        if pymupdf is None:
+            return Path(path).stat().st_size>0
         document=pymupdf.open(path); valid=document.page_count>0; document.close(); return valid
     except (OSError,RuntimeError,ValueError): return False
 
@@ -235,6 +238,38 @@ def _renditions_are_valid(repo,expected_items,actual_items,year):
     return True
 
 
+def _ocr_package_is_valid(repo,metadata,pdf_path,md_path,data_root,identity,year):
+    if metadata.get("estado_extraccion")!="ocr_asistido_pendiente_revision": return False
+    if metadata.get("procedencia_ocr")!="local": return False
+    herramienta_ocr=" ".join(str(metadata.get("herramienta_ocr") or "").split())
+    if not re.fullmatch(r"EasyOCR(?:\s+\d+(?:\.\d+)*)?(?:\s+\([^)]*\))?",herramienta_ocr,re.I): return False
+    if metadata.get("capa_texto_pdf_original") is not False: return False
+    if metadata.get("estado_fecha_texto_pdf")!="no_disponible_pdf_escaneado" or str(metadata.get("fecha_texto_pdf_detectada") or "").strip(): return False
+    if str(metadata.get("numero_formal_pdf") or "").strip(): return False
+    try:
+        expected=_safe_repo_path(repo,f"datos/decretos/{year}/decreto-{identity:03d}-{year}.ocr.txt",allowed_root=data_root)
+        ocr_path=_safe_repo_path(repo,metadata.get("ruta_texto_ocr",""),allowed_root=data_root)
+    except (ValueError,TypeError): return False
+    if ocr_path!=expected or not ocr_path.is_file() or not metadata.get("sha256_texto_ocr") or _hash_file(ocr_path)!=str(metadata.get("sha256_texto_ocr")).lower(): return False
+    try:
+        text=ocr_path.read_text(encoding="utf-8"); markdown_content=md_path.read_text(encoding="utf-8")
+        if pymupdf is None: return False
+        doc=pymupdf.open(pdf_path)
+        try: native_text=any(page.get_text("text").strip() for page in doc)
+        finally: doc.close()
+    except (OSError,UnicodeDecodeError): return False
+    yy=str(year)[-2:]
+    if native_text or not text.strip() or not re.search(rf"(?im)^N[ÚU]MERO:\s*0*{identity}\s*-\s*(?:{yy}|{year})\b",text) or not re.search(r"(?im)^DECRETO:",text) or not re.search(r"(?im)\bDAD[OA]\b",text): return False
+    alerts=metadata.get("alertas_revision") if isinstance(metadata.get("alertas_revision"),list) else []
+    alert_text=" ".join(str(item) for item in alerts).lower()
+    warning=re.search(r'(?m)^!!! warning "Texto OCR pendiente de revisión"\s*$',markdown_content)
+    text_heading=re.search(r"(?m)^## Texto\s*$",markdown_content)
+    notes_heading=re.search(r"(?m)^## Notas de revisión\s*$",markdown_content)
+    canonical_ocr_markdown=re.sub(r"(?m)^===== PÁGINA (\d+) DEL PDF =====$",lambda match:f"### Página {match.group(1)} del PDF",text).strip()
+    published_text="" if not text_heading or not notes_heading or notes_heading.start()<text_heading.end() else markdown_content[text_heading.end():notes_heading.start()].strip()
+    warning_visible=bool(warning) and markdown_content.rfind("<!--",0,warning.start())<=markdown_content.rfind("-->",0,warning.start())
+    return bool("ocr" in alert_text and "pendiente" in alert_text and warning_visible and text_heading and notes_heading and warning.start()<text_heading.start() and published_text==canonical_ocr_markdown)
+
 def _validated_packages(repo,inventory,year):
     repo=Path(repo).resolve(); canonical_by_identity={}; document_ids=set(); source_ids=set()
     for source in inventory.get("registros_fuente",[]):
@@ -274,7 +309,9 @@ def _validated_packages(repo,inventory,year):
         if pdf_path!=expected_pdf or md_path!=expected_md or json_path!=package or not _valid_pdf(pdf_path) or not md_path.is_file(): continue
         if not metadata.get("sha256_pdf_original") or _hash_file(pdf_path)!=str(metadata.get("sha256_pdf_original")).lower(): continue
         if not metadata.get("sha256_markdown") or _hash_file(md_path)!=str(metadata.get("sha256_markdown")).lower(): continue
-        if metadata.get("estado_revision")!="pendiente_revision" or metadata.get("estado_publicacion")!="normalizado" or metadata.get("estado_extraccion")!="extraido_desde_pdf_oficial": continue
+        if metadata.get("estado_revision")!="pendiente_revision" or metadata.get("estado_publicacion")!="normalizado": continue
+        extraction_state=metadata.get("estado_extraccion")
+        if extraction_state not in {"extraido_desde_pdf_oficial","ocr_asistido_pendiente_revision"}: continue
         expected_urls={"url_fuente_oficial":record.get("url_fuente_oficial"),"url_pdf_original":record.get("url_documento_consultoria_descargar"),"url_documento_oficial":record.get("url_documento_consultoria_abrir")}
         urls_valid=True
         for field,expected_url in expected_urls.items():
@@ -289,6 +326,7 @@ def _validated_packages(repo,inventory,year):
         except OSError: continue
         required=("LEY.DO no es una fuente oficial.","LEY.DO no ofrece asesoría legal.","## Metadata","## Texto","## Notas de revisión")
         if any(marker not in markdown_content for marker in required): continue
+        if extraction_state=="ocr_asistido_pendiente_revision" and not _ocr_package_is_valid(repo,metadata,pdf_path,md_path,data_root,identity,year): continue
         expected_hash=str(record.get("sha256_pdf") or "").strip().lower()
         if not expected_hash:
             for rendition in record.get("rendiciones_oficiales_relacionadas",[]):
@@ -303,13 +341,14 @@ def _validated_packages(repo,inventory,year):
 
 
 def generate_index(repo,inventario_path,year):
+    """Valida el inventario y regenera la portada con la plantilla pública única."""
     repo=Path(repo).resolve(); inventory_resolved=Path(inventario_path).resolve()
     try: inventory_relative=inventory_resolved.relative_to(repo)
     except ValueError as exc: raise ValueError(f"Inventario fuera del repositorio: {inventario_path}") from exc
-    inventario_path=_safe_repo_path(repo,inventory_relative,allowed_root=repo); inventory=json.loads(inventario_path.read_text(encoding="utf-8"))
+    inventory_path=_safe_repo_path(repo,inventory_relative,allowed_root=repo); inventory=json.loads(inventory_path.read_text(encoding="utf-8"))
     pdf_root=repo/f"archivos/decretos/{year}"; md_root=repo/f"docs/decretos/{year}"; data_root=repo/f"datos/decretos/{year}"
     _safe_repo_path(repo,f"archivos/decretos/{year}",allowed_root=pdf_root); _safe_repo_path(repo,f"docs/decretos/{year}",allowed_root=md_root); _safe_repo_path(repo,f"datos/decretos/{year}",allowed_root=data_root)
-    records=inventory.get("registros_fuente",[]); summary=inventory.get("resumen",{})
+    records=inventory.get("registros_fuente",[])
     source_ids=set()
     for record in records:
         document_id=str(record.get("document_id_consultoria") or "").strip()
@@ -317,11 +356,16 @@ def generate_index(repo,inventario_path,year):
         if document_id in source_ids: raise ValueError(f"ID de registro fuente duplicado: {document_id}")
         source_ids.add(document_id)
     canonical_records=[record for record in inventory.get("documentos",{}).get("decretos",[]) if _anio(record)==year]
-    expected={record.get("identidad_documental_numero") if isinstance(record.get("identidad_documental_numero"),int) else _numero(record) for record in canonical_records}
+    expected=set()
+    for record in canonical_records:
+        identity=record.get("identidad_documental_numero") if isinstance(record.get("identidad_documental_numero"),int) else _numero(record)
+        if not isinstance(identity,int): raise ValueError("Identidad documental ausente para la portada anual")
+        expected.add(identity)
     declared_rendition_paths=set()
     for record in canonical_records:
         for rendition in record.get("rendiciones_oficiales_relacionadas",[]):
-            path=_safe_repo_path(repo,rendition.get("ruta_pdf_local",""),allowed_root=pdf_root).relative_to(repo).as_posix(); declared_rendition_paths.add(path); _validate_official_url(rendition.get("url_pdf_oficial",""))
+            path=_safe_repo_path(repo,rendition.get("ruta_pdf_local",""),allowed_root=pdf_root).relative_to(repo).as_posix()
+            declared_rendition_paths.add(path); _validate_official_url(rendition.get("url_pdf_oficial",""))
     actual_rendition_paths={path.relative_to(repo).as_posix() for path in pdf_root.glob(f"decreto-*-{year}-*.pdf")} if pdf_root.exists() else set()
     expected_rendition_paths={path for path in declared_rendition_paths if re.fullmatch(rf"archivos/decretos/{year}/decreto-\d+-{year}\.pdf",path) is None}
     if actual_rendition_paths!=expected_rendition_paths:
@@ -334,97 +378,16 @@ def generate_index(repo,inventario_path,year):
                 if match: actual[kind].add(int(match.group(1)))
     orphans={kind:sorted(numbers-expected) for kind,numbers in actual.items() if numbers-expected}
     if orphans: raise ValueError(f"Paquetes canónicos huérfanos respecto del inventario reconciliado: {orphans}")
-    packages=_validated_packages(repo,inventory,year)
-    source_count=int(summary.get("registros_fuente",len(records)) or len(records))
-    identity_total=int(summary.get("identidades_documentales",summary.get("total_identidades_documentales",len(expected))) or len(expected))
-    package_count=len(packages)
-    pending_pdf=max(identity_total-package_count,0)
-
-    def _short(title, limit=140):
-        text=" ".join(str(title or "").split())
-        if len(text)<=limit: return text
-        cut=text[:limit-1]
-        if " " in cut: cut=cut.rsplit(" ",1)[0]
-        return cut+"…"
-
-    lines=[
-        f"# Decretos {year}",
-        "",
-        '<div class="leydo-year-hero" markdown>',
-        f'<p class="leydo-year-kicker">Decretos · {year}</p>',
-        "",
-        f"Directorio de los decretos de **{year}** en LEY.DO. Cada fila abre el documento. No se interpreta la ley ni se certifica vigencia.",
-        "",
-        f'<div class="leydo-year-summary" markdown><span class="leydo-year-chip"><strong>{package_count}</strong> decretos</span><span class="leydo-year-chip"><strong>{pending_pdf}</strong> sin PDF</span><span class="leydo-year-chip"><strong>{source_count}</strong> registros fuente</span></div>',
-        "</div>",
-        "",
-        '!!! warning "Aviso"',
-        "    LEY.DO no es una fuente oficial. Verifique cada documento contra la fuente oficial indicada.",
-        "",
-        "## Decretos",
-        "",
-        '<div class="leydo-dir" markdown>',
-        '<div class="leydo-dir-head" markdown>',
-        '<div class="leydo-dir-num">Número</div>',
-        '<div class="leydo-dir-date">Fecha</div>',
-        '<div class="leydo-dir-title">Título</div>',
-        "</div>",
-        "",
-    ]
-    for identity in sorted(packages):
-        metadata=packages[identity]
-        stem=f"decreto-{identity:03d}-{year}"
-        title=_cell(_short(metadata.get("titulo") or "Sin título"))
-        date=_cell(metadata.get("fecha") or "—")
-        lines.extend([
-            '<div class="leydo-dir-row" markdown>',
-            f'<div class="leydo-dir-num">[{identity:03d}-{year}]({stem}.md)</div>',
-            f'<div class="leydo-dir-date">{date}</div>',
-            f'<div class="leydo-dir-title">{title}</div>',
-            "</div>",
-            "",
-        ])
-    if not packages:
-        lines.append('<div class="leydo-dir-row" markdown><div class="leydo-dir-title">No hay decretos normalizados todavía.</div></div>')
-        lines.append("")
-    lines.append("</div>")
-    lines.append("")
-    lines.extend([
-        f'<details class="leydo-details"><summary>Trazabilidad fuente ({source_count} registros)</summary>',
-        "",
-        '<div class="leydo-dir" markdown>',
-    ])
-    for record in records:
-        identity=record.get("identidad_documental_numero"); metadata=packages.get(identity) if isinstance(identity,int) else None
-        related=""
-        if metadata is not None:
-            related=f"[Decreto {identity:03d}-{year}](decreto-{identity:03d}-{year}.md)"
-        role=record.get("rol_reconciliacion","")
-        if role=="rendicion_complementaria": state="rendición oficial relacionada · pendiente_revision"
-        elif str(role).startswith("fuente_contextual"): state="fuente contextual oficial · pendiente_revision"
-        elif metadata is not None: state="normalizado con alerta · pendiente_revision" if metadata.get("alertas_revision") else "normalizado · pendiente_revision"
-        else: state="descubierto · pendiente_revision"
-        document_id=_cell(record.get("document_id_consultoria")); official=str(record.get("url_documento_consultoria_abrir") or "").strip()
-        source=f"[ID {document_id}]({_markdown_url(official)})" if official else f"ID {document_id}"
-        title=_cell(_short(record.get("titulo") or "Sin título en fuente", 120))
-        number=_cell(record.get("numero"))
-        date=_cell(record.get("fecha_documento") or "—")
-        lines.extend([
-            '<div class="leydo-dir-row" markdown>',
-            f'<div class="leydo-dir-num">`{number}`' + (f' · {related}' if related else '') + '</div>',
-            f'<div class="leydo-dir-date">{date}</div>',
-            f'<div class="leydo-dir-title">{title} · {source} · {_cell(state)}</div>',
-            "</div>",
-            "",
-        ])
-    lines.append("</div>")
-    lines.append("")
-    lines.append("</details>")
-    lines.append("")
-    destination=_safe_repo_path(repo,f"docs/decretos/{year}/index.md",allowed_root=md_root)
-    _atomic_write_text(destination,"\n".join(lines)+"\n")
-    return destination
-
+    validated=_validated_packages(repo,inventory,year)
+    if set(validated)!=expected:
+        missing=sorted(expected-set(validated)); unexpected=sorted(set(validated)-expected)
+        raise ValueError(f"Paquetes canónicos ausentes, obsoletos o inconsistentes: faltan={missing}, inesperados={unexpected}")
+    try:
+        from scripts.generar_portadas_anuales_decretos import render_year
+    except ModuleNotFoundError:
+        from generar_portadas_anuales_decretos import render_year
+    render_year(repo,year,validated,canonical_records)
+    return _safe_repo_path(repo,f"docs/decretos/{year}/index.md",allowed_root=md_root)
 
 
 def main(argv=None,processor=process_documents):

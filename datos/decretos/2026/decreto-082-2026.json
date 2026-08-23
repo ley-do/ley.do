@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "082",
   "anio": "2026",
   "titulo": "que autoriza al uso de los procedimientos de excepción por situaciones de seguridad nacional establecidos en el numeral 2 del artículo 78 de la Ley núm. 47-25 a varias instituciones del Estado, por un plazo de un año. Deroga los decretos núms. 111-22-, 542-22, 5-23, 46-24, 437-24, 25-25 y 50-25",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404427&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404427&managementType=1",
   "document_id_consultoria": "3404427",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-082-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-082-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-082-2026.json",
   "sha256_pdf_original": "cf4b2cee9590ec071ce243e9221a251083476d024ea3962997863c1bb0c74216",
-  "sha256_markdown": "a8658f70db91fe849eaf1e10aecb7594847e837ff8555ed4e96edbc56380686c",
+  "sha256_markdown": "3b20b68a769f7e45084b1e48bd7ad8cd1b720c2ef2827cef78ab6518b6c523a0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "82-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/02/2026",
+  "numero_formal_pdf": "82-26"
 }

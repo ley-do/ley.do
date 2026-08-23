@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "124",
   "anio": "2026",
   "titulo": "que deroga el Decreto núm. 51-14, que designó al señor Enrique Rodolfo Olivé, cónsul honorario de nuestro país en la ciudad de Rosario, provincia de Santa Fe, República de Argentina",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404483&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404483&managementType=1",
   "document_id_consultoria": "3404483",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-124-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-124-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-124-2026.json",
   "sha256_pdf_original": "6b8da5d13612d2ac1a7c4b61416a1d5a3465a5fe6bffa8c3dba50e4aee820cc2",
-  "sha256_markdown": "0cba311ec7c1f0846ed4ccd0809b6d0b9071c96b62be0689914eae3b7923cfd9",
+  "sha256_markdown": "86bc392ace67c8cad681dc7f91db14784f6e0a1ef7df852e9aa0269e5857e0b6",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    125
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "124-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "24/02/2026",
+  "numero_formal_pdf": "124-26"
 }

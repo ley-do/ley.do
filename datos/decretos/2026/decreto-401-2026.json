@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "401",
   "anio": "2026",
   "titulo": "que declara de utilidad pública e interés social varias porciones de terrenos propiedad de diferentes personas ubicadas en el municipio de Barahona, para ser destinadas a la construcción del Polideportivo Marino G. Matos, la habilitación de áreas de estacionamiento y obras complementarias de integración urbanística y turística con el entorno del Puerto Turístico de Barahona",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405904&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405904&managementType=1",
   "document_id_consultoria": "3405904",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-401-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-401-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-401-2026.json",
   "sha256_pdf_original": "865136eefd983ada6cce8d45867fee8625a20a9b94377a71294b1820eba972b2",
-  "sha256_markdown": "1ff5b03b7bbc74fceb845af260bd364a8c82f06928b44b4b9abe5561c7d34051",
+  "sha256_markdown": "c0f0bcba44707a4a38a363026f0f46f1341041ea8c89b4bbb78457b3101b3dc0",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    402
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "401-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/06/2026",
+  "numero_formal_pdf": "401-26"
 }

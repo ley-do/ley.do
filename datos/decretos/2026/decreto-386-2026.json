@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "386",
   "anio": "2026",
   "titulo": "que designa a los señores Rosa Yanina Torres Tamares y Saúl Roberto Fulcar Soto, cónsules generales de nuestro país en Atlanta, Georgia y en Nueva Orleans, Luisana, Estados Unidos de América, respectivamente. Deroga el artículo 1 del Decreto núm. 554-24",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405883&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405883&managementType=1",
   "document_id_consultoria": "3405883",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-386-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-386-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-386-2026.json",
   "sha256_pdf_original": "605265df2666f924af95b218d6e1a0d439afd4f0b095f626fff0111ec7387969",
-  "sha256_markdown": "391b16919a4c43a768fe70a6d58033e7ba3e3ac656e898ba8d2ea2d0892fe20b",
+  "sha256_markdown": "33d5f003ffba219d4dd771bfaec540fbae41f86cc84f1062ce278d4d1ea56d3c",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "386-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "08/06/2026",
+  "numero_formal_pdf": "386-26"
 }

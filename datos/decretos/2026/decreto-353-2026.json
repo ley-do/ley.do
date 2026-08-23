@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "353",
   "anio": "2026",
   "titulo": "que dispone la elaboración de la Estrategia Marítima de la República Dominicana, como instrumento de política pública orientado a la planificación, articulación y coordinación de las acciones del Estado en materia marítima y oceánica, así como la formulación e implementación de sus planes de acción. La supervisión de la implementación de la estrategia marítima, su coordinación y el seguimiento de su ejecución estarán a cargo de la Autoridad Nacional de Asuntos Marítimos (ANAMAR), a través de su Consejo Directivo",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405847&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405847&managementType=1",
   "document_id_consultoria": "3405847",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-353-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-353-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-353-2026.json",
   "sha256_pdf_original": "3d81dca8fc2523f7e4420d70030cd4907b619f3794a5c43b194f7b3b1c8535db",
-  "sha256_markdown": "dfde091245549f65b43ab4364b7c008d4e1d55e3bdaa129454691c1fdaec2ebb",
+  "sha256_markdown": "68aca219262b8296cb4c88afa7f3b094ecf19c5f85feddbac00cf8a5204fcaa7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    354
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "353-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "02/06/2026",
+  "numero_formal_pdf": "353-26"
 }

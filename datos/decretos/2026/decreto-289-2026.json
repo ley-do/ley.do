@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "289",
   "anio": "2026",
   "titulo": "que modifica el artículo 1 del Decreto núm. 149-18. Dispone que el inmueble identificado como designación catastral núm. 3073660441883, que tiene una extensión superficial de 3,405.79 mt2, ubicado en el municipio Cambita Garabitos, provincia San Cristóbal, propiedad de los señores Noe Esmeterio García, Milka Estela Emeterio García, Samuel Emeterio Franco, Jacob Emeterio Franco, Moisés Emeterio Franco y Rebeca Emeterio Franco",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404777&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404777&managementType=1",
   "document_id_consultoria": "3404777",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-289-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-289-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-289-2026.json",
   "sha256_pdf_original": "06d8a517f37ab89daf2b21a6f3a43c2d090bd2e0e02b52aa7701be549c390eef",
-  "sha256_markdown": "0a340ca383b097e3eb987354e5f680705d0d473c96fc918fb68bee823641c1a8",
+  "sha256_markdown": "71ea108797b091a8b7846ce4c1faec7d492966c98b96a11f0fdd9235966434b8",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    290
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "289-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "28/04/2026",
+  "numero_formal_pdf": "289-26"
 }

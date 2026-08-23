@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "276",
   "anio": "2026",
   "titulo": "que modifica el artículo 1 del Decreto núm. 718-25, que a su vez modificó el artículo 2 del Decreto núm. 185-16. Dispone que el parque de zona franca denominado Parque de Innovación Laboral San Juan, funcionará en 4 porciones de terrenos con un área total de 1,931,480.78 mt2, ubicadas en la carretera San Juan - Mogollón, sección Mogollón, Provincia San Juan",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404768&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404768&managementType=1",
   "document_id_consultoria": "3404768",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-276-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-276-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-276-2026.json",
   "sha256_pdf_original": "84961547eba23d11aa97810cd6e2f9053ecb1e14dd2cf93f6d36d8d96c7c3e68",
-  "sha256_markdown": "d1a34e2faceca6f13ea1082feb67376fd8b708f3f4a5efd00fb6aff73cddade9",
+  "sha256_markdown": "038af89ea93db5196bbe55e382379d3164619860cd57a9c7d81c6610f2fafdae",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    277
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "276-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "22/04/2026",
+  "numero_formal_pdf": "276-26"
 }

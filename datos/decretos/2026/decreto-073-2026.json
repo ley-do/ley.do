@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "073",
   "anio": "2026",
   "titulo": "que confirma al señor Juan Ramón Rosario Contreras, como presidente de la Comisión Reguladora de Prácticas Desleales en el Comercio y sobre Medidas de Salvaguarda, por un periodo de 4 años, una vez dicha designación haya sido ratificada por el Congreso Nacional",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404442&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404442&managementType=1",
   "document_id_consultoria": "3404442",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-073-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-073-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-073-2026.json",
   "sha256_pdf_original": "e8d50bff14a7b25fb5b390164de02f6182cc306b43d1112b18cd08be4c095bfb",
-  "sha256_markdown": "729f76f9ba0f94ed8796b6f8538ba731edbbd26a5d45285de0cc75c6ace940a2",
+  "sha256_markdown": "b0915f805d8b6779c8085349610519acce8942996b17c8e844933c14873d732e",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    74
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "73-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "09/02/2026",
+  "numero_formal_pdf": "73-26"
 }

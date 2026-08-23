@@ -12,11 +12,11 @@ from pathlib import Path
 import fitz
 
 try:
-    from scripts.normalizar_decretos_consultoria import extract
-    from scripts.procesar_decretos_consultoria import _atomic_write_text,_hash_file,_safe_repo_path,_validated_packages
+    from scripts.normalizar_decretos_consultoria import evidencia_discrepancia_formal_valida, extract
+    from scripts.procesar_decretos_consultoria import _atomic_write_text,_hash_file,_safe_repo_path,_validated_packages,_ocr_package_is_valid
 except ModuleNotFoundError:
-    from normalizar_decretos_consultoria import extract
-    from procesar_decretos_consultoria import _atomic_write_text,_hash_file,_safe_repo_path,_validated_packages
+    from normalizar_decretos_consultoria import evidencia_discrepancia_formal_valida, extract
+    from procesar_decretos_consultoria import _atomic_write_text,_hash_file,_safe_repo_path,_validated_packages,_ocr_package_is_valid
 
 DATE_RE=re.compile(r"^(\d{2})/(\d{2})/(\d{4})$")
 FORMAL_RE=re.compile(r"(?im)^N[ÚU]MERO:\s*(\d+)\s*-\s*(\d{2}|\d{4})\b")
@@ -95,7 +95,7 @@ def audit(repo,inventory_path,year):
         missing=sorted(expected-actual); extra=sorted(actual-expected)
         if missing: errors.append(f"{label} faltantes: {missing}")
         if extra: errors.append(f"{label} huérfanos: {extra}")
-    date_discrepancies=[]; no_dado=[]; documented_unparseable=[]; no_formal=[]; formal_discrepancies=[]; neighbor_fragments=[]; hash_groups=defaultdict(list)
+    date_discrepancies=[]; no_dado=[]; documented_unparseable=[]; no_formal=[]; formal_discrepancies=[]; neighbor_fragments=[]; ocr_pending=[]; hash_groups=defaultdict(list)
     for number in sorted(record_by_number):
         metadata_path=data_root/f"decreto-{number:03d}-{year}.json"
         try: metadata=json.loads(metadata_path.read_text(encoding="utf-8"))
@@ -109,6 +109,15 @@ def audit(repo,inventory_path,year):
         if metadata_gaceta!=source_gaceta:
             errors.append(f"Decreto {number}: Gaceta del JSON no coincide con la fuente reconciliada (JSON: {metadata_gaceta!r}; fuente: {source_gaceta!r})")
         pdf_path=pdf_root/f"decreto-{number:03d}-{year}.pdf"
+        markdown_path=md_root/f"decreto-{number:03d}-{year}.md"
+        if metadata.get("estado_extraccion")=="ocr_asistido_pendiente_revision":
+            if not _ocr_package_is_valid(repo,metadata,pdf_path,markdown_path,data_root,number,year): errors.append(f"Decreto {number}: paquete OCR incompleto, no verificable o incompatible con el PDF")
+            fragments=metadata.get("fragmentos_decretos_vecinos_excluidos")
+            if not isinstance(fragments,list): errors.append(f"Decreto {number}: fragmentos vecinos no documentados")
+            else: neighbor_fragments.append({"numero":number,"fragmentos":fragments})
+            if pdf_path.is_file(): hash_groups[_hash_file(pdf_path)].append(number)
+            ocr_pending.append(number); warnings.append(f"Decreto {number}: texto OCR local pendiente de revisión humana; el PDF oficial no tiene capa de texto.")
+            continue
         try: formal_text,formal_number,formal_year,pdf_observed,pdf_state=_read_pdf_evidence(pdf_path,number,year)
         except Exception as exc: errors.append(f"Decreto {number}: no se pudo verificar la evidencia del PDF: {exc}"); continue
         state=metadata.get("estado_fecha_texto_pdf"); observed=str(metadata.get("fecha_texto_pdf_detectada") or "")
@@ -139,11 +148,16 @@ def audit(repo,inventory_path,year):
         if pdf_path.is_file(): hash_groups[_hash_file(pdf_path)].append(number)
         if not formal_text:
             no_formal.append(number); continue
-        if formal_year not in {str(year),str(year)[-2:]}: errors.append(f"Decreto {number}: año formal {formal_year} no corresponde a {year}")
         if str(metadata.get("numero_formal_pdf") or "")!=formal_text: errors.append(f"Decreto {number}: numero_formal_pdf no conserva {formal_text}")
-        if formal_number!=number:
+        if formal_number!=number or formal_year not in {str(year),str(year)[-2:]}:
             formal_discrepancies.append({"numero":number,"numero_formal_pdf":formal_text})
-            if "línea formal" not in alert_text: errors.append(f"Decreto {number}: discrepancia formal {formal_text} sin alerta")
+            if "línea formal" not in alert_text:
+                errors.append(f"Decreto {number}: discrepancia formal {formal_text} sin alerta")
+            if formal_year not in {str(year),str(year)[-2:]}:
+                evidence_source=source_record.get("evidencia_discrepancia_formal")
+                evidence_metadata=metadata.get("evidencia_discrepancia_formal")
+                if evidence_metadata != evidence_source or not evidencia_discrepancia_formal_valida(evidence_metadata,source_record,number,year,formal_text,_hash_file(pdf_path)):
+                    errors.append(f"Decreto {number}: año formal incompatible sin evidencia reconciliada verificable")
     duplicate_hashes=[{"sha256":digest,"numeros":numbers} for digest,numbers in sorted(hash_groups.items()) if len(numbers)>1]
     for group in duplicate_hashes:
         documented=True
@@ -163,14 +177,26 @@ def audit(repo,inventory_path,year):
     index_path=_safe_repo_path(repo,f"docs/decretos/{year}/index.md",allowed_root=md_root)
     try: index_content=index_path.read_text(encoding="utf-8")
     except OSError: index_content=""; errors.append("Falta el índice anual")
-    index_rows=[line for line in index_content.splitlines() if line.startswith("| `")]; index_ids=re.findall(r"\[ID ([^\]]+)\]",index_content)
-    if len(index_rows)!=len(source_records): errors.append(f"Filas del índice: {len(index_rows)}; esperadas: {len(source_records)}")
-    if len(index_ids)!=len(source_records) or len(set(index_ids))!=len(source_records): errors.append("Los IDs del índice no son completos y únicos")
+    card_hrefs=re.findall(r"<a\s+[^>]*class=\"[^\"]*\bleydo-doc\b[^\"]*\"[^>]*href=\"([^\"]+)\"",index_content,re.I)
+    if card_hrefs:
+        expected_hrefs={f"decreto-{number:03d}-{year}/" for number in identities if isinstance(number,int)}
+        if len(card_hrefs)!=len(expected_hrefs): errors.append(f"Encapsulados del índice: {len(card_hrefs)}; esperados: {len(expected_hrefs)}")
+        if len(set(card_hrefs))!=len(card_hrefs): errors.append("Los encapsulados del índice contienen rutas duplicadas")
+        if any(href.endswith(".md") or ".md?" in href for href in card_hrefs): errors.append("Los encapsulados del índice no deben enlazar archivos .md")
+        if set(card_hrefs)!=expected_hrefs: errors.append("Las rutas de los encapsulados no coinciden con las identidades documentales")
+        index_rows=card_hrefs; index_ids=card_hrefs; index_layout="encapsulados"
+    else:
+        legacy_rows=[line for line in index_content.splitlines() if line.startswith("| "+chr(96))]
+        index_ids=re.findall(r"\[ID ([^\]]+)\]",index_content)
+        index_rows=legacy_rows if legacy_rows else ["trazabilidad"]*len(index_ids)
+        if len(index_rows)!=len(source_records): errors.append(f"Filas del índice: {len(index_rows)}; esperadas: {len(source_records)}")
+        if len(index_ids)!=len(source_records) or len(set(index_ids))!=len(source_records): errors.append("Los IDs del índice no son completos y únicos")
+        index_layout="trazabilidad"
     report={
         "schema_version":"1.1","fecha_auditoria":datetime.now(timezone.utc).isoformat(),"anio":year,
         "fuente_reconciliada":inventory_path.relative_to(repo).as_posix(),"sha256_fuente_reconciliada":_hash_file(inventory_path),
-        "resumen":{"registros_fuente":len(source_records),"identidades_documentales":len(canonical),"pdfs_locales":len(actual_pdfs),"markdown":len(actual_md),"json":len(actual_json),"filas_indice":len(index_rows),"ids_indice_unicos":len(set(index_ids)),"paquetes_validados":len(validated),"documentos_con_fragmentos_vecinos_delimitados":len(neighbor_fragments),"discrepancias_fecha_documentadas":len(date_discrepancies),"documentos_sin_fecha_dado_detectable":len(no_dado),"documentos_fecha_no_parseable_con_alerta":len(documented_unparseable),"documentos_sin_linea_formal_numero_detectable":len(no_formal),"discrepancias_numero_formal_documentadas":len(formal_discrepancies),"grupos_pdf_canonicos_con_hash_repetido":len(duplicate_hashes),"errores":len(errors),"advertencias":len(warnings)},
-        "discrepancias_fecha":date_discrepancies,"documentos_sin_fecha_dado_detectable":no_dado,"fechas_no_parseables_documentadas":documented_unparseable,"documentos_sin_linea_formal_numero_detectable":no_formal,"discrepancias_numero_formal":formal_discrepancies,"fragmentos_vecinos_delimitados":neighbor_fragments,"grupos_pdf_canonicos_con_hash_repetido":duplicate_hashes,"rendiciones_especiales":special_renditions,"advertencias":warnings,"errores":errors,
+        "resumen":{"formato_indice":index_layout,"registros_fuente":len(source_records),"identidades_documentales":len(canonical),"pdfs_locales":len(actual_pdfs),"markdown":len(actual_md),"json":len(actual_json),"filas_indice":len(index_rows),"ids_indice_unicos":len(set(index_ids)),"paquetes_validados":len(validated),"documentos_con_fragmentos_vecinos_delimitados":len(neighbor_fragments),"discrepancias_fecha_documentadas":len(date_discrepancies),"documentos_sin_fecha_dado_detectable":len(no_dado),"documentos_ocr_pendientes_revision":len(ocr_pending),"documentos_fecha_no_parseable_con_alerta":len(documented_unparseable),"documentos_sin_linea_formal_numero_detectable":len(no_formal),"discrepancias_numero_formal_documentadas":len(formal_discrepancies),"grupos_pdf_canonicos_con_hash_repetido":len(duplicate_hashes),"errores":len(errors),"advertencias":len(warnings)},
+        "discrepancias_fecha":date_discrepancies,"documentos_sin_fecha_dado_detectable":no_dado,"documentos_ocr_pendientes_revision":ocr_pending,"fechas_no_parseables_documentadas":documented_unparseable,"documentos_sin_linea_formal_numero_detectable":no_formal,"discrepancias_numero_formal":formal_discrepancies,"fragmentos_vecinos_delimitados":neighbor_fragments,"grupos_pdf_canonicos_con_hash_repetido":duplicate_hashes,"rendiciones_especiales":special_renditions,"advertencias":warnings,"errores":errors,
     }
     return report
 

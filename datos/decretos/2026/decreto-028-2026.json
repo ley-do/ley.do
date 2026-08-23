@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "028",
   "anio": "2026",
   "titulo": "que autoriza la ampliación del Parque Multimodal San Francisco de Jacagua y modifica el artículo 2 del del Decreto núm. 38-23. Dispone que dicho parque funcionará en 17 porciones de terrenos con un área total de 123,764.15 mt2",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404199&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404199&managementType=1",
   "document_id_consultoria": "3404199",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-028-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-028-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-028-2026.json",
   "sha256_pdf_original": "1165cad93d6f68e4de632aa6e15dc1adeef5c190ef4f28ebb466f195f1ee77ce",
-  "sha256_markdown": "1350fbe443e673d2598d6eea3b743b2a8077cfad0e0ac3b1a09ca938861a6438",
+  "sha256_markdown": "2b36181b17963a70cf886c4e137f5e479222b16d80d7676fbc0d3b18fc604fe7",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "28-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/01/2026",
+  "numero_formal_pdf": "28-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "264",
   "anio": "2026",
   "titulo": "que modifica el artículo 2 del Decreto núm. 661-24. Dispone que el parque de zona franca denominado Agroprocess Monte Plata, funcionará en una porción de terreno de 266,498.83 mt2, ubicada en la sección El Dian, Cruce de Pajón, municipio y provincia de Monte Plata",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404752&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404752&managementType=1",
   "document_id_consultoria": "3404752",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-264-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-264-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-264-2026.json",
   "sha256_pdf_original": "833e7475c3fba0d05c9db25db86b05a7fb41e84403b80f2baacc6e156e84aecd",
-  "sha256_markdown": "9d11d3423a826ae9cd474f7631899b1f7445f551188996b574a645a6edced333",
+  "sha256_markdown": "668ea5ffe63bbc078affe6084541c17af04b43f08c072d01d4e1103092a637a1",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "264-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "20/04/2026",
+  "numero_formal_pdf": "264-26"
 }

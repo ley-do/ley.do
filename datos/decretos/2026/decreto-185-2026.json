@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "185",
   "anio": "2026",
   "titulo": "que crea de manera provincial, el Comité para la Gestión del Acceso Público de Playa Esmeralda, ubicada en el distrito municipal El Cedro, municipio de Miches, provincia El Seibo",
@@ -10,16 +12,29 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404613&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404613&managementType=1",
   "document_id_consultoria": "3404613",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-185-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-185-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-185-2026.json",
   "sha256_pdf_original": "1fe44bd6e8c2afe1852251e18adfffaf71aed8aac034cdaf7df8adf15d8e80d0",
-  "sha256_markdown": "349a9f90a3a06fa91ee07350f3d3667d27175a31ed39d3fb81e83f1ee835da1e",
+  "sha256_markdown": "853ea105d2db567920003a584f35d0183d7284a44069bff9ed2ea41482773dee",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    186
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "185-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "19/03/2026",
+  "fecha_metadata_fuente": "19/03/2025",
+  "numero_formal_pdf": "185-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 19/03/2025, mientras el apartado DADO del PDF indica 19/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

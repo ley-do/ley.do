@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "373",
   "anio": "2026",
   "titulo": "que concede el beneficio de la jubilación y asigna una pensión del Estado por antigüedad a 151 servidores públicos",
@@ -10,16 +12,27 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405873&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405873&managementType=1",
   "document_id_consultoria": "3405873",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-373-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-373-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-373-2026.json",
   "sha256_pdf_original": "29dce9c1c6239c8e7c58cd492ecfe2f5ea235222505ae94d7bec0e7a65e79580",
-  "sha256_markdown": "00e202cb231385a9bd0a2b811d5d14325fd7a32fd1829a32cd1426dbe3e34e3f",
+  "sha256_markdown": "849009a1e89a4ee877252ab118b92b899443d09324eda472c885dc36e11171ba",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    374
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "No se detectó una cláusula DADO en el segmento extraído del PDF. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "373-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "clausula_dado_no_detectada",
+  "fecha_texto_pdf_detectada": "",
+  "alertas_revision": [
+    "No se detectó una cláusula DADO en el segmento extraído del PDF."
+  ]
 }

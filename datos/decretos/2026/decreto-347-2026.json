@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "347",
   "anio": "2026",
   "titulo": "que autoriza la emisión de mil millones de estampillas para fósforos de RD$0.19",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404887&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404887&managementType=1",
   "document_id_consultoria": "3404887",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-347-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-347-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-347-2026.json",
   "sha256_pdf_original": "37ce6e23d885ddeeadae890958762e9060d5aa2d56ab6005e2d45f84499dfdc2",
-  "sha256_markdown": "17ca82afbac9c8535459a246af77016c8efb174337a07ee670b51f3f1bbe3c65",
+  "sha256_markdown": "fbc65506a87ce5d7b26dca5730f584ef2fa1665bfbb8b69690eacde2d5a51a0d",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    348
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "347-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "27/05/2026",
+  "numero_formal_pdf": "347-26"
 }

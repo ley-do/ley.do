@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "326",
   "anio": "2026",
   "titulo": "que autoriza al Ayuntamiento del municipio de Azua a donar a favor del Estado dominicano, una porción de terreno de 9,000.00 mt2, ubicada en la parcela núm. 4-C, del distrito catastral núm. 08, matrícula 3001209951, para ser incluida en el Plan de Titulación a través de la Comisión Permanente de Titulación de Terrenos del Estado",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404834&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404834&managementType=1",
   "document_id_consultoria": "3404834",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-326-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-326-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-326-2026.json",
   "sha256_pdf_original": "b214507fe9d26481188124a4bb76c1cde01401828b2a8ec0facae736bc13f90f",
-  "sha256_markdown": "afc6cc57690b77cd1cd3c3977d26ecbaaa0127cd35cf50cc0a2e1708f484a29c",
+  "sha256_markdown": "d943b42256daa435e86890f0efd757101ee32662280b82d35c5f718ff81f0869",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "326-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/05/2026",
+  "numero_formal_pdf": "326-26"
 }

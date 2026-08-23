@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "039",
   "anio": "2026",
   "titulo": "que deroga el artículo 13 del Decreto núm. 390-24",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404384&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404384&managementType=1",
   "document_id_consultoria": "3404384",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-039-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-039-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-039-2026.json",
   "sha256_pdf_original": "2b38d7f01767c842587d4e1bae5c92f47171eee8dd55d125e9a665ab20676f5c",
-  "sha256_markdown": "9a928151af778535c5e9b3a5d9083a83c1e7d6c5b30b6dafbd0eae179548b4b1",
+  "sha256_markdown": "11d883512cfb6aef167c7134b95702d01d22a6d51867187419104c06e58604f6",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "39-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "23/01/2026",
+  "numero_formal_pdf": "39-26"
 }

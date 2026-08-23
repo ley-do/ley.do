@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "390",
   "anio": "2026",
   "titulo": "del 11 de junio de 2026, que concede pensiones especiales del Estado a 8 personas",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405899&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405899&managementType=1",
   "document_id_consultoria": "3405899",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-390-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-390-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-390-2026.json",
   "sha256_pdf_original": "187305b56213ab9274925f4c25ff2f07c857057addb037c43638d55abcd9031a",
-  "sha256_markdown": "a40d009235cd37cb97f227a9d11d5e38c988a3cb3e7ba4c2b24167dc97fa0b70",
+  "sha256_markdown": "4ecc76e31ae69d041280f0746232503784fa88366c6a1d4deff9ee4bb2060dea",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "390-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "11/06/2026",
+  "numero_formal_pdf": "390-26"
 }

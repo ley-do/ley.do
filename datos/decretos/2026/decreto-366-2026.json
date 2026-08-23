@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "366",
   "anio": "2026",
   "titulo": "que designa a la señora Patricia Selma Villegas de Jorge, embajadora extraordinaria y plenipotenciaria, concurrente, de nuestro país en la República de Cabo Verde, con sede en la República Portuguesa",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405863&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3405863&managementType=1",
   "document_id_consultoria": "3405863",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-366-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-366-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-366-2026.json",
   "sha256_pdf_original": "167dd7a332b708419cf07da345c06ac14b4e96e6041bdf6e21631894c1c59125",
-  "sha256_markdown": "a9975e4ffb50c82c24a03845a4f710d296a1bf4c5a2e57234755990b23203b56",
+  "sha256_markdown": "ac28e3081cb6f9cd251307e6bb999c93aaca820a94a5e27694950ede6b8d9902",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "366-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "02/06/2026",
+  "numero_formal_pdf": "366-26"
 }

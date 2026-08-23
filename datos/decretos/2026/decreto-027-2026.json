@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "027",
   "anio": "2026",
   "titulo": "que ratifica el permiso otorgado por el Consejo Nacional de Zonas Francas de Exportación a la compañía Inversiones Davilen, S.R.L., como operador de parques de zonas francas, y crea el parque de zonas francas La Reserva Vault Services And Free Zone Park, bajo la administración técnica y operativa de la compañía Inversiones Davilen, S.R.L., el cual funcionará en una porción de terreno de 42,816.87 metros cuadrados, ubicada en el municipio de Higüey, provincia La Altagracia",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404215&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404215&managementType=1",
   "document_id_consultoria": "3404215",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-027-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-027-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-027-2026.json",
   "sha256_pdf_original": "281393febe64b9ce410b90ba4aca321b25ac1c65a0cadc23365491ee170d877e",
-  "sha256_markdown": "0ed7c95dbf6f8cefc6c24e22d38d6cceec3b362d9132c9b593e102aefd7bd79b",
+  "sha256_markdown": "f843c54d00cf9f36643cf77d605cbe66041d470c63d84f967d14ce4d780b1e0b",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "27-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "15/01/2026",
+  "numero_formal_pdf": "27-26"
 }

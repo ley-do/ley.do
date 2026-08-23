@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "257",
   "anio": "2026",
   "titulo": "que modifica el artículo 2 del Decreto núm. 82-26. Establece las instituciones autorizadas a realizar los procedimientos de excepción por situaciones de seguridad nacional, establecidos en el numeral 2 del artículo 78 de la Ley núm. 47-25, sobre Contrataciones Públicas",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404692&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404692&managementType=1",
   "document_id_consultoria": "3404692",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-257-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-257-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-257-2026.json",
   "sha256_pdf_original": "7049305b129d73ef9dc96807051a8a960d3cd801a4f2fde4e3def337a54a04f5",
-  "sha256_markdown": "d1feef160a19f89b90043a8cccf0113294b5bb2a4a4f41023de3eda814714203",
+  "sha256_markdown": "e921220cb08aeb407c0281ae9a1dc50caa278327fed90fe4e1f411ef8d0ea37a",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "257-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/04/2026",
+  "numero_formal_pdf": "257-26"
 }

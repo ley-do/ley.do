@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "176",
   "anio": "2026",
   "titulo": "que modifica el artículo 1 del Dec. núm. 720-25. Dispone que el parque de zona franca industrial Riosur, fusionará en cinco (5) porciones de terrenos con un área de 1,478,372.90, metros cuadrados, ubicados en el municipio San Antonio de Guerra, provincia Santo Domingo, y en la provincia Monte Plata",
@@ -10,16 +12,28 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404607&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404607&managementType=1",
   "document_id_consultoria": "3404607",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-176-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-176-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-176-2026.json",
   "sha256_pdf_original": "68a6384c29575e253631bb093af8ebefc7962e247a76907fca8087fe701c0a08",
-  "sha256_markdown": "7248769394624773f36a25a90fd08506987e451a3df02583f9996a147036fc93",
+  "sha256_markdown": "641d65e9d884b0debfae8bd48b22e0a73e0056e49610fed2499036f6907bbff4",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 18/03/2025, mientras el apartado DADO del PDF indica 18/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "176-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "18/03/2026",
+  "fecha_metadata_fuente": "18/03/2025",
+  "numero_formal_pdf": "176-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 18/03/2025, mientras el apartado DADO del PDF indica 18/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

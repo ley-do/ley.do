@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "040",
   "anio": "2026",
   "titulo": "que concede la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella en el Grado de Gran Cruz Placa de Plata, a la excelentísima señora Rita Hämmerli-Weschke, embajadora extraordinaria y plenipotenciaria de la Confederación Suiza en nuestro país",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404385&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404385&managementType=1",
   "document_id_consultoria": "3404385",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-040-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-040-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-040-2026.json",
   "sha256_pdf_original": "9b7a751952ac9d58e05b2f0144581e1566e7e01973b8b225d842258942cf2d6c",
-  "sha256_markdown": "a144a66eed12df17ddeacc7b4f4cfc5e37c895ef9dda94cf4d3cc90e5918abad",
+  "sha256_markdown": "ae4d75267942292489a0e3ef444d843e54157d565c3ba8fce6041d94438d4b02",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "40-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "27/01/2026",
+  "numero_formal_pdf": "40-26"
 }

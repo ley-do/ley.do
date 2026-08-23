@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "110",
   "anio": "2026",
   "titulo": "que aumenta a la suma de R$150,000.00 mensuales, la pensión del Estado de que disfruta el señor Alejandro Amable Quezada Peña",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404463&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404463&managementType=1",
   "document_id_consultoria": "3404463",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-110-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-110-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-110-2026.json",
   "sha256_pdf_original": "8bbe470b65de43b0586655217dcd2a9785cb454e10733e5149d9cc46d6f0ea49",
-  "sha256_markdown": "a7899c31de122d07ea8998a1671e7c787b3f7f9ea79c8c82d3187f9bc4f7e3c0",
+  "sha256_markdown": "371c4bb1c411b1f5c6ae67aa179701a80e109c5b7be47c1e740ff5db9abbc3ff",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "110-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/02/2026",
+  "numero_formal_pdf": "110-26"
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "171",
   "anio": "2026",
   "titulo": "que otorga exequatur a varios profesionales para que puedan ejercer distintas profesiones",
@@ -10,16 +12,28 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404589&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404589&managementType=1",
   "document_id_consultoria": "3404589",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-171-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-171-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-171-2026.json",
   "sha256_pdf_original": "71972a99d6f32b16ee9d9ed349644ec02558637a7f4c8f8adf5f41d5d41e852a",
-  "sha256_markdown": "25386c810fc59a2a1ed1ce6ed1db6e24c67d23a3b18f264524c0ce8b5ba3f15e",
+  "sha256_markdown": "727dd89cb6326cdda347e37420c5e12475effddd67a2527429f2ca4a9eded876",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 17/03/2025, mientras el apartado DADO del PDF indica 17/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "171-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/03/2026",
+  "fecha_metadata_fuente": "17/03/2025",
+  "numero_formal_pdf": "171-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 17/03/2025, mientras el apartado DADO del PDF indica 17/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "163",
   "anio": "2026",
   "titulo": "que deroga el artículo 47, del Decreto núm. 81-25, que designó a Rawell Salomón Taveras Arbaje, ministro consejero en el servicio interno del Ministerio de Relaciones Exteriores",
@@ -10,16 +12,28 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404587&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404587&managementType=1",
   "document_id_consultoria": "3404587",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-163-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-163-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-163-2026.json",
   "sha256_pdf_original": "34f4b64265c303b4a4eda2e4921e50b237f3ba098746b5ac4fd08d8adc8222f0",
-  "sha256_markdown": "65a7aaabc44c4982950956ecf1dac6a4281a972758449c9b318ce882d4ff9966",
+  "sha256_markdown": "91035635b26f91b2a887dfc79bdcb93621a1c5821d76ed9d65d43f60ebea6b81",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "163-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "16/03/2026",
+  "fecha_metadata_fuente": "16/03/2025",
+  "numero_formal_pdf": "163-26",
+  "alertas_revision": [
+    "La metadata oficial consultada indica 16/03/2025, mientras el apartado DADO del PDF indica 16/03/2026. Se conservan ambos valores para revisión humana."
+  ]
 }

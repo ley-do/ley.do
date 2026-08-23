@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "020",
   "anio": "2026",
   "titulo": "que ratifica el permiso otorgado por el Consejo Nacional de Zonas Francas de Exportación a la compañía Grupo Porvenir, S.R.L., como operador de parques de zonas francas, y crea el parque de zonas francas Parque Industrial Las Palomas, bajo la administración técnica y operativa de la compañía Grupo Porvenir, S.R.L., el cual funcionará en una porción de terreno de 41,333.71 metros cuadrados, ubicada en el municipio Tamboril, provincia Santiago",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404197&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404197&managementType=1",
   "document_id_consultoria": "3404197",
-  "fecha_consulta": "2026-07-26",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-020-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-020-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-020-2026.json",
   "sha256_pdf_original": "8f80693ff25557f297616f8fd85fb3f3a8daec309f9ace87c66dbbe4e8d1ab2c",
-  "sha256_markdown": "c5b6e5a567f11013d34fbe3b54788a7eb121b3d1a0f28ed583884204b095b9cf",
+  "sha256_markdown": "4b4fe5792b5a4380d216e49fdb6ebe8903f4f5a27bf8a5537ae395c0a0bbeb45",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    21
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "20-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "12/01/2026",
+  "numero_formal_pdf": "20-26"
 }

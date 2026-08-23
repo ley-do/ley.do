@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "203",
   "anio": "2026",
   "titulo": "que deroga el artículo 6 del Decreto núm. 408-20, que designó a Johanny Villamán Espino, subdirectora de la Dirección General de Bienes Nacionales",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404636&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404636&managementType=1",
   "document_id_consultoria": "3404636",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-203-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-203-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-203-2026.json",
   "sha256_pdf_original": "1938af7b96ca7f1272f5f43a832d0e8ba1f8cefa052f642f383ff1538cf16258",
-  "sha256_markdown": "7db5474f258a69569063f56e2c35ada879e35865229f80a3a1f828ca92f68a50",
+  "sha256_markdown": "50494a5351953ebb261b726a7d9d2d7d83ba449b1383085148e69e42519a9e00",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "203-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "26/03/2026",
+  "numero_formal_pdf": "203-26"
 }

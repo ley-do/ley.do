@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "225",
   "anio": "2026",
   "titulo": "que designa a la señora Herminia Reyes Abréu, viceministra Administrativa Financiera del Ministerio de Agricultura. Deroga el artículo 1 del Decreto núm. 57-26",
@@ -10,16 +12,25 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404665&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404665&managementType=1",
   "document_id_consultoria": "3404665",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-225-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-225-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-225-2026.json",
   "sha256_pdf_original": "9ab216b5843f3fe5bdc9ec0a9349162ab90cfede96c75f00278a94b5890dcb86",
-  "sha256_markdown": "a182e3d53a5e960ce7b5b429e036655f2115e69f192df6c41c908da790be0311",
+  "sha256_markdown": "9431a159e59b8a805ce9ec711a690437daad8313e5e017c4f477612860dd9783",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    226
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "225-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "07/04/2026",
+  "numero_formal_pdf": "225-26"
 }

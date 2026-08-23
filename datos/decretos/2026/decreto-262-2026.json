@@ -1,5 +1,7 @@
 {
   "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
   "numero": "262",
   "anio": "2026",
   "titulo": "que concede el beneficio de la jubilación y asigna pensiones del Estado por antigüedad, a los señores Fausto Rafael De León Tavárez y María Elena Cruz Batista",
@@ -10,16 +12,24 @@
   "url_pdf_original": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404695&managementType=2",
   "url_documento_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404695&managementType=1",
   "document_id_consultoria": "3404695",
-  "fecha_consulta": "2026-07-27",
+  "fecha_consulta": "2026-08-22",
   "ruta_pdf_local": "archivos/decretos/2026/decreto-262-2026.pdf",
   "ruta_markdown": "docs/decretos/2026/decreto-262-2026.md",
   "ruta_json": "datos/decretos/2026/decreto-262-2026.json",
   "sha256_pdf_original": "1f87c1052af4de99a153f69074d5b5ac6b0c68d2ea891652dbd7875294b639bf",
-  "sha256_markdown": "31e0c24b8978da0f748124d36da8f1797928f40489af2ba0baf05bea99f9ccdd",
+  "sha256_markdown": "aaf0e32d74208bf16fbcde8951bb808f3c36c970bd5b4a33d5b0a23c0b447927",
   "estado_revision": "pendiente_revision",
   "estado_publicacion": "normalizado",
   "estado_extraccion": "extraido_desde_pdf_oficial",
-  "fragmentos_decretos_vecinos_excluidos": true,
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior"
+  ],
   "commit_publicacion": "",
-  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos."
+  "notas": "Texto extraído automáticamente desde PDF oficial; verificar contra el PDF. Segmentación por encabezados cuando hubo documentos vecinos.",
+  "numero_registro_fuente": "262-26",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "17/04/2026",
+  "numero_formal_pdf": "262-26"
 }
