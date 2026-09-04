@@ -5,13 +5,218 @@
 
 Año **2026**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>531</strong> decretos</span><span class="leydo-year-chip">Actualizado del 16/03/2025 al 31/07/2026</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>572</strong> decretos</span><span class="leydo-year-chip">Actualizado del 16/03/2025 al 17/08/2026</span></div>
 </div>
 
 !!! warning "Aviso"
     LEY.DO no es una fuente oficial. Verifique cada documento contra su fuente oficial.
 
 <div class="leydo-doclist">
+<a class="leydo-doc" href="decreto-572-2026/">
+<span class="leydo-doc-num">572-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que modifica los artículos 1 y 2 del decreto núm. 556-26. designa al señor joel adrián santos echavarría, presidente del consejo unificado de las empresas…</span>
+</a>
+<a class="leydo-doc" href="decreto-571-2026/">
+<span class="leydo-doc-num">571-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que reajusta las pensiones del estado de que disfrutan 12 personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-570-2026/">
+<span class="leydo-doc-num">570-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento del municipio de monte plata a vender a la compañía publilatina, s.r.l., dos porciones de terrenos de su propiedad.</span>
+</a>
+<a class="leydo-doc" href="decreto-569-2026/">
+<span class="leydo-doc-num">569-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 15 del decreto núm.330-20, que designó al viceministro administrativo y financiero del antiguo ministerio de economía, planificación y…</span>
+</a>
+<a class="leydo-doc" href="decreto-568-2026/">
+<span class="leydo-doc-num">568-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que aumenta las pensiones del estado de que disfrutan 8 servidores públicos del sector salud.</span>
+</a>
+<a class="leydo-doc" href="decreto-567-2026/">
+<span class="leydo-doc-num">567-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la jubilación y asigna pensiones del estado por antigüedad, a 133 servidores públicos.</span>
+</a>
+<a class="leydo-doc" href="decreto-566-2026/">
+<span class="leydo-doc-num">566-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Declara utilidad pública e interés social varias porciones de terrenos ubicadas en la manzana núm. 135, del distrito catastral núm. 01, del distrito nacional,…</span>
+</a>
+<a class="leydo-doc" href="decreto-565-2026/">
+<span class="leydo-doc-num">565-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la jubilación y asigna pensiones del estado por antigüedad, a 3 servidores públicos del instituto agrario dominicano (iad).</span>
+</a>
+<a class="leydo-doc" href="decreto-564-2026/">
+<span class="leydo-doc-num">564-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la jubilación y asigna una pensión del estado a 30 servidores públicos del sector salud.</span>
+</a>
+<a class="leydo-doc" href="decreto-563-2026/">
+<span class="leydo-doc-num">563-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales para que puedan ejercer distintas profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-562-2026/">
+<span class="leydo-doc-num">562-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que autoriza a la sociedad comercial consorcio energético palenque, ltd., a hacer uso de una parte de los 60 metros de la franja marítima terrestre de dominio…</span>
+</a>
+<a class="leydo-doc" href="decreto-561-2026/">
+<span class="leydo-doc-num">561-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales para que puedan ejercer diferentes profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-560-2026/">
+<span class="leydo-doc-num">560-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones. modifica el artículo 1, numeral 15, literal h, del decreto…</span>
+</a>
+<a class="leydo-doc" href="decreto-559-2026/">
+<span class="leydo-doc-num">559-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Declara utilidad pública e interés social varias porciones de terrenos ubicadas en el municipio pedro brand, provincia santo domingo y en el municipio villa…</span>
+</a>
+<a class="leydo-doc" href="decreto-558-2026/">
+<span class="leydo-doc-num">558-2026</span>
+<span class="leydo-doc-date">17/08/2026</span>
+<span class="leydo-doc-title">Que designa al general ernesto rafael rodríguez garcía, p.n., director general de la policía nacional y lo asciende a mayor general p.n. deroga el artículo 1…</span>
+</a>
+<a class="leydo-doc" href="decreto-557-2026/">
+<span class="leydo-doc-num">557-2026</span>
+<span class="leydo-doc-date">16/08/2026</span>
+<span class="leydo-doc-title">Asciende al general enmanuel marcelino souffront tamayo, fard., al rango de mayor general y lo designa comandante general de la fuerza aérea de la república.…</span>
+</a>
+<a class="leydo-doc" href="decreto-556-2026/">
+<span class="leydo-doc-num">556-2026</span>
+<span class="leydo-doc-date">16/08/2026</span>
+<span class="leydo-doc-title">Que nombra a joel adrián santos echavarría, presidente del consejo unificado de las empresas distribuidoras de electricidad y coordinador del gabinete de…</span>
+</a>
+<a class="leydo-doc" href="decreto-555-2026/">
+<span class="leydo-doc-num">555-2026</span>
+<span class="leydo-doc-date">16/08/2026</span>
+<span class="leydo-doc-title">Que designa a josé dolores andújar ramírez, director de la dirección de desarrollo provincial. deroga el artículo 54 del decreto núm. 339-20. nombra a nidio…</span>
+</a>
+<a class="leydo-doc" href="decreto-554-2026/">
+<span class="leydo-doc-num">554-2026</span>
+<span class="leydo-doc-date">16/08/2026</span>
+<span class="leydo-doc-title">Que nombra a los señores víctor o. bisonó haza y jean luis rodríguez, ministros de relaciones exteriores y de la vivienda, hábitat y edificaciones,…</span>
+</a>
+<a class="leydo-doc" href="decreto-553-2026/">
+<span class="leydo-doc-num">553-2026</span>
+<span class="leydo-doc-date">16/08/2026</span>
+<span class="leydo-doc-title">Que designa a kenia xiomara guante valdez, directora del instituto nacional de atención integral a la primera infancia, y deroga los artículos 1 del decreto…</span>
+</a>
+<a class="leydo-doc" href="decreto-552-2026/">
+<span class="leydo-doc-num">552-2026</span>
+<span class="leydo-doc-date">16/08/2026</span>
+<span class="leydo-doc-title">Que designa a los señores julio peña guzmán y héctor elie porcella dumas, presidente de la junta de aviación civil y asesor del poder ejecutivo en materia de…</span>
+</a>
+<a class="leydo-doc" href="decreto-551-2026/">
+<span class="leydo-doc-num">551-2026</span>
+<span class="leydo-doc-date">16/08/2026</span>
+<span class="leydo-doc-title">Que nombra al mayor general retirado, erd, juan manuel méndez garcía, director ejecutivo del instituto nacional de tránsito y transporte terrestre, y deroga…</span>
+</a>
+<a class="leydo-doc" href="decreto-550-2026/">
+<span class="leydo-doc-num">550-2026</span>
+<span class="leydo-doc-date">15/08/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 4 del decreto núm. 12-16 que designó a la señora francis karina bueno abreu, embajadora adscrita al ministerio de relaciones exteriores…</span>
+</a>
+<a class="leydo-doc" href="decreto-549-2026/">
+<span class="leydo-doc-num">549-2026</span>
+<span class="leydo-doc-date">15/08/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 2 del decreto núm. 546-07, que designó al señor patricio jovanny matos v., ministro consejero adscrito a la secretaría de estado de…</span>
+</a>
+<a class="leydo-doc" href="decreto-548-2026/">
+<span class="leydo-doc-num">548-2026</span>
+<span class="leydo-doc-date">15/08/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 4 del decreto núm. 334-25, el artículo 5 del decreto núm. 446-24 y el artículo 5 del decreto núm. 30-24, que designaron 3 consejeros en…</span>
+</a>
+<a class="leydo-doc" href="decreto-547-2026/">
+<span class="leydo-doc-num">547-2026</span>
+<span class="leydo-doc-date">13/08/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la incorporación a la cooperativa agropecuaria de ganaderos de la región nordeste, con asiento principal en la avenida manolo…</span>
+</a>
+<a class="leydo-doc" href="decreto-546-2026/">
+<span class="leydo-doc-num">546-2026</span>
+<span class="leydo-doc-date">11/08/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a la república francesa, del nacional francés sebastien fabrice deriot.</span>
+</a>
+<a class="leydo-doc" href="decreto-545-2026/">
+<span class="leydo-doc-num">545-2026</span>
+<span class="leydo-doc-date">11/08/2026</span>
+<span class="leydo-doc-title">Que designa a jackeline sahily dietsch castillo, subdirectora jurídica de la dirección general de impuestos internos (dgii). deroga el artículo 3 del decreto…</span>
+</a>
+<a class="leydo-doc" href="decreto-544-2026/">
+<span class="leydo-doc-num">544-2026</span>
+<span class="leydo-doc-date">10/08/2026</span>
+<span class="leydo-doc-title">Que concede pensiones del estado a varias personas y eleva el monto a otras dos (2).</span>
+</a>
+<a class="leydo-doc" href="decreto-543-2026/">
+<span class="leydo-doc-num">543-2026</span>
+<span class="leydo-doc-date">10/08/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a los estados unidos de américa, del nacional dominicano mario juan garcía.</span>
+</a>
+<a class="leydo-doc" href="decreto-542-2026/">
+<span class="leydo-doc-num">542-2026</span>
+<span class="leydo-doc-date">06/08/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a los estados unidos de américa, del nacional dominicano mario elvin jáquez, conocido como mario jáquez o mario…</span>
+</a>
+<a class="leydo-doc" href="decreto-541-2026/">
+<span class="leydo-doc-num">541-2026</span>
+<span class="leydo-doc-date">06/08/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a los estados unidos de américa, del nacional dominicano fidel antonio knight cerda.</span>
+</a>
+<a class="leydo-doc" href="decreto-540-2026/">
+<span class="leydo-doc-num">540-2026</span>
+<span class="leydo-doc-date">06/08/2026</span>
+<span class="leydo-doc-title">Que nombra a junior anel tineo, director nacional de la escuela nacional de gestión de riesgos. deroga el artículo 1 del decreto núm. 309-16.</span>
+</a>
+<a class="leydo-doc" href="decreto-539-2026/">
+<span class="leydo-doc-num">539-2026</span>
+<span class="leydo-doc-date">06/08/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 4 del decreto núm. 419-20, que designó a leónidas ceballos santana, miembro del consejo de administración de la empresa de transmisión…</span>
+</a>
+<a class="leydo-doc" href="decreto-538-2026/">
+<span class="leydo-doc-num">538-2026</span>
+<span class="leydo-doc-date">06/08/2026</span>
+<span class="leydo-doc-title">Que designa a eligio antonio santos almonte, subencargado del programa comunidad segura. deroga el artículo 2 del decreto núm. 53-22.</span>
+</a>
+<a class="leydo-doc" href="decreto-537-2026/">
+<span class="leydo-doc-num">537-2026</span>
+<span class="leydo-doc-date">06/08/2026</span>
+<span class="leydo-doc-title">Que nombra a jennie marie adorno rivera, directora ejecutiva del consejo nacional de bioética en salud. deroga los numerales 2 y 3 del artículo 6 del decreto…</span>
+</a>
+<a class="leydo-doc" href="decreto-536-2026/">
+<span class="leydo-doc-num">536-2026</span>
+<span class="leydo-doc-date">06/08/2026</span>
+<span class="leydo-doc-title">Que concede una pensión de estado de rd$70,000.00 mensuales, al señor josé antonio cedeño divison</span>
+</a>
+<a class="leydo-doc" href="decreto-535-2026/">
+<span class="leydo-doc-num">535-2026</span>
+<span class="leydo-doc-date">04/08/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social varias porciones de terrenos en el municipio de azua, para ser destinadas al proyecto de desarrollo agrícola…</span>
+</a>
+<a class="leydo-doc" href="decreto-534-2026/">
+<span class="leydo-doc-num">534-2026</span>
+<span class="leydo-doc-date">04/08/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social en los municipios de azua, cotuí y en el distrito nacional varias porciones de terrenos para ser destinadas a…</span>
+</a>
+<a class="leydo-doc" href="decreto-533-2026/">
+<span class="leydo-doc-num">533-2026</span>
+<span class="leydo-doc-date">04/08/2026</span>
+<span class="leydo-doc-title">Que concede pensiones del estado a 124 servidores públicos.</span>
+</a>
+<a class="leydo-doc" href="decreto-532-2026/">
+<span class="leydo-doc-num">532-2026</span>
+<span class="leydo-doc-date">04/08/2026</span>
+<span class="leydo-doc-title">Que concede la condecoración de la orden del mérito de duarte, sánchez y mella en el grado gran cruz placa de plata, al excelentísimo señor fredrik lammert…</span>
+</a>
 <a class="leydo-doc" href="decreto-531-2026/">
 <span class="leydo-doc-num">531-2026</span>
 <span class="leydo-doc-date">31/07/2026</span>
