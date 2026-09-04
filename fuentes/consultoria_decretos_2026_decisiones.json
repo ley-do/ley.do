@@ -1,8 +1,22 @@
 {
   "schema_version": "1.0",
   "anio": 2026,
-  "fecha_reconciliacion": "2026-08-22",
+  "fecha_reconciliacion": "2026-09-04",
   "identidades": {
+    "239": {
+      "canonico": "3404658",
+      "evidencia_discrepancia_formal": {
+        "tipo_evidencia": "discrepancia_formal_pdf",
+        "estado_revision": "pendiente_revision",
+        "document_id_consultoria": "3404658",
+        "identidad_esperada": "239-26",
+        "numero_formal_observado_pdf": "239-06",
+        "ruta_pdf_local": "archivos/decretos/2026/decreto-239-2026.pdf",
+        "url_pdf_oficial": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3404658&managementType=2",
+        "sha256_pdf": "4db145447017026f6931d65e4ce709551d2fc0cdfbe0a65b0f3dc6479f9407cc",
+        "pagina_pdf": 1
+      }
+    },
     "351": {
       "canonico": "3405854",
       "alertas_revision": [
