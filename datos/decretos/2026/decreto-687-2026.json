@@ -1,0 +1,39 @@
+{
+  "tipo_documento": "decreto",
+  "categoria_inventario_fuente": "decretos",
+  "denominacion_encabezado_pdf": "Dec.",
+  "numero": "687",
+  "anio": "2026",
+  "titulo": "que concede el beneficio de la jubilación y asigna una pensión del Estado de RD$46,718.87 mensuales, a la servidora educativa Juana Reyes Ureña",
+  "fecha": "02/10/2026",
+  "gaceta_oficial": "11265",
+  "institucion_fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "url_fuente_oficial": "https://www.consultoria.gov.do/consultas",
+  "url_pdf_original": "https://www.consultoria.gov.do/api/document/3406449",
+  "url_documento_oficial": "https://www.consultoria.gov.do/api/document/3406449",
+  "document_id_consultoria": "3406449",
+  "fecha_consulta": "2026-11-10",
+  "ruta_pdf_local": "archivos/decretos/2026/decreto-687-2026.pdf",
+  "ruta_markdown": "docs/decretos/2026/decreto-687-2026.md",
+  "ruta_json": "datos/decretos/2026/decreto-687-2026.json",
+  "sha256_pdf_original": "57bd9cb25f1f00f9495e4ba4dd02d14ac3044e907efff477eba2a4454e3e7781",
+  "sha256_markdown": "53501e898292bb65a698dfe6f99a74ba2d673b51513b5cc933c3eaf5029a32bc",
+  "estado_revision": "pendiente_revision",
+  "estado_publicacion": "normalizado",
+  "estado_extraccion": "extraido_desde_pdf_oficial",
+  "fragmentos_decretos_vecinos_excluidos": [
+    "fragmento_anterior",
+    688
+  ],
+  "commit_publicacion": "",
+  "notas": "La API oficial registra 687-29, pero el PDF oficial (ID 3406449, SHA256 documentado) identifica Dec. núm. 687-26 y NÚMERO: 687-26 en la página 1. Se conserva la metadata original y se requiere revisión humana. Texto extraído automáticamente desde PDF oficial; verificar contra el PDF.",
+  "numero_registro_fuente": "687-29",
+  "anio_metadata_fuente": "2026",
+  "inventario_origen": "consultoria_decretos_2026_inventario.json",
+  "estado_fecha_texto_pdf": "detectada",
+  "fecha_texto_pdf_detectada": "02/10/2026",
+  "numero_formal_pdf": "687-26",
+  "alertas_revision": [
+    "La API oficial registra 687-29, pero el PDF oficial (ID 3406449, SHA256 documentado) identifica Dec. núm. 687-26 y NÚMERO: 687-26 en la página 1. Se conserva la metadata original y se requiere revisión humana."
+  ]
+}

@@ -5,13 +5,568 @@
 
 Año **2026**. Lista única: cada decreto aparece **una sola vez**. Pulse una fila para abrir el documento.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>642</strong> decretos</span><span class="leydo-year-chip">Actualizado del 16/03/2025 al 14/09/2026</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>752</strong> decretos</span><span class="leydo-year-chip">Actualizado del 16/03/2025 al 26/10/2026</span></div>
 </div>
 
 !!! warning "Aviso"
     LEY.DO no es una fuente oficial. Verifique cada documento contra su fuente oficial.
 
+## Notas editoriales
+
+- Inventario de Consultoría Jurídica consultado el 10/11/2026: paquetes verificados hasta el decreto 752-26 (documento fechado el 26/10/2026). Este listado no certifica exhaustividad.
+- La Presidencia publica documentos posteriores, incluidos los decretos [775-26](https://presidencia.gob.do/decretos/775-26) y [787-26](https://presidencia.gob.do/decretos/787-26), cuyos PDFs oficiales fueron localizados. **Todavía no forman parte de los paquetes normalizados de LEY.DO**; el contraste y las incertidumbres constan en `fuentes/decretos_2026_pendientes_posteriores_752.json` del repositorio.
+
 <div class="leydo-doclist">
+<a class="leydo-doc" href="decreto-752-2026/">
+<span class="leydo-doc-num">752-2026</span>
+<span class="leydo-doc-date">26/10/2026</span>
+<span class="leydo-doc-title">Que crea y regula el programa nacional de alfabetización en inteligencia artificial, denominado “rd inteligente”. dispone que el instituto tecnológico de las…</span>
+</a>
+<a class="leydo-doc" href="decreto-751-2026/">
+<span class="leydo-doc-num">751-2026</span>
+<span class="leydo-doc-date">26/10/2026</span>
+<span class="leydo-doc-title">Que aprueba el reglamento para el otorgamiento de concesiones portuarias. deroga el decreto núm. 309-98.</span>
+</a>
+<a class="leydo-doc" href="decreto-750-2026/">
+<span class="leydo-doc-num">750-2026</span>
+<span class="leydo-doc-date">23/10/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la incorporación y otorga personalidad jurídica a la cámara de comercio guyanesa en república dominicana (guyanacham).</span>
+</a>
+<a class="leydo-doc" href="decreto-749-2026/">
+<span class="leydo-doc-num">749-2026</span>
+<span class="leydo-doc-date">23/10/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de una pensión del estado por el monto de diez mil pesos dominicanos con 00/100 (rd$10,000.00) mensuales, a 131 afiliados del antiguo…</span>
+</a>
+<a class="leydo-doc" href="decreto-748-2026/">
+<span class="leydo-doc-num">748-2026</span>
+<span class="leydo-doc-date">23/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales, para que puedan ejercer diferentes profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-747-2026/">
+<span class="leydo-doc-num">747-2026</span>
+<span class="leydo-doc-date">23/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a 227 profesionales para que puedan ejercer de licenciados en derecho.</span>
+</a>
+<a class="leydo-doc" href="decreto-746-2026/">
+<span class="leydo-doc-num">746-2026</span>
+<span class="leydo-doc-date">23/10/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la jubilación y asigna una pensión del estado por antigüedad a 47 servidores públicos.</span>
+</a>
+<a class="leydo-doc" href="decreto-745-2026/">
+<span class="leydo-doc-num">745-2026</span>
+<span class="leydo-doc-date">23/10/2026</span>
+<span class="leydo-doc-title">Que deroga los decretos núms. 57-07 y 488-03, mediante los cuales se concedieron exequáturs a los señores mauro sgarzini y eduardo mejía jabid, para ejercer…</span>
+</a>
+<a class="leydo-doc" href="decreto-744-2026/">
+<span class="leydo-doc-num">744-2026</span>
+<span class="leydo-doc-date">21/10/2026</span>
+<span class="leydo-doc-title">Que deja sin efecto el artículo 12 del decreto núm. 102-22. dispone el reintegro del general josé delio mora reynoso, p.n., a las filas de la policía nacional.</span>
+</a>
+<a class="leydo-doc" href="decreto-743-2026/">
+<span class="leydo-doc-num">743-2026</span>
+<span class="leydo-doc-date">21/10/2026</span>
+<span class="leydo-doc-title">Que concede la condecoración de la orden heráldica de cristóbal colón, en el grado de gran cruz placa de plata, a la doctora carmen iglesias cano, condesa de…</span>
+</a>
+<a class="leydo-doc" href="decreto-742-2026/">
+<span class="leydo-doc-num">742-2026</span>
+<span class="leydo-doc-date">21/10/2026</span>
+<span class="leydo-doc-title">Que modifica el artículo 1 del decreto núm. 625-26. designa la delegación que representará a la república dominicana en la séptima conferencia mundial de…</span>
+</a>
+<a class="leydo-doc" href="decreto-741-2026/">
+<span class="leydo-doc-num">741-2026</span>
+<span class="leydo-doc-date">21/10/2026</span>
+<span class="leydo-doc-title">Que excluye de la declaratoria de utilidad pública dispuesta en el literal d) del artículo 1 del decreto núm. 1400 del 8 de septiembre de 1983, una porción de…</span>
+</a>
+<a class="leydo-doc" href="decreto-740-2026/">
+<span class="leydo-doc-num">740-2026</span>
+<span class="leydo-doc-date">21/10/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a los estados unidos de américa, del nacional dominicano felicito celestino mercedes.</span>
+</a>
+<a class="leydo-doc" href="decreto-739-2026/">
+<span class="leydo-doc-num">739-2026</span>
+<span class="leydo-doc-date">20/10/2026</span>
+<span class="leydo-doc-title">Que designa a los señores lourdes josefina aybar dionisio y ángel danilo zapata monción, miembros del consejo de directores del banco de reservas de la…</span>
+</a>
+<a class="leydo-doc" href="decreto-738-2026/">
+<span class="leydo-doc-num">738-2026</span>
+<span class="leydo-doc-date">20/10/2026</span>
+<span class="leydo-doc-title">Que designa a la señora rosa enilda solís paulino, subdirectora de coordinación estratégica y gestión ejecutiva del instituto nacional de atención integral a…</span>
+</a>
+<a class="leydo-doc" href="decreto-737-2026/">
+<span class="leydo-doc-num">737-2026</span>
+<span class="leydo-doc-date">20/10/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a la república italiana, del nacional dominicano kely morbán álvarez</span>
+</a>
+<a class="leydo-doc" href="decreto-736-2026/">
+<span class="leydo-doc-num">736-2026</span>
+<span class="leydo-doc-date">20/10/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a la república italiana, del nacional dominicano kevin morbán pérez.</span>
+</a>
+<a class="leydo-doc" href="decreto-735-2026/">
+<span class="leydo-doc-num">735-2026</span>
+<span class="leydo-doc-date">20/10/2026</span>
+<span class="leydo-doc-title">Que modifica los artículos 2 y 5 del decreto núm. 596-26. dispone que la señora leidy altagracia rosario, cónsul general de la república dominicana en…</span>
+</a>
+<a class="leydo-doc" href="decreto-734-2026/">
+<span class="leydo-doc-num">734-2026</span>
+<span class="leydo-doc-date">20/10/2026</span>
+<span class="leydo-doc-title">Que concede una pensión especial del estado a tres (3) personas, y aumenta las pensiones del estado de que disfrutan dos (2) personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-733-2026/">
+<span class="leydo-doc-num">733-2026</span>
+<span class="leydo-doc-date">20/10/2026</span>
+<span class="leydo-doc-title">Que concede una pensión especial del estado de rd$25,000.00 mensuales, al señor domingo castro castro.</span>
+</a>
+<a class="leydo-doc" href="decreto-732-2026/">
+<span class="leydo-doc-num">732-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento del municipio de san antonio de guerra, provincia santo domingo, a donar a favor del estado dominicano, varias porciones de…</span>
+</a>
+<a class="leydo-doc" href="decreto-731-2026/">
+<span class="leydo-doc-num">731-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que concede la condecoración de la orden heráldica de cristóbal colón, en el grado de gran oficial, al excelentísimo señor rodrigo castañeda sepúlveda,…</span>
+</a>
+<a class="leydo-doc" href="decreto-730-2026/">
+<span class="leydo-doc-num">730-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que concede una pensión especial del estado de rd$35,000.00 mensuales, a la señora ramona del carmen castillo santana.</span>
+</a>
+<a class="leydo-doc" href="decreto-729-2026/">
+<span class="leydo-doc-num">729-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que modifica el artículo 2 del decreto núm. 608-12. dispone que el objeto de promese/cal es la provisión de medicamentos, productos e insumos sanitarios y…</span>
+</a>
+<a class="leydo-doc" href="decreto-728-2026/">
+<span class="leydo-doc-num">728-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento del municipio santiago de los caballeros, provincia santiago a vender a diferentes personas varias porciones de terrenos de su…</span>
+</a>
+<a class="leydo-doc" href="decreto-727-2026/">
+<span class="leydo-doc-num">727-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que modifica los numerales 224 y 238, literal a), del artículo 1, del decreto núm. 493-26, relativos a isyoli anais sierra alcántara y yuranny ciriaco…</span>
+</a>
+<a class="leydo-doc" href="decreto-726-2026/">
+<span class="leydo-doc-num">726-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que modifica el numeral 16, literal v), del artículo 1, del decreto núm. 469-26, relativo a mabel altagracia gutiérrez valerio, doctora en odontología, el…</span>
+</a>
+<a class="leydo-doc" href="decreto-725-2026/">
+<span class="leydo-doc-num">725-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que modifica el numeral 1, literal r), del artículo 1, del decreto núm. 716-22, relativo a amarilis altagracia burgos toribio, licenciada en psicología…</span>
+</a>
+<a class="leydo-doc" href="decreto-724-2026/">
+<span class="leydo-doc-num">724-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales, para que puedan ejercer diferentes profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-723-2026/">
+<span class="leydo-doc-num">723-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales, para que puedan ejercer sus respectivas profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-722-2026/">
+<span class="leydo-doc-num">722-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento del municipio san felipe, provincia puerto plata, a vender al señor josé gregorio gonzález hernández, una porción de terreno de…</span>
+</a>
+<a class="leydo-doc" href="decreto-721-2026/">
+<span class="leydo-doc-num">721-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 9 del decreto núm. 353-23 y el artículo 6 del decreto núm. 335-25, que designaron al señor edgar garcía cabrera, director ejecutivo del…</span>
+</a>
+<a class="leydo-doc" href="decreto-720-2026/">
+<span class="leydo-doc-num">720-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Que concede una pensión especial del estado de rd$35,000.00 mensuales, al señor ysrael antonio espinal guzmán.</span>
+</a>
+<a class="leydo-doc" href="decreto-719-2026/">
+<span class="leydo-doc-num">719-2026</span>
+<span class="leydo-doc-date">19/10/2026</span>
+<span class="leydo-doc-title">Dispone que la zafra azucarera del período 2026-2027 en los ingenios del país comprenderá todo el año calendario.</span>
+</a>
+<a class="leydo-doc" href="decreto-718-2026/">
+<span class="leydo-doc-num">718-2026</span>
+<span class="leydo-doc-date">15/10/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a los estados unidos de américa, del nacional dominicano luis arismendy paca méndez.</span>
+</a>
+<a class="leydo-doc" href="decreto-717-2026/">
+<span class="leydo-doc-num">717-2026</span>
+<span class="leydo-doc-date">15/10/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a los estados unidos de américa, del nacional dominicano ramón joaquín romero bastardo.</span>
+</a>
+<a class="leydo-doc" href="decreto-716-2026/">
+<span class="leydo-doc-num">716-2026</span>
+<span class="leydo-doc-date">15/10/2026</span>
+<span class="leydo-doc-title">Que dispone la entrega en extradición a los estados unidos de américa, del nacional dominicano darío bautista.</span>
+</a>
+<a class="leydo-doc" href="decreto-715-2026/">
+<span class="leydo-doc-num">715-2026</span>
+<span class="leydo-doc-date">14/10/2026</span>
+<span class="leydo-doc-title">Que designa a la señora yoselin garcía rodríguez, cónsul general de nuestro país en la ciudad libre y hanseática de hamburgo, república federal de alemania.</span>
+</a>
+<a class="leydo-doc" href="decreto-714-2026/">
+<span class="leydo-doc-num">714-2026</span>
+<span class="leydo-doc-date">09/10/2026</span>
+<span class="leydo-doc-title">Que declara de alto interés nacional la integración, modernización y fortalecimiento de la infraestructura digital del estado dominicano, así como establecer…</span>
+</a>
+<a class="leydo-doc" href="decreto-713-2026/">
+<span class="leydo-doc-num">713-2026</span>
+<span class="leydo-doc-date">09/10/2026</span>
+<span class="leydo-doc-title">Que concede la nacionalidad dominicana, a título de naturalización ordinaria, a 35 personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-712-2026/">
+<span class="leydo-doc-num">712-2026</span>
+<span class="leydo-doc-date">09/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales, para que puedan ejercer diferentes profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-711-2026/">
+<span class="leydo-doc-num">711-2026</span>
+<span class="leydo-doc-date">09/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales, para que puedan ejercer sus respectivas profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-710-2026/">
+<span class="leydo-doc-num">710-2026</span>
+<span class="leydo-doc-date">09/10/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento del municipio de dajabón, a vender al señor pedro ignacio abréu abréu, una porción de terreno de 777.58 mt2, ubicada en dicho…</span>
+</a>
+<a class="leydo-doc" href="decreto-709-2026/">
+<span class="leydo-doc-num">709-2026</span>
+<span class="leydo-doc-date">09/10/2026</span>
+<span class="leydo-doc-title">Que designa al señor josé pastor ramírez fernández, presidente del consejo directivo del centro de atención integral para la discapacidad (caid). deroga el…</span>
+</a>
+<a class="leydo-doc" href="decreto-708-2026/">
+<span class="leydo-doc-num">708-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento de santiago de los caballeros, a transferir en ejecución de los derechos previamente reconocidos a favor de los sucesores del…</span>
+</a>
+<a class="leydo-doc" href="decreto-707-2026/">
+<span class="leydo-doc-num">707-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que concede una pension del estado dominicano de rd$ 20,000.00 mensuales, a la señora ana felipa fermin tavarez de luna</span>
+</a>
+<a class="leydo-doc" href="decreto-706-2026/">
+<span class="leydo-doc-num">706-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que deja sin efecto el artículo 2 del decreto núm. 550-26, que derogó la designación de sonia argentina blanco rodríguez de cabrera, como ministra consejera…</span>
+</a>
+<a class="leydo-doc" href="decreto-705-2026/">
+<span class="leydo-doc-num">705-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que nombra una secretaria de embajada, 14 vicecónsules de la república en varios países y 10 auxiliares consulares de nuestro país en consulados extranjeros</span>
+</a>
+<a class="leydo-doc" href="decreto-704-2026/">
+<span class="leydo-doc-num">704-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que reconfirma al señor alexis antonio alcántara dionicio, como director ejecutivo del consejo nacional de discapacidad.</span>
+</a>
+<a class="leydo-doc" href="decreto-703-2026/">
+<span class="leydo-doc-num">703-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 1 del decreto 661-20, que designó a carlos enrique arias florián, subdirector de la oficina metropolitana de servicios de autobuses, en…</span>
+</a>
+<a class="leydo-doc" href="decreto-702-2026/">
+<span class="leydo-doc-num">702-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que nombra al señor nelson fidel didiez ogando, asesor del poder ejecutivo para políticas migratorias. deroga el artículo 6 del decreto núm. 333-25.</span>
+</a>
+<a class="leydo-doc" href="decreto-701-2026/">
+<span class="leydo-doc-num">701-2026</span>
+<span class="leydo-doc-date">08/10/2026</span>
+<span class="leydo-doc-title">Que excluye de la declaratoria de utilidad pública dispuesta en el numeral 10 del artículo 1 del decreto núm. 334-13, una porción de terreno en la provincia…</span>
+</a>
+<a class="leydo-doc" href="decreto-700-2026/">
+<span class="leydo-doc-num">700-2026</span>
+<span class="leydo-doc-date">07/10/2026</span>
+<span class="leydo-doc-title">Que modifica el artículo 1 del decreto núm. 679-26, que declara de utilidad pública dos porciones de terrenos en miches, provincia el seibo, para ser…</span>
+</a>
+<a class="leydo-doc" href="decreto-699-2026/">
+<span class="leydo-doc-num">699-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que autoriza al teniente de corbeta jhon jenderson amparo sánchez, ard, y al marinero darlin otaño puello, ard, para que puedan aceptar y usar la…</span>
+</a>
+<a class="leydo-doc" href="decreto-698-2026/">
+<span class="leydo-doc-num">698-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que concede pensiones del estado de rd$10,000.00 mensuales, a noventa y ocho (98) personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-697-2026/">
+<span class="leydo-doc-num">697-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que autoriza a tres (3) segundos tenientes del ejercito de la república dominicana, a aceptar y usar la orden del mérito militar con distintivo blanco en su…</span>
+</a>
+<a class="leydo-doc" href="decreto-696-2026/">
+<span class="leydo-doc-num">696-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que autoriza al cabo yanmelin batista matos, fard, para que pueda aceptar y usar la condecoración orden de mérito aéreo con distintivo blanco, en su cuarta…</span>
+</a>
+<a class="leydo-doc" href="decreto-695-2026/">
+<span class="leydo-doc-num">695-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que concede la condecoración de la orden del mérito naval con medalla al mérito naval, en su primera categoría, al general francis l. donovan, cuerpo de…</span>
+</a>
+<a class="leydo-doc" href="decreto-694-2026/">
+<span class="leydo-doc-num">694-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que acepta la renuncia del señor branli joaquín fernández rafael, al cargo de subdirector ejecutivo de la autoridad portuaria dominicana, y designa en su…</span>
+</a>
+<a class="leydo-doc" href="decreto-693-2026/">
+<span class="leydo-doc-num">693-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que concede una pensión del estado a la señora teresa virginia espósito paniagua, empleada del ministerio de relaciones exteriores.</span>
+</a>
+<a class="leydo-doc" href="decreto-692-2026/">
+<span class="leydo-doc-num">692-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que concede pensiones del estado a tres (3) colaboradores del instituto agrario dominicano.</span>
+</a>
+<a class="leydo-doc" href="decreto-691-2026/">
+<span class="leydo-doc-num">691-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que concede pensiones del estado a diecinueve (19) servidores del instituto agrario dominicano.</span>
+</a>
+<a class="leydo-doc" href="decreto-690-2026/">
+<span class="leydo-doc-num">690-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que concede pensiones del estado a seis (6) personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-689-2026/">
+<span class="leydo-doc-num">689-2026</span>
+<span class="leydo-doc-date">06/10/2026</span>
+<span class="leydo-doc-title">Que concede pensiones del estado a catorce (14) personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-688-2026/">
+<span class="leydo-doc-num">688-2026</span>
+<span class="leydo-doc-date">02/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales, para que puedan ejercer sus respectivas profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-687-2026/">
+<span class="leydo-doc-num">687-2026</span>
+<span class="leydo-doc-date">02/10/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la jubilación y asigna una pensión del estado de rd$46,718.87 mensuales, a la servidora educativa juana reyes ureña.</span>
+</a>
+<a class="leydo-doc" href="decreto-686-2026/">
+<span class="leydo-doc-num">686-2026</span>
+<span class="leydo-doc-date">02/10/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a 193 profesionales, para que puedan ejercer la profesión de licenciados en derecho.</span>
+</a>
+<a class="leydo-doc" href="decreto-685-2026/">
+<span class="leydo-doc-num">685-2026</span>
+<span class="leydo-doc-date">02/10/2026</span>
+<span class="leydo-doc-title">Que modifica el artículo 4 del decreto núm. 46-22. dispone que el gabinete de turismo queda integrado además por el director ejecutivo de la autoridad…</span>
+</a>
+<a class="leydo-doc" href="decreto-684-2026/">
+<span class="leydo-doc-num">684-2026</span>
+<span class="leydo-doc-date">02/10/2026</span>
+<span class="leydo-doc-title">Que designa con carácter transitorio al señor teófilo josé abrahán leo tabar manzur, director general de la dirección general de juegos de azar. dispone que…</span>
+</a>
+<a class="leydo-doc" href="decreto-683-2026/">
+<span class="leydo-doc-num">683-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que designa como organización terrorista a los chone killers, el cartel de los viagras, el cartel de juárez, el cartel de sinaloa, el cartel de jalisco nueva…</span>
+</a>
+<a class="leydo-doc" href="decreto-682-2026/">
+<span class="leydo-doc-num">682-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de la incorporación a las asociaciones cooperativas siguientes: cooperativa de producción y trabajo asociación de peluqueros nacional…</span>
+</a>
+<a class="leydo-doc" href="decreto-681-2026/">
+<span class="leydo-doc-num">681-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que deroga el artículo 4 del decreto núm. 143-25, que designó al cónsul general de la república dominicana en hamburgo, república federal de alemania,…</span>
+</a>
+<a class="leydo-doc" href="decreto-680-2026/">
+<span class="leydo-doc-num">680-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que autoriza a los ayuntamientos de los municipios santiago de los caballeros, provincia santiago, neiba, provincia bahoruco, baní, provincia peravia y…</span>
+</a>
+<a class="leydo-doc" href="decreto-679-2026/">
+<span class="leydo-doc-num">679-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social dos porciones de terrenos ubicadas en el municipio miches, provincia el seibo, para ser destinadas a la…</span>
+</a>
+<a class="leydo-doc" href="decreto-678-2026/">
+<span class="leydo-doc-num">678-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social varias porciones de terrenos ubicadas en el municipio santo domingo norte, provincia santo domingo, propiedad…</span>
+</a>
+<a class="leydo-doc" href="decreto-677-2026/">
+<span class="leydo-doc-num">677-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que concede una pensión especial del estado de rd$65,000.00 mensuales, a la señora xiomara rochet brito.</span>
+</a>
+<a class="leydo-doc" href="decreto-676-2026/">
+<span class="leydo-doc-num">676-2026</span>
+<span class="leydo-doc-date">30/09/2026</span>
+<span class="leydo-doc-title">Que crea el servicio nacional de atención residencial (senar), como órgano desconcentrado del ministerio de la presidencia (minpre).</span>
+</a>
+<a class="leydo-doc" href="decreto-675-2026/">
+<span class="leydo-doc-num">675-2026</span>
+<span class="leydo-doc-date">29/09/2026</span>
+<span class="leydo-doc-title">Que modifica el artículo 21 del decreto núm. 6-19, sobre el reglamento de licencias de conducir. dispone que la vigencia de las licencias y las autorizaciones…</span>
+</a>
+<a class="leydo-doc" href="decreto-674-2026/">
+<span class="leydo-doc-num">674-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que concede una pensión especial del estado de rd$40,000.00 mensuales, a 29 miembros del colegio dominicano de notarios, y aumenta a la suma de rd$40,000.00…</span>
+</a>
+<a class="leydo-doc" href="decreto-673-2026/">
+<span class="leydo-doc-num">673-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que concede la nacionalidad dominicana, a título de naturalización ordinaria, a 25 personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-672-2026/">
+<span class="leydo-doc-num">672-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que instruye a las instituciones públicas sujetas al ámbito de aplicación de la ley núm. 47-25, de contrataciones públicas, que tengan a su cargo programas de…</span>
+</a>
+<a class="leydo-doc" href="decreto-671-2026/">
+<span class="leydo-doc-num">671-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento de moca, provincia espaillat, a vender a los señores yasmel ramona núñez pérez de taveras y aneudy domingo taveras almánzar, una…</span>
+</a>
+<a class="leydo-doc" href="decreto-670-2026/">
+<span class="leydo-doc-num">670-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que designa a los señores angie shakira martínez tejera y rafael antonio lantigua ciriaco, embajadores extraordinarios y plenipotenciarios, concurrentes, de…</span>
+</a>
+<a class="leydo-doc" href="decreto-669-2026/">
+<span class="leydo-doc-num">669-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que concede una pensión especial del estado de rd$30,000.00 mensuales, a cinco personas y aumenta a la suma de rd$50,000.00 mensuales la pensión de que…</span>
+</a>
+<a class="leydo-doc" href="decreto-668-2026/">
+<span class="leydo-doc-num">668-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social una porción de terreno ubicada en el municipio guayabal, provincia azua, propiedad de los señores rafael…</span>
+</a>
+<a class="leydo-doc" href="decreto-667-2026/">
+<span class="leydo-doc-num">667-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social una porción de terreno de 8,868.52 mt2 en el municipio miches, provincia el seibo, propiedad de inversiones…</span>
+</a>
+<a class="leydo-doc" href="decreto-666-2026/">
+<span class="leydo-doc-num">666-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que deroga el decreto núm. 120-07, que concedió exequátur a la señora margarita rodríguez, para ejercer de cónsul honoraria de la república de surinam en…</span>
+</a>
+<a class="leydo-doc" href="decreto-665-2026/">
+<span class="leydo-doc-num">665-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social una porción de terreno ubicada en el distrito nacional, propiedad de la señora elsa maría rodríguez reyes,…</span>
+</a>
+<a class="leydo-doc" href="decreto-664-2026/">
+<span class="leydo-doc-num">664-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social varias porciones de terrenos ubicadas en el municipio baní, provincia peravia, propiedad de diferentes…</span>
+</a>
+<a class="leydo-doc" href="decreto-663-2026/">
+<span class="leydo-doc-num">663-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que modifica varios artículos del decreto núm. 40-08, que establece el reglamento de aplicación de la ley núm. 122-05, sobre regulación y fomento de las…</span>
+</a>
+<a class="leydo-doc" href="decreto-662-2026/">
+<span class="leydo-doc-num">662-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales para que puedan ejercer distintas profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-661-2026/">
+<span class="leydo-doc-num">661-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales para que puedan ejercer profesiones diferentes.</span>
+</a>
+<a class="leydo-doc" href="decreto-660-2026/">
+<span class="leydo-doc-num">660-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales para que puedan ejercer sus respectivas profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-659-2026/">
+<span class="leydo-doc-num">659-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales para que puedan ejercer diferentes profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-658-2026/">
+<span class="leydo-doc-num">658-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento de moca, provincia espaillat, a vender a la señora maría orfelina minaya hilario, una porción de terreno de 64.76 mt2, ubicada en…</span>
+</a>
+<a class="leydo-doc" href="decreto-657-2026/">
+<span class="leydo-doc-num">657-2026</span>
+<span class="leydo-doc-date">28/09/2026</span>
+<span class="leydo-doc-title">Que concede la condecoración de la orden del mérito de duarte, sánchez y mella en el grado de gran cruz placa de plata, a la excelentísima señora sonia…</span>
+</a>
+<a class="leydo-doc" href="decreto-656-2026/">
+<span class="leydo-doc-num">656-2026</span>
+<span class="leydo-doc-date">18/09/2026</span>
+<span class="leydo-doc-title">Que concede pensiones especiales del estado a 17 personas y otorga una pensión especial por discapacidad de rd$10,000.00 mensuales a la señora claribel santos.</span>
+</a>
+<a class="leydo-doc" href="decreto-655-2026/">
+<span class="leydo-doc-num">655-2026</span>
+<span class="leydo-doc-date">18/09/2026</span>
+<span class="leydo-doc-title">Que concede pensiones especiales del estado a 13 personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-654-2026/">
+<span class="leydo-doc-num">654-2026</span>
+<span class="leydo-doc-date">18/09/2026</span>
+<span class="leydo-doc-title">Que designa a los señores pedro josé pérez gonzález y bienvenido amaury roberts carrero, miembro independiente y miembro, respectivamente, del consejo de…</span>
+</a>
+<a class="leydo-doc" href="decreto-653-2026/">
+<span class="leydo-doc-num">653-2026</span>
+<span class="leydo-doc-date">18/09/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de una pensión del estado por el monto de diez mil pesos dominicanos con 00/100 (rd$10,000.00) mensuales, a 240 afiliados del antiguo…</span>
+</a>
+<a class="leydo-doc" href="decreto-652-2026/">
+<span class="leydo-doc-num">652-2026</span>
+<span class="leydo-doc-date">17/09/2026</span>
+<span class="leydo-doc-title">Que concede el beneficio de una pensión especial del estado, por el monto de veinte mil pesos dominicanos con 00/100 (rd$20,000.00) mensuales a 47 personas.</span>
+</a>
+<a class="leydo-doc" href="decreto-651-2026/">
+<span class="leydo-doc-num">651-2026</span>
+<span class="leydo-doc-date">17/09/2026</span>
+<span class="leydo-doc-title">Que modifica los artículos 1 al 10 del decreto núm. 349-16, que declaró de utilidad pública e interés social los inmuebles o porciones de terrenos ubicados…</span>
+</a>
+<a class="leydo-doc" href="decreto-650-2026/">
+<span class="leydo-doc-num">650-2026</span>
+<span class="leydo-doc-date">17/09/2026</span>
+<span class="leydo-doc-title">Que declara de utilidad pública e interés social varias porciones de terrenos ubicadas en el municipio y provincia la vega, propiedad de diferentes personas,…</span>
+</a>
+<a class="leydo-doc" href="decreto-649-2026/">
+<span class="leydo-doc-num">649-2026</span>
+<span class="leydo-doc-date">17/09/2026</span>
+<span class="leydo-doc-title">Que autoriza al ayuntamiento del municipio miches, provincia el seibo, a vender al señor juan tomás hernández, una porción de terreno de 162.00 mt2, ubicada…</span>
+</a>
+<a class="leydo-doc" href="decreto-648-2026/">
+<span class="leydo-doc-num">648-2026</span>
+<span class="leydo-doc-date">27/09/2026</span>
+<span class="leydo-doc-title">Que autoriza a varios oficiales generales, superiores, subalternos y alistados de las fuerzas armadas, del ejército y de la fuerza aérea de la república…</span>
+</a>
+<a class="leydo-doc" href="decreto-647-2026/">
+<span class="leydo-doc-num">647-2026</span>
+<span class="leydo-doc-date">17/09/2026</span>
+<span class="leydo-doc-title">Que otorga exequátur a varios profesionales, para que puedan ejercer sus respectivas profesiones.</span>
+</a>
+<a class="leydo-doc" href="decreto-646-2026/">
+<span class="leydo-doc-num">646-2026</span>
+<span class="leydo-doc-date">17/09/2026</span>
+<span class="leydo-doc-title">Que modifica el numeral 1, del literal f), del artículo 1 del decreto núm. 320-26, relativo a lisandi artemio escalante paniagua, licenciada en contabilidad y…</span>
+</a>
+<a class="leydo-doc" href="decreto-645-2026/">
+<span class="leydo-doc-num">645-2026</span>
+<span class="leydo-doc-date">15/09/2026</span>
+<span class="leydo-doc-title">Firmado en la ciudad de santiago de los caballeros, que nombra al señor rodolfo ricardo corona rosa, ayudante civil honorífico del presidente de la república.</span>
+</a>
+<a class="leydo-doc" href="decreto-644-2026/">
+<span class="leydo-doc-num">644-2026</span>
+<span class="leydo-doc-date">15/09/2026</span>
+<span class="leydo-doc-title">Firmado en la ciudad de santiago de los caballeros, que designa al señor yoni roberto carpio, subdirector jurídico de la dirección general de embellecimiento…</span>
+</a>
+<a class="leydo-doc" href="decreto-643-2026/">
+<span class="leydo-doc-num">643-2026</span>
+<span class="leydo-doc-date">08/09/2026</span>
+<span class="leydo-doc-title">Firmado en la ciudad de santiago de los caballeros, que concede la condecoración de la orden del mérito de duarte, sánchez y mella en el grado de gran cruz…</span>
+</a>
 <a class="leydo-doc" href="decreto-642-2026/">
 <span class="leydo-doc-num">642-2026</span>
 <span class="leydo-doc-date">14/09/2026</span>

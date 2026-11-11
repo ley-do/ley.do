@@ -6,7 +6,7 @@ import unittest
 import fitz
 from pathlib import Path
 
-from scripts.generar_portadas_anuales_decretos import render_year
+from scripts.generar_portadas_anuales_decretos import render_year, render_hub
 from scripts.procesar_decretos_consultoria import generate_index
 
 
@@ -15,6 +15,15 @@ def make_pdf(text):
 
 
 class PortadasAnualesDecretosTests(unittest.TestCase):
+    def test_hub_ordena_anios_recientes_primero(self):
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td)
+            self.assertEqual(render_hub(root,{2016:394,2025:723,2026:752}),1869)
+            content=(root/'docs/decretos/index.md').read_text(encoding='utf-8')
+            self.assertLess(content.index('href="2026/"'),content.index('href="2025/"'))
+            self.assertLess(content.index('href="2025/"'),content.index('href="2016/"'))
+            self.assertIn('<strong>1869</strong> decretos',content)
+
     def test_orden_descendente_rutas_publicas_y_sin_inventario_legado(self):
         with tempfile.TemporaryDirectory() as td:
             repo = Path(td)

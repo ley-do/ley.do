@@ -5,7 +5,7 @@
 
 Elija un año. Cada año abre una lista única: un encapsulado por decreto.
 
-<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>6801</strong> decretos en LEY.DO</span></div>
+<div class="leydo-year-summary"><span class="leydo-year-chip"><strong>6981</strong> decretos en LEY.DO</span></div>
 </div>
 
 !!! warning "Aviso"
@@ -14,7 +14,7 @@ Elija un año. Cada año abre una lista única: un encapsulado por decreto.
 <div class="leydo-doclist">
 <a class="leydo-doc" href="2026/">
 <span class="leydo-doc-num">2026</span>
-<span class="leydo-doc-date">572</span>
+<span class="leydo-doc-date">752</span>
 <span class="leydo-doc-title">Ver decretos de 2026</span>
 </a>
 <a class="leydo-doc" href="2025/">

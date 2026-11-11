@@ -1,3 +1,4 @@
+import copy
 import hashlib
 import json
 import tempfile
@@ -68,6 +69,21 @@ class ReconciliarDecretosTests(unittest.TestCase):
         canonical=reconciled["documentos"]["decretos"][0]
         self.assertEqual(canonical["evidencia_discrepancia_formal"],evidence)
 
+
+    def test_corrige_identidad_fuente_solo_con_evidencia_pdf_explicita(self):
+        raw=record("687-29","3406449",year="2026")
+        evidence={"document_id_consultoria":"3406449","numero_registro_fuente":"687-29","numero_observado_pdf":"687-26","url_pdf_oficial":raw["url_documento_consultoria_descargar"],"sha256_pdf":"a"*64,"pagina_pdf":1,"estado_revision":"pendiente_revision"}
+        decisions={"schema_version":"1.0","anio":2026,"fecha_reconciliacion":"2026-11-10","identidades":{"687":{"canonico":"3406449","evidencia_numero_fuente":evidence,"alertas_revision":["La API indica 687-29, pero el PDF oficial identifica 687-26; pendiente de revisión humana."]}}}
+        result=reconcile({"documentos":{"decretos":[raw]}},2026,decisions)
+        canonical=result["documentos"]["decretos"][0]
+        self.assertEqual((canonical["numero"],canonical["numero_registro_fuente"],canonical["sha256_pdf"]),("687-26","687-29","a"*64))
+        self.assertEqual(result["registros_fuente"][0]["numero"],"687-29")
+        self.assertEqual(result["registros_fuente"][0]["rol_reconciliacion"],"canonico")
+        self.assertEqual(result["resumen"]["fuentes_contextuales"],0)
+        for field,bad in (("sha256_pdf","broken"),("numero_observado_pdf","687-29"),("url_pdf_oficial","https://example.com/pdf")):
+            invalid=copy.deepcopy(decisions); invalid["identidades"]["687"]["evidencia_numero_fuente"][field]=bad
+            with self.subTest(field=field),self.assertRaises(ValueError):
+                reconcile({"documentos":{"decretos":[raw]}},2026,invalid)
 
     def test_rechaza_schema_de_decisiones_incompatible(self):
         inventory={"documentos":{"decretos":[record("4-18","a")]}}

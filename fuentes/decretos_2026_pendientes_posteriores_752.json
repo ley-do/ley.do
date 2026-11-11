@@ -1,0 +1,35 @@
+{
+  "tipo_contraste": "decretos_posteriores_al_inventario_2026_consultoria",
+  "fecha_consulta": "2026-11-10",
+  "alcance": "Contraste puntual con páginas y PDFs oficiales de Presidencia. No constituye inventario exhaustivo de decretos posteriores al 752-26 ni paquetes publicados por LEY.DO.",
+  "ultimo_numero_canonico_consultoria": "752-26",
+  "documentos_detectados_pendientes_normalizacion": [
+    {
+      "numero_observado_pdf": "775-26",
+      "institucion_fuente": "Presidencia de la República Dominicana",
+      "url_fuente_oficial": "https://presidencia.gob.do/decretos/775-26",
+      "url_pdf_original": "https://presidencia.gob.do/sites/default/files/decree/2026-10/Decreto%20775-26.pdf",
+      "sha256_pdf_original_verificado": "7fc02ebaebeff86937c6f40bc6686af4095e2c8e45e4ac57b333aa7b29e12228",
+      "fecha_observada_pdf": "29/10/2026",
+      "estado_publicacion_leydo": "descubierto",
+      "estado_revision": "pendiente_revision",
+      "notas": "PDF oficial de una página descargado y verificado; el texto tiene errores de OCR y requiere normalización y auditoría antes de publicar el paquete."
+    },
+    {
+      "numero_observado_pdf": "787-26",
+      "institucion_fuente": "Presidencia de la República Dominicana",
+      "url_fuente_oficial": "https://presidencia.gob.do/decretos/787-26",
+      "url_pdf_original": "https://presidencia.gob.do/sites/default/files/decree/2026-11/Codigo%20de%20Etica.pdf",
+      "sha256_pdf_original_verificado": "0c9f058f4c3caee7c91f22a77cefb8e8be63135d7fc9bbbc19b0cd9430b02208",
+      "fecha_observada_pdf": "",
+      "estado_publicacion_leydo": "descubierto",
+      "estado_revision": "pendiente_revision",
+      "notas": "PDF oficial de 62 páginas descargado y verificado; la fecha DADO en la capa de texto está degradada. No se infiere la fecha del documento desde la noticia."
+    }
+  ],
+  "incertidumbres": [
+    "El endpoint oficial de Consultoría consultado el 2026-11-10 no devolvió registros posteriores al 752-26.",
+    "Las páginas de Presidencia aquí citadas no prueban cobertura exhaustiva del tramo posterior al 752-26.",
+    "No se crean páginas canónicas ni se inventan registros intermedios sin PDF oficial verificable."
+  ]
+}

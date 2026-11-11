@@ -173,11 +173,46 @@ def reconcile(inventory, year, decisions, inventory_name=None):
     if contradictory_ids:
         raise ValueError(f"Clasificación contradictoria para IDs: {sorted(contradictory_ids)}")
 
+    # La corrección de un número mal indexado requiere evidencia PDF explícita.
+    overrides = {}
+    for identity, decision in identity_decisions.items():
+        evidence = decision.get("evidencia_numero_fuente")
+        if evidence is None:
+            continue
+        if not isinstance(evidence, dict) or not str(identity).isdigit():
+            raise ValueError(f"Evidencia de número fuente inválida para {identity}")
+        number = int(identity)
+        document_id = str(decision.get("canonico") or "").strip()
+        source = next((row for row in rows if str(row["document_id_consultoria"]) == document_id), None)
+        expected = {
+            "document_id_consultoria": document_id,
+            "numero_registro_fuente": source.get("numero") if source else None,
+            "numero_observado_pdf": f"{number}-{str(year)[-2:]}",
+            "url_pdf_oficial": source.get("url_documento_consultoria_descargar") if source else None,
+            "estado_revision": "pendiente_revision",
+        }
+        if not document_id or source is None or any(evidence.get(key) != value for key, value in expected.items()):
+            raise ValueError(f"Evidencia de número fuente inválida para {identity}: ID, número, URL o estado")
+        parsed = _parse_number(source["numero"])
+        if parsed is None or parsed[0] != number or parsed[1] == year:
+            raise ValueError(f"Evidencia de número fuente innecesaria o contradictoria para {identity}")
+        if not _SHA256_RE.fullmatch(str(evidence.get("sha256_pdf") or "")):
+            raise ValueError(f"Evidencia de número fuente sin SHA256 válido para {identity}")
+        page = evidence.get("pagina_pdf")
+        if not isinstance(page, int) or isinstance(page, bool) or page < 1:
+            raise ValueError(f"Evidencia de número fuente sin página válida para {identity}")
+        if not decision.get("alertas_revision") or document_id in overrides:
+            raise ValueError(f"Evidencia de número fuente sin alerta o ID duplicado para {identity}")
+        overrides[document_id] = (number, evidence)
+
     groups = defaultdict(list)
     outside = []
     for row in rows:
+        document_id = str(row["document_id_consultoria"])
         parsed = _parse_number(row.get("numero"))
-        if parsed and parsed[1] == year:
+        if document_id in overrides:
+            groups[overrides[document_id][0]].append(row)
+        elif parsed and parsed[1] == year:
             groups[parsed[0]].append(row)
         else:
             outside.append((row, parsed))
@@ -215,11 +250,15 @@ def reconcile(inventory, year, decisions, inventory_name=None):
             raise ValueError(f"Registros duplicados sin clasificar para identidad {number}: {sorted(unresolved)}")
 
         canonical = copy.deepcopy(group_by_id[canonical_id])
+        if canonical_id in overrides:
+            canonical["numero"] = f"{number}-{str(year)[-2:]}"
+            canonical["evidencia_numero_fuente"] = copy.deepcopy(overrides[canonical_id][1])
+            canonical["sha256_pdf"] = overrides[canonical_id][1]["sha256_pdf"]
         canonical.update({
             "inventario_origen": source_name,
             "identidad_documental_numero": number,
             "rol_reconciliacion": "canonico",
-            "numero_registro_fuente": canonical.get("numero", ""),
+            "numero_registro_fuente": group_by_id[canonical_id].get("numero", ""),
             "anio_metadata_fuente": str(canonical.get("anio", "")),
         })
         formal_evidence = _validate_formal_discrepancy_evidence(year, number, canonical_id, canonical, decision.get("evidencia_discrepancia_formal"))

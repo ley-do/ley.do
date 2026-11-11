@@ -216,7 +216,7 @@ def render_year(repo: Path, year: int, validated_packages: dict[int, dict], sour
 
 def render_hub(repo: Path, year_counts: dict[int, int]) -> int:
     """Escribe el índice general desde conteos explícitos ya revisados."""
-    rows = sorted((int(year), int(count)) for year, count in year_counts.items())
+    rows = sorted(((int(year), int(count)) for year, count in year_counts.items()), reverse=True)
     total = sum(count for _, count in rows)
     lines = [
         "# Decretos",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "anio": 2026,
-  "fecha_reconciliacion": "2026-10-07",
+  "fecha_reconciliacion": "2026-11-10",
   "identidades": {
     "239": {
       "canonico": "3404658",
@@ -43,6 +43,22 @@
           "paginas": 1
         }
       ]
+    },
+    "687": {
+      "canonico": "3406449",
+      "evidencia_numero_fuente": {
+        "document_id_consultoria": "3406449",
+        "numero_registro_fuente": "687-29",
+        "numero_observado_pdf": "687-26",
+        "url_pdf_oficial": "https://www.consultoria.gov.do/api/document/3406449",
+        "sha256_pdf": "57bd9cb25f1f00f9495e4ba4dd02d14ac3044e907efff477eba2a4454e3e7781",
+        "pagina_pdf": 1,
+        "estado_revision": "pendiente_revision"
+      },
+      "alertas_revision": [
+        "La API oficial registra 687-29, pero el PDF oficial (ID 3406449, SHA256 documentado) identifica Dec. núm. 687-26 y NÚMERO: 687-26 en la página 1. Se conserva la metadata original y se requiere revisión humana."
+      ],
+      "observacion_reconciliacion": "Identidad 687-26 derivada del PDF oficial verificado, no del sufijo discordante de la API."
     }
   },
   "fuentes_contextuales": {}
